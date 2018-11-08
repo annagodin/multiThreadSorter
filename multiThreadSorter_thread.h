@@ -1,11 +1,11 @@
 #ifndef MULTITHREADSORTER_THREAD
 #define MULTITHREADSORTER_THREAD
-
+ //hey
 
 typedef struct CSVrecord {
   char* sortVal;
   char** data;
-  int numCols;
+  //int numCols;
   struct CSVrecord *next;
 } CSVrecord;
 
@@ -19,7 +19,7 @@ typedef struct hNode{
 //stuff for forking
 void dirwalk(char *dir,char *out, char *colToSort, FILE *fp);
 int endsWith (char *str, char *end);
-int numProc(char *dir);
+//int numProc(char *dir);
 
 
 //in scannerCSVsorter.c

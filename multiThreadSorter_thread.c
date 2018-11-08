@@ -8,15 +8,31 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include "multiThreadSorter_thread.h"
 #include <errno.h>
 #include <limits.h>
+#include <pthread.h>
+#include "multiThreadSorter_thread.h"
 
-//-c blah -d boo -o haii
+
+/**** compile with gcc -pthread -o sorter sorter.c *****/
+
+//pthread_mutex_t lockDIR;
+
+//volatile int runningThreadCount = 0; // Number of threads running volatile int totalThreadCount = 0;  
+CSVrecord * masterList = NULL;
+int masterHasOut = 0;
+int masterHasDir = 0;
+char* currDir;
+char* outputDir;
 
 
-int numProcesses=0;
-//pidNode *pidHead = NULL;
+char masterHeaders[28][70] = {"color","director_name","num_critic_for_reviews",
+"duration","director_facebook_likes","actor_3_facebook_likes","actor_2_name",
+"actor_1_facebook_likes","gross","genres","actor_1_name","movie_title",
+"num_voted_users","cast_total_facebook_likes","actor_3_name",
+"facenumber_in_poster","plot_keywords","movie_imdb_link","num_user_for_reviews",
+"language","country","content_rating","budget","title_year","actor_2_facebook_likes",
+"imdb_score","aspect_ratio","movie_facebook_likes"};
 
 
 int isSubstr(char *inpText, char *pattern) {
@@ -50,8 +66,6 @@ int isSubstr(char *inpText, char *pattern) {
 }
 
 
-
-
 void freeLL(CSVrecord *frontRec){
 	CSVrecord *curr = NULL;
 	while ((curr=frontRec)!=NULL){
@@ -75,13 +89,7 @@ int stringToInt (char* str){
 char* stripNewLineChar (char* token,int tokLen){
 	token[tokLen-1]='\0';
 	return token;
-	/*char* replace = (char*)malloc((tokLen-1)*sizeof(char));
-	int i;
-	for (i=0; i<tokLen-1; i++){
-		replace[i]=token[i];
-	}
-
-	return replace;*/
+	
 }
 
 //strips last character
@@ -93,7 +101,6 @@ char* stripLastChar (char* token){
 	}	
 	//free(token);
 	return replace;
-
 	
 }
 
@@ -145,6 +152,32 @@ char* trimWhiteSpace(char* token){
     return trimmed;
 }
 
+//returns name of header column at specified position
+char* getColName(hNode*head, int pos){
+	
+    int f = 0;
+	hNode *ptr = head;
+	while (ptr!=NULL){
+		if(f==pos){
+			return ptr->data;
+		}
+		ptr=ptr->next;
+		f++;
+
+	}	
+}
+
+int getMasterIndex(char* headerAtIndex){
+	int i;
+	for(i=0;i<28;i++){
+		//printf("masterHeaders[%d]: %s\n",i, masterHeaders[i]);
+		if(strcmp(masterHeaders[i],headerAtIndex)==0){ //found master location
+			return i;
+		}
+	}
+	return -1;
+}
+
 //adds record node to end;
 void addRecToEnd(CSVrecord** head, CSVrecord *node){
 	CSVrecord *last = *head;
@@ -175,15 +208,14 @@ void addhNodeToEnd(hNode** head, hNode *node){
     return;
 }
 
-
 //prints one Record Node
 void printRecNode(CSVrecord *rec){
 	printf("Record contents:\n");
 	int i;
 	printf("sortVal:\t%s\n",rec->sortVal);
-	printf("numCols:\t%d\n",rec->numCols);
+	//printf("numCols:\t%d\n",rec->numCols);
 	printf("data values:\t");
-	for(i=0;i<rec->numCols; i++){
+	for(i=0;i<28; i++){
 			printf("'%s'\t",rec->data[i]);
 	}
 	printf("\n");
@@ -206,14 +238,14 @@ void printCSV (CSVrecord *frontRec){
 	//ptr=ptr->next;
 	while(ptr!=NULL){
 		int i;
-		for(i=0;i<ptr->numCols; i++){		
+		for(i=0;i<28; i++){		
 			if(ptr->data[i]==NULL){
 				printf("");
 			}else {
 				printf("%s",ptr->data[i]);
 			}
 			
-			if(i<ptr->numCols-1){
+			if(i<27){
 				printf(",");
 			}
 		}
@@ -229,14 +261,14 @@ void writeCSV (CSVrecord *frontRec, FILE *sorted){
 	//ptr=ptr->next;
 	while(ptr!=NULL){
 		int i;
-		for(i=0;i<ptr->numCols; i++){		
+		for(i=0;i<28; i++){		
 			if(ptr->data[i]==NULL){
 				fprintf(sorted,"");
 			}else {
 				fprintf(sorted,"%s",ptr->data[i]);
 			}
 			
-			if(i<ptr->numCols-1){
+			if(i<27){
 				fprintf(sorted,",");
 			}
 		}
@@ -249,8 +281,7 @@ void writeCSV (CSVrecord *frontRec, FILE *sorted){
 //sort function that takes in a file, col to sort, filename, and outputDir
 //writes to a new file
 void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
-	// printf("coltosort: [%s]\n",colToSort);
-	//printf("output dirrrrrrrr [%s]\n",outputDir);
+	
 
 	//if the specified output directory does not have a slash at the end - add one
 	if (strcmp(outputDir,"")!=0&&outputDir[strlen(outputDir)-1]!='/'){
@@ -262,9 +293,6 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 	}
 	
 
-	//printf("\t\t\t\t\tfile is [%s]\n",fileName);
-
-
 	int sortPos=-1;
 	char* str;
 	str = (char*)malloc(sizeof(char)*1200); //string buffer
@@ -275,8 +303,6 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 	//get headers
 	fgets(str, 1200, file);
 
-	
-	
    	char* rest = (char*)malloc(sizeof(char)*1000);
    	strcpy(rest,str);
    	
@@ -284,7 +310,6 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
    	//printf("'%s'\n",rest);
    	hNode *headersFront = NULL;
    	int count = 0;
-   //	printf("hey3\n");
 
    	//tokenizes the headers
    	while ((token = strsep(&rest, ",")) != NULL){
@@ -307,11 +332,16 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
         	
         	count++;
        }
-
-
-
- 		//sets the number of columns
+		//sets the number of columns
    		int numCols = count;
+
+   		//strips the weird character from the last entry and shiiit
+  //  		int f =0;
+		// hNode *ptr1 = headersFront;
+  //  		while (ptr1->next!=NULL){
+	 //   		ptr1=ptr1->next;
+	 //   	}
+	 //   	ptr1->data[strlen(ptr1->data)-1] = '\0'; 
 
  
 //------------------------test headers
@@ -329,8 +359,7 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 //---------------------test headers
 
 
-      	//printf("\tjwejejejjet\t32329238\theyyy22yyyy11111\n");
-		//printf("\t\t\t\t----------[%s]\n",fileName);
+      	
        if(sortPos==-1){
        		fprintf(stderr, "ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
        		//printf("ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
@@ -338,13 +367,6 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
        }
 
 
-
-  
-   
-   
-
-
-   //printf("cp1\n");
 
    //pointer to the front of LL
    CSVrecord * frontRec = NULL;
@@ -355,7 +377,7 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 		//printf("hey5\n");
 		CSVrecord *record = malloc(sizeof(CSVrecord));
 		record->next=NULL;
-		record->data=malloc(numCols*sizeof(char*)); 
+		record->data=malloc(28*sizeof(char*)); 
 		
 		count=0;
 
@@ -363,11 +385,10 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 
 		char* parseStr = (char*)malloc((strlen(str)+1)*sizeof(char)+1);
 		strcpy(parseStr,str);
-		parseStr[strlen(parseStr)-2]='\0'; //strips newline and stuff
+		parseStr[strlen(parseStr)-1]='\0'; //strips newline and stuff
 			//printf("some testing shit\n");
 			int index = 0;
 			while ((token = strsep(&parseStr, ",")) != NULL) {
-				//printf("hey6\n");
 				if (token[strlen(token)-1] == '\n'){ 
 					token=stripNewLineChar(token,strlen(token));
 				} 			
@@ -398,16 +419,11 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 		   			token = append;		   				   				   					   					   			
 		    	} //END QUOTE CASE
 		    	
-		    	//printf("TOKEN: %s\n",token);
-		    	
-
 		    	//empty field
 		    	if (strcmp(token,"")==0){		    		
 		    		token = NULL;
 		    	}		    					
 				
-
-
 				//*****TOKEN LOADED INTO A STRUCT
 				if(index==sortPos){
 					
@@ -420,33 +436,44 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 						
 					}
 				}
-				
+
+
+//TESTING ASST2 HERE		
+
+				char* headerAtIndexTemp = getColName(headersFront, index);
+				char* headerAtIndex = (char*)malloc(strlen(headerAtIndexTemp)*sizeof(char)+1);
+				strcpy(headerAtIndex,headerAtIndexTemp);
+				//printf("headerAtIndex %d:\t'%s'\n", index, headerAtIndex);
+
+				int masterIndex = getMasterIndex(headerAtIndex);
+				if (masterIndex==-1){
+					fprintf(stderr, "the column at position [%s] is NOT in the master headers list, cannot sort file\n", index);
+					return;
+				}
+				//printf("token:\t'%s'\n", token);
+				//printf("master index:\t%d\n\n", masterIndex);		
+
 				if(token!=NULL){
+					//print header at specified index
 					
-					record->data[index] = malloc((strlen(token)+1)*sizeof(char));
-					strcpy(record->data[index], token);
+					record->data[masterIndex] = malloc((strlen(token)+1)*sizeof(char));
+					strcpy(record->data[masterIndex], token);
 					
 				} else {
-					record->data[index]=NULL;
+					record->data[masterIndex]=NULL;
 					
 				}				
 				index++;		
 
-				
-				
-
-				
-
 		  	 } //END LINE (RECORD)
-			
-
-
-			record->numCols=numCols;
+		
+			//record->numCols=numCols;
 
 			if(index!=numCols){
 				fprintf(stderr,"ERROR: [%s] invalid CSV!\n",fileName);
 				return;
-			}		
+			}
+
 			//printRecNode(record);
 
 			//ADD RECORD TO LL HERE		
@@ -458,34 +485,30 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 	
 
 
+//----------------------------testing printing all records----------------------------	
 
+	int k;
+	for(k=0;k<28;k++){
+		
+		if(k==27){
+			printf("%s\n",masterHeaders[k]);
+		}
+		else
+			printf("%s,",masterHeaders[k]);
+	}
 
-//-------------------------testing printing all records
-	// int f =0;
-	// hNode *ptr1 = headersFront;
- //   	while (ptr1!=NULL){
- //   		printf("%s",ptr1->data);
- //   		ptr1=ptr1->next;
- //   		if(f<numCols-1){
- //   			printf(",");
- //   		}
- //   		f++;
- //   	}
- //   	printf("\n");	
-
-	// printAllRecords(frontRec);
-	// printf("\n\n\n");	
-//-------------------------testing
-
-	
-
+	printCSV(frontRec);
+	printf("\n\n\n");	
+//------------------------------------------testing----------------------------------
 
 	//sorts the damn LL
 	mergesort(&frontRec);
 
+	//ADDS TO MASTER LIST, MUST BE LOCKED
+	masterList =  SortedMerge(masterList, frontRec);
 
-	//printf("\tfilename: %s\n",fileName);
-
+	//testing printing
+	printAllRecords(masterList);
 
 	//length of the name of the sorted file
 	int lengthSorted = strlen(outputDir)+strlen(fileName)+strlen(colToSort)+11;
@@ -524,7 +547,7 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
    	while (ptr!=NULL){
    		fprintf(sorted,"%s",ptr->data);
    		ptr=ptr->next;
-   		if(c<numCols-1){
+   		if(c<27){
    			fprintf(sorted,",");
    		}
    		c++;
@@ -533,9 +556,7 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 
 	writeCSV(frontRec,sorted);
 
-	//printf("sorted: %d\n",sorted);
-	
-	
+
 	free(rest);
 	free(str);
 	free(token);
@@ -545,8 +566,6 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 	// freeLL(frontRec);
 	free(frontRec);
 	
-
-
 }
 
 //checks if a file ends with a certain string
@@ -558,15 +577,6 @@ int endsWith (char *str, char *end) {
         return 0;
     return (strcmp (&(str[slen-elen]), end) == 0);
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -590,19 +600,18 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
 
     chdir(dir);
 
-    
-    //printf("Starting dir:\t[%s]\n", dir);
 	
     while((entry = readdir(dp)) != NULL){
     	//printf("ha3\n");
         lstat(entry->d_name,&statbuf);
         if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY
+        	
+        	//pthread_t threadDir;
+            
             //Found a directory , but ignore . and .. 
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
                 continue;
 
-            //**printf("Found directory\t[%s]\tdir\t[%s]\n",entry->d_name,dir);
-           // printf("%s/\n",entry->d_name); //FORK HERE AND RECURSE
             pid1=fork();
             if(pid1==0){ //child
                 //recurse here
@@ -610,78 +619,62 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
                 dirwalk(entry->d_name,out,colToSort,fp);
                 exit(0);
             } else { //parent
-                //fprintf(stdout,"%d,",getpid());
-               
-                //printf("PID1:\t\t\t%d\n",pid1);
+                
                 
                 fprintf(fp, "%d\n", pid1);
                 fflush(fp); 
                	
-               	
-                //waitpid(pid1, &status1, WUNTRACED);
-              
             }
 
-           //printf("hai3\n");
+          
             
         }
-        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, FORK TO SORT FILE
-            //printf("ha433\n");
-            //printf("its a csvvvvvv\n");
-            //if (endsWith(entry->d_name, ".csv")){
-            	
-                //**printf("found a csv\t[%s]\tdir\t[%s]\n",entry->d_name, dir);
-                
-
-                if(isSubstr(entry->d_name, "1234proc.txt")!=-1){
-                	continue;
-                }
-
-                //printf("%s \n",entry->d_name); 
-                pid2=fork();
-                if(pid2==0){ //child
-                    
-                    //check for csv
-            		if (!endsWith(entry->d_name, ".csv")){
-            			fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
-            			exit(1);
-            		}
-
-					if(isSubstr(entry->d_name, "-sorted-")!=-1){
-                		//printf("\t\t\tBRUHHHHH ITS SORTEDDDD\n");
-                		fprintf(stderr, "ERROR: [%s] is already sorted\n",entry->d_name);
-                		exit(1);
-                		//**printf("the csv\t[%s]\tdir\t[%s] has the word 'sorted', dont touch\n",entry->d_name, dir);
-                		
-                	}
-                    FILE *file = fopen(entry->d_name, "r");
-                    if (file==0){
-                        fprintf(stderr,"ERROR: %s\n", strerror(errno));
-                        exit(1);
-                    }
-                    
-                    sort(file, colToSort, entry->d_name, out);
-                    exit(0);
-
-                } else { //parent
-					//fprintf(stdout,"%d,",getpid());                   
-                    //printf("PID2:\t\t\t%d\n",pid2);
-                  	//printf("\n");
-                    fprintf(fp, "%d\n", pid2);
-                    fflush(fp); 
-                   	
-                   
-                    waitpid(pid2, &status2, WUNTRACED);
-                   
-                 }
+        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE
             
-            //}
-             
+            //pthread_t threadFile;
 
+            if(isSubstr(entry->d_name, "1234proc.txt")!=-1){
+            	continue;
+            }
+
+            pid2=fork();
+            if(pid2==0){ //child
+                
+                //check for csv
+        		if (!endsWith(entry->d_name, ".csv")){
+        			fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
+        			exit(1);
+        		}
+
+				if(isSubstr(entry->d_name, "-sorted-")!=-1){
+            		//printf("\t\t\tBRUHHHHH ITS SORTEDDDD\n");
+            		fprintf(stderr, "ERROR: [%s] is already sorted\n",entry->d_name);
+            		exit(1);
+            		//**printf("the csv\t[%s]\tdir\t[%s] has the word 'sorted', dont touch\n",entry->d_name, dir);
+            		
+            	}
+                FILE *file = fopen(entry->d_name, "r");
+                if (file==0){
+                    fprintf(stderr,"ERROR: %s\n", strerror(errno));
+                    exit(1);
+                }
+                
+                sort(file, colToSort, entry->d_name, out);
+                exit(0);
+
+            } else { //parent
+				
+                fprintf(fp, "%d\n", pid2);
+                fflush(fp); 
+               	
+                waitpid(pid2, &status2, WUNTRACED);
+               
+             }
+            
+       
         }
 
     }
-
 
      	chdir("..");
    		closedir(dp);
@@ -689,78 +682,19 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
    		wait(NULL);
 }
 
-
-
-
-//counts the number of processes that this directory search will require
-int numProc(char *dir){
-    int numP=0;
-    DIR *dp;
-    char str[80]; 
-    char name[80]; 
-    struct dirent *entry;
-    struct stat statbuf;
-
-    if((dp = opendir(dir)) == NULL) {
-        fprintf(stderr,"Error: cannot open directory: %s\n",dir);
-        exit(EXIT_FAILURE);
-    }
-
-    chdir(dir);
-
-    while((entry = readdir(dp)) != NULL){
-        lstat(entry->d_name,&statbuf);
-        if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY
-            /* Found a directory , but ignore . and .. */
-            if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
-                continue;
-            numP++;
-            //printf("nump bc found directory, [%s]:\t%d\n",entry->d_name,numP);
-            //printf("Found directory\t[%s]\tdir\t[%s]\tnumP:\t[%d]\n",entry->d_name,dir,numP);
-           
-            /*funtion is called recursively at a new indent level */
-            numP += numProc(entry->d_name);
-            //printf("nump after recursing %s:\t%d\n",entry->d_name,numP);
-        }
-        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, FORK TO SORT FILE
-            //if (endsWith (entry->d_name, ".csv")){
-                
-                // if(isSubstr(entry->d_name, "-sorted-")!=-1){
-                // 	//**printf("the csv\t[%s]\tdir\t[%s] has the word 'sorted', dont touch\n",entry->d_name, dir);
-                // 	continue;
-                // }
-
-                numP++;
-                //printf("found a csv, [%s] in dir [%s] nump:\t%d\n",entry->d_name, dir,numP);
-           		//printf("found a csv\t[%s]\tdir\t[%s]\tnumP:\t[%d]\n",entry->d_name, dir,numP);
-                
-
-           // }  
-        }
-    }
-
-        chdir("..");
-        closedir(dp);
-        return numP;
+//TODO!!!!!!!!!!
+void writeToFile(masterList){
+	if(masterHasOut==1){
+		//get the path for the output directory
+		printf("output dir is: [%s]\n", outputDir);
+	} else {
+		//output to cwd
+		printf("output dir is [%s]\n", currDir);
+	}
 }
 
 
-
-
-
-
-
 //END FORKING STUFF-------------------------------------
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -772,15 +706,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	char* searchDir;
 	char* outputDir;
 	char* colToSort;
-	// argv[1] //"-c"
-	// argv[2] //-c val
-	// argv[3] //"-d"
-	// argv[4] //-d val
-	// argv[5] //"-o"
-	// argv[6] //-o val
 
-	//if no -d, only search current directory
-	//if no -o, output to current directory
 	if(argc<3){
 		fprintf(stderr,"Error, not enough arguments!\n");
 		exit(EXIT_FAILURE);
@@ -894,12 +820,10 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		exit(EXIT_FAILURE);
 	}
 	
-
-
-
 	printf("colToSort:\t%s\n",colToSort);
-	
+	printf("hasC %d, hasD %d, hasO %d\n",hasCol,hasDir,hasOut);
 	if(hasDir){
+		masterHasDir=1;
 		DIR *dp;
 		if((dp = opendir(searchDir)) == NULL) {
 	        fprintf(stderr,"Error: cannot open directory: [%s]\n",searchDir);
@@ -909,6 +833,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	}
 
 	if(hasOut){
+		masterHasOut=1;
 		DIR *dp;
 		if((dp = opendir(outputDir)) == NULL) {
 	        fprintf(stderr,"Error: cannot open directory: [%s]\n",outputDir);
@@ -919,20 +844,21 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 //	return 0;
 
-
-
-
 	
 // //---------------------testing sort	
-// 	FILE *file = fopen("movie_metadata.csv", "r");
-// 	if (file==0){
-// 		printf("ERROR: %s\n", strerror(errno));
-// 		exit(EXIT_FAILURE);
-// 	}	
+	FILE *file = fopen("smalldata.csv", "r");
+	if (file==0){
+		printf("ERROR: %s\n", strerror(errno));
+		exit(EXIT_FAILURE);
+	}	
 
+	int i;
+	for(i=0;i<28;i++){
+		printf("masterHeaders[%d]: '%s'\n",i, masterHeaders[i]);
+	}
 
-// 	 sort(file, colToSort, "movie_metadata.csv", "");
-// 	 return 0;
+	 sort(file, colToSort, "smalldata.csv", "");
+	 //return 0;
 //---------------------end testing sort
 
 	// printf("DONE SORT TEST\n");
@@ -944,18 +870,10 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	char cwd[256];
     if (getcwd(cwd, sizeof(cwd)) == NULL)
     	perror("getcwd() error");
-  	char* currDir = (char*)malloc(strlen(cwd)*sizeof(char)+1);
+  	currDir = (char*)malloc(strlen(cwd)*sizeof(char)+1);
   	strcpy(currDir,cwd);
 	
-  	int numP;
-	if(hasDir==0){
-		numP = numProc(currDir);
-	} else
-		numP=numProc(searchDir);
-
-
-	//printf("numProc is \t%d\n\n\n",numP);
-
+  	
 
 	char * fname = (char*)malloc(strlen(currDir)+14);
 	strcpy(fname, currDir);
@@ -967,7 +885,11 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	//fclose(pidRec);
 
 	//printf("fname is %s\n", fname);
-	//printf("currdir %s\n",currDir);
+
+	printf("currdir %s\n",currDir);
+	writeToFile(masterList);
+	return 0;
+
 	char *outputFull;
 	if(hasOut){
 		if(outputDir[0]=='/'){
@@ -976,28 +898,23 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 			strcpy(outputFull,outputDir);
 		}
 		else {
-			printf("relative file name\n");
+			//printf("relative file name\n");
 			outputFull = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
 			strcpy(outputFull,currDir);
 			strcat(outputFull,"/");
 			strcat(outputFull, outputDir);
-			printf("\t\t\t\toutput full %s\n\n",outputFull);
+			//printf("\t\t\t\toutput full %s\n\n",outputFull);
 		}
 	}	
 
-	// char* outputFull;
-	// realpath(outputDir,outputFull);
-	// printf("fullpath: [%s]\n",outputFull);
-	
-
 	if(hasDir == 1 && hasOut == 0) { //-d 
-		dirwalk(searchDir, "", colToSort, pidRec);
+		dirwalk(searchDir, currDir, colToSort, pidRec);
 	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
 		dirwalk(searchDir, outputFull, colToSort, pidRec);
 	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
 		dirwalk(cwd, outputFull, colToSort, pidRec);
 	} else { //neither 
-		dirwalk(cwd, "", colToSort, pidRec);
+		dirwalk(cwd, currDir, colToSort, pidRec);
 	}
 	fclose(pidRec);
 
