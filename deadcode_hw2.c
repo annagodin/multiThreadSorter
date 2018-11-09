@@ -76,3 +76,52 @@
    		}
    		//printf("outputDir:\t%s\n",outputDir);	
 	}
+
+
+
+	//THIS IS NOT USED
+//counts the number of processes that this directory search will require
+int numProc(char *dir){
+    int numP=0;
+    DIR *dp;
+    char str[80]; 
+    char name[80]; 
+    struct dirent *entry;
+    struct stat statbuf;
+
+    if((dp = opendir(dir)) == NULL) {
+        fprintf(stderr,"Error: cannot open directory: %s\n",dir);
+        exit(EXIT_FAILURE);
+    }
+
+    chdir(dir);
+
+    while((entry = readdir(dp)) != NULL){
+        lstat(entry->d_name,&statbuf);
+        if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY
+            /* Found a directory , but ignore . and .. */
+            if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
+                continue;
+            numP++;
+           /*funtion is called recursively at a new indent level */
+            numP += numProc(entry->d_name);
+            //printf("nump after recursing %s:\t%d\n",entry->d_name,numP);
+        }
+        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, FORK TO SORT FILE
+            
+                numP++;
+                
+        }
+    }
+
+        chdir("..");
+        closedir(dp);
+        return numP;
+}
+
+
+int numP;
+	if(hasDir==0){
+		numP = numProc(currDir);
+	} else
+		numP=numProc(searchDir);
