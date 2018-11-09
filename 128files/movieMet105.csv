@@ -1,597 +1,239 @@
-duration,actor_2_name,genres,actor_1_name,movie_title,num_voted_users,actor_3_name,movie_imdb_link,language,country,content_rating,budget,title_year,aspect_ratio
-108,Jim Broadbent,Comedy|Drama|Romance,Colin Firth,Bridget Jones: The Edge of Reason ,74315,Celia Imrie,http://www.imdb.com/title/tt0317198/?ref_=fn_tt_tt_1,English,UK,R,40000000,2004,2.35
-114,Sanaa Lathan,Crime|Drama|Romance|Thriller,Denzel Washington,Out of Time ,45895,John Billingsley,http://www.imdb.com/title/tt0313443/?ref_=fn_tt_tt_1,English,USA,R,50000000,2003,2.35
-101,Joan Chen,Action|Adventure|Thriller,Mike Starr,On Deadly Ground ,17997,Sven-Ole Thorsen,http://www.imdb.com/title/tt0110725/?ref_=fn_tt_tt_1,English,USA,R,50000000,1994,2.35
-93,Kristin Davis,Action|Adventure|Family|Fantasy,Taylor Lautner,The Adventures of Sharkboy and Lavagirl 3-D ,20310,Taylor Dooley,http://www.imdb.com/title/tt0424774/?ref_=fn_tt_tt_1,English,USA,PG,50000000,2005,1.85
-119,Virginie Ledoyen,Adventure|Drama|Thriller,Leonardo DiCaprio,The Beach ,176169,Peter Youngblood Hills,http://www.imdb.com/title/tt0163978/?ref_=fn_tt_tt_1,English,USA,R,50000000,2000,2.35
-119,Felicity Huffman,Comedy|Drama|Romance,Amber Valletta,Raising Helen ,30890,Spencer Breslin,http://www.imdb.com/title/tt0350028/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2004,1.85
-99,Ben Miles,Action|Crime|Thriller,Shô Kosugi,Ninja Assassin ,58349,Rain,http://www.imdb.com/title/tt1186367/?ref_=fn_tt_tt_1,English,USA,R,40000000,2009,2.35
-137,Kelly Preston,Drama|Romance|Sport,J.K. Simmons,For Love of the Game ,26034,Carmine Giovinazzo,http://www.imdb.com/title/tt0126916/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,1999,2.35
-105,Bruce Alexander,Crime|Drama|Mystery,David Jason,A Touch of Frost             ,4438,John Lyons,http://www.imdb.com/title/tt0108967/?ref_=fn_tt_tt_1,English,UK,,,,1.33
-117,Rumer Willis,Comedy|Crime|Drama|Thriller,Demi Moore,Striptease ,34896,Paul Guilfoyle,http://www.imdb.com/title/tt0117765/?ref_=fn_tt_tt_1,English,USA,R,40000000,1996,1.85
-87,Judy Greer,Comedy|Family,Emma Stone,Marmaduke ,11257,Steve Coogan,http://www.imdb.com/title/tt1392197/?ref_=fn_tt_tt_1,English,USA,PG,50000000,2010,2.35
-129,Jay Mohr,Drama|Fantasy,Matt Damon,Hereafter ,80140,Cécile De France,http://www.imdb.com/title/tt1212419/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2010,2.35
-115,Chris Penn,Crime|Mystery|Thriller,Ryan Gosling,Murder by Numbers ,43574,Agnes Bruckner,http://www.imdb.com/title/tt0264935/?ref_=fn_tt_tt_1,English,USA,R,50000000,2002,1.85
-132,Sylvester Stallone,Action|Crime|Thriller,Muse Watson,Assassins ,62981,Kelly Rowan,http://www.imdb.com/title/tt0112401/?ref_=fn_tt_tt_1,English,France,R,50000000,1995,1.85
-131,Stephen Walters,Crime|Drama|Thriller,Li Gong,Hannibal Rising ,86374,Richard Brake,http://www.imdb.com/title/tt0367959/?ref_=fn_tt_tt_1,English,UK,R,50000000,2007,2.35
-95,Tim Matheson,Comedy|Drama|Romance,Bruce Willis,The Story of Us ,18404,Rita Wilson,http://www.imdb.com/title/tt0160916/?ref_=fn_tt_tt_1,English,USA,R,50000000,1999,1.85
-125,Chandler Canterbury,Action|Adventure|Romance|Sci-Fi|Thriller,J.D. Evermore,The Host ,92461,Rachel Roberts,http://www.imdb.com/title/tt1517260/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2013,2.35
-98,Harry Connick Jr.,Action|Crime|Drama|Mystery|Thriller,Connie Nielsen,Basic ,49926,Tim Daly,http://www.imdb.com/title/tt0264395/?ref_=fn_tt_tt_1,English,Germany,R,50000000,2003,2.35
-110,Anjelica Huston,Action|Crime|Drama|Mystery|Thriller,Clint Eastwood,Blood Work ,34356,Rick Hoffman,http://www.imdb.com/title/tt0309377/?ref_=fn_tt_tt_1,English,USA,R,50000000,2002,2.35
-118,Brían F. O'Byrne,Action|Crime|Drama|Mystery|Thriller,Naomi Watts,The International ,80196,Armin Mueller-Stahl,http://www.imdb.com/title/tt0963178/?ref_=fn_tt_tt_1,English,USA,R,50000000,2009,2.35
-101,Valeria Golino,Action|Adventure|Sci-Fi|Thriller,Steve Buscemi,Escape from L.A. ,54021,Michelle Forbes,http://www.imdb.com/title/tt0116225/?ref_=fn_tt_tt_1,English,USA,R,50000000,1996,2.35
-60,Brittany Curran,Drama|Mystery|Thriller,Grey Damon,Twisted             ,7945,Aaron Hill,http://www.imdb.com/title/tt2355844/?ref_=fn_tt_tt_1,English,USA,,,,16.0
-90,Harry Connick Jr.,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Vin Diesel,The Iron Giant ,128455,M. Emmet Walsh,http://www.imdb.com/title/tt0129167/?ref_=fn_tt_tt_1,English,USA,PG,70000000,1999,2.35
-119,Anjelica Huston,Adventure|Comedy|Drama,Bill Murray,The Life Aquatic with Steve Zissou ,139535,Matthew Gray Gubler,http://www.imdb.com/title/tt0362270/?ref_=fn_tt_tt_1,English,USA,R,50000000,2004,2.35
-139,Donald Watkins,Action|Biography|Drama|History|War,Matthew McConaughey,Free State of Jones ,3077,Jessica Collins,http://www.imdb.com/title/tt1124037/?ref_=fn_tt_tt_1,English,USA,R,50000000,2016,1.85
-130,Kate Winslet,Crime|Drama|Thriller,Kevin Spacey,The Life of David Gale ,88270,Matt Craven,http://www.imdb.com/title/tt0289992/?ref_=fn_tt_tt_1,English,USA,R,50000000,2003,2.35
-100,Vanessa Ferlito,Action|Comedy,Christina Milian,Man of the House ,19829,Kelli Garner,http://www.imdb.com/title/tt0331933/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2005,2.35
-114,Common,Action|Crime|Drama|Thriller,Liam Neeson,Run All Night ,76010,Bruce McGill,http://www.imdb.com/title/tt2199571/?ref_=fn_tt_tt_1,English,USA,R,50000000,2015,2.35
-96,Naomi Watts,Crime|Mystery|Thriller,Viggo Mortensen,Eastern Promises ,189249,Raza Jaffrey,http://www.imdb.com/title/tt0765443/?ref_=fn_tt_tt_1,English,USA,R,25000000,2007,1.85
-110,James Frain,Action|Adventure|Crime|Thriller,Paul Walker,Into the Blue ,63599,Ashley Scott,http://www.imdb.com/title/tt0378109/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2005,2.35
-158,David Bailie,Adventure|Biography|Drama|History|War,Paul Brooke,The Messenger: The Story of Joan of Arc ,55889,Rab Affleck,http://www.imdb.com/title/tt0151137/?ref_=fn_tt_tt_1,English,France,R,390000000,1999,2.35
-102,Zooey Deschanel,Adventure|Comedy|Fantasy,Natalie Portman,Your Highness ,85237,James Franco,http://www.imdb.com/title/tt1240982/?ref_=fn_tt_tt_1,English,USA,R,49900000,2011,2.35
-84,Gregory Smith,Drama|Mystery|Thriller,Naomi Watts,Dream House ,46239,Sarah Gadon,http://www.imdb.com/title/tt1462041/?ref_=fn_tt_tt_1,English,USA,PG-13,55000000,2011,2.35
-115,Blythe Danner,Crime|Drama|Thriller,Mia Kirshner,Mad City ,16562,William Atherton,http://www.imdb.com/title/tt0119592/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,1997,2.35
-99,Lara Flynn Boyle,Adventure|Comedy|Crime|Drama|Family,Joe Mantegna,Baby's Day Out ,33186,Cynthia Nixon,http://www.imdb.com/title/tt0109190/?ref_=fn_tt_tt_1,English,USA,PG,50000000,1994,1.85
-135,Robert Duvall,Drama|Romance,Gary Oldman,The Scarlet Letter ,12037,Demi Moore,http://www.imdb.com/title/tt0114345/?ref_=fn_tt_tt_1,English,USA,R,50000000,1995,2.35
-108,Ty Burrell,Biography|Drama|Thriller,Naomi Watts,Fair Game ,38513,Brooke Smith,http://www.imdb.com/title/tt0977855/?ref_=fn_tt_tt_1,English,USA,PG-13,22000000,2010,2.35
-43,Tony Curran,Action|Drama|Sci-Fi,Julie Benz,Defiance             ,33535,Grant Bowler,http://www.imdb.com/title/tt2189221/?ref_=fn_tt_tt_1,English,USA,TV-MA,,,1.78
-127,Mo'Nique,Action|Biography|Crime|Drama|Thriller,Ian Ziering,Domino ,58015,Edgar Ramírez,http://www.imdb.com/title/tt0421054/?ref_=fn_tt_tt_1,English,France,R,50000000,2005,2.35
-107,Chazz Palminteri,Crime|Drama|Thriller,Michael Biehn,Jade ,9227,Linda Fiorentino,http://www.imdb.com/title/tt0113451/?ref_=fn_tt_tt_1,English,USA,R,50000000,1995,1.85
-95,Logan Lerman,Action|Sci-Fi|Thriller,Gerard Butler,Gamer ,113483,Alison Lohman,http://www.imdb.com/title/tt1034032/?ref_=fn_tt_tt_1,English,USA,R,50000000,2009,1.85
-124,Zoey Deutch,Drama|Fantasy|Romance,Alden Ehrenreich,Beautiful Creatures ,67796,Pruitt Taylor Vince,http://www.imdb.com/title/tt1559547/?ref_=fn_tt_tt_1,English,USA,PG-13,60000000,2013,2.35
-109,Vincent Schiavelli,Comedy|Crime|Drama|Thriller,Robin Williams,Death to Smoochy ,34730,Danny Woodburn,http://www.imdb.com/title/tt0266452/?ref_=fn_tt_tt_1,English,UK,R,55000000,2002,1.85
-102,Will Ferrell,Comedy,Milla Jovovich,Zoolander 2 ,34964,Justin Theroux,http://www.imdb.com/title/tt1608290/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2016,2.35
-88,Andrew Wilson,Comedy|Crime,Morgan Freeman,The Big Bounce ,15880,Willie Nelson,http://www.imdb.com/title/tt0315824/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2004,2.35
-87,Linda Fiorentino,Comedy|Sci-Fi,Judy Greer,What Planet Are You From? ,8070,Garry Shandling,http://www.imdb.com/title/tt0181151/?ref_=fn_tt_tt_1,English,USA,R,50000000,2000,1.85
-104,Billy Burke,Action|Fantasy|Thriller,Nicolas Cage,Drive Angry ,81800,Katy Mixon,http://www.imdb.com/title/tt1502404/?ref_=fn_tt_tt_1,English,USA,R,50000000,2011,1.85
-96,Robin Shou,Action|Crime|Drama|Mystery|Thriller,Chris Klein,Street Fighter: The Legend of Chun-Li ,19824,Josie Ho,http://www.imdb.com/title/tt0891592/?ref_=fn_tt_tt_1,English,Canada,PG-13,18000000,2009,2.35
-85,Jet Li,Action|Sci-Fi|Thriller,Jason Statham,The One ,77684,Delroy Lindo,http://www.imdb.com/title/tt0267804/?ref_=fn_tt_tt_1,English,USA,PG-13,49000000,2001,2.35
-64,Graham McTavish,Drama|Romance|Sci-Fi,Tobias Menzies,Outlander             ,50391,Stephen Walters,http://www.imdb.com/title/tt3006802/?ref_=fn_tt_tt_1,English,USA,TV-MA,,,16.0
-104,Gilbert Gottfried,Action|Adventure|Comedy|Crime|Music|Mystery,Lauren Holly,The Adventures of Ford Fairlane ,14429,David Patrick Kelly,http://www.imdb.com/title/tt0098987/?ref_=fn_tt_tt_1,English,USA,R,40000000,1990,2.35
-135,Charlie Rowe,Comedy|Drama|Music,Philip Seymour Hoffman,Pirate Radio ,90932,Tom Sturridge,http://www.imdb.com/title/tt1131729/?ref_=fn_tt_tt_1,English,UK,R,,2009,2.35
-190,Jacob Vargas,Crime|Drama|Thriller,Michael O'Neill,Traffic ,170684,James Lew,http://www.imdb.com/title/tt0181865/?ref_=fn_tt_tt_1,English,USA,R,48000000,2000,1.85
-127,Julian Glover,Action|Adventure|Fantasy,Harrison Ford,Indiana Jones and the Last Crusade ,515306,Alison Doody,http://www.imdb.com/title/tt0097576/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,1989,2.35
-129,Guro Nagelhus Schia,Drama|Romance,Kelly Macdonald,Anna Karenina ,70886,Matthew Macfadyen,http://www.imdb.com/title/tt1781769/?ref_=fn_tt_tt_1,English,UK,R,,2012,2.35
-120,Sharlto Copley,Action|Crime|Drama|Sci-Fi|Thriller,Hugh Jackman,Chappie ,172965,Jose Pablo Cantillo,http://www.imdb.com/title/tt1823672/?ref_=fn_tt_tt_1,English,USA,R,49000000,2015,2.35
-118,Angelina Jolie Pitt,Crime|Drama|Mystery|Thriller,Denzel Washington,The Bone Collector ,120202,Leland Orser,http://www.imdb.com/title/tt0145681/?ref_=fn_tt_tt_1,English,USA,R,48000000,1999,2.35
-112,Dwight Yoakam,Crime|Drama|Thriller,Kristen Stewart,Panic Room ,206104,Mel Rodriguez,http://www.imdb.com/title/tt0258000/?ref_=fn_tt_tt_1,English,USA,R,48000000,2002,2.35
-89,Lochlyn Munro,Horror|Thriller,P.J. Soles,The Tooth Fairy ,1263,Steve Bacic,http://www.imdb.com/title/tt0473553/?ref_=fn_tt_tt_1,English,USA,,1500000,2006,1.78
-114,Jamie Kennedy,Action|Adventure|Comedy|Drama|War,Judy Greer,Three Kings ,137854,Mykelti Williamson,http://www.imdb.com/title/tt0120188/?ref_=fn_tt_tt_1,English,USA,R,48000000,1999,2.35
-137,Fares Fares,Crime|Drama|Thriller,Tom Hardy,Child 44 ,40568,Michael Nardone,http://www.imdb.com/title/tt1014763/?ref_=fn_tt_tt_1,English,Czech Republic,R,50000000,2015,2.35
-112,Douglas Haase,Adventure|Comedy,Corinna Harney,Rat Race ,93367,Vince Vieluf,http://www.imdb.com/title/tt0250687/?ref_=fn_tt_tt_1,English,Canada,PG-13,48000000,2001,2.35
-120,Jeff Bridges,Drama|Mystery|Sci-Fi,Kevin Spacey,K-PAX ,148490,Alfre Woodard,http://www.imdb.com/title/tt0272152/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2001,2.35
-123,Natasha Lyonne,Comedy|Fantasy|Romance,Hugh Jackman,Kate & Leopold ,64595,Bradley Whitford,http://www.imdb.com/title/tt0035423/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2001,1.85
-93,Frances O'Connor,Comedy|Fantasy|Romance,Brendan Fraser,Bedazzled ,81888,Brian Doyle-Murray,http://www.imdb.com/title/tt0230030/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2000,2.35
-123,Bob Hoskins,Crime|Drama|Music,Nicolas Cage,The Cotton Club ,12771,Fred Gwynne,http://www.imdb.com/title/tt0087089/?ref_=fn_tt_tt_1,English,USA,R,58000000,1984,1.85
-122,Logan Lerman,Adventure|Crime|Drama|Western,Christian Bale,3:10 to Yuma ,237872,Gretchen Mol,http://www.imdb.com/title/tt0381849/?ref_=fn_tt_tt_1,English,USA,R,55000000,2007,2.35
-115,Dougray Scott,Action|Thriller,Liam Neeson,Taken 3 ,133436,Jon Gries,http://www.imdb.com/title/tt2446042/?ref_=fn_tt_tt_1,English,France,PG-13,48000000,2014,2.35
-123,Albert Brooks,Crime|Drama|Romance|Thriller,Don Cheadle,Out of Sight ,71708,Keith Hudson,http://www.imdb.com/title/tt0120780/?ref_=fn_tt_tt_1,English,USA,R,48000000,1998,1.85
-96,Janeane Garofalo,Comedy|Drama|Thriller,Matthew Broderick,The Cable Guy ,122347,Andy Dick,http://www.imdb.com/title/tt0115798/?ref_=fn_tt_tt_1,English,USA,PG-13,47000000,1996,2.35
-110,Gulshan Grover,Drama|Romance|War,Nandita Das,Earth ,5639,Eric Peterson,http://www.imdb.com/title/tt0150433/?ref_=fn_tt_tt_1,Hindi,India,Unrated,,1998,
-105,Warren Beatty,Action|Comedy|Crime|Music|Romance|Thriller,Charlie Korsmo,Dick Tracy ,47819,Seymour Cassel,http://www.imdb.com/title/tt0099422/?ref_=fn_tt_tt_1,English,USA,PG,100000000,1990,1.85
-113,Faye Dunaway,Crime|Romance|Thriller,Mark Margolis,The Thomas Crown Affair ,73068,Denis Leary,http://www.imdb.com/title/tt0155267/?ref_=fn_tt_tt_1,English,USA,R,48000000,1999,2.35
-132,Adam Garcia,Biography|Comedy|Drama,Rosie Perez,Riding in Cars with Boys ,22447,Alissa Dean,http://www.imdb.com/title/tt0200027/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2001,1.85
-93,Brian Dennehy,Action|Adventure|Drama,Sylvester Stallone,First Blood ,172489,Chris Mulkey,http://www.imdb.com/title/tt0083944/?ref_=fn_tt_tt_1,English,USA,R,14000000,1982,2.35
-115,Anatoliy Solonitsyn,Drama|Mystery|Sci-Fi,Donatas Banionis,Solaris ,54057,Natalya Bondarchuk,http://www.imdb.com/title/tt0069293/?ref_=fn_tt_tt_1,Russian,Soviet Union,PG,1000000,1972,2.35
-75,George Carlin,Adventure|Animation|Comedy|Family|Fantasy,Sarah Michelle Gellar,Happily N'Ever After ,8693,Rob Paulsen,http://www.imdb.com/title/tt0308353/?ref_=fn_tt_tt_1,English,USA,PG,47000000,2006,1.85
-108,Bronagh Gallagher,Drama|Horror|Romance|Thriller,Julia Roberts,Mary Reilly ,11913,George Cole,http://www.imdb.com/title/tt0117002/?ref_=fn_tt_tt_1,English,USA,R,47000000,1996,1.85
-105,Christopher Masterson,Comedy|Romance,Julia Roberts,My Best Friend's Wedding ,98199,Rupert Everett,http://www.imdb.com/title/tt0119738/?ref_=fn_tt_tt_1,English,USA,PG-13,46000000,1997,2.35
-102,Rainn Wilson,Comedy|Romance,Julia Roberts,America's Sweethearts ,47573,Larry King,http://www.imdb.com/title/tt0265029/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2001,2.35
-118,Maura Tierney,Drama|Mystery|Thriller,Al Pacino,Insomnia ,218771,Crystal Lowe,http://www.imdb.com/title/tt0278504/?ref_=fn_tt_tt_1,English,USA,R,46000000,2002,2.35
-111,Alfre Woodard,Action|Adventure|Drama|Sci-Fi|Thriller,LeVar Burton,Star Trek: First Contact ,97838,Jonathan Frakes,http://www.imdb.com/title/tt0117731/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1996,2.35
-81,Billy Blair,Action|Drama|Fantasy|Thriller|Western,Michael Fassbender,Jonah Hex ,45729,Julia Jones,http://www.imdb.com/title/tt1075747/?ref_=fn_tt_tt_1,English,USA,PG-13,47000000,2010,2.35
-116,Matt Damon,Action|Drama|Mystery|Thriller|War,Denzel Washington,Courage Under Fire ,40126,Scott Glenn,http://www.imdb.com/title/tt0115956/?ref_=fn_tt_tt_1,English,USA,R,46000000,1996,1.85
-86,Swoosie Kurtz,Comedy|Fantasy|Romance,Maura Tierney,Liar Liar ,220392,Randall 'Tex' Cobb,http://www.imdb.com/title/tt0119528/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1997,1.85
-127,Amy Ryan,Biography|Crime|Drama|Thriller,Joseph Gilgun,The Infiltrator ,2581,Olympia Dukakis,http://www.imdb.com/title/tt1355631/?ref_=fn_tt_tt_1,English,UK,R,25000000,2016,2.35
-140,Ben Gazzara,Drama|History|War,Laurence Olivier,Inchon ,491,Jacqueline Bisset,http://www.imdb.com/title/tt0084132/?ref_=fn_tt_tt_1,English,South Korea,PG,48000000,1981,2.35
-91,Elizabeth Perkins,Comedy|Family|Fantasy,Jonathan Winters,The Flintstones ,60884,Harvey Korman,http://www.imdb.com/title/tt0109813/?ref_=fn_tt_tt_1,English,USA,PG,45000000,1994,1.33
-98,Luke Grimes,Action|Crime|Thriller,Liam Neeson,Taken 2 ,238671,D.B. Sweeney,http://www.imdb.com/title/tt1397280/?ref_=fn_tt_tt_1,English,France,PG-13,45000000,2012,2.35
-84,Pamela Anderson,Comedy,Regina Hall,Scary Movie 3 ,111526,Jenny McCarthy,http://www.imdb.com/title/tt0306047/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,2003,1.85
-109,Wendy Raquel Robinson,Action|Comedy|Crime|Romance,Candice Bergen,Miss Congeniality ,137377,Heather Burns,http://www.imdb.com/title/tt0212346/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2000,1.85
-93,Brendan Fraser,Action|Adventure|Family|Fantasy|Sci-Fi,Josh Hutcherson,Journey to the Center of the Earth ,85323,Anita Briem,http://www.imdb.com/title/tt0373051/?ref_=fn_tt_tt_1,English,USA,PG,45000000,2008,1.85
-113,Raven-Symoné,Comedy|Family|Romance,Anne Hathaway,The Princess Diaries 2: Royal Engagement ,53687,Hector Elizondo,http://www.imdb.com/title/tt0368933/?ref_=fn_tt_tt_1,English,USA,G,40000000,2004,1.85
-141,Julia Roberts,Crime|Drama|Mystery|Thriller,Denzel Washington,The Pelican Brief ,59569,Tony Goldwyn,http://www.imdb.com/title/tt0107798/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1993,2.35
-119,Anthony LaPaglia,Crime|Drama|Mystery|Thriller,Bradley Whitford,The Client ,45798,Brad Renfro,http://www.imdb.com/title/tt0109446/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1994,2.35
-97,Noel Gugliemi,Adventure|Comedy|Drama,Morgan Freeman,The Bucket List ,184795,Sean Hayes,http://www.imdb.com/title/tt0825232/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2007,1.85
-117,Polly Walker,Action|Thriller,Harrison Ford,Patriot Games ,81442,Patrick Bergin,http://www.imdb.com/title/tt0105112/?ref_=fn_tt_tt_1,English,USA,R,45000000,1992,2.35
-101,Jane Fonda,Comedy|Romance,Adam Scott,Monster-in-Law ,43358,Elaine Stritch,http://www.imdb.com/title/tt0369735/?ref_=fn_tt_tt_1,English,Germany,PG-13,60000000,2005,2.35
-153,Jake Gyllenhaal,Crime|Drama|Mystery|Thriller,Hugh Jackman,Prisoners ,383591,Dylan Minnette,http://www.imdb.com/title/tt1392214/?ref_=fn_tt_tt_1,English,USA,R,46000000,2013,1.85
-122,Snoop Dogg,Crime|Drama|Thriller,Denzel Washington,Training Day ,305929,Tom Berenger,http://www.imdb.com/title/tt0139654/?ref_=fn_tt_tt_1,English,USA,R,45000000,2001,2.35
-102,Enrico Colantoni,Adventure|Comedy|Sci-Fi,Alan Rickman,Galaxy Quest ,123558,Robin Sachs,http://www.imdb.com/title/tt0177789/?ref_=fn_tt_tt_1,English,USA,PG,45000000,1999,2.35
-83,Veronica Cartwright,Comedy,Natasha Lyonne,Scary Movie 2 ,119590,Andy Richter,http://www.imdb.com/title/tt0257106/?ref_=fn_tt_tt_1,English,USA,R,45000000,2001,1.85
-103,Eric Jacobson,Adventure|Comedy|Family|Musical,Bill Cobbs,The Muppets ,75176,Steve Whitmire,http://www.imdb.com/title/tt1204342/?ref_=fn_tt_tt_1,English,USA,PG,45000000,2011,1.85
-110,Traci Lords,Action|Horror,Sanaa Lathan,Blade ,191437,Udo Kier,http://www.imdb.com/title/tt0120611/?ref_=fn_tt_tt_1,English,USA,R,45000000,1998,2.35
-136,Rick Gonzalez,Drama|Sport,Channing Tatum,Coach Carter ,92702,Robert Ri'chard,http://www.imdb.com/title/tt0393162/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2005,2.35
-91,Matt Malloy,Drama|Thriller,Sydney Pollack,Changing Lanes ,57281,Bruce Altman,http://www.imdb.com/title/tt0264472/?ref_=fn_tt_tt_1,English,USA,R,45000000,2002,2.35
-89,Eric Stoltz,Action|Adventure|Horror|Thriller,Frank Welker,Anaconda ,73539,Kari Wuhrer,http://www.imdb.com/title/tt0118615/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1997,2.35
-107,Tyra Banks,Comedy|Drama|Music|Romance,Adam Garcia,Coyote Ugly ,90539,Izabella Miko,http://www.imdb.com/title/tt0200550/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2000,2.35
-129,Liam Neeson,Comedy|Drama|Romance,Colin Firth,Love Actually ,318634,Kris Marshall,http://www.imdb.com/title/tt0314331/?ref_=fn_tt_tt_1,English,UK,R,45000000,2003,2.35
-95,Madeline Kahn,Adventure|Animation|Comedy|Family|Fantasy,Kevin Spacey,A Bug's Life ,211226,John Ratzenberger,http://www.imdb.com/title/tt0120623/?ref_=fn_tt_tt_1,English,USA,G,120000000,1998,2.35
-122,Jason Flemyng,Horror|Mystery|Thriller,Johnny Depp,From Hell ,124765,Ian Richardson,http://www.imdb.com/title/tt0120681/?ref_=fn_tt_tt_1,English,USA,R,35000000,2001,2.35
-110,Rod Steiger,Action|Crime|Drama|Romance|Thriller,Sylvester Stallone,The Specialist ,50148,Emilio Estefan Jr.,http://www.imdb.com/title/tt0111255/?ref_=fn_tt_tt_1,English,Peru,R,45000000,1994,1.85
-135,Cheech Marin,Comedy|Drama|Romance|Sport,Don Johnson,Tin Cup ,37911,Rene Russo,http://www.imdb.com/title/tt0117918/?ref_=fn_tt_tt_1,English,USA,R,45000000,1996,2.35
-111,Tom Bosley,Comedy|Family,Lucille Ball,Yours, Mine and Ours ,5888,Tim Matheson,http://www.imdb.com/title/tt0063829/?ref_=fn_tt_tt_1,English,USA,Unrated,2500000,1968,1.85
-95,Will Ferrell,Comedy|Family|Romance|Sport,Josh Hutcherson,Kicking & Screaming ,30255,Robert Duvall,http://www.imdb.com/title/tt0384642/?ref_=fn_tt_tt_1,English,USA,PG,45000000,2005,2.35
-109,Kelly Macdonald,Adventure|Comedy|Sci-Fi,Zooey Deschanel,The Hitchhiker's Guide to the Galaxy ,155745,Thomas Lennon,http://www.imdb.com/title/tt0371724/?ref_=fn_tt_tt_1,English,USA,PG,50000000,2005,2.35
-93,Nick Zano,Comedy|Family|Fantasy|Romance,Dania Ramirez,Fat Albert ,9380,Alice Greczyn,http://www.imdb.com/title/tt0396592/?ref_=fn_tt_tt_1,English,USA,PG,26000000,2004,2.35
-94,Mike Epps,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Resident Evil: Extinction ,149549,James Tumminia,http://www.imdb.com/title/tt0432021/?ref_=fn_tt_tt_1,English,France,R,45000000,2007,2.35
-117,Adam Sandler,Comedy|Romance,Bella Thorne,Blended ,87165,Joel McHale,http://www.imdb.com/title/tt1086772/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2014,1.85
-112,Alicia Witt,Adventure|Comedy|Drama,LL Cool J,Last Holiday ,21215,Timothy Hutton,http://www.imdb.com/title/tt0408985/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2006,2.35
-111,Glenn Morshower,Action|Adventure|Crime|Thriller,Meryl Streep,The River Wild ,32544,William Lucking,http://www.imdb.com/title/tt0110997/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1994,2.35
-96,Vincent Kartheiser,Drama|Family|Fantasy,Steve Coogan,The Indian in the Cupboard ,20688,David Keith,http://www.imdb.com/title/tt0113419/?ref_=fn_tt_tt_1,English,USA,PG,45000000,1995,1.85
-141,Shea Whigham,Crime|Drama|Thriller,Demián Bichir,Savages ,104301,Gary Stretch,http://www.imdb.com/title/tt1615065/?ref_=fn_tt_tt_1,English,USA,R,45000000,2012,2.35
-94,Valerie Cruz,Action|Crime|Thriller,Richard Burgi,Cellular ,79141,Will Beinbrink,http://www.imdb.com/title/tt0337921/?ref_=fn_tt_tt_1,English,USA,PG-13,25000000,2004,2.35
-87,Natalie Imbruglia,Action|Adventure|Comedy,Kevin McNally,Johnny English ,114692,Ben Miller,http://www.imdb.com/title/tt0274166/?ref_=fn_tt_tt_1,English,UK,PG,35000000,2003,1.85
-88,Meryl Streep,Adventure|Animation|Comedy|Family|Fantasy,Nicolas Cage,The Ant Bully ,30055,Julia Roberts,http://www.imdb.com/title/tt0429589/?ref_=fn_tt_tt_1,English,USA,PG,50000000,2006,1.85
-177,Jürgen Prochnow,Action|Adventure|Sci-Fi,Virginia Madsen,Dune ,97087,José Ferrer,http://www.imdb.com/title/tt0087182/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1984,2.35
-133,T.V. Carpio,Drama|Fantasy|Musical|Romance,Jim Sturgess,Across the Universe ,91860,Robert Clohessy,http://www.imdb.com/title/tt0445922/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2007,2.35
-119,Kate Winslet,Drama|Romance,Leonardo DiCaprio,Revolutionary Road ,152591,Joe Komara,http://www.imdb.com/title/tt0959337/?ref_=fn_tt_tt_1,English,USA,R,35000000,2008,2.35
-102,David Zayas,Action|Crime|Drama|Thriller,Bruce Willis,16 Blocks ,112769,Sasha Roiz,http://www.imdb.com/title/tt0450232/?ref_=fn_tt_tt_1,English,Germany,PG-13,52000000,2006,2.35
-101,Charlotte Rampling,Action|Adventure|Sci-Fi|Thriller,Vin Diesel,Babylon A.D. ,81523,David Belle,http://www.imdb.com/title/tt0364970/?ref_=fn_tt_tt_1,English,France,PG-13,70000000,2008,2.35
-91,Bob Gunton,Action|Comedy|Crime|Drama|Thriller,Alexa PenaVega,The Glimmer Man ,15455,Keenen Ivory Wayans,http://www.imdb.com/title/tt0116421/?ref_=fn_tt_tt_1,English,USA,R,45000000,1996,1.85
-117,Brian Doyle-Murray,Comedy|Romance|Sci-Fi,John de Lancie,Multiplicity ,24757,Obba Babatundé,http://www.imdb.com/title/tt0117108/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,1996,2.35
-86,Carter Jenkins,Adventure|Comedy|Family|Fantasy|Sci-Fi,Malese Jow,Aliens in the Attic ,16580,Tim Meadows,http://www.imdb.com/title/tt0775552/?ref_=fn_tt_tt_1,English,USA,PG,45000000,2009,1.85
-124,Adrien Dorval,Crime|Drama|Mystery|Thriller,Costas Mandylor,The Pledge ,42621,Nels Lennarson,http://www.imdb.com/title/tt0237572/?ref_=fn_tt_tt_1,English,USA,R,45000000,2001,2.35
-134,Will Ferrell,Comedy|Musical,Jon Lovitz,The Producers ,35140,Matthew Broderick,http://www.imdb.com/title/tt0395251/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2005,2.35
-95,Jason Cope,Action|Sci-Fi,Wood Harris,Dredd ,203461,Rakie Ayola,http://www.imdb.com/title/tt1343727/?ref_=fn_tt_tt_1,English,UK,R,35000000,2012,2.35
-100,Treat Williams,Action|Adventure|Comedy|Fantasy,Cary-Hiroyuki Tagawa,The Phantom ,27648,Kristy Swanson,http://www.imdb.com/title/tt0117331/?ref_=fn_tt_tt_1,English,Australia,PG,45000000,1996,2.35
-220,Henry Thomas,Drama|Romance|Western,Matt Damon,All the Pretty Horses ,11388,Sam Shepard,http://www.imdb.com/title/tt0149624/?ref_=fn_tt_tt_1,English,USA,PG-13,57000000,2000,2.35
-212,Bob Hoskins,Biography|Drama|History,Anthony Hopkins,Nixon ,23996,Joan Allen,http://www.imdb.com/title/tt0113987/?ref_=fn_tt_tt_1,English,USA,R,50000000,1995,2.35
-128,Olivia Williams,Mystery|Thriller,Jim Belushi,The Ghost Writer ,132423,Timothy Hutton,http://www.imdb.com/title/tt1139328/?ref_=fn_tt_tt_1,English,France,PG-13,45000000,2010,2.35
-106,Jason Flemyng,Action|Adventure|Horror|Sci-Fi,Djimon Hounsou,Deep Rising ,26551,Wes Studi,http://www.imdb.com/title/tt0118956/?ref_=fn_tt_tt_1,English,USA,R,45000000,1998,2.35
-160,Omari Hardwick,Action|Crime|Drama|Thriller|War,Joseph Gordon-Levitt,Miracle at St. Anna ,15697,Laz Alonso,http://www.imdb.com/title/tt1046997/?ref_=fn_tt_tt_1,English,USA,R,45000000,2008,2.35
-114,Ye Liu,Drama|Romance,Li Gong,Curse of the Golden Flower ,36455,Man Li,http://www.imdb.com/title/tt0473444/?ref_=fn_tt_tt_1,Mandarin,China,R,45000000,2006,2.35
-99,Charlie Yeung,Action|Crime|Thriller,Nicolas Cage,Bangkok Dangerous ,48245,James With,http://www.imdb.com/title/tt0814022/?ref_=fn_tt_tt_1,English,USA,R,40000000,2008,1.85
-74,Janeane Garofalo,Comedy|Crime|Thriller,Zooey Deschanel,Big Trouble ,17307,Omar Epps,http://www.imdb.com/title/tt0246464/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2002,1.85
-139,Giovanna Mezzogiorno,Drama|Romance,Marcela Mar,Love in the Time of Cholera ,19114,Unax Ugalde,http://www.imdb.com/title/tt0484740/?ref_=fn_tt_tt_1,English,USA,R,45000000,2007,2.35
-52,Clotilde Hesme,Drama|Fantasy|Horror|Mystery,Pierre Perrier,The Returned             ,15762,Céline Sallette,http://www.imdb.com/title/tt2521668/?ref_=fn_tt_tt_1,French,France,TV-MA,,,16.0
-103,Ben Gazzara,Action|Thriller,Sam Waterston,Shadow Conspiracy ,3803,Nicholas Turturro,http://www.imdb.com/title/tt0120107/?ref_=fn_tt_tt_1,English,USA,R,45000000,1997,2.35
-101,Tim McInnerny,Action|Adventure|Comedy|Crime,Daniel Kaluuya,Johnny English Reborn ,89568,Togo Igawa,http://www.imdb.com/title/tt1634122/?ref_=fn_tt_tt_1,English,USA,PG,45000000,2011,2.35
-91,Larry Miller,Action|Animation|Comedy|Family|Fantasy,Jerry Stiller,Foodfight! ,4377,Harvey Fierstein,http://www.imdb.com/title/tt0249516/?ref_=fn_tt_tt_1,English,USA,PG,65000000,2012,
-130,Scoot McNairy,Biography|Drama|History|Thriller,Clea DuVall,Argo ,452465,Tate Donovan,http://www.imdb.com/title/tt1024648/?ref_=fn_tt_tt_1,English,USA,R,44500000,2012,2.35
-130,Daniel Roebuck,Action|Adventure|Crime|Drama|Mystery|Thriller,Harrison Ford,The Fugitive ,213668,Sela Ward,http://www.imdb.com/title/tt0106977/?ref_=fn_tt_tt_1,English,USA,PG-13,44000000,1993,1.85
-110,Dorian Missick,Action|Comedy|Romance,Gerard Butler,The Bounty Hunter ,96565,Peter Greene,http://www.imdb.com/title/tt1038919/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2010,2.35
-147,Brad Pitt,Crime|Drama|Thriller,Robert De Niro,Sleepers ,154487,Minnie Driver,http://www.imdb.com/title/tt0117665/?ref_=fn_tt_tt_1,English,USA,R,44000000,1996,2.35
-96,Julia Nickson,Action|Adventure|Thriller|War,Sylvester Stallone,Rambo: First Blood Part II ,117606,Martin Kove,http://www.imdb.com/title/tt0089880/?ref_=fn_tt_tt_1,English,USA,R,44000000,1985,2.35
-118,Demi Moore,Drama|Thriller,Joseph Gordon-Levitt,The Juror ,13995,Anne Heche,http://www.imdb.com/title/tt0116731/?ref_=fn_tt_tt_1,English,USA,R,44000000,1996,2.35
-88,Dickie Jones,Animation|Family|Fantasy|Musical,Mel Blanc,Pinocchio ,90360,Cliff Edwards,http://www.imdb.com/title/tt0032910/?ref_=fn_tt_tt_1,English,USA,Approved,2600000,1940,1.37
-325,Sam Waterston,Adventure|Drama|Western,Jeff Bridges,Heaven's Gate ,9830,Isabelle Huppert,http://www.imdb.com/title/tt0080855/?ref_=fn_tt_tt_1,English,USA,R,44000000,1980,2.35
-102,Tony Curran,Action|Adventure|Fantasy|Sci-Fi|Thriller,Sophia Myles,Underworld: Evolution ,156225,Derek Jacobi,http://www.imdb.com/title/tt0401855/?ref_=fn_tt_tt_1,English,USA,R,50000000,2006,2.35
-110,Spencer Wilding,Drama|Horror|Sci-Fi|Thriller,Daniel Radcliffe,Victor Frankenstein ,28618,Daniel Mays,http://www.imdb.com/title/tt1976009/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2015,2.35
-136,Rob Brown,Drama,F. Murray Abraham,Finding Forrester ,73006,Michael Nouri,http://www.imdb.com/title/tt0181536/?ref_=fn_tt_tt_1,English,USA,PG-13,43000000,2000,2.35
-103,Viggo Mortensen,Comedy|Drama,Steve Buscemi,28 Days ,34597,Elizabeth Perkins,http://www.imdb.com/title/tt0191754/?ref_=fn_tt_tt_1,English,USA,PG-13,43000000,2000,1.37
-103,Jet Li,Action|Crime|Drama|Thriller,Morgan Freeman,Unleashed ,85198,Bob Hoskins,http://www.imdb.com/title/tt0342258/?ref_=fn_tt_tt_1,English,France,R,45000000,2005,2.35
-90,Lillian Adams,Comedy|Romance,Judith Chapman,The Sweetest Thing ,46158,Chelsea Bond,http://www.imdb.com/title/tt0253867/?ref_=fn_tt_tt_1,English,USA,R,43000000,2002,1.85
-154,Holly Hunter,Drama|Mystery|Thriller,Tom Cruise,The Firm ,88844,Wilford Brimley,http://www.imdb.com/title/tt0106918/?ref_=fn_tt_tt_1,English,USA,R,42000000,1993,1.85
-99,Charlie Tahan,Drama|Fantasy|Romance,Augustus Prew,Charlie St. Cloud ,47364,Valerie Tian,http://www.imdb.com/title/tt1438254/?ref_=fn_tt_tt_1,English,USA,PG-13,44000000,2010,2.35
-93,Tony Goldwyn,Action|Crime|Thriller,Jason Statham,The Mechanic ,117999,Mini Anden,http://www.imdb.com/title/tt0472399/?ref_=fn_tt_tt_1,English,USA,R,40000000,2011,2.35
-109,Dax Flame,Action|Comedy|Crime,Channing Tatum,21 Jump Street ,408302,Rob Riggle,http://www.imdb.com/title/tt1232829/?ref_=fn_tt_tt_1,English,USA,R,42000000,2012,2.35
-124,Clarke Peters,Comedy|Drama|Romance,Julia Roberts,Notting Hill ,203269,Dylan Moran,http://www.imdb.com/title/tt0125439/?ref_=fn_tt_tt_1,English,UK,PG-13,42000000,1999,2.35
-84,Miranda Richardson,Adventure|Animation|Comedy|Drama|Family,Imelda Staunton,Chicken Run ,140499,Julia Sawalha,http://www.imdb.com/title/tt0120630/?ref_=fn_tt_tt_1,English,UK,G,45000000,2000,1.85
-90,Masi Oka,Comedy|Romance,Philip Seymour Hoffman,Along Came Polly ,106909,Debra Messing,http://www.imdb.com/title/tt0343135/?ref_=fn_tt_tt_1,English,USA,PG-13,42000000,2004,1.85
-117,Eartha Kitt,Comedy|Drama|Romance,John Witherspoon,Boomerang ,20183,Geoffrey Holder,http://www.imdb.com/title/tt0103859/?ref_=fn_tt_tt_1,English,USA,R,40000000,1992,1.85
-123,William Xifaras,Action|Comedy|Crime,Michael Rapaport,The Heat ,133177,Demián Bichir,http://www.imdb.com/title/tt2404463/?ref_=fn_tt_tt_1,English,USA,R,43000000,2013,2.35
-251,Richard Burton,Biography|Drama|History|Romance,Martin Landau,Cleopatra ,21554,Roddy McDowall,http://www.imdb.com/title/tt0056937/?ref_=fn_tt_tt_1,English,UK,Approved,31115000,1963,2.2
-105,Reggie Lee,Action|Comedy|Sport,Salma Hayek,Here Comes the Boom ,74169,Charice,http://www.imdb.com/title/tt1648179/?ref_=fn_tt_tt_1,English,USA,PG,42000000,2012,1.85
-115,Adam Scott,Crime|Drama|Mystery|Thriller,Morgan Freeman,High Crimes ,30077,Bruce Davison,http://www.imdb.com/title/tt0257756/?ref_=fn_tt_tt_1,English,USA,PG-13,42000000,2002,2.35
-122,Austin Pendleton,Comedy|Drama|Romance,Jeff Bridges,The Mirror Has Two Faces ,11453,Mimi Rogers,http://www.imdb.com/title/tt0117057/?ref_=fn_tt_tt_1,English,USA,PG-13,42000000,1996,1.85
-119,Will Patton,Drama|Horror|Mystery|Thriller,Debra Messing,The Mothman Prophecies ,63677,David Eigenberg,http://www.imdb.com/title/tt0265349/?ref_=fn_tt_tt_1,English,USA,PG-13,32000000,2002,2.35
-81,Elton John,Comedy,Bono,Brüno ,119622,Slash,http://www.imdb.com/title/tt0889583/?ref_=fn_tt_tt_1,English,USA,R,42000000,2009,1.85
-133,Talisa Soto,Action|Adventure|Thriller,Robert Davi,Licence to Kill ,74009,Anthony Zerbe,http://www.imdb.com/title/tt0097742/?ref_=fn_tt_tt_1,English,UK,PG-13,32000000,1989,2.35
-100,Billy Burke,Fantasy|Horror|Mystery|Thriller,Gary Oldman,Red Riding Hood ,91151,Virginia Madsen,http://www.imdb.com/title/tt1486185/?ref_=fn_tt_tt_1,English,USA,PG-13,42000000,2011,2.35
-120,Charlize Theron,Action|Crime|Drama|Thriller,Robert De Niro,15 Minutes ,42547,Kelsey Grammer,http://www.imdb.com/title/tt0179626/?ref_=fn_tt_tt_1,English,USA,R,42000000,2001,2.35
-104,Fisher Stevens,Adventure|Comedy|Family|Fantasy|Sci-Fi,Bob Hoskins,Super Mario Bros. ,38203,Fiona Shaw,http://www.imdb.com/title/tt0108255/?ref_=fn_tt_tt_1,English,UK,PG,42000000,1993,1.85
-122,Jeremy Crutchley,Crime|Drama|Thriller,Nicolas Cage,Lord of War ,248123,Jared Burke,http://www.imdb.com/title/tt0399295/?ref_=fn_tt_tt_1,English,USA,R,50000000,2005,2.35
-80,Tony Chiu Wai Leung,Action|Adventure|History,Jet Li,Hero ,149414,Maggie Cheung,http://www.imdb.com/title/tt0299977/?ref_=fn_tt_tt_1,Mandarin,China,PG-13,31000000,2002,2.35
-91,Debbie Reynolds,Action|Comedy|Crime|Romance|Thriller,Fisher Stevens,One for the Money ,34203,Patrick Fischler,http://www.imdb.com/title/tt1598828/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2012,2.35
-112,Randall Park,Comedy,James Franco,The Interview ,247020,Anders Holm,http://www.imdb.com/title/tt2788710/?ref_=fn_tt_tt_1,English,USA,R,44000000,2014,2.35
-100,Dong-gun Jang,Action|Fantasy|Western,Tony Cox,The Warrior's Way ,22309,Jed Brophy,http://www.imdb.com/title/tt1032751/?ref_=fn_tt_tt_1,English,New Zealand,R,45000000,2010,2.35
-30,Gavin MacLeod,Comedy|War,Tim Conway,McHale's Navy             ,1558,Bob Hastings,http://www.imdb.com/title/tt0055689/?ref_=fn_tt_tt_1,English,USA,TV-G,,,4.0
-105,Dany Boon,Action|Comedy|Crime,Omar Sy,Micmacs ,24657,André Dussollier,http://www.imdb.com/title/tt1149361/?ref_=fn_tt_tt_1,French,France,R,27000000,2009,2.35
-110,Omar Benson Miller,Drama|Music,Mekhi Phifer,8 Mile ,187181,Evan Jones,http://www.imdb.com/title/tt0298203/?ref_=fn_tt_tt_1,English,USA,R,41000000,2002,2.35
-101,Youssef Hajdi,Adventure|Animation|Comedy|Family,Jamel Debbouze,Animal Kingdom: Let's go Ape ,590,Mélissa Theuriau,http://www.imdb.com/title/tt1220911/?ref_=fn_tt_tt_1,French,France,,,2015,
-144,Rufus Sewell,Action|Adventure|Romance,Heath Ledger,A Knight's Tale ,137003,Bérénice Bejo,http://www.imdb.com/title/tt0183790/?ref_=fn_tt_tt_1,English,USA,PG-13,65000000,2001,2.35
-108,Lee Evans,Action|Comedy|Fantasy,Julian Sands,The Medallion ,29861,Anthony Chau-Sang Wong,http://www.imdb.com/title/tt0288045/?ref_=fn_tt_tt_1,English,Hong Kong,PG-13,41000000,2003,2.35
-107,Haley Joel Osment,Drama|Mystery|Thriller,Bruce Willis,The Sixth Sense ,704766,Olivia Williams,http://www.imdb.com/title/tt0167404/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1999,1.85
-102,Mandy Gonzalez,Action|Crime|Thriller,Robert Clohessy,Man on a Ledge ,125198,J. Smith-Cameron,http://www.imdb.com/title/tt1568338/?ref_=fn_tt_tt_1,English,USA,PG-13,42000000,2012,2.35
-100,Kevin Pollak,Comedy,Joel McHale,The Big Year ,34809,JoBeth Williams,http://www.imdb.com/title/tt1053810/?ref_=fn_tt_tt_1,English,USA,PG,41000000,2011,2.35
-126,William Zabka,Action|Drama|Family|Sport,Martin Kove,The Karate Kid ,126907,William Bassett,http://www.imdb.com/title/tt0087538/?ref_=fn_tt_tt_1,English,USA,PG,8000000,1984,1.85
-138,Christian Bale,Crime|Drama,Jennifer Lawrence,American Hustle ,358416,Bradley Cooper,http://www.imdb.com/title/tt1800241/?ref_=fn_tt_tt_1,English,USA,R,40000000,2013,2.35
-108,Denis O'Hare,Comedy|Drama|Romance,Ryan Reynolds,The Proposal ,227824,Craig T. Nelson,http://www.imdb.com/title/tt1041829/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2009,2.35
-105,Annabeth Gish,Crime|Mystery|Thriller,Bruce Greenwood,Double Jeopardy ,56646,Bruce Campbell,http://www.imdb.com/title/tt0150377/?ref_=fn_tt_tt_1,English,USA,R,70000000,1999,2.35
-108,Jeffrey Weissman,Adventure|Comedy|Sci-Fi,Lea Thompson,Back to the Future Part II ,340085,Thomas F. Wilson,http://www.imdb.com/title/tt0096874/?ref_=fn_tt_tt_1,English,USA,PG,40000000,1989,1.85
-89,Morgan Freeman,Action|Sci-Fi|Thriller,Scarlett Johansson,Lucy ,327367,Amr Waked,http://www.imdb.com/title/tt2872732/?ref_=fn_tt_tt_1,English,France,R,40000000,2014,2.35
-129,Luke Grimes,Drama|Romance,Jennifer Ehle,Fifty Shades of Grey ,220020,Callum Rennie,http://www.imdb.com/title/tt2322441/?ref_=fn_tt_tt_1,English,USA,R,40000000,2015,2.35
-84,Salma Hayek,Action|Adventure|Comedy|Family|Sci-Fi,Sylvester Stallone,Spy Kids 3-D: Game Over ,40227,Alexa PenaVega,http://www.imdb.com/title/tt0338459/?ref_=fn_tt_tt_1,English,USA,PG,38000000,2003,1.85
-149,Matthew McConaughey,Crime|Drama|Thriller,Kevin Spacey,A Time to Kill ,99558,Oliver Platt,http://www.imdb.com/title/tt0117913/?ref_=fn_tt_tt_1,English,USA,R,40000000,1996,2.35
-94,Alyson Stoner,Comedy|Family,Tom Welling,Cheaper by the Dozen ,75152,Bonnie Hunt,http://www.imdb.com/title/tt0349205/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2003,1.85
-121,Scott Elrod,Action|Biography|Drama|Thriller|War,Jerry Ferrara,Lone Survivor ,203963,Dan Bilzerian,http://www.imdb.com/title/tt1091191/?ref_=fn_tt_tt_1,English,USA,R,40000000,2013,2.35
-128,Lori Petty,Comedy|Drama|Sport,Tom Hanks,A League of Their Own ,71754,Rosie O'Donnell,http://www.imdb.com/title/tt0104694/?ref_=fn_tt_tt_1,English,USA,PG,40000000,1992,2.35
-134,Frances O'Connor,Horror|Mystery|Thriller,Javier Botet,The Conjuring 2 ,64989,Robin Atkin Downes,http://www.imdb.com/title/tt3065204/?ref_=fn_tt_tt_1,English,USA,R,40000000,2016,2.35
-120,Dustin Fitzsimons,Biography|Drama,Andrew Garfield,The Social Network ,479453,Marcella Lentz-Pope,http://www.imdb.com/title/tt1285016/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2010,2.35
-129,Sabrina Revelle,Comedy|Drama|Romance,Carmen Perez,He's Just Not That Into You ,132048,Sachiko Ishida,http://www.imdb.com/title/tt1001508/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2009,2.35
-89,Carmen Electra,Comedy,Beau Mirchoff,Scary Movie 4 ,93748,Regina Hall,http://www.imdb.com/title/tt0362120/?ref_=fn_tt_tt_1,English,USA,PG-13,45000000,2006,1.85
-116,Roger Jackson,Horror|Mystery,Kelly Rutherford,Scream 3 ,98535,Nancy O'Dell,http://www.imdb.com/title/tt0134084/?ref_=fn_tt_tt_1,English,USA,R,40000000,2000,2.35
-118,Jeffrey Weissman,Adventure|Comedy|Sci-Fi|Western,Lea Thompson,Back to the Future Part III ,283480,Thomas F. Wilson,http://www.imdb.com/title/tt0099088/?ref_=fn_tt_tt_1,English,USA,PG,40000000,1990,1.37
-107,Alison Brie,Comedy|Crime,Will Ferrell,Get Hard ,85629,Craig T. Nelson,http://www.imdb.com/title/tt2561572/?ref_=fn_tt_tt_1,English,USA,R,40000000,2015,1.85
-155,Anthony Hopkins,Fantasy|Horror|Romance,Keanu Reeves,Bram Stoker's Dracula ,143835,Gary Oldman,http://www.imdb.com/title/tt0103874/?ref_=fn_tt_tt_1,English,USA,R,40000000,1992,1.85
-123,Mary Lynn Rajskub,Biography|Drama|Romance,Meryl Streep,Julie & Julia ,79264,Vanessa Ferlito,http://www.imdb.com/title/tt1135503/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2009,1.85
-128,Christopher Meloni,Biography|Drama|Sport,Harrison Ford,42 ,66511,Nicole Beharie,http://www.imdb.com/title/tt0453562/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2013,2.35
-139,Matt Damon,Crime|Drama|Thriller,Philip Seymour Hoffman,The Talented Mr. Ripley ,137891,Jack Davenport,http://www.imdb.com/title/tt0134119/?ref_=fn_tt_tt_1,English,USA,R,40000000,1999,1.85
-109,Kathleen Turner,Comedy,Bill Murray,Dumb and Dumber To ,97045,Rob Riggle,http://www.imdb.com/title/tt2096672/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2014,1.85
-120,Bruce Greenwood,Adventure|Drama|Family,Paul Walker,Eight Below ,48806,Wendy Crewson,http://www.imdb.com/title/tt0397313/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2006,2.35
-121,Anne Hathaway,Comedy|Drama,Robert De Niro,The Intern ,130661,Rene Russo,http://www.imdb.com/title/tt2361509/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2015,1.85
-102,Nadine Velazquez,Action|Comedy,Olivia Munn,Ride Along 2 ,28621,Bruce McGill,http://www.imdb.com/title/tt2869728/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2016,2.35
-117,Terry Kinney,Action|Adventure|Drama|Romance|War,Wes Studi,The Last of the Mohicans ,113068,Eric Schweig,http://www.imdb.com/title/tt0104691/?ref_=fn_tt_tt_1,English,USA,R,40000000,1992,2.35
-178,Curtis Armstrong,Biography|Drama|Music,Bokeem Woodbine,Ray ,110394,Harry Lennix,http://www.imdb.com/title/tt0350258/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2004,1.85
-147,Powers Boothe,Crime|Thriller,Rosario Dawson,Sin City ,656640,Jason Douglas,http://www.imdb.com/title/tt0401792/?ref_=fn_tt_tt_1,English,USA,R,40000000,2005,1.85
-90,Edgar Ramírez,Crime|Drama|Mystery|Thriller,Dennis Quaid,Vantage Point ,127528,William Hurt,http://www.imdb.com/title/tt0443274/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2008,2.35
-105,Jon Favreau,Comedy|Romance,J.K. Simmons,I Love You, Man ,166194,Jane Curtin,http://www.imdb.com/title/tt1155056/?ref_=fn_tt_tt_1,English,USA,R,40000000,2009,1.85
-114,Bruce McGill,Comedy|Drama|Fantasy|Romance,Jason Alexander,Shallow Hal ,109445,Susan Ward,http://www.imdb.com/title/tt0256380/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2001,1.85
-206,Jay O. Sanders,Drama|History|Thriller,Sally Kirkland,JFK ,113472,Cheryl Penland,http://www.imdb.com/title/tt0102138/?ref_=fn_tt_tt_1,English,France,R,40000000,1991,2.35
-99,Nia Long,Comedy|Crime,Chloë Grace Moretz,Big Momma's House 2 ,31968,Marisol Nichols,http://www.imdb.com/title/tt0421729/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2006,1.85
-123,Brad Pitt,Adventure|Comedy|Crime|Romance,J.K. Simmons,The Mexican ,87351,Julia Roberts,http://www.imdb.com/title/tt0236493/?ref_=fn_tt_tt_1,English,USA,R,34000000,2001,2.35
-137,Jack O'Connell,Biography|Drama|Sport|War,Finn Wittrock,Unbroken ,103589,Alex Russell,http://www.imdb.com/title/tt1809398/?ref_=fn_tt_tt_1,English,USA,PG-13,65000000,2014,2.35
-102,Hunter Parrish,Comedy|Drama|Family|Fantasy|Romance,Matthew Perry,17 Again ,146899,Thomas Lennon,http://www.imdb.com/title/tt0974661/?ref_=fn_tt_tt_1,English,USA,PG-13,20000000,2009,2.35
-109,Kate Upton,Comedy|Romance,Don Johnson,The Other Woman ,104481,David Thornton,http://www.imdb.com/title/tt2203939/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2014,2.35
-82,Andrew Fiscella,Horror,Krista Allen,The Final Destination ,75345,Shantel VanSanten,http://www.imdb.com/title/tt1144884/?ref_=fn_tt_tt_1,English,USA,R,40000000,2009,2.35
-142,Mark Rylance,Drama|History|Thriller,Tom Hanks,Bridge of Spies ,178118,Amy Ryan,http://www.imdb.com/title/tt3682448/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2015,2.35
-106,David Keith,Action|Drama|Thriller|War,Joaquim de Almeida,Behind Enemy Lines ,86902,Sam Jaeger,http://www.imdb.com/title/tt0159273/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2001,2.35
-114,Mario Lopez,Comedy|Music,Pink,Get Him to the Greek ,147317,Lino Facioli,http://www.imdb.com/title/tt1226229/?ref_=fn_tt_tt_1,English,USA,R,,2010,1.85
-106,Nick Cannon,Comedy|Drama|Romance,Lisa Ann Walter,Shall We Dance ,35508,Omar Benson Miller,http://www.imdb.com/title/tt0358135/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2004,1.85
-108,Denis Leary,Action|Adventure|Comedy|Family|Sci-Fi,Kirsten Dunst,Small Soldiers ,77415,Robert Picardo,http://www.imdb.com/title/tt0122718/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1998,2.35
-98,Frank Welker,Action|Horror,Michael Jai White,Spawn ,52805,Miko Hughes,http://www.imdb.com/title/tt0120177/?ref_=fn_tt_tt_1,English,USA,R,40000000,1997,1.85
-131,James Frain,Action|Adventure|Drama|Romance|Thriller,Henry Cavill,The Count of Monte Cristo ,104991,Michael Wincott,http://www.imdb.com/title/tt0245844/?ref_=fn_tt_tt_1,English,UK,PG-13,35000000,2002,1.85
-118,Margarita Levieva,Crime|Drama|Thriller,Matthew McConaughey,The Lincoln Lawyer ,173848,Frances Fisher,http://www.imdb.com/title/tt1189340/?ref_=fn_tt_tt_1,English,USA,R,40000000,2011,2.35
-113,Frank Langella,Action|Mystery|Thriller,Liam Neeson,Unknown ,210542,Aidan Quinn,http://www.imdb.com/title/tt1401152/?ref_=fn_tt_tt_1,English,UK,PG-13,30000000,2011,2.35
-130,Hugh Jackman,Drama|Mystery|Sci-Fi|Thriller,Christian Bale,The Prestige ,844052,Scarlett Johansson,http://www.imdb.com/title/tt0482571/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2006,2.35
-116,Christoph Waltz,Comedy|Crime,Kevin Spacey,Horrible Bosses 2 ,114294,Lindsay Sloane,http://www.imdb.com/title/tt2170439/?ref_=fn_tt_tt_1,English,USA,R,42000000,2014,2.35
-89,Paul Scheer,Adventure|Animation|Comedy|Family|Sci-Fi,Brendan Fraser,Escape from Planet Earth ,20615,Jonathan Morgan Heit,http://www.imdb.com/title/tt0765446/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2013,2.35
-139,Dalia Hernández,Action|Adventure|Drama|Thriller,Rudy Youngblood,Apocalypto ,236000,Jonathan Brewer,http://www.imdb.com/title/tt0472043/?ref_=fn_tt_tt_1,Maya,USA,R,40000000,2006,1.85
-130,Desmond Llewelyn,Action|Adventure|Thriller,Joe Don Baker,The Living Daylights ,69457,Art Malik,http://www.imdb.com/title/tt0093428/?ref_=fn_tt_tt_1,English,UK,PG,30000000,1987,2.35
-107,Alice Braga,Action|Adventure|Sci-Fi|Thriller,Topher Grace,Predators ,171418,Derek Mears,http://www.imdb.com/title/tt1424381/?ref_=fn_tt_tt_1,English,USA,R,40000000,2010,2.35
-116,Debra Winger,Comedy|Crime|Romance,Brian Dennehy,Legal Eagles ,7900,Roscoe Lee Browne,http://www.imdb.com/title/tt0091396/?ref_=fn_tt_tt_1,English,USA,PG,40000000,1986,2.35
-96,Charles S. Dutton,Mystery|Thriller,Johnny Depp,Secret Window ,147504,Timothy Hutton,http://www.imdb.com/title/tt0363988/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2004,2.35
-99,Dylan Walsh,Drama|Fantasy|Romance,Keanu Reeves,The Lake House ,114321,Ebon Moss-Bachrach,http://www.imdb.com/title/tt0410297/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2006,2.35
-104,Deneen Tyler,Horror|Mystery|Thriller,Gena Rowlands,The Skeleton Key ,87447,Joy Bryant,http://www.imdb.com/title/tt0397101/?ref_=fn_tt_tt_1,English,USA,PG-13,43000000,2005,2.35
-105,Odeya Rush,Comedy|Drama|Family|Fantasy,Jennifer Garner,The Odd Life of Timothy Green ,37398,Common,http://www.imdb.com/title/tt1462769/?ref_=fn_tt_tt_1,English,USA,PG,25000000,2012,1.85
-101,Beau Garrett,Comedy|Romance,Busy Philipps,Made of Honor ,54421,Kevin Sussman,http://www.imdb.com/title/tt0866439/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2008,2.35
-134,Steve Schirripa,Biography|Drama|Music|Musical,Johnny Cannizzaro,Jersey Boys ,25465,Scott Vance,http://www.imdb.com/title/tt1742044/?ref_=fn_tt_tt_1,English,USA,R,40000000,2014,2.35
-135,Dean Stockwell,Crime|Drama|Thriller,Matt Damon,The Rainmaker ,46221,Virginia Madsen,http://www.imdb.com/title/tt0119978/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1997,2.35
-98,Charles S. Dutton,Horror|Mystery|Thriller,Robert Downey Jr.,Gothika ,89557,Bernard Hill,http://www.imdb.com/title/tt0348836/?ref_=fn_tt_tt_1,English,USA,R,40000000,2003,1.85
-155,Morgan Freeman,Drama|History,Anthony Hopkins,Amistad ,56509,Matthew McConaughey,http://www.imdb.com/title/tt0118607/?ref_=fn_tt_tt_1,English,USA,R,36000000,1997,1.85
-106,José Wilker,Adventure|Drama|Romance,Lorraine Bracco,Medicine Man ,17443,Sean Connery,http://www.imdb.com/title/tt0104839/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1992,2.35
-102,Johnny Lewis,Action|Horror|Sci-Fi|Thriller,Sam Trammell,Aliens vs. Predator: Requiem ,92789,Ian Whyte,http://www.imdb.com/title/tt0758730/?ref_=fn_tt_tt_1,English,USA,R,40000000,2007,2.35
-95,John Larroquette,Comedy|Family,Macaulay Culkin,Ri¢hie Ri¢h ,49612,Jonathan Hyde,http://www.imdb.com/title/tt0110989/?ref_=fn_tt_tt_1,English,USA,PG,40000000,1994,1.85
-103,Sam Trammell,Drama|Romance,J.K. Simmons,Autumn in New York ,20201,Elaine Stritch,http://www.imdb.com/title/tt0174480/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2000,1.85
-95,Scott Porter,Comedy|Music|Romance,Brad Garrett,Music and Lyrics ,81334,Haley Bennett,http://www.imdb.com/title/tt0758766/?ref_=fn_tt_tt_1,English,USA,PG-13,,2007,1.85
-109,Nelson Ascencio,Adventure|Comedy|Sci-Fi,Bobby Lee,Paul ,192462,Jeremy Owen,http://www.imdb.com/title/tt1092026/?ref_=fn_tt_tt_1,English,USA,R,40000000,2011,2.35
-95,Tom Virtue,Comedy|Drama,Miriam Margolyes,The Guilt Trip ,30394,Julene Renee,http://www.imdb.com/title/tt1694020/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2012,2.35
-111,Aimee Teegarden,Horror|Mystery,Alison Brie,Scream 4 ,104119,Shenae Grimes-Beech,http://www.imdb.com/title/tt1262416/?ref_=fn_tt_tt_1,English,USA,R,40000000,2011,2.35
-123,Chris Bauer,Mystery|Thriller,Nicolas Cage,8MM ,104564,Anthony Heald,http://www.imdb.com/title/tt0134273/?ref_=fn_tt_tt_1,English,Germany,R,40000000,1999,2.35
-140,Kevin Dillon,Biography|Drama|Music|Musical,Michael Wincott,The Doors ,68159,Kathleen Quinlan,http://www.imdb.com/title/tt0101761/?ref_=fn_tt_tt_1,English,USA,R,38000000,1991,2.35
-94,Randall Park,Comedy,James Wilcox,Sex Tape ,84382,Nat Faxon,http://www.imdb.com/title/tt1956620/?ref_=fn_tt_tt_1,English,USA,R,40000000,2014,1.85
-94,Celia Weston,Comedy|Drama,Adam Arkin,Hanging Up ,10132,Jesse James,http://www.imdb.com/title/tt0162983/?ref_=fn_tt_tt_1,English,Germany,PG-13,60000000,2000,1.85
-92,Jacqueline MacInnes Wood,Horror,Emma Bell,Final Destination 5 ,83788,Courtney B. Vance,http://www.imdb.com/title/tt1622979/?ref_=fn_tt_tt_1,English,USA,R,40000000,2011,2.35
-102,Burt Young,Comedy|Crime|Romance,Jeanne Tripplehorn,Mickey Blue Eyes ,29968,Vincent Pastore,http://www.imdb.com/title/tt0130121/?ref_=fn_tt_tt_1,English,UK,PG-13,40000000,1999,1.85
-123,Haley Joel Osment,Drama,Kevin Spacey,Pay It Forward ,95860,Angie Dickinson,http://www.imdb.com/title/tt0223897/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2000,1.85
-104,KaDee Strickland,Comedy|Drama|Romance|Sport,Jimmy Fallon,Fever Pitch ,36223,Ione Skye,http://www.imdb.com/title/tt0332047/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2005,2.35
-30,Melissa Altro,Animation|Comedy|Family,Bruce Dinsmore,Arthur             ,8495,Daniel Brochu,http://www.imdb.com/title/tt0169414/?ref_=fn_tt_tt_1,English,Canada,TV-Y,,,1.33
-102,Shaun Weiss,Comedy|Drama,Lisa Ann Walter,Drillbit Taylor ,50199,Matt Walsh,http://www.imdb.com/title/tt0817538/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2008,2.35
-136,Charlize Theron,Comedy|Western,Liam Neeson,A Million Ways to Die in the West ,136093,Seth MacFarlane,http://www.imdb.com/title/tt2557490/?ref_=fn_tt_tt_1,English,USA,R,40000000,2014,2.35
-93,Peter Boyle,Action|Adventure|Crime|Fantasy|Mystery|Thriller,Jonathan Winters,The Shadow ,18723,John Kapelos,http://www.imdb.com/title/tt0111143/?ref_=fn_tt_tt_1,English,USA,PG-13,25000000,1994,1.85
-129,Thomas Horn,Adventure|Drama|Mystery,Tom Hanks,Extremely Loud & Incredibly Close ,81298,Stephen Henderson,http://www.imdb.com/title/tt0477302/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2011,2.35
-107,Patti D'Arbanville,Comedy|Drama|Romance,Noah Bean,Morning Glory ,58871,Vanessa Aspillaga,http://www.imdb.com/title/tt1126618/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2010,2.35
-117,Bill Duke,Biography|Crime|Drama|Music,50 Cent,Get Rich or Die Tryin' ,35834,Marc John Jefferies,http://www.imdb.com/title/tt0430308/?ref_=fn_tt_tt_1,English,USA,R,40000000,2005,2.35
-116,Cary-Hiroyuki Tagawa,Action|Adventure|Crime|Thriller,Michael Biehn,The Art of War ,25346,Anne Archer,http://www.imdb.com/title/tt0160009/?ref_=fn_tt_tt_1,English,USA,R,40000000,2000,2.35
-135,David Fine,Drama|Musical|Romance,Rosario Dawson,Rent ,41685,Jesse L. Martin,http://www.imdb.com/title/tt0294870/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2005,2.35
-107,Jimmy Smits,Crime|Drama|Horror|Thriller,Rufus Sewell,Bless the Child ,12093,Angela Bettis,http://www.imdb.com/title/tt0163983/?ref_=fn_tt_tt_1,English,USA,R,40000000,2000,2.35
-90,Valerie Perri,Comedy,Oliver Hudson,The Out-of-Towners ,10446,Carlease Burke,http://www.imdb.com/title/tt0129280/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1999,1.85
-99,Temuera Morrison,Horror|Sci-Fi|Thriller,Marlon Brando,The Island of Dr. Moreau ,26051,Marco Hofschneider,http://www.imdb.com/title/tt0116654/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1996,2.35
-104,Justin Chambers,Action|Adventure|Romance,Catherine Deneuve,The Musketeer ,12856,Stephen Rea,http://www.imdb.com/title/tt0246544/?ref_=fn_tt_tt_1,English,Germany,PG-13,40000000,2001,2.35
-115,Scarlett Johansson,Biography|Drama|History|Romance,Natalie Portman,The Other Boleyn Girl ,84357,Benedict Cumberbatch,http://www.imdb.com/title/tt0467200/?ref_=fn_tt_tt_1,English,UK,PG-13,35000000,2008,1.85
-119,Charlize Theron,Drama|Romance,Keanu Reeves,Sweet November ,70292,Frank Langella,http://www.imdb.com/title/tt0230838/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2001,1.85
-99,Andrea Frankle,Horror|Thriller,Stephen Rea,The Reaping ,37412,William Ragsdale,http://www.imdb.com/title/tt0444682/?ref_=fn_tt_tt_1,English,USA,R,40000000,2007,2.35
-112,David Carradine,Crime|Drama|Romance|Thriller,Robert De Niro,Mean Streets ,67797,David Proval,http://www.imdb.com/title/tt0070379/?ref_=fn_tt_tt_1,English,USA,R,500000,1973,1.85
-128,Cliff Robertson,Comedy|Drama,Ed Begley Jr.,Renaissance Man ,13830,Lillo Brancato,http://www.imdb.com/title/tt0110971/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1994,1.85
-112,Callum Blue,Action|Crime|Drama|Thriller,Jordi Mollà,Colombiana ,76498,Jesse Borrego,http://www.imdb.com/title/tt1657507/?ref_=fn_tt_tt_1,English,France,PG-13,40000000,2011,2.35
-86,Jaleel White,Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical,Gary Oldman,The Magic Sword: Quest for Camelot ,11156,Eric Idle,http://www.imdb.com/title/tt0120800/?ref_=fn_tt_tt_1,English,USA,G,40000000,1998,1.85
-108,James Franco,Crime|Drama|Mystery|Thriller,Robert De Niro,City by the Sea ,21319,John Doman,http://www.imdb.com/title/tt0269095/?ref_=fn_tt_tt_1,English,USA,R,60000000,2002,2.35
-128,Nathan Lane,Drama|Romance,Mira Sorvino,At First Sight ,11232,Steven Weber,http://www.imdb.com/title/tt0132512/?ref_=fn_tt_tt_1,English,USA,PG-13,60000000,1999,1.85
-84,Jay Hernandez,Action|Comedy|Crime,Dane Cook,Torque ,23747,Christina Milian,http://www.imdb.com/title/tt0329691/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2004,2.35
-111,Martin Landau,Drama|Thriller,Al Pacino,City Hall ,16741,Bridget Fonda,http://www.imdb.com/title/tt0115907/?ref_=fn_tt_tt_1,English,USA,R,40000000,1996,1.85
-131,Elizabeth Berkley,Drama,Bobbie Phillips,Showgirls ,49874,Robert Davi,http://www.imdb.com/title/tt0114436/?ref_=fn_tt_tt_1,English,France,NC-17,45000000,1995,2.35
-123,Shirley Henderson,Biography|Drama|History|Romance,Kirsten Dunst,Marie Antoinette ,79892,Rip Torn,http://www.imdb.com/title/tt0422720/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2006,1.85
-101,Michael Rapaport,Action|Crime|Thriller,Nicolas Cage,Kiss of Death ,14226,Philip Baker Hall,http://www.imdb.com/title/tt0113552/?ref_=fn_tt_tt_1,English,USA,R,40000000,1995,1.85
-102,Miranda Richardson,Action|Crime|Drama|Thriller,Sylvester Stallone,Get Carter ,27305,Lauren Lee Smith,http://www.imdb.com/title/tt0208988/?ref_=fn_tt_tt_1,English,USA,R,40000000,2000,2.35
-114,Geraldine Chaplin,Drama|Thriller,Naomi Watts,The Impossible ,145270,Oaklee Pendergast,http://www.imdb.com/title/tt1649419/?ref_=fn_tt_tt_1,English,Spain,PG-13,45000000,2012,2.35
-107,Warren Beatty,Action|Adventure|Comedy|Music|Thriller,Carol Kane,Ishtar ,8692,Isabelle Adjani,http://www.imdb.com/title/tt0093278/?ref_=fn_tt_tt_1,English,USA,PG-13,51000000,1987,1.85
-87,Meryl Streep,Adventure|Animation|Comedy|Crime|Family,Bill Murray,Fantastic Mr. Fox ,139114,Helen McCrory,http://www.imdb.com/title/tt0432283/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2009,1.85
-103,Stockard Channing,Comedy|Romance,Angelina Jolie Pitt,Life or Something Like It ,19364,James Gammon,http://www.imdb.com/title/tt0282687/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2002,2.35
-99,Michael McKean,Comedy|Romance|Sci-Fi|Thriller,Richard Epcar,Memoirs of an Invisible Man ,17365,Patricia Heaton,http://www.imdb.com/title/tt0104850/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1992,2.35
-122,Jamel Debbouze,Comedy|Romance,Mathieu Kassovitz,Amélie ,534262,Isabelle Nanty,http://www.imdb.com/title/tt0211915/?ref_=fn_tt_tt_1,French,France,R,77000000,2001,2.35
-91,Bob Saget,Comedy|Crime|Family|Romance,Mary-Kate Olsen,New York Minute ,17722,Riley Smith,http://www.imdb.com/title/tt0363282/?ref_=fn_tt_tt_1,English,USA,PG,30000000,2004,1.85
-103,Nia Long,Comedy|Drama|Romance,Omar Epps,Alfie ,43442,Jane Krakowski,http://www.imdb.com/title/tt0375173/?ref_=fn_tt_tt_1,English,UK,R,60000000,2004,1.85
-107,Tim Blake Nelson,Biography|Drama|Romance,Ted Danson,Big Miracle ,15231,Andrew Daly,http://www.imdb.com/title/tt1430615/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2012,2.35
-106,Treat Williams,Drama,Alexa PenaVega,The Deep End of the Ocean ,10413,Jonathan Jackson,http://www.imdb.com/title/tt0120646/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,1999,1.85
-101,Jeffrey Combs,Crime|Horror|Thriller,Natascha McElhone,Feardotcom ,17309,Udo Kier,http://www.imdb.com/title/tt0295254/?ref_=fn_tt_tt_1,English,UK,R,42000000,2002,2.35
-109,Salma Hayek,Action|Adventure|Fantasy|Thriller,Josh Hutcherson,Cirque du Freak: The Vampire's Assistant ,35990,Patrick Fugit,http://www.imdb.com/title/tt0450405/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2009,2.35
-110,Spencer Wilding,Drama|Horror|Sci-Fi|Thriller,Daniel Radcliffe,Victor Frankenstein ,28618,Daniel Mays,http://www.imdb.com/title/tt1976009/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2015,2.35
-89,Amber Valletta,Comedy,Justin Theroux,Duplex ,46205,Harvey Fierstein,http://www.imdb.com/title/tt0266489/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2003,1.85
-100,Sean Hayes,Comedy|Drama|Music,Bernie Mac,Soul Men ,7794,Mike Epps,http://www.imdb.com/title/tt1111948/?ref_=fn_tt_tt_1,English,USA,R,,2008,2.35
-119,Jason Robards,Action|Adventure|Drama|Thriller,M. Emmet Walsh,Raise the Titanic ,2933,Anne Archer,http://www.imdb.com/title/tt0081400/?ref_=fn_tt_tt_1,English,UK,PG,36000000,1980,2.35
-83,Daniel von Bargen,Action|Sci-Fi,Michael Jai White,Universal Soldier: The Return ,24216,Xander Berkeley,http://www.imdb.com/title/tt0176269/?ref_=fn_tt_tt_1,English,USA,R,24000000,1999,1.85
-108,Dennis Quaid,Action|Horror|Mystery|Sci-Fi|Thriller,Norman Reedus,Pandorum ,121432,Eddie Rouse,http://www.imdb.com/title/tt1188729/?ref_=fn_tt_tt_1,English,Germany,R,33000000,2009,2.35
-102,Mekhi Phifer,Drama|Mystery|Sci-Fi|Thriller,Gary Dourdan,Impostor ,19986,Tim Guinee,http://www.imdb.com/title/tt0160399/?ref_=fn_tt_tt_1,English,USA,R,40000000,2001,1.85
-93,Bridgette Wilson-Sampras,Action|Adventure|Thriller,Rufus Sewell,Extreme Ops ,4821,Rupert Graves,http://www.imdb.com/title/tt0283160/?ref_=fn_tt_tt_1,English,UK,PG-13,40000000,2002,2.35
-84,Matt Ross,Comedy|Fantasy|Sci-Fi,Bridgette Wilson-Sampras,Just Visiting ,15130,John Aylward,http://www.imdb.com/title/tt0189192/?ref_=fn_tt_tt_1,English,France,PG-13,40000000,2001,2.35
-107,Benedict Wong,Adventure|Sci-Fi|Thriller,Chris Evans,Sunshine ,190132,Troy Garity,http://www.imdb.com/title/tt0448134/?ref_=fn_tt_tt_1,English,UK,R,26000000,2007,2.35
-91,Lou Saliba,Comedy|Drama,John Gatins,A Thousand Words ,30842,Greg Collins,http://www.imdb.com/title/tt0763831/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2012,2.35
-94,Anne Bancroft,Adventure|Animation|Comedy|Fantasy|Romance,Eric Idle,Delgo ,2458,Kelly Ripa,http://www.imdb.com/title/tt0361500/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2008,1.85
-115,Mark Rylance,Action|Crime|Drama|Mystery|Thriller,Ray Winstone,The Gunman ,28429,Jasmine Trinca,http://www.imdb.com/title/tt2515034/?ref_=fn_tt_tt_1,English,USA,R,40000000,2015,2.35
-93,Sophie Okonedo,Action|Adventure|Family|Thriller,Alex Pettyfer,Alex Rider: Operation Stormbreaker ,20201,Ashley Walters,http://www.imdb.com/title/tt0457495/?ref_=fn_tt_tt_1,English,Germany,PG,40000000,2006,2.35
-105,Aaron Yoo,Drama|Mystery|Thriller,Sarah Roemer,Disturbia ,186982,Jose Pablo Cantillo,http://www.imdb.com/title/tt0486822/?ref_=fn_tt_tt_1,English,USA,PG-13,20000000,2007,1.85
-107,Fisher Stevens,Comedy|Crime|Drama|Thriller,Angelina Jolie Pitt,Hackers ,54650,Lorraine Bracco,http://www.imdb.com/title/tt0113243/?ref_=fn_tt_tt_1,English,USA,PG-13,20000000,1995,2.35
-101,Zan Marolt,Adventure|Comedy|Drama|Romance|Thriller|War,James Brolin,The Hunting Party ,22010,Ljubomir Kerekes,http://www.imdb.com/title/tt0455782/?ref_=fn_tt_tt_1,English,USA,R,25000000,2007,2.35
-111,Bill Cobbs,Comedy|Fantasy,Jennifer Jason Leigh,The Hudsucker Proxy ,65474,John Mahoney,http://www.imdb.com/title/tt0110074/?ref_=fn_tt_tt_1,English,UK,PG,30000000,1994,1.85
-113,Takeshi Kaneshiro,Action|Drama|History|Romance|War,Jet Li,The Warlords ,22897,Andy Lau,http://www.imdb.com/title/tt0913968/?ref_=fn_tt_tt_1,Mandarin,Hong Kong,R,40000000,2007,2.35
-112,Kuno Becker,Drama|History|War,Jay Hernandez,Nomad: The Warrior ,3322,Jason Scott Lee,http://www.imdb.com/title/tt0374089/?ref_=fn_tt_tt_1,Kazakh,France,R,25000000,2005,2.35
-126,Ewen Bremner,Action|Drama|Sci-Fi|Thriller,Chris Evans,Snowpiercer ,181472,Kang-ho Song,http://www.imdb.com/title/tt1706620/?ref_=fn_tt_tt_1,English,South Korea,R,39200000,2013,1.85
-90,Bob Balaban,Adventure|Animation|Comedy|Fantasy|Music|Romance,Adam Goldberg,A Monster in Paris ,15790,François Cluzet,http://www.imdb.com/title/tt0961097/?ref_=fn_tt_tt_1,French,France,PG,25000000,2011,1.85
-93,Glenn Morshower,Comedy,Matthew Broderick,The Last Shot ,3789,Tim Blake Nelson,http://www.imdb.com/title/tt0357054/?ref_=fn_tt_tt_1,English,USA,R,,2004,1.85
-98,Bai Ling,Action|Drama|Fantasy,Michael Wincott,The Crow ,136580,David Patrick Kelly,http://www.imdb.com/title/tt0109506/?ref_=fn_tt_tt_1,English,USA,R,23000000,1994,1.85
-159,Anushka Shetty,Action|Adventure|Drama|Fantasy|War,Tamannaah Bhatia,Baahubali: The Beginning ,62756,Prabhas,http://www.imdb.com/title/tt2631186/?ref_=fn_tt_tt_1,Telugu,India,,18026148,2015,1.85
-107,Brooklynn Proulx,Drama|Fantasy|Romance|Sci-Fi,Arliss Howard,The Time Traveler's Wife ,114925,Michelle Nolden,http://www.imdb.com/title/tt0452694/?ref_=fn_tt_tt_1,English,USA,PG-13,39000000,2009,2.35
-102,Stephen Collins,Comedy|Romance,Colin Ferguson,Because I Said So ,32412,Tom Everett Scott,http://www.imdb.com/title/tt0490084/?ref_=fn_tt_tt_1,English,USA,PG-13,,2007,1.85
-106,Vin Diesel,Action|Crime|Thriller,Paul Walker,The Fast and the Furious ,272227,Jordana Brewster,http://www.imdb.com/title/tt0232500/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2001,2.35
-87,Catherine O'Hara,Animation|Comedy|Family|Horror|Sci-Fi,Martin Landau,Frankenweenie ,73886,Atticus Shaffer,http://www.imdb.com/title/tt1142977/?ref_=fn_tt_tt_1,English,USA,PG,39000000,2012,1.85
-119,Sean Maher,Action|Adventure|Sci-Fi|Thriller,Adam Baldwin,Serenity ,242599,Michael Hitchcock,http://www.imdb.com/title/tt0379786/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2005,2.35
-110,Charles S. Dutton,Biography|Drama|Romance|Sport,Omar Epps,Against the Ropes ,5917,Tim Daly,http://www.imdb.com/title/tt0312329/?ref_=fn_tt_tt_1,English,USA,PG-13,39000000,2004,2.35
-125,Robert Vaughn,Action|Comedy|Sci-Fi,Margot Kidder,Superman III ,49934,Jackie Cooper,http://www.imdb.com/title/tt0086393/?ref_=fn_tt_tt_1,English,UK,PG,39000000,1983,2.35
-113,Sylvester Stallone,Comedy|Sport,Robert De Niro,Grudge Match ,46480,Oscar Gale,http://www.imdb.com/title/tt1661382/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2013,1.85
-150,Tony Chiu Wai Leung,Action|Adventure|Drama|History|War,Takeshi Kaneshiro,Red Cliff ,36894,Wei Zhao,http://www.imdb.com/title/tt0425637/?ref_=fn_tt_tt_1,Mandarin,China,R,553632000,2008,2.35
-108,Mary Lynn Rajskub,Comedy|Romance,Ethan Embry,Sweet Home Alabama ,83786,Courtney Gains,http://www.imdb.com/title/tt0256415/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2002,2.35
-96,John Michael Higgins,Comedy|Romance,Gerard Butler,The Ugly Truth ,163665,Eric Winter,http://www.imdb.com/title/tt1142988/?ref_=fn_tt_tt_1,English,USA,R,38000000,2009,2.35
-93,Phil Hartman,Comedy,Austin Pendleton,Sgt. Bilko ,17810,Max Casella,http://www.imdb.com/title/tt0117608/?ref_=fn_tt_tt_1,English,USA,PG,39000000,1996,2.35
-100,Alexa PenaVega,Action|Adventure|Comedy|Family|Sci-Fi,Steve Buscemi,Spy Kids 2: Island of Lost Dreams ,44885,Emily Osment,http://www.imdb.com/title/tt0287717/?ref_=fn_tt_tt_1,English,USA,PG,38000000,2002,1.85
-118,Alan Ruck,Action|Adventure|Mystery|Sci-Fi|Thriller,LeVar Burton,Star Trek: Generations ,60504,Jonathan Frakes,http://www.imdb.com/title/tt0111280/?ref_=fn_tt_tt_1,English,USA,PG,35000000,1994,2.35
-122,Hye-kyo Song,Action|Biography|Drama,Tony Chiu Wai Leung,The Grandmaster ,24557,Elvis Tsui,http://www.imdb.com/title/tt1462900/?ref_=fn_tt_tt_1,Mandarin,Hong Kong,PG-13,38600000,2013,2.35
-120,Christoph Waltz,Drama|Romance,Robert Pattinson,Water for Elephants ,95367,James Frain,http://www.imdb.com/title/tt1067583/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2011,2.35
-60,Wayne Knight,Comedy|Family|Sci-Fi,Joseph Gordon-Levitt,3rd Rock from the Sun             ,38383,Kristen Johnston,http://www.imdb.com/title/tt0115082/?ref_=fn_tt_tt_1,English,USA,TV-PG,,,1.33
-88,Bianca Collins,Adventure|Animation|Family|Fantasy,Blythe Auffarth,Dragon Nest: Warriors' Dawn ,2169,Jiao Xu,http://www.imdb.com/title/tt2911342/?ref_=fn_tt_tt_1,English,China,,40000000,2014,
-146,Vincent Pastore,Biography|Drama|Sport,Denzel Washington,The Hurricane ,76016,Deborah Kara Unger,http://www.imdb.com/title/tt0174856/?ref_=fn_tt_tt_1,English,USA,R,38000000,1999,1.85
-115,Jeff Kober,Crime|Drama|Thriller,Bill Cobbs,Enough ,30667,Billy Campbell,http://www.imdb.com/title/tt0278435/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2002,2.35
-123,Anne Bancroft,Comedy|Crime|Romance,Sarah Silverman,Heartbreakers ,44168,Jeffrey Jones,http://www.imdb.com/title/tt0125022/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2001,2.35
-94,Daniella Alonso,Action|Comedy|Crime,D.B. Woodside,Paul Blart: Mall Cop 2 ,23473,Eduardo Verástegui,http://www.imdb.com/title/tt3450650/?ref_=fn_tt_tt_1,English,USA,PG,30000000,2015,1.85
-102,Shirley Knight,Drama|Romance,Sonia Braga,Angel Eyes ,19686,Kari Matchett,http://www.imdb.com/title/tt0225071/?ref_=fn_tt_tt_1,English,USA,R,38000000,2001,1.85
-98,Ken Marino,Comedy|Drama,Jim Belushi,Joe Somebody ,8433,Kelly Lynch,http://www.imdb.com/title/tt0279889/?ref_=fn_tt_tt_1,English,USA,PG,38000000,2001,1.85
-133,Frank Langella,Mystery|Thriller,Johnny Depp,The Ninth Gate ,137722,Lena Olin,http://www.imdb.com/title/tt0142688/?ref_=fn_tt_tt_1,English,Spain,R,38000000,1999,2.35
-118,Paul Guilfoyle,Crime|Drama|Mystery|Thriller,J.K. Simmons,Extreme Measures ,14066,Bill Nunn,http://www.imdb.com/title/tt0116259/?ref_=fn_tt_tt_1,English,USA,R,38000000,1996,2.35
-105,Dagmara Dominczyk,Drama|Music,Beth Grant,Rock Star ,34592,Matthew Glave,http://www.imdb.com/title/tt0202470/?ref_=fn_tt_tt_1,English,USA,R,57000000,2001,2.35
-109,Gabourey Sidibe,Drama,Mo'Nique,Precious ,86955,Mariah Carey,http://www.imdb.com/title/tt0929632/?ref_=fn_tt_tt_1,English,USA,R,10000000,2009,1.85
-129,Jason Marsden,Adventure|Drama,Jeff Bridges,White Squall ,17859,Ethan Embry,http://www.imdb.com/title/tt0118158/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,1996,2.35
-109,Richard Masur,Horror|Mystery|Sci-Fi,Wilford Brimley,The Thing ,258078,David Clennon,http://www.imdb.com/title/tt0084787/?ref_=fn_tt_tt_1,English,USA,R,15000000,1982,2.35
-127,Nolan Gerard Funk,Action|Sci-Fi|Thriller,Vin Diesel,Riddick ,125305,Bokeem Woodbine,http://www.imdb.com/title/tt1411250/?ref_=fn_tt_tt_1,English,USA,R,38000000,2013,2.35
-118,Claudia Stedelin,Crime|Mystery|Thriller,Gregory Scott Cummins,Switchback ,9740,Ted Markland,http://www.imdb.com/title/tt0119210/?ref_=fn_tt_tt_1,English,USA,R,37000000,1997,2.35
-110,Usher Raymond,Action|Adventure|Drama|Thriller|Western,Tom Skerritt,Texas Rangers ,4757,Leonor Varela,http://www.imdb.com/title/tt0193560/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2001,2.35
-90,Toby Jones,Adventure|Family|Fantasy|Sci-Fi,Bill Murray,City of Ember ,52908,Harry Treadaway,http://www.imdb.com/title/tt0970411/?ref_=fn_tt_tt_1,English,USA,PG,55000000,2008,2.35
-144,Jeffrey W. Jenkins,Drama,Mike Howard,The Master ,105144,Bruce Goodchild,http://www.imdb.com/title/tt1560747/?ref_=fn_tt_tt_1,English,USA,R,32000000,2012,1.85
-97,Ryan Cartwright,Adventure|Comedy|History|Romance,Hayden Christensen,Virgin Territory ,6691,David Walliams,http://www.imdb.com/title/tt0437954/?ref_=fn_tt_tt_1,English,Italy,R,38000000,2007,1.85
-130,Nicole Beharie,Biography|Drama|Sport,Dennis Quaid,The Express ,16673,Charles S. Dutton,http://www.imdb.com/title/tt0469903/?ref_=fn_tt_tt_1,English,USA,PG,40000000,2008,2.35
-112,Maggie Siff,Action|Adventure|Sci-Fi|Thriller,Chloë Grace Moretz,The 5th Wave ,55617,Nick Robinson,http://www.imdb.com/title/tt2304933/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2016,2.35
-133,Phylicia Rashad,Drama|Sport,Sylvester Stallone,Creed ,146708,Graham McTavish,http://www.imdb.com/title/tt3076658/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2015,2.35
-150,Jon Hamm,Crime|Drama|Thriller,Jeremy Renner,The Town ,280228,Owen Burke,http://www.imdb.com/title/tt0840361/?ref_=fn_tt_tt_1,English,USA,R,37000000,2010,2.35
-110,Dennis Quaid,Comedy|Drama|Romance,Anna Kendrick,What to Expect When You're Expecting ,57266,Thomas Lennon,http://www.imdb.com/title/tt1586265/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2012,2.35
-96,Brad Pitt,Comedy|Drama,J.K. Simmons,Burn After Reading ,248468,Kevin Sussman,http://www.imdb.com/title/tt0887883/?ref_=fn_tt_tt_1,English,USA,R,37000000,2008,1.85
-96,Anthony Simcoe,Adventure|Comedy|Family|Fantasy,Gerard Butler,Nim's Island ,28109,Christopher James Baker,http://www.imdb.com/title/tt0410377/?ref_=fn_tt_tt_1,English,USA,PG,37000000,2008,2.35
-123,Olivia Wilde,Action|Biography|Drama|Sport,Chris Hemsworth,Rush ,312629,Alexandra Maria Lara,http://www.imdb.com/title/tt1979320/?ref_=fn_tt_tt_1,English,UK,R,38000000,2013,2.35
-188,Neil Flynn,Drama,Patton Oswalt,Magnolia ,241030,Jim Meskimen,http://www.imdb.com/title/tt0175880/?ref_=fn_tt_tt_1,English,USA,R,37000000,1999,2.35
-107,Tracy Morgan,Action|Comedy|Crime,Bruce Willis,Cop Out ,75347,Kevin Pollak,http://www.imdb.com/title/tt1385867/?ref_=fn_tt_tt_1,English,USA,R,37000000,2010,2.35
-110,Damon Wayans Jr.,Comedy|Romance,Alison Brie,How to Be Single ,39440,Nicholas Braun,http://www.imdb.com/title/tt1292566/?ref_=fn_tt_tt_1,English,USA,R,38000000,2016,2.35
-113,Michael Roark,Drama|Family,Morgan Freeman,Dolphin Tale ,17948,Harry Connick Jr.,http://www.imdb.com/title/tt1564349/?ref_=fn_tt_tt_1,English,USA,PG,37000000,2011,1.85
-122,Taylor Lautner,Drama|Fantasy|Romance,Kristen Stewart,Twilight ,348007,Anna Kendrick,http://www.imdb.com/title/tt1099212/?ref_=fn_tt_tt_1,English,USA,PG-13,37000000,2008,2.35
-116,Laura Harring,Crime|Drama|Thriller,Denzel Washington,John Q ,98899,Anne Heche,http://www.imdb.com/title/tt0251160/?ref_=fn_tt_tt_1,English,USA,PG-13,36000000,2002,1.85
-93,Dave Chappelle,Action|Comedy|Crime|Thriller,Peter Greene,Blue Streak ,60572,Tamala Jones,http://www.imdb.com/title/tt0181316/?ref_=fn_tt_tt_1,English,USA,PG-13,65000000,1999,1.85
-118,Molly C. Quinn,Comedy|Crime,Laura-Leigh,We're the Millers ,316671,Thomas Lennon,http://www.imdb.com/title/tt1723121/?ref_=fn_tt_tt_1,English,USA,R,37000000,2013,2.35
-115,Fedor Bondarchuk,Action|Adventure|Sci-Fi,Yuliya Snigir,Obitaemyy ostrov ,4387,Aleksey Serebryakov,http://www.imdb.com/title/tt0972558/?ref_=fn_tt_tt_1,Russian,Russia,,29500000,2009,
-93,M.C. Gainey,Action|Crime|Drama|Mystery|Thriller,Kathleen Quinlan,Breakdown ,38399,J.T. Walsh,http://www.imdb.com/title/tt0118771/?ref_=fn_tt_tt_1,English,USA,R,36000000,1997,2.35
-121,Klaus Maria Brandauer,Action|Adventure|Thriller,Bernie Casey,Never Say Never Again ,48636,Barbara Carrera,http://www.imdb.com/title/tt0086006/?ref_=fn_tt_tt_1,English,UK,PG,36000000,1983,2.35
-101,Collette Wolfe,Comedy|Sci-Fi,Charlie McDermott,Hot Tub Time Machine ,139184,Crystal Lowe,http://www.imdb.com/title/tt1231587/?ref_=fn_tt_tt_1,English,USA,R,36000000,2010,1.85
-107,Taylor Blackwell,Drama|Family,Morgan Freeman,Dolphin Tale 2 ,6069,Harry Connick Jr.,http://www.imdb.com/title/tt2978462/?ref_=fn_tt_tt_1,English,USA,PG,36000000,2014,1.85
-124,James Frain,Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller,Charlize Theron,Reindeer Games ,31113,Clarence Williams III,http://www.imdb.com/title/tt0184858/?ref_=fn_tt_tt_1,English,USA,R,34000000,2000,2.35
-109,Jeff Kober,Action|Crime|Drama|Thriller,Vin Diesel,A Man Apart ,38348,Larenz Tate,http://www.imdb.com/title/tt0266465/?ref_=fn_tt_tt_1,English,USA,R,36000000,2003,2.35
-105,Bradley Cooper,Comedy|Drama|Romance,Emma Stone,Aloha ,39778,Bill Murray,http://www.imdb.com/title/tt1243974/?ref_=fn_tt_tt_1,English,USA,PG-13,37000000,2015,1.85
-130,Virginia Madsen,Drama|History,Alexa PenaVega,Ghosts of Mississippi ,8531,Craig T. Nelson,http://www.imdb.com/title/tt0116410/?ref_=fn_tt_tt_1,English,USA,PG-13,36000000,1996,1.85
-127,Reeve Carney,Drama|Mystery|Romance|Thriller,Rick Yune,Snow Falling on Cedars ,12375,Daniel von Bargen,http://www.imdb.com/title/tt0120834/?ref_=fn_tt_tt_1,English,USA,PG-13,36000000,1999,2.35
-114,Colin O'Donoghue,Drama|Horror|Mystery|Thriller,Anthony Hopkins,The Rite ,75864,Toby Jones,http://www.imdb.com/title/tt1161864/?ref_=fn_tt_tt_1,English,USA,PG-13,37000000,2011,2.35
-106,Xander Berkeley,Drama|Sci-Fi|Thriller,Blair Underwood,Gattaca ,220591,Mason Gamble,http://www.imdb.com/title/tt0119177/?ref_=fn_tt_tt_1,English,USA,PG-13,36000000,1997,2.35
-95,Nathan Lane,Biography|Comedy|Romance,Stockard Channing,Isn't She Great ,1977,John Larroquette,http://www.imdb.com/title/tt0141399/?ref_=fn_tt_tt_1,English,USA,R,36000000,2000,1.85
-81,Kenan Thompson,Adventure|Animation|Comedy|Family|Sci-Fi,Cheryl Hines,Space Chimps ,8860,Omid Abtahi,http://www.imdb.com/title/tt0482603/?ref_=fn_tt_tt_1,English,USA,G,37000000,2008,2.35
-95,Dylan Baker,Comedy,Bernie Mac,Head of State ,15046,Tracy Morgan,http://www.imdb.com/title/tt0325537/?ref_=fn_tt_tt_1,English,USA,PG-13,35200000,2003,1.85
-108,Rob Riggle,Comedy,Bradley Cooper,The Hangover ,583341,Mike Epps,http://www.imdb.com/title/tt1119646/?ref_=fn_tt_tt_1,English,USA,R,35000000,2009,2.35
-105,Lynn Hung,Action|Biography|Drama|History,Mike Tyson,Ip Man 3 ,21912,Kwok-Kwan Chan,http://www.imdb.com/title/tt2888046/?ref_=fn_tt_tt_1,Cantonese,Hong Kong,PG-13,36000000,2015,2.35
-95,Verne Troyer,Action|Adventure|Comedy|Crime,Muse Watson,Austin Powers: The Spy Who Shagged Me ,181225,Robert Wagner,http://www.imdb.com/title/tt0145660/?ref_=fn_tt_tt_1,English,USA,PG-13,33000000,1999,2.35
-126,Jack Palance,Action|Adventure,Michael Gough,Batman ,269033,William Hootkins,http://www.imdb.com/title/tt0096895/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1989,1.85
-102,Dougray Scott,Biography|Drama|War,Jordi Mollà,There Be Dragons ,3865,Lily Cole,http://www.imdb.com/title/tt1316616/?ref_=fn_tt_tt_1,English,Spain,PG-13,36000000,2011,2.35
-121,Nick Chinlund,Action|Crime|Thriller,Rene Russo,Lethal Weapon 3 ,128010,Stuart Wilson,http://www.imdb.com/title/tt0104714/?ref_=fn_tt_tt_1,English,USA,R,35000000,1992,2.35
-129,Quinton Aaron,Biography|Drama|Sport,Catherine Dyer,The Blind Side ,223127,Kim Dickens,http://www.imdb.com/title/tt0878804/?ref_=fn_tt_tt_1,English,USA,PG-13,29000000,2009,1.85
-43,Aimee Garcia,Action|Comedy|Crime,Jon Foo,Rush Hour             ,2185,Wendie Malick,http://www.imdb.com/title/tt4085584/?ref_=fn_tt_tt_1,English,USA,TV-14,,,16.0
-88,Cheech Marin,Action|Adventure|Comedy|Family|Sci-Fi,Alexa PenaVega,Spy Kids ,84325,Daryl Sabara,http://www.imdb.com/title/tt0227538/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2001,1.85
-106,Lindsay Sloane,Comedy|Crime,Kevin Spacey,Horrible Bosses ,353442,Reginald Ballard,http://www.imdb.com/title/tt1499658/?ref_=fn_tt_tt_1,English,USA,R,35000000,2011,2.35
-110,Jeff Bridges,Adventure|Drama|Western,Matt Damon,True Grit ,240962,Bruce Green,http://www.imdb.com/title/tt1403865/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2010,2.35
-109,Anne Hathaway,Comedy|Drama|Romance,Meryl Streep,The Devil Wears Prada ,286178,Rebecca Mader,http://www.imdb.com/title/tt0458352/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2006,2.35
-143,Nichelle Nichols,Adventure|Mystery|Sci-Fi,Leonard Nimoy,Star Trek: The Motion Picture ,63330,Walter Koenig,http://www.imdb.com/title/tt0079945/?ref_=fn_tt_tt_1,English,USA,PG,35000000,1979,2.35
-120,Eric Stonestreet,Comedy|Crime,Jon Favreau,Identity Thief ,97664,T.I.,http://www.imdb.com/title/tt2024432/?ref_=fn_tt_tt_1,English,USA,R,35000000,2013,2.35
-128,Robert Mitchum,Crime|Thriller,Robert De Niro,Cape Fear ,127503,Joe Don Baker,http://www.imdb.com/title/tt0101540/?ref_=fn_tt_tt_1,English,USA,R,35000000,1991,2.35
-123,Jim Sturgess,Crime|Drama|Thriller,Kevin Spacey,21 ,191470,Josh Gad,http://www.imdb.com/title/tt0478087/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2008,2.35
-129,Randall Park,Comedy|Romance,Amy Schumer,Trainwreck ,94241,Josh Segarra,http://www.imdb.com/title/tt3152624/?ref_=fn_tt_tt_1,English,Japan,R,35000000,2015,2.35
-105,Nicole Sullivan,Comedy|Romance,Bernie Mac,Guess Who ,33887,Sherri Shepherd,http://www.imdb.com/title/tt0372237/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2005,1.85
-162,Kristin Scott Thomas,Drama|Romance|War,Colin Firth,The English Patient ,142067,Jürgen Prochnow,http://www.imdb.com/title/tt0116209/?ref_=fn_tt_tt_1,English,USA,R,27000000,1996,1.85
-138,Matt McCoy,Crime|Drama|Mystery|Thriller,Kevin Spacey,L.A. Confidential ,414219,Paul Guilfoyle,http://www.imdb.com/title/tt0119488/?ref_=fn_tt_tt_1,English,USA,R,35000000,1997,2.35
-100,Kelly Preston,Adventure|Comedy|Family|Sci-Fi,Michael Angarano,Sky High ,61321,Nicholas Braun,http://www.imdb.com/title/tt0405325/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2005,2.35
-90,Wilford Brimley,Comedy,Tom Selleck,In & Out ,32416,Lauren Ambrose,http://www.imdb.com/title/tt0119360/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1997,1.85
-108,Marg Helgenberger,Action|Horror|Sci-Fi|Thriller,Natasha Henstridge,Species ,61018,Jordan Lund,http://www.imdb.com/title/tt0114508/?ref_=fn_tt_tt_1,English,USA,R,35000000,1995,2.35
-101,Lin Shaye,Horror,Johnny Depp,A Nightmare on Elm Street ,149285,Amanda Wyss,http://www.imdb.com/title/tt0087800/?ref_=fn_tt_tt_1,English,USA,X,1800000,1984,1.85
-109,Jake Weber,Horror|Sci-Fi|Thriller,Dylan Baker,The Cell ,79877,James Gammon,http://www.imdb.com/title/tt0209958/?ref_=fn_tt_tt_1,English,USA,R,33000000,2000,2.35
-132,Anne Parillaud,Action|Adventure,Leonardo DiCaprio,The Man in the Iron Mask ,125219,Judith Godrèche,http://www.imdb.com/title/tt0120744/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1998,1.85
-123,Kevin Connolly,Biography|Drama|Family|History|Sport,Scott Glenn,Secretariat ,20827,Dylan Walsh,http://www.imdb.com/title/tt1028576/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2010,2.35
-87,Sarah Michelle Gellar,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Chris Evans,TMNT ,53786,Mako,http://www.imdb.com/title/tt0453556/?ref_=fn_tt_tt_1,English,Hong Kong,PG,34000000,2007,2.35
-109,Riley Smith,Biography|Drama|Sport,Alfre Woodard,Radio ,32370,Debra Winger,http://www.imdb.com/title/tt0316465/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2003,1.85
-109,Justin Timberlake,Comedy|Romance,Mila Kunis,Friends with Benefits ,270228,Masi Oka,http://www.imdb.com/title/tt1632708/?ref_=fn_tt_tt_1,English,USA,R,35000000,2011,2.35
-92,Ike Barinholtz,Comedy,Chloë Grace Moretz,Neighbors 2: Sorority Rising ,28041,Kiersey Clemons,http://www.imdb.com/title/tt4438848/?ref_=fn_tt_tt_1,English,USA,R,35000000,2016,2.35
-125,Ruth Wilson,Biography|Comedy|Drama|History|Music,Tom Hanks,Saving Mr. Banks ,117719,B.J. Novak,http://www.imdb.com/title/tt2140373/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2013,2.35
-202,Delroy Lindo,Biography|Drama|History|Romance,Denzel Washington,Malcolm X ,63923,Al Freeman Jr.,http://www.imdb.com/title/tt0104797/?ref_=fn_tt_tt_1,English,USA,PG-13,33000000,1992,1.85
-134,Maude Apatow,Comedy,Charlyne Yi,This Is 40 ,104005,Mackenzie Aladjem,http://www.imdb.com/title/tt1758830/?ref_=fn_tt_tt_1,English,USA,R,35000000,2012,2.35
-88,Bernie Mac,Comedy|Family,Robin Williams,Old Dogs ,31191,Ann-Margret,http://www.imdb.com/title/tt0976238/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2009,1.85
-92,Kevin Grevioux,Action|Adventure|Fantasy|Sci-Fi|Thriller,Craig Parker,Underworld: Rise of the Lycans ,119974,Steven Mackintosh,http://www.imdb.com/title/tt0834001/?ref_=fn_tt_tt_1,English,USA,R,35000000,2009,2.35
-91,Christine Taylor,Comedy|Romance,Robin Williams,License to Wed ,32157,Mindy Kaling,http://www.imdb.com/title/tt0762114/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2007,2.35
-75,Jon Heder,Comedy|Romance|Sport,Jon Lovitz,The Benchwarmers ,40651,Tim Meadows,http://www.imdb.com/title/tt0437863/?ref_=fn_tt_tt_1,English,USA,PG-13,33000000,2006,1.85
-98,Victor Webster,Comedy|Romance,Stockard Channing,Must Love Dogs ,25883,Elizabeth Perkins,http://www.imdb.com/title/tt0417001/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2005,2.35
-147,Al Pacino,Biography|Crime|Drama,Johnny Depp,Donnie Brasco ,225122,Anne Heche,http://www.imdb.com/title/tt0119008/?ref_=fn_tt_tt_1,English,USA,R,35000000,1997,2.35
-100,Jaymes Butler,Action|Horror|Sci-Fi,Milla Jovovich,Resident Evil ,198701,Colin Salmon,http://www.imdb.com/title/tt0120804/?ref_=fn_tt_tt_1,English,UK,R,33000000,2002,1.85
-120,Zelda Rubinstein,Fantasy|Horror,Heather O'Rourke,Poltergeist ,105446,Craig T. Nelson,http://www.imdb.com/title/tt0084516/?ref_=fn_tt_tt_1,English,USA,PG,10700000,1982,2.35
-104,Tom Hanks,Comedy|Crime|Thriller,J.K. Simmons,The Ladykillers ,84131,Stephen Root,http://www.imdb.com/title/tt0335245/?ref_=fn_tt_tt_1,English,USA,R,35000000,2004,1.85
-103,Beau Bridges,Action|Crime|Drama|Mystery|Thriller,Mila Kunis,Max Payne ,107772,Jamie Hector,http://www.imdb.com/title/tt0467197/?ref_=fn_tt_tt_1,English,Canada,PG-13,35000000,2008,2.35
-109,Olivia Wilde,Action|Sci-Fi|Thriller,Matt Bomer,In Time ,304318,Justin Timberlake,http://www.imdb.com/title/tt1637688/?ref_=fn_tt_tt_1,English,USA,PG-13,40000000,2011,2.35
-104,Noureen DeWulf,Comedy|Romance,Danneel Ackles,The Back-up Plan ,40654,Tom Bosley,http://www.imdb.com/title/tt1212436/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2010,2.35
-112,Steve Howey,Comedy|Drama|Romance,Ashley Williams,Something Borrowed ,48019,Kirsten Day,http://www.imdb.com/title/tt0491152/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2011,1.85
-60,Kimberly Elise,Drama|Romance,Jodi Lyn O'Keefe,Hit the Floor             ,1641,Logan Browning,http://www.imdb.com/title/tt2368645/?ref_=fn_tt_tt_1,English,USA,,,,
-95,Marsha Thomason,Adventure|Comedy|Fantasy,Tom Wilkinson,Black Knight ,30771,Vincent Regan,http://www.imdb.com/title/tt0265087/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,2001,2.35
-102,Vic Morrow,Comedy|Drama|Family|Sport,Tatum O'Neal,The Bad News Bears ,16323,Joyce Van Patten,http://www.imdb.com/title/tt0074174/?ref_=fn_tt_tt_1,English,USA,PG,,1976,1.85
-102,Raul Julia,Action|Adventure|Comedy|Thriller,Ming-Na Wen,Street Fighter ,53115,Kylie Minogue,http://www.imdb.com/title/tt0111301/?ref_=fn_tt_tt_1,English,Japan,PG-13,35000000,1994,2.35
-150,Frank Finlay,Biography|Drama|War,Emilia Fox,The Pianist ,497946,Ed Stoppard,http://www.imdb.com/title/tt0253474/?ref_=fn_tt_tt_1,English,France,R,35000000,2002,1.85
-122,Jason Flemyng,Horror|Mystery|Thriller,Johnny Depp,From Hell ,124765,Ian Richardson,http://www.imdb.com/title/tt0120681/?ref_=fn_tt_tt_1,English,USA,R,35000000,2001,2.35
-101,Hiam Abbass,Drama|Family|Fantasy,Keisha Castle-Hughes,The Nativity Story ,8143,Shaun Toub,http://www.imdb.com/title/tt0762121/?ref_=fn_tt_tt_1,English,USA,PG,30000000,2006,2.35
-108,Paris Hilton,Horror,Robert Ri'chard,House of Wax ,94456,Brian Van Holt,http://www.imdb.com/title/tt0397065/?ref_=fn_tt_tt_1,English,Australia,R,30000000,2005,1.85
-98,Julia Roberts,Drama|Romance,Natalie Portman,Closer ,168314,Colin Stinton,http://www.imdb.com/title/tt0376541/?ref_=fn_tt_tt_1,English,USA,R,27000000,2004,1.85
-137,Naomi Watts,Biography|Crime|Drama,Leonardo DiCaprio,J. Edgar ,102728,Kaitlyn Dever,http://www.imdb.com/title/tt1616195/?ref_=fn_tt_tt_1,English,USA,R,35000000,2011,2.35
-112,Cameron Boyce,Horror|Mystery,Jason Flemyng,Mirrors ,86205,Julian Glover,http://www.imdb.com/title/tt0790686/?ref_=fn_tt_tt_1,English,USA,R,35000000,2008,2.35
-101,Lena Olin,Drama|Fantasy|Horror,Aaliyah,Queen of the Damned ,43991,Bruce Spence,http://www.imdb.com/title/tt0238546/?ref_=fn_tt_tt_1,English,USA,R,35000000,2002,2.35
-103,Robert Davi,Action|Horror|Sci-Fi,Adam Baldwin,Predator 2 ,105478,Kevin Peter Hall,http://www.imdb.com/title/tt0100403/?ref_=fn_tt_tt_1,English,USA,R,35000000,1990,1.37
-101,Jesse Tyler Ferguson,Crime|Drama|Thriller,Billy Burke,Untraceable ,40964,Joseph Cross,http://www.imdb.com/title/tt0880578/?ref_=fn_tt_tt_1,English,USA,R,35000000,2008,2.35
-112,Sissy Spacek,Comedy|Drama|Romance|Sci-Fi,Brendan Fraser,Blast from the Past ,48621,Douglas Smith,http://www.imdb.com/title/tt0124298/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1999,2.35
-111,William Hootkins,Action|Adventure|Sci-Fi,Brian Blessed,Flash Gordon ,38017,Sam J. Jones,http://www.imdb.com/title/tt0080745/?ref_=fn_tt_tt_1,English,UK,PG,20000000,1980,2.35
-102,Mike Starr,Comedy|Drama|Romance,Stephen Root,Jersey Girl ,54346,George Carlin,http://www.imdb.com/title/tt0300051/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2004,2.35
-101,Chad Lindberg,Action|Crime|Mystery|Thriller,Cicely Tyson,Alex Cross ,28257,Carmen Ejogo,http://www.imdb.com/title/tt1712170/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2012,2.35
-155,Bob Gunton,Crime|Drama|Mystery|Thriller,Kevin Spacey,Midnight in the Garden of Good and Evil ,31751,Leon Rippy,http://www.imdb.com/title/tt0119668/?ref_=fn_tt_tt_1,English,USA,R,30000000,1997,1.85
-93,Joshua Mikel,Action|Crime|Thriller,Robert De Niro,Heist ,16193,D.B. Sweeney,http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,English,USA,R,19000000,2015,2.35
-109,Bill Bailey,Comedy|Family|Fantasy,Daniel Mays,Nanny McPhee Returns ,19230,Eros Vlahos,http://www.imdb.com/title/tt1415283/?ref_=fn_tt_tt_1,English,UK,PG,35000000,2010,2.35
-140,J.T. Walsh,Biography|Crime|Drama,Frank Whaley,Hoffa ,17124,Paul Guilfoyle,http://www.imdb.com/title/tt0104427/?ref_=fn_tt_tt_1,English,USA,R,35000000,1992,2.35
-108,Callum Rennie,Drama|Mystery|Sci-Fi|Thriller,Mitch Pileggi,The X Files: I Want to Believe ,78256,Nicki Aycox,http://www.imdb.com/title/tt0443701/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2008,2.35
-96,Steve Coogan,Comedy|Family|Fantasy|Romance,Anne Hathaway,Ella Enchanted ,47800,Joanna Lumley,http://www.imdb.com/title/tt0327679/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2004,1.85
-123,Eddie Marsan,Biography|Drama|Sport,Will Smith,Concussion ,44788,Albert Brooks,http://www.imdb.com/title/tt3322364/?ref_=fn_tt_tt_1,English,UK,PG-13,35000000,2015,2.35
-106,Benjamin J. Cain Jr.,Action|Mystery|Thriller,Ken Arnold,Abduction ,65044,Richard Cetrone,http://www.imdb.com/title/tt1600195/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2011,2.35
-76,Olivia Williams,Adventure|Animation|Comedy|Family|War,Jim Broadbent,Valiant ,15788,Pip Torrens,http://www.imdb.com/title/tt0361089/?ref_=fn_tt_tt_1,English,UK,G,35000000,2005,1.85
-107,Rip Torn,Comedy|Drama,Robert Downey Jr.,Wonder Boys ,54643,Richard Thomas,http://www.imdb.com/title/tt0185014/?ref_=fn_tt_tt_1,English,USA,R,55000000,2000,2.35
-82,Tracy Morgan,Action|Comedy|Sci-Fi|Thriller,Drake Bell,Superhero Movie ,52052,Marion Ross,http://www.imdb.com/title/tt0426592/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2008,1.85
-109,James Ransone,Crime|Drama|Thriller,Alona Tal,Broken City ,63548,Michael Beach,http://www.imdb.com/title/tt1235522/?ref_=fn_tt_tt_1,English,USA,R,35000000,2013,2.35
-99,Portia de Rossi,Comedy|Horror,Shannon Elizabeth,Cursed ,26126,Derek Mears,http://www.imdb.com/title/tt0257516/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2005,2.35
-91,Dania Ramirez,Action|Crime|Thriller,Joseph Gordon-Levitt,Premium Rush ,95274,Aasif Mandvi,http://www.imdb.com/title/tt1547234/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2012,2.35
-87,Richard T. Jones,Action|Comedy|Crime,Jim Gaffigan,Hot Pursuit ,34948,Michael Mosley,http://www.imdb.com/title/tt2967224/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2015,2.35
-125,Lucy Gordon,Adventure|Drama|Romance|War,Djimon Hounsou,The Four Feathers ,28130,Alex Jennings,http://www.imdb.com/title/tt0240510/?ref_=fn_tt_tt_1,English,UK,PG-13,35000000,2002,2.35
-118,Clifton Collins Jr.,Action|Crime|Romance|Thriller,Jason Statham,Parker ,90046,Wendell Pierce,http://www.imdb.com/title/tt1904996/?ref_=fn_tt_tt_1,English,USA,R,35000000,2013,2.35
-98,Jon Favreau,Comedy|Romance|Sport,Kirsten Dunst,Wimbledon ,51842,Austin Nichols,http://www.imdb.com/title/tt0360201/?ref_=fn_tt_tt_1,English,UK,PG-13,31000000,2004,2.35
-92,Brooke Shields,Comedy|Family,Brendan Fraser,Furry Vengeance ,12399,Matt Prokop,http://www.imdb.com/title/tt0492389/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2010,1.85
-93,Cariba Heine,Action|Horror|Sci-Fi,Alex Russell,Bait ,11482,Richard Brancatisano,http://www.imdb.com/title/tt1438173/?ref_=fn_tt_tt_1,English,Australia,R,30000000,2012,1.85
-116,Alun Armstrong,Action|Adventure|Fantasy,Liam Neeson,Krull ,23351,Lysette Anthony,http://www.imdb.com/title/tt0085811/?ref_=fn_tt_tt_1,English,UK,PG,27000000,1983,2.35
-92,Tom Cruise,Drama|Thriller|War,Meryl Streep,Lions for Lambs ,41170,Andrew Garfield,http://www.imdb.com/title/tt0891527/?ref_=fn_tt_tt_1,English,USA,R,35000000,2007,2.35
-115,Dann Florek,Action|Drama|Thriller|War,Rosanna Arquette,Flight of the Intruder ,4795,Christopher Rich,http://www.imdb.com/title/tt0099587/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1991,2.35
-120,Nat Faxon,Comedy|Music,Tim Meadows,Walk Hard: The Dewey Cox Story ,55630,Matt Price,http://www.imdb.com/title/tt0841046/?ref_=fn_tt_tt_1,English,USA,R,35000000,2007,2.35
-111,Scott Glenn,Drama,Kevin Spacey,The Shipping News ,28542,Jason Behr,http://www.imdb.com/title/tt0120824/?ref_=fn_tt_tt_1,English,USA,R,35000000,2001,2.35
-94,Ronny Cox,Action|Western,Gregory Smith,American Outlaws ,12077,Harris Yulin,http://www.imdb.com/title/tt0244000/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2001,1.85
-100,Jim Broadbent,Biography|Drama|History|Romance,Michiel Huisman,The Young Victoria ,44931,Thomas Kretschmann,http://www.imdb.com/title/tt0962736/?ref_=fn_tt_tt_1,English,UK,PG,35000000,2009,2.35
-101,Bashar Rahal,Action|Crime|Mystery|Thriller,Tom Skerritt,Whiteout ,31918,Shawn Doyle,http://www.imdb.com/title/tt0365929/?ref_=fn_tt_tt_1,English,USA,R,35000000,2009,2.35
-139,Tye Sheridan,Drama|Fantasy,Brad Pitt,The Tree of Life ,136367,Fiona Shaw,http://www.imdb.com/title/tt0478304/?ref_=fn_tt_tt_1,English,USA,PG-13,32000000,2011,1.85
-91,Lela Rochon,Action|Comedy|Thriller,Paul Sorvino,Knock Off ,11512,Ray Nicholas,http://www.imdb.com/title/tt0120724/?ref_=fn_tt_tt_1,English,Aruba,R,35000000,1998,2.35
-109,Martin Donovan,Action|Crime|Drama|Thriller,Mireille Enos,Sabotage ,47498,Maurice Compte,http://www.imdb.com/title/tt1742334/?ref_=fn_tt_tt_1,English,USA,R,35000000,2014,1.85
-102,Mark Addy,Action|Mystery|Thriller,Heath Ledger,The Order ,14962,Benno Fürmann,http://www.imdb.com/title/tt0304711/?ref_=fn_tt_tt_1,English,USA,R,38000000,2003,1.85
-103,Wayne Knight,Action|Crime|Drama|Thriller,Julie Benz,Punisher: War Zone ,48999,Colin Salmon,http://www.imdb.com/title/tt0450314/?ref_=fn_tt_tt_1,English,USA,R,35000000,2008,2.35
-83,Rip Torn,Action|Adventure|Family|Sci-Fi,Kevin Zegers,Zoom ,15015,Thomas F. Wilson,http://www.imdb.com/title/tt0383060/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2006,1.85
-123,Soleyman Pierini,Adventure|Biography|Drama|Thriller,Joseph Gordon-Levitt,The Walk ,77394,Jade Kindar-Martin,http://www.imdb.com/title/tt3488710/?ref_=fn_tt_tt_1,English,USA,PG,35000000,2015,2.35
-101,Lee Arenberg,Action|Adventure|Fantasy,Marley Shelton,Warriors of Virtue ,2189,Angus Macfadyen,http://www.imdb.com/title/tt0120479/?ref_=fn_tt_tt_1,English,USA,PG,35000000,1997,2.35
-117,Albert Finney,Comedy|Drama|Romance,Archie Panjabi,A Good Year ,70698,Richard Coyle,http://www.imdb.com/title/tt0401445/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2006,2.35
-60,Indira Varma,Crime|Drama|Mystery|Thriller,Ruth Wilson,Luther             ,70568,Warren Brown,http://www.imdb.com/title/tt1474684/?ref_=fn_tt_tt_1,English,UK,TV-MA,,,16.0
-114,Thomas Ian Nicholas,Drama,Adam Baldwin,Radio Flyer ,10410,John Heard,http://www.imdb.com/title/tt0105211/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,1992,2.35
-330,Jesse Borrego,Crime|Drama,Delroy Lindo,Blood In, Blood Out ,23181,Raymond Cruz,http://www.imdb.com/title/tt0106469/?ref_=fn_tt_tt_1,English,USA,R,35000000,1993,1.66
-121,Tom Wilkinson,Action|Drama|Sci-Fi|Thriller,Jim Broadbent,Smilla's Sense of Snow ,11747,Julia Ormond,http://www.imdb.com/title/tt0120152/?ref_=fn_tt_tt_1,English,Denmark,R,35000000,1997,2.35
-114,Gregg Henry,Crime|Drama|Mystery|Thriller,Peter Coyote,Femme Fatale ,28584,Rie Rasmussen,http://www.imdb.com/title/tt0280665/?ref_=fn_tt_tt_1,English,France,R,35000000,2002,1.85
-156,Rod Steiger,Biography|Drama|History|War,Oliver Reed,Lion of the Desert ,9852,John Gielgud,http://www.imdb.com/title/tt0081059/?ref_=fn_tt_tt_1,English,Libya,PG,35000000,1980,2.35
-135,François Cluzet,Adventure|Drama|Romance|War,Olivier Martinez,The Horseman on the Roof ,4885,Isabelle Carré,http://www.imdb.com/title/tt0113362/?ref_=fn_tt_tt_1,French,France,R,,1995,2.35
-148,Jeffrey Dover,Drama|Romance|War|Western,Jeremy W. Auman,Ride with the Devil ,11101,Tobey Maguire,http://www.imdb.com/title/tt0134154/?ref_=fn_tt_tt_1,English,USA,R,35000000,1999,2.35
-148,Hanaa Bouchaib,Drama,Maricel Álvarez,Biutiful ,68885,Eduard Fernández,http://www.imdb.com/title/tt1164999/?ref_=fn_tt_tt_1,Spanish,Mexico,R,,2010,2.35
-109,Alice Englert,Action|Adventure|Romance|Sci-Fi,Tamsin Egerton,The Lovers ,2138,Bipasha Basu,http://www.imdb.com/title/tt1321869/?ref_=fn_tt_tt_1,English,Belgium,R,,2015,
-93,Sam Shepard,Action|Comedy|Crime|Western,Salma Hayek,Bandidas ,28848,Dwight Yoakam,http://www.imdb.com/title/tt0416496/?ref_=fn_tt_tt_1,English,France,PG-13,32000000,2006,2.35
-,Aisha Tyler,Crime|Drama,Bill Cobbs,Black Water Transit ,219,Beverly D'Angelo,http://www.imdb.com/title/tt0490087/?ref_=fn_tt_tt_1,English,USA,,23000000,2009,
-113,Aml Ameen,Action|Mystery|Sci-Fi|Thriller,Ki Hong Lee,The Maze Runner ,310903,Jacob Latimore,http://www.imdb.com/title/tt1790864/?ref_=fn_tt_tt_1,English,USA,PG-13,34000000,2014,2.35
-91,June Diane Raphael,Comedy,Tom Wilkinson,Unfinished Business ,23072,Melissa McMeekin,http://www.imdb.com/title/tt2358925/?ref_=fn_tt_tt_1,English,USA,R,35000000,2015,2.35
-139,Geraldine Chaplin,Drama|Romance,Richard E. Grant,The Age of Innocence ,36267,Stuart Wilson,http://www.imdb.com/title/tt0106226/?ref_=fn_tt_tt_1,English,USA,PG,30000000,1993,2.35
-96,Ellen Burstyn,Drama|Sci-Fi,Hugh Jackman,The Fountain ,190990,Mark Margolis,http://www.imdb.com/title/tt0414993/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2006,1.85
-102,Kevin J. O'Connor,Action|Adventure|Comedy|Drama|Thriller,David Paymer,Chill Factor ,8367,Hudson Leick,http://www.imdb.com/title/tt0163579/?ref_=fn_tt_tt_1,English,USA,R,34000000,1999,2.35
-96,Mark Valley,Action|Crime|Drama|Thriller,Nicolas Cage,Stolen ,36914,Sami Gayle,http://www.imdb.com/title/tt1656186/?ref_=fn_tt_tt_1,English,USA,R,35000000,2012,2.35
-101,Yûki Amami,Adventure|Animation|Family|Fantasy,Rumi Hiiragi,Ponyo ,85589,Yuria Nara,http://www.imdb.com/title/tt0876563/?ref_=fn_tt_tt_1,Japanese,Japan,G,34000000,2008,1.85
-128,Melissa Benoist,Drama|Romance,Tiago Riani,The Longest Ride ,50041,Hayley Lovitt,http://www.imdb.com/title/tt2726560/?ref_=fn_tt_tt_1,English,USA,PG-13,34000000,2015,2.35
-109,Charlize Theron,Drama|Sci-Fi|Thriller,Johnny Depp,The Astronaut's Wife ,45497,Clea DuVall,http://www.imdb.com/title/tt0138304/?ref_=fn_tt_tt_1,English,USA,R,34000000,1999,1.85
-114,Eva Marie Saint,Adventure|Drama|Romance,Liam Aiken,I Dreamed of Africa ,3740,Vincent Perez,http://www.imdb.com/title/tt0167203/?ref_=fn_tt_tt_1,English,USA,PG-13,34000000,2000,2.35
-105,Dennis Quaid,Comedy|Romance|Sport,Gerard Butler,Playing for Keeps ,23916,Judy Greer,http://www.imdb.com/title/tt1540128/?ref_=fn_tt_tt_1,English,USA,PG-13,35000000,2012,2.35
-141,Fana Mokoena,Biography|Drama|History,Terry Pheto,Mandela: Long Walk to Freedom ,21223,Tony Kgoroge,http://www.imdb.com/title/tt2304771/?ref_=fn_tt_tt_1,English,UK,PG-13,35000000,2013,2.35
-195,Warren Beatty,Biography|Drama|History|Romance,Paul Sorvino,Reds ,16255,M. Emmet Walsh,http://www.imdb.com/title/tt0082979/?ref_=fn_tt_tt_1,English,USA,PG,35000000,1981,1.85
-138,Demi Moore,Drama|Thriller,Tom Cruise,A Few Good Men ,181879,Kevin Pollak,http://www.imdb.com/title/tt0104257/?ref_=fn_tt_tt_1,English,USA,R,40000000,1992,2.35
-101,Bill Duke,Action|Comedy|Crime|Drama|Thriller,Michael Jai White,Exit Wounds ,27580,Bruce McGill,http://www.imdb.com/title/tt0242445/?ref_=fn_tt_tt_1,English,USA,R,33000000,2001,2.35
-99,Cedric the Entertainer,Action|Comedy|Crime,Nia Long,Big Momma's House ,66941,Tichina Arnold,http://www.imdb.com/title/tt0208003/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2000,1.85
-85,Brianne Brozey,Adventure|Animation|Comedy|Family|Fantasy,Kyle Hebert,Thunder and the House of Magic ,4265,Joe Ochman,http://www.imdb.com/title/tt3148834/?ref_=fn_tt_tt_1,English,Belgium,,34000000,2013,2.35
-89,Veronika Vernadskaya,Action|Adventure|Horror|Sci-Fi|Thriller,Max Minghella,The Darkest Hour ,49312,Dato Bakhtadze,http://www.imdb.com/title/tt1093357/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2011,2.35
-99,Stephen Boss,Drama|Music|Romance,Ryan Guzman,Step Up Revolution ,45394,Misha Gabriel Hamilton,http://www.imdb.com/title/tt1800741/?ref_=fn_tt_tt_1,English,USA,PG-13,33000000,2012,2.35
-105,Kenan Thompson,Action|Adventure|Crime|Drama|Thriller,Lin Shaye,Snakes on a Plane ,115649,Rachel Blanchard,http://www.imdb.com/title/tt0417148/?ref_=fn_tt_tt_1,English,Germany,R,33000000,2006,2.35
-97,Joseph Sikora,Crime|Horror|Mystery|Thriller,Keanu Reeves,The Watcher ,22220,Chris Ellis,http://www.imdb.com/title/tt0204626/?ref_=fn_tt_tt_1,English,USA,R,33000000,2000,1.85
-140,Marco St. John,Action|Crime|Drama|Thriller,Laura Harring,The Punisher ,124242,Eddie Jemison,http://www.imdb.com/title/tt0330793/?ref_=fn_tt_tt_1,English,USA,R,33000000,2004,2.35
-118,Kuno Becker,Drama|Romance|Sport,Sean Pertwee,Goal! The Dream Begins ,50919,Stephen Dillane,http://www.imdb.com/title/tt0380389/?ref_=fn_tt_tt_1,English,USA,PG-13,10000000,2005,2.35
-94,Reggie Lee,Action|Crime|Thriller,Jason Statham,Safe ,83097,Robert John Burke,http://www.imdb.com/title/tt1656190/?ref_=fn_tt_tt_1,English,USA,R,30000000,2012,2.35
-124,Kurt Fuller,Comedy|Drama|Romance,Angelina Jolie Pitt,Pushing Tin ,24826,Jake Weber,http://www.imdb.com/title/tt0120797/?ref_=fn_tt_tt_1,English,USA,R,38000000,1999,2.35
-134,Ian McDiarmid,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode VI - Return of the Jedi ,681857,Kenny Baker,http://www.imdb.com/title/tt0086190/?ref_=fn_tt_tt_1,English,USA,PG,32500000,1983,2.35
-113,Jason Cope,Action|Sci-Fi|Thriller,Ryan Kruger,Doomsday ,62770,Jeremy Crutchley,http://www.imdb.com/title/tt0483607/?ref_=fn_tt_tt_1,English,UK,R,30000000,2008,2.35
-124,David Kross,Drama|Romance,Kate Winslet,The Reader ,189812,Susanne Lothar,http://www.imdb.com/title/tt0976051/?ref_=fn_tt_tt_1,English,USA,R,32000000,2008,1.85
-98,Lauren Ambrose,Comedy,Justin Theroux,Wanderlust ,62198,Joe Lo Truglio,http://www.imdb.com/title/tt1655460/?ref_=fn_tt_tt_1,English,USA,R,,2012,1.85
-97,Zooey Deschanel,Comedy|Family|Fantasy|Romance,Peter Dinklage,Elf ,147597,Will Ferrell,http://www.imdb.com/title/tt0319343/?ref_=fn_tt_tt_1,English,USA,PG,33000000,2003,1.85
-123,Kyra Sedgwick,Drama|Fantasy|Romance|Sci-Fi,Robert Duvall,Phenomenon ,63839,David Gallagher,http://www.imdb.com/title/tt0117333/?ref_=fn_tt_tt_1,English,USA,PG,32000000,1996,2.35
-99,Nichelle Nichols,Adventure|Comedy|Family|Sport,James Coburn,Snow Dogs ,20219,M. Emmet Walsh,http://www.imdb.com/title/tt0281373/?ref_=fn_tt_tt_1,English,Canada,PG,35000000,2002,1.85
-101,Alfre Woodard,Comedy|Drama|Fantasy,Bill Murray,Scrooged ,61396,Robert Mitchum,http://www.imdb.com/title/tt0096061/?ref_=fn_tt_tt_1,English,USA,PG-13,32000000,1988,1.85
-92,Moises Arias,Comedy|Family|Sport,Ana de la Reguera,Nacho Libre ,65551,Héctor Jiménez,http://www.imdb.com/title/tt0457510/?ref_=fn_tt_tt_1,English,Germany,PG,32000000,2006,1.85
-131,Wendi McLendon-Covey,Comedy|Romance,Matt Lucas,Bridesmaids ,218711,Steve Bannos,http://www.imdb.com/title/tt1478338/?ref_=fn_tt_tt_1,English,USA,R,32500000,2011,2.35
-107,James Franco,Comedy|Fantasy,Channing Tatum,This Is the End ,310540,Emma Watson,http://www.imdb.com/title/tt1245492/?ref_=fn_tt_tt_1,English,USA,R,32000000,2013,2.35
-103,Enrico Colantoni,Horror,Nia Long,Stigmata ,54390,Portia de Rossi,http://www.imdb.com/title/tt0145531/?ref_=fn_tt_tt_1,English,USA,R,29000000,1999,2.35
-129,Charlize Theron,Biography|Drama,Robert De Niro,Men of Honor ,89424,Michael Rapaport,http://www.imdb.com/title/tt0203019/?ref_=fn_tt_tt_1,English,USA,R,32000000,2000,2.35
-107,Hayden Christensen,Action|Crime|Thriller,Paul Walker,Takers ,46961,Jay Hernandez,http://www.imdb.com/title/tt1135084/?ref_=fn_tt_tt_1,English,USA,PG-13,20000000,2010,2.35
-89,Robert De Niro,Comedy,Robin Williams,The Big Wedding ,37493,Topher Grace,http://www.imdb.com/title/tt1931435/?ref_=fn_tt_tt_1,English,USA,R,35000000,2013,2.35
-113,Tony Curran,Action|Comedy|Crime,Brandon T. Jackson,Big Mommas: Like Father, Like Son ,19671,Portia Doubleday,http://www.imdb.com/title/tt1464174/?ref_=fn_tt_tt_1,English,USA,PG-13,32000000,2011,2.35
-93,Cas Anvar,Mystery|Sci-Fi|Thriller,Jake Gyllenhaal,Source Code ,379462,Russell Peters,http://www.imdb.com/title/tt0945513/?ref_=fn_tt_tt_1,English,USA,PG-13,32000000,2011,1.85
-120,Danny Nucci,Adventure|Biography|Drama|Thriller,Illeana Douglas,Alive ,38949,Michael DeLorenzo,http://www.imdb.com/title/tt0106246/?ref_=fn_tt_tt_1,English,USA,R,32000000,1993,1.85
-98,Virginia Madsen,Mystery|Thriller,Logan Lerman,The Number 23 ,164608,Ed Lauter,http://www.imdb.com/title/tt0481369/?ref_=fn_tt_tt_1,English,USA,R,32000000,2007,2.35
-105,Julian Richings,Action|Adventure|Drama|Family,Callum Rennie,The Young and Prodigious T.S. Spivet ,11347,Judy Davis,http://www.imdb.com/title/tt1981107/?ref_=fn_tt_tt_1,English,France,PG,33000000,2013,2.35
-142,John Belushi,Action|Comedy|War,Christopher Lee,1941 ,25193,Treat Williams,http://www.imdb.com/title/tt0078723/?ref_=fn_tt_tt_1,English,USA,PG,35000000,1979,2.35
-98,Freddy Rodríguez,Drama|Family|Sport,Ken Howard,Dreamer: Inspired by a True Story ,10018,Holmes Osborne,http://www.imdb.com/title/tt0418647/?ref_=fn_tt_tt_1,English,USA,PG,32000000,2005,2.35
-96,Kyle Schmid,Crime|Drama|Thriller,Viggo Mortensen,A History of Violence ,186606,William Hurt,http://www.imdb.com/title/tt0399146/?ref_=fn_tt_tt_1,English,USA,R,32000000,2005,1.85
-87,Jason Flemyng,Action|Crime|Thriller,Jason Statham,Transporter 2 ,156267,Matthew Modine,http://www.imdb.com/title/tt0388482/?ref_=fn_tt_tt_1,English,France,PG-13,32000000,2005,2.35
-107,Pat Hingle,Action|Thriller|Western,Leonardo DiCaprio,The Quick and the Dead ,69197,Roberts Blossom,http://www.imdb.com/title/tt0114214/?ref_=fn_tt_tt_1,English,Japan,R,32000000,1995,1.85
-90,Mike Doyle,Comedy|Romance,Frances Fisher,Laws of Attraction ,18771,Nora Dunn,http://www.imdb.com/title/tt0323033/?ref_=fn_tt_tt_1,English,Ireland,PG-13,28000000,2004,2.35
-121,Marc Anthony,Drama|Thriller,Nicolas Cage,Bringing Out the Dead ,53028,Sonja Sohn,http://www.imdb.com/title/tt0163988/?ref_=fn_tt_tt_1,English,USA,R,55000000,1999,2.35
-119,RZA,Action|Crime|Sci-Fi|Thriller,Alice Braga,Repo Men ,87768,Yvette Nicole Brown,http://www.imdb.com/title/tt1053424/?ref_=fn_tt_tt_1,English,USA,R,32000000,2010,2.35
-107,Aimee Garcia,Action|Drama|Fantasy|Horror|Thriller,Robert Forster,Dragon Wars: D-War ,21506,Chris Mulkey,http://www.imdb.com/title/tt0372873/?ref_=fn_tt_tt_1,English,South Korea,PG-13,35000000,2007,2.35
-110,Nancy Travis,Comedy|Family|Fantasy,Haley Joel Osment,Bogus ,5176,Andrea Martin,http://www.imdb.com/title/tt0115725/?ref_=fn_tt_tt_1,English,USA,PG,30000000,1996,1.85
-100,Olivia Wilde,Comedy,Steve Buscemi,The Incredible Burt Wonderstone ,60596,Steve Carell,http://www.imdb.com/title/tt0790628/?ref_=fn_tt_tt_1,English,USA,PG-13,30000000,2013,2.35
-75,Frank Welker,Animation|Comedy|Family|Fantasy|Musical,George Kennedy,Cats Don't Dance ,5600,Hal Holbrook,http://www.imdb.com/title/tt0118829/?ref_=fn_tt_tt_1,English,USA,G,32000000,1997,1.33
-132,Vanessa Redgrave,Drama,Bill Murray,Cradle Will Rock ,8039,Emily Watson,http://www.imdb.com/title/tt0150216/?ref_=fn_tt_tt_1,English,USA,R,32000000,1999,2.35
-105,Beau Bridges,Drama|Mystery|Thriller,Tony Curran,The Good German ,21481,Leland Orser,http://www.imdb.com/title/tt0452624/?ref_=fn_tt_tt_1,English,USA,R,32000000,2006,1.66
-93,Rollo Weeks,Action|Adventure|Comedy|Fantasy|Romance,Joan Plowright,George and the Dragon ,3088,Simon Callow,http://www.imdb.com/title/tt0306892/?ref_=fn_tt_tt_1,English,USA,PG,32000000,2004,2.35
-289,Marlon Brando,Drama|War,Harrison Ford,Apocalypse Now ,450676,Robert Duvall,http://www.imdb.com/title/tt0078788/?ref_=fn_tt_tt_1,English,USA,R,31500000,1979,2.35
-102,Kelli Garner,Comedy|Romance,Rob Riggle,Going the Distance ,50523,Jim Gaffigan,http://www.imdb.com/title/tt1322312/?ref_=fn_tt_tt_1,English,USA,R,32000000,2010,2.35
-143,Olympia Dukakis,Drama|Music,Alicia Witt,Mr. Holland's Opus ,30230,Jean Louisa Kelly,http://www.imdb.com/title/tt0113862/?ref_=fn_tt_tt_1,English,USA,PG,6500000,1995,2.35
-113,Jordi Mollà,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,Gary Oldman,Criminal ,17319,Doug Cockle,http://www.imdb.com/title/tt3014866/?ref_=fn_tt_tt_1,English,UK,R,31500000,2016,2.35
-161,Michael Gough,Biography|Drama|Romance,Meryl Streep,Out of Africa ,52339,Michael Kitchen,http://www.imdb.com/title/tt0089755/?ref_=fn_tt_tt_1,English,USA,PG,31000000,1985,1.85
-138,Bruce Greenwood,Drama|Thriller,Denzel Washington,Flight ,264047,Nadine Velazquez,http://www.imdb.com/title/tt1907668/?ref_=fn_tt_tt_1,English,USA,R,31000000,2012,2.35
-126,Lois Chiles,Action|Adventure|Sci-Fi|Thriller,Desmond Llewelyn,Moonraker ,69534,Lois Maxwell,http://www.imdb.com/title/tt0079574/?ref_=fn_tt_tt_1,English,UK,PG,34000000,1979,2.35
-99,Tom Wilkinson,Adventure|Comedy|Crime|Drama,Bill Murray,The Grand Budapest Hotel ,475518,F. Murray Abraham,http://www.imdb.com/title/tt2278388/?ref_=fn_tt_tt_1,English,USA,R,25000000,2014,1.37
-101,Mika Boorem,Drama|Mystery,Anthony Hopkins,Hearts in Atlantis ,30339,Hope Davis,http://www.imdb.com/title/tt0252501/?ref_=fn_tt_tt_1,English,USA,PG-13,31000000,2001,2.35
-103,Peter Jason,Comedy|Fantasy|Horror|Thriller,Julian Sands,Arachnophobia ,50389,Brian McNamara,http://www.imdb.com/title/tt0099052/?ref_=fn_tt_tt_1,English,USA,PG-13,31000000,1990,1.85
-118,Andre Braugher,Crime|Drama|Mystery|Sci-Fi|Thriller,Dennis Quaid,Frequency ,81866,Noah Emmerich,http://www.imdb.com/title/tt0186151/?ref_=fn_tt_tt_1,English,USA,PG-13,31000000,2000,2.35
+director_name,duration,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,gross,movie_title,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,language,content_rating,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
+Gaspar Noé,161,116,Emily Alyn Lind,488,336467,Enter the Void ,45449,943,0,English,Not Rated,2009,289,7.3,2.35,23000
+Amy Heckerling,92,613,Justin Kirk,1000,2964,Vamps ,7444,3086,2,English,PG-13,2012,945,5.1,1.78,0
+Lasse Hallström,93,805,Sarah Roemer,1000,,Hachi: A Dog's Tale ,155249,4453,0,English,G,2009,884,8.1,1.85,115000
+Jérôme Salle,110,44,Tanya van Graan,5000,,Zulu ,12817,5273,0,English,R,2013,170,6.7,2.35,0
+Tommy Lee Jones,122,567,Tim Blake Nelson,883,2428883,The Homesman ,21370,2896,1,English,R,2014,596,6.6,2.35,0
+Jesse Vaughan,91,574,Jenifer Lewis,890,13571817,Juwanna Mann ,5312,3104,3,English,PG-13,2002,578,4.5,1.85,939
+,45,15,Trond Fausa,422,,Lilyhammer             ,19164,537,0,English,TV-MA,,57,8.1,16.0,16000
+Atom Egoyan,115,125,Marie-Josée Croze,232,1554566,Ararat ,8624,699,1,English,R,2002,150,6.6,1.66,824
+William Bindley,94,518,Jake Lloyd,844,508867,Madison ,1033,3583,0,English,PG,2001,626,6.5,2.35,282
+Wayne Beach,93,922,LL Cool J,1000,1181197,Slow Burn ,3299,4329,0,English,R,2005,1000,5.9,1.85,191
+Gérard Krawczyk,94,17,Ryôko Hirosue,235,81525,Wasabi ,29392,303,1,French,R,2001,46,6.6,2.35,0
+James Gunn,95,102,Gregg Henry,499,7774730,Slither ,61912,1120,0,English,R,2006,298,6.5,1.85,0
+Martin Brest,105,383,Ronny Cox,901,234760500,Beverly Hills Cop ,126464,3464,1,English,R,1984,605,7.3,1.85,0
+Chris Columbus,103,925,Devin Ratray,3000,285761243,Home Alone ,311075,7521,5,English,PG,1990,1000,7.5,1.85,20000
+Leonard Nimoy,102,801,Ted Danson,19000,167780960,3 Men and a Baby ,36918,21499,4,English,PG,1987,875,5.9,1.85,3000
+Sydney Pollack,116,481,Sydney Pollack,13000,177200000,Tootsie ,77366,14701,1,English,PG,1982,521,7.4,2.35,0
+Tony Scott,110,555,Tom Skerritt,10000,176781728,Top Gun ,219171,13069,2,English,PG,1986,1000,6.9,1.33,19000
+Ang Lee,120,5,Pei-Pei Cheng,103,128067808,"Crouching Tiger, Hidden Dragon ",217740,129,3,Mandarin,PG-13,2000,21,7.9,2.35,0
+Sam Mendes,122,158,Peter Gallagher,18000,130058047,American Beauty ,822500,19078,0,English,R,1999,828,8.4,2.35,22000
+Tom Hooper,118,520,Jennifer Ehle,14000,138795342,The King's Speech ,503631,15732,0,English,R,2010,1000,8.0,1.85,64000
+Ivan Reitman,107,247,Tony Jay,742,111936400,Twins ,87538,2151,1,English,PG,1988,384,6.0,1.85,0
+,45,260,Bobby Campo,460,,Scream: The TV Series             ,18058,2380,0,English,TV-14,,292,7.3,16.0,0
+Udayan Prasad,102,882,Eddie Redmayne,17000,317040,The Yellow Handkerchief ,6723,30978,1,English,PG-13,2008,13000,6.8,2.35,1000
+Steven Spielberg,154,271,Rae Dawn Chong,852,94175854,The Color Purple ,60988,2592,0,English,PG-13,1985,581,7.8,1.85,6000
+JK Youn,103,13,Ji-won Ha,94,,Tidal Wave ,2659,213,2,Korean,R,2009,80,5.7,2.35,558
+Timur Bekmambetov,141,635,Ayelet Zurer,11000,,Ben-Hur ,62,13390,2,English,PG-13,2016,744,6.1,2.35,0
+Morten Tyldum,114,305,Rory Kinnear,19000,91121452,The Imitation Game ,467613,20295,1,English,PG-13,2014,393,8.1,2.35,165000
+Howard Zieff,109,271,Albert Brooks,1000,69800000,Private Benjamin ,18140,2419,1,English,R,1980,745,6.1,1.85,855
+Michael Apted,124,572,Beverly D'Angelo,874,79900000,Coal Miner's Daughter ,12974,2667,0,English,PG,1980,816,7.5,1.85,0
+Thor Freudenthal,94,569,Zachary Gordon,17000,64001297,Diary of a Wimpy Kid ,32002,20154,1,English,PG,2010,975,6.2,1.85,0
+Andrés Muschietti,100,250,Megan Charpentier,1000,71588220,Mama ,134869,1949,1,English,PG-13,2013,340,6.2,1.85,57000
+John Carpenter,101,598,Donald Pleasence,2000,47000000,Halloween ,157857,4400,0,English,R,1978,742,7.9,2.35,12000
+Harold Ramis,98,624,Randy Quaid,816,61400000,National Lampoon's Vacation ,71183,3617,1,English,R,1983,695,7.4,1.85,0
+Jeff Tremaine,102,27,Georgina Cates,925,101978840,Bad Grandpa ,77724,1018,0,English,R,2013,38,6.6,1.85,26000
+Stephen Frears,94,39,Sylvia Syms,326,56437947,The Queen ,85333,486,0,English,PG-13,2006,48,7.3,1.85,0
+Tim Burton,92,217,Jeffrey Jones,925,73326666,Beetlejuice ,189413,1953,3,English,PG,1988,692,7.5,1.85,15000
+Tyler Perry,113,607,Tasha Smith,2000,55184721,Why Did I Get Married? ,9811,6510,8,English,PG-13,2007,721,5.6,1.85,1000
+Gillian Armstrong,115,902,Kirsten Dunst,23000,50003300,Little Women ,36624,29370,4,English,PG,1994,4000,7.3,1.85,0
+James Watkins,95,259,Roger Allam,11000,54322273,The Woman in Black ,139749,11946,0,English,PG-13,2012,326,6.4,2.35,29000
+Simon West,87,383,Tessa Thompson,1000,47860214,When a Stranger Calls ,34711,2452,0,English,PG-13,2006,431,5.0,2.35,0
+Shawn Levy,88,799,Donald Faison,934,47811275,Big Fat Liar ,29008,3707,1,English,PG,2002,927,5.4,1.85,896
+Michael Cimino,183,652,Meryl Streep,22000,,The Deer Hunter ,232577,34025,2,English,R,1978,11000,8.2,2.35,11000
+Barry Levinson,97,957,Kirsten Dunst,22000,43022524,Wag the Dog ,67604,29252,0,English,R,1997,4000,7.1,1.85,12000
+Jim Fall,94,566,Adam Lamberg,925,42672630,The Lizzie McGuire Movie ,27580,3423,1,English,PG,2003,738,5.3,2.35,0
+Ric Roman Waugh,112,874,Harold Perrineau,12000,42919096,Snitch ,64747,15800,1,English,PG-13,2013,1000,6.5,2.35,12000
+Michael Dougherty,98,562,Conchata Ferrell,3000,42592530,Krampus ,29867,4567,0,English,PG-13,2015,658,6.2,2.35,27000
+Robert Rodriguez,104,1000,Salma Hayek,4000,40064955,The Faculty ,92074,12170,1,English,R,1998,4000,6.4,1.85,0
+Brian Gibson,118,2,Virginia Capers,90,39100956,What's Love Got to Do with It ,13442,114,0,English,R,1993,22,7.2,1.85,0
+James Mangold,120,1000,Sylvester Stallone,22000,44886089,Cop Land ,69576,40117,3,English,R,1997,13000,6.9,1.85,2000
+Joel Gallen,99,971,JoAnna Garcia Swisher,11000,37882551,Not Another Teen Movie ,80305,15369,0,English,R,2001,983,5.7,1.85,0
+David Ayer,109,953,Anna Kendrick,15000,40983001,End of Watch ,181025,27788,2,English,R,2012,10000,7.7,1.85,38000
+Cameron Crowe,105,13000,Bradley Cooper,15000,20991497,Aloha ,39782,44037,1,English,PG-13,2015,14000,5.4,1.85,11000
+Rob Cohen,106,883,Leslie Bibb,23000,35007180,The Skulls ,26846,26652,0,English,PG-13,2000,1000,5.6,1.85,0
+James Marsh,123,149,Emily Watson,13000,35887263,The Theory of Everything ,265507,14100,0,English,PG-13,2014,876,7.7,2.35,90000
+John Whitesell,86,685,Regina Hall,833,34308901,Malibu's Most Wanted ,15939,4435,3,English,PG-13,2003,807,5.1,2.35,0
+Matt Williams,120,944,James Frain,20000,33771174,Where the Heart Is ,27044,22383,2,English,PG-13,2000,1000,6.8,1.85,0
+David Lean,227,87,José Ferrer,607,6000000,Lawrence of Arabia ,192775,1076,8,English,PG,1962,202,8.4,2.2,11000
+Rob Zombie,119,593,Tyler Mane,908,33386128,Halloween II ,36372,3226,0,English,R,2009,764,4.9,1.85,3000
+Jean-Marc Vallée,115,612,Kevin Rankin,2000,37877959,Wild ,86664,4896,1,English,R,2014,820,7.1,2.35,38000
+Dennis Iliadis,114,616,Monica Potter,956,32721635,The Last House on the Left ,67822,3861,0,English,R,2009,878,6.6,1.85,0
+Clare Kilner,90,458,Debra Messing,1000,31585300,The Wedding Date ,38248,2666,0,English,PG-13,2005,650,6.1,1.85,0
+Rick Rosenthal,94,731,Thomas Ian Nicholas,2000,30259652,Halloween: Resurrection ,26905,5440,5,English,R,2002,864,4.1,2.35,0
+Louis Leterrier,106,850,Jason Flemyng,14000,163192114,Clash of the Titans ,229687,18003,0,English,PG-13,2010,1000,5.8,2.35,15000
+Rob Reiner,98,594,Carol Kane,18000,30857814,The Princess Bride ,294163,20060,0,English,PG,1987,636,8.1,1.85,33000
+Denzel Washington,126,697,Jurnee Smollett-Bell,18000,30226144,The Great Debaters ,47626,22745,1,English,PG-13,2007,2000,7.6,2.35,0
+Nicolas Winding Refn,100,228,Albert Brooks,33000,35054909,Drive ,431578,34337,0,English,R,2011,745,7.8,2.35,81000
+Sara Sugarman,89,231,Carol Kane,811,29302097,Confessions of a Teenage Drama Queen ,23408,2167,8,English,PG,2004,636,4.6,1.85,810
+Nicholas Hytner,111,106,Tim Daly,818,29106737,The Object of My Affection ,15582,1450,0,English,R,1998,511,6.0,1.85,849
+Juan Carlos Fresnadillo,100,306,Harold Perrineau,10000,28637507,28 Weeks Later ,212167,11471,1,English,R,2007,1000,7.0,1.85,0
+Thomas Carter,115,100,Matthew Daddario,116,30127963,When the Game Stands Tall ,12596,525,0,English,PG,2014,110,6.7,1.85,0
+Wayne Wang,106,649,Luke Benward,907,32645546,Because of Winn-Dixie ,8427,3462,5,English,PG,2005,807,6.4,1.85,1000
+Gina Prince-Bythewood,124,865,Sanaa Lathan,1000,27441122,Love & Basketball ,14322,5135,0,English,PG-13,2000,886,7.2,1.85,0
+George Armitage,107,141,Michael Cudlitz,893,28014536,Grosse Pointe Blank ,73347,2044,1,English,R,1997,822,7.4,1.85,0
+Phil Traill,99,628,Katy Mixon,14000,33860010,All About Steve ,33088,16461,3,English,PG-13,2009,982,4.8,1.85,0
+Joe Berlinger,90,162,Erica Leerhsen,193,26421314,Book of Shadows: Blair Witch 2 ,28964,608,0,English,R,2000,184,4.0,1.85,949
+Andrew Fleming,101,266,Rachel True,838,24881000,The Craft ,57140,1812,0,English,R,1996,328,6.2,1.85,6000
+Woody Allen,119,400,Mark Gatiss,19000,23089926,Match Point ,166269,20391,3,English,R,2005,567,7.7,1.85,0
+Elizabeth Allen Rosenbaum,103,125,Hutch Dano,512,26161406,Ramona and Beezus ,13874,1002,2,English,G,2010,316,6.7,2.35,0
+James Ivory,134,258,Peter Vaughan,12000,22954968,The Remains of the Day ,45703,12749,1,English,PG,1993,310,7.9,2.35,0
+Paul Thomas Anderson,155,170,Nicole Ari Parker,3000,26384919,Boogie Nights ,189032,3677,15,English,R,1997,360,7.9,2.35,0
+Robert Harmon,94,232,Rosanna Arquette,1000,22189039,Nowhere to Run ,17074,2210,0,English,R,1993,605,5.5,1.85,466
+Michael Mayer,95,461,Danny Pino,1000,20998709,Flicka ,6095,3845,0,English,PG,2006,786,6.2,2.35,1000
+Martin Weisz,89,399,Daniella Alonso,919,20801344,The Hills Have Eyes II ,49721,2559,0,English,R,2007,557,5.1,2.35,0
+John Ottman,97,579,Joey Lawrence,912,21468807,Urban Legends: Final Cut ,13048,2682,2,English,R,2000,786,4.1,2.35,243
+Jay Russell,90,613,Sissy Spacek,882,19158074,Tuck Everlasting ,17983,2661,2,English,PG,2002,874,6.7,2.35,0
+John Bonito,92,129,Firass Dirani,472,18843314,The Marine ,27486,1045,1,English,PG-13,2006,239,4.7,1.85,0
+Peter Atencio,100,415,Will Forte,826,20566327,Keanu ,15385,2958,2,English,R,2016,622,6.4,2.35,0
+Shana Feste,117,461,Cinda McCain,3000,20218921,Country Strong ,14814,4204,4,English,PG-13,2010,646,6.3,2.35,0
+David Nutter,84,918,Ethan Embry,989,17411331,Disturbing Behavior ,17328,4660,3,English,R,1998,982,5.5,1.85,673
+Derek Cianfrance,140,619,Ben Mendelsohn,33000,21383298,The Place Beyond the Pines ,187170,34413,3,English,R,2012,748,7.3,2.35,47000
+Roger Donaldson,108,537,Akie Kotabe,775,24984868,The November Man ,50056,3033,2,English,R,2014,614,6.3,2.35,0
+Stephan Elliott,109,159,Patrick Bergin,471,16459004,Eye of the Beholder ,13320,1069,1,English,R,1999,308,4.9,2.35,327
+Kathryn Bigelow,131,383,Christian Camargo,10000,15700000,The Hurt Locker ,332065,11114,0,English,R,2008,602,7.6,1.85,16000
+Mark L. Lester,114,563,George C. Scott,695,15100000,Firestarter ,22797,3444,1,English,R,1984,654,6.0,2.35,0
+Andrew Dominik,97,748,Sam Shepard,11000,14938570,Killing Them Softly ,111625,14025,1,English,R,2012,820,6.2,2.35,20000
+Anton Corbijn,122,123,Nina Hoss,22000,17237244,A Most Wanted Man ,57210,22574,3,English,R,2014,164,6.8,2.35,13000
+Tom Green,87,484,Harland Williams,826,14249005,Freddy Got Fingered ,39788,2689,1,English,R,2001,503,4.5,1.85,0
+Mike Nawrocki,85,23,Cam Clarke,354,12701880,The Pirates Who Don't Do Anything: A VeggieTales Movie ,2037,568,0,English,G,2008,173,5.7,1.85,175
+Catherine Owens,85,44,The Edge,468,10353690,U2 3D ,2673,646,0,English,G,2007,67,8.4,1.78,116
+Douglas Aarniokoski,101,377,Adrian Paul,1000,12801190,Highlander: Endgame ,16340,2764,1,English,R,2000,786,4.6,2.35,356
+Bryan Barber,121,526,Faizon Love,907,12549485,Idlewild ,4603,3633,4,English,R,2006,585,6.2,2.35,489
+Lone Scherfig,107,358,Jim Sturgess,11000,13766014,One Day ,106111,17627,0,English,PG-13,2011,5000,7.0,2.35,49000
+Drew Barrymore,111,727,Jimmy Fallon,796,13034417,Whip It ,55665,2633,1,English,PG-13,2009,787,6.9,2.35,10000
+Brian Koppelman,92,366,Tom Noonan,14000,11632420,Knockaround Guys ,19768,15644,1,English,R,2001,442,6.1,2.35,566
+James Foley,97,308,Brian Van Holt,436,12212417,Confidence ,30643,1172,3,English,R,2003,324,6.7,2.35,622
+Albert Brooks,97,745,Bradley Whitford,12000,11614236,The Muse ,9294,15209,2,English,PG-13,1999,821,5.6,1.37,251
+Irwin Winkler,125,65,Keith Allen,427,13337299,De-Lovely ,9649,729,7,English,PG-13,2004,66,6.6,2.35,1000
+Woody Allen,124,563,Larry David,11000,10763469,New York Stories ,13692,12685,0,English,PG,1989,860,6.4,1.85,877
+Steve Gomer,76,47,Kyla Pratt,595,11144518,Barney's Great Adventure ,2724,1139,0,English,G,1998,417,2.8,1.85,436
+RZA,107,353,RZA,746,15608545,The Man with the Iron Fists ,53471,2377,3,English,R,2012,561,5.4,2.35,29000
+Dean Parisot,91,629,Jake Busey,925,10443316,Home Fries ,7159,2913,2,English,PG-13,1998,660,5.0,1.85,247
+Mark Piznarski,96,670,Chris Klein,989,10494147,Here on Earth ,7403,3142,1,English,PG-13,2000,841,5.1,1.85,648
+Terry Gilliam,142,1000,Bob Hoskins,22000,9929000,Brazil ,152306,29475,0,English,R,1985,5000,8.0,1.85,16000
+Sean McNamara,103,782,Rebecca De Mornay,1000,10411980,Raise Your Voice ,22649,4676,0,English,PG,2004,872,5.9,2.35,1000
+,60,186,Nicole de Boer,443,,The Dead Zone             ,7122,981,1,English,TV-14,,319,7.5,,576
+Joel Coen,117,12000,Jeff Bridges,22000,17439163,The Big Lebowski ,537419,47728,1,English,R,1998,12000,8.2,1.85,35000
+Craig Brewer,116,539,Michael Raymond-James,3000,9396487,Black Snake Moan ,52421,5012,0,English,R,2006,788,7.0,2.35,0
+Ron Shelton,118,274,Dash Mihok,556,9059588,Dark Blue ,17261,1873,1,English,R,2002,463,6.6,2.35,455
+Michael Winterbottom,108,254,Archie Panjabi,11000,9172810,A Mighty Heart ,24150,12178,0,English,R,2007,883,6.7,2.35,923
+David Raynr,94,612,Jodi Lyn O'Keefe,11000,8735529,Whatever It Takes ,8055,13524,4,English,PG-13,2000,897,5.5,1.85,816
+Mort Nathan,97,461,Lin Shaye,890,8586376,Boat Trip ,26598,3161,4,English,R,2002,852,4.9,1.85,1000
+Oliver Parker,97,692,Tom Wilkinson,14000,8378141,The Importance of Being Earnest ,18966,16502,5,English,PG,2002,1000,6.9,2.35,0
+Dan Curtis,99,224,Campbell Scott,1000,,The Love Letter ,1465,2166,1,English,Unrated,1998,393,7.4,1.33,515
+Wil Shriner,91,596,Neil Flynn,8000,8080116,Hoot ,6562,10732,0,English,PG,2006,625,5.6,1.85,647
+Martin McDonagh,107,39,Anna Madeley,65,7757130,In Bruges ,307639,173,1,English,R,2008,49,8.0,2.35,32000
+Tina Gordon Chism,95,426,S. Epatha Merkerson,931,9123834,Peeples ,4065,3322,6,English,PG-13,2013,539,5.3,2.35,0
+Peter Cattaneo,102,1000,Bradley Cooper,15000,6409206,The Rocker ,32311,33153,4,English,PG-13,2008,14000,6.2,1.85,0
+Vicky Jenson,88,360,Zach Gilford,24000,6373693,Post Grad ,11498,25637,1,English,PG-13,2009,971,5.3,1.85,0
+Gus Van Sant,106,363,Hal Holbrook,13000,7556708,Promised Land ,30284,14544,1,English,R,2012,826,6.6,1.85,10000
+Woody Allen,92,386,Michael McKean,860,5306447,Whatever Works ,58967,2717,1,English,PG-13,2009,658,7.2,1.85,10000
+Mary Lambert,105,275,Susan Ward,477,5217498,The In Crowd ,3668,2312,4,English,PG-13,2000,397,4.6,1.85,157
+Tommy Lee Jones,107,289,Dwight Yoakam,572,5023275,Three Burials ,34194,1627,2,English,R,2005,324,7.5,2.35,0
+Peter Kassovitz,120,693,Mark Margolis,49000,4956401,Jakob the Liar ,12601,51657,2,English,PG-13,1999,1000,6.5,1.85,0
+Shane Black,103,611,Corbin Bernsen,21000,4235837,Kiss Kiss Bang Bang ,175962,23932,2,English,R,2005,1000,7.6,2.35,0
+Rodman Flender,92,577,Fred Willard,890,4002955,Idle Hands ,33745,3654,0,English,R,1999,729,6.2,1.85,0
+David Lynch,147,669,Robert Forster,6000,7219578,Mulholland Drive ,235992,8484,1,English,R,2001,889,8.0,1.85,16000
+Katja von Garnier,98,220,Agnes Bruckner,837,3525161,Blood and Chocolate ,15388,1675,0,English,PG-13,2007,400,5.5,2.35,0
+Woody Allen,98,557,Naomi Watts,12000,3247816,You Will Meet a Tall Dark Stranger ,36145,19310,0,English,R,2010,6000,6.3,1.85,0
+Mark Romanek,103,844,Charlie Rowe,10000,2412045,Never Let Me Go ,109873,12867,0,English,R,2010,882,7.2,2.35,33000
+,286,527,Tom Hollander,857,,The Company             ,3828,3809,3,English,,,555,7.9,1.78,733
+Brad Anderson,111,25,Eduardo Noriega,918,2203641,Transsiberian ,42792,1252,0,English,R,2008,278,6.7,2.35,0
+Michael Chapman,98,90,Pamela Reed,876,1953732,The Clan of the Cave Bear ,4996,1351,0,English,R,1986,324,5.3,2.35,843
+Antonio Banderas,111,617,Elizabeth Perkins,783,1954202,Crazy in Alabama ,5917,4834,0,English,PG-13,1999,664,6.3,2.35,391
+Michael Haneke,111,287,Siobhan Fallon Hogan,6000,1294640,Funny Games ,69569,6748,0,English,R,2007,294,6.5,1.85,0
+Khalil Sullins,100,46,Kalim Chandler,192,,Listening ,1933,527,0,English,,2014,134,5.6,2.35,708
+Atom Egoyan,116,71,Elaine Cassidy,5000,819852,Felicia's Journey ,6690,5426,0,English,PG-13,1999,203,7.0,2.35,284
+Fritz Lang,145,18,Gustav Fröhlich,136,26435,Metropolis ,111841,203,1,German,Not Rated,1927,23,8.3,1.33,12000
+Pierre Morel,84,58,Cyril Raffaelli,510,1197786,District B13 ,55928,962,2,French,R,2004,297,7.2,2.35,0
+Gary Fleder,115,642,Bill Cobbs,12000,529766,Things to Do in Denver When You're Dead ,22345,14889,2,English,R,1995,970,6.8,1.85,0
+Hsiao-Hsien Hou,105,56,Chen Chang,1000,613556,The Assassin ,9427,1172,1,Mandarin,Not Rated,2015,103,6.4,1.37,0
+Gregor Jordan,98,730,Scott Glenn,936,353743,Buffalo Soldiers ,20730,3578,1,English,R,2001,826,6.9,2.35,664
+Andrey Zvyagintsev,99,9,Vladimir Garin,20,502028,The Return ,31589,48,0,Russian,Unrated,2003,13,8.0,1.85,0
+Tony Jaa,110,7,Petchtai Wongkamlao,64,102055,Ong-bak 2 ,24570,134,0,Thai,R,2008,45,6.2,2.35,0
+Neil Marshall,97,570,JJ Feild,13000,122288,Centurion ,64777,15293,0,English,R,2010,794,6.4,2.35,0
+Russell Mulcahy,88,40,Gina Bellman,825,,Silent Trigger ,2699,1432,0,English,R,1996,476,5.6,2.35,154
+Ryûhei Kitamura,103,1000,Brooke Shields,14000,73548,The Midnight Meat Train ,47574,18639,0,English,R,2008,1000,6.1,2.35,0
+Darrell Roodt,104,2,Wendy Crewson,549,,Winnie Mandela ,609,801,2,English,R,2011,248,6.0,,705
+Dito Montiel,90,642,Al Pacino,17000,28870,The Son of No One ,14280,32814,5,English,R,2011,14000,5.1,2.35,0
+Stefan Ruzowitzky,105,125,Udo Kier,776,22723,All the Queen's Men ,2236,1732,1,English,PG-13,2001,595,4.5,2.35,193
+Jake Paltrow,93,66,Gael Le Cornec,1000,20380,The Good Night ,7519,1245,1,English,R,2007,165,5.9,1.85,445
+Juraj Jakubisko,141,576,Hans Matheson,735,,Bathory: Countess of Blood ,3425,2528,1,English,R,2008,627,6.0,2.35,0
+Anthony Silverston,85,912,Steve Buscemi,14000,,Khumba ,4006,29488,0,English,Not Rated,2013,12000,5.8,,0
+Gabe Ibáñez,109,537,Robert Forster,1000,,Automata ,41638,2829,0,English,R,2014,889,6.1,2.35,13000
+Gerry Lively,105,51,Lucy Gaskell,179,,Dungeons & Dragons: Wrath of the Dragon God ,5018,363,0,English,Not Rated,2005,55,4.9,1.78,473
+Daniele Luchetti,98,50,Rodrigo De la Serna,61,,Chiamatemi Francesco - Il Papa della gente ,80,192,0,Spanish,,2015,57,5.7,,18
+Tung-Shing Yee,119,19,Daniel Wu,556,,Shinjuku Incident ,9177,996,4,Mandarin,R,2009,353,7.1,2.35,821
+Julien Temple,124,303,Dexter Fletcher,631,,Pandaemonium ,695,1585,1,English,PG-13,2000,452,6.6,,277
+Harold Ramis,101,512,Chris Elliott,13000,70906973,Groundhog Day ,437418,15500,1,English,PG,1993,571,8.1,1.85,38000
+Gregory Jacobs,115,642,Channing Tatum,20000,66009973,Magic Mike XXL ,38202,38963,3,English,R,2015,17000,5.7,2.35,41000
+Baz Luhrmann,120,954,Harold Perrineau,29000,46338728,Romeo + Juliet ,167750,33791,2,English,PG-13,1996,1000,6.8,2.35,10000
+Gilles Paquet-Brenner,111,121,Aidan Quinn,1000,7691700,Sarah's Key ,12937,2140,2,French,PG-13,2010,767,7.5,2.35,0
+Peter Cousens,94,124,David Rasche,467,,Freedom ,993,994,2,English,R,2014,220,6.2,,998
+Clint Eastwood,131,638,Morgan Freeman,16000,101157447,Unforgiven ,277505,28544,1,English,R,1992,11000,8.3,2.35,10000
+Lars von Trier,139,236,Jeremy Davies,3000,74205,Manderlay ,18646,4211,1,English,Not Rated,2005,769,7.4,2.35,1000
+Danny Boyle,120,40,Saurabh Shukla,668,141319195,Slumdog Millionaire ,641997,820,0,English,R,2008,56,8.0,2.35,13000
+Adrian Lyne,119,249,Lois Smith,886,156645693,Fatal Attraction ,55101,1639,0,English,R,1987,276,6.9,1.85,3000
+Garry Marshall,125,700,Hector Elizondo,8000,178406268,Pretty Woman ,213476,11135,2,English,R,1990,995,6.9,1.85,11000
+John Blanchard,65,176,Andrea Martin,770,,Towering Inferno             ,10,1125,2,English,,,179,9.5,1.33,0
+John Cornell,108,57,Linda Kozlowski,442,109306210,Crocodile Dundee II ,44096,717,1,English,PG,1988,162,5.5,2.35,489
+Vidhu Vinod Chopra,101,277,Chris Marquette,892,,Broken Horses ,1554,2055,0,English,R,2015,355,5.7,2.35,0
+Oliver Stone,145,560,Tom Berenger,10000,70001698,Born on the Fourth of July ,76842,12098,0,English,R,1989,854,7.2,2.35,4000
+Jon Turteltaub,98,496,Leon,953,68856263,Cool Runnings ,69733,2496,1,English,PG,1993,730,6.9,1.85,0
+Patrick Lussier,101,725,Jaime King,10000,51527787,My Bloody Valentine ,45603,14159,0,English,R,2009,960,5.5,1.85,0
+Ole Bornedal,92,309,Madison Davenport,941,49122319,The Possession ,47169,2348,0,English,PG-13,2012,459,5.9,2.35,17000
+Ted Kotcheff,93,535,Brian Dennehy,13000,,First Blood ,172493,15192,1,English,R,1982,954,7.7,2.35,0
+Sylvain White,109,748,Laz Alonso,997,61356221,Stomp the Yard ,19505,3544,0,English,PG-13,2007,826,5.2,2.35,0
+Lewis Gilbert,123,238,Desmond Llewelyn,456,46800000,The Spy Who Loved Me ,76477,1326,2,English,PG,1977,244,7.1,2.35,0
+,60,84,Steve Gonsalves,155,,Ghost Hunters             ,5563,552,0,English,,,130,6.6,,373
+Jamie Blanks,99,648,Loretta Devine,975,38048637,Urban Legend ,47814,3500,4,English,R,1998,912,5.5,2.35,0
+Stephen Frears,119,418,Peter Capaldi,18000,34700000,Dangerous Liaisons ,52846,35501,2,English,R,1988,17000,7.7,1.85,0
+Tyler Perry,110,490,Phylicia Rashad,849,35010192,Good Deeds ,6352,2226,1,English,PG-13,2012,597,5.4,2.35,0
+Randal Kleiser,107,25,Klaus Maria Brandauer,327,34793160,White Fang ,15730,552,1,English,PG,1991,172,6.7,1.85,0
+Bruce McCulloch,81,636,Elaine Hendrix,8000,30628981,Superstar ,15047,10792,1,English,PG-13,1999,670,5.0,1.85,2000
+Phyllida Lloyd,105,583,Jim Broadbent,11000,29959436,The Iron Lady ,82327,12894,1,English,PG-13,2011,1000,6.4,2.35,18000
+Mike Nawrocki,82,8,Mike Nawrocki,23,25571351,Jonah: A VeggieTales Movie ,3135,49,0,English,G,2002,12,6.6,1.85,184
+John Singleton,109,279,Khandi Alexander,592,27515786,Poetic Justice ,8904,1620,0,English,R,1993,556,5.9,1.85,0
+Kevin Bray,95,111,Roger Guenveur Smith,706,25482931,All About the Benjamins ,9693,1421,2,English,R,2002,266,5.7,2.35,530
+Wes Craven,100,364,W. Earl Brown,723,19900000,Vampire in Brooklyn ,17262,2348,1,English,R,1995,422,4.5,1.85,1000
+John Boorman,118,467,Richard Burton,931,,Exorcist II: The Heretic ,16294,2704,7,English,R,1977,726,3.7,1.85,889
+Courtney Solomon,91,50,James D'Arcy,874,16298046,An American Haunting ,22207,1608,0,English,PG-13,2005,613,5.0,2.35,0
+David Zucker,90,636,Tyler Labine,869,15549702,My Boss's Daughter ,24038,3007,2,English,PG-13,2003,779,4.6,1.85,411
+David Twohy,108,690,Milla Jovovich,26000,15483540,A Perfect Getaway ,56338,41359,4,English,R,2009,14000,6.5,2.35,4000
+Rick Famuyiwa,103,625,Lance Gross,953,20246959,Our Family Wedding ,5721,3299,2,English,PG-13,2010,849,4.9,2.35,1000
+Alan Cohn,96,654,Linda Cardellini,3000,15062898,Dead Man on Campus ,11729,6861,0,English,R,1998,2000,6.0,1.85,645
+Franco Zeffirelli,117,55,Joan Plowright,718,14348123,Tea with Mussolini ,9323,1148,6,English,PG,1999,330,6.9,1.85,970
+Tom Holland,93,514,Bethany Joy Lenz,1000,15171475,Thinner ,19805,2777,0,English,R,1996,855,5.7,1.85,0
+Martin Scorsese,136,213,Liza Minnelli,22000,,"New York, New York ",13548,23378,0,English,PG,1977,740,6.7,1.66,932
+Spike Lee,115,534,Delroy Lindo,1000,13640000,Crooklyn ,6011,3267,0,English,PG-13,1994,848,6.9,1.85,905
+Chris Rock,94,458,Eliza Coupe,12000,12550242,I Think I Love My Wife ,13866,13446,3,English,R,2007,490,5.5,1.85,488
+James Isaac,85,489,Kane Hodder,1000,12610731,Jason X ,38985,3050,1,English,R,2001,935,4.4,1.85,0
+Shawn Levy,88,799,Donald Faison,934,47811275,Big Fat Liar ,29008,3707,1,English,PG,2002,927,5.4,1.85,896
+Emilio Estevez,112,383,Nick Cannon,12000,11204499,Bobby ,38142,13528,0,English,R,2006,593,7.0,2.35,0
+Mark Waters,86,169,Ivana Milicevic,878,10397365,Head Over Heels ,11693,2165,5,English,PG-13,2001,834,5.4,2.35,613
+Josh Schwartz,86,635,Jackson Nicoll,962,9402410,Fun Size ,11233,3715,1,English,PG-13,2012,925,5.4,2.35,0
+Julian Schnabel,112,177,Mathieu Amalric,413,5990075,The Diving Bell and the Butterfly ,89906,1372,1,French,PG-13,2007,412,8.0,1.85,13000
+Todd Field,137,280,Noah Emmerich,14000,5459824,Little Children ,92781,15337,0,English,R,2006,617,7.6,2.35,5000
+Davis Guggenheim,90,191,Sharon Lawrence,12000,5108820,Gossip ,12519,12776,5,English,R,2000,215,5.9,2.35,853
+Tony Goldwyn,107,113,Julie Kavner,10000,4741987,A Walk on the Moon ,6782,10368,1,English,R,1999,233,6.6,1.85,860
+Phillip Noyce,98,15,Terry Pheto,543,4291965,Catch a Fire ,9334,678,3,English,PG-13,2006,113,6.7,2.35,447
+Stephen Carpenter,84,102,Angela Featherstone,159,3100650,Soul Survivors ,7277,417,4,English,PG-13,2001,102,3.9,1.85,231
+James Ivory,139,5,Todd Boyce,423,2474000,Jefferson in Paris ,2427,446,1,English,PG-13,1995,15,5.7,1.85,127
+Stephan Elliott,97,548,Kristin Scott Thomas,14000,2656324,Easy Virtue ,16444,16431,4,English,PG-13,2008,1000,6.7,2.35,2000
+James Fargo,127,324,Joseph Cotten,16000,1000000,Caravans ,524,17250,0,English,PG,1978,469,6.5,2.35,76
+Mike Leigh,150,43,Ruth Sheen,149,3958500,Mr. Turner ,17933,390,0,English,R,2014,44,6.8,2.35,0
+Alain Resnais,104,59,Sara Forestier,412,403649,Wild Grass ,3174,799,0,French,PG,2009,74,6.3,2.35,512
+Costa-Gavras,132,284,Mathieu Kassovitz,380,274299,Amen. ,11077,1429,2,English,Unrated,2002,326,7.3,1.85,0
+Chao-Bin Su,117,21,Shawn Yue,149,,Reign of Assassins ,6069,243,2,Mandarin,R,2010,32,6.9,2.35,1000
+Neil Burger,115,322,Katherine LaNasa,697,183088,The Lucky Ones ,11704,2243,0,English,R,2008,329,7.0,1.85,702
+Kenneth Lonergan,186,338,Kieran Culkin,13000,46495,Margaret ,12053,14638,1,English,R,2011,1000,6.5,1.85,0
+Bo Zenga,90,378,Kenan Thompson,826,,Stan Helsing ,9928,2207,7,English,R,2009,521,3.6,1.85,934
+Rob Reiner,90,767,Rebecca De Mornay,1000,1752214,Flipped ,60460,4377,0,English,PG,2010,872,7.7,1.85,14000
+Ang Lee,134,11000,Heath Ledger,15000,83025853,Brokeback Mountain ,259837,39789,0,English,R,2005,13000,7.7,1.85,13000
+Jonathan Liebesman,101,429,Danny Woodburn,833,190871240,Teenage Mutant Ninja Turtles ,167089,2690,0,English,PG-13,2014,809,5.9,2.35,62000
+Amy Heckerling,97,201,Dan Hedaya,927,56631572,Clueless ,123390,1724,1,English,PG-13,1995,281,6.8,1.85,0
+Todd Haynes,107,135,Celia Weston,2000,15854988,Far from Heaven ,36542,2447,2,English,PG-13,2002,258,7.4,1.85,0
+Steve Pink,99,390,Gillian Jacobs,3000,12282677,Hot Tub Time Machine 2 ,28159,4702,4,English,R,2015,837,5.1,1.85,0
+,55,2,Olaf Lubaszenko,20,447093,Dekalog             ,12590,25,0,Polish,TV-MA,,3,9.1,1.33,0
+Philip Kaufman,124,170,Stephen Marcus,14000,7060876,Quills ,44795,14726,1,English,R,2000,230,7.4,1.85,0

@@ -1,65 +1,381 @@
-num_critic_for_reviews,duration,actor_1_facebook_likes,genres,actor_1_name,actor_3_name,plot_keywords,language,budget,title_year,actor_2_facebook_likes
-8,120,114,Adventure|Drama,Konstantin Khabenskiy,Eugenia Khirivskaya,rafting|russia|school|student|teacher,Russian,4000000,2013,45
-34,168,713,Drama|Family|History|Musical,Blythe Danner,Howard Caine,continental congress|debate|declaration of independence|massachusetts|pennsylvania,English,4000000,1972,649
-36,93,223,Drama|Mystery|Romance|Thriller,Saad Siddiqui,Fadia Nadda,,English,4000000,2012,11
-35,96,431,Drama|War,Jean Harlow,James Hall,bomb|bombing mission|munitions|oxford|royal flying corps,English,3950000,1930,12
-6,103,650,Comedy|Drama|Romance,Debra Messing,Peter Jacobson,directed by star|written and directed by cast member,English,4000000,2007,536
-39,93,763,Horror,Lily Rabe,Kira McLean,documentary crew|mass suicide|survivor|tied feet|tied up while barefoot,English,4000000,2016,637
-182,84,399,Horror|Thriller,Robin McLeavy,Victoria Thaine,escape|high school|high school prom|prom|prom king,English,,2009,129
-14,81,166,Horror,Kristen Quintrall,Black Thomas,motel|psychopath|psychopathic killer|road trip|vomiting,English,4000000,2012,134
-3,84,637,Comedy|Romance,Eric Mabius,Brooke D'Orsay,,English,4000000,2012,346
-3,94,544,Adventure|Biography|Drama|Romance,Rachel Hendrix,Diana Vickers,boyfriend girlfriend relationship|friend|praying|surfing|wave,English,4000000,2014,476
-1,141,11000,Adventure|Drama|History,Morgan Freeman,Moises Arias,chariot race|epic|false accusation|jerusalem|slave,English,100000000,2016,744
-62,120,559,Biography|Drama|History,Robert Shaw,Paul Scofield,catholic|chancellor|divorce|king henry viii|thomas more,English,2000000,1966,269
-161,121,3000,Drama|Romance,Robert Duvall,William Holden,media|monologue|television|television network|television news,English,3800000,1976,977
-157,226,503,Drama|History|Romance|War,Hattie McDaniel,Thomas Mitchell,battle of the sexes|gallantry|honesty|indifference|scandal,English,3977000,1939,384
-31,104,507,Biography|Drama,Tom Cullen,Marama Corlett,dance|dancer|dancing|desert|iran,English,4000000,2014,236
-53,152,773,Adventure|War|Western,James Coburn,Warren Oates,apache|apache indian|confederate|mexico|scout,English,3800000,1965,575
-1,92,881,Drama,Snoop Dogg,Nicholas Gonzalez,latina|south central los angeles,English,,2009,826
-21,107,277,Biography|Comedy|Musical|Romance|Western,Keenan Wynn,Betty Hutton,girl|gun|love|sharpshooter|the end,English,3768785,1950,244
-246,97,414,Comedy|Crime|Drama,Kayvan Novak,Alex Macqueen,accidental shooting|bird|crow|exploding animal|muslim,English,,2010,365
-42,115,119,Drama,Fernanda Montenegro,Fernanda Torres,1910s|desert|dunes|goat|slave,Portuguese,8000000,2005,69
-78,95,963,Comedy|Crime|Drama,Michael Kelly,Charlotte Sullivan,gun running|organized crime|pimp|superhero|vigilante,English,3500000,2009,654
-41,102,89,Adventure|Comedy|Musical|Romance,Gladys Cooper,Ellen Ross,hoop|horseback riding|love|pirate|singer,English,3700000,1948,78
-61,99,117,Drama,Alice Olivia Clarke,Stephen Henderson,bar|bartender|death|heart attack|mentor protege relationship,English,3800000,2009,64
-112,109,3000,Comedy|Drama,Dominic Cooper,James Corden,gay|headmaster|oxford|school|teacher,English,2000000,2006,796
-349,113,14000,Action|Mystery|Thriller,Liam Neeson,Aidan Quinn,agriculture|airport|amnesia|nurse|scientist,English,30000000,2011,902
-55,25,443,Comedy|Drama|War,David Ogden Stiers,Mike Farrell,colonel|doctor|korean war|major|nurse,English,,,421
-88,113,183,Drama,Brenda Vaccaro,John McGiver,gay|homosexual|homosexuality|hustler|male rear nudity,English,3600000,1969,89
-122,91,1000,Comedy|Drama|Music,Tom Wilkinson,Lesley Sharp,dole|male stripper|northern england|steel worker|unemployment,English,3500000,1997,891
-134,88,628,Comedy,Peter Graves,Barbara Billingsley,air traffic controller|airplane|airport|pilot|spoof,English,3500000,1980,575
-11,88,2000,Action|Thriller,Michael Jai White,Jon Osbeck,army|michael jai white|ohio|steve austin,English,5000000,2015,872
-20,97,826,Comedy|Drama,Nia Long,Tony Cox,bully|drug dealer|first part|neighbor|neighborhood,English,3500000,1995,723
-28,97,851,Crime|Drama|Thriller,Jada Pinkett Smith,Khandi Alexander,1990s|escape|graduation|hustler|street,English,3500000,1993,582
-22,42,912,Drama|Music,Ta'Rhonda Jones,Malik Yoba,music business|new york city|record executive|record label|singer,English,,,906
-95,85,3000,Comedy|Fantasy|Horror|Thriller,George Kennedy,Dorothy Lamour,anthology|hit and run|hit by a car|living statue|melting woman,English,3500000,1987,273
-31,121,575,Comedy|Drama|Romance|Western,Slim Pickens,L.Q. Jones,desert|partner|prostitute|stagecoach|water,English,3716946,1970,372
-79,134,255,Biography|Crime|Drama|History,John Forsythe,Will Geer,homoeroticism|kansas|murder|police|robbery,English,3500000,1967,220
-25,149,157,Drama,Colleen Dewhurst,Beatrice Straight,belgium|congo|convent|nun|nurse,English,3500000,1959,139
-22,121,606,Action|Crime|Drama|Mystery|Thriller,Janet Leigh,Shelley Winters,kidnapping|los angeles california|neo noir|private detective|ransom,English,3500000,1966,481
-110,116,195,Thriller,Bernard Cribbins,Clive Swift,penknife|police|rape|serial killer|united kingdom,English,2000000,1972,146
-425,92,648,Horror|Mystery,Julian Richings,Ralph Ineson,black magic|goat|isolation|naked woman|witch,English,3500000,2015,191
-19,93,625,Comedy,Joe Estevez,Anthony Johnson,friend|obscenity|scam|vacant lot|van,English,3500000,1998,118
-43,96,385,Comedy|Drama|Romance,John Mahoney,Michael McGlone,claim in title|infidelity|irish american|love|sex,English,3500000,1996,356
-127,105,3000,Biography|Drama,Brendan Fraser,Kevin J. O'Connor,friendship|gardener|gay interest|homosexual|memory,English,3500000,1998,258
-262,129,827,Drama|Mystery|Thriller,Ricardo Darín,Guillermo Francella,investigation|justice|murder|suspect|tension,Spanish,2000000,2009,88
-184,87,1000,Horror,Greg Nicotero,Joseph Pilato,bunker|experiment|military|research|scientist,English,3500000,1985,177
-33,94,430,Horror|Thriller,Gideon Emery,Derek Magyar,blood splatter|heart ripped out|jock strap|train|vomiting,English,,2008,209
-252,37,634,Comedy|Fantasy|Horror|Thriller,Ted Raimi,Kassie Wesley DePaiva,cabin|cabin in the woods|demon|evil dead|woods,English,3600000,1987,328
-31,81,560,Action|Adventure|Comedy|Musical,Wanda Sykes,Robert Vaughn,based on sketch comedy|corporation|cult film|evil corporation|sex,English,3000000,2001,555
-139,97,984,Horror,Ian Ziering,Cassandra Scerbo,cult film|hurricane|school bus|shark|shark feature,English,1000000,2013,697
-39,106,174,Drama|History,Elpidia Carrillo,Damián Delgado,1520s|aztec|indian|spanish colonization|spanish conquest,Spanish,3500000,1998,16
-337,103,29,Comedy|Drama|Fantasy|Horror,Otto Jespersen,Glenn Erland Tosterud,bear|cameraman|hunter|secret government agency|troll,Norwegian,19900000,2010,4
-30,101,827,Comedy|Romance,Frances Conroy,Kevin Sussman,erectile dysfunction|mugger|mugging|subway robbery|therapy,English,3500000,2006,729
-265,102,622,Action|Comedy|Sci-Fi,Will Forte,Rosemarie DeWitt,alien|escape|manager|neighborhood watch|ohio,English,68000000,2012,591
-50,98,11000,Comedy|Drama,Zooey Deschanel,Dallas Roberts,love|michigan|musician|novelist|student,English,3500000,2005,8000
-50,91,4000,Action|Comedy|Romance,Jordana Brewster,Scoot McNairy,1959 cadillac|diamonds|female villain|force field|voyeurism,English,3500000,2004,756
-9,105,426,Action|Biography|Crime|Drama|Family|Fantasy,Diahann Carroll,Lara Jean Chorostecki,,English,3500000,2016,294
-15,98,368,Crime|Drama|Mystery|Thriller,Alice Krige,Blaine Anderson,blood splatter|ski mask|stolen money|vomiting|warehouse,English,3500000,2008,168
-5,104,922,Action|Comedy|Crime|Thriller,Fisher Stevens,Robert Townsend,bar|box office flop|dance|one word title|voice over narration,English,1000000,1998,893
-1,45,773,Drama|Thriller,James Nesbitt,Genevieve O'Reilly,adultery|baptist church|dentist|double murder|tv mini series,English,,,133
-4,96,708,Horror|Thriller,Teri Polo,Jere Burns,death|forensic|murder|profiler|serial killer,English,3500000,2009,574
-44,148,2000,Action|Animation|Crime|Sci-Fi|Thriller,Michael Emerson,Grey Griffin,batman|joker|mutant|tattoo on breast|the joker,English,3500000,2013,774
-6,100,21,Documentary,Jane Goodall,Peter Agnefjall,,English,3500000,2015,3
-17,86,603,Action|Adventure|Fantasy|Thriller,Bashar Rahal,Ralitsa Paskaleva,castle|dragon|kidnapping|satire|sword and sorcery,English,3500000,2014,145
-7,92,2000,Action|Crime|Drama|Thriller,Alexa PenaVega,Lew Temple,chess|drugs|love|meth|pawn,English,3500000,2014,660
+actor_3_facebook_likes,language
+826,English
+957,English
+283,English
+368,English
+585,English
+1000,English
+294,English
+159,English
+174,English
+767,English
+3000,English
+258,English
+706,English
+186,English
+323,English
+158,English
+717,English
+39,English
+434,English
+72,English
+432,English
+5,English
+210,English
+1000,English
+447,English
+401,English
+282,English
+163,English
+323,English
+201,English
+511,English
+581,English
+294,English
+764,English
+398,English
+521,English
+639,English
+303,English
+256,English
+730,English
+655,English
+509,English
+795,English
+15,English
+11000,English
+692,English
+317,English
+479,English
+2000,English
+405,English
+600,English
+897,English
+602,English
+1000,English
+592,English
+809,English
+1000,English
+338,English
+591,English
+982,English
+77,English
+848,English
+184,English
+380,English
+830,English
+215,English
+440,English
+0,English
+502,English
+308,English
+237,English
+235,English
+393,English
+194,English
+261,English
+1000,English
+821,English
+484,English
+886,English
+600,English
+482,English
+23,English
+302,English
+59,Hindi
+327,English
+835,English
+807,English
+535,English
+12,Russian
+677,English
+77,English
+692,English
+135,English
+319,English
+906,English
+364,English
+826,English
+255,English
+345,English
+522,English
+628,English
+558,English
+750,English
+213,English
+311,English
+995,English
+956,English
+551,English
+760,English
+308,English
+586,English
+1000,English
+854,English
+436,English
+179,English
+84,English
+595,English
+730,English
+67,English
+514,English
+560,English
+548,English
+1000,English
+140,English
+20,English
+808,English
+559,English
+3000,English
+651,English
+631,English
+443,English
+734,English
+501,English
+132,English
+563,English
+404,English
+167,English
+252,English
+8000,English
+202,English
+107,English
+10000,English
+795,English
+510,English
+322,English
+451,English
+553,English
+19,English
+2000,English
+20,English
+579,English
+820,English
+805,English
+501,English
+855,English
+826,English
+10,Mandarin
+61,English
+865,English
+50,English
+114,French
+269,English
+104,English
+500,English
+650,English
+812,English
+789,English
+893,English
+668,English
+643,English
+40,English
+678,English
+520,English
+287,English
+225,English
+664,English
+5000,English
+16,English
+957,English
+135,English
+350,English
+839,English
+427,English
+206,English
+650,English
+547,English
+749,English
+595,English
+491,English
+505,English
+292,English
+395,English
+412,English
+275,English
+913,English
+808,English
+687,English
+16,English
+576,Mandarin
+497,English
+365,English
+433,English
+253,English
+52,French
+196,English
+6,French
+996,English
+96,English
+766,English
+54,English
+296,English
+225,English
+14000,English
+723,English
+298,English
+690,English
+903,English
+716,English
+2000,English
+1000,English
+597,English
+127,English
+251,English
+336,English
+81,English
+49,English
+807,English
+71,English
+690,English
+723,English
+10000,English
+923,English
+898,English
+1000,English
+839,English
+249,English
+808,English
+655,English
+322,English
+748,English
+175,English
+882,English
+257,English
+398,English
+4,English
+633,English
+8000,English
+465,English
+651,English
+119,English
+748,English
+423,English
+389,English
+177,English
+418,English
+823,English
+968,English
+720,English
+638,English
+767,English
+19000,English
+465,English
+91,English
+19,Maya
+162,English
+520,English
+204,English
+501,English
+211,English
+280,English
+988,English
+681,English
+235,English
+913,English
+416,English
+11000,English
+0,English
+473,English
+287,English
+586,English
+664,English
+57,English
+78,English
+687,English
+173,English
+552,English
+214,English
+235,English
+495,English
+584,English
+754,English
+223,English
+12,English
+490,English
+3000,English
+510,English
+64,English
+58,English
+441,English
+249,English
+715,English
+294,English
+210,English
+44,English
+327,English
+19000,English
+903,English
+135,English
+354,English
+353,English
+674,English
+795,English
+616,English
+685,English
+1000,English
+889,English
+683,English
+826,English
+497,English
+351,English
+284,English
+572,English
+563,English
+311,English
+402,English
+54,French
+762,English
+624,English
+171,English
+613,English
+595,English
+835,English
+287,English
+500,English
+706,English
+249,English
+485,English
+61,English
+259,English
+443,English
+219,English
+167,English
+39,English
+379,English
+87,English
+173,English
+502,English
+472,English
+2,English
+385,English
+483,Mandarin
+533,Kazakh
+398,English
+541,French
+596,English
+380,English
+72,Telugu
+100,English
+433,English
+4000,English
+787,English
+279,English
+511,English
+420,English
+785,English
+478,Mandarin
+559,English
+954,English
+275,English
+1000,English
+906,English
+7,Mandarin
+1000,English
+501,English
+46,English
+494,English
+789,English
+692,English
+377,English
+280,English

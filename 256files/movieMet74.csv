@@ -1,21 +1,331 @@
-director_facebook_likes,cast_total_facebook_likes,facenumber_in_poster,movie_imdb_link,content_rating,title_year,actor_2_facebook_likes,movie_facebook_likes
-453,50313,2,http://www.imdb.com/title/tt0433387/?ref_=fn_tt_tt_1,R,2005,23000,0
-5,2739,1,http://www.imdb.com/title/tt3268668/?ref_=fn_tt_tt_1,PG-13,2015,426,0
-0,11327,0,http://www.imdb.com/title/tt0290212/?ref_=fn_tt_tt_1,R,2002,724,134
-85,901,1,http://www.imdb.com/title/tt0090327/?ref_=fn_tt_tt_1,R,1986,194,0
-,1359,3,http://www.imdb.com/title/tt0194624/?ref_=fn_tt_tt_1,TV-14,,396,558
-0,1645,0,http://www.imdb.com/title/tt0116477/?ref_=fn_tt_tt_1,PG-13,1996,591,0
-263,226,3,http://www.imdb.com/title/tt0367027/?ref_=fn_tt_tt_1,Unrated,2006,51,0
-56,56,0,http://www.imdb.com/title/tt1185616/?ref_=fn_tt_tt_1,R,2008,0,0
-0,359,1,http://www.imdb.com/title/tt0349159/?ref_=fn_tt_tt_1,PG-13,2003,69,32
-117,446,0,http://www.imdb.com/title/tt0912593/?ref_=fn_tt_tt_1,,2007,21,0
-22,11184,3,http://www.imdb.com/title/tt3172532/?ref_=fn_tt_tt_1,R,2015,1000,0
-,11618,5,http://www.imdb.com/title/tt0212662/?ref_=fn_tt_tt_1,,,289,43
-90,408,0,http://www.imdb.com/title/tt0925248/?ref_=fn_tt_tt_1,PG,2007,142,0
-129,3427,1,http://www.imdb.com/title/tt1518812/?ref_=fn_tt_tt_1,PG,2010,962,0
-13,1136,0,http://www.imdb.com/title/tt0418753/?ref_=fn_tt_tt_1,NC-17,2005,334,592
-34,1156,1,http://www.imdb.com/title/tt0229340/?ref_=fn_tt_tt_1,R,2000,159,495
-11,3011,4,http://www.imdb.com/title/tt0118866/?ref_=fn_tt_tt_1,PG-13,1997,559,166
-10,768,0,http://www.imdb.com/title/tt1695994/?ref_=fn_tt_tt_1,R,2010,131,974
-0,1917,1,http://www.imdb.com/title/tt0090095/?ref_=fn_tt_tt_1,R,1985,572,739
-0,51441,2,http://www.imdb.com/title/tt0372334/?ref_=fn_tt_tt_1,PG-13,2004,1000,857
+num_critic_for_reviews,director_facebook_likes,actor_1_name,cast_total_facebook_likes,actor_3_name,actor_2_facebook_likes,movie_facebook_likes
+46,32,Bruce Willis,16735,Jessica Lowndes,1000,0
+38,0,Kirk Fox,245,Rob Campbell,67,204
+239,448,Fionnula Flanagan,956,Eric Sykes,203,20000
+250,0,Michael Biehn,4228,Jenette Goldstein,626,18000
+82,165,Jeremy Brett,1164,Theodore Bikel,272,0
+140,13,Muse Watson,50284,Anne Heche,4000,0
+129,42,Rob Riggle,3627,James D'Arcy,756,14000
+285,729,Virginia Madsen,2170,M.C. Gainey,306,0
+91,422,Chris Moss,35345,Jay Chandrasekhar,459,0
+318,0,Jamie Lee Curtis,4400,P.J. Soles,742,12000
+283,611,Jet Li,6229,Maggie Cheung,643,0
+52,9,Liam Aiken,2164,Kevin Nealon,636,309
+56,92,Harold Perrineau,5306,Eddie Cibrian,886,7000
+186,248,Ryan Reynolds,19410,Alex Rocco,988,3000
+178,52,Costas Mandylor,1978,Betsy Russell,346,12000
+140,36,Emmanuelle Vaugier,3294,Paulo Costanzo,580,2000
+469,364,Jeff Bridges,25549,James Frain,10000,30000
+63,12,Will Ferrell,9271,Dan Hedaya,357,0
+148,33,Alex Pettyfer,17396,Erik Knudsen,976,16000
+265,192,Dan Byrd,4500,Vinessa Shaw,1000,0
+75,39,Kevin Grevioux,2713,Mary McCormack,517,320
+113,51,Morgan Saylor,952,Diana Maria Riva,234,21000
+62,17,Brandon T. Jackson,4797,Shad Moss,912,0
+54,49,T.I.,1538,Malika,503,874
+223,36,Anna Kendrick,12676,Ben Platt,751,36000
+50,19,Marc Blucas,3344,Bruce Davison,954,476
+125,0,Gary Cole,2365,Chelcie Ross,888,0
+81,11,Alexander Gould,4060,Marc Blucas,982,814
+37,0,Thomas F. Wilson,2135,Megyn Price,400,110
+44,11,Vanessa Williams,2020,Caroll Spinney,436,339
+197,847,Don Cheadle,6317,Armando Riesco,960,4000
+15,117,Ava Gardner,1567,John Ireland,490,419
+543,201,Lou Taylor Pucci,673,Ellen Sandweiss,150,70000
+112,80,Nia Vardalos,2016,Rachel Dratch,503,0
+153,80,Judy Greer,5992,Chris Klein,2000,300
+94,22,Jim Broadbent,3007,William Hootkins,593,1000
+62,8,DeRay Davis,760,Conrad Coates,122,238
+157,47,Paul Walker,27381,Ivana Milicevic,979,0
+35,9,Aidan Quinn,1727,Paul Freeman,327,352
+21,3,Victor Wong,805,Clyde Kusatsu,193,154
+236,168,Rufus Sewell,4210,Jake Wood,979,15000
+50,4,Tippi Hedren,1262,Zakes Mokae,537,0
+106,541,Brenda Fricker,409,Gerard McSorley,96,0
+106,30,Josh Hutcherson,14492,Carlos Bardem,287,0
+173,219,Janeane Garofalo,2340,Chris Andrew Ciulla,876,0
+41,0,Rob Paulsen,1364,Mary Mouser,262,0
+41,22,George Peppard,1769,Paul Winfield,642,903
+145,57,Julianna Guill,730,Tim Williams,152,0
+31,6,Macaulay Culkin,5433,Griffin Dunne,2000,0
+105,30,Robert Downey Jr.,25173,Matt Servitto,3000,0
+236,168,Rufus Sewell,4210,Jake Wood,979,15000
+114,0,Hal Holbrook,1607,James Karen,508,0
+69,0,Alan Rickman,41059,Tom Wilkinson,14000,0
+150,11,Anne Hathaway,12554,Laurence Fox,838,0
+72,18,Danny Strong,2785,Samm Levine,701,0
+158,26,Frances Fisher,2282,Ron Eldard,624,0
+96,608,Robin Williams,51609,Kurtwood Smith,1000,23000
+84,137,Lauren Holly,2985,Teri Garr,854,0
+114,0,Bruno Kirby,485,Harley Jane Kozak,73,0
+79,0,Charlotte Rampling,2330,Jack Warden,617,0
+103,480,Ethan Suplee,3889,Paulo Costanzo,490,0
+67,48,Paul Walker,23369,Mark Walters,255,0
+576,405,Bérénice Bejo,4606,Beth Grant,897,30000
+178,687,Gary Oldman,12183,Rachel Brosnahan,787,0
+487,0,Bruce Willis,27911,Bob Balaban,13000,71000
+196,473,Matt Bomer,26402,Lew Temple,4000,0
+24,19,Clive Russell,824,Finn Ireland,118,0
+56,11,Jennifer Esposito,3058,James Brolin,521,1000
+406,0,Ivana Baquero,1322,Sergi López,269,27000
+3,,Joel Courtney,4561,Riley Smith,921,0
+51,14,Leslie Bibb,4194,Paul Sorvino,1000,393
+41,309,Mo'Nique,3107,Angell Conwell,881,1000
+138,26,Leighton Meester,5349,Frances Fisher,1000,0
+78,29,Brittany Daniel,2543,Fred Ward,593,0
+40,23,Bolo Yeung,874,Kamel Krifa,67,0
+285,1000,Bill Bailey,485,Billie Whitelaw,115,17000
+124,15,Jada Pinkett Smith,3485,Debra Messing,680,0
+275,11000,Scarlett Johansson,19894,Christopher Evan Welch,581,14000
+34,5,Gustaf Skarsgård,2762,Vincent Perez,690,0
+81,24,Mila Kunis,18786,Jada Pinkett Smith,1000,18000
+67,7,Alyson Hannigan,3451,Tsianina Joelson,240,487
+103,7,Patrick Fugit,2572,Marc Donato,787,0
+300,45,J.K. Simmons,24805,Cynthia Stevenson,396,6000
+84,22,Will Ferrell,11078,Tracey Walter,2000,492
+64,11000,Mike Starr,1653,Julie Kavner,410,0
+169,179,Nicolas Cage,15044,Quinton Aaron,1000,31000
+158,47,Robert Pattinson,22088,Ruby Jerins,541,24000
+46,6,Dylan Baker,1882,Trent Ford,326,371
+15,121,Jon Lovitz,14677,Tony Jay,3000,818
+68,438,Denzel Washington,33865,Jason Robards,15000,0
+111,9,Gretchen Mol,2389,Brad William Henke,380,0
+21,3,Farrah Fawcett,3835,Jenifer Lewis,584,177
+42,38,Martin Landau,1945,Brian Keith,416,392
+65,28,Lochlyn Munro,1227,Huey Lewis,403,573
+109,11000,Woody Allen,12766,Treat Williams,650,762
+42,89,Natasha Lyonne,2518,Shannon Tweed,852,0
+112,85,Christopher Lambert,1852,Celia Imrie,309,0
+146,369,Alison Lohman,1889,Robin Weigert,418,0
+36,34,Charles Napier,3100,Hill Harper,489,0
+230,115,Jeremy Renner,11019,Angela Sarafyan,316,0
+64,133,Vanessa Redgrave,2096,Lynn Redgrave,708,356
+393,0,Rosario Dawson,5056,Tuppence Middleton,1000,23000
+75,29,Mo'Nique,3935,Tom Arnold,881,0
+78,172,Dany Boon,329,Michel Galabru,55,3000
+67,6,Viggo Mortensen,11091,Steven Mackintosh,304,921
+216,929,Paz de la Huerta,943,Olly Alexander,289,23000
+54,143,Taylor Negron,3086,Ivan Sergei,945,0
+84,529,Cary-Hiroyuki Tagawa,4453,Joan Allen,884,115000
+69,22,Orlando Bloom,5273,Conrad Kemp,170,0
+208,0,Barry Corbin,2896,Miranda Otto,596,0
+32,10,Vivica A. Fox,3104,Kevin Pollak,578,939
+20,,Steven Van Zandt,537,Tommy Karlsen,57,16000
+78,460,David Alpay,699,Charles Aznavour,150,824
+21,4,Bruce Dern,3583,William Shockley,626,282
+40,7,Mekhi Phifer,4329,Fisher Stevens,1000,191
+40,7,Carole Bouquet,303,Michel Muller,46,0
+251,571,Dustin Milligan,1120,Tania Saulnier,298,0
+94,102,Judge Reinhold,3464,James Russo,605,0
+102,0,Macaulay Culkin,7521,Catherine O'Hara,1000,20000
+21,12000,Tom Selleck,21499,Steve Guttenberg,875,3000
+94,521,Bill Murray,14701,Teri Garr,521,0
+173,12000,Tom Cruise,13069,Adrian Pasdar,1000,19000
+287,0,Chen Chang,129,Sihung Lung,21,0
+176,0,Kevin Spacey,19078,Ara Celi,828,22000
+479,0,Colin Firth,15732,Derek Jacobi,1000,64000
+27,425,Kelly Preston,2151,Hugh O'Brian,384,0
+20,,Bex Taylor-Klaus,2380,Jason Wiles,292,0
+60,4,Kristen Stewart,30978,William Hurt,13000,1000
+70,14000,Oprah Winfrey,2592,Dana Ivey,581,6000
+43,2,Nicole Dionne,213,Kyung-gu Sol,80,558
+1,335,Morgan Freeman,13390,Moises Arias,744,0
+454,77,Benedict Cumberbatch,20295,Allen Leech,393,165000
+25,6,Eileen Brennan,2419,Alan Oppenheimer,745,855
+46,150,Sissy Spacek,2667,Levon Helm,816,0
+111,87,Chloë Grace Moretz,20154,Rachael Harris,975,0
+393,127,Javier Botet,1949,Isabelle Nélisse,340,57000
+318,0,Jamie Lee Curtis,4400,P.J. Soles,742,12000
+55,11000,Beverly D'Angelo,3617,Jane Krakowski,695,0
+157,79,Jackson Nicoll,1018,Grasie Mercedes,38,26000
+280,350,Roger Allam,486,Alex Jennings,48,0
+109,13000,Catherine O'Hara,1953,Glenn Shadix,692,15000
+41,0,Michael Jai White,6510,Lamman Rucker,721,1000
+27,44,Christian Bale,29370,Eric Stoltz,4000,0
+462,43,Daniel Radcliffe,11946,Jessica Raine,326,29000
+152,165,Madeline Carroll,2452,Brian Geraghty,431,0
+69,189,Frankie Muniz,3707,Lee Majors,927,896
+140,517,Robert De Niro,34025,John Savage,11000,11000
+130,272,Robert De Niro,29252,John Michael Higgins,4000,12000
+66,13,Clayton Snyder,3423,Alex Borstein,738,0
+238,29,Dwayne Johnson,15800,Nadine Velazquez,1000,12000
+198,66,Adam Scott,4567,Allison Tolman,658,27000
+154,0,Jordana Brewster,12170,Clea DuVall,4000,0
+19,13,Rae'Ven Kelly,114,Dororthy Thorton,22,0
+131,446,Robert De Niro,40117,Janeane Garofalo,13000,2000
+97,11,Chris Evans,15369,Mia Kirshner,983,0
+355,453,Jake Gyllenhaal,27788,America Ferrera,10000,38000
+138,488,Emma Stone,44037,Bill Murray,14000,11000
+102,357,Paul Walker,26652,William Petersen,1000,0
+419,120,Eddie Redmayne,14100,Simon McBurney,876,90000
+37,14,Greg Grunberg,4435,Blair Underwood,807,0
+78,18,Natalie Portman,22383,Stockard Channing,1000,0
+181,767,Claude Rains,1076,Jack Hawkins,202,11000
+220,0,Scout Taylor-Compton,3226,Margot Kidder,764,3000
+349,212,Michiel Huisman,4896,Gaby Hoffmann,820,38000
+241,29,Tony Goldwyn,3861,Martha MacIsaac,878,0
+103,6,Jack Davenport,2666,Holland Taylor,650,0
+151,28,Jamie Lee Curtis,5440,Bianca Kajlich,864,0
+344,255,Liam Neeson,18003,Alexa Davalos,1000,15000
+185,0,Robin Wright,20060,André the Giant,636,33000
+112,18000,Denzel Washington,22745,John Heard,2000,0
+676,0,Ryan Gosling,34337,Russ Tamblyn,745,81000
+74,10,Adam Garcia,2167,Glenne Headly,636,810
+65,13,Liam Aiken,1450,Kali Rocha,511,849
+274,35,Jeremy Renner,11471,Catherine McCormack,1000,0
+50,49,Jessie T. Usher,525,Ser'Darius Blain,110,0
+96,61,Cicely Tyson,3462,Eva Marie Saint,807,1000
+68,107,Alfre Woodard,5135,Omar Epps,886,0
+111,5,Minnie Driver,2044,Mitchell Ryan,822,0
+128,3,Bradley Cooper,16461,Beth Grant,982,0
+160,31,Kim Director,608,Kurt Loder,184,949
+93,26,Christine Taylor,1812,Brenda Strong,328,6000
+278,11000,Scarlett Johansson,20391,Penelope Wilton,567,0
+81,20,Sierra McCormick,1002,Jason Spevack,316,0
+58,133,Anthony Hopkins,12749,Ben Chaplin,310,0
+153,0,Don Cheadle,3677,Nina Hartley,360,0
+25,11,Kieran Culkin,2210,Joss Ackland,605,466
+46,15,Alison Lohman,3845,Tim McGraw,786,1000
+161,7,Jeff Kober,2559,Jacob Vargas,557,0
+108,83,Loretta Devine,2682,Jacinda Barrett,786,243
+69,13,William Hurt,2661,Jonathan Jackson,874,0
+78,8,Kelly Carlson,1045,Drew Powell,239,0
+129,10,Nia Long,2958,Keegan-Michael Key,622,0
+135,19,Leighton Meester,4204,Tim McGraw,646,0
+96,119,Bruce Greenwood,4660,Katharine Isabelle,982,673
+417,310,Ryan Gosling,34413,Angelo Anthony Pizza,748,47000
+172,79,Luke Bracey,3033,Will Patton,614,0
+88,11,Jason Priestley,1069,Geneviève Bujold,308,327
+388,0,Jeremy Renner,11114,Brian Geraghty,602,16000
+45,73,Heather Locklear,3444,David Keith,654,0
+414,181,Brad Pitt,14025,Ben Mendelsohn,820,20000
+291,210,Philip Seymour Hoffman,22574,Homayoun Ershadi,164,13000
+97,374,Rip Torn,2689,Eddie Kaye Thomas,503,0
+37,12,Yuri Lowenthal,568,Phil Vischer,173,175
+68,0,Bono,646,Larry Mullen Jr.,67,116
+90,36,Christopher Lambert,2764,Adam Copeland,786,356
+81,16,Cicely Tyson,3633,Bobb'e J. Thompson,585,489
+221,92,Anne Hathaway,17627,Rafe Spall,5000,49000
+230,0,Daniel Stern,2633,Alia Shawkat,787,10000
+57,34,Vin Diesel,15644,Kevin Gage,442,566
+119,164,Louis Lombardi,1172,Leland Orser,324,622
+97,745,Jeff Bridges,15209,Albert Brooks,821,251
+119,34,Kevin McNally,729,Sandra Nelson,66,1000
+42,11000,Woody Allen,12685,Mia Farrow,860,877
+24,9,Trevor Morgan,1139,Shirley Douglas,417,436
+208,561,Rick Yune,2377,Daniel Wu,561,29000
+42,23,Catherine O'Hara,2913,Shelley Duvall,660,247
+44,4,Bruce Greenwood,3142,Elaine Hendrix,841,648
+230,0,Robert De Niro,29475,Jim Broadbent,5000,16000
+46,80,Oliver James,4676,Jason Ritter,872,1000
+18,,David Ogden Stiers,981,Chris Bruno,319,576
+249,0,Philip Seymour Hoffman,47728,Steve Buscemi,12000,35000
+197,153,Justin Timberlake,5012,S. Epatha Merkerson,788,0
+71,41,Khandi Alexander,1873,Michael Michele,463,455
+190,187,Angelina Jolie Pitt,12178,Dan Futterman,883,923
+50,9,James Franco,13524,Marla Sokoloff,897,816
+63,2,Vivica A. Fox,3161,Bob Gunton,852,1000
+104,32,Colin Firth,16502,Rupert Everett,1000,0
+,45,Jennifer Jason Leigh,2166,Estelle Parsons,393,515
+49,6,Logan Lerman,10732,Tim Blake Nelson,625,647
+300,454,Elizabeth Berrington,173,Eric Godon,49,32000
+43,24,Tyler James Williams,3322,Diahann Carroll,539,0
+132,11,Emma Stone,33153,Josh Gad,14000,0
+97,96,J.K. Simmons,25637,Bobby Coleman,971,0
+242,835,Matt Damon,14544,Terry Kinney,826,10000
+218,11000,Larry David,2717,Conleth Hill,658,10000
+49,52,Matthew Settle,2312,A.J. Buckley,397,157
+172,0,Levon Helm,1627,Guillermo Arriaga,324,0
+68,0,Robin Williams,51657,Michael Jeter,1000,0
+223,1000,Robert Downey Jr.,23932,Larry Miller,1000,0
+59,6,Vivica A. Fox,3654,Elden Henson,729,0
+252,0,Naomi Watts,8484,Laura Harring,889,16000
+106,18,Olivier Martinez,1675,Chris Geere,400,0
+223,11000,Anthony Hopkins,19310,Ewen Bremner,6000,0
+328,132,Andrew Garfield,12867,Charlotte Rampling,882,33000
+9,,Anna Silk,3809,Alessandro Nivola,555,733
+150,122,Thomas Kretschmann,1252,Mac McDonald,278,0
+21,70,Curtis Armstrong,1351,Mike Muscat,324,843
+28,0,Meat Loaf,4834,Noah Emmerich,664,391
+250,0,Naomi Watts,6748,Brady Corbet,294,0
+17,5,Thomas Stroppel,527,Amber Marie Bollinger,134,708
+95,460,Bob Hoskins,5426,Gerard McSorley,203,284
+260,756,Brigitte Helm,203,Rudolf Klein-Rogge,23,12000
+141,180,David Belle,962,Dany Verissimo-Petit,297,0
+52,39,Steve Buscemi,14889,Treat Williams,970,0
+205,141,Qi Shu,1172,Satoshi Tsumabuki,103,0
+109,34,Dean Stockwell,3578,Leon,826,664
+103,445,Konstantin Lavronenko,48,Nataliya Vdovina,13,0
+110,0,Nirut Sirichanya,134,Sarunyu Wongkrachang,45,0
+195,197,Michael Fassbender,15293,Dave Legeno,794,0
+14,85,Christopher Heyerdahl,1432,Conrad Dunn,476,154
+177,129,Bradley Cooper,18639,Leslie Bibb,1000,0
+17,36,Jennifer Hudson,801,Aubrey Poo,248,705
+62,68,Channing Tatum,32814,Tracy Morgan,14000,0
+19,24,Eddie Izzard,1732,Edward Fox,595,193
+50,17,Stephen Graham,1245,Keith Allen,165,445
+25,15,Anna Friel,2528,Franco Nero,627,0
+39,0,Liam Neeson,29488,Loretta Devine,12000,0
+136,19,Birgitte Hjort Sørensen,2829,Melanie Griffith,889,13000
+26,93,Bruce Payne,363,Steven Elder,55,473
+4,6,Maximilian Dirr,192,Ferdinando Vetere,57,18
+53,3,Bingbing Fan,996,Yasuaki Kurata,353,821
+22,67,Samantha Morton,1585,Linus Roache,452,277
+147,11000,Bill Murray,15500,Willie Garson,571,38000
+222,13,Matt Bomer,38963,Kevin Nash,17000,41000
+106,1000,Leonardo DiCaprio,33791,Brian Dennehy,1000,10000
+136,15,Kristin Scott Thomas,2140,Arben Bajraktaraj,767,0
+5,5,Sharon Leal,994,Bart Shatto,220,998
+131,16000,Clint Eastwood,28544,Frances Fisher,11000,10000
+140,3000,Bryce Dallas Howard,4211,Jean-Marc Barr,769,1000
+418,0,Anil Kapoor,820,Ayush Mahesh Khedekar,56,13000
+94,213,Fred Gwynne,1639,Anne Archer,276,3000
+82,0,Julia Roberts,11135,Jason Alexander,995,11000
+,0,Martin Short,1125,Joe Flaherty,179,0
+32,5,Paul Hogan,717,John Meillon,162,489
+22,34,María Valverde,2055,Chad Bishop,355,0
+72,0,Tom Cruise,12098,Stephen Baldwin,854,4000
+39,226,Doug E. Doug,2496,Malik Yoba,730,0
+264,71,Jensen Ackles,14159,Edi Gathegi,960,0
+264,30,Kyra Sedgwick,2348,Natasha Calis,459,17000
+145,270,Sylvester Stallone,15192,Chris Mulkey,954,0
+86,41,Chris Brown,3544,Harry Lennix,826,0
+112,43,Caroline Munro,1326,Barbara Bach,244,0
+17,,Amy Bruni,552,Jason Hawes,130,373
+101,9,Alicia Witt,3500,Julian Richings,912,0
+51,350,Keanu Reeves,35501,Swoosie Kurtz,17000,0
+42,0,Eddie Cibrian,2226,Jamie Kennedy,597,0
+10,116,Seymour Cassel,552,Susan Hogan,172,0
+43,54,Will Ferrell,10792,Molly Shannon,670,2000
+331,58,Meryl Streep,12894,Olivia Colman,1000,18000
+38,12,Phil Vischer,49,Shelby Vischer,12,184
+12,309,Janet Jackson,1620,Maya Angelou,556,0
+40,10,Mike Epps,1421,Gino Salvano,266,530
+34,0,John Witherspoon,2348,Allen Payne,422,1000
+82,128,Linda Blair,2704,Ned Beatty,726,889
+125,31,Sissy Spacek,1608,Vernon Dobtcheff,613,0
+56,119,Carmen Electra,3007,Molly Shannon,779,411
+160,123,Chris Hemsworth,41359,Marley Shelton,14000,4000
+71,44,America Ferrera,3299,Lupe Ontiveros,849,1000
+37,0,Alyson Hannigan,6861,Poppy Montgomery,2000,645
+62,160,Lily Tomlin,1148,Paolo Seganti,330,970
+73,85,Joe Mantegna,2777,Kari Wuhrer,855,0
+59,17000,Robert De Niro,23378,Mary Kay Place,740,932
+25,0,Alfre Woodard,3267,Isaiah Washington,848,905
+97,0,Steve Buscemi,13446,Wendell Pierce,490,488
+205,52,Peter Mensah,3050,Lexa Doig,935,0
+69,189,Frankie Muniz,3707,Lee Majors,927,896
+195,0,Anthony Hopkins,13528,Brian Geraghty,593,0
+61,70,Monica Potter,2165,China Chow,834,613
+77,90,Thomas McDonell,3715,Osric Chau,925,0
+259,232,Emmanuelle Seigner,1372,Isaach De Bankolé,412,13000
+251,143,Kate Winslet,15337,Jane Adams,617,5000
+63,49,Norman Reedus,12776,Noam Jenkins,215,853
+47,956,Viggo Mortensen,10368,Tovah Feldshuh,233,860
+108,176,Derek Luke,678,Bonnie Henna,113,447
+64,12,Melissa Sagemiller,417,Candace Kroslak,102,231
+20,133,Seth Gilliam,446,Nigel Whitmey,15,127
+135,11,Colin Firth,16431,Kris Marshall,1000,2000
+2,109,Christopher Lee,17250,Behrouz Vossoughi,469,76
+262,608,Lesley Manville,390,Karl Johnson,44,0
+129,752,Mathieu Amalric,799,Edouard Baer,74,512

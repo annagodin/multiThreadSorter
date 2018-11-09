@@ -1,486 +1,99 @@
-director_name,duration,director_facebook_likes,actor_3_facebook_likes,gross,movie_title,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,country,content_rating,budget,imdb_score,aspect_ratio,movie_facebook_likes
-Joshua Marston,101,13,6,6517198,Maria Full of Grace ,30474,308,0,Colombia,R,3000000,7.5,1.85,0
-Mike Mills,105,101,157,5776314,Beginners ,73349,2016,4,USA,R,3200000,7.2,1.85,15000
-John Gulager,95,38,898,,Feast ,25542,170118,0,USA,R,3200000,6.4,2.35,0
-John Landis,109,644,559,141600000,Animal House ,90177,3468,6,USA,R,3000000,7.6,1.85,0
-Guy Hamilton,110,82,177,51100000,Goldfinger ,139432,1198,2,UK,Approved,3000000,7.8,1.37,0
-Brandon Cronenberg,108,43,463,,Antiviral ,9356,1962,0,Canada,Not Rated,3200000,5.7,1.85,0
-Frank Capra,118,964,248,,It's a Wonderful Life ,275720,1844,0,USA,PG,3180000,8.6,1.37,41000
-Danny Boyle,94,0,557,16501785,Trainspotting ,469561,3559,4,UK,R,3500000,8.2,1.85,21000
-Spike Lee,115,0,360,38168022,The Original Kings of Comedy ,4687,1964,0,USA,R,3000000,6.6,1.85,290
-Tod Williams,98,21,189,84749884,Paranormal Activity 2 ,82133,1081,0,USA,R,3000000,5.7,1.85,14000
-Kirk Jones,91,52,482,24788807,Waking Ned Devine ,21245,1965,0,UK,PG,3000000,7.4,2.35,0
-Michael Moore,120,909,184,21244913,Bowling for Columbine ,123090,1779,2,Germany,R,4000000,8.0,1.85,4000
-Yimou Zhang,109,611,4,377420,Coming Home ,2789,900,1,China,PG-13,,7.3,2.35,0
-Jack Sholder,87,28,217,30000000,A Nightmare on Elm Street 2: Freddy's Revenge ,43485,1472,0,USA,R,2200000,5.4,1.85,0
-James Ivory,117,133,249,20966644,A Room with a View ,29610,1665,0,UK,Unrated,3000000,7.4,1.66,0
-James DeMonaco,85,65,535,64423650,The Purge ,139329,3708,0,USA,R,3000000,5.7,2.35,31000
-Scott Derrickson,110,301,412,48056940,Sinister ,155153,2239,0,USA,R,3000000,6.8,2.35,58000
-David Raynr,113,9,12,19184015,Martin Lawrence Live: Runteldat ,1466,159,1,USA,R,3000000,5.4,1.85,63
-Richard Brooks,108,174,110,,Cat on a Hot Tin Roof ,33741,649,0,USA,Approved,3000000,8.1,1.85,0
-Ted Post,95,57,158,,Beneath the Planet of the Apes ,32378,1186,0,USA,G,3000000,6.1,2.35,0
-Charles Martin Smith,98,188,693,24629916,Air Bud ,12942,4277,0,USA,PG,3000000,5.1,1.85,902
-Kunihiko Yuyama,93,8,49,,Pokémon 3: The Movie ,9066,373,0,Japan,G,16000000,5.6,1.85,38
-Tom McLoughlin,86,41,155,19472057,Jason Lives: Friday the 13th Part VI ,25332,1862,0,USA,R,3000000,5.9,1.85,0
-David Lean,161,767,87,27200000,The Bridge on the River Kwai ,149444,1035,2,UK,PG,3000000,8.2,2.35,0
-Patrick Read Johnson,100,32,175,15369573,Spaced Invaders ,2580,1441,1,USA,PG,3000000,5.3,1.85,710
-Alfred Hitchcock,120,13000,416,,Family Plot ,15293,2811,1,USA,PG,4490375,6.8,1.85,609
-Billy Wilder,125,0,180,,The Apartment ,109335,1328,2,USA,Approved,3000000,8.3,2.35,0
-Adam Marcus,91,18,307,15935068,Jason Goes to Hell: The Final Friday ,19331,2899,0,USA,R,2500000,4.3,1.85,949
-Alfred Hitchcock,128,13000,14,,Torn Curtain ,18656,70,1,USA,Approved,6000000,6.7,1.85,933
-Michel Gondry,100,1000,220,11694528,Dave Chappelle's Block Party ,7721,2165,0,USA,R,3000000,7.2,1.85,635
-John Maclean,84,85,748,229094,Slow West ,27650,14696,2,UK,R,,6.9,1.66,0
-Michael Schultz,97,78,77,,Krush Groove ,1361,1163,0,USA,R,3000000,6.6,,889
-Benny Boom,84,23,706,10017041,Next Day Air ,8265,4815,3,USA,R,3000000,5.9,1.85,545
-Richard Brooks,146,174,125,,Elmer Gantry ,7998,1444,1,USA,Approved,3000000,7.9,1.66,808
-Stanley Kramer,186,176,760,,Judgment at Nuremberg ,44457,3847,0,USA,Not Rated,3000000,8.3,1.75,0
-David Raynr,94,9,200,9016377,Trippin' ,1004,1936,3,USA,R,,5.2,1.85,143
-,11,,0,,Robot Chicken             ,32923,11,0,USA,TV-MA,,7.8,1.33,1000
-Howard Hawks,126,393,281,,Red River ,21316,2269,0,USA,Approved,3000000,7.8,1.37,0
-Nnegest Likké,99,18,233,7059537,Phat Girlz ,8279,2321,0,USA,PG-13,3000000,3.0,1.85,837
-Richard Linklater,109,0,48,8114507,Before Midnight ,95362,328,1,USA,R,3000000,7.9,1.85,62000
-Christopher Leitch,95,4,152,7888703,Teen Wolf Too ,8465,1389,1,USA,PG,3000000,3.2,1.85,491
-Don Coscarelli,97,152,135,7282851,Phantasm II ,9502,1395,1,USA,R,3000000,6.5,1.85,812
-Michael Schultz,94,78,469,6879730,Woman Thou Art Loosed ,806,3049,0,USA,R,,6.9,,187
-Patricia Cardoso,90,15,453,5844929,Real Women Have Curves ,6000,2510,1,USA,PG-13,3000000,7.0,1.85,595
-,197,,110,,Deadline Gallipoli             ,299,1400,0,Australia,,15000000,7.4,,367
-Deepa Mehta,117,375,31,3222857,Water ,12560,1394,0,Canada,PG-13,,7.8,2.35,0
-Damien O'Donnell,96,70,163,4170647,East Is East ,14548,1616,0,UK,R,1900000,6.9,1.85,1000
-Peter M. Cohen,82,0,51,4142507,Whipped ,3665,858,1,USA,R,3000000,4.4,1.85,131
-Mira Nair,109,300,200,4109095,Kama Sutra: A Tale of Love ,8239,1292,0,USA,R,3000000,6.0,1.85,0
-Nicole Holofcener,90,132,547,4033268,Please Give ,9808,3692,0,USA,R,,6.6,2.35,0
-Mel Stuart,89,21,124,,Willy Wonka & the Chocolate Factory ,128334,1011,1,USA,G,3000000,7.8,1.33,0
-Anthony Hickox,98,16,222,3902679,Warlock: The Armageddon ,3943,1806,0,USA,R,3000000,5.3,1.66,217
-Tom Schulman,95,45,267,3559990,8 Heads in a Duffel Bag ,8005,1363,0,USA,R,3000000,5.3,1.85,417
-Terrence Malick,94,0,180,,Days of Heaven ,37594,1618,0,USA,PG,3000000,8.0,1.85,0
-Jill Sprecher,104,11,194,3287435,Thirteen Conversations About One Thing ,8603,12250,2,USA,R,4500000,7.1,1.85,430
-Darren Stein,87,18,844,3071947,Jawbreaker ,18711,9555,3,USA,R,3500000,5.4,1.85,0
-Julian Schnabel,108,232,353,2961991,Basquiat ,15885,11459,4,USA,R,3300000,6.9,1.85,0
-Noah Baumbach,86,387,270,4063238,Frances Ha ,43982,2260,0,USA,R,,7.4,1.85,11000
-Gavin Hood,94,151,29,2912363,Tsotsi ,25063,278,1,UK,R,3000000,7.3,2.35,0
-Todd Solondz,134,377,812,3000000,Happiness ,55329,36859,9,USA,,3000000,7.8,1.85,0
-George Gallo,89,269,24,2223990,DysFunktional Family ,761,539,1,USA,R,3000000,6.6,1.85,26
-Kevin Smith,102,0,387,1821983,Tusk ,31089,43810,0,USA,R,3000000,5.4,2.35,20000
-Chan-wook Park,120,0,38,2181290,Oldboy ,356181,852,0,South Korea,R,3000000,8.4,2.35,43000
-David Nixon,110,13,221,2848578,Letters to God ,3942,1567,0,USA,PG,3500000,6.3,1.78,0
-Jason Eisener,86,59,104,703002,Hobo with a Shotgun ,37495,1249,4,Canada,Not Rated,3000000,6.1,2.35,37000
-Enrique Begne,101,0,165,3105269,Compadres ,368,1335,2,Mexico,R,3000000,5.0,,174
-Matthew Bright,102,9,221,,Freeway ,22246,1663,1,USA,R,3000000,6.9,1.85,0
-Michael Landon Jr.,87,84,331,252726,Love's Abiding Joy ,1289,2715,0,USA,PG,3000000,7.2,,76
-Andrea Arnold,123,121,168,373060,Fish Tank ,47385,13636,0,UK,Not Rated,,7.3,1.33,0
-Whit Stillman,99,89,322,1007535,Damsels in Distress ,7625,2452,5,USA,PG-13,,5.7,1.85,0
-,173,,476,,Creature             ,2011,3149,3,USA,,,5.0,1.78,518
-Leslye Headland,87,21,416,418268,Bachelorette ,37156,8353,3,USA,R,3000000,5.3,2.35,0
-,44,,246,,BrainDead             ,2948,1551,0,USA,,,7.9,16.0,3000
-Bobby Roth,120,40,249,,Brave New Girl ,758,2330,2,USA,PG-13,,5.0,,47
-Tim Heidecker,93,78,197,200803,Tim and Eric's Billion Dollar Movie ,7988,1467,3,USA,R,3000000,5.3,1.78,0
-Rupert Wyatt,111,81,81,33631221,The Gambler ,48562,3784,1,USA,R,25000000,6.0,2.35,0
-,60,,23,,The Grand             ,437,158,0,UK,,,7.6,1.33,450
-Marco Kreuzpaintner,98,7,17,95016,Summer Storm ,11074,362,0,Germany,R,2700000,7.4,1.85,442
-Kate Connor,100,27,847,73678,Fort McCoy ,266,4374,1,USA,R,3000000,5.9,,348
-Deon Taylor,88,26,236,143000,Chain Letter ,4122,1495,0,USA,R,5000000,4.1,2.35,0
-Jason Alexander,97,700,56,39852,Just Looking ,1238,1030,1,USA,R,3000000,6.7,1.85,117
-Xavier Gens,122,87,605,22000,The Divide ,30511,4920,4,Germany,R,3000000,5.8,2.35,0
-Conor McPherson,86,0,77,128937,The Eclipse ,2437,975,0,Ireland,R,,6.2,1.85,580
-Will Canon,83,8,617,,Demonic ,7358,4756,1,USA,R,3000000,5.3,,0
-Philip Zlotorynski,80,0,19,,My Big Fat Independent Movie ,1257,313,1,USA,R,3000000,3.3,1.78,48
-Tim Burton,108,13000,11000,334185206,Alice in Wonderland ,306336,79957,0,USA,PG,200000000,6.5,1.85,24000
-Lance Kawas,90,66,452,,The Deported ,62,3882,1,USA,PG-13,3000000,6.2,1.85,54
-Francesca Gregorini,96,15,357,5005,Tanner Hall ,2280,1929,2,USA,R,3000000,5.9,,448
-Marcio Garcia,85,74,47,,Open Road ,1370,844,3,Brazil,,3000000,5.5,2.35,433
-David Wain,83,136,975,,They Came Together ,16987,7191,2,USA,R,,5.5,1.85,0
-Craig Moss,80,19,73,,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,2978,845,0,USA,R,3000000,2.6,1.85,2000
-Michael Jai White,90,2000,454,,Never Back Down 2: The Beatdown ,13599,3666,3,USA,R,3000000,5.8,1.85,6000
-John Boorman,92,128,480,,Point Blank ,13640,2715,0,USA,Approved,3000000,7.4,2.35,3000
-Paolo Monico,100,3,382,,Four Single Fathers ,118,2890,0,Italy,,3000000,5.1,,32
-Youssef Delara,88,8,471,,Enter the Dangerous Mind ,704,4469,0,USA,,800000,5.2,2.35,406
-Darin Scott,95,39,375,,Something Wicked ,976,3024,2,USA,R,3000000,4.8,,395
-Christian Sesma,82,9,648,,AWOL-72 ,520,4092,4,USA,R,3000000,3.9,,398
-Monte Hellman,97,96,37,,Iguana ,240,277,1,Italy,,3000000,6.2,1.85,37
-Kenneth Branagh,105,0,502,201148159,Cinderella ,103749,4671,1,USA,PG,95000000,7.0,2.35,56000
-Brian Caunter,94,0,356,,Chicago Overcoat ,706,1989,3,USA,R,3000000,6.2,1.78,229
-Chris D'Arienzo,95,7,463,,Barry Munday ,3443,3648,2,USA,R,,5.9,1.85,480
-Walter Salles,113,179,11,5595428,Central Station ,28951,167,0,Brazil,R,2900000,8.0,2.35,0
-Frank Capra,136,964,248,,Pocketful of Miracles ,4313,2167,2,USA,Approved,2900000,7.3,2.35,612
-Isaac Florentine,80,81,214,,Close Range ,2425,1517,1,USA,,3000000,4.9,,968
-Susan Seidelman,105,39,183,3123749,Boynton Beach Club ,746,1231,8,USA,R,1500000,6.5,1.85,88
-Michael Polish,90,35,21,,Amnesiac ,2157,423,0,USA,,3000000,4.3,,421
-Heidi Ewing,93,4,394,100675,Freakonomics ,5695,2305,0,USA,PG-13,3000000,6.4,,0
-Richard Donner,107,503,108,,The Omen ,80961,673,2,UK,R,2800000,7.6,2.35,7000
-Alexandre Aja,89,192,142,3645438,High Tension ,55040,923,1,France,Unrated,2200000,6.8,2.35,0
-Leon Ford,90,18,39,,Griff the Invisible ,4173,362,1,Australia,PG-13,,6.1,1.85,0
-Hank Braxtan,89,6,29,,Unnatural ,859,964,0,USA,R,3000000,4.0,2.35,369
-Craig Brewer,116,153,165,22201636,Hustle & Flow ,33567,727,1,USA,R,8000000,7.4,1.85,0
-Billy Wilder,120,0,102,25000000,Some Like It Hot ,175196,527,2,USA,Not Rated,2883848,8.3,1.66,10000
-John Carl Buechler,88,152,181,19170001,Friday the 13th Part VII: The New Blood ,21359,1855,0,USA,R,2800000,5.3,1.85,0
-Victor Fleming,102,149,357,22202612,The Wizard of Oz ,291875,2509,3,USA,Passed,2800000,8.1,1.37,14000
-Mel Brooks,106,0,481,86300000,Young Frankenstein ,112671,2703,0,USA,PG,2800000,8.0,1.85,14000
-George A. Romero,95,0,192,952620,Diary of the Dead ,40800,1797,0,USA,R,2000000,5.7,1.85,0
-Rajkumar Hirani,144,124,327,,Lage Raho Munna Bhai ,27569,1761,0,India,PG-13,120000000,8.2,2.35,349
-Victor Nunez,113,9,42,9054736,Ulee's Gold ,5744,787,1,USA,R,2700000,7.1,1.66,381
-Carroll Ballard,118,19,48,,The Black Stallion ,8856,681,0,USA,G,2700000,7.4,1.85,0
-Rohit Jugraj,141,2,32,,Sardaar Ji ,745,434,2,Canada,,3000000,6.6,,50
-Thorbjørn Christoffersen,90,0,13,,Journey to Saturn ,1828,197,0,Denmark,Not Rated,,5.7,1.85,77
-John Ford,109,673,359,,Donovan's Reef ,5786,1949,1,USA,Not Rated,2686585,6.9,1.85,573
-Alex van Warmerdam,95,53,2,,The Dress ,1470,25,0,Netherlands,,2650000,7.0,1.85,121
-Victor Fleming,122,149,315,,A Guy Named Joe ,1553,2555,0,USA,Passed,2627000,7.0,1.37,116
-Mel Brooks,93,0,628,119500000,Blazing Saddles ,95294,4701,0,USA,R,2600000,7.8,2.35,12000
-Joseph Zito,97,17,74,32600000,Friday the 13th: The Final Chapter ,29488,467,0,USA,R,1800000,5.9,1.85,0
-Pawel Pawlikowski,82,84,46,3826455,Ida ,34643,205,1,Poland,PG-13,,7.4,1.33,17000
-James Ivory,140,133,239,3130592,Maurice ,10755,1269,1,UK,R,2600000,7.8,1.66,963
-Frank Sebastiano,86,3,327,475000,Beer League ,6930,2753,2,USA,R,2800000,6.0,,323
-Rand Ravich,109,7,1000,10654581,The Astronaut's Wife ,45500,52621,0,USA,R,34000000,5.3,1.85,1000
-Stacy Peralta,105,147,28,2276368,Riding Giants ,3849,179,1,USA,PG-13,,7.9,,0
-Nacho Vigalondo,66,76,36,38108,Timecrimes ,40878,239,0,Spain,R,2600000,7.2,1.85,0
-Hao Ning,99,0,4,,Silver Medallist ,1418,19,1,China,,15000000,7.4,2.35,30
-Tony Giglio,100,6,209,,Timber Falls ,5012,1082,1,USA,R,2600000,5.3,1.85,254
-Stanley Donen,103,134,390,,Singin' in the Rain ,150020,2510,0,USA,Approved,2540800,8.3,1.37,0
-Joe Cross,97,65,0,,Fat, Sick & Nearly Dead ,6429,67,2,Australia,,2500000,7.6,,10000
-Michael Tiddes,86,89,555,40041683,A Haunted House ,34620,3421,6,USA,R,2500000,5.1,1.85,0
-Dinesh D'Souza,87,67,67,33349949,2016: Obama's America ,9010,1111,0,USA,PG,2500000,5.1,1.85,0
-Rob Zombie,119,0,593,33386128,Halloween II ,36372,3226,0,USA,R,15000000,4.9,1.85,3000
-Tom Hanks,149,15000,982,25809813,That Thing You Do! ,50311,28713,6,USA,PG,26000000,6.9,1.37,0
-Tommy Lee Wallace,98,24,67,14400000,Halloween III: Season of the Witch ,28589,684,0,USA,R,2500000,4.6,2.35,0
-Don Taylor,98,11,450,,Escape from the Planet of the Apes ,23546,2373,0,USA,G,2500000,6.3,2.35,819
-Martin Ritt,112,58,124,,Hud ,15277,1141,0,USA,Approved,2500000,7.9,2.35,1000
-Leslie Small,75,15,36,32230907,Kevin Hart: Let Me Explain ,6062,1385,0,USA,R,2500000,6.7,1.85,0
-Gus Van Sant,104,835,535,6401336,My Own Private Idaho ,36996,19923,2,USA,R,2500000,7.1,1.78,0
-Zach Braff,102,0,294,26781723,Garden State ,187595,1655,3,USA,R,2500000,7.6,2.35,0
-Richard Linklater,105,0,4,5400000,Before Sunrise ,183288,36,1,USA,R,2500000,8.1,1.85,22000
-Éric Tessier,99,0,6,,Sur le seuil ,1003,79,0,Canada,,3200000,6.6,1.85,39
-Alison Maclean,107,7,442,1282084,Jesus' Son ,6221,2125,1,USA,R,2500000,7.0,2.35,500
-Alice Wu,96,13,209,1186323,Saving Face ,7776,1396,0,USA,R,,7.6,1.85,774
-Sarah Gavron,101,34,40,1094998,Brick Lane ,2560,150,1,UK,PG-13,,6.7,2.35,430
-Jake Schreier,89,14,215,3325638,Robot & Frank ,52509,1980,3,USA,PG-13,2500000,7.1,2.35,13000
-Isabel Coixet,106,148,471,395592,My Life Without Me ,21202,2972,1,Spain,R,2000000,7.6,1.85,0
-James Ponsoldt,95,53,478,6851969,The Spectacular Now ,105591,10040,1,USA,R,2500000,7.1,2.35,10000
-Randall Miller,34,19,362,333658,Marilyn Hotchkiss' Ballroom Dancing and Charm School ,97,1967,0,USA,,34000,7.1,,16
-Larry Charles,101,119,0,12995673,Religulous ,52286,338,1,USA,R,2500000,7.7,1.78,24000
-Joshua Tickell,112,9,125,173783,Fuel ,578,1252,0,USA,Not Rated,2500000,7.6,1.85,588
-Tim Boxell,100,10,107,118666,Valley of the Heart's Delight ,91,1064,7,USA,,2500000,6.6,1.85,144
-Rawson Marshall Thurber,92,43,936,114324072,Dodgeball: A True Underdog Story ,185345,4730,0,USA,PG-13,20000000,6.7,2.35,0
-Michael D. Sellers,100,0,249,71904,Eye of the Dolphin ,806,1491,1,USA,PG-13,2500000,5.7,1.85,140
-Reed Cowan,80,0,5,99851,8: The Mormon Proposition ,1138,210,0,USA,R,2500000,7.1,1.78,0
-James Dodson,106,8,315,115504,The Other End of the Line ,4820,1739,2,UK,PG-13,14000000,6.2,2.35,0
-Stefan Ruzowitzky,103,24,10,5725,Anatomy ,10220,163,0,Germany,R,8400000,6.1,2.35,560
-Alex Rivera,90,8,35,75727,Sleep Dealer ,5699,862,0,USA,PG-13,2500000,5.9,1.85,0
-James Gunn,96,571,370,322157,Super ,61787,4590,0,USA,R,2500000,6.8,1.85,19000
-John Murlowski,89,20,555,,Christmas Mail ,858,2579,2,USA,TV-PG,2500000,5.8,,190
-Benni Diez,87,2,577,,Stung ,3119,3157,0,Germany,Not Rated,2500000,5.0,2.35,0
-Danny Perez,94,0,442,,Antibirth ,63,2406,1,USA,,3500000,6.3,,89
-Spike Lee,120,0,702,5731103,Get on the Bus ,4100,5963,10,USA,R,2400000,6.8,1.85,352
-Robby Henson,101,9,201,978908,Thr3e ,4057,2306,0,Poland,PG-13,2400000,5.1,2.35,250
-Mike Judge,84,406,233,438653,Idiocracy ,108052,1490,0,USA,R,,6.6,1.85,79000
-Zackary Adler,110,0,109,,The Rise of the Krays ,1510,881,0,UK,R,2500000,5.0,,0
-Shane Meadows,101,222,698,327919,This Is England ,99177,3282,0,UK,Unrated,1500000,7.7,1.85,11000
-Dominic Burns,101,15,663,,Alien Uprising ,2753,3132,0,UK,R,2500000,3.1,2.35,0
-George Sidney,101,24,226,,Bathing Beauty ,1079,1627,2,USA,Passed,2361000,6.5,1.37,144
-Carmen Marron,105,29,76,178739,Go for It! ,1015,1668,0,USA,PG-13,2450000,3.9,1.85,566
-Tim McCanlies,97,23,326,565592,Dancer, Texas Pop. 81 ,2189,2580,0,USA,PG,,6.8,1.85,500
-George Sidney,108,24,244,,Show Boat ,3538,2329,3,USA,Approved,2295429,7.0,1.33,438
-Mario Van Peebles,95,535,608,27012,Redemption Road ,440,3586,4,USA,PG-13,,5.9,2.35,279
-Jason Stone,108,14,826,,The Calling ,6025,4385,2,USA,R,,5.8,,0
-Jerry Rees,90,115,385,,The Brave Little Toaster ,19650,12359,0,USA,Not Rated,2300000,7.3,,0
-James Algar,120,11,,76400000,Fantasia ,71321,16,0,USA,G,2280000,7.8,1.37,3000
-William Friedkin,104,607,109,,The French Connection ,82476,1196,0,USA,R,1800000,7.8,1.85,0
-Jaco Booyens,90,37,0,,8 Days ,44,210,1,USA,PG-13,2500000,6.9,,224
-Steve Miner,91,49,20,36200000,Friday the 13th Part III ,31952,174,0,USA,R,4000000,5.7,2.35,0
-Danny Steinmann,92,13,17,21300000,Friday the 13th: A New Beginning ,22521,170,0,USA,R,2200000,4.7,1.85,1000
-Michael Landon Jr.,117,84,275,379643,The Last Sin Eater ,1573,2161,0,USA,PG-13,2200000,5.9,1.85,285
-Jon Gunn,120,16,835,12985267,Do You Believe? ,4977,6752,5,USA,PG-13,2300000,5.9,,13000
-Hayley Cloake,90,0,306,,Impact Point ,1118,1651,2,USA,R,2200000,4.3,,77
-Tay Garnett,119,10,275,,The Valley of Decision ,1314,1490,0,USA,Passed,2160000,7.5,1.37,68
-Shyam Madiraju,90,0,708,,Eden ,1351,3799,2,Spain,R,,4.8,,452
-Harmage Singh Kalirai,90,11,18,,Chicken Tikka Masala ,480,244,3,UK,,1200000,5.8,1.85,172
-Rita Merson,97,5,782,,Always Woodstock ,485,6085,5,USA,,2400000,5.3,,107
-Jon Knautz,90,10,42,,Jack Brooks: Monster Slayer ,5187,558,2,Canada,R,2500000,6.0,1.85,870
-William Wyler,172,355,188,23650000,The Best Years of Our Lives ,40359,1941,5,USA,Not Rated,2100000,8.1,1.37,0
-Larry Clark,115,184,551,510092,Bully ,29424,3293,0,USA,R,,7.0,1.85,0
-Petter Næss,89,16,14,313436,Elling ,12244,155,0,Norway,R,15500000,7.6,1.85,0
-Robert Fontaine,125,7,17,3330,Mi America ,22,214,0,USA,R,2100000,7.2,2.35,305
-Jaume Balagueró,78,57,7,,[Rec] ,131462,145,0,Spain,R,1500000,7.5,1.85,15000
-Patricia Cardoso,89,15,650,,Lies in Plain Sight ,544,3873,1,USA,TV-PG,2100000,6.3,1.78,162
-Dan Perri,100,0,338,,Sharkskin ,6,1814,0,USA,,2100000,6.7,2.39,14
-Neil Mcenery-West,77,0,260,,Containment ,1355,2044,0,UK,,,4.8,,275
-Anthony O'Brien,81,7,106,,The Timber ,1274,1020,1,USA,,2100000,5.5,2.35,380
-Terence Young,115,92,177,24800000,From Russia with Love ,89403,1456,0,UK,Approved,2000000,7.5,1.37,0
-Michael Herz,96,6,14,792966,The Toxic Avenger Part II ,4663,99,2,USA,R,2300000,5.1,1.33,321
-,60,,213,,In the Heat of the Night             ,2258,1736,1,USA,,,7.4,1.33,763
-Woody Allen,89,11000,45,,Sleeper ,33335,11192,0,USA,PG,2000000,7.3,1.85,0
-David Robert Mitchell,100,421,159,14673301,It Follows ,112899,1062,0,USA,R,2000000,6.9,2.35,45000
-Woody Allen,88,11000,258,,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,31077,12034,5,USA,R,2000000,6.8,1.85,0
-Robert Mulligan,129,89,161,,To Kill a Mockingbird ,215086,3833,0,USA,Not Rated,2000000,8.4,1.85,15000
-George Miller,87,750,41,9003011,Mad Max 2: The Road Warrior ,133966,1396,0,Australia,R,2000000,7.6,2.35,0
-Chia-Liang Liu,102,32,75,11546543,The Legend of Drunken Master ,34520,768,1,Hong Kong,R,2000000,7.6,2.35,0
-Stanley Kubrick,152,0,177,,Lolita ,67825,1404,0,UK,Not Rated,2000000,7.7,1.66,0
-Kimberly Peirce,118,108,103,11533945,Boys Don't Cry ,77551,563,0,USA,R,2000000,7.6,1.85,0
-Chris Kentis,86,9,32,12555230,Silent House ,18566,218,0,France,R,2000000,5.3,1.85,0
-Florian Henckel von Donnersmarck,137,207,155,11284657,The Lives of Others ,259379,927,3,Germany,R,2000000,8.5,2.35,39000
-Alex Kendrick,129,589,341,34522221,Courageous ,15401,2300,7,USA,PG-13,2000000,7.0,2.35,10000
-Robert Rossen,134,31,366,,The Hustler ,62860,2290,1,USA,Unrated,2000000,8.0,2.35,0
-Jack Conway,119,6,380,,Boom Town ,2269,2555,8,USA,Passed,1614000,7.1,1.37,236
-Sylvain Chomet,80,162,0,7002255,The Triplets of Belleville ,42462,29,0,France,PG-13,9500000,7.8,1.66,0
-Chris Eyre,89,149,580,6719300,Smoke Signals ,8224,3163,3,Canada,PG-13,2000000,7.2,1.85,0
-Shari Springer Berman,101,30,92,6003587,American Splendor ,41999,14412,0,USA,R,,7.5,1.85,0
-Richard Linklater,80,0,3,5792822,Before Sunset ,168398,65,0,USA,R,2700000,8.0,1.85,13000
-Alejandro G. Iñárritu,115,0,35,5383834,Amores Perros ,173551,318,0,Mexico,R,2000000,8.1,1.85,11000
-Catherine Hardwicke,100,308,374,4599680,Thirteen ,68222,2186,2,USA,R,1500000,6.8,1.85,0
-Elia Kazan,118,603,167,,Gentleman's Agreement ,10791,1846,3,USA,Approved,2000000,7.4,1.37,0
-Debra Granik,100,81,179,6531491,Winter's Bone ,111658,34446,2,USA,R,2000000,7.2,1.85,20000
-Kevin Macdonald,106,162,3,4581222,Touching the Void ,26926,29,0,UK,R,,8.1,1.85,0
-Henry King,106,85,300,,Alexander's Ragtime Band ,1381,1833,2,USA,Approved,2000000,7.0,1.37,60
-Miranda July,91,244,244,3885134,Me and You and Everyone We Know ,31130,1349,0,USA,R,2000000,7.4,1.85,0
-Charles Ferguson,105,117,18,4311834,Inside Job ,55382,13145,0,USA,PG-13,,8.3,2.35,63000
-Max Joseph,96,31,328,3590010,We Are Your Friends ,20885,3013,0,UK,R,2000000,6.1,1.85,0
-Jim Jarmusch,116,0,116,3300230,Ghost Dog: The Way of the Samurai ,70084,675,1,France,R,,7.5,1.85,0
-David Ayer,116,453,2000,3335839,Harsh Times ,54657,50313,2,USA,R,2000000,7.0,1.85,0
-Jerry Jameson,97,5,349,2557668,Captive ,3911,2739,1,USA,PG-13,2000000,5.3,1.85,0
-Steven Soderbergh,101,0,685,2506446,Full Frontal ,8662,11327,0,USA,R,2000000,4.7,1.85,134
-Kevin Tenney,98,85,186,7369373,Witchboard ,4288,901,1,UK,R,2000000,5.7,1.85,0
-,22,,344,,Strangers with Candy             ,4181,1359,3,USA,TV-14,,8.1,4.0,558
-Kenneth Branagh,150,0,401,4414535,Hamlet ,30618,1645,0,UK,PG-13,18000000,7.8,2.2,0
-John Cameron Mitchell,101,263,37,1984378,Shortbus ,27346,226,3,USA,Unrated,2000000,6.5,1.78,0
-Ari Folman,90,56,0,2283276,Waltz with Bashir ,46107,56,0,Israel,R,1500000,8.0,1.85,0
-Gary Rogers,120,0,40,1098224,The Book of Mormon Movie, Volume 1: The Journey ,397,359,1,USA,PG-13,2000000,3.3,1.85,32
-Charles Ferguson,102,117,17,1430185,No End in Sight ,7314,446,0,USA,,2000000,8.3,1.85,0
-Marielle Heller,102,22,80,1477002,The Diary of a Teenage Girl ,16645,11184,3,USA,R,2000000,6.9,2.35,0
-,60,,143,,Get Real             ,415,11618,5,USA,,,7.3,1.33,43
-David Sington,100,90,65,1134049,In the Shadow of the Moon ,5475,408,0,UK,PG,2000000,8.1,1.85,0
-Kelly Reichardt,104,129,887,977600,Meek's Cutoff ,8204,3427,1,USA,PG,,6.5,1.33,0
-Fenton Bailey,89,13,218,653621,Inside Deep Throat ,5615,1136,0,USA,NC-17,2000000,6.8,1.85,592
-Bob Giraldi,99,34,120,110000,Dinner Rush ,4359,1156,1,USA,R,,7.3,1.85,495
-Jill Sprecher,96,11,490,444354,Clockwatchers ,4049,3011,4,UK,PG-13,,6.4,,166
-Huck Botko,86,10,126,535249,The Virginity Hit ,3467,768,0,USA,R,3400000,4.6,1.85,974
-Luc Besson,98,0,164,,Subway ,11031,1917,1,France,R,17000000,6.5,2.35,739
-David Duchovny,96,0,902,371081,House of D ,7479,51441,2,USA,PG-13,6000000,7.0,1.85,857
-Mitchell Lichtenstein,94,53,268,347578,Teeth ,34556,1511,1,USA,R,,5.4,1.85,17000
-Lance Mungia,91,4,0,124494,Six-String Samurai ,5613,36,1,USA,PG-13,2000000,6.7,1.85,0
-Kundan Shah,,4,72,,Hum To Mohabbat Karega ,275,613,2,India,,,2.8,,10
-Michael Dowse,90,31,137,120620,It's All Gone Pete Tong ,16828,865,1,UK,R,,7.4,2.35,0
-Hue Rhodes,85,0,966,100669,Saint John of Las Vegas ,2522,36885,1,USA,R,3800000,5.8,2.35,407
-Shane Meadows,96,222,20,,24 7: Twenty Four Seven ,2081,5535,2,UK,R,,7.1,1.85,224
-Roland Emmerich,129,776,256,186354,Stonewall ,1758,26176,0,USA,R,13500000,4.5,2.35,0
-,60,,543,,Eureka             ,39559,4280,2,USA,TV-14,,7.9,1.78,3000
-Jugal Hansraj,93,32,24,55202,Roadside Romeo ,922,653,0,India,PG,,5.3,2.35,39
-Danny Provenzano,100,84,267,,This Thing of Ours ,508,1307,4,USA,Not Rated,,5.4,1.85,61
-Bill Muir,97,19,395,549632,The Lost Medallion: The Adventures of Billy Stone ,1278,2522,,Thailand,PG,,4.8,2.35,715
-Richard LaGravenese,94,98,89,137945,The Last Five Years ,6223,10869,7,USA,PG-13,,5.9,2.35,0
-Noah Buschel,95,8,399,17580,The Missing Person ,1268,2749,3,USA,,1500000,6.2,1.85,195
-Brian Yuzna,97,97,163,,Return of the Living Dead III ,10182,1362,1,USA,R,2000000,5.9,1.85,810
-Hunter Richards,92,11,1000,12667,London ,19336,39518,2,UK,R,14000,6.6,2.35,0
-Laurie Collyer,96,38,85,198407,Sherrybaby ,10282,774,1,USA,R,2000000,6.6,1.85,474
-Bruce McCulloch,85,54,455,13973532,Stealing Harvard ,11211,3065,1,USA,PG-13,25000000,5.1,1.85,215
-Aaron Hann,87,0,94,,Circle ,13279,776,0,USA,Not Rated,,6.0,,0
-James Watkins,91,43,418,5824,Eden Lake ,57811,14561,1,UK,R,,6.8,2.35,0
-Catherine Hardwicke,99,308,395,2843,Plush ,2895,2341,2,USA,R,,5.4,1.78,604
-Phil Claydon,88,6,161,,Vampire Killers ,17296,1593,3,UK,R,,5.2,2.35,0
-Ralph Ziman,119,5,12,4958,Gangster's Paradise: Jerusalema ,9689,86,2,South Africa,R,2000000,7.8,2.35,1000
-John Simpson,99,0,268,,Freeze Frame ,2588,1650,1,UK,R,2000000,6.4,2.35,205
-Colin Minihan,92,6,103,,Grave Encounters ,40380,762,0,Canada,Not Rated,100000,6.1,1.78,0
-Conor McMahon,86,5,47,,Stitches ,6585,322,0,Ireland,R,,5.7,1.85,0
-Chris Shadley,83,0,107,,Nine Dead ,9280,1149,0,USA,R,2000000,5.5,2.35,0
-Simon Napier-Bell,81,0,8,,To Be Frank, Sinatra at 100 ,7,712,0,UK,,2000000,7.4,,0
-Woody Allen,82,11000,167,,Bananas ,27646,11700,3,USA,GP,2000000,7.1,1.37,0
-Simon Yin,102,0,46,13220,Supercapitalist ,289,892,0,USA,Not Rated,,3.9,,115
-Jeff Crook,90,5,372,,Rockaway ,355,2395,1,USA,R,2000000,4.6,2.35,44
-,30,,424,,Wings             ,7646,1884,5,USA,,,7.3,1.33,1000
-Orson Welles,92,0,18,7927,The Lady from Shanghai ,19236,1055,1,USA,Not Rated,2300000,7.7,1.37,0
-Dave Payne,88,0,332,,No Man's Land: The Rise of Reeker ,2701,2620,0,USA,R,2000000,4.9,1.78,153
-James Cox,97,10,171,,Highway ,5182,15740,3,USA,R,14000000,6.3,2.35,912
-Jonas Åkerlund,96,68,722,,Small Apartments ,5732,3683,6,USA,R,2000000,6.1,1.85,0
-Brad Copeland,87,8,424,,Coffee Town ,4204,35796,3,USA,,2000000,6.6,2.35,0
-Paul Bunnell,106,5,356,2436,The Ghastly Love of Johnny X ,344,1611,2,USA,Not Rated,2000000,5.7,2.35,655
-Phil Morrison,107,17,322,4556,All Is Bright ,4478,2020,1,USA,R,,5.6,,825
-Harald Reinl,80,2,51,,The Torture Chamber of Dr. Sadism ,952,16110,0,West Germany,M,,6.0,1.66,200
-James Cox,91,10,293,,Straight A's ,3605,2654,3,USA,R,2000000,5.7,,0
-Richard Lester,99,44,137,,A Funny Thing Happened on the Way to the Forum ,6804,1807,0,USA,Approved,2000000,7.0,1.85,805
-Michael Moore,102,909,119,,Slacker Uprising ,2242,1674,0,USA,,2000000,5.3,,69
-Tanner Beard,108,531,894,,The Legend of Hell's Gate: An American Conspiracy ,583,15707,1,USA,PG-13,2000000,4.4,,651
-Scott Dow,88,6,233,,The Walking Deceased ,2348,1425,0,USA,R,1250000,3.4,,0
-Derick Martini,89,20000,618,,The Curse of Downers Grove ,1040,4968,1,USA,,2000000,4.5,,0
-Jerry Dugan,92,3,412,,Shark Lake ,838,13583,0,USA,Not Rated,2000000,3.4,,728
-Tim Hunter,99,28,223,4600000,River's Edge ,11763,19649,2,USA,R,1900000,7.1,1.85,0
-Michael Polish,103,35,482,1420578,Northfork ,4894,2389,0,USA,PG-13,1900000,6.4,2.35,298
-William Kaufman,90,58,164,,The Marine 4: Moving Target ,2032,1204,2,USA,R,1950000,5.2,1.78,620
-Rodrigo Cortés,95,89,263,1028658,Buried ,118684,17471,0,Spain,R,3000000,7.0,2.35,24000
-Richard Ayoade,97,0,594,466702,Submarine ,65877,3275,1,UK,R,,7.3,1.85,17000
-Jehane Noujaim,108,63,5,,The Square ,6678,176,0,Egypt,Not Rated,1500000,8.1,1.85,0
-Pascal Arnold,95,0,164,18435,One to Another ,1010,1082,5,France,Unrated,1400000,5.8,1.85,104
-Kimberly Peirce,100,108,534,35266619,Carrie ,108248,20051,1,USA,R,30000000,5.9,2.35,39000
-Remo,160,168,71,95236,ABCD (Any Body Can Dance) ,5018,1182,3,India,Not Rated,,6.4,,1000
-Wes Craven,101,0,574,26505000,A Nightmare on Elm Street ,149293,42918,1,USA,X,1800000,7.5,1.85,10000
-James Marsh,90,120,0,2957978,Man on Wire ,40481,68,0,UK,PG-13,1000000,7.8,1.85,0
-John Laing,86,0,3,,Abandoned ,333,90,5,New Zealand,,,6.3,,213
-Jamal Hill,89,47,585,444044,Brotherly Love ,744,4249,6,USA,R,1900000,7.2,1.85,1000
-Daniel Stamm,87,13,308,40990055,The Last Exorcism ,41509,1958,0,France,PG-13,1800000,5.6,1.85,0
-Sam Taylor-Johnson,98,456,231,1445366,Nowhere Boy ,29019,2032,1,UK,R,,7.2,2.35,10000
-Elia Kazan,125,603,114,,A Streetcar Named Desire ,78454,10570,0,USA,PG,1800000,8.0,1.37,5000
-Stanley Kubrick,95,0,277,,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,342585,1991,0,USA,PG,1800000,8.5,1.66,18000
-Carlos Carrera,118,12,67,5709616,El crimen del padre Amaro ,11088,546,0,Mexico,R,1800000,6.8,1.85,544
-Benh Zeitlin,93,188,168,12784397,Beasts of the Southern Wild ,70336,2658,0,USA,PG-13,1800000,7.3,1.85,31000
-J. Lee Thompson,96,88,196,,Battle for the Planet of the Apes ,22764,1432,4,USA,G,1800000,5.5,2.35,511
-Maggie Greenwald,109,9,280,3050934,Songcatcher ,2794,2187,1,USA,PG-13,1800000,7.3,1.85,0
-Vera Farmiga,109,0,186,841206,Higher Ground ,2603,1439,0,USA,R,,6.3,1.85,952
-Vijay Chandar,155,0,61,,Vaalu ,563,349,2,India,,150000000,5.1,,82
-Morgan Spurlock,90,293,808,638476,The Greatest Movie Ever Sold ,13223,32405,1,USA,PG-13,1500000,6.6,,0
-Jonathan Wacks,93,0,482,,Ed and His Dead Mother ,1435,14620,0,USA,PG-13,1800000,6.1,1.78,266
-Khyentse Norbu,108,28,0,505295,Travelers and Magicians ,1747,0,0,Australia,,1800000,7.5,1.85,353
-Ted Post,114,57,426,,Hang 'Em High ,25472,18263,3,USA,M,1800000,7.0,1.85,0
-Richard Brooks,87,174,114,,Deadline - U.S.A. ,1756,2831,0,USA,,,7.2,1.37,169
-Tony Krantz,113,15,491,,Sublime ,6267,2439,0,USA,R,1800000,5.3,2.35,368
-Mitchell Altieri,87,9,165,,A Beginner's Guide to Snuff ,13,1270,0,USA,,,8.7,,8
-W.D. Hogan,90,4,91,,Independence Daysaster ,761,984,0,Canada,PG-13,1800000,3.4,,566
-Corey Grant,111,21,685,,Dysfunctional Friends ,686,4306,13,USA,Not Rated,1800000,5.4,1.85,569
-Tom Tykwer,81,670,34,7267324,Run Lola Run ,161471,623,1,Germany,R,3500000,7.8,1.85,0
-Lucky McKee,93,75,446,145540,May ,26773,2489,1,USA,R,500000,6.7,1.85,0
-Richard Boddington,90,15,120,,Against the Wild ,840,1724,3,Canada,PG,2000000,4.7,,326
-David Hunt,112,0,11,,Living Dark: The Story of Ted the Caver ,28,139,0,USA,PG-13,1750000,6.3,1.85,73
-Patricia Riggen,106,36,345,12589108,Under the Same Moon ,5526,2198,1,Mexico,PG-13,,7.4,1.85,0
-J. Lee Thompson,88,88,67,,Conquest of the Planet of the Apes ,23268,941,0,USA,PG,1700000,6.1,2.35,794
-Todd Field,138,143,783,35918429,In the Bedroom ,32415,3970,1,USA,R,1700000,7.5,2.35,951
-Steven R. Monroe,105,68,374,92401,I Spit on Your Grave ,56402,2423,0,USA,R,2000000,6.3,2.35,17000
-Mark Illsley,98,3,327,1943649,Happy, Texas ,8697,2095,3,USA,PG-13,1700000,6.3,1.85,374
-Pawel Pawlikowski,86,84,34,992238,My Summer of Love ,16349,763,0,UK,R,1700000,6.8,1.85,869
-Ritesh Batra,104,25,73,4231500,The Lunchbox ,30479,822,2,India,PG,1000000,7.8,2.35,16000
-Sally Potter,100,87,420,396035,Yes ,2725,2721,0,UK,R,1000000,6.9,1.85,305
-Frank Capra,126,964,275,,You Can't Take It with You ,17799,1363,10,USA,Approved,1644736,8.0,1.37,0
-Fred Zinnemann,118,160,426,,From Here to Eternity ,33987,2247,5,USA,Not Rated,1650000,7.8,1.37,0
-John Ford,103,673,89,,She Wore a Yellow Ribbon ,11920,955,1,USA,Unrated,1600000,7.4,1.37,721
-Brad J. Silverman,102,11,575,2507106,Grace Unplugged ,2561,3894,0,USA,PG,,6.1,,0
-Dave Meyers,84,11,249,6026908,Foolish ,536,2196,0,USA,R,2000000,4.3,,43
-David M. Matthews,,8,394,2592808,N-Secure ,548,3137,5,USA,R,,3.5,2.35,588
-Nadine Labaki,95,0,0,1060591,Caramel ,9750,231,0,France,PG,1300000,7.2,1.85,0
-Lluís Quílez,92,0,2,,Out of the Dark ,2621,380,3,USA,R,,4.7,2.35,844
-Eytan Fox,90,21,27,155972,The Bubble ,4702,137,0,Israel,Unrated,1500000,7.3,,0
-Francis Ford Coppola,113,0,324,,The Conversation ,74651,12157,2,USA,PG,1600000,7.9,1.37,6000
-Romesh Sharma,,0,45,129319,Dil Jo Bhi Kahey... ,257,622,4,India,,70000000,5.1,,9
-François Truffaut,123,0,21,26893,Mississippi Mermaid ,4391,1694,0,France,R,1600000,7.2,2.35,278
-Adam Goldberg,111,1000,127,2580,I Love Your Work ,1618,2564,2,USA,R,1650000,5.4,2.35,63
-Travis Zariwny,99,4,114,,Cabin Fever ,3313,992,0,USA,Not Rated,,3.7,,2000
-Zack Snyder,110,0,1000,58885635,Dawn of the Dead ,194426,10438,0,USA,R,26000000,7.4,2.35,7000
-Adrienne Shelly,108,191,336,19067631,Waitress ,37714,1981,1,USA,PG-13,2000000,7.1,1.85,0
-Newt Arnold,92,15,49,11806119,Bloodsport ,57578,1168,1,USA,R,1100000,6.8,1.85,0
-Frank Capra,120,964,248,,Mr. Smith Goes to Washington ,77392,1573,7,USA,Not Rated,1500000,8.2,1.37,0
-Larry Clark,91,184,82,7417210,Kids ,59041,3310,1,USA,,1500000,7.0,1.85,0
-Noah Baumbach,88,387,18,7362100,The Squid and the Whale ,60295,479,0,USA,R,1500000,7.4,1.85,0
-Charles Herman-Wurmfeld,97,0,117,7022940,Kissing Jessica Stein ,14018,1173,1,USA,R,1000000,6.7,1.85,682
-Yimou Zhang,95,611,3,190666,A Woman, a Gun and a Noodle Shop ,2410,18,1,China,R,,5.7,2.35,784
-John Stockwell,90,134,354,,Kickboxer: Vengeance ,246,261818,5,USA,,17000000,9.1,,0
-Alfred Hitchcock,95,13000,82,,Spellbound ,32927,896,1,USA,Unrated,1696377,7.6,1.37,0
-Atom Egoyan,103,460,900,5132222,Exotica ,14112,2990,1,Canada,R,2000000,7.2,1.85,619
-Vincent Gallo,110,787,642,2365931,Buffalo '66 ,36657,4762,2,USA,R,1500000,7.5,1.85,0
-James Wan,103,0,588,53991137,Insidious ,202800,3030,1,USA,PG-13,1500000,6.8,2.35,60000
-Alex Cox,92,92,166,,Repo Man ,25332,1652,3,USA,R,1500000,6.9,1.85,0
-Fabián Bielinsky,114,44,7,1221261,Nine Queens ,38215,856,0,Argentina,R,1500000,7.9,1.85,0
-Dror Moreh,101,4,0,2408553,The Gatekeepers ,4547,0,3,Israel,PG-13,,7.6,1.85,0
-Rebecca Miller,112,58,42,712294,The Ballad of Jack and Rose ,9408,859,1,USA,R,1500000,6.7,1.66,608
-Maggie Carey,104,38,690,3447339,The To Do List ,29517,2667,7,USA,R,1500000,5.8,1.78,0
-Roger Avary,99,675,164,418953,Killing Zoe ,17322,1582,0,France,R,1500000,6.5,1.85,853
-Henry Bean,98,21,76,406035,The Believer ,30314,33441,0,USA,R,1500000,7.2,1.66,0
-David Gordon Green,107,234,442,402820,Snow Angels ,10896,2747,0,USA,R,,6.9,2.35,415
-Simeon Rice,93,6,56,,Unsullied ,95,792,1,USA,R,1500000,5.5,2.35,307
-Brad Anderson,100,122,83,373967,Session 9 ,43839,469,0,USA,R,1500000,6.5,2.35,0
-Jeff Garlin,80,522,423,194568,I Want Someone to Eat Cheese With ,2963,2179,0,USA,R,1500000,6.2,1.85,0
-Qasim Basir,94,13,616,,Mooz-Lum ,919,3288,1,USA,PG-13,,6.7,,0
-Adam Green,93,134,488,,Hatchet ,23349,3668,0,USA,R,1500000,5.7,1.85,0
-Charles Chaplin,87,0,8,163245,Modern Times ,143086,352,1,USA,G,1500000,8.6,1.37,0
-Pete Jones,91,18,597,119841,Stolen Summer ,2419,3901,1,USA,PG,1500000,6.5,1.85,304
-Bruce Campbell,84,0,158,173066,My Name Is Bruce ,21379,1238,1,USA,R,1500000,6.3,1.85,0
-Mark Brown,90,7,424,92362,The Salon ,444,3138,7,USA,PG-13,1500000,4.3,1.85,68
-Adam Carolla,98,102,360,105943,Road Hard ,1351,2628,0,USA,,1500000,6.1,,212
-Ira Sachs,108,60,121,,Forty Shades of Blue ,1134,1240,0,USA,R,1500000,6.0,1.85,216
-John Sayles,124,407,7,183490,Amigo ,463,60,0,USA,R,1700000,5.8,,594
-Bruce McDonald,95,49,57,3478,Pontypool ,22212,721,0,Canada,Not Rated,1500000,6.7,2.35,0
-James Mottern,90,7,711,52166,Trucker ,2792,89263,3,USA,R,2000000,6.7,2.35,371
-Jaime Zevallos,93,228,134,,Me You and Five Bucks ,7,771,1,USA,,1500000,7.6,,132
-Rob Zombie,101,0,721,1163508,The Lords of Salem ,20376,5158,1,USA,R,2500000,5.1,2.35,15000
-Gerard Johnstone,107,3,28,,Housebound ,23323,165,3,New Zealand,Not Rated,350000,6.8,2.35,10000
-Robert Greenwald,20,21,0,,Wal-Mart: The High Cost of Low Price ,4120,0,0,USA,Not Rated,1500000,6.8,1.85,0
-David Ray,87,0,108,,Fetching Cody ,1232,596,2,Canada,,1500000,6.8,,193
-Dave Rodriguez,98,11,636,,Once Upon a Time in Queens ,291,4036,2,USA,R,1500000,6.3,1.89,283
-Nae Caranfil,112,34,71,,Closer to the Moon ,2841,588,2,Romania,Not Rated,5000000,7.1,2.35,0
-David Winning,82,65,146,,Mutant World ,459,967,0,Canada,,1500000,2.8,,236
-Frank Lotito,102,5,259,,Growing Up Smith ,108,4320,,USA,PG-13,2000000,8.2,1.85,232
-Timothy Woodward Jr.,97,764,492,,Checkmate ,735,2882,3,USA,,1500000,3.1,2.35,402
-Christopher McQuarrie,130,188,1000,80033643,Jack Reacher ,226583,16385,2,USA,PG-13,60000000,7.0,2.35,38000
-Tara Subkoff,101,37,56,,#Horror ,1547,1044,1,USA,Not Rated,1500000,3.3,,750
-Russell Friedenberg,93,9,485,,Wind Walkers ,133,2870,,USA,R,2000000,3.6,,135
-William Cottrell,83,0,31,184925485,Snow White and the Seven Dwarfs ,133348,229,1,USA,Approved,2000000,7.7,1.37,0
-Lucrecia Martel,106,33,3,304124,The Holy Girl ,2720,358,0,Argentina,R,1400000,6.7,1.85,57
-Edward Dmytryk,113,74,387,,Shalako ,1978,2140,2,UK,PG,1455000,5.5,2.35,209
-Zak Penn,94,87,37,36830,Incident at Loch Ness ,3291,256,0,UK,PG-13,1400000,6.6,1.85,400
-Alex Ranarivelo,101,20,256,,The Dog Lover ,162,2419,,USA,PG,2000000,4.8,2.35,724
-Jon Knautz,99,10,295,,Girl House ,4948,2072,0,Canada,,3150000,5.5,2.35,969
-Mathieu Amalric,76,412,3,231186,The Blue Room ,2082,421,0,France,R,,6.3,1.33,389
-David Worth,91,58,69,,House at the End of the Drive ,330,1159,0,USA,R,1400000,6.9,,223
-Leslie H. Martinson,105,7,356,,Batman: The Movie ,22975,2658,1,USA,Approved,1377800,6.5,1.85,0
-Guy Ritchie,120,0,452,3650677,Lock, Stock and Two Smoking Barrels ,414976,28294,1,UK,R,960000,8.2,1.85,21000
-Robert M. Young,105,0,467,,The Ballad of Gregorio Cortez ,39,3164,0,USA,,1250000,7.1,,32
-,120,,,,The Streets of San Francisco             ,3405,416,0,USA,,,7.3,4.0,533
-Thomas Vinterberg,105,346,141,1647780,The Celebration ,65951,821,1,Denmark,R,1300000,8.1,1.33,5000
-Steve Buscemi,95,12000,636,695229,Trees Lounge ,11369,14420,1,USA,R,1300000,7.2,1.85,872
-Ham Tran,135,5,5,638951,Journey from the Fall ,775,83,2,USA,R,1592000,7.4,1.85,100
-Rich Cowan,105,7,548,609042,The Basket ,449,3475,2,USA,PG,1300000,6.5,1.85,117
-Boris Rodriguez,83,5,98,1521,Eddie: The Sleepwalking Cannibal ,1231,843,0,Canada,Not Rated,1500000,5.7,,932
-Harold Becker,111,17,652,32940507,Mercury Rising ,54316,16537,1,USA,R,60000000,6.1,2.35,0
-,60,,109,,Space: Above and Beyond             ,6381,611,0,USA,,5000000,7.7,1.33,963
-Sadyk Sher-Niyaz,135,135,0,,Queen of the Mountains ,3144,0,1,Kyrgyzstan,PG-13,1400000,8.7,2.35,0
-Paul Donovan,88,4,13,,Def-Con 4 ,1339,289,0,Canada,R,1750000,4.3,1.85,220
-Jonathan Kesselman,87,4,624,19539,The Hebrew Hammer ,4182,6227,1,USA,R,1000000,6.2,1.85,3000
-Arjun Sablok,97,0,40,100358,Neal 'N' Nikki ,1167,602,2,India,,1500000,3.3,2.35,66
-Craig Moss,82,19,134,,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,5579,1499,3,USA,R,1300000,2.7,1.85,0
-Tyler Oliver,103,0,511,,Forget Me Not ,4866,38121,1,USA,R,1300000,5.2,2.35,969
-Alfred Hitchcock,130,13000,333,,Rebecca ,87424,2888,2,USA,Not Rated,1288000,8.2,1.37,0
-Steve Miner,87,49,59,19100000,Friday the 13th Part 2 ,39690,707,0,USA,R,1250000,6.1,1.85,0
-Billy Wilder,101,0,66,,The Lost Weekend ,24959,581,4,USA,Not Rated,1250000,8.0,1.37,0
-Douglas Cheek,96,4,132,,C.H.U.D. ,7528,1866,0,USA,R,1250000,5.5,1.85,0
-Youssef Delara,80,8,183,2833383,Filly Brown ,910,2459,1,USA,R,427000,5.7,2.35,0
-Deryck Broom,87,11,397,,The Lion of Judah ,458,1730,0,USA,PG,15000000,3.7,1.78,381
-Henry Hathaway,92,83,48,,Niagara ,11047,683,0,USA,Approved,1250000,7.1,1.37,1000
-John Ford,118,673,137,,How Green Was My Valley ,15840,1129,5,USA,Approved,1250000,7.8,1.37,0
-,27,,201,,The Girlfriend Experience             ,3282,1961,0,USA,TV-MA,,7.3,,632
-Spike Lee,123,0,161,,Da Sweet Blood of Jesus ,794,4040,0,USA,,1420000,4.1,2.35,447
-Steven Soderbergh,100,0,65,24741700,Sex, Lies, and Videotape ,37785,1431,2,USA,R,1200000,7.2,1.85,2000
-James Wan,103,0,651,55153403,Saw ,299127,5161,0,USA,R,1200000,7.7,1.85,0
-Jay Chandrasekhar,100,422,422,18488314,Super Troopers ,76151,2893,0,USA,R,1200000,7.1,1.85,0
-Giovanni Zelko,99,4,434,,The Algerian ,101,20218,6,USA,,1300000,7.6,1.85,221
-Claudia Sainte-Luce,89,0,3,11278,The Amazing Catfish ,1229,58,0,Mexico,,1300000,7.0,,407
-Scott Derrickson,104,301,71,79363785,The Day the Earth Stood Still ,139426,22194,0,USA,PG-13,80000000,5.5,2.35,0
-Mira Nair,114,300,73,13876974,Monsoon Wedding ,19397,809,0,India,R,7000000,7.4,1.85,0
-Kenneth Lonergan,111,50,612,9180275,You Can Count on Me ,22145,4288,0,USA,R,1200000,7.7,1.85,756
-Alfred Hitchcock,99,13000,232,,The Trouble with Harry ,24891,1041,0,USA,Approved,1200000,7.2,1.5,0
-Paul McGuigan,110,118,1000,22494487,Lucky Number Slevin ,262160,26451,3,Germany,R,27000000,7.8,2.35,10000
-Jamie Babbit,85,91,849,2199853,But I'm a Cheerleader ,19986,4289,1,USA,R,1200000,6.6,1.85,0
-David Boyd,113,29,449,2859955,Home Run ,2417,2681,2,USA,PG-13,1200000,6.0,2.35,0
-Quentin Tarantino,99,16000,455,2812029,Reservoir Dogs ,664719,28994,0,USA,R,1200000,8.4,2.35,19000
-Walter Lang,83,9,51,,The Blue Bird ,1047,293,1,USA,Approved,,6.5,1.37,548
-Sergio Leone,142,0,24,6100000,The Good, the Bad and the Ugly ,503509,16089,3,Italy,Approved,1200000,8.9,2.35,20000
-Anna Muylaert,112,9,4,375723,The Second Mother ,7025,76,1,Brazil,R,4000000,7.9,2.35,0
-Steve Taylor,108,14,274,594904,Blue Like Jazz ,2582,1805,0,USA,PG-13,1200000,6.0,1.85,0
-Kurt Voss,88,0,3,58936,Down and Out with the Dolls ,91,318,0,USA,R,1200000,6.1,1.78,27
-Léa Pool,97,4,,24784,Pink Ribbons, Inc. ,591,0,0,Canada,Not Rated,1200000,7.4,,5000
-James David Pasternak,85,0,924,7826,Certifiably Jonathan ,132,54484,10,USA,,1200000,6.2,,87
-Laurent Bouhnik,103,0,24,,Q ,4068,114,1,France,,1500000,5.6,1.78,754
-Tom Sanchez,110,0,0,3830,The Knife of Don Juan ,27,5,3,USA,,1200000,7.2,,75
-David Caffrey,88,4,95,,Grand Theft Parsons ,2953,1438,1,USA,PG-13,,6.1,1.85,480
-Adam Jay Epstein,76,0,227,,Extreme Movie ,9560,1190,6,USA,R,,3.8,1.85,636
-Michael Curtiz,100,345,94,,The Charge of the Light Brigade ,3418,1621,3,USA,Approved,1200000,7.1,1.37,204
-Justin Thomas Ostensen,99,0,5,,Below Zero ,652,862,2,Canada,R,1200000,4.5,,161
-Brenton Spencer,84,0,63,,Crowsnest ,1321,630,0,Canada,R,1200000,3.8,,238
-Rob Bowman,91,38,117,2850263,Airborne ,5061,1218,0,USA,PG,2600000,6.2,1.85,0
-Ossie Davis,97,282,148,,Cotton Comes to Harlem ,1172,1581,1,USA,R,1200000,6.6,1.85,477
-Jay Alaimo,84,2,475,,The Wicked Within ,742,11257,0,USA,R,1200000,4.6,,479
-Dylan Bank,100,0,312,,Bleeding Hearts ,71,1810,1,USA,,1200000,4.2,,242
-Rob McKittrick,94,6,804,16101109,Waiting... ,76467,19957,3,USA,R,3000000,6.8,1.85,0
-Shane Meadows,90,222,68,6013,Dead Man's Shoes ,39929,1311,0,UK,,695393,7.7,1.85,0
-,,,206,,Wolf Creek             ,726,1617,0,Australia,,,7.1,2.0,954
-Jeff Burr,92,155,147,1400000,From a Whisper to a Scream ,1324,1329,0,USA,R,1100000,5.9,1.85,241
-Harry Gantz,105,0,,247740,Sex with Strangers ,285,0,0,USA,,,4.7,1.33,51
-Guy Maddin,73,126,3,39659,Dracula: Pages from a Virgin's Diary ,1555,21,1,Canada,,1600000,7.0,1.85,131
-Regardt van den Bergh,116,12,25,,Faith Like Potatoes ,2050,521,2,South Africa,PG,10000000,6.9,1.85,0
-Panos Cosmatos,110,22,48,56129,Beyond the Black Rainbow ,6555,645,1,Canada,R,1100000,6.1,2.35,0
-Gareth Evans,102,338,60,4105123,The Raid: Redemption ,148221,1445,0,Indonesia,R,1100000,7.6,1.85,51000
-Matthew R. Anderson,89,252,252,,The Dead Undead ,737,2510,1,USA,R,1100000,3.0,1.85,444
-Joe Marino,76,0,0,,The Vatican Exorcisms ,332,12,0,Italy,R,1100000,2.6,2.35,200
-Michael Curtiz,82,345,269,,Casablanca ,387508,3442,4,USA,PG,950000,8.6,1.37,23000
-Joel Anderson,89,0,5,,Lake Mungo ,9465,29,0,Australia,R,1400000,6.1,1.85,0
+director_name,duration,director_facebook_likes,facenumber_in_poster,plot_keywords,content_rating,actor_2_facebook_likes,imdb_score
+Yarrow Cheney,87,11,0,animal control|lost animal|mongrel|pet|terrier,PG,904,6.8
+Stephen Norrington,110,45,3,box office flop|captain nemo|dorian gray|invisible man|steampunk,PG-13,872,5.8
+Pierre Coffin,98,275,0,dating|minion|overprotective father|undercover spy|woman agent,PG,2000,7.5
+Roland Emmerich,154,776,0,alien|area 51|military|spacecraft|spaceship,PG-13,2000,6.9
+Steven Spielberg,129,14000,0,capture|dinosaur|island|jurassic|jurassic park,PG-13,506,6.5
+Eric Darnell,86,35,0,escape|jungle|lemur|madagascar|zoo,PG,436,6.9
+Alfonso Cuarón,109,0,0,chaos|england|long take|survival|violence,R,430,7.9
+Bryan Singer,104,0,0,first part|mutant|professor|superhero|superhero team,PG-13,764,7.4
+Timur Bekmambetov,110,335,0,assassin|bobble head doll|femme fatale|rejuvenation|strong female lead,R,11000,6.7
+Michael Bay,136,0,1,alcatraz|fbi|general|hostage|rocket,R,2000,7.4
+Carlos Saldanha,115,107,0,flood|mammoth|no opening credits|squirrel|valley,PG,590,6.9
+Peter Segal,99,88,2,dream|hawaii|hawaiian shirt|short term memory loss|veterinarian,PG-13,427,6.8
+Adam Shankman,117,163,9,audition|best friend|dance|friend|tv dance show,PG,339,6.7
+Renny Harlin,125,212,0,archeologist|church|excavation|faith|relic,R,422,5.1
+David Kellogg,110,16,0,actor playing multiple roles|claw|gadget|inspector|police,PG,710,4.1
+Louis Leterrier,125,255,6,bank|fbi|heist|interpol|magician,PG-13,988,7.3
+Dennis Dugan,102,221,4,basketball|coach|daughter|high school|high school basketball,PG-13,11000,6.0
+Steven Spielberg,128,14000,0,airport|construction site|fish out of water|flight attendant|man without a country,PG-13,466,7.3
+,43,,1,based on comic|based on comic book|dc arrowverse|dc comics|supernatural,TV-14,560,7.5
+Thor Freudenthal,100,87,4,abandoned hotel|dog|foster home|overalls|playing with a dog,PG,576,5.4
+Martin Campbell,124,258,0,death|die hard scenario|k2|rescue|urination,PG-13,826,5.9
+Mike Nichols,102,0,1,afghanistan|arms dealer|based on true story|cia|texas,R,15000,7.1
+Bibo Bergeron,90,10,0,anchor|fish|mobster|shark|vegetarian,PG,17000,6.0
+Bill Condon,130,386,0,1960s|fire|pop chart|singer|trio,PG-13,549,6.5
+,45,,1,cop|murder|partner|police|protective male,,130,8.3
+F. Gary Gray,118,473,4,concert|mobster|russian|sequel|widow,PG-13,1000,5.7
+Steven Spielberg,163,14000,0,arab|black september|israel|jew|munich olympics,R,486,7.6
+Antoine Fuqua,142,845,1,dictator|doctor|jungle|rebel|refugee,R,1000,6.6
+Robert Luketic,100,126,2,hired killer|marriage|neighbor|on the run|store clerk,PG-13,1000,5.4
+Guy Ritchie,116,0,2,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,PG-13,509,7.3
+James L. Brooks,131,274,2,chef|college|housekeeper|letter|mexico,PG-13,964,6.5
+Gil Kenan,91,27,0,babysitter|halloween|house|neighbor|suburb,PG,970,6.6
+Barry Levinson,123,272,2,bank manager|hypochondriac|love triangle|prison|television,PG-13,450,6.6
+Jerry Zucker,134,109,3,battle|king|king arthur|knight|marriage,PG-13,303,5.9
+Andy Tennant,148,72,2,1860s|children|king|schoolteacher|siam,PG-13,103,6.7
+Tarsem Singh,110,763,1,burned alive|castration|olympus|torture|torture device,R,1000,6.1
+Florent-Emilio Siri,113,17,0,california|hostage|hostage negotiator|organized crime|police,R,13000,6.6
+Don Bluth,94,383,0,alien|captain|escape|pilot|scientist,PG,1000,6.6
+Ron Shelton,116,41,2,audition|kissing while having sex|machismo|murder|sex,PG-13,982,5.3
+Paul W.S. Anderson,99,545,1,crash survivor|planet|sergeant|soldier|survivor,R,722,6.0
+David Pastor,84,10,0,beach|disease|latex gloves|pandemic|virus,PG-13,552,6.0
+Henry Selick,93,253,0,carnival|coma|death|monkey|nightmare,PG-13,889,4.7
+John Moore,113,212,4,captain|desert|rescue|stranded|survivor,PG-13,845,6.1
+M. Night Shyamalan,106,0,0,child with gun|comic book|invulnerability|superhero|train crash,PG-13,13000,7.2
+Kyle Balda,91,22,0,antarctica|minion|queen|super villain|villain,PG,4000,6.4
+Zack Snyder,128,0,4,alternate reality|escape|girl gang|prostitution|samurai,PG-13,2000,6.1
+Brian De Palma,98,0,1,assassination|boxing|casino|conspiracy|long take,R,854,5.9
+Barry Levinson,134,272,3,manifestation|ocean|spacecraft|spaceship|sphere,PG-13,270,6.0
+Clay Kaytis,97,6,0,butt|downward duck|fish|kingfisher|pig,PG,1000,6.3
+Andy Tennant,112,72,0,debt|rapper|treasure|treasure hunter|yacht,PG-13,1000,5.6
+Judd Apatow,153,0,1,breasts|comedian|craigslist|infidelity|stand up comedian,R,561,6.4
+Peter Berg,110,532,1,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,R,638,7.1
+Adam McKay,122,285,5,car racing|french|friend|nascar|racing,PG-13,1000,6.6
+Steve Carr,87,41,0,bear|doctor|false accusation|man with glasses|second part,PG,692,4.6
+Mel Gibson,178,0,1,14th century|legend|revolt|scotland|tyranny,R,466,8.4
+Sam Mendes,125,0,0,american abroad|gulf war|u.s. military|u.s. soldier|usmc,R,383,7.1
+David Silverman,87,30,0,alaska|dome|lake|pig|the simpsons,PG-13,440,7.4
+Frank Darabont,152,0,1,amnesia|california|communist|small town|writer,PG,826,6.9
+Renny Harlin,116,212,0,car race|german|race car|race car driver|rookie,PG-13,658,4.5
+Jean-Jacques Annaud,109,218,0,circus|death of protagonist|jungle|killing an animal|tiger,PG,17,7.1
+M. Night Shyamalan,108,0,0,creature|pact|plot twist|village|woods,PG-13,2000,6.5
+Betty Thomas,85,84,0,box office hit|doctor|dog|first part|tiger,PG-13,1000,5.3
+M. Night Shyamalan,106,0,0,crop circle|faith|farm|glass of water|loss of faith,PG-13,529,6.7
+Andrew Adamson,93,80,1,drag queen|physical appearance|princess|queen|sequel,PG,309,7.2
+John Lasseter,117,487,0,car|desert|route 66|tow truck|truck,G,843,7.2
+Garry Marshall,116,0,2,bride|columnist|journalist|maryland|wedding,PG,3000,5.5
+Rob Cohen,132,357,0,agent|nsa|nsa agent|prague|russian,PG-13,223,5.8
+Paul Tibbitt,92,5,0,book|magic|pirate|plankton|time machine,PG,861,6.0
+Ron Howard,139,2000,1,bounty|fbi|millionaire|money|ransom,R,848,6.6
+Quentin Tarantino,153,16000,1,france|german|nazis|revenge|scalping,R,11000,8.3
+Steven Spielberg,142,14000,1,1990s|caught in a net|children|duel|hero,PG,8000,6.7
+Brett Ratner,101,420,0,army|greek mythology|hercules|king|mercenary,PG-13,3000,6.0
+Renny Harlin,124,212,0,airport|fuel|plane|police|terrorist,R,982,7.1
+Clark Johnson,117,69,1,hostage|police|prison|swat team|training,PG-13,1000,6.0
+,45,,0,apocalypse|death|husband wife relationship|mother son relationship|murder,TV-14,372,7.5
+Cameron Crowe,141,488,1,death|dream|love|lynchian|reality,R,834,6.9
+M. Night Shyamalan,110,0,1,apartment|bedtime story|eagle|stuttering|swimming pool,PG-13,579,5.6
+Paul W.S. Anderson,109,545,0,alien|antarctica|predator|pyramid|satellite,PG-13,766,5.6
+Betty Thomas,88,84,0,adidas|chipmunk|hospital|school|waste container,PG,1000,4.5
+Randall Wallace,124,130,0,air cavalry|battle|major|soldier|vietnamese,R,973,7.1
+Antoine Fuqua,119,845,3,political thriller|politics|president|speaker of the house|u.s. president,R,11000,6.5
+Jonathan Frakes,103,906,0,alien|captain|commander|conspiracy|planet,PG,906,6.4
+Jonathan Liebesman,116,473,0,alien|extraterrestrial|invasion|marine|mission,PG-13,697,5.8
+Tim Burton,125,13000,0,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,PG-13,1000,8.0
+Mike Nichols,125,0,1,blood|publisher|publishing house|werewolf|wolf,R,277,6.2
+Steven Spielberg,146,14000,1,barbed wire|british|cavalry|horse|world war one,PG-13,19000,7.2
+George Clooney,118,0,7,art|art expert|nazi stolen art|soldier|world war two,PG-13,13000,6.1
+James Cameron,171,0,0,alien|estranged couple|ocean|submarine|underwater,PG-13,650,7.6
+Oliver Stone,136,0,2,corporate greed|crisis|economy|greed|mentor,PG-13,592,6.3
+Gary Shore,92,28,1,death of wife|dracula|tarantula|turk|vampire,PG-13,692,6.3
+Edward Zwick,116,380,0,abduction|martial law|military|new york city|terrorist,R,13000,6.3
+Matthew Vaughn,127,905,8,king|magic|one word title|pirate|village,PG-13,588,7.7
+Jean-Jacques Annaud,136,218,1,austria|dalai lama|himalaya|mountain|tibet,PG-13,691,7.0
+Ron Howard,111,2000,2,best friend|friend|investigation|secret|two word title,PG-13,1000,5.3
+Joel Schumacher,116,541,2,cia|cia agent|terrorist|twin|twin brother,PG-13,405,5.6
+Andrzej Bartkowiak,113,43,0,commando unit|extra chromosome|first person shooter|special forces|teleportation,R,585,5.2
+Betty Thomas,97,84,1,boxer|espionage|spy|stealth|top secret,PG-13,229,5.4
+Måns Mårlind,88,24,1,battle|cryogenics|detective|scientist|vampire,R,327,6.4

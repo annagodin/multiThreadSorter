@@ -1,584 +1,123 @@
-num_critic_for_reviews,duration,director_facebook_likes,gross,genres,actor_1_name,movie_title,cast_total_facebook_likes,facenumber_in_poster,plot_keywords,movie_imdb_link,num_user_for_reviews,language,country,content_rating,imdb_score,aspect_ratio,movie_facebook_likes
-351,122,209,122512052,Action|Adventure|Sci-Fi|Thriller,Channing Tatum,G.I. Joe: Retaliation ,31958,6,general|gi joe|martial arts|ninja|president,http://www.imdb.com/title/tt1583421/?ref_=fn_tt_tt_1,288,English,USA,PG-13,5.8,2.35,42000
-163,124,42,68642452,Action|Adventure|Comedy|Thriller,Matthew McConaughey,Sahara ,13073,3,beach|civil war|desert|dictator|ship,http://www.imdb.com/title/tt0318649/?ref_=fn_tt_tt_1,463,English,UK,PG-13,6.0,2.35,0
-166,106,6,32131830,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Steve Buscemi,Final Fantasy: The Spirits Within ,15015,1,general|military|scientist|soldier|year 2065,http://www.imdb.com/title/tt0173840/?ref_=fn_tt_tt_1,788,English,USA,PG-13,6.4,1.85,0
-510,124,394,176636816,Action|Adventure|Sci-Fi,Chris Evans,Captain America: The First Avenger ,19761,0,arctic|captain america|scientist|tesseract|war bond,http://www.imdb.com/title/tt0458339/?ref_=fn_tt_tt_1,679,English,USA,PG-13,6.9,2.35,46000
-197,128,150,126930660,Action|Adventure|Thriller,Colin Salmon,The World Is Not Enough ,2037,2,british|oil|scientist|terrorist|tycoon,http://www.imdb.com/title/tt0143145/?ref_=fn_tt_tt_1,683,English,UK,PG-13,6.4,2.35,2000
-244,138,608,93926386,Action|Adventure|Drama|History|War,James D'Arcy,Master and Commander: The Far Side of the World ,1205,1,1800s|napoleonic wars|pursuit|royal navy|ship,http://www.imdb.com/title/tt0311113/?ref_=fn_tt_tt_1,684,English,USA,PG-13,7.4,2.35,0
-322,115,386,292298923,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: Breaking Dawn - Part 2 ,59177,3,battle|friend|super strength|vampire|vision,http://www.imdb.com/title/tt1673434/?ref_=fn_tt_tt_1,329,English,USA,PG-13,5.5,2.35,65000
-156,100,750,63992328,Animation|Comedy|Family|Musical,Robin Williams,Happy Feet 2 ,62644,0,3d|antarctica|krill|penguin|sequel,http://www.imdb.com/title/tt1402488/?ref_=fn_tt_tt_1,79,English,Australia,PG,5.9,2.35,0
-354,135,255,134518390,Action|Adventure|Sci-Fi,Ty Burrell,The Incredible Hulk ,5811,0,antidote|cure|hulk|marvel cinematic universe|opening action scene,http://www.imdb.com/title/tt0800080/?ref_=fn_tt_tt_1,643,English,USA,PG-13,6.8,2.35,0
-21,60,,,Action|Crime|Drama|Mystery|Thriller,Don Johnson,Miami Vice             ,1687,2,cult tv|detective|drugs|police|undercover,http://www.imdb.com/title/tt0086759/?ref_=fn_tt_tt_1,74,English,USA,TV-14,7.5,1.33,0
-252,117,14000,52792307,Adventure|Family|Fantasy,Mark Rylance,The BFG ,1950,0,cannibal|evil brother|giant|london england|queen,http://www.imdb.com/title/tt3691740/?ref_=fn_tt_tt_1,106,English,UK,PG,6.8,2.35,27000
-556,156,0,183635922,Adventure|Drama|Thriller|Western,Leonardo DiCaprio,The Revenant ,57108,0,bear attack|cauterizing a wound|native american|revenge|survival,http://www.imdb.com/title/tt1663202/?ref_=fn_tt_tt_1,1188,English,USA,R,8.1,2.35,190000
-166,96,13,83024900,Adventure|Animation|Comedy|Family|Sport,Ryan Reynolds,Turbo ,17416,0,accident|freak accident|race|snail|underdog,http://www.imdb.com/title/tt1860353/?ref_=fn_tt_tt_1,90,English,USA,PG,6.5,2.35,13000
-362,107,563,123207194,Adventure|Animation|Comedy|Family|Western,Johnny Depp,Rango ,43291,0,chameleon|lizard|sheriff|water|western town,http://www.imdb.com/title/tt1192628/?ref_=fn_tt_tt_1,337,English,USA,PG,7.2,2.35,26000
-153,92,35,83348920,Adventure|Animation|Comedy|Family,Benedict Cumberbatch,Penguins of Madagascar ,19963,0,little girl|park|spy|statue of liberty|television van,http://www.imdb.com/title/tt1911658/?ref_=fn_tt_tt_1,118,English,USA,PG,6.7,1.85,11000
-329,115,521,227137090,Action|Mystery|Thriller,Matt Damon,The Bourne Ultimatum ,17369,0,action hero|cia|dark past|flashback|memory,http://www.imdb.com/title/tt0440963/?ref_=fn_tt_tt_1,820,English,USA,PG-13,8.1,2.35,0
-266,92,54,215395021,Action|Adventure|Animation|Comedy|Family,Angelina Jolie Pitt,Kung Fu Panda ,12754,0,kung fu|kung fu master|master|panda|snow leopard,http://www.imdb.com/title/tt0441773/?ref_=fn_tt_tt_1,360,English,USA,PG,7.6,2.35,6000
-517,117,235,180191634,Action|Adventure|Comedy|Sci-Fi,Judy Greer,Ant-Man ,5730,6,ant|chinatown san francisco|heist|sabotage|vault,http://www.imdb.com/title/tt0478970/?ref_=fn_tt_tt_1,549,English,USA,PG-13,7.4,1.85,61000
-502,146,508,424645577,Adventure|Sci-Fi|Thriller,Jennifer Lawrence,The Hunger Games: Catching Fire ,49355,1,president|snow|television|tour|uprising,http://www.imdb.com/title/tt1951264/?ref_=fn_tt_tt_1,706,English,USA,PG-13,7.6,2.35,82000
-322,115,386,292298923,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: Breaking Dawn - Part 2 ,59177,3,battle|friend|super strength|vampire|vision,http://www.imdb.com/title/tt1673434/?ref_=fn_tt_tt_1,329,English,USA,PG-13,5.5,2.35,65000
-165,94,12,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Jim Parsons,Home ,17883,0,alien friendship|alien invasion|australia|flying car|mother daughter relationship,http://www.imdb.com/title/tt2224026/?ref_=fn_tt_tt_1,214,English,USA,PG,6.7,1.85,26000
-401,116,14000,234277056,Adventure|Sci-Fi|Thriller,Tom Cruise,War of the Worlds ,12758,0,alien|fight|storm|survival|tripod,http://www.imdb.com/title/tt0407304/?ref_=fn_tt_tt_1,2741,English,USA,PG-13,6.5,1.85,0
-94,147,0,138396624,Action|Comedy|Crime|Thriller,Will Smith,Bad Boys II ,12954,1,cuba|dea|drugs|money|undercover,http://www.imdb.com/title/tt0172156/?ref_=fn_tt_tt_1,511,English,USA,R,6.6,2.35,0
-246,90,50,149234747,Action|Adventure|Animation|Comedy|Family|Fantasy,Salma Hayek,Puss in Boots ,5046,0,betrayal|egg|friend|goose|hero,http://www.imdb.com/title/tt0448694/?ref_=fn_tt_tt_1,137,English,USA,PG,6.7,2.35,16000
-330,101,176,118311368,Action|Crime|Mystery|Thriller,Angelina Jolie Pitt,Salt ,12406,1,cia|on the run|russian|russian spy|strong female lead,http://www.imdb.com/title/tt0944835/?ref_=fn_tt_tt_1,514,English,USA,PG-13,6.4,2.35,23000
-434,138,0,101160529,Action|Adventure|Drama,Anthony Hopkins,Noah ,32355,2,ark|flood|noah's ark|water|wrath of god,http://www.imdb.com/title/tt1959490/?ref_=fn_tt_tt_1,1240,English,USA,PG-13,5.8,1.85,71000
-440,107,14000,77564037,Action|Adventure|Family|Mystery,Toby Jones,The Adventures of Tintin ,4631,1,captain|morocco|ship|tintin|treasure,http://www.imdb.com/title/tt0983193/?ref_=fn_tt_tt_1,447,English,USA,PG,7.4,2.35,44000
-274,142,0,249358727,Adventure|Family|Fantasy|Mystery,Daniel Radcliffe,Harry Potter and the Prisoner of Azkaban ,33284,3,magic|muggle|serial killer|traitor|wizard,http://www.imdb.com/title/tt0304141/?ref_=fn_tt_tt_1,1504,English,UK,PG,7.8,2.35,11000
-245,165,1000,49551662,Adventure|Drama|Romance|War,Essie Davis,Australia ,921,0,australia|cattle|darwin|drover|japanese,http://www.imdb.com/title/tt0455824/?ref_=fn_tt_tt_1,450,English,Australia,PG-13,6.6,2.35,0
-349,100,0,60522097,Action|Adventure|Sci-Fi,Will Smith,After Earth ,14168,0,box office flop|father son team|fear|race against time|real life father and son playing father and son,http://www.imdb.com/title/tt1815862/?ref_=fn_tt_tt_1,744,English,USA,PG-13,4.9,2.35,37000
-145,82,0,137748063,Adventure|Animation|Family|Thriller,Alfre Woodard,Dinosaur ,2945,1,egg|iguanodon|lemur|meteor|nesting grounds,http://www.imdb.com/title/tt0130623/?ref_=fn_tt_tt_1,241,English,USA,PG,6.5,1.85,0
-1,,0,,Action|Fantasy,Rupert Grint,Harry Potter and the Deathly Hallows: Part II ,11036,1,,http://www.imdb.com/title/tt1680310/?ref_=fn_tt_tt_1,2,English,UK,,7.5,,40
-154,98,189,113733726,Adventure|Comedy|Family|Fantasy,Robin Williams,Night at the Museum: Secret of the Tomb ,53587,7,museum|museum of natural history manhattan new york city|night watchman|star died before release|tablet,http://www.imdb.com/title/tt2692250/?ref_=fn_tt_tt_1,126,English,USA,PG,6.2,1.85,11000
-233,95,96,148337537,Action|Animation|Comedy|Family|Sci-Fi,J.K. Simmons,Megamind ,46120,3,battle|city|planet|prison|superhero,http://www.imdb.com/title/tt1001526/?ref_=fn_tt_tt_1,187,English,USA,PG,7.3,2.35,13000
-258,159,0,317557891,Adventure|Family|Fantasy,Daniel Radcliffe,Harry Potter and the Sorcerer's Stone ,13191,4,based on novel|birthday|evil wizard|quidditch|wizard,http://www.imdb.com/title/tt0241527/?ref_=fn_tt_tt_1,1571,English,UK,PG,7.5,2.35,16000
-208,96,124,33592415,Action|Comedy|Fantasy,Ryan Reynolds,R.I.P.D. ,31549,2,drug dealer|gold|partner|police|undead,http://www.imdb.com/title/tt0790736/?ref_=fn_tt_tt_1,210,English,USA,PG-13,5.6,2.35,20000
-1,120,28,,Action|Adventure|Drama|Horror|Sci-Fi,Mark Chinnery,Godzilla Resurgence ,699,0,blood|godzilla|monster|sequel,http://www.imdb.com/title/tt4262980/?ref_=fn_tt_tt_1,13,Japanese,Japan,,8.2,2.35,0
-271,143,563,305388685,Action|Adventure|Fantasy,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl ,48184,3,caribbean|curse|governor|pirate|undead,http://www.imdb.com/title/tt0325980/?ref_=fn_tt_tt_1,2113,English,USA,PG-13,8.1,2.35,10000
-4,,0,,Fantasy,Rupert Grint,Harry Potter and the Deathly Hallows: Part I ,14719,1,,http://www.imdb.com/title/tt1571403/?ref_=fn_tt_tt_1,2,English,UK,,6.4,,25
-403,123,508,337103873,Adventure|Sci-Fi|Thriller,Jennifer Lawrence,The Hunger Games: Mockingjay - Part 1 ,81385,1,based on young adult novel|manipulation|rebellion|symbol|uprising,http://www.imdb.com/title/tt1951265/?ref_=fn_tt_tt_1,591,English,USA,PG-13,6.7,2.35,52000
-294,174,2000,217536138,Mystery|Thriller,Tom Hanks,The Da Vinci Code ,16008,2,based on supposedly true story|holy grail|mary magdalene|opus dei|secret,http://www.imdb.com/title/tt0382625/?ref_=fn_tt_tt_1,1966,English,USA,PG-13,6.6,2.35,0
-159,101,107,131536019,Adventure|Animation|Comedy|Family|Musical,Miguel Ferrer,Rio 2 ,1031,0,amazon|bird|father in law|jungle|no opening credits,http://www.imdb.com/title/tt2357291/?ref_=fn_tt_tt_1,99,English,USA,G,6.4,2.35,0
-289,134,0,214948780,Action|Adventure|Fantasy|Sci-Fi|Thriller,Hugh Jackman,X-Men 2 ,20952,4,mutant|prison|professor|school|x men,http://www.imdb.com/title/tt0290334/?ref_=fn_tt_tt_1,1055,English,Canada,PG-13,7.5,2.35,0
-342,132,681,209805005,Action|Crime|Thriller,Paul Walker,Fast Five ,55345,3,drug lord|drugs|federal agent|heist|police,http://www.imdb.com/title/tt1596343/?ref_=fn_tt_tt_1,366,English,USA,PG-13,7.3,2.35,54000
-382,129,0,186830669,Action|Adventure|Crime|Mystery|Thriller,Robert Downey Jr.,Sherlock Holmes: A Game of Shadows ,22403,2,factory|gypsy|investigation|sherlock holmes|train,http://www.imdb.com/title/tt1515091/?ref_=fn_tt_tt_1,412,English,USA,PG-13,7.5,2.35,39000
-344,106,255,163192114,Action|Adventure|Fantasy,Liam Neeson,Clash of the Titans ,18003,0,famous line|hand to hand combat|kraken|rape|zeus,http://www.imdb.com/title/tt0800320/?ref_=fn_tt_tt_1,637,English,USA,PG-13,5.8,2.35,15000
-196,113,719,119412921,Action|Sci-Fi,Ronny Cox,Total Recall ,1441,0,ambiguous ending|false memory|implanted memory|memory|space colony,http://www.imdb.com/title/tt0100802/?ref_=fn_tt_tt_1,391,English,USA,R,7.5,1.85,0
-85,102,323,32694788,Action|Adventure|History,Tony Curran,The 13th Warrior ,1815,1,arab|battle|combat|viking|warrior,http://www.imdb.com/title/tt0120657/?ref_=fn_tt_tt_1,546,English,USA,R,6.6,2.35,0
-436,135,209,113165635,Action|Adventure|Thriller,Jeremy Renner,The Bourne Legacy ,12175,0,assassin|cia|drone|pill|wolf,http://www.imdb.com/title/tt1194173/?ref_=fn_tt_tt_1,504,English,USA,PG-13,6.7,2.35,31000
-183,125,541,107285004,Action,Michael Gough,Batman & Robin ,2699,3,butler|critically bashed|cure|freeze|gotham,http://www.imdb.com/title/tt0118688/?ref_=fn_tt_tt_1,1018,English,USA,PG-13,3.7,1.85,0
-175,110,2000,260031035,Comedy|Family|Fantasy,Clint Howard,How the Grinch Stole Christmas ,4146,0,box office hit|christmas|materialism|public humiliation|snowflake,http://www.imdb.com/title/tt0170016/?ref_=fn_tt_tt_1,482,English,USA,PG,6.0,1.85,0
-239,124,776,186739919,Action|Adventure|Sci-Fi|Thriller,Jake Gyllenhaal,The Day After Tomorrow ,20553,0,climate|end of the world|global warming|natural disaster|weather,http://www.imdb.com/title/tt0319262/?ref_=fn_tt_tt_1,1159,English,USA,PG-13,6.4,2.35,19000
-237,123,610,215397307,Action|Adventure|Thriller,Tom Cruise,Mission: Impossible II ,11930,0,cure|mission|terrorist|thief|virus,http://www.imdb.com/title/tt0120755/?ref_=fn_tt_tt_1,1426,English,USA,PG-13,6.1,2.35,0
-231,130,249,182618434,Action|Adventure|Drama|Thriller,Karen Allen,The Perfect Storm ,2684,0,death|fish|fishing|sea|storm,http://www.imdb.com/title/tt0177971/?ref_=fn_tt_tt_1,779,English,USA,PG-13,6.4,2.35,0
-262,92,167,131920333,Action|Adventure|Sci-Fi|Thriller,Chris Evans,Fantastic 4: Rise of the Silver Surfer ,15302,3,fantastic four|space|strong female character|strong female lead|superheroine,http://www.imdb.com/title/tt0486576/?ref_=fn_tt_tt_1,436,English,USA,PG,5.6,2.35,0
-552,127,0,124976634,Adventure|Drama|Fantasy,Suraj Sharma,Life of Pi ,2121,0,animal|faith|india|journey|tiger,http://www.imdb.com/title/tt0454876/?ref_=fn_tt_tt_1,755,English,USA,PG,8.0,1.85,122000
-276,123,160,115802596,Action|Fantasy|Thriller,Nicolas Cage,Ghost Rider ,14017,1,blackheart|devil|father|ghost|mephistopheles,http://www.imdb.com/title/tt0259324/?ref_=fn_tt_tt_1,681,English,USA,PG-13,5.2,2.35,0
-267,123,521,108521835,Action|Thriller,Matt Damon,Jason Bourne ,13752,0,black ops|chase|cia|cia agent|repeated scene,http://www.imdb.com/title/tt4196776/?ref_=fn_tt_tt_1,297,English,UK,PG-13,7.1,2.35,31000
-102,107,368,100685880,Action|Adventure|Comedy|Crime,Demi Moore,Charlie's Angels: Full Throttle ,4046,0,fbi|murder|ring|witness protection|witness protection program,http://www.imdb.com/title/tt0305357/?ref_=fn_tt_tt_1,554,English,USA,PG-13,4.8,2.35,0
-775,124,0,126464904,Adventure|Mystery|Sci-Fi,Michael Fassbender,Prometheus ,24098,0,cave painting|medical scanner|planet|pregnant with an alien fetus|suspended animation,http://www.imdb.com/title/tt1446714/?ref_=fn_tt_tt_1,2326,English,USA,R,7.0,2.35,97000
-71,77,50,64736114,Adventure|Animation|Comedy|Family|Fantasy,Nathan Lane,Stuart Little 2 ,2682,0,anthropomorphic mouse|falcon|marshmallow|second part|soccer,http://www.imdb.com/title/tt0243585/?ref_=fn_tt_tt_1,69,English,USA,PG,5.4,1.85,459
-476,109,662,93050117,Action|Drama|Sci-Fi|Thriller,Matt Damon,Elysium ,17689,0,christ figure|class differences|messiah|saviour|social commentary,http://www.imdb.com/title/tt1535108/?ref_=fn_tt_tt_1,814,English,USA,R,6.6,2.35,61000
-207,134,123,57637485,Action|Adventure|Sci-Fi|Thriller,Vin Diesel,The Chronicles of Riddick ,17159,0,bounty hunter|escape|necromonger|planet|warrior,http://www.imdb.com/title/tt0296572/?ref_=fn_tt_tt_1,666,English,USA,PG-13,6.7,2.35,0
-492,117,294,58607007,Action|Crime|Sci-Fi|Thriller,Gary Oldman,RoboCop ,14161,0,law enforcement|police|robocop|robot|technology,http://www.imdb.com/title/tt1234721/?ref_=fn_tt_tt_1,630,English,USA,PG-13,6.2,2.35,60000
-284,135,0,43929341,Action|Family|Sport,Scott Porter,Speed Racer ,902,0,based on anime|based on cartoon|gadget car|racer|speed,http://www.imdb.com/title/tt0811080/?ref_=fn_tt_tt_1,414,English,USA,PG,6.1,2.35,0
-168,121,274,30212620,Comedy|Drama|Romance,Shelley Conn,How Do You Know ,993,4,embarrassment|falling in love|love|love triangle|revelation,http://www.imdb.com/title/tt1341188/?ref_=fn_tt_tt_1,196,English,USA,PG-13,5.3,1.85,0
-283,117,446,76418654,Action|Comedy|Romance,Tom Cruise,Knight and Day ,12731,0,chase|fbi|garage|spy|surveillance,http://www.imdb.com/title/tt1013743/?ref_=fn_tt_tt_1,348,English,USA,PG-13,6.3,2.35,11000
-539,124,364,89021735,Action|Adventure|Mystery|Sci-Fi,Morgan Freeman,Oblivion ,22004,0,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool,http://www.imdb.com/title/tt1483013/?ref_=fn_tt_tt_1,892,English,USA,PG-13,7.0,2.35,71000
-359,140,0,380262555,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,Star Wars: Episode III - Revenge of the Sith ,44042,4,elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,http://www.imdb.com/title/tt0121766/?ref_=fn_tt_tt_1,3286,English,USA,PG-13,7.6,2.35,10000
-284,142,0,310675583,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,Star Wars: Episode II - Attack of the Clones ,42990,3,martial arts|murdered before giving protagonist information|part computer animation|prequel|prequel to cult film,http://www.imdb.com/title/tt0121765/?ref_=fn_tt_tt_1,3516,English,USA,PG,6.7,1.78,0
-250,92,0,289907418,Adventure|Animation|Comedy|Family|Fantasy,Steve Buscemi,Monsters, Inc. ,15013,0,friend|little girl|monster|rival|scream,http://www.imdb.com/title/tt0198781/?ref_=fn_tt_tt_1,593,English,USA,G,8.1,1.85,0
-440,138,446,132550960,Action|Adventure|Sci-Fi|Thriller,Hugh Jackman,The Wolverine ,23755,1,healing power|marvel comics|mecha|regeneration|self healing,http://www.imdb.com/title/tt1430132/?ref_=fn_tt_tt_1,533,English,USA,PG-13,6.7,2.35,68000
-320,136,0,474544677,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,Star Wars: Episode I - The Phantom Menace ,37723,1,alien|character says i have a bad feeling about this|hand to hand combat|seven word title|wilhelm scream,http://www.imdb.com/title/tt0120915/?ref_=fn_tt_tt_1,3597,English,USA,PG,6.5,2.35,13000
-257,98,16,187165546,Adventure|Animation|Comedy|Family|Fantasy,Ryan Reynolds,The Croods ,43286,3,cave|caveman|journey|strict father|survival,http://www.imdb.com/title/tt0481499/?ref_=fn_tt_tt_1,195,English,USA,PG,7.3,2.35,28000
-33,116,0,,Adventure|Comedy|Family|Fantasy,Alain Delon,Asterix at the Olympic Games ,1609,1,1st century b.c.|lightsaber|local blockbuster|magical potion|potion,http://www.imdb.com/title/tt0463872/?ref_=fn_tt_tt_1,36,French,France,,5.1,2.35,291
-152,153,610,40911830,Action|Drama|War,Nicolas Cage,Windtalkers ,15046,0,code|duty|steel helmet|u.s. marine|u.s. soldier,http://www.imdb.com/title/tt0245562/?ref_=fn_tt_tt_1,454,English,USA,R,6.0,2.35,0
-231,120,19,47952020,Action|Adventure|Drama|Fantasy,Chris Hemsworth,The Huntsman: Winter's War ,46719,2,based on fairy tale|dark fantasy|fairy tale|second part|sequel,http://www.imdb.com/title/tt2381991/?ref_=fn_tt_tt_1,134,English,USA,PG-13,6.1,2.35,16000
-348,101,473,190871240,Action|Adventure|Comedy|Sci-Fi,Noel Fisher,Teenage Mutant Ninja Turtles ,2690,0,18 wheeler|mutant|ninja|sewer|turtle,http://www.imdb.com/title/tt1291150/?ref_=fn_tt_tt_1,491,English,USA,PG-13,5.9,2.35,62000
-738,91,0,274084951,Adventure|Drama|Sci-Fi|Thriller,Phaldut Sharma,Gravity ,87,0,box office hit|long take|sole survivor|space|space station,http://www.imdb.com/title/tt1454468/?ref_=fn_tt_tt_1,1885,English,UK,PG-13,7.8,2.35,147000
-93,108,79,67155742,Action|Adventure|Thriller,Jamie Renée Smith,Dante's Peak ,1569,1,ash|escape|lava|mayor|volcano,http://www.imdb.com/title/tt0118928/?ref_=fn_tt_tt_1,277,English,USA,PG-13,5.8,2.35,0
-181,112,13,81638674,Action|Adventure|Comedy|Sci-Fi,Stephen Amell,Teenage Mutant Ninja Turtles: Out of the Shadows ,8306,,based on comic book|brother brother relationship|rat|sequel|turtle,http://www.imdb.com/title/tt3949660/?ref_=fn_tt_tt_1,115,English,USA,PG-13,6.3,2.35,12000
-369,100,128,56114221,Action|Adventure|Sci-Fi,Tim Blake Nelson,Fantastic Four ,1261,3,box office flop|critically bashed|portal|teleportation|troubled production,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1,695,English,USA,PG-13,4.3,2.35,41000
-179,108,189,250863268,Action|Adventure|Comedy|Family|Fantasy,Robin Williams,Night at the Museum ,55486,2,chaos|museum|museum of natural history|night watchman|watchman,http://www.imdb.com/title/tt0477347/?ref_=fn_tt_tt_1,444,English,USA,PG,6.4,1.85,3000
-358,114,62,155181732,Action|Adventure|Drama|Thriller,Dwayne Johnson,San Andreas ,16718,0,disaster movie|earthquake|journey|natural disaster|san andreas fault,http://www.imdb.com/title/tt2126355/?ref_=fn_tt_tt_1,499,English,USA,PG-13,6.1,2.35,52000
-160,119,55,125332007,Action|Adventure|Thriller,Vincent Schiavelli,Tomorrow Never Dies ,2958,3,ex boyfriend ex girlfriend relationship|media tycoon|megalomaniac|official james bond series|world war three,http://www.imdb.com/title/tt0120347/?ref_=fn_tt_tt_1,328,English,UK,PG-13,6.5,2.35,0
-192,142,776,113330342,Action|Drama|History|War,Heath Ledger,The Patriot ,19454,1,american revolution|british|french|hero|standoff,http://www.imdb.com/title/tt0187393/?ref_=fn_tt_tt_1,1144,English,USA,R,7.1,2.35,4000
-198,125,0,125531634,Crime|Thriller,Brad Pitt,Ocean's Twelve ,19359,0,father daughter relationship|heist|pretending to be pregnant|sequel|thief,http://www.imdb.com/title/tt0349903/?ref_=fn_tt_tt_1,627,English,USA,PG-13,6.4,2.35,0
-233,126,218,186336103,Action|Comedy|Crime|Romance|Thriller,Brad Pitt,Mr. & Mrs. Smith ,22722,2,assassin|marriage|secret agent|suburb|target,http://www.imdb.com/title/tt0356910/?ref_=fn_tt_tt_1,798,English,USA,PG-13,6.5,2.35,0
-263,119,124,129995817,Adventure|Sci-Fi|Thriller,Kate Winslet,Insurgent ,22622,0,action heroine|falling from height|mind control|trainhopping|truth serum,http://www.imdb.com/title/tt2908446/?ref_=fn_tt_tt_1,258,English,USA,PG-13,6.3,2.35,27000
-267,170,17000,102608827,Biography|Drama,Leonardo DiCaprio,The Aviator ,34582,0,1920s|aviation|fight|spruce goose|test flight,http://www.imdb.com/title/tt0338751/?ref_=fn_tt_tt_1,799,English,USA,PG-13,7.5,2.35,0
-184,85,11,42776259,Adventure|Comedy|Family|Fantasy,James Corden,Gulliver's Travels ,1173,1,bermuda triangle|box office hit|shipwrecked|travel|travel writer,http://www.imdb.com/title/tt1320261/?ref_=fn_tt_tt_1,121,English,USA,PG,4.9,2.35,0
-447,119,1000,98780042,Action|Comedy|Crime|Sci-Fi|Thriller,Christoph Waltz,The Green Hornet ,13391,0,heir|kung fu|party|playboy|superhero,http://www.imdb.com/title/tt0990407/?ref_=fn_tt_tt_1,443,English,USA,PG-13,5.8,2.35,14000
-29,60,,,Action|Adventure|Crime,George Peppard,The A-Team             ,1655,4,1980s|cult tv|famous opening theme|good versus evil|hero for hire,http://www.imdb.com/title/tt0084967/?ref_=fn_tt_tt_1,97,English,USA,TV-PG,7.6,4.0,0
-366,102,263,106369117,Action|Drama|Fantasy|War,Eva Green,300: Rise of an Empire ,10583,0,army|commander|female rear nudity|greek|navy,http://www.imdb.com/title/tt1253863/?ref_=fn_tt_tt_1,523,English,USA,R,6.2,2.35,71000
-172,103,67,142614158,Adventure|Animation|Comedy|Family|Fantasy,Mahadeo Shivraj,The Smurfs ,692,3,blue|new york|new york city|no opening credits|smurf,http://www.imdb.com/title/tt0472181/?ref_=fn_tt_tt_1,153,English,USA,PG,5.5,1.78,31000
-104,76,6,50026353,Animation|Comedy|Family|Music|Western,Steve Buscemi,Home on the Range ,13607,0,cattle|cow|dairy farm|farm|rustler,http://www.imdb.com/title/tt0299172/?ref_=fn_tt_tt_1,88,English,USA,PG,5.4,1.78,304
-181,120,124,66002193,Action|Adventure|Mystery|Sci-Fi|Thriller,Naomi Watts,Allegiant ,12452,3,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead,http://www.imdb.com/title/tt3410834/?ref_=fn_tt_tt_1,144,English,USA,PG-13,5.8,2.35,12000
-327,127,189,85463309,Action|Drama|Sci-Fi|Sport,Hugh Jackman,Real Steel ,22254,1,arena|boxing|boxing movie|robot|robot battle,http://www.imdb.com/title/tt0433035/?ref_=fn_tt_tt_1,426,English,USA,PG-13,7.1,2.35,36000
-125,105,67,71017784,Adventure|Animation|Comedy|Family|Fantasy,Jacob Tremblay,The Smurfs 2 ,914,3,based on cartoon|box office hit|no opening credits|sequel|smurf,http://www.imdb.com/title/tt2017020/?ref_=fn_tt_tt_1,59,English,USA,PG,5.4,1.85,0
-79,121,101,48068396,Action|Crime|Romance|Thriller,Jason Patric,Speed 2: Cruise Control ,2027,0,collision course|computer|cruise|diamonds|ship run aground,http://www.imdb.com/title/tt0120179/?ref_=fn_tt_tt_1,248,English,USA,PG-13,3.7,2.35,894
-326,114,151,61656849,Action|Sci-Fi,Harrison Ford,Ender's Game ,12908,4,alien|future|manipulation|simulation|training,http://www.imdb.com/title/tt1731141/?ref_=fn_tt_tt_1,554,English,USA,PG-13,6.7,2.35,123000
-354,129,235,134520804,Action|Adventure|Thriller,Bruce Willis,Live Free or Die Hard ,13961,1,fbi|hacker|independence day|police|terrorist,http://www.imdb.com/title/tt0337978/?ref_=fn_tt_tt_1,782,English,USA,PG-13,7.2,2.35,0
-297,171,0,313837577,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Fellowship of the Ring ,22342,2,elf|hobbit|middle earth|quest|ring,http://www.imdb.com/title/tt0120737/?ref_=fn_tt_tt_1,5060,English,New Zealand,PG-13,8.8,2.35,21000
-188,120,153,24004159,Action|Adventure|Comedy,Jim Broadbent,Around the World in 80 Days ,3175,0,19th century|around the world|inventor|martial arts|train,http://www.imdb.com/title/tt0327437/?ref_=fn_tt_tt_1,191,English,USA,PG,5.8,2.35,0
-174,165,0,58183966,Biography|Drama|Sport,Will Smith,Ali ,14196,1,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,http://www.imdb.com/title/tt0248667/?ref_=fn_tt_tt_1,386,English,USA,R,6.8,2.35,0
-109,82,34,100446895,Adventure|Comedy|Family|Fantasy,Sean Hayes,The Cat in the Hat ,2762,1,based on cult comic book|cat|home alone|imagination|talking cat,http://www.imdb.com/title/tt0312528/?ref_=fn_tt_tt_1,456,English,USA,PG,3.8,1.85,946
-225,115,295,144795350,Action|Mystery|Sci-Fi|Thriller,Will Smith,I, Robot ,12068,1,humanoid robot|man versus machine|prosthetic limb|robot as pathos|robot vs. robot,http://www.imdb.com/title/tt0343818/?ref_=fn_tt_tt_1,789,English,USA,PG-13,7.1,2.35,0
-239,194,0,47396698,Action|Adventure|Drama|History|War,Liam Neeson,Kingdom of Heaven ,19600,1,12th century|crusader|jerusalem|knight|medieval times,http://www.imdb.com/title/tt0320661/?ref_=fn_tt_tt_1,942,English,USA,R,7.2,2.35,0
-101,84,50,140015224,Adventure|Comedy|Family|Fantasy,Chazz Palminteri,Stuart Little ,3382,0,box office hit|cat|first part|mouse|orphanage,http://www.imdb.com/title/tt0164912/?ref_=fn_tt_tt_1,179,English,Germany,PG,5.9,1.85,0
-228,97,63,104374107,Animation|Family|Fantasy|Musical|Romance,Oprah Winfrey,The Princess and the Frog ,2480,0,amphibian|dream|frog|frog prince|waitress,http://www.imdb.com/title/tt0780521/?ref_=fn_tt_tt_1,214,English,USA,G,7.1,1.85,5000
-568,151,0,228430993,Adventure|Drama|Sci-Fi,Matt Damon,The Martian ,14831,1,astronaut|international cooperation|left for dead|nasa|space habitat,http://www.imdb.com/title/tt3659388/?ref_=fn_tt_tt_1,1023,English,USA,PG-13,8.1,2.35,153000
-,22,0,,Comedy,Mathew Buck,10,000 B.C.             ,5,0,,http://www.imdb.com/title/tt1869849/?ref_=fn_tt_tt_1,,,,,7.2,,0
-257,136,0,35799026,Action|Adventure|Romance|Sci-Fi|Thriller,Scarlett Johansson,The Island ,34839,1,clone|environment|escape|island|lottery,http://www.imdb.com/title/tt0399201/?ref_=fn_tt_tt_1,899,English,USA,PG-13,6.9,2.35,0
-62,104,23,6712451,Comedy|Romance,Del Zamora,Town & Country ,3133,0,anniversary|architect|cellist|friend|hardware store,http://www.imdb.com/title/tt0141907/?ref_=fn_tt_tt_1,89,English,New Line,R,4.4,1.85,53
-175,127,57,101643008,Action|Crime|Thriller,Nicolas Cage,Gone in Sixty Seconds ,29069,1,auto theft|brother|car|theft|thief,http://www.imdb.com/title/tt0187078/?ref_=fn_tt_tt_1,498,English,USA,PG-13,6.5,2.35,0
-265,171,0,187670866,Action|Drama|Romance,Djimon Hounsou,Gladiator ,6521,0,battlefield|blood|combat|gladiator|roman empire,http://www.imdb.com/title/tt0172495/?ref_=fn_tt_tt_1,2368,English,USA,R,8.5,2.35,21000
-252,145,14000,132014112,Action|Mystery|Sci-Fi|Thriller,Tom Cruise,Minority Report ,12546,0,future|murder|neo noir|washington d.c.|year 2054,http://www.imdb.com/title/tt0181689/?ref_=fn_tt_tt_1,1331,English,USA,PG-13,7.7,2.35,0
-232,174,0,261970615,Adventure|Family|Fantasy|Mystery,Daniel Radcliffe,Harry Potter and the Chamber of Secrets ,35672,1,bildungsroman|flying broom|invisibility cloak|monster|wizardry,http://www.imdb.com/title/tt0295297/?ref_=fn_tt_tt_1,858,English,UK,PG,7.4,2.35,0
-400,144,258,167007184,Action|Adventure|Thriller,Eva Green,Casino Royale ,9125,1,casino|espionage|free running|james bond|terrorist,http://www.imdb.com/title/tt0381061/?ref_=fn_tt_tt_1,2301,English,UK,PG-13,8.0,2.35,0
-230,119,13000,180011740,Action|Adventure|Sci-Fi|Thriller,Cary-Hiroyuki Tagawa,Planet of the Apes ,2776,0,astronaut|cage|planet|wilhelm scream|year 2029,http://www.imdb.com/title/tt0133152/?ref_=fn_tt_tt_1,1368,English,USA,PG-13,5.7,2.35,0
-210,153,0,204843350,Action|Sci-Fi,Joe Morton,Terminator 2: Judgment Day ,2829,0,future|liquid metal|multiple cameos|sexy woman|time travel,http://www.imdb.com/title/tt0103064/?ref_=fn_tt_tt_1,983,English,USA,R,8.5,2.35,13000
-357,140,0,97030725,Biography|Crime|Drama|History|Romance,Johnny Depp,Public Enemies ,64599,1,1930s|bank|celebrity criminal|fbi|public enemy number one,http://www.imdb.com/title/tt1152836/?ref_=fn_tt_tt_1,585,English,USA,R,7.0,2.35,0
-300,176,0,130127620,Biography|Crime|Drama,Denzel Washington,American Gangster ,20354,0,death|heroin|popcorn|smuggling|vietnam,http://www.imdb.com/title/tt0765429/?ref_=fn_tt_tt_1,458,English,USA,R,7.8,1.85,0
-94,141,0,146282411,Action|Comedy|Thriller,Jamie Lee Curtis,True Lies ,4528,0,espionage|secret agent|secret mission|spy|spy film,http://www.imdb.com/title/tt0111503/?ref_=fn_tt_tt_1,351,English,USA,R,7.2,2.35,0
-267,106,12000,65452312,Action|Crime|Thriller,Denzel Washington,The Taking of Pelham 1 2 3 ,19906,1,hijack|hostage|ransom|subway|train,http://www.imdb.com/title/tt1111422/?ref_=fn_tt_tt_1,285,English,USA,R,6.4,2.35,0
-180,98,80,148383780,Comedy|Romance,Robert De Niro,Little Fockers ,24082,10,birthday|critically bashed|male nurse|nurse|suspicion,http://www.imdb.com/title/tt0970866/?ref_=fn_tt_tt_1,152,English,USA,PG-13,5.5,1.85,0
-265,116,285,119219978,Action|Comedy|Crime,Dwayne Johnson,The Other Guys ,20233,2,capitalist|detective|investigation|new york city|police,http://www.imdb.com/title/tt1386588/?ref_=fn_tt_tt_1,316,English,USA,PG-13,6.7,2.35,16000
-81,115,55,101228120,Action|Drama|Mystery|Thriller,Vanessa Williams,Eraser ,3454,1,assassination attempt|corporate crime|rogue agent|witness|witness protection program,http://www.imdb.com/title/tt0116213/?ref_=fn_tt_tt_1,131,English,USA,R,6.1,2.35,0
-765,165,16000,162804648,Drama|Western,Leonardo DiCaprio,Django Unchained ,40978,1,dynamite|historically inaccurate|ku klux klan|n word|slavery,http://www.imdb.com/title/tt1853728/?ref_=fn_tt_tt_1,1193,English,USA,R,8.5,2.35,199000
-80,91,21,100117603,Animation|Drama|Family|Musical|Romance,Demi Moore,The Hunchback of Notre Dame ,4842,0,15th century|cathedral|gypsy|paris|victor hugo,http://www.imdb.com/title/tt0116583/?ref_=fn_tt_tt_1,230,English,USA,G,6.9,1.78,0
-141,78,10,89296573,Adventure|Animation|Comedy|Family|Fantasy,Eartha Kitt,The Emperor's New Groove ,2039,1,antidote|disney|emperor|first part|llama,http://www.imdb.com/title/tt0120917/?ref_=fn_tt_tt_1,297,English,USA,G,7.3,1.66,0
-383,103,165,85017401,Action|Adventure|Thriller,Jason Statham,The Expendables 2 ,57881,3,church|hostage|mine|plutonium|revenge,http://www.imdb.com/title/tt1764651/?ref_=fn_tt_tt_1,474,English,USA,R,6.7,2.35,108000
-193,131,226,173005002,Action|Adventure|Comedy|Family|Mystery,Nicolas Cage,National Treasure ,13679,0,declaration of independence|secret society|treasure|treasure hunt|treasure hunter,http://www.imdb.com/title/tt0368891/?ref_=fn_tt_tt_1,692,English,USA,PG,6.9,2.35,0
-170,104,14,75030163,Action|Adventure|Family|Fantasy,Djimon Hounsou,Eragon ,4487,0,dragon|dragon rider|fictional war|sword and fantasy|teenage hero,http://www.imdb.com/title/tt0449010/?ref_=fn_tt_tt_1,1690,English,USA,PG,5.1,2.35,0
-333,101,0,77222184,Adventure|Drama|Family|Fantasy,Catherine O'Hara,Where the Wild Things Are ,1738,0,based on children's book|creature|igloo|imagination|king,http://www.imdb.com/title/tt0386117/?ref_=fn_tt_tt_1,388,English,Germany,PG,6.8,2.35,11000
-256,111,456,34964818,Adventure|Family|Fantasy,Hugh Jackman,Pan ,21393,4,1940s|child hero|fantasy world|orphan|reference to peter pan,http://www.imdb.com/title/tt3332064/?ref_=fn_tt_tt_1,186,English,USA,PG,5.8,2.35,24000
-203,102,77,107515297,Adventure|Animation|Family|Fantasy,Josh Hutcherson,Epic ,14552,2,father daughter relationship|forest|miniature person|shrinking|sword and fantasy,http://www.imdb.com/title/tt0848537/?ref_=fn_tt_tt_1,113,English,USA,PG,6.7,2.35,17000
-321,103,207,67631157,Action|Romance|Thriller,Johnny Depp,The Tourist ,55175,0,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1,374,English,USA,PG-13,6.0,2.35,25000
-174,121,0,66862068,Action|Fantasy|Horror|Mystery,CCH Pounder,End of Days ,3903,0,atheist|ex cop|female masturbation|female nudity|lucifer,http://www.imdb.com/title/tt0146675/?ref_=fn_tt_tt_1,524,English,USA,R,5.7,2.35,2000
-166,143,380,57366262,Adventure|Drama|Thriller,Leonardo DiCaprio,Blood Diamond ,33160,0,diamond|elephant|fisherman|rebel|sierra leone,http://www.imdb.com/title/tt0450259/?ref_=fn_tt_tt_1,657,English,Germany,R,8.0,2.35,14000
-606,240,17000,116866727,Biography|Comedy|Crime|Drama,Leonardo DiCaprio,The Wolf of Wall Street ,46057,3,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,http://www.imdb.com/title/tt0993846/?ref_=fn_tt_tt_1,1138,English,USA,R,8.2,2.35,138000
-144,121,541,184031112,Action|Adventure|Fantasy,Michael Gough,Batman Forever ,2880,4,love|necktie|partner|rock music|tuxedo,http://www.imdb.com/title/tt0112462/?ref_=fn_tt_tt_1,539,English,USA,PG-13,5.4,1.85,0
-192,129,719,54700065,Action|Sci-Fi|War,Jake Busey,Starship Troopers ,2031,0,alien|federation|future|military|planet,http://www.imdb.com/title/tt0120201/?ref_=fn_tt_tt_1,1049,English,USA,R,7.2,1.85,0
-511,172,670,27098580,Drama|Sci-Fi,Tom Hanks,Cloud Atlas ,22686,5,composer|future|letter|nonlinear timeline|nursing home,http://www.imdb.com/title/tt1371111/?ref_=fn_tt_tt_1,828,English,Germany,R,7.5,2.35,124000
-188,101,0,55673333,Action|Adventure|Animation|Family|Fantasy,Abbie Cornish,Legend of the Guardians: The Owls of Ga'Hoole ,4286,1,barn owl|escape|owl|ruler|soldier,http://www.imdb.com/title/tt1219342/?ref_=fn_tt_tt_1,160,English,USA,PG,7.0,2.35,16000
-212,87,26,40198710,Action|Crime|Fantasy|Romance|Thriller,Frances Conroy,Catwoman ,3144,0,based on cult comic book|bechdel test passed|cat|detective|radical transformation,http://www.imdb.com/title/tt0327554/?ref_=fn_tt_tt_1,660,English,USA,PG-13,3.3,2.35,0
-245,101,420,72660029,Action|Adventure,Dwayne Johnson,Hercules ,16235,0,army|greek mythology|hercules|king|mercenary,http://www.imdb.com/title/tt1267297/?ref_=fn_tt_tt_1,269,English,USA,PG-13,6.0,2.35,21000
-127,95,63,38120554,Adventure|Animation|Family|Sci-Fi,Joseph Gordon-Levitt,Treasure Planet ,26940,0,alien|cyborg|pirate|planet|treasure,http://www.imdb.com/title/tt0133240/?ref_=fn_tt_tt_1,217,English,USA,PG,7.1,1.5,0
-167,102,52,49392095,Adventure|Comedy|Sci-Fi,Will Ferrell,Land of the Lost ,10552,1,human versus dinosaur|lizard|primate|time travel|tyrannosaurus rex,http://www.imdb.com/title/tt0457400/?ref_=fn_tt_tt_1,224,English,USA,PG-13,5.4,1.85,0
-320,131,385,39292022,Action|Adventure|Thriller,Jason Statham,The Expendables 3 ,52610,15,battle|fight|mission|pg 13 sequel to r rated franchise|rescue,http://www.imdb.com/title/tt2333784/?ref_=fn_tt_tt_1,351,English,USA,PG-13,6.1,2.35,56000
-163,114,19,28772222,Action|Crime|Sport|Thriller,Ray Winstone,Point Break ,3962,1,athlete|extreme sports|fbi|fbi agent|heist,http://www.imdb.com/title/tt2058673/?ref_=fn_tt_tt_1,163,English,USA,PG-13,5.3,2.35,37000
-78,94,6,17010646,Comedy|Family|Fantasy,Jamie Kennedy,Son of the Mask ,1195,0,baby|cartoon on tv|cartoonist|dog|mask,http://www.imdb.com/title/tt0362165/?ref_=fn_tt_tt_1,239,English,USA,PG,2.2,1.85,881
-289,122,2000,24985612,Action|Adventure|Biography|Drama|History|Thriller,Chris Hemsworth,In the Heart of the Sea ,28328,0,emaciation|ship|starvation|vomiting|whale,http://www.imdb.com/title/tt1390411/?ref_=fn_tt_tt_1,161,English,USA,PG-13,7.0,1.85,27000
-66,95,31,4411102,Action|Comedy|Sci-Fi,Rosario Dawson,The Adventures of Pluto Nash ,6161,1,casino|future|laser gun|moon|nightclub,http://www.imdb.com/title/tt0180052/?ref_=fn_tt_tt_1,164,English,USA,PG-13,3.8,1.85,416
-266,115,521,35024475,Action|Drama|Thriller|War,Matt Damon,Green Zone ,13761,1,cia|iraq|iraqi|political military conspiracy|weapon of mass destruction,http://www.imdb.com/title/tt0947810/?ref_=fn_tt_tt_1,261,English,France,R,6.9,2.35,0
-208,88,20,130174897,Adventure|Animation|Comedy|Family,Francesca Capaldi,The Peanuts Movie ,309,0,dog|girl|imagination|peanuts|red hair,http://www.imdb.com/title/tt2452042/?ref_=fn_tt_tt_1,155,English,USA,G,7.2,1.85,33000
-97,110,342,10200000,Drama|Mystery|Thriller,Ben Gazzara,The Spanish Prisoner ,1722,0,brother sister relationship|extradition|fbi|japanese tourist|secret,http://www.imdb.com/title/tt0120176/?ref_=fn_tt_tt_1,263,English,USA,PG,7.3,1.85,578
-202,130,208,202007640,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,The Mummy Returns ,15972,5,ancient egypt|bracelet|king|scorpion|son,http://www.imdb.com/title/tt0209163/?ref_=fn_tt_tt_1,890,English,USA,PG-13,6.3,2.35,0
-233,216,17000,77679638,Crime|Drama,Leonardo DiCaprio,Gangs of New York ,47657,3,butcher|civil war|gangster|new york city|revenge,http://www.imdb.com/title/tt0217505/?ref_=fn_tt_tt_1,1166,English,USA,R,7.5,2.35,0
-136,146,611,9213,Drama|History|Romance|War,Christian Bale,The Flowers of War ,23240,2,abusive stepfather|attempted rape|food shortage|sexual abuse|starving child,http://www.imdb.com/title/tt1410063/?ref_=fn_tt_tt_1,130,Mandarin,China,R,7.6,2.35,13000
-154,85,9,58867694,Animation|Comedy|Family|Sport,Jeff Bridges,Surf's Up ,25590,0,chicken|competition|island|penguin|surfing,http://www.imdb.com/title/tt0423294/?ref_=fn_tt_tt_1,112,English,USA,PG,6.8,1.85,0
-169,93,0,59475623,Comedy|Sci-Fi|Thriller,Jon Lovitz,The Stepford Wives ,13748,1,community|connecticut|fem bot|tv producer|writer,http://www.imdb.com/title/tt0327162/?ref_=fn_tt_tt_1,407,English,USA,PG-13,5.2,1.85,0
-200,152,0,108638745,Drama|History|War,Ioan Gruffudd,Black Hawk Down ,4270,0,army|helicopter|somali|somalia|warlord,http://www.imdb.com/title/tt0265086/?ref_=fn_tt_tt_1,1103,English,USA,R,7.7,2.35,10000
-255,85,116,86897182,Comedy,Will Ferrell,The Campaign ,9271,0,campaigning|congressman|north carolina|title at the end|u.s. congressman,http://www.imdb.com/title/tt1790886/?ref_=fn_tt_tt_1,177,English,USA,R,6.2,1.85,18000
-173,126,0,63540020,Action|Adventure|Sci-Fi,Milla Jovovich,The Fifth Element ,39319,2,1910s|alien|artificially created woman|love|taxi driver,http://www.imdb.com/title/tt0119116/?ref_=fn_tt_tt_1,742,English,France,PG-13,7.7,2.35,18000
-221,146,127,95328937,Comedy|Drama|Romance,Chris Noth,Sex and the City 2 ,4555,4,abu dhabi|box office hit|muslim|nanny|united arab emirates,http://www.imdb.com/title/tt1261945/?ref_=fn_tt_tt_1,293,English,USA,R,4.3,1.85,0
-82,89,10,50802661,Adventure|Animation|Comedy|Family|Romance,Frank Welker,The Road to El Dorado ,3372,1,adventurer|el dorado|gold|high priest|implied sex,http://www.imdb.com/title/tt0138749/?ref_=fn_tt_tt_1,139,English,USA,PG,6.9,1.85,0
-233,88,20,161317423,Adventure|Animation|Comedy|Family,Peter Dinklage,Ice Age: Continental Drift ,25354,0,acorn|herd|iceberg|ocean|pirate,http://www.imdb.com/title/tt1667889/?ref_=fn_tt_tt_1,139,English,USA,PG,6.6,2.35,14000
-343,105,0,201148159,Drama|Family|Fantasy|Romance,Hayley Atwell,Cinderella ,4671,1,dress|duke|fairy godmother|fairy tale|pumpkin,http://www.imdb.com/title/tt1661199/?ref_=fn_tt_tt_1,322,English,USA,PG,7.0,2.35,56000
-308,135,0,43982842,Drama|Fantasy|Thriller,Michael Imperioli,The Lovely Bones ,2370,1,1970s|afterlife|heaven|pedophile|rape,http://www.imdb.com/title/tt0380510/?ref_=fn_tt_tt_1,593,English,USA,PG-13,6.7,2.35,16000
-301,100,475,380838870,Adventure|Animation|Comedy|Family,Alexander Gould,Finding Nemo ,5641,0,great barrier reef|protective father|separation from family|shark|short term memory loss,http://www.imdb.com/title/tt0266543/?ref_=fn_tt_tt_1,866,English,USA,G,8.2,1.85,11000
-328,192,0,377019252,Action|Adventure|Drama|Fantasy,Orlando Bloom,The Lord of the Rings: The Return of the King ,6434,2,battle|epic|king|orc|ring,http://www.imdb.com/title/tt0167260/?ref_=fn_tt_tt_1,3189,English,USA,PG-13,8.9,2.35,16000
-294,172,0,340478898,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Two Towers ,23052,1,epic|evil wizard|middle earth|ring|wizard,http://www.imdb.com/title/tt0167261/?ref_=fn_tt_tt_1,2417,English,USA,PG-13,8.7,2.35,10000
-175,102,44,17176900,Action|Adventure|Fantasy,Jeff Bridges,Seventh Son ,17098,4,apprentice|demon|exorcism|master apprentice relationship|witch,http://www.imdb.com/title/tt1121096/?ref_=fn_tt_tt_1,154,English,USA,PG-13,5.5,2.35,16000
-199,100,165,131144183,Action|Adventure|Fantasy|Thriller,Angelina Jolie Pitt,Lara Croft: Tomb Raider ,12150,1,illuminati|planetary alignment|time|tomb|tomb raider,http://www.imdb.com/title/tt0146316/?ref_=fn_tt_tt_1,824,English,USA,PG-13,5.7,2.35,0
-355,119,0,23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,Johnny Depp,Transcendence ,54031,1,artificial intelligence|consciousness|power outage|scientist|technology,http://www.imdb.com/title/tt2209764/?ref_=fn_tt_tt_1,462,English,UK,PG-13,6.3,2.35,37000
-198,92,394,181166115,Action|Adventure|Sci-Fi|Thriller,Michael Jeter,Jurassic Park III ,2574,0,dinosaur|island|jurassic park|paleontologist|search,http://www.imdb.com/title/tt0163025/?ref_=fn_tt_tt_1,1236,English,USA,PG-13,5.9,1.85,0
-529,105,81,176740650,Action|Drama|Sci-Fi|Thriller,James Franco,Rise of the Planet of the Apes ,13118,0,alzheimer's disease|ape|chimpanzee|fire|when animals attack,http://www.imdb.com/title/tt1318514/?ref_=fn_tt_tt_1,646,English,USA,PG-13,7.6,2.35,47000
-198,107,70,71148699,Adventure|Family|Fantasy,Martin Short,The Spiderwick Chronicles ,1614,0,actor playing multiple roles|brownie the creature|closing credits sequence|family relationships|magical creature,http://www.imdb.com/title/tt0416236/?ref_=fn_tt_tt_1,125,English,USA,PG,6.6,2.35,0
-412,101,212,67344392,Action|Thriller,Bruce Willis,A Good Day to Die Hard ,15481,2,bomb|cia|courthouse|escape|russian,http://www.imdb.com/title/tt1606378/?ref_=fn_tt_tt_1,503,English,USA,R,5.3,1.85,66000
-106,137,102,22406362,Drama|History|War|Western,Dennis Quaid,The Alamo ,5780,0,army|dictator|general|texan|texas,http://www.imdb.com/title/tt0318974/?ref_=fn_tt_tt_1,267,English,USA,PG-13,6.0,2.35,701
-283,115,663,261437578,Action|Adventure|Animation|Family,Holly Hunter,The Incredibles ,1901,0,hero|island|lawsuit|secret|superhero,http://www.imdb.com/title/tt0317705/?ref_=fn_tt_tt_1,815,English,USA,PG,8.0,2.35,0
-61,124,212,11000000,Action|Adventure|Comedy,Christopher Masterson,Cutthroat Island ,3611,3,latin|pirate|pirate ship|treasure|treasure map,http://www.imdb.com/title/tt0112760/?ref_=fn_tt_tt_1,169,English,USA,PG-13,5.6,2.35,1000
-217,118,0,88761720,Adventure|Family|Fantasy,Logan Lerman,Percy Jackson & the Olympians: The Lightning Thief ,14024,0,greek|lightning|lightning bolt|poseidon|teenager,http://www.imdb.com/title/tt0814255/?ref_=fn_tt_tt_1,419,English,UK,PG,5.9,2.35,9000
-175,98,188,250147615,Adventure|Comedy|Family|Mystery|Sci-Fi,Will Smith,Men in Black ,12998,0,alien|box office hit|flying saucer|laser gun|wisecrack humor,http://www.imdb.com/title/tt0119654/?ref_=fn_tt_tt_1,289,English,USA,PG-13,7.3,1.85,0
-191,82,487,245823397,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,Toy Story 2 ,21275,2,collector|dog|friend|rescue|toy,http://www.imdb.com/title/tt0120363/?ref_=fn_tt_tt_1,515,English,USA,G,7.9,1.85,0
-316,98,12000,81557479,Action|Thriller,Denzel Washington,Unstoppable ,25780,1,freight train|race against time|runaway train|train|train engineer,http://www.imdb.com/title/tt0477080/?ref_=fn_tt_tt_1,326,English,USA,PG-13,6.8,2.35,18000
-127,90,420,226138454,Action|Comedy|Crime|Thriller,Mei Melançon,Rush Hour 2 ,664,2,boat|gang|hong kong|triad|vacation,http://www.imdb.com/title/tt0266915/?ref_=fn_tt_tt_1,394,English,USA,PG-13,6.6,2.35,0
-185,130,0,155370362,Drama|Fantasy|Horror|Mystery|Thriller,Harrison Ford,What Lies Beneath ,12890,0,ghost|haunted house|research|secret|vermont,http://www.imdb.com/title/tt0161081/?ref_=fn_tt_tt_1,683,English,USA,PG-13,6.6,2.35,0
-191,90,97,124870275,Animation|Comedy|Family|Sci-Fi,Will Forte,Cloudy with a Chance of Meatballs ,1227,1,food|giant food|mayor|sardine|weather,http://www.imdb.com/title/tt0844471/?ref_=fn_tt_tt_1,156,English,USA,PG,7.0,2.35,0
-188,94,107,196573705,Action|Adventure|Animation|Comedy|Family,Denis Leary,Ice Age: Dawn of the Dinosaurs ,1258,0,egg|lost world|rescue|squirrel|weasel,http://www.imdb.com/title/tt1080016/?ref_=fn_tt_tt_1,132,English,USA,PG,7.0,1.85,0
-362,114,0,58229120,Adventure|Comedy|Drama|Fantasy|Romance,Adam Scott,The Secret Life of Walter Mitty ,5095,1,daydream|life magazine|magazine|photographer|snow leopard,http://www.imdb.com/title/tt0359950/?ref_=fn_tt_tt_1,515,English,USA,PG,7.3,2.35,70000
-181,94,368,125305545,Action|Adventure|Comedy|Crime|Thriller,Bill Murray,Charlie's Angels ,15419,0,booty shake|box office hit|duct tape over mouth|first part|martial arts,http://www.imdb.com/title/tt0160127/?ref_=fn_tt_tt_1,643,English,USA,PG-13,5.5,2.35,0
-352,151,17000,132373442,Crime|Drama|Thriller,Leonardo DiCaprio,The Departed ,45648,0,boston|mole|police|undercover|undercover cop,http://www.imdb.com/title/tt0407887/?ref_=fn_tt_tt_1,2054,English,USA,R,8.5,2.35,29000
-143,88,7,120618403,Adventure|Animation|Family|Fantasy|Musical|War,Ming-Na Wen,Mulan ,4478,0,based on poem|based on true story|china|one word title|the huns,http://www.imdb.com/title/tt0120762/?ref_=fn_tt_tt_1,222,English,USA,G,7.5,1.66,12000
-308,121,0,110416702,Action|Comedy,Robert Downey Jr.,Tropic Thunder ,23484,3,film director|parody|spoof|vietnam|written and directed by cast member,http://www.imdb.com/title/tt0942385/?ref_=fn_tt_tt_1,577,English,USA,R,7.0,2.35,0
-517,158,21000,102515793,Crime|Drama|Mystery|Thriller,Robin Wright,The Girl with the Dragon Tattoo ,20388,1,computer hacker|hacker|investigation|journalist|punk,http://www.imdb.com/title/tt1568346/?ref_=fn_tt_tt_1,632,English,USA,R,7.8,2.35,54000
-148,128,323,100012500,Action|Adventure|Thriller,Bruce Willis,Die Hard with a Vengeance ,14274,1,bomb|detective|new york city|police|terrorist,http://www.imdb.com/title/tt0112864/?ref_=fn_tt_tt_1,346,English,USA,R,7.6,2.35,0
-415,128,0,209019489,Action|Adventure|Crime|Mystery|Thriller,Robert Downey Jr.,Sherlock Holmes ,23996,3,black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,http://www.imdb.com/title/tt0988045/?ref_=fn_tt_tt_1,621,English,USA,PG-13,7.6,1.85,20000
-1,141,335,,Adventure|Drama|History,Morgan Freeman,Ben-Hur ,13379,2,,http://www.imdb.com/title/tt2638144/?ref_=fn_tt_tt_1,1,English,USA,PG-13,6.1,2.35,0
-146,95,21,84037039,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Leonard Nimoy,Atlantis: The Lost Empire ,15237,0,atlantis|crew|expedition|journal|museum,http://www.imdb.com/title/tt0230011/?ref_=fn_tt_tt_1,289,English,USA,PG,6.8,2.35,0
-70,92,12,85884815,Adventure|Animation|Comedy|Family|Fantasy|Music,Bella Thorne,Alvin and the Chipmunks: The Road Chip ,38450,0,chipmunk|highway travel|on the road|plane|road movie,http://www.imdb.com/title/tt2974918/?ref_=fn_tt_tt_1,53,English,USA,PG,5.0,1.85,0
-269,121,0,83077470,Drama|History|Thriller|War,Tom Cruise,Valkyrie ,14165,0,american actor playing foreigner|assassination|conspiracy|military|nazis,http://www.imdb.com/title/tt0985699/?ref_=fn_tt_tt_1,440,English,USA,PG-13,7.1,1.85,0
-198,113,221,100018837,Action|Comedy,Adam Sandler,You Don't Mess with the Zohan ,13446,0,hair stylist|jew|landlord|muslim|palestinian,http://www.imdb.com/title/tt0960144/?ref_=fn_tt_tt_1,380,English,USA,PG-13,5.5,1.85,0
-253,106,0,78747585,Action|Animation|Comedy|Sci-Fi,Peter Dinklage,Pixels ,35367,0,alien|arcade game|chase|driving in reverse|video gamer,http://www.imdb.com/title/tt2120120/?ref_=fn_tt_tt_1,342,English,USA,PG-13,5.6,2.35,39000
-281,146,14000,78616689,Adventure|Drama|Sci-Fi,Haley Joel Osment,A.I. Artificial Intelligence ,6217,0,affection|boy|fairy|future|robot,http://www.imdb.com/title/tt0212720/?ref_=fn_tt_tt_1,2153,English,USA,PG-13,7.1,1.85,11000
-122,88,50,75817994,Comedy|Family|Fantasy|Horror|Mystery,Marsha Thomason,The Haunted Mansion ,2622,0,arachnophobia|crystal ball|ghost|haunted house|thunderstorm,http://www.imdb.com/title/tt0338094/?ref_=fn_tt_tt_1,179,English,USA,PG,4.9,2.35,988
-159,150,0,100853835,Drama|Mystery|Sci-Fi|Thriller,Matthew McConaughey,Contact ,12289,2,message from outer space|religion|religion versus science|scientist|universe,http://www.imdb.com/title/tt0118884/?ref_=fn_tt_tt_1,611,English,USA,PG,7.4,2.35,15000
-180,119,719,73209340,Action|Horror|Sci-Fi|Thriller,Greg Grunberg,Hollow Man ,2356,0,experiment|research|scientist|suburb|surrealism,http://www.imdb.com/title/tt0164052/?ref_=fn_tt_tt_1,628,English,USA,R,5.7,1.85,0
-227,128,521,72515360,Crime|Mystery|Thriller,Curtiss Cook,The Interpreter ,2100,1,african|assassination|dialect|interpreter|threat,http://www.imdb.com/title/tt0373926/?ref_=fn_tt_tt_1,411,Aboriginal,UK,PG-13,6.4,2.35,0
-183,106,87,68558662,Adventure|Family|Fantasy,Logan Lerman,Percy Jackson: Sea of Monsters ,10882,0,golden fleece|half brother|magical tree|sea|tree,http://www.imdb.com/title/tt1854564/?ref_=fn_tt_tt_1,204,English,USA,PG,5.9,2.35,28000
-157,117,101,65653758,Action|Adventure|Fantasy,Gerard Butler,Lara Croft Tomb Raider: The Cradle of Life ,33154,1,duology|female hero|female lead|orb|pandora's box,http://www.imdb.com/title/tt0325703/?ref_=fn_tt_tt_1,316,English,USA,PG-13,5.5,2.35,0
-196,129,209,64685359,Action|Adventure|Comedy|Crime|Mystery|Thriller,Daniel Radcliffe,Now You See Me 2 ,23031,6,card trick|london england|magician|rain machine|rooftop,http://www.imdb.com/title/tt3110958/?ref_=fn_tt_tt_1,139,English,USA,PG-13,6.9,2.35,15000
-64,116,176,61355436,Action|Adventure|Romance|Sci-Fi|Thriller,Alun Armstrong,The Saint ,475,0,cold fusion|disguise|energy|fusion|the saint,http://www.imdb.com/title/tt0120053/?ref_=fn_tt_tt_1,184,English,USA,PG-13,6.2,2.35,0
-142,114,12000,26871,Action|Crime|Thriller,Brad Pitt,Spy Game ,12499,2,china|cia|cold war|friendship|retirement,http://www.imdb.com/title/tt0266987/?ref_=fn_tt_tt_1,361,English,Germany,R,7.0,2.35,0
-181,114,0,60874615,Adventure|Sci-Fi|Thriller,Don Cheadle,Mission to Mars ,4902,0,astronaut|mars|mars the planet|outer space|zero gravity,http://www.imdb.com/title/tt0183523/?ref_=fn_tt_tt_1,949,English,USA,PG,5.6,2.35,0
-240,96,107,143618384,Adventure|Animation|Comedy|Family|Musical,Anne Hathaway,Rio ,12071,0,bird|brazilian|cockatoo|macaw|minnesota,http://www.imdb.com/title/tt1436562/?ref_=fn_tt_tt_1,186,English,USA,G,7.0,2.35,19000
-93,132,0,58220776,Comedy|Drama|Sci-Fi,Robin Williams,Bicentennial Man ,55254,0,23rd century|android|artificial intelligence|dual role|robot,http://www.imdb.com/title/tt0182789/?ref_=fn_tt_tt_1,362,English,USA,PG,6.8,1.85,0
-84,104,81,47474112,Action|Drama|Sci-Fi|Thriller,Don Cheadle,Volcano ,5062,0,earthquake|fire|lava|rescue|volcano,http://www.imdb.com/title/tt0120461/?ref_=fn_tt_tt_1,181,English,USA,PG-13,5.4,1.85,2000
-66,111,79,42877165,Action|Crime|Drama|Thriller,Harrison Ford,The Devil's Own ,26088,0,friendship|murder|northern ireland|police officer|terrorist,http://www.imdb.com/title/tt0118972/?ref_=fn_tt_tt_1,114,English,USA,R,6.1,2.35,979
-136,138,0,35168677,Drama|History|Thriller|War,Liam Neeson,K-19: The Widowmaker ,15149,1,courage|radiation sickness|radioactive contamination|sea|test launch,http://www.imdb.com/title/tt0267626/?ref_=fn_tt_tt_1,278,English,UK,PG-13,6.7,2.35,0
-369,100,128,56114221,Action|Adventure|Sci-Fi,Tim Blake Nelson,Fantastic Four ,1261,3,box office flop|critically bashed|portal|teleportation|troubled production,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1,695,English,USA,PG-13,4.3,2.35,41000
-166,129,468,37567440,Adventure|Fantasy,William Smith,Conan the Barbarian ,2024,0,actual animal killed|cult|evil sorcerer|gladiator|warlord,http://www.imdb.com/title/tt0082198/?ref_=fn_tt_tt_1,337,English,USA,R,6.9,2.35,0
-201,144,2000,61644321,Biography|Drama|Sport,Paddy Considine,Cinderella Man ,2523,0,boxer|boxing|dream|great depression|love,http://www.imdb.com/title/tt0352248/?ref_=fn_tt_tt_1,529,English,USA,PG-13,8.0,2.35,0
-47,110,96,190562,Action|Family|Fantasy|Musical,Shirley Henderson,The Nutcracker in 3D ,2728,0,box office flop|christmas|christmas eve|critically bashed|toy comes to life,http://www.imdb.com/title/tt1041804/?ref_=fn_tt_tt_1,24,English,UK,PG,4.4,2.35,788
-175,140,378,120147445,Drama|History|Sport,Jeff Bridges,Seabiscuit ,13808,0,horse|horse racing|jockey|limp|seabiscuit,http://www.imdb.com/title/tt0329575/?ref_=fn_tt_tt_1,455,English,USA,PG-13,7.3,2.35,0
-114,113,101,241688385,Action|Adventure|Drama|Thriller,Philip Seymour Hoffman,Twister ,26239,0,device|disaster|divorce|storm|tornado,http://www.imdb.com/title/tt0117998/?ref_=fn_tt_tt_1,395,English,USA,PG-13,6.3,2.35,0
-187,106,357,144512310,Action|Crime|Thriller,Paul Walker,The Fast and the Furious ,45327,2,eighteen wheeler|illegal street racing|truck|trucker|undercover cop,http://www.imdb.com/title/tt0232500/?ref_=fn_tt_tt_1,988,English,USA,PG-13,6.7,2.35,14000
-221,143,0,233630478,Adventure|Drama|Romance,Tom Hanks,Cast Away ,15838,1,christmas|island|love|survival|talking to inanimate object,http://www.imdb.com/title/tt0162222/?ref_=fn_tt_tt_1,1051,English,USA,PG-13,7.7,1.85,23000
-206,108,750,197992827,Animation|Comedy|Family|Music|Romance,Robin Williams,Happy Feet ,70996,0,dance|emperor penguin|friend|penguin|song,http://www.imdb.com/title/tt0366548/?ref_=fn_tt_tt_1,548,English,USA,PG,6.5,2.35,0
-239,108,521,176049130,Action|Mystery|Thriller,Matt Damon,The Bourne Supremacy ,14161,1,assassin|car chase|cia|hidden truth|one against many,http://www.imdb.com/title/tt0372183/?ref_=fn_tt_tt_1,806,English,USA,PG-13,7.8,2.35,0
-142,124,249,172620724,Action|Adventure|Drama|Thriller,Harrison Ford,Air Force One ,23603,1,ex soldier|hijacker|hostage|president|terrorist,http://www.imdb.com/title/tt0118571/?ref_=fn_tt_tt_1,393,English,USA,R,6.4,2.35,0
-186,116,0,183405771,Crime|Thriller,Brad Pitt,Ocean's Eleven ,13028,4,card dealer|casino|criminal mastermind|recruiting|ulcer,http://www.imdb.com/title/tt0240772/?ref_=fn_tt_tt_1,845,English,USA,PG-13,7.8,2.35,0
-228,110,545,20315324,Action|Adventure|Romance,Milla Jovovich,The Three Musketeers ,27694,8,box office flop|cardinal richelieu|critically bashed|duel|musketeer,http://www.imdb.com/title/tt1509767/?ref_=fn_tt_tt_1,254,English,Germany,PG-13,5.8,2.35,19000
-256,91,266,148313048,Animation|Comedy|Family|Fantasy,Steve Buscemi,Hotel Transylvania ,37142,2,dracula|hotel|invisible man|monster|transylvania,http://www.imdb.com/title/tt0837562/?ref_=fn_tt_tt_1,168,English,USA,PG,7.1,1.85,28000
-222,107,36,127706877,Animation|Comedy|Family|Fantasy|Musical|Romance,Jeff Bennett,Enchanted ,662,2,fairy tale|lawyer|love|new york|prince,http://www.imdb.com/title/tt0461770/?ref_=fn_tt_tt_1,399,English,USA,PG,7.1,2.35,0
-103,44,,,Crime|Drama|Horror|Mystery|Thriller,Caroline Dhavernas,Hannibal             ,996,1,blood|cannibalism|fbi|manipulation|psychiatrist,http://www.imdb.com/title/tt2243973/?ref_=fn_tt_tt_1,270,English,USA,TV-14,8.6,1.78,59000
-298,115,79,126149655,Action|Crime|Mystery|Thriller,Denzel Washington,Safe House ,36237,1,cia|cia agent|consulate|on the run|safe house,http://www.imdb.com/title/tt1599348/?ref_=fn_tt_tt_1,276,English,USA,R,6.8,2.35,19000
-84,100,36,66941559,Adventure|Comedy|Family,Ioan Gruffudd,102 Dalmatians ,4182,1,dog|parole|parole officer|prison|puppy,http://www.imdb.com/title/tt0211181/?ref_=fn_tt_tt_1,77,English,USA,G,4.8,1.85,372
-236,104,420,78009155,Action|Comedy|Crime,Matthew Broderick,Tower Heist ,3768,5,apartment|fbi|fraud|heist|manager,http://www.imdb.com/title/tt0471042/?ref_=fn_tt_tt_1,194,English,USA,PG-13,6.2,2.35,0
-157,138,278,63224849,Comedy|Romance,Kate Winslet,The Holiday ,17423,3,book|composer|house|love|self esteem,http://www.imdb.com/title/tt0457939/?ref_=fn_tt_tt_1,483,English,USA,PG-13,6.9,1.85,19000
-81,140,12000,111544445,Action|Crime|Drama|Mystery|Thriller,Will Smith,Enemy of the State ,11951,4,congressman|lawyer|nsa|on the run|surveillance,http://www.imdb.com/title/tt0120660/?ref_=fn_tt_tt_1,415,English,USA,R,7.3,2.35,0
-187,120,278,112703470,Comedy|Drama|Romance,Meryl Streep,It's Complicated ,15226,2,affair|divorce|graduation|vomiting|watching television,http://www.imdb.com/title/tt1230414/?ref_=fn_tt_tt_1,214,English,USA,R,6.6,1.85,0
-238,122,0,117144465,Crime|Thriller,Al Pacino,Ocean's Thirteen ,43499,3,casino|heist|manmade earthquake|revenge|tunnel boring machine,http://www.imdb.com/title/tt0496806/?ref_=fn_tt_tt_1,288,English,USA,PG-13,6.9,2.35,0
-107,83,28,84303558,Adventure|Animation|Comedy|Family,Jon Favreau,Open Season ,6081,1,bear|deer|forest|grizzly bear|hunter,http://www.imdb.com/title/tt0400717/?ref_=fn_tt_tt_1,100,English,USA,PG,6.2,1.85,863
-459,139,168,150832203,Adventure|Mystery|Sci-Fi,Kate Winslet,Divergent ,22226,2,army|brother sister relationship|dystopia|father son relationship|narrated by character,http://www.imdb.com/title/tt1840309/?ref_=fn_tt_tt_1,713,English,USA,PG-13,6.7,2.35,49000
-187,131,218,51396781,Drama|History|War,Bob Hoskins,Enemy at the Gates ,5103,1,battle|german|russian|sniper|stalingrad,http://www.imdb.com/title/tt0215750/?ref_=fn_tt_tt_1,662,English,USA,R,7.6,2.35,0
-151,104,532,47592825,Action|Adventure|Comedy|Thriller,Dwayne Johnson,The Rundown ,16930,1,amazon|bounty hunter|fight|hunter|jungle,http://www.imdb.com/title/tt0327850/?ref_=fn_tt_tt_1,255,English,USA,PG-13,6.7,2.35,0
-80,130,323,50016394,Action|Adventure|Comedy|Fantasy,F. Murray Abraham,Last Action Hero ,2407,1,action hero|hero|magic|ticket|video store,http://www.imdb.com/title/tt0107362/?ref_=fn_tt_tt_1,257,English,USA,PG-13,6.2,2.35,0
-229,145,252,57010853,Drama|Romance,Li Gong,Memoirs of a Geisha ,2380,1,coming of age|geisha|japan|jealousy|love,http://www.imdb.com/title/tt0397535/?ref_=fn_tt_tt_1,548,English,USA,PG-13,7.3,2.35,0
-158,104,681,62494975,Action|Crime|Thriller,Amber Stevens West,The Fast and the Furious: Tokyo Drift ,1235,5,car|challenge|drift racing|drifting|tokyo japan,http://www.imdb.com/title/tt0463985/?ref_=fn_tt_tt_1,378,English,USA,PG-13,6.0,2.35,0
-190,97,6,46440491,Adventure|Animation|Comedy|Family|Fantasy,Jim Broadbent,Arthur Christmas ,2707,1,christmas|christmas eve|elf|high tech|resentment,http://www.imdb.com/title/tt1430607/?ref_=fn_tt_tt_1,78,English,UK,PG,7.1,1.85,0
-98,178,102,44606335,Drama|Fantasy|Romance,Anthony Hopkins,Meet Joe Black ,23950,0,birthday|death|death personified|fear of death|wealth,http://www.imdb.com/title/tt0119643/?ref_=fn_tt_tt_1,703,English,USA,PG-13,7.1,1.85,10000
-135,108,99,40048332,Action|Drama|Thriller,Raymond Cruz,Collateral Damage ,1460,1,bare chested boy|car explosion|colombia|explosion|terrorism,http://www.imdb.com/title/tt0233469/?ref_=fn_tt_tt_1,339,English,USA,R,5.5,1.85,941
-84,123,189,,Comedy|Drama|Music|Musical,Roy Scheider,All That Jazz ,1476,0,dancer|editing|stand up comedian|surgery|vomiting,http://www.imdb.com/title/tt0078754/?ref_=fn_tt_tt_1,146,English,USA,R,7.8,1.85,0
-382,106,763,64933670,Adventure|Comedy|Drama|Family|Fantasy,Julia Roberts,Mirror Mirror ,11454,1,kingdom|prince|princess|queen|snow,http://www.imdb.com/title/tt1667353/?ref_=fn_tt_tt_1,208,English,USA,PG,5.6,1.85,18000
-393,112,1000,31494270,Action|Comedy|Fantasy|Romance,Anna Kendrick,Scott Pilgrim vs. the World ,12687,0,band|dating|high school|hipster|rock band,http://www.imdb.com/title/tt0446029/?ref_=fn_tt_tt_1,522,English,USA,PG-13,7.5,1.85,36000
-149,135,36,31111260,Action|Adventure|Sci-Fi|Thriller,Glenn Morshower,The Core ,1439,0,core|earth|natural disaster|pacemaker|scientist,http://www.imdb.com/title/tt0298814/?ref_=fn_tt_tt_1,466,English,USA,PG-13,5.4,2.35,0
-94,109,88,123307945,Comedy|Romance|Sci-Fi,Larry Miller,Nutty Professor II: The Klumps ,2818,1,alter ego|marriage|professor|scientist|serum,http://www.imdb.com/title/tt0144528/?ref_=fn_tt_tt_1,171,English,USA,PG-13,4.3,1.85,374
-138,86,67,153288182,Adventure|Comedy|Mystery,Sarah Michelle Gellar,Scooby-Doo ,6355,3,amusement park|island|motorcycle|scooby doo|tough girl,http://www.imdb.com/title/tt0267913/?ref_=fn_tt_tt_1,521,English,USA,PG,4.9,1.85,0
-432,95,38,13401683,Action|Sci-Fi,Wood Harris,Dredd ,578,0,brutality|dark humor|female antagonist|female warrior|post apocalypse,http://www.imdb.com/title/tt1343727/?ref_=fn_tt_tt_1,588,English,UK,R,7.1,2.35,46000
-173,107,153,137340146,Comedy|Drama|Fantasy|Romance,Adam Sandler,Click ,12700,1,architect|frozen time|obese man|remote control|stopped time,http://www.imdb.com/title/tt0389860/?ref_=fn_tt_tt_1,685,English,USA,PG-13,6.4,1.85,7000
-127,130,0,,Comedy|Fantasy|Horror,Ted Danson,Creepshow ,2662,0,anthology|child abuse|critically acclaimed|death|grindhouse,http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1,211,English,USA,R,6.9,1.85,0
-91,82,62,43575716,Action|Comedy|Family|Fantasy,Jack McBrayer,Cats & Dogs: The Revenge of Kitty Galore ,3326,0,cartoon on tv|cat|dog|kitty|special agent,http://www.imdb.com/title/tt1287468/?ref_=fn_tt_tt_1,63,English,USA,PG,4.3,1.85,0
-238,88,218,80170146,Action|Adventure|Sci-Fi|Thriller,Kristen Stewart,Jumper ,21863,0,bank|based on novel|ice|teleportation|vault,http://www.imdb.com/title/tt0489099/?ref_=fn_tt_tt_1,488,English,USA,PG-13,6.1,2.35,0
-345,120,0,75754670,Action|Adventure|Fantasy|Horror|Sci-Fi,Seth MacFarlane,Hellboy II: The Golden Army ,3632,0,creature|elf|prince|rebellion|superhero,http://www.imdb.com/title/tt0411477/?ref_=fn_tt_tt_1,342,English,USA,PG-13,7.0,1.85,3000
-377,162,21000,33048353,Crime|Drama|History|Mystery|Thriller,Robert Downey Jr.,Zodiac ,36928,0,cartoonist|reporter|serial killer|zodiac|zodiac killer,http://www.imdb.com/title/tt0443706/?ref_=fn_tt_tt_1,589,English,USA,R,7.7,2.35,12000
-170,123,55,34543701,Action|Mystery|Sci-Fi|Thriller,Robert Duvall,The 6th Day ,5839,1,clone|cloning|future|laser gun|murder,http://www.imdb.com/title/tt0216216/?ref_=fn_tt_tt_1,289,English,USA,PG-13,5.9,2.35,0
-191,101,293,242589580,Comedy|Drama,Morgan Freeman,Bruce Almighty ,21276,1,answer to prayer|breast expansion|pleading with god|supernatural power|walking on water,http://www.imdb.com/title/tt0315327/?ref_=fn_tt_tt_1,604,English,USA,PG-13,6.7,1.85,0
-424,113,13000,102981571,Action|Adventure|Thriller,Jason Statham,The Expendables ,46355,9,action hero|assassination attempt|explosion|machine gun|rescue mission,http://www.imdb.com/title/tt1320253/?ref_=fn_tt_tt_1,741,English,USA,R,6.5,2.35,57000
-154,110,0,180965237,Action|Adventure|Thriller,Tom Cruise,Mission: Impossible ,12760,0,disguise|mission|spy|stealing|traitor,http://www.imdb.com/title/tt0117060/?ref_=fn_tt_tt_1,378,English,USA,PG-13,7.1,2.35,0
-673,142,378,407999255,Adventure|Drama|Sci-Fi|Thriller,Jennifer Lawrence,The Hunger Games ,49942,0,fight to the death|game|massacre|self survival|suicide attempt,http://www.imdb.com/title/tt1392170/?ref_=fn_tt_tt_1,1959,English,USA,PG-13,7.3,2.35,140000
-383,102,480,254455986,Comedy,Bradley Cooper,The Hangover Part II ,16143,0,hotel|male frontal nudity|pubic hair|thailand|wedding,http://www.imdb.com/title/tt1411697/?ref_=fn_tt_tt_1,402,English,USA,R,6.5,2.35,56000
-153,126,13000,162831698,Action,Michael Gough,Batman Returns ,2899,0,box office hit|dc comics|gotham|mayor|penguin,http://www.imdb.com/title/tt0103776/?ref_=fn_tt_tt_1,610,English,USA,PG-13,7.0,1.85,0
-166,83,12,155019340,Adventure|Animation|Comedy|Family,Bruce Willis,Over the Hedge ,22813,1,bear|food|forest|raccoon|turtle,http://www.imdb.com/title/tt0327084/?ref_=fn_tt_tt_1,250,English,USA,PG,6.8,1.85,0
-180,85,255,145771527,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,Tia Carrere,Lilo & Stitch ,3112,0,alien|escape|fugitive|hawaii|social worker,http://www.imdb.com/title/tt0275847/?ref_=fn_tt_tt_1,367,English,USA,PG,7.2,1.66,0
-120,97,56,82506325,Comedy|Family|Fantasy,Steve Buscemi,Charlotte's Web ,23907,0,barn|pig|piglet|spider|uncle,http://www.imdb.com/title/tt0413895/?ref_=fn_tt_tt_1,102,English,USA,G,6.4,1.85,0
-125,120,75,140459099,Action|Drama|Romance|Sci-Fi|Thriller,Morgan Freeman,Deep Impact ,22750,0,astronomer|comet|mission|president|secretary,http://www.imdb.com/title/tt0120647/?ref_=fn_tt_tt_1,493,English,USA,PG-13,6.1,2.35,0
-234,116,23,53215979,Action|Comedy|Crime|Thriller,Bruce Willis,RED 2 ,25220,7,cia|cia agent|rescue|russian|team,http://www.imdb.com/title/tt1821694/?ref_=fn_tt_tt_1,205,English,USA,PG-13,6.7,2.35,22000
-134,113,88,158115031,Comedy|Crime|Sport,Adam Sandler,The Longest Yard ,13693,11,coach|convict|football|prison|warden,http://www.imdb.com/title/tt0398165/?ref_=fn_tt_tt_1,316,English,USA,PG-13,6.4,2.35,0
-91,87,31,133103929,Adventure|Animation|Comedy|Family|Fantasy|Music,Amy Poehler,Alvin and the Chipmunks: Chipwrecked ,4073,0,chipmunk|cruise ship|football ball|overboard|tennis ball,http://www.imdb.com/title/tt1615918/?ref_=fn_tt_tt_1,56,English,USA,G,4.4,1.85,0
-139,101,221,133668525,Comedy,Steve Buscemi,Grown Ups 2 ,39269,4,belching|number in title|party|reference to nicki minaj|sneezing,http://www.imdb.com/title/tt2191701/?ref_=fn_tt_tt_1,255,English,USA,PG-13,5.4,1.85,14000
-265,110,88,130313314,Action|Adventure|Comedy,Bill Murray,Get Smart ,44798,1,airplane|misunderstanding|obese woman|overweight woman|spy,http://www.imdb.com/title/tt0425061/?ref_=fn_tt_tt_1,380,English,USA,PG-13,6.5,1.85,0
-145,128,278,124590960,Comedy|Drama|Romance,Keanu Reeves,Something's Gotta Give ,22679,1,beach|dating|doctor|heart attack|weekend,http://www.imdb.com/title/tt0337741/?ref_=fn_tt_tt_1,402,English,USA,PG-13,6.7,1.85,0
-490,138,17000,127968405,Mystery|Thriller,Leonardo DiCaprio,Shutter Island ,29585,0,female prisoner|plot twist|self delusion|surprise ending|year 1954,http://www.imdb.com/title/tt1130884/?ref_=fn_tt_tt_1,964,English,USA,R,8.1,2.35,53000
-141,88,91,120136047,Comedy|Drama|Romance,Jon Favreau,Four Christmases ,9913,2,airport|christmas|news broadcast|tv broadcast|tv news,http://www.imdb.com/title/tt0369436/?ref_=fn_tt_tt_1,124,English,Germany,PG-13,5.6,1.85,0
-163,91,77,128200012,Adventure|Animation|Comedy|Family|Sci-Fi,Jim Broadbent,Robots ,1804,1,actor voicing multiple characters|box office hit|coffee|plate|robot,http://www.imdb.com/title/tt0358082/?ref_=fn_tt_tt_1,269,English,USA,PG,6.3,1.85,0
-155,138,610,112225777,Action|Crime|Sci-Fi|Thriller,Nicolas Cage,Face/Off ,17087,0,death of child|face|face transplant|prison|terrorist,http://www.imdb.com/title/tt0119094/?ref_=fn_tt_tt_1,535,English,USA,R,7.3,2.35,11000
-144,99,163,109993847,Comedy|Family|Fantasy|Romance,Adam Sandler,Bedtime Stories ,12831,0,2000s|bedtime story|elephant|handyman|tween girl,http://www.imdb.com/title/tt0960731/?ref_=fn_tt_tt_1,116,English,USA,PG,6.1,2.35,0
-226,117,0,104054514,Crime|Drama|Thriller,Tom Hanks,Road to Perdition ,16828,0,1930s|blood|gun|on the run|revenge,http://www.imdb.com/title/tt0257044/?ref_=fn_tt_tt_1,1009,English,USA,R,7.7,2.35,0
-204,117,221,103028109,Comedy|Romance,Adam Sandler,Just Go with It ,16325,1,chick flick|hawaii|love|plastic surgeon|woman wearing a string bikini,http://www.imdb.com/title/tt1564367/?ref_=fn_tt_tt_1,203,English,USA,PG-13,6.4,1.85,19000
-95,54,,,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Elden Henson,Daredevil             ,581,0,corruption|lawyer|partnership|superhero|vigilante,http://www.imdb.com/title/tt3322312/?ref_=fn_tt_tt_1,394,English,USA,TV-MA,8.8,16.0,55000
-139,123,165,101087161,Action|Crime|Thriller,Steve Buscemi,Con Air ,15362,6,army rangers|convict|criminal|escape|prison,http://www.imdb.com/title/tt0118880/?ref_=fn_tt_tt_1,339,English,USA,R,6.8,2.35,0
-215,118,154,101111837,Action|Mystery|Thriller,Rosario Dawson,Eagle Eye ,5637,3,audio surveillance|death|pentagon|technology|twin brother,http://www.imdb.com/title/tt1059786/?ref_=fn_tt_tt_1,318,English,USA,PG-13,6.6,2.35,0
-198,154,333,95632614,Adventure|Drama|History|Romance|War,Philip Seymour Hoffman,Cold Mountain ,61110,3,civil war|mountain|soldier|well|wounded soldier,http://www.imdb.com/title/tt0159365/?ref_=fn_tt_tt_1,674,English,USA,R,7.2,2.35,0
-325,118,117,94822707,Action|Adventure|Drama|Thriller,Denzel Washington,The Book of Eli ,44797,0,blind|book|long take|post apocalypse|water,http://www.imdb.com/title/tt1037705/?ref_=fn_tt_tt_1,560,English,USA,R,6.9,2.35,20000
-53,90,10,92969824,Comedy|Family|Sci-Fi,Robin Williams,Flubber ,50005,1,college|flubber|flying rubber|professor|wedding,http://www.imdb.com/title/tt0119137/?ref_=fn_tt_tt_1,64,English,USA,PG,5.2,1.85,0
-167,113,101,91188905,Fantasy|Horror|Mystery|Thriller,Liam Neeson,The Haunting ,17786,0,greenhouse|haunted house|horror movie remake|mansion|old house,http://www.imdb.com/title/tt0171363/?ref_=fn_tt_tt_1,805,English,USA,PG-13,4.9,2.35,0
-46,88,30,90443603,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Bill Murray,Space Jam ,15001,1,alien|basketball|basketball game|cult film|monstars,http://www.imdb.com/title/tt0117705/?ref_=fn_tt_tt_1,123,English,USA,PG,6.3,1.77,0
-147,93,189,82226474,Adventure|Comedy|Crime|Family|Mystery,Roger Rees,The Pink Panther ,1267,0,diamond|france|investigation|pink panther|soccer,http://www.imdb.com/title/tt0383216/?ref_=fn_tt_tt_1,424,English,USA,PG,5.6,1.85,0
-276,104,301,79363785,Drama|Sci-Fi|Thriller,Keanu Reeves,The Day the Earth Stood Still ,22194,0,alien|earth|giant robot|military|scientist,http://www.imdb.com/title/tt0970416/?ref_=fn_tt_tt_1,698,English,USA,PG-13,5.5,2.35,0
-80,135,503,76081498,Action|Crime|Mystery|Romance|Thriller,Julia Roberts,Conspiracy Theory ,8355,1,conspiracy|fbi|mk ultra|newsletter|taxi,http://www.imdb.com/title/tt0118883/?ref_=fn_tt_tt_1,162,English,USA,R,6.7,2.35,0
-406,134,452,85707116,Action|Drama|War,Brad Pitt,Fury ,20411,4,battle|battlefield|brutality|combat|tank,http://www.imdb.com/title/tt2713180/?ref_=fn_tt_tt_1,701,English,USA,R,7.6,2.35,82000
-97,98,425,74329966,Action|Adventure|Comedy|Romance,Harrison Ford,Six Days Seven Nights ,12729,2,airplane|island|pilot|storm|thunderstorm,http://www.imdb.com/title/tt0120828/?ref_=fn_tt_tt_1,164,English,USA,PG-13,5.7,2.35,0
-143,80,40,100169068,Adventure|Animation|Comedy|Family,Justin Timberlake,Yogi Bear ,4394,0,bear|mayor|park|sabotage|yogi bear,http://www.imdb.com/title/tt1302067/?ref_=fn_tt_tt_1,100,English,USA,PG,4.6,1.85,0
-106,83,21,73215310,Adventure|Animation|Family|Western,Matt Damon,Spirit: Stallion of the Cimarron ,14261,0,cavalry|escape|herd|stallion|wild stallion,http://www.imdb.com/title/tt0166813/?ref_=fn_tt_tt_1,216,English,USA,G,7.0,2.35,4000
-178,102,153,80360866,Comedy|Family|Romance,Rosario Dawson,Zookeeper ,5392,1,champagne bottle|coca cola|jewelry box|red bull|zoo,http://www.imdb.com/title/tt1222817/?ref_=fn_tt_tt_1,127,English,USA,PG,5.2,2.35,0
-102,130,81,69102910,Action|Adventure|Family|Sci-Fi|Thriller,Gary Oldman,Lost in Space ,12186,0,based on tv series|remake|robot|scientist|spaceship,http://www.imdb.com/title/tt0120738/?ref_=fn_tt_tt_1,370,English,USA,PG-13,5.1,2.35,0
-209,129,438,65948711,Drama|Mystery|Sci-Fi|Thriller,Denzel Washington,The Manchurian Candidate ,20056,1,brainwashed assassin|conspiracy|critically acclaimed|mother son relationship|soldier,http://www.imdb.com/title/tt0368008/?ref_=fn_tt_tt_1,363,English,USA,R,6.6,1.85,0
-19,117,69,821997,Drama|Romance,Vanessa Redgrave,Déjà Vu ,1753,0,american|love|pin|ruby|stranger,http://www.imdb.com/title/tt0119033/?ref_=fn_tt_tt_1,40,English,USA,PG-13,7.0,1.85,91
-152,89,266,169692572,Animation|Comedy|Family|Fantasy,Steve Buscemi,Hotel Transylvania 2 ,26839,0,california|dracula|hotel|transylvania|vampire,http://www.imdb.com/title/tt2510894/?ref_=fn_tt_tt_1,97,English,USA,PG,6.7,1.85,16000
-31,25,,,Comedy|Family|Fantasy,Elizabeth Montgomery,Bewitched             ,2614,1,connecticut|magic|marriage|witch|witchcraft,http://www.imdb.com/title/tt0057733/?ref_=fn_tt_tt_1,71,English,USA,TV-G,7.6,4.0,0
-129,74,11,60507228,Animation|Family|Fantasy|Music,Quincy Jones,Fantasia 2000 ,814,0,abstract|ark|disney|fairy tale|piano,http://www.imdb.com/title/tt0120910/?ref_=fn_tt_tt_1,186,English,USA,G,7.3,1.78,607
-124,96,25,56684819,Action|Adventure|Sci-Fi,Mark Addy,The Time Machine ,1919,0,hunter|scientist|time machine|time travel|time travel romance,http://www.imdb.com/title/tt0268695/?ref_=fn_tt_tt_1,615,English,USA,PG-13,5.9,2.35,3000
-35,114,31,50628009,Action|Adventure|Family|Fantasy|Thriller,Charlize Theron,Mighty Joe Young ,10731,0,animal|california|gorilla|hunter|poacher,http://www.imdb.com/title/tt0120751/?ref_=fn_tt_tt_1,88,English,USA,PG,5.6,1.85,0
-166,99,57,69772969,Action|Crime|Thriller,Hugh Jackman,Swordfish ,25942,4,computer|secret agent|terrorism|told in flashback|wearing a sound wire,http://www.imdb.com/title/tt0244244/?ref_=fn_tt_tt_1,543,English,USA,R,6.5,2.35,0
-137,129,258,45356386,Action|Adventure|Western,Michael Emerson,The Legend of Zorro ,2864,1,california|fight|hero|mask|zorro,http://www.imdb.com/title/tt0386140/?ref_=fn_tt_tt_1,244,Spanish,USA,PG,5.9,2.35,951
-121,113,25,55350897,Drama|Fantasy|Romance,Robin Williams,What Dreams May Come ,49631,1,heaven|hell|soul|soul mate|suicide,http://www.imdb.com/title/tt0120889/?ref_=fn_tt_tt_1,619,English,USA,PG-13,7.0,2.35,32000
-87,90,65,39442871,Comedy|Fantasy,Adam Sandler,Little Nicky ,25190,0,angel|devil|flask|hell|the devil,http://www.imdb.com/title/tt0185431/?ref_=fn_tt_tt_1,237,English,USA,PG-13,5.3,1.85,0
-233,118,0,37899638,Action|Adventure|Comedy|Fantasy|Thriller,Matt Damon,The Brothers Grimm ,27114,2,creature|curse|exorcism|girl|village,http://www.imdb.com/title/tt0355295/?ref_=fn_tt_tt_1,492,English,USA,PG-13,5.9,1.85,0
-132,106,13000,37754208,Action|Comedy|Sci-Fi,Natalie Portman,Mars Attacks! ,22590,3,alien|general|martian|president|weapon,http://www.imdb.com/title/tt0116996/?ref_=fn_tt_tt_1,405,English,USA,PG-13,6.3,2.35,0
-63,81,92,,Drama|Horror|Mystery|Sci-Fi,Nissim Renard,Evolution ,54,0,boy|giving birth|nurse|sea|ultrasonography,http://www.imdb.com/title/tt4291590/?ref_=fn_tt_tt_1,3,French,France,,6.4,2.35,257
-95,117,93,27779888,Action|Adventure|Drama|Thriller,Anthony Hopkins,The Edge ,14831,2,bear|billionaire|crash|survival tactics|wilderness,http://www.imdb.com/title/tt0119051/?ref_=fn_tt_tt_1,182,English,USA,R,6.9,2.35,0
-258,89,84,38542418,Action|Sci-Fi|Thriller,Bruce Willis,Surrogates ,18132,5,android|fbi agent|future|murder|robot,http://www.imdb.com/title/tt0986263/?ref_=fn_tt_tt_1,252,English,USA,PG-13,6.3,2.35,0
-162,145,79,34566746,Drama|History|Thriller,Bruce Greenwood,Thirteen Days ,1825,1,blockade|crisis|cuba|missile|president,http://www.imdb.com/title/tt0146309/?ref_=fn_tt_tt_1,315,English,USA,PG-13,7.3,1.85,0
-61,114,357,32885565,Action|Adventure|Drama|Thriller,Sylvester Stallone,Daylight ,25126,0,collapsing tunnel|explosion|new jersey|tunnel|weimaraner,http://www.imdb.com/title/tt0116040/?ref_=fn_tt_tt_1,101,English,USA,PG-13,5.8,1.85,0
-113,87,43,36073232,Adventure|Animation|Family,Charlie Rowe,Walking with Dinosaurs 3D ,1971,0,brother|dinosaur|head butt|hero|orphan,http://www.imdb.com/title/tt1762399/?ref_=fn_tt_tt_1,66,English,USA,PG,5.2,2.35,0
-174,119,64,21471685,Action|Adventure|Sci-Fi,Richard Tyson,Battlefield Earth ,971,0,alien|bad acting|pulp fiction|resistance fighter|voyager golden record,http://www.imdb.com/title/tt0185183/?ref_=fn_tt_tt_1,1308,English,USA,PG-13,2.4,2.35,0
-101,91,287,20950820,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Brendan Fraser,Looney Tunes: Back in Action ,5593,4,diamond|duck|monkey|spy|stuntman,http://www.imdb.com/title/tt0318155/?ref_=fn_tt_tt_1,160,English,Germany,PG,5.7,2.35,665
-205,118,252,19673424,Drama|Musical|Romance,Fergie,Nine ,619,4,based on stage musical based on film|child abuse|film director|italian|mistress,http://www.imdb.com/title/tt0875034/?ref_=fn_tt_tt_1,232,English,USA,PG-13,5.8,2.35,0
-123,116,503,19480739,Action|Adventure|Sci-Fi,Paul Walker,Timeline ,43887,0,castle|france|professor|student|time machine,http://www.imdb.com/title/tt0300556/?ref_=fn_tt_tt_1,457,English,USA,PG-13,5.6,2.35,0
-79,177,0,17593391,Action|Adventure|Drama|Sci-Fi,Olivia Williams,The Postman ,4346,1,drifter|escape|hope|postman|usa,http://www.imdb.com/title/tt0119925/?ref_=fn_tt_tt_1,376,English,USA,R,6.0,2.35,0
-61,97,750,18318000,Adventure|Comedy|Drama|Family|Fantasy,Adam Goldberg,Babe: Pig in the City ,2521,0,animal|farm|farmer|hotel|pig,http://www.imdb.com/title/tt0120595/?ref_=fn_tt_tt_1,216,English,Australia,G,5.8,1.85,964
-202,106,42,27356090,Action|Adventure|Fantasy,Vin Diesel,The Last Witch Hunter ,16922,0,box office flop|burned to death|magic|witch|witch hunter,http://www.imdb.com/title/tt1618442/?ref_=fn_tt_tt_1,117,English,USA,PG-13,6.0,2.35,21000
-145,106,14,17473245,Action|Sci-Fi|Thriller,Bob Neill,Red Planet ,2,1,astronaut|mars|robot|robot as menace|survival,http://www.imdb.com/title/tt0199753/?ref_=fn_tt_tt_1,348,English,USA,PG-13,5.7,2.35,995
-101,94,0,15131330,Adventure|Animation|Family|Fantasy,Mia Farrow,Arthur and the Invisibles ,683,0,boy|debt|garden|princess|treasure,http://www.imdb.com/title/tt0344854/?ref_=fn_tt_tt_1,64,English,France,PG,6.0,2.35,941
-113,104,63,19406406,Documentary|Drama,Pedro Armendáriz Jr.,Oceans ,152,0,damselfish|ocean habitat|ocean life|razorfish|spider crab,http://www.imdb.com/title/tt0765128/?ref_=fn_tt_tt_1,42,French,France,G,7.8,2.35,0
-113,102,0,1891821,Action|Adventure|Horror|Sci-Fi|Thriller,David Oyelowo,A Sound of Thunder ,1890,0,butterfly|hunter|time|time travel|wave,http://www.imdb.com/title/tt0318081/?ref_=fn_tt_tt_1,301,English,UK,PG-13,4.2,2.35,785
-272,105,545,23219748,Action|Adventure|Drama|History|Romance,Sasha Roiz,Pompeii ,1099,0,arena|lava bomb|mount vesuvius|pompeii|slave,http://www.imdb.com/title/tt1921064/?ref_=fn_tt_tt_1,308,English,Canada,PG-13,5.6,2.35,20000
-3,89,0,,Animation|Family,Sariann Monaco,Top Cat Begins ,370,0,,http://www.imdb.com/title/tt4057916/?ref_=fn_tt_tt_1,1,Spanish,Mexico,PG,4.4,,138
-205,135,2000,170708996,Biography|Drama,Adam Goldberg,A Beautiful Mind ,2827,0,conspiracy|cryptography|mathematician|mental illness|nobel prize,http://www.imdb.com/title/tt0268978/?ref_=fn_tt_tt_1,1171,English,USA,PG-13,8.2,1.85,29000
-186,73,28,422783777,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,The Lion King ,6458,0,king|prince|scar|uncle|unnecessary guilt,http://www.imdb.com/title/tt0110357/?ref_=fn_tt_tt_1,656,English,USA,G,8.5,1.66,17000
-178,94,62,103812241,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Josh Hutcherson,Journey 2: The Mysterious Island ,27842,3,gold|hurricane|island|mountain|mysterious island,http://www.imdb.com/title/tt1397514/?ref_=fn_tt_tt_1,133,English,USA,PG,5.8,1.85,0
-169,95,18,119793567,Animation|Comedy|Family|Fantasy|Sci-Fi,Will Forte,Cloudy with a Chance of Meatballs 2 ,848,0,food|inventor|island|orangutan|scientist,http://www.imdb.com/title/tt1985966/?ref_=fn_tt_tt_1,85,English,USA,PG,6.5,2.35,15000
-210,124,420,92930005,Crime|Drama|Thriller,Philip Seymour Hoffman,Red Dragon ,35867,0,criminal profile|fbi agent|madman|tabloid reporter|tragic villain,http://www.imdb.com/title/tt0289765/?ref_=fn_tt_tt_1,764,English,Germany,R,7.2,2.35,0
-140,136,394,67286731,Action|Adventure|Western,J.K. Simmons,Hidalgo ,36925,1,arab|cowboy|horse|race|sheik,http://www.imdb.com/title/tt0317648/?ref_=fn_tt_tt_1,345,English,USA,PG-13,6.7,2.35,0
-156,91,221,74158157,Comedy,Al Pacino,Jack and Jill ,27405,2,advertising|advertising executive|commercial|protective male|twins,http://www.imdb.com/title/tt0810913/?ref_=fn_tt_tt_1,264,English,USA,PG,3.4,1.85,0
-150,107,309,127083765,Action|Crime|Thriller,Paul Walker,2 Fast 2 Furious ,25296,5,bust|racing|shotgun|street racing|undercover agent,http://www.imdb.com/title/tt0322259/?ref_=fn_tt_tt_1,370,English,USA,PG-13,5.9,2.35,0
-119,108,54,1339152,Adventure|Animation|Drama|Family|Fantasy,Jeff Bridges,The Little Prince ,30230,1,aviator|based on book|girl|little girl|the little prince,http://www.imdb.com/title/tt1754656/?ref_=fn_tt_tt_1,64,English,France,PG,7.8,2.35,31000
-232,99,101,15071514,Sci-Fi|Thriller,Roger Rees,The Invasion ,2323,2,alien|epidemic|psychiatrist|space shuttle|virus,http://www.imdb.com/title/tt0427392/?ref_=fn_tt_tt_1,273,English,USA,PG-13,5.9,1.85,0
-49,92,5,26000610,Adventure|Animation|Comedy|Family|Fantasy,Robert De Niro,The Adventures of Rocky & Bullwinkle ,28050,0,deforestation|fbi|lighthouse|moose|squirrel,http://www.imdb.com/title/tt0131704/?ref_=fn_tt_tt_1,197,English,USA,PG,4.1,1.85,413
-165,87,11,323505540,Animation|Comedy|Family,Steve Coogan,The Secret Life of Pets ,4782,0,animal control|lost animal|mongrel|pet|terrier,http://www.imdb.com/title/tt2709768/?ref_=fn_tt_tt_1,155,English,Japan,PG,6.8,1.85,36000
-202,110,45,66462600,Action|Adventure|Fantasy|Sci-Fi,Jason Flemyng,The League of Extraordinary Gentlemen ,4714,3,box office flop|captain nemo|dorian gray|invisible man|steampunk,http://www.imdb.com/title/tt0311429/?ref_=fn_tt_tt_1,786,English,USA,PG-13,5.8,2.35,0
-306,98,275,368049635,Animation|Comedy|Family|Sci-Fi,Steve Carell,Despicable Me 2 ,11905,0,dating|minion|overprotective father|undercover spy|woman agent,http://www.imdb.com/title/tt1690953/?ref_=fn_tt_tt_1,284,English,USA,PG,7.5,1.85,56000
-185,154,776,306124059,Action|Adventure|Sci-Fi,Will Smith,Independence Day ,16785,0,alien|area 51|military|spacecraft|spaceship,http://www.imdb.com/title/tt0116629/?ref_=fn_tt_tt_1,856,English,USA,PG-13,6.9,2.35,16000
-177,129,14000,229074524,Action|Adventure|Sci-Fi,Ariana Richards,The Lost World: Jurassic Park ,1635,0,capture|dinosaur|island|jurassic|jurassic park,http://www.imdb.com/title/tt0119567/?ref_=fn_tt_tt_1,552,English,USA,PG-13,6.5,1.85,0
-181,86,35,193136719,Adventure|Animation|Comedy|Family,Jada Pinkett Smith,Madagascar ,1777,0,escape|jungle|lemur|madagascar|zoo,http://www.imdb.com/title/tt0351283/?ref_=fn_tt_tt_1,385,English,USA,PG,6.9,1.85,0
-372,109,0,35286428,Drama|Sci-Fi|Thriller,Charlie Hunnam,Children of Men ,16479,0,chaos|england|long take|survival|violence,http://www.imdb.com/title/tt0206634/?ref_=fn_tt_tt_1,1206,English,USA,R,7.9,1.85,17000
-290,104,0,157299717,Action|Adventure|Sci-Fi,Hugh Jackman,X-Men ,21397,0,first part|mutant|professor|superhero|superhero team,http://www.imdb.com/title/tt0120903/?ref_=fn_tt_tt_1,1401,English,USA,PG-13,7.4,2.35,0
-316,110,335,134568845,Action|Crime|Fantasy|Thriller,Angelina Jolie Pitt,Wanted ,25763,0,assassin|bobble head doll|femme fatale|rejuvenation|strong female lead,http://www.imdb.com/title/tt0493464/?ref_=fn_tt_tt_1,713,English,USA,R,6.7,2.35,0
-122,136,0,134006721,Action|Adventure|Thriller,Nicolas Cage,The Rock ,15999,1,alcatraz|fbi|general|hostage|rocket,http://www.imdb.com/title/tt0117500/?ref_=fn_tt_tt_1,415,English,USA,R,7.4,2.35,51000
-164,115,107,195329763,Action|Adventure|Animation|Comedy|Family|Fantasy,Denis Leary,Ice Age: The Meltdown ,1815,0,flood|mammoth|no opening credits|squirrel|valley,http://www.imdb.com/title/tt0438097/?ref_=fn_tt_tt_1,253,English,USA,PG,6.9,1.85,0
-147,99,88,120776832,Comedy|Romance,Adam Sandler,50 First Dates ,12952,2,dream|hawaii|hawaiian shirt|short term memory loss|veterinarian,http://www.imdb.com/title/tt0343660/?ref_=fn_tt_tt_1,456,English,USA,PG-13,6.8,2.35,11000
-219,117,163,118823091,Comedy|Drama|Family|Music|Musical|Romance,Jerry Stiller,Hairspray ,1673,9,audition|best friend|dance|friend|tv dance show,http://www.imdb.com/title/tt0427327/?ref_=fn_tt_tt_1,401,English,USA,PG,6.7,2.35,0
-167,125,212,41814863,Horror|Mystery|Thriller,James D'Arcy,Exorcist: The Beginning ,1970,0,archeologist|church|excavation|faith|relic,http://www.imdb.com/title/tt0204313/?ref_=fn_tt_tt_1,308,English,USA,R,5.1,2.0,893
-70,110,16,97360069,Action|Adventure|Comedy|Family|Sci-Fi,Matthew Broderick,Inspector Gadget ,5320,0,actor playing multiple roles|claw|gadget|inspector|police,http://www.imdb.com/title/tt0141369/?ref_=fn_tt_tt_1,231,English,USA,PG,4.1,1.85,509
-384,125,255,117698894,Crime|Mystery|Thriller,Morgan Freeman,Now You See Me ,13312,6,bank|fbi|heist|interpol|magician,http://www.imdb.com/title/tt1670345/?ref_=fn_tt_tt_1,629,English,USA,PG-13,7.3,2.35,105000
-179,102,221,162001186,Comedy,Steve Buscemi,Grown Ups ,28497,4,basketball|coach|daughter|high school|high school basketball,http://www.imdb.com/title/tt1375670/?ref_=fn_tt_tt_1,311,English,USA,PG-13,6.0,1.85,12000
-151,128,14000,77032279,Comedy|Drama,Tom Hanks,The Terminal ,16199,0,airport|construction site|fish out of water|flight attendant|man without a country,http://www.imdb.com/title/tt0362227/?ref_=fn_tt_tt_1,596,English,USA,PG-13,7.3,1.85,16000
-12,43,,,Drama|Fantasy|Horror|Thriller,Harold Perrineau,Constantine             ,1990,1,based on comic|based on comic book|dc arrowverse|dc comics|supernatural,http://www.imdb.com/title/tt3489184/?ref_=fn_tt_tt_1,94,English,USA,TV-14,7.5,16.0,10000
-107,100,87,73023275,Comedy|Family,Don Cheadle,Hotel for Dogs ,5174,4,abandoned hotel|dog|foster home|overalls|playing with a dog,http://www.imdb.com/title/tt0785006/?ref_=fn_tt_tt_1,57,English,USA,PG,5.4,1.85,1000
-134,124,258,68473360,Action|Adventure|Drama|Thriller,Nicholas Lea,Vertical Limit ,3424,0,death|die hard scenario|k2|rescue|urination,http://www.imdb.com/title/tt0190865/?ref_=fn_tt_tt_1,379,English,USA,PG-13,5.9,1.85,0
-269,102,0,66636385,Biography|Comedy|Drama|History,Philip Seymour Hoffman,Charlie Wilson's War ,60646,1,afghanistan|arms dealer|based on true story|cia|texas,http://www.imdb.com/title/tt0472062/?ref_=fn_tt_tt_1,289,English,USA,R,7.1,1.85,0
-143,90,10,160762022,Adventure|Animation|Comedy|Family,Robert De Niro,Shark Tale ,63165,0,anchor|fish|mobster|shark|vegetarian,http://www.imdb.com/title/tt0307453/?ref_=fn_tt_tt_1,288,English,USA,PG,6.0,1.85,0
-241,130,386,103338338,Drama|Music|Musical,Loretta Devine,Dreamgirls ,2856,0,1960s|fire|pop chart|singer|trio,http://www.imdb.com/title/tt0443489/?ref_=fn_tt_tt_1,503,English,USA,PG-13,6.5,2.35,0
-12,45,,,Crime|Drama|Mystery,Adam Arkin,Life             ,504,1,cop|murder|partner|police|protective male,http://www.imdb.com/title/tt0874936/?ref_=fn_tt_tt_1,67,English,USA,,8.3,,0
-161,118,473,55808744,Comedy|Crime|Music,Dwayne Johnson,Be Cool ,15889,4,concert|mobster|russian|sequel|widow,http://www.imdb.com/title/tt0377471/?ref_=fn_tt_tt_1,323,English,USA,PG-13,5.7,2.4,0
-298,163,14000,47379090,Drama|History|Thriller,Ayelet Zurer,Munich ,2529,0,arab|black september|israel|jew|munich olympics,http://www.imdb.com/title/tt0408306/?ref_=fn_tt_tt_1,824,English,France,R,7.6,2.35,0
-89,142,845,43426961,Action|Drama|Thriller|War,Bruce Willis,Tears of the Sun ,16580,1,dictator|doctor|jungle|rebel|refugee,http://www.imdb.com/title/tt0314353/?ref_=fn_tt_tt_1,394,English,USA,R,6.6,2.35,0
-140,100,126,47000485,Action|Comedy|Romance|Thriller,Tom Selleck,Killers ,25206,2,hired killer|marriage|neighbor|on the run|store clerk,http://www.imdb.com/title/tt1103153/?ref_=fn_tt_tt_1,120,English,USA,PG-13,5.4,2.35,0
-362,116,0,45434443,Action|Adventure|Comedy,Henry Cavill,The Man from U.N.C.L.E. ,15735,2,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,http://www.imdb.com/title/tt1638355/?ref_=fn_tt_tt_1,360,English,USA,PG-13,7.3,2.35,43000
-124,131,274,42044321,Comedy|Drama|Romance,Adam Sandler,Spanglish ,12522,2,chef|college|housekeeper|letter|mexico,http://www.imdb.com/title/tt0371246/?ref_=fn_tt_tt_1,342,English,USA,PG-13,6.5,1.85,0
-190,91,27,73661010,Animation|Comedy|Family|Fantasy|Mystery,Steve Buscemi,Monster House ,17299,0,babysitter|halloween|house|neighbor|suburb,http://www.imdb.com/title/tt0385880/?ref_=fn_tt_tt_1,229,English,USA,PG,6.6,2.35,0
-132,123,272,41523271,Comedy|Crime|Drama|Romance,Bruce Willis,Bandits ,13934,2,bank manager|hypochondriac|love triangle|prison|television,http://www.imdb.com/title/tt0219965/?ref_=fn_tt_tt_1,261,English,USA,PG-13,6.6,2.35,0
-53,134,109,37600435,Action|Adventure|Romance|Thriller,Julia Ormond,First Knight ,1695,3,battle|king|king arthur|knight|marriage,http://www.imdb.com/title/tt0113071/?ref_=fn_tt_tt_1,180,English,USA,PG-13,5.9,1.85,0
-91,148,72,39251128,Drama|History|Romance,Bai Ling,Anna and the King ,804,2,1860s|children|king|schoolteacher|siam,http://www.imdb.com/title/tt0166485/?ref_=fn_tt_tt_1,217,English,USA,PG-13,6.7,2.35,0
-284,110,763,83503161,Action|Drama|Fantasy|Romance,Henry Cavill,Immortals ,16691,1,burned alive|castration|olympus|torture|torture device,http://www.imdb.com/title/tt1253864/?ref_=fn_tt_tt_1,405,English,USA,R,6.1,1.85,30000
-152,113,17,34636443,Action|Crime|Drama|Mystery|Thriller,Jimmy Bennett,Hostage ,103354,0,california|hostage|hostage negotiator|organized crime|police,http://www.imdb.com/title/tt0340163/?ref_=fn_tt_tt_1,288,English,USA,R,6.6,2.35,0
-131,94,383,22751979,Action|Adventure|Animation|Family|Sci-Fi,Matt Damon,Titan A.E. ,15857,0,alien|captain|escape|pilot|scientist,http://www.imdb.com/title/tt0120913/?ref_=fn_tt_tt_1,377,English,USA,PG,6.6,2.35,0
-132,116,41,30013346,Action|Comedy|Crime|Thriller,Harrison Ford,Hollywood Homicide ,14028,2,audition|kissing while having sex|machismo|murder|sex,http://www.imdb.com/title/tt0329717/?ref_=fn_tt_tt_1,254,English,USA,PG-13,5.3,2.35,648
-67,99,545,14567883,Action|Drama|Sci-Fi,Connie Nielsen,Soldier ,2542,1,crash survivor|planet|sergeant|soldier|survivor,http://www.imdb.com/title/tt0120157/?ref_=fn_tt_tt_1,373,English,UK,R,6.0,2.35,0
-130,84,10,90820,Drama|Horror|Sci-Fi|Thriller,Christopher Meloni,Carriers ,4368,0,beach|disease|latex gloves|pandemic|virus,http://www.imdb.com/title/tt0806203/?ref_=fn_tt_tt_1,119,English,USA,PG-13,6.0,2.35,0
-74,93,253,5409517,Animation|Comedy|Fantasy,Brendan Fraser,Monkeybone ,5580,0,carnival|coma|death|monkey|nightmare,http://www.imdb.com/title/tt0166276/?ref_=fn_tt_tt_1,171,English,USA,PG-13,4.7,1.85,683
-114,113,212,21009180,Action|Adventure|Drama|Thriller,Dennis Quaid,Flight of the Phoenix ,4397,4,captain|desert|rescue|stranded|survivor,http://www.imdb.com/title/tt0377062/?ref_=fn_tt_tt_1,222,English,USA,PG-13,6.1,2.35,1000
-294,106,0,94999143,Drama|Mystery|Sci-Fi|Thriller,Robin Wright,Unbreakable ,33645,0,child with gun|comic book|invulnerability|superhero|train crash,http://www.imdb.com/title/tt0217869/?ref_=fn_tt_tt_1,1344,English,USA,PG-13,7.2,2.35,0
-308,91,22,336029560,Action|Animation|Comedy|Family|Sci-Fi,Steve Carell,Minions ,13616,0,antarctica|minion|queen|super villain|villain,http://www.imdb.com/title/tt2293640/?ref_=fn_tt_tt_1,275,English,USA,PG,6.4,1.85,70000
-435,128,0,36381716,Action|Fantasy,Jon Hamm,Sucker Punch ,7067,4,alternate reality|escape|girl gang|prostitution|samurai,http://www.imdb.com/title/tt0978764/?ref_=fn_tt_tt_1,918,English,USA,PG-13,6.1,2.35,42000
-117,98,0,55585389,Crime|Mystery|Thriller,Nicolas Cage,Snake Eyes ,15269,1,assassination|boxing|casino|conspiracy|long take,http://www.imdb.com/title/tt0120832/?ref_=fn_tt_tt_1,241,English,USA,R,5.9,2.35,880
-108,134,272,36976367,Drama|Mystery|Sci-Fi|Thriller,Peter Coyote,Sphere ,1044,3,manifestation|ocean|spacecraft|spaceship|sphere,http://www.imdb.com/title/tt0120184/?ref_=fn_tt_tt_1,274,English,USA,PG-13,6.0,2.35,0
-141,97,6,107225164,Action|Animation|Comedy|Family,Peter Dinklage,The Angry Birds Movie ,24350,0,butt|downward duck|fish|kingfisher|pig,http://www.imdb.com/title/tt1985949/?ref_=fn_tt_tt_1,126,English,USA,PG,6.3,1.85,14000
-176,112,72,70224196,Action|Adventure|Comedy|Romance|Thriller,Matthew McConaughey,Fool's Gold ,13827,0,debt|rapper|treasure|treasure hunter|yacht,http://www.imdb.com/title/tt0770752/?ref_=fn_tt_tt_1,138,English,USA,PG-13,5.6,2.35,0
-230,153,0,51814190,Comedy|Drama,Adam Sandler,Funny People ,11852,1,breasts|comedian|craigslist|infidelity|stand up comedian,http://www.imdb.com/title/tt1201167/?ref_=fn_tt_tt_1,301,English,USA,R,6.4,1.85,0
-234,110,532,47456450,Action|Drama|Thriller,Jennifer Garner,The Kingdom ,5187,1,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,http://www.imdb.com/title/tt0431197/?ref_=fn_tt_tt_1,289,English,USA,R,7.1,2.35,0
-164,122,285,148213377,Action|Comedy|Sport,Will Ferrell,Talladega Nights: The Ballad of Ricky Bobby ,12410,5,car racing|french|friend|nascar|racing,http://www.imdb.com/title/tt0415306/?ref_=fn_tt_tt_1,437,English,USA,PG-13,6.6,2.35,0
-91,87,41,112950721,Comedy|Family|Fantasy,Raven-Symoné,Dr. Dolittle 2 ,3287,0,bear|doctor|false accusation|man with glasses|second part,http://www.imdb.com/title/tt0240462/?ref_=fn_tt_tt_1,79,English,USA,PG,4.6,2.35,266
-132,178,0,75600000,Biography|Drama|History|War,Mhairi Calvey,Braveheart ,1976,1,14th century|legend|revolt|scotland|tyranny,http://www.imdb.com/title/tt0112573/?ref_=fn_tt_tt_1,1065,English,USA,R,8.4,2.35,17000
-262,125,0,62647540,Action|Drama|War,Jake Gyllenhaal,Jarhead ,15850,0,american abroad|gulf war|u.s. military|u.s. soldier|usmc,http://www.imdb.com/title/tt0418763/?ref_=fn_tt_tt_1,657,English,Germany,R,7.1,2.35,0
-299,87,30,183132370,Adventure|Animation|Comedy,Albert Brooks,The Simpsons Movie ,3086,0,alaska|dome|lake|pig|the simpsons,http://www.imdb.com/title/tt0462538/?ref_=fn_tt_tt_1,763,English,USA,PG-13,7.4,2.35,0
-128,152,0,27796042,Drama|Romance,Martin Landau,The Majestic ,4310,1,amnesia|california|communist|small town|writer,http://www.imdb.com/title/tt0268995/?ref_=fn_tt_tt_1,376,English,USA,PG,6.9,1.85,0
-109,116,212,32616869,Action|Drama|Sport,Sylvester Stallone,Driven ,14780,0,car race|german|race car|race car driver|rookie,http://www.imdb.com/title/tt0132245/?ref_=fn_tt_tt_1,346,English,USA,PG-13,4.5,2.35,886
-88,109,218,18947630,Adventure|Drama|Family,David Gant,Two Brothers ,55,0,circus|death of protagonist|jungle|killing an animal|tiger,http://www.imdb.com/title/tt0338512/?ref_=fn_tt_tt_1,124,English,France,PG,7.1,2.35,2000
-261,108,0,114195633,Drama|Mystery|Romance|Thriller,Bryce Dallas Howard,The Village ,7273,0,creature|pact|plot twist|village|woods,http://www.imdb.com/title/tt0368447/?ref_=fn_tt_tt_1,2003,English,USA,PG-13,6.5,1.85,0
-73,85,84,144156464,Comedy|Family|Fantasy,Oliver Platt,Doctor Dolittle ,4166,0,box office hit|doctor|dog|first part|tiger,http://www.imdb.com/title/tt0118998/?ref_=fn_tt_tt_1,98,English,USA,PG-13,5.3,1.85,694
-208,106,0,227965690,Drama|Sci-Fi|Thriller,Rory Culkin,Signs ,1675,0,crop circle|faith|farm|glass of water|loss of faith,http://www.imdb.com/title/tt0286106/?ref_=fn_tt_tt_1,2335,English,USA,PG-13,6.7,1.85,0
-205,93,80,436471036,Adventure|Animation|Comedy|Family|Fantasy|Romance,Rupert Everett,Shrek 2 ,1148,1,drag queen|physical appearance|princess|queen|sequel,http://www.imdb.com/title/tt0298148/?ref_=fn_tt_tt_1,483,English,USA,PG,7.2,1.85,0
-256,117,487,244052771,Adventure|Animation|Comedy|Family|Sport,John Ratzenberger,Cars ,4905,0,car|desert|route 66|tow truck|truck,http://www.imdb.com/title/tt0317219/?ref_=fn_tt_tt_1,584,English,USA,G,7.2,2.35,0
-103,116,0,152149590,Comedy|Romance,Julia Roberts,Runaway Bride ,12790,2,bride|columnist|journalist|maryland|wedding,http://www.imdb.com/title/tt0163187/?ref_=fn_tt_tt_1,255,English,USA,PG,5.5,2.35,0
-191,132,357,141204016,Action|Adventure|Thriller,Vin Diesel,xXx ,14790,0,agent|nsa|nsa agent|prague|russian,http://www.imdb.com/title/tt0295701/?ref_=fn_tt_tt_1,737,English,USA,PG-13,5.8,2.35,10000
-147,92,5,162495848,Adventure|Animation|Comedy|Family|Fantasy,Tim Conway,The SpongeBob Movie: Sponge Out of Water ,5217,0,book|magic|pirate|plankton|time machine,http://www.imdb.com/title/tt2279373/?ref_=fn_tt_tt_1,133,English,USA,PG,6.0,1.85,16000
-79,139,2000,136448821,Crime|Thriller,Lili Taylor,Ransom ,3667,1,bounty|fbi|millionaire|money|ransom,http://www.imdb.com/title/tt0117438/?ref_=fn_tt_tt_1,158,English,USA,R,6.6,1.85,1000
-486,153,16000,120523073,Adventure|Drama|War,Michael Fassbender,Inglourious Basterds ,36741,1,france|german|nazis|revenge|scalping,http://www.imdb.com/title/tt0361748/?ref_=fn_tt_tt_1,1527,English,USA,R,8.3,2.35,42000
-75,142,14000,119654900,Adventure|Comedy|Family|Fantasy,Robin Williams,Hook ,64259,1,1990s|caught in a net|children|duel|hero,http://www.imdb.com/title/tt0102057/?ref_=fn_tt_tt_1,363,English,USA,PG,6.7,2.35,13000
-245,101,420,72660029,Action|Adventure,Dwayne Johnson,Hercules ,16235,0,army|greek mythology|hercules|king|mercenary,http://www.imdb.com/title/tt1267297/?ref_=fn_tt_tt_1,269,English,USA,PG-13,6.0,2.35,21000
-142,124,212,117541000,Action|Thriller,Bruce Willis,Die Hard 2 ,16595,0,airport|fuel|plane|police|terrorist,http://www.imdb.com/title/tt0099423/?ref_=fn_tt_tt_1,316,English,USA,R,7.1,2.35,0
-144,117,69,116643346,Action|Adventure|Crime|Thriller,Jeremy Renner,S.W.A.T. ,14486,1,hostage|police|prison|swat team|training,http://www.imdb.com/title/tt0257076/?ref_=fn_tt_tt_1,340,English,USA,PG-13,6.0,2.35,0
-39,45,,,Adventure|Drama|Fantasy|Mystery|Thriller,Nicole Beharie,Sleepy Hollow             ,1430,0,apocalypse|death|husband wife relationship|mother son relationship|murder,http://www.imdb.com/title/tt2647544/?ref_=fn_tt_tt_1,110,English,USA,TV-14,7.5,16.0,14000
-153,141,488,100614858,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Tom Cruise,Vanilla Sky ,11458,1,death|dream|love|lynchian|reality,http://www.imdb.com/title/tt0259711/?ref_=fn_tt_tt_1,1248,English,USA,R,6.9,1.85,0
-284,110,0,42272747,Drama|Fantasy|Mystery|Thriller,Bryce Dallas Howard,Lady in the Water ,5609,1,apartment|bedtime story|eagle|stuttering|swimming pool,http://www.imdb.com/title/tt0452637/?ref_=fn_tt_tt_1,1040,English,USA,PG-13,5.6,1.85,0
-247,109,545,80281096,Action|Horror|Sci-Fi|Thriller,Sanaa Lathan,AVP: Alien vs. Predator ,3222,0,alien|antarctica|predator|pyramid|satellite,http://www.imdb.com/title/tt0370263/?ref_=fn_tt_tt_1,1283,English,USA,PG-13,5.6,2.35,0
-107,88,84,219613391,Animation|Comedy|Family|Fantasy|Music,Amy Poehler,Alvin and the Chipmunks: The Squeakquel ,5227,0,adidas|chipmunk|hospital|school|waste container,http://www.imdb.com/title/tt1231580/?ref_=fn_tt_tt_1,98,English,USA,PG,4.5,1.85,2000
-141,124,130,78120196,Action|Drama|History|War,Jon Hamm,We Were Soldiers ,6181,0,air cavalry|battle|major|soldier|vietnamese,http://www.imdb.com/title/tt0277434/?ref_=fn_tt_tt_1,742,English,USA,R,7.1,2.35,5000
-358,119,845,98895417,Action|Thriller,Gerard Butler,Olympus Has Fallen ,31782,3,political thriller|politics|president|speaker of the house|u.s. president,http://www.imdb.com/title/tt2302755/?ref_=fn_tt_tt_1,698,English,USA,R,6.5,2.35,45000
-160,103,906,70117571,Action|Adventure|Sci-Fi|Thriller,LeVar Burton,Star Trek: Insurrection ,6207,0,alien|captain|commander|conspiracy|planet,http://www.imdb.com/title/tt0120844/?ref_=fn_tt_tt_1,515,English,USA,PG,6.4,2.35,1000
-355,116,473,83552429,Action|Sci-Fi,Noel Fisher,Battle Los Angeles ,4001,0,alien|extraterrestrial|invasion|marine|mission,http://www.imdb.com/title/tt1217613/?ref_=fn_tt_tt_1,800,English,USA,PG-13,5.8,2.35,25000
-235,125,13000,66257002,Adventure|Drama|Fantasy,Steve Buscemi,Big Fish ,16138,0,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,http://www.imdb.com/title/tt0319061/?ref_=fn_tt_tt_1,816,English,USA,PG-13,8.0,1.37,26000
-59,125,0,65012000,Drama|Horror|Romance|Thriller,David Hyde Pierce,Wolf ,1439,1,blood|publisher|publishing house|werewolf|wolf,http://www.imdb.com/title/tt0111742/?ref_=fn_tt_tt_1,137,English,USA,R,6.2,1.85,0
-388,146,14000,79883359,Drama|War,Jeremy Irvine,War Horse ,46726,1,barbed wire|british|cavalry|horse|world war one,http://www.imdb.com/title/tt1568911/?ref_=fn_tt_tt_1,488,English,USA,PG-13,7.2,2.35,28000
-371,118,0,78031620,Drama|War,Bill Murray,The Monuments Men ,27674,7,art|art expert|nazi stolen art|soldier|world war two,http://www.imdb.com/title/tt2177771/?ref_=fn_tt_tt_1,403,English,USA,PG-13,6.1,2.35,34000
-82,171,0,54222000,Adventure|Drama|Sci-Fi|Thriller,Michael Biehn,The Abyss ,4074,0,alien|estranged couple|ocean|submarine|underwater,http://www.imdb.com/title/tt0096754/?ref_=fn_tt_tt_1,380,English,USA,PG-13,7.6,2.35,0
-297,136,0,52474616,Drama,Frank Langella,Wall Street: Money Never Sleeps ,1579,2,corporate greed|crisis|economy|greed|mentor,http://www.imdb.com/title/tt1027718/?ref_=fn_tt_tt_1,245,English,USA,PG-13,6.3,2.35,13000
-261,92,28,55942830,Action|Drama|Fantasy|Horror|War,Dominic Cooper,Dracula Untold ,5178,1,death of wife|dracula|tarantula|turk|vampire,http://www.imdb.com/title/tt0829150/?ref_=fn_tt_tt_1,423,English,USA,PG-13,6.3,2.35,37000
-120,116,380,40932372,Action|Thriller,Denzel Washington,The Siege ,32563,0,abduction|martial law|military|new york city|terrorist,http://www.imdb.com/title/tt0133952/?ref_=fn_tt_tt_1,281,English,USA,R,6.3,2.35,0
-228,127,905,38345403,Adventure|Family|Fantasy|Romance,Henry Cavill,Stardust ,16034,8,king|magic|one word title|pirate|village,http://www.imdb.com/title/tt0486655/?ref_=fn_tt_tt_1,492,English,UK,PG-13,7.7,2.35,15000
-76,136,218,37901509,Adventure|Biography|Drama|History|War,Brad Pitt,Seven Years in Tibet ,12226,1,austria|dalai lama|himalaya|mountain|tibet,http://www.imdb.com/title/tt0120102/?ref_=fn_tt_tt_1,119,English,USA,PG-13,7.0,2.35,0
-185,111,2000,48430355,Comedy|Drama,Channing Tatum,The Dilemma ,18510,2,best friend|friend|investigation|secret|two word title,http://www.imdb.com/title/tt1578275/?ref_=fn_tt_tt_1,141,English,USA,PG-13,5.3,2.35,0
-128,116,541,30157016,Action|Adventure|Comedy|Thriller,Anthony Hopkins,Bad Company ,12993,2,cia|cia agent|terrorist|twin|twin brother,http://www.imdb.com/title/tt0280486/?ref_=fn_tt_tt_1,189,English,USA,PG-13,5.6,2.35,792
-237,113,43,28031250,Action|Adventure|Horror|Sci-Fi,Dwayne Johnson,Doom ,13517,0,commando unit|extra chromosome|first person shooter|special forces|teleportation,http://www.imdb.com/title/tt0419706/?ref_=fn_tt_tt_1,814,English,UK,R,5.2,2.35,0
-105,97,84,33105600,Action|Adventure|Comedy|Thriller,Gary Cole,I Spy ,1576,1,boxer|espionage|spy|stealth|top secret,http://www.imdb.com/title/tt0297181/?ref_=fn_tt_tt_1,141,English,USA,PG-13,5.4,1.37,531
-242,88,24,62321039,Action|Fantasy|Horror,Theo James,Underworld: Awakening ,5861,1,battle|cryogenics|detective|scientist|vampire,http://www.imdb.com/title/tt1496025/?ref_=fn_tt_tt_1,271,English,USA,R,6.4,2.35,24000
-360,136,163,38509342,Comedy|Drama|Musical|Romance,James Martin Kelly,Rock of Ages ,712,7,concert|love|music industry|panties|pole dancer,http://www.imdb.com/title/tt1336608/?ref_=fn_tt_tt_1,356,English,USA,PG-13,5.9,2.35,33000
-112,125,40,19076815,Drama|War,Bruce Willis,Hart's War ,15916,0,colonel|honor|lieutenant|pilot|racism,http://www.imdb.com/title/tt0251114/?ref_=fn_tt_tt_1,196,English,USA,R,6.3,2.35,997
-189,116,5,25093607,Action|Crime|Thriller,Jason Statham,Killer Elite ,49608,2,australia|death|mentor|revenge|secret society,http://www.imdb.com/title/tt1448755/?ref_=fn_tt_tt_1,157,English,UK,R,6.5,2.35,17000
-151,98,323,18990542,Action|Sci-Fi|Sport,LL Cool J,Rollerball ,2763,3,ball|blood|skating|song|year 2005,http://www.imdb.com/title/tt0246894/?ref_=fn_tt_tt_1,289,English,USA,R,3.0,2.35,584
-92,91,8,14294842,Action|Crime|Sci-Fi|Thriller,Talisa Soto,Ballistic: Ecks vs. Sever ,1846,1,blood splatter|camera shot from inside human body|combat|die hard scenario|fbi,http://www.imdb.com/title/tt0308208/?ref_=fn_tt_tt_1,277,English,USA,R,3.6,2.35,391
-79,97,13,19819494,Action|Crime|Drama|Thriller,Morgan Freeman,Hard Rain ,13628,0,dam|flood|money|police|sheriff,http://www.imdb.com/title/tt0120696/?ref_=fn_tt_tt_1,126,English,USA,R,5.8,2.35,815
-81,95,101,13596911,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Ron Howard,Osmosis Jones ,3734,0,blood|body|egg|virus|white blood cell,http://www.imdb.com/title/tt0181739/?ref_=fn_tt_tt_1,123,English,USA,PG,6.2,2.35,2000
-51,88,6,8460990,Adventure|Animation|Family|Fantasy|Musical,Lea Michele,Legends of Oz: Dorothy's Return ,6946,1,jester|kansas|oz|princess|tornado,http://www.imdb.com/title/tt0884726/?ref_=fn_tt_tt_1,54,English,USA,PG,5.6,,5000
-261,133,0,7097125,Action|Crime|Drama|Mystery|Thriller,Chris Hemsworth,Blackhat ,28129,1,chinese|computer|cybercrime|hacker|one word title,http://www.imdb.com/title/tt2717822/?ref_=fn_tt_tt_1,207,English,USA,R,5.4,2.35,11000
-197,106,14,37760080,Action|Adventure|Mystery|Sci-Fi|Thriller,Angelina Jolie Pitt,Sky Captain and the World of Tomorrow ,12871,2,captain|pilot|reporter|robot|scientist,http://www.imdb.com/title/tt0346156/?ref_=fn_tt_tt_1,618,English,USA,PG,6.1,1.85,0
-159,116,105,5851188,Crime|Mystery|Thriller,Charlotte Rampling,Basic Instinct 2 ,1899,1,drugs|murder|psychiatrist|scotland yard|sex,http://www.imdb.com/title/tt0430912/?ref_=fn_tt_tt_1,313,English,UK,R,4.2,2.35,764
-286,115,101,25121291,Action|Crime|Mystery|Sci-Fi|Thriller,Sylvester Stallone,Escape Plan ,15708,1,cia agent|escape|muslim|prison|ship,http://www.imdb.com/title/tt1211956/?ref_=fn_tt_tt_1,279,English,USA,R,6.7,2.35,34000
-156,99,212,18821279,Action|Adventure|Fantasy,Roxanne McKee,The Legend of Hercules ,1520,0,ancient greece|forbidden love|hercules|king|slavery,http://www.imdb.com/title/tt1043726/?ref_=fn_tt_tt_1,202,English,USA,PG-13,4.2,2.35,12000
-176,124,31,118471320,Action|Drama|Thriller,Morgan Freeman,The Sum of All Fears ,12556,0,analyst|cia|nuclear bomb|nuclear weapons|russia,http://www.imdb.com/title/tt0164184/?ref_=fn_tt_tt_1,568,English,USA,PG-13,6.4,2.35,0
-293,124,171,300523113,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: Eclipse ,52547,3,friendship|graduation|revenge|vampire|werewolf,http://www.imdb.com/title/tt1325004/?ref_=fn_tt_tt_1,498,English,USA,PG-13,4.9,2.35,29000
-141,124,0,71069884,Crime|Drama|Thriller,Robert De Niro,The Score ,32871,0,partner|running|scepter|surveillance|thief,http://www.imdb.com/title/tt0227445/?ref_=fn_tt_tt_1,445,English,USA,R,6.8,2.35,0
-304,87,275,251501645,Animation|Comedy|Family,Steve Carell,Despicable Me ,11608,0,girl|minion|moon|pyramid|white picket fence,http://www.imdb.com/title/tt1323594/?ref_=fn_tt_tt_1,296,English,USA,PG,7.7,1.85,31000
-40,105,29,35324232,Action|Comedy|Crime|Drama|Thriller,Vincent Pastore,Money Train ,1132,1,bare breasts|breast|loan shark|subway|train,http://www.imdb.com/title/tt0113845/?ref_=fn_tt_tt_1,62,English,USA,R,5.6,2.35,617
-280,125,3000,81257500,Comedy,Liam Neeson,Ted 2 ,30010,0,baby|f word|fight|lawyer|marriage,http://www.imdb.com/title/tt2637276/?ref_=fn_tt_tt_1,229,English,USA,R,6.4,2.35,30000
-180,141,448,617840,Adventure|Drama|History|Romance,Max Minghella,Agora ,1829,2,christian|love|philosophy|prefect|slave,http://www.imdb.com/title/tt1186830/?ref_=fn_tt_tt_1,172,English,Spain,R,7.2,2.35,29000
-125,121,18,29655590,Action|Comedy|Fantasy|Sci-Fi,Janeane Garofalo,Mystery Men ,3986,4,bowling|rajah|sphinx|spleen|superhero,http://www.imdb.com/title/tt0132347/?ref_=fn_tt_tt_1,435,English,USA,PG-13,6.0,1.85,0
-237,111,101,45045037,Comedy|Romance,Jenna Fischer,Hall Pass ,3393,3,drugged food|female frontal nudity|male frontal nudity|male nudity|marriage,http://www.imdb.com/title/tt0480687/?ref_=fn_tt_tt_1,143,English,USA,R,5.9,2.35,10000
-209,157,0,28965197,Biography|Drama|Thriller,Al Pacino,The Insider ,18216,1,cbs|cbs news|research|tobacco|whistleblower,http://www.imdb.com/title/tt0140352/?ref_=fn_tt_tt_1,521,English,USA,R,7.9,2.35,0
-178,117,44,27550735,Action|Drama|History|Thriller,Michael Raymond-James,The Finest Hours ,3524,0,1950s|coast guard|oil tanker|sinking ship|survival,http://www.imdb.com/title/tt2025690/?ref_=fn_tt_tt_1,113,English,USA,PG-13,6.8,2.35,12000
-238,128,0,39380442,Action|Drama|Thriller,Leonardo DiCaprio,Body of Lies ,29824,1,cia|jordan|middle east|spy|terrorist,http://www.imdb.com/title/tt0758774/?ref_=fn_tt_tt_1,263,English,USA,R,7.1,2.35,0
-190,114,116,72980108,Comedy,Steve Carell,Dinner for Schmucks ,10419,2,dinner|diorama|idiot|irs|mouse,http://www.imdb.com/title/tt0427152/?ref_=fn_tt_tt_1,264,English,USA,PG-13,5.9,1.85,0
-393,105,335,37516013,Action|Fantasy|Horror,Rufus Sewell,Abraham Lincoln: Vampire Hunter ,8281,0,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,http://www.imdb.com/title/tt1611224/?ref_=fn_tt_tt_1,348,English,USA,R,5.9,2.35,98000
-138,113,36,87704396,Action|Crime|Romance|Thriller,Will Patton,Entrapment ,1302,1,art thief|insurance|mask|master thief|reference to iron maiden,http://www.imdb.com/title/tt0137494/?ref_=fn_tt_tt_1,274,English,USA,PG-13,6.2,2.35,0
-4,30,,,Comedy,Hector Elizondo,Last Man Standing             ,2465,1,family relationships|husband wife relationship|live studio audience|sitcom|three word title,http://www.imdb.com/title/tt1828327/?ref_=fn_tt_tt_1,87,English,USA,TV-PG,7.4,16.0,0
-142,121,38,83892374,Drama|Mystery|Sci-Fi|Thriller,Martin Landau,The X Files ,4230,0,agent|alien|bomb|fbi|government,http://www.imdb.com/title/tt0120902/?ref_=fn_tt_tt_1,297,English,USA,PG-13,7.0,2.35,0
-90,102,4,5932060,Action|Adventure|Fantasy|War,Colin Firth,The Last Legion ,14625,0,5th century|boy|capri|roman legion|soldier,http://www.imdb.com/title/tt0462396/?ref_=fn_tt_tt_1,174,English,UK,PG-13,5.4,2.35,0
-219,169,14000,216119491,Action|Drama|War,Tom Hanks,Saving Private Ryan ,44998,2,army|invasion|killed in action|normandy|soldier,http://www.imdb.com/title/tt0120815/?ref_=fn_tt_tt_1,2277,English,USA,R,8.6,1.85,22000
-327,132,76,43568507,Action|Crime|Drama|Thriller,Rami Malek,Need for Speed ,7081,1,cross country|custom car|illegal street racing|police officer crushed|street racing,http://www.imdb.com/title/tt2369135/?ref_=fn_tt_tt_1,346,English,USA,PG-13,6.5,2.35,32000
-149,127,278,182805123,Comedy|Fantasy|Romance,Judy Greer,What Women Want ,5838,1,advertising|battle of the sexes|ex husband ex wife relationship|pantyhose|telepathy,http://www.imdb.com/title/tt0207201/?ref_=fn_tt_tt_1,395,English,USA,PG-13,6.4,1.37,0
-193,103,77,176387405,Adventure|Animation|Comedy|Family,Goran Visnjic,Ice Age ,5437,0,baby|ice|ice age|sleeping|sloth,http://www.imdb.com/title/tt0268380/?ref_=fn_tt_tt_1,467,English,USA,PG,7.6,1.85,3000
-175,136,759,33685268,Drama|Horror|Sci-Fi|Thriller,Morgan Freeman,Dreamcatcher ,12194,1,alien|friend|maine|military|woods,http://www.imdb.com/title/tt0285531/?ref_=fn_tt_tt_1,662,English,USA,R,5.5,2.35,4000
-538,150,14000,182204440,Biography|Drama|History|War,Joseph Gordon-Levitt,Lincoln ,25517,0,cultural conflict|politics|president|slavery|u.s. president,http://www.imdb.com/title/tt0443272/?ref_=fn_tt_tt_1,720,English,USA,PG-13,7.4,2.35,71000
-313,136,0,171383253,Action|Sci-Fi,Keanu Reeves,The Matrix ,18563,3,artificial reality|computer|matrix|questioning reality|simulated reality,http://www.imdb.com/title/tt0133093/?ref_=fn_tt_tt_1,3646,English,USA,R,8.7,2.35,25000
-159,140,2000,172071312,Adventure|Drama|History,Tom Hanks,Apollo 13 ,17171,0,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,http://www.imdb.com/title/tt0112384/?ref_=fn_tt_tt_1,296,English,USA,PG,7.6,2.35,5000
-196,113,719,119412921,Action|Sci-Fi,Ronny Cox,Total Recall ,1441,0,ambiguous ending|false memory|implanted memory|memory|space colony,http://www.imdb.com/title/tt0100802/?ref_=fn_tt_tt_1,391,English,USA,R,7.5,1.85,0
-80,104,54,139225854,Comedy|Family|Fantasy,Judge Reinhold,The Santa Clause 2 ,5265,0,christmas|magic|santa claus|son|toy,http://www.imdb.com/title/tt0304669/?ref_=fn_tt_tt_1,116,English,USA,G,5.5,1.85,1000
-488,158,0,148775460,Drama|Musical|Romance,Hugh Jackman,Les Misérables ,46204,1,barricade|innkeeper|parole|rebellion|student,http://www.imdb.com/title/tt1707386/?ref_=fn_tt_tt_1,845,English,USA,PG-13,7.6,1.85,144000
-153,119,0,115731542,Comedy|Drama|Romance,Tom Hanks,You've Got Mail ,17768,2,bookstore|competing businesses|instant messaging|new york city|shop owner,http://www.imdb.com/title/tt0128853/?ref_=fn_tt_tt_1,556,English,USA,PG,6.5,1.85,0
-173,106,285,100468793,Comedy,Will Ferrell,Step Brothers ,11264,2,dream|friendship|karaoke|love|slacker,http://www.imdb.com/title/tt0838283/?ref_=fn_tt_tt_1,277,English,USA,R,6.9,2.35,0
-156,136,258,93771072,Action|Adventure|Comedy|Romance|Thriller|Western,Anthony Hopkins,The Mask of Zorro ,12396,0,19th century|california|revenge|training|zorro,http://www.imdb.com/title/tt0120746/?ref_=fn_tt_tt_1,318,English,USA,PG-13,6.7,2.35,0
-307,95,480,100448498,Comedy|Drama,Robert Downey Jr.,Due Date ,23018,3,actor|aspiring actor|birth|misadventure|suitcase,http://www.imdb.com/title/tt1231583/?ref_=fn_tt_tt_1,285,English,USA,R,6.6,2.35,25000
-322,137,11000,115603980,Biography|Drama|Sport|War,Finn Wittrock,Unbroken ,2938,0,emaciation|male nudity|plane crash|prisoner of war|torture,http://www.imdb.com/title/tt1809398/?ref_=fn_tt_tt_1,351,English,USA,PG-13,7.2,2.35,35000
-169,130,16000,90454043,Action|Adventure|Thriller,Clint Eastwood,Space Cowboys ,17771,1,nasa|old age|satellite|space|space shuttle,http://www.imdb.com/title/tt0186566/?ref_=fn_tt_tt_1,326,English,USA,PG-13,6.4,2.35,0
-74,124,212,84049211,Action|Adventure|Thriller,Sylvester Stallone,Cliffhanger ,15229,1,money|mountain|rocky mountains|snow|suitcase,http://www.imdb.com/title/tt0106582/?ref_=fn_tt_tt_1,172,English,USA,R,6.4,2.35,0
-72,108,610,70450000,Action|Crime|Thriller,Delroy Lindo,Broken Arrow ,2913,2,captain|desert|major|park ranger|utah,http://www.imdb.com/title/tt0115759/?ref_=fn_tt_tt_1,189,English,USA,R,6.0,2.35,0
-86,104,226,69688384,Comedy|Family|Fantasy,Bruce Willis,The Kid ,16452,1,altering history|cartoon on tv|childhood|image consultant|one two combo,http://www.imdb.com/title/tt0219854/?ref_=fn_tt_tt_1,139,English,USA,PG,6.1,1.85,0
-242,129,0,70236496,Drama|History|Thriller,Nicolas Cage,World Trade Center ,14421,0,based on true story|police|rescue|rubble|trapped,http://www.imdb.com/title/tt0469641/?ref_=fn_tt_tt_1,564,English,USA,PG-13,6.0,1.85,0
-141,117,179,63695760,Drama,Julia Roberts,Mona Lisa Smile ,12850,1,art|college|school|student|wellesley college,http://www.imdb.com/title/tt0304415/?ref_=fn_tt_tt_1,264,English,USA,PG-13,6.4,1.85,0
-313,99,119,59617068,Comedy|Romance,Sayed Badreya,The Dictator ,1375,0,dictator|hotel|oil|overalls|sunglasses,http://www.imdb.com/title/tt1645170/?ref_=fn_tt_tt_1,310,English,USA,R,6.4,2.35,59000
-280,159,0,55637680,Drama|Mystery|Thriller,Tom Cruise,Eyes Wide Shut ,11424,1,doctor|orgy|party|pianist|sexual fantasy,http://www.imdb.com/title/tt0120663/?ref_=fn_tt_tt_1,1500,English,UK,R,7.3,1.66,10000
-176,118,87,85911262,Comedy|Drama|Family|Musical,Quvenzhané Wallis,Annie ,4796,6,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek,http://www.imdb.com/title/tt1823664/?ref_=fn_tt_tt_1,213,English,USA,PG,5.2,2.39,16000
-279,105,43,53846915,Comedy|Crime|Drama|Romance,Will Smith,Focus ,11943,0,con artist|con man|deception|rivalry|seduction,http://www.imdb.com/title/tt2381941/?ref_=fn_tt_tt_1,221,English,USA,R,6.6,1.85,23000
-241,103,368,54758461,Action|Comedy|Romance,Tom Hardy,This Means War ,29808,3,best friend|cia|cia agent|dating|undercover,http://www.imdb.com/title/tt1596350/?ref_=fn_tt_tt_1,238,English,USA,PG-13,6.3,2.35,18000
-185,122,687,52397389,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Ryan Reynolds,Blade: Trinity ,19764,0,blade|blood|dracula|vampire hunter|vampire slayer,http://www.imdb.com/title/tt0359013/?ref_=fn_tt_tt_1,514,English,USA,R,5.9,2.35,0
-97,114,468,,Action|Drama|War,Lea Thompson,Red Dawn ,3860,0,guerrilla|high school|invasion|soviet|wolverine,http://www.imdb.com/title/tt0087985/?ref_=fn_tt_tt_1,383,English,USA,PG-13,6.4,1.85,0
-117,143,0,38966057,Comedy|Drama,Maura Tierney,Primary Colors ,1409,0,campaigning|candidate|election|governor|president,http://www.imdb.com/title/tt0119942/?ref_=fn_tt_tt_1,157,English,France,R,6.7,2.35,688
-239,96,545,42345531,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Resident Evil: Retribution ,17913,0,corporation|fight|rescue|umbrella|zombie,http://www.imdb.com/title/tt1855325/?ref_=fn_tt_tt_1,423,English,Germany,R,5.4,2.35,32000
-230,111,545,36064910,Action|Sci-Fi|Thriller,Jason Statham,Death Race ,28643,4,armored car|car|murder|prison|warden,http://www.imdb.com/title/tt0452608/?ref_=fn_tt_tt_1,211,English,USA,R,6.4,2.35,0
-94,121,212,33328051,Action|Crime|Drama|Mystery|Thriller,Melina Kanakaredes,The Long Kiss Goodnight ,1531,2,amnesia|chase|foot chase|strong female character|vomiting,http://www.imdb.com/title/tt0116908/?ref_=fn_tt_tt_1,285,English,USA,R,6.7,2.35,4000
-134,135,138,32598931,Action|Drama|Thriller,Pamela Reed,Proof of Life ,1013,1,jungle|pipeline|prisoner|ransom|south america,http://www.imdb.com/title/tt0228750/?ref_=fn_tt_tt_1,265,English,USA,R,6.2,2.35,892
-136,101,4000,28045540,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Kristen Stewart,Zathura: A Space Adventure ,32232,0,2000s|coke|meeting future self|reference to spongebob squarepants|sony,http://www.imdb.com/title/tt0406375/?ref_=fn_tt_tt_1,202,English,USA,PG,6.1,1.85,0
-315,151,21000,37023395,Drama,Brad Pitt,Fight Club ,13209,2,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,http://www.imdb.com/title/tt0137523/?ref_=fn_tt_tt_1,2968,English,USA,R,8.8,2.35,48000
-96,131,368,43532294,Drama|Sport,Matthew McConaughey,We Are Marshall ,12088,0,coach|football|football team|marshall university|university,http://www.imdb.com/title/tt0758794/?ref_=fn_tt_tt_1,175,English,USA,PG,7.1,2.35,0
-14,60,,,Crime|Drama|Mystery,Jason Flemyng,The Missing             ,3537,0,france|journalist|limp|police detective|reporter,http://www.imdb.com/title/tt3877200/?ref_=fn_tt_tt_1,28,English,UK,,8.1,,0
-60,100,36,17218080,Action|Adventure|Comedy,Bruce Willis,Hudson Hawk ,15944,0,blackmail|burglar|critically bashed|leonardo da vinci|prison,http://www.imdb.com/title/tt0102070/?ref_=fn_tt_tt_1,249,English,USA,R,5.7,1.85,0
-60,105,0,10014234,Comedy|Crime,Michael Rapaport,Lucky Numbers ,3580,1,celebrity|lottery|murder|snowmobile|weatherman,http://www.imdb.com/title/tt0219952/?ref_=fn_tt_tt_1,69,English,France,R,5.0,1.85,177
-308,92,72,19059018,Action|Fantasy|Sci-Fi|Thriller,Caitlin Stasey,I, Frankenstein ,3165,0,army|creature|demon|frankenstein|gargoyle,http://www.imdb.com/title/tt1418377/?ref_=fn_tt_tt_1,194,English,Australia,PG-13,5.1,2.35,15000
-127,130,2000,1987287,Crime|Drama,Ian McNeice,Oliver Twist ,450,0,boy|character name in title|orphan|pickpocket|workhouse,http://www.imdb.com/title/tt0380599/?ref_=fn_tt_tt_1,138,English,UK,PG-13,6.9,2.35,0
-196,100,38,24407944,Action|Crime|Fantasy|Thriller,Jennifer Garner,Elektra ,7048,0,assassin|battle|heroine|martial arts|spin off,http://www.imdb.com/title/tt0357277/?ref_=fn_tt_tt_1,380,English,Canada,PG-13,4.8,2.35,0
-339,102,436,13750556,Action|Crime|Thriller,Joseph Gordon-Levitt,Sin City: A Dame to Kill For ,49433,3,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,http://www.imdb.com/title/tt0458481/?ref_=fn_tt_tt_1,239,English,USA,R,6.5,1.85,32000
-96,133,521,31054924,Drama|Mystery|Romance,Harrison Ford,Random Hearts ,16710,1,death|plane crash|police|police sergeant|politician,http://www.imdb.com/title/tt0156934/?ref_=fn_tt_tt_1,290,English,USA,R,5.1,1.85,295
-361,121,175,43247140,Adventure|Biography|Drama|History|Sport|Thriller,Michael Kelly,Everest ,2131,0,blizzard|mount everest|mountain|mountain climbing|snow,http://www.imdb.com/title/tt2719848/?ref_=fn_tt_tt_1,265,English,UK,PG-13,7.1,2.35,40000
-226,147,670,2208939,Crime|Drama|Fantasy,Michael Smiley,Perfume: The Story of a Murderer ,253,0,18th century|perfume|scent|sense of smell|smell,http://www.imdb.com/title/tt0396171/?ref_=fn_tt_tt_1,482,English,Germany,R,7.5,2.35,26000
-194,94,116,213079163,Action|Comedy|Crime,Verne Troyer,Austin Powers in Goldmember ,2725,2,fem bot|prison|seductive fembot|spy|time travel,http://www.imdb.com/title/tt0295178/?ref_=fn_tt_tt_1,795,English,USA,PG-13,6.2,2.35,0
-138,94,42,19548064,Action|Animation|Comedy|Family|Sci-Fi,Nicolas Cage,Astro Boy ,23365,1,betrayal|futuristic|gladiator|robot|scientist,http://www.imdb.com/title/tt0375568/?ref_=fn_tt_tt_1,77,English,Hong Kong,PG,6.3,2.35,0
-308,127,14000,356784000,Adventure|Sci-Fi|Thriller,Wayne Knight,Jurassic Park ,2129,0,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,http://www.imdb.com/title/tt0107290/?ref_=fn_tt_tt_1,895,English,USA,PG-13,8.1,1.85,19000
-40,212,759,25052000,Adventure|Biography|Crime|Drama|Western,Dennis Quaid,Wyatt Earp ,5708,0,historically inaccurate|name calling|penis slur|vomiting|wyatt earp,http://www.imdb.com/title/tt0111756/?ref_=fn_tt_tt_1,145,English,USA,PG-13,6.6,2.35,0
-42,141,176,122012710,Action|Crime|Drama|Thriller,Harrison Ford,Clear and Present Danger ,14178,1,cia|colombia|colombian drug cartel|drugs|president,http://www.imdb.com/title/tt0109444/?ref_=fn_tt_tt_1,133,English,USA,PG-13,6.9,2.35,0
-68,103,10,72413,Action|Adventure|Drama|History,Si Won Choi,Dragon Blade ,58,3,child fugitive|final battle|martial art|silk road|sword,http://www.imdb.com/title/tt3672840/?ref_=fn_tt_tt_1,86,Mandarin,China,R,6.1,2.35,0
-78,98,322,58255287,Comedy|Crime,Chazz Palminteri,Littleman ,6334,1,diamond|infant|parody|spoof|sports violence,http://www.imdb.com/title/tt0430304/?ref_=fn_tt_tt_1,187,English,USA,PG-13,4.3,1.85,0
-178,116,84,77086030,Action|War,Matthew McConaughey,U-571 ,14931,0,battle|historically inaccurate|submarine movie|u boat|world war two,http://www.imdb.com/title/tt0141926/?ref_=fn_tt_tt_1,602,English,France,PG-13,6.6,2.35,0
-75,114,0,65000000,Comedy|Drama|Romance,Shawna Waldron,The American President ,2668,0,lobbyist|president|senator|state dinner|widower,http://www.imdb.com/title/tt0112346/?ref_=fn_tt_tt_1,214,English,USA,PG-13,6.8,2.35,0
-150,87,12,32178777,Comedy|Romance|Sport,Justin Timberlake,The Love Guru ,6658,6,bloopers during credits|bucket of popcorn|chastity belt|guru|toronto maple leafs,http://www.imdb.com/title/tt0811138/?ref_=fn_tt_tt_1,250,English,USA,PG-13,3.8,2.35,0
-113,125,11,15738632,Action|Comedy|Crime|Thriller,Jon Lovitz,3000 Miles to Graceland ,14536,2,casino|elvis impersonator|gun|heist|rascal,http://www.imdb.com/title/tt0233142/?ref_=fn_tt_tt_1,399,English,USA,R,5.9,2.35,0
-596,187,16000,54116191,Crime|Drama|Mystery|Thriller|Western,Craig Stark,The Hateful Eight ,49912,1,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,http://www.imdb.com/title/tt3460252/?ref_=fn_tt_tt_1,1018,English,USA,R,7.9,2.76,114000
-191,93,8,118153533,Comedy|Sport,Will Ferrell,Blades of Glory ,13232,2,competition|fight|ice|jock strap|nintendo game boy advance,http://www.imdb.com/title/tt0445934/?ref_=fn_tt_tt_1,246,English,USA,PG-13,6.3,1.85,0
-156,95,25,108012170,Adventure|Animation|Comedy|Family|Fantasy,Gary Cole,Hop ,2558,0,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker,http://www.imdb.com/title/tt1411704/?ref_=fn_tt_tt_1,82,English,USA,PG,5.5,1.85,0
-460,117,0,210592590,Action|Drama|Fantasy|War,Gerard Butler,300 ,32360,0,battle|epic|greece|spartan|warrior,http://www.imdb.com/title/tt0416449/?ref_=fn_tt_tt_1,2073,English,USA,R,7.7,2.35,13000
-141,106,116,279167575,Comedy|Romance,Robert De Niro,Meet the Fockers ,24938,6,bare butt|defecation|father in law son in law relationship|nurse|sexual innuendo in title,http://www.imdb.com/title/tt0290002/?ref_=fn_tt_tt_1,428,English,USA,PG-13,6.3,1.85,0
-180,115,64,143151473,Comedy|Drama|Family,Eric Dane,Marley & Me ,4811,0,box office hit|dog|dog movie|florida|pet name in title,http://www.imdb.com/title/tt0822832/?ref_=fn_tt_tt_1,320,English,USA,PG,7.1,2.35,11000
-186,189,0,136801374,Crime|Drama|Fantasy|Mystery,Tom Hanks,The Green Mile ,17716,0,1930s|death row inmate|healing|prison guard|southern u.s.,http://www.imdb.com/title/tt0120689/?ref_=fn_tt_tt_1,1377,English,USA,R,8.5,1.85,30000
-177,100,12,168213584,Action|Adventure|Comedy,Jill Hennessy,Wild Hogs ,1412,3,biker gang|friend|motorcycle|new mexico|road trip,http://www.imdb.com/title/tt0486946/?ref_=fn_tt_tt_1,255,English,USA,PG-13,5.9,2.35,0
-161,81,10,135381507,Adventure|Animation|Comedy|Family|Sci-Fi,Catherine O'Hara,Chicken Little ,2252,0,alien invasion|chicken|fish|friend|panic,http://www.imdb.com/title/tt0371606/?ref_=fn_tt_tt_1,251,English,USA,G,5.8,1.85,912
-568,149,21000,167735396,Crime|Drama|Mystery|Thriller,Patrick Fugit,Gone Girl ,4348,0,based on novel|disappearance|missing person|missing wife|murder suspect,http://www.imdb.com/title/tt2267998/?ref_=fn_tt_tt_1,1127,English,USA,R,8.1,2.35,146000
-249,119,218,121468960,Action|Mystery|Thriller,Matt Damon,The Bourne Identity ,13249,1,amnesia|assassin|money|political thriller|three word title,http://www.imdb.com/title/tt0258463/?ref_=fn_tt_tt_1,849,English,USA,PG-13,7.9,2.35,0
-137,130,258,106635996,Action|Adventure|Thriller,Izabella Scorupco,GoldenEye ,1784,2,agent|cossack|official james bond series|russia|russian,http://www.imdb.com/title/tt0113189/?ref_=fn_tt_tt_1,416,English,UK,PG-13,7.2,2.35,0
-113,116,165,102678089,Drama|Mystery|Thriller,Daniel von Bargen,The General's Daughter ,2321,0,army cid|cover up|military|murder|woman in military,http://www.imdb.com/title/tt0144214/?ref_=fn_tt_tt_1,274,English,USA,R,6.3,2.35,885
-213,103,608,125603360,Comedy|Drama|Sci-Fi,Natascha McElhone,The Truman Show ,3698,1,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,http://www.imdb.com/title/tt0120382/?ref_=fn_tt_tt_1,877,English,USA,PG,8.1,1.85,18000
-120,99,59,101217900,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,Martin Short,The Prince of Egypt ,1195,2,ancient egypt|hebrew|nudity|pharaoh|title directed by female,http://www.imdb.com/title/tt0120794/?ref_=fn_tt_tt_1,353,English,USA,PG,7.0,1.85,0
-81,92,41,104148781,Comedy|Family,Anjelica Huston,Daddy Day Care ,4050,1,bloopers during credits|breakfast cereal|department store ride|face painting|sponge bob square pants slippers,http://www.imdb.com/title/tt0317303/?ref_=fn_tt_tt_1,116,English,USA,PG,5.5,1.85,886
-265,109,175,75573300,Action|Comedy|Crime|Drama|Thriller,Denzel Washington,2 Guns ,20148,1,close up of breasts|female nudity|fugitive|money|undercover,http://www.imdb.com/title/tt1272878/?ref_=fn_tt_tt_1,172,English,USA,R,6.7,2.35,22000
-105,87,6,93375151,Action|Comedy|Family|Fantasy,Carol Ann Susi,Cats & Dogs ,4171,0,cartoon on tv|cat|dog|scientist|secret agent,http://www.imdb.com/title/tt0239395/?ref_=fn_tt_tt_1,235,English,USA,PG,5.2,1.85,0
-155,111,473,106126012,Action|Crime|Thriller,Jason Statham,The Italian Job ,35084,6,gold|heist|revenge|traffic jam|venice italy,http://www.imdb.com/title/tt0317740/?ref_=fn_tt_tt_1,497,English,USA,PG-13,7.0,2.35,0
-118,101,30,93307796,Comedy|Romance,Dorian Missick,Two Weeks Notice ,2636,2,developer|divorce|lawyer|love|new york city,http://www.imdb.com/title/tt0313737/?ref_=fn_tt_tt_1,269,English,USA,PG-13,6.1,1.85,0
-131,83,35,90646554,Adventure|Animation|Comedy|Family,Sylvester Stallone,Antz ,25788,0,ant|friend|princess|soldier|worker,http://www.imdb.com/title/tt0120587/?ref_=fn_tt_tt_1,289,English,USA,PG,6.6,1.85,0
-166,113,0,109176215,Comedy,Jon Favreau,Couples Retreat ,8172,6,couple|island|marriage|tropical|voyeurism,http://www.imdb.com/title/tt1078940/?ref_=fn_tt_tt_1,144,English,USA,PG-13,5.5,1.85,0
-60,107,12000,82670733,Action|Drama|Sport,Tom Cruise,Days of Thunder ,14006,0,driver|hot shot|racing|stock car driver|team,http://www.imdb.com/title/tt0099371/?ref_=fn_tt_tt_1,97,English,USA,PG-13,5.9,2.35,0
-77,94,163,82569532,Adventure|Comedy|Family,Taylor Lautner,Cheaper by the Dozen 2 ,20348,6,children|competition|rival|second part|vacation,http://www.imdb.com/title/tt0452598/?ref_=fn_tt_tt_1,128,English,USA,PG,5.4,2.35,781
-249,132,47,81687587,Action|Sci-Fi|Thriller,Ki Hong Lee,The Scorch Trials ,2517,0,desert|disease|escape|resistance|virus,http://www.imdb.com/title/tt4046784/?ref_=fn_tt_tt_1,360,English,USA,PG-13,6.4,2.35,24000
-213,140,708,80574010,Drama|Romance,James Franco,Eat Pray Love ,20440,1,divorce|emotional balance|female protagonist|indonesia|inner peace,http://www.imdb.com/title/tt0879870/?ref_=fn_tt_tt_1,302,English,USA,PG-13,5.7,1.85,26000
-121,125,420,75764085,Comedy|Drama|Fantasy|Romance,Nicolas Cage,The Family Man ,16646,1,bowling|christmas|parallel universe|salesman|unfaithfulness,http://www.imdb.com/title/tt0218967/?ref_=fn_tt_tt_1,322,English,USA,PG-13,6.7,2.35,0
-315,111,124,90356857,Action|Comedy|Crime|Thriller,Bruce Willis,RED ,24928,4,cia|female assassin|interrogation|office cubicle|spy,http://www.imdb.com/title/tt1245526/?ref_=fn_tt_tt_1,328,English,USA,PG-13,7.1,2.35,32000
-171,156,0,75530832,Drama|Sport,Al Pacino,Any Given Sunday ,20761,5,breasts|coach|football|in medias res|vomiting,http://www.imdb.com/title/tt0146838/?ref_=fn_tt_tt_1,452,English,USA,R,6.8,2.35,0
-96,170,0,75370763,Drama|Romance|Western,Scarlett Johansson,The Horse Whisperer ,20683,0,grace|groom|horse|montana|western u.s.,http://www.imdb.com/title/tt0119314/?ref_=fn_tt_tt_1,263,English,USA,PG-13,6.5,1.85,0
-299,120,0,100003492,Crime|Drama|Thriller,Tom Cruise,Collateral ,13581,0,city by night|contract killer|driving at night|los angeles california|taxi,http://www.imdb.com/title/tt0369339/?ref_=fn_tt_tt_1,836,English,USA,R,7.6,2.35,0
-167,100,55,90341670,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,The Scorpion King ,14611,4,desert|king|showdown|sorceress|warrior,http://www.imdb.com/title/tt0277296/?ref_=fn_tt_tt_1,432,English,USA,PG-13,5.5,2.35,0
-125,115,13,74540762,Action|Drama|Thriller,Billy Burke,Ladder 49 ,4496,2,death of husband|fire|firefighter|funeral|main character dies,http://www.imdb.com/title/tt0349710/?ref_=fn_tt_tt_1,323,English,USA,PG-13,6.5,1.85,0
-387,130,188,80033643,Action|Crime|Mystery|Thriller,Tom Cruise,Jack Reacher ,16385,2,coma|mysterious villain|police chase|shooting range|sniper,http://www.imdb.com/title/tt0790724/?ref_=fn_tt_tt_1,448,English,USA,PG-13,7.0,2.35,38000
-199,105,212,73648142,Action|Sci-Fi|Thriller,LL Cool J,Deep Blue Sea ,3697,1,alzheimer's disease|experiment|human versus shark|research|underwater headquarters,http://www.imdb.com/title/tt0149261/?ref_=fn_tt_tt_1,643,English,USA,R,5.8,2.35,0
-136,111,197,71844424,Documentary|Music,Misha Gabriel Hamilton,This Is It ,679,0,2000s|box office hit|comeback|rehearsal|year 2009,http://www.imdb.com/title/tt1477715/?ref_=fn_tt_tt_1,223,English,USA,PG,7.3,1.78,0
-436,106,0,75638743,Drama|Thriller,Matt Damon,Contagion ,13634,4,contagion|cure|infection|panic|virus,http://www.imdb.com/title/tt1598778/?ref_=fn_tt_tt_1,411,English,USA,PG-13,6.6,1.85,42000
-73,89,18,66734992,Action|Adventure|Comedy|Crime,Estella Warren,Kangaroo Jack ,1233,0,australia|body paint|kangaroo|mob|money,http://www.imdb.com/title/tt0257568/?ref_=fn_tt_tt_1,181,English,USA,PG,4.4,2.35,858
-310,100,253,75280058,Animation|Family|Fantasy,Jennifer Saunders,Coraline ,647,1,dream|new home|parallel worlds|scissors|secret door,http://www.imdb.com/title/tt0327597/?ref_=fn_tt_tt_1,279,English,USA,PG,7.7,1.85,10000
-323,91,0,64505912,Sci-Fi|Thriller,Zooey Deschanel,The Happening ,13654,0,bee|nature|park|school|teacher,http://www.imdb.com/title/tt0949731/?ref_=fn_tt_tt_1,1264,English,USA,R,5.0,1.85,6000
-171,146,12000,77862546,Action|Crime|Drama|Thriller,Denzel Washington,Man on Fire ,20454,2,bodyguard|journalist|kidnapping|mexico|police corruption,http://www.imdb.com/title/tt0328107/?ref_=fn_tt_tt_1,690,English,USA,R,7.7,2.35,14000
-76,98,48,61112916,Comedy|Family|Fantasy,Robert Downey Jr.,The Shaggy Dog ,24664,0,animal as human|dog movie|elevator|human becoming an animal|sheepdog,http://www.imdb.com/title/tt0393735/?ref_=fn_tt_tt_1,83,English,USA,PG,4.4,2.35,747
-173,101,480,88200225,Comedy|Crime,Snoop Dogg,Starsky & Hutch ,3943,5,cocaine|cop|criminal|partner|police,http://www.imdb.com/title/tt0335438/?ref_=fn_tt_tt_1,308,English,USA,PG-13,6.1,2.35,0
-81,94,32,60573641,Comedy|Family,Jim Belushi,Jingle All the Way ,4530,1,action figure|christmas|hero|karate|toy,http://www.imdb.com/title/tt0116705/?ref_=fn_tt_tt_1,162,English,USA,PG,5.4,1.85,0
-242,132,0,59035104,Action|Fantasy|Horror|Sci-Fi,James Babson,Hellboy ,1112,1,assassin|demon|hero|nazi|superhero,http://www.imdb.com/title/tt0167190/?ref_=fn_tt_tt_1,597,English,USA,PG-13,6.8,1.85,0
+director_facebook_likes,num_voted_users,aspect_ratio
+143,92781,2.35
+49,12519,2.35
+956,6782,1.85
+176,9334,2.35
+12,7277,1.85
+133,2427,1.85
+11,16444,2.35
+109,524,2.35
+608,17933,2.35
+752,3174,2.35
+333,11077,1.85
+2,6069,2.35
+168,11704,1.85
+50,12053,1.85
+10,9928,1.85
+0,60460,1.85
+0,259837,1.85
+473,167089,2.35
+143,123390,1.85
+162,36542,1.85
+38,28159,1.85
+,12590,1.33
+133,44795,1.85
+454,185845,2.35
+148,5602,1.85
+,271,
+101,248354,1.85
+448,64556,2.35
+143,85022,1.85
+272,98348,1.85
+26,912,1.78
+209,74351,1.85
+0,551363,2.35
+294,182910,2.35
+0,790926,1.85
+49,47876,1.85
+212,36108,1.85
+36,6276,1.85
+8,116625,1.37
+58,42614,1.85
+51,72803,1.85
+38,16979,2.35
+19,222099,1.85
+13,28805,1.85
+0,37611,1.85
+174,12983,2.35
+19,357579,1.85
+13,9285,1.85
+17,6528,2.35
+84,19547,1.85
+6,24834,1.85
+15,7984,1.85
+5,31371,1.85
+12,12676,2.35
+0,220475,1.85
+232,289508,2.35
+0,254404,1.85
+7,4339,1.85
+13,15664,1.85
+134,21406,1.85
+16000,132149,2.35
+35,19707,2.35
+18,1520,
+412,161288,2.35
+799,20033,1.85
+0,21212,1.66
+26,16059,1.85
+76,335,
+7,3116,1.85
+15,27675,1.85
+2,25541,2.35
+16,21530,2.35
+24,60407,2.35
+107,63084,1.85
+37,18442,2.35
+80,28573,2.35
+83,4767,2.35
+460,56264,1.85
+150,1595,1.85
+260,88037,2.35
+0,28068,1.85
+139,351274,1.85
+29,922,1.85
+41,14143,1.85
+187,5254,2.35
+83,7199,1.85
+115,82331,2.35
+11000,31414,2.35
+122,88241,1.85
+32,90,
+0,5663,2.35
+43,77305,1.85
+218,16281,2.35
+18000,26493,2.35
+97,14354,1.85
+12000,163492,2.35
+28,9957,2.35
+164,75675,2.35
+187,28483,2.35
+261,14193,1.85
+10,24012,2.35
+19,3256,1.37
+44,114762,1.85
+39,132386,1.85
+3000,79330,2.35
+44,5648,2.35
+220,6921,1.85
+34,13371,1.85
+20,165792,1.85
+60,14757,2.35
+383,61753,1.33
+16,31943,2.35
+50,2676,2.35
+607,284252,1.37
+14000,412454,2.35
+80,315549,1.85
+2,12029,1.85
+23,39798,1.85
+167,34579,2.35
+167,22147,1.85
+120,91414,2.35
+293,216486,1.85

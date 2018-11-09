@@ -1,446 +1,131 @@
-num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,gross,genres,actor_1_name,movie_title,cast_total_facebook_likes,actor_3_name,language,country,content_rating,title_year
-79,17,652,13000,32940507,Action|Crime|Drama|Thriller,Bruce Willis,Mercury Rising ,16537,Carrie Preston,English,USA,R,1998
-8,,109,210,,Drama|Sci-Fi,James Morrison,Space: Above and Beyond             ,611,Kristen Cloke,English,USA,,
-16,135,0,0,,Action|Biography|Drama|History,Elina Abai Kyzy,Queen of the Mountains ,0,Mirlan Abdulayev,English,Kyrgyzstan,PG-13,2014
-18,4,13,232,,Action|Sci-Fi,Maury Chaykin,Def-Con 4 ,289,Tim Choate,English,Canada,R,1985
-35,4,624,2000,19539,Comedy,Judy Greer,The Hebrew Hammer ,6227,Tony Cox,English,USA,R,2003
-5,0,40,374,100358,Comedy|Musical|Romance,Abhishek Bachchan,Neal 'N' Nikki ,602,Samantha McLeod,English,India,,2005
-16,19,134,700,,Comedy,Noureen DeWulf,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,1499,Matt Crabtree,English,USA,R,2010
-24,0,511,35000,,Horror|Romance|Thriller,Bella Thorne,Forget Me Not ,38121,Christopher Atkins,English,USA,R,2009
-144,13000,333,1000,,Drama|Film-Noir|Mystery|Thriller,Laurence Olivier,Rebecca ,2888,George Sanders,English,USA,Not Rated,1940
-242,49,59,309,19100000,Horror|Mystery|Thriller,Betsy Palmer,Friday the 13th Part 2 ,707,Amy Steel,English,USA,R,1981
-97,0,66,287,,Drama|Film-Noir,Ray Milland,The Lost Weekend ,581,Frank Faylen,English,USA,Not Rated,1945
-77,4,132,796,,Horror|Sci-Fi,Daniel Stern,C.H.U.D. ,1866,Sam McMurray,English,USA,R,1984
-16,8,183,2000,2833383,Drama|Music,Noel Gugliemi,Filly Brown ,2459,Jorge Diaz,English,USA,R,2012
-7,11,397,578,,Animation,Vic Mignogna,The Lion of Judah ,1730,Anupam Kher,English,USA,PG,2011
-74,83,48,469,,Crime|Film-Noir|Thriller,Joseph Cotten,Niagara ,683,Will Wright,English,USA,Approved,1953
-74,673,137,595,,Drama|Family,Roddy McDowall,How Green Was My Valley ,1129,Barry Fitzgerald,English,USA,Approved,1941
-19,,201,934,,Drama,Mary Lynn Rajskub,The Girlfriend Experience             ,1961,Paul Sparks,English,USA,TV-MA,
-46,0,161,3000,,Comedy|Romance|Thriller,Rami Malek,Da Sweet Blood of Jesus ,4040,Felicia Pearson,English,USA,,2014
-58,0,65,828,24741700,Drama,Peter Gallagher,Sex, Lies, and Videotape ,1431,Steven Brill,English,USA,R,1989
-287,0,651,2000,55153403,Horror|Mystery|Thriller,Michael Emerson,Saw ,5161,Shawnee Smith,English,USA,R,2004
-100,422,422,816,18488314,Comedy|Crime|Mystery,Geoffrey Arend,Super Troopers ,2893,Jay Chandrasekhar,English,USA,R,2001
-5,4,434,18000,,Action|Romance|Thriller,Zuhair Haddad,The Algerian ,20218,Ben Youcef,English,USA,,2014
-50,0,3,31,11278,Comedy|Drama,Ximena Ayala,The Amazing Catfish ,58,José Manuel Orozco Angulo,Spanish,Mexico,,2013
-276,301,71,18000,79363785,Drama|Sci-Fi|Thriller,Keanu Reeves,The Day the Earth Stood Still ,22194,Juan Riedinger,English,USA,PG-13,2008
-137,300,73,307,13876974,Comedy|Drama|Romance,Naseeruddin Shah,Monsoon Wedding ,809,Lillete Dubey,Hindi,India,R,2001
-122,50,612,2000,9180275,Drama,Matthew Broderick,You Can Count on Me ,4288,Gaby Hoffmann,English,USA,R,2000
-73,13000,232,282,,Comedy|Mystery|Romance,Jerry Mathers,The Trouble with Harry ,1041,Royal Dano,English,USA,Approved,1955
-202,118,1000,13000,22494487,Crime|Drama|Mystery|Thriller,Bruce Willis,Lucky Number Slevin ,26451,Dorian Missick,English,Germany,R,2006
-99,91,849,1000,2199853,Comedy|Drama,Natasha Lyonne,But I'm a Cheerleader ,4289,Eddie Cibrian,English,USA,R,1999
-10,29,449,890,2859955,Drama|Sport,Vivica A. Fox,Home Run ,2681,Scott Elrod,English,USA,PG-13,2013
-173,16000,455,16000,2812029,Crime|Drama|Thriller,Quentin Tarantino,Reservoir Dogs ,28994,Chris Penn,English,USA,R,1992
-7,9,51,94,,Drama|Family|Fantasy,Spring Byington,The Blue Bird ,293,Gale Sondergaard,English,USA,Approved,1940
-181,0,24,16000,6100000,Western,Clint Eastwood,The Good, the Bad and the Ugly ,16089,Enzo Petito,Italian,Italy,Approved,1966
-111,9,4,61,375723,Comedy|Drama,Alex Huszar,The Second Mother ,76,Luis Miranda,Portuguese,Brazil,R,2015
-38,14,274,1000,594904,Comedy|Drama,Jason Marsden,Blue Like Jazz ,1805,Eric Lange,English,USA,PG-13,2012
-12,0,3,268,58936,Comedy|Music,Lemmy,Down and Out with the Dolls ,318,Zoë Poledouris,English,USA,R,2001
-23,4,,,24784,Documentary,,Pink Ribbons, Inc. ,0,,English,Canada,Not Rated,2011
-17,0,924,49000,7826,Comedy|Documentary,Robin Williams,Certifiably Jonathan ,54484,Jonathan Winters,English,USA,,2007
-9,0,24,34,,Drama,Déborah Révy,Q ,114,Yassine Azzouz,French,France,,2011
-1,0,0,3,3830,Comedy|Drama,Nataniel Sánchez,The Knife of Don Juan ,5,Juan Carlos Montoya,Spanish,USA,,2013
-51,4,95,690,,Adventure|Comedy|Drama,Marley Shelton,Grand Theft Parsons ,1438,Jim Cody Williams,English,USA,PG-13,2003
-14,0,227,387,,Comedy,Rich Ceraulo,Extreme Movie ,1190,Vanessa Lee Chester,English,USA,R,2008
-24,345,94,843,,Action|Adventure|Romance|War,Errol Flynn,The Charge of the Light Brigade ,1621,Spring Byington,English,USA,Approved,1936
-18,0,5,721,,Thriller,Michael Berryman,Below Zero ,862,Michael Eisner,English,Canada,R,2011
-22,0,63,380,,Action|Horror|Mystery|Thriller,Christie Burke,Crowsnest ,630,Chelsey Reist,English,Canada,R,2012
-9,38,117,584,2850263,Adventure|Comedy|Sport,Alanna Ubach,Airborne ,1218,Brittney Powell,English,USA,PG,1993
-30,282,148,586,,Action|Comedy,Redd Foxx,Cotton Comes to Harlem ,1581,Calvin Lockhart,English,USA,R,1970
-9,2,475,10000,,Horror,William McNamara,The Wicked Within ,11257,Patrick Muldoon,English,USA,R,2015
-7,0,312,498,,Horror,Seregon O'Dassey,Bleeding Hearts ,1810,Dustin Diamond,English,USA,,2015
-91,6,804,16000,16101109,Comedy,Ryan Reynolds,Waiting... ,19957,Vanessa Lengies,English,USA,R,2005
-99,222,68,680,6013,Crime|Drama|Thriller,Paddy Considine,Dead Man's Shoes ,1311,George Newton,English,UK,,2004
-2,,206,511,,Drama|Horror|Thriller,Richard Cawthorne,Wolf Creek             ,1617,Lucy Fry,English,Australia,,
-57,155,147,448,1400000,Action|Drama|Horror|Thriller,Terry Kiser,From a Whisper to a Scream ,1329,Susan Tyrrell,English,USA,R,1987
-12,0,,,247740,Documentary|Drama,,Sex with Strangers ,0,,English,USA,,2002
-58,126,3,14,39659,Comedy|Horror|Musical,Sarah Murphy-Dyson,Dracula: Pages from a Virgin's Diary ,21,Brent Neale,English,Canada,,2002
-5,12,25,412,,Drama,Sean Cameron Michael,Faith Like Potatoes ,521,Jeanne Neilson,Zulu,South Africa,PG,2006
-97,22,48,434,56129,Sci-Fi|Thriller,Chris Gauthier,Beyond the Black Rainbow ,645,Eva Bourne,English,Canada,R,2010
-481,338,60,1000,4105123,Action|Crime|Thriller,Iko Uwais,The Raid: Redemption ,1445,Donny Alamsyah,Indonesian,Indonesia,R,2011
-17,252,252,1000,,Action|Horror|Sci-Fi,Johnny Pacar,The Dead Undead ,2510,Matthew R. Anderson,English,USA,R,2010
-9,0,0,12,,Horror,Piero Maggiò,The Vatican Exorcisms ,12,Joe Marino,English,Italy,R,2013
-242,345,269,2000,,Drama|Romance|War,Humphrey Bogart,Casablanca ,3442,Conrad Veidt,English,USA,PG,1942
-95,0,5,12,,Drama|Horror|Mystery|Thriller,Talia Zucker,Lake Mungo ,29,Martin Sharpe,English,Australia,R,2008
-14,6,20,964,,Comedy|Drama,Ranbir Kapoor,Rocket Singh: Salesman of the Year ,1052,Gauhar Khan,Hindi,India,,2009
-87,136,42,844,,Drama|Sci-Fi,Bruce Dern,Silent Running ,1080,Jesse Vint,English,USA,GP,1972
-141,80,794,13000,117235247,Drama|Sport,Sylvester Stallone,Rocky ,16094,Carl Weathers,English,USA,PG,1976
-16,2,9,321,,Drama,Christopher Abbott,The Sleepwalker ,622,Gitte Witt,English,Norway,Not Rated,2014
-212,0,606,2000,21378000,Fantasy|Horror,Jamie Lee Curtis,The Fog ,4878,Janet Leigh,English,USA,R,1980
-30,62,69,883,,Adventure|Comedy|History,Albert Finney,Tom Jones ,1371,Hugh Griffith,English,UK,Unrated,1963
-270,6,142,707,31537320,Horror|Mystery|Thriller,Shelley Hennig,Unfriended ,1565,Heather Sossaman,English,USA,R,2014
-211,17000,595,22000,,Crime|Drama,Robert De Niro,Taxi Driver ,23525,Peter Boyle,English,USA,R,1976
-161,287,725,1000,17986000,Horror,Patrick Macnee,The Howling ,4438,Dee Wallace,English,USA,R,1981
-184,92,177,650,16067035,Action|Adventure|Thriller,Ursula Andress,Dr. No ,1421,Lois Maxwell,English,UK,Approved,1962
-270,18,300,1000,18112929,Horror|Mystery|Sci-Fi|Thriller,Jesse McCartney,Chernobyl Diaries ,2665,Jonathan Sadowski,English,USA,R,2012
-203,385,100,266,14564027,Fantasy|Horror,Andrew Robinson,Hellraiser ,673,Clare Higgins,English,UK,R,1987
-29,18,295,634,20773070,Drama,Benjamin A. Onyango,God's Not Dead 2 ,1810,Maria Canals-Barrera,English,USA,PG,2016
-137,65,683,1000,10042266,Drama|Horror|Mystery|Thriller,Julian Morris,Cry_Wolf ,3155,Lindy Booth,English,USA,PG-13,2005
-107,2,3,43,10037390,Action|Adventure|Drama|Sci-Fi|Thriller,Hiroshi Abe,Godzilla 2000 ,53,Sakae Kimura,Japanese,Japan,PG,1999
-377,310,616,33000,9701559,Drama|Romance,Ryan Gosling,Blue Valentine ,35941,John Doman,English,USA,R,2010
-169,2,226,2000,9013113,Adventure|Comedy|Drama,Kevin Zegers,Transamerica ,3192,Paul Borghese,English,USA,R,2005
-225,19,128,403,53245055,Horror,Fernanda Andrade,The Devil Inside ,988,Brian Johnson,English,USA,R,2012
-101,199,44,503,9000000,Comedy|Drama|Music,Charles Napier,Beyond the Valley of the Dolls ,731,Harrison Page,English,USA,X,1970
-39,0,102,356,,Drama|Romance|Western,James Drury,Love Me Tender ,831,Debra Paget,English,USA,,1956
-372,49,,861,23808111,Documentary,Billy West,An Inconvenient Truth ,929,,English,USA,PG,2006
-40,23,88,183,,Action|Drama|Romance|War,James Brown,Sands of Iwo Jima ,510,Forrest Tucker,English,USA,Approved,1949
-129,17000,184,543,5355376,Biography|Documentary|Music,Mick Jagger,Shine a Light ,1218,Albert Maysles,English,USA,PG-13,2008
-285,0,389,640,7186670,Adventure|Horror,Daryl Sabara,The Green Inferno ,2082,Magda Apanowicz,English,USA,R,2013
-29,0,30,202,,Drama|Family|Romance,Juliet Stevenson,Departure ,283,Niamh Cusack,English,UK,,2015
-337,20,365,422,5997134,Biography|Comedy|Drama|Romance,W. Earl Brown,The Sessions ,1899,Rhea Perlman,English,USA,R,2012
-120,11,2,37,4417124,Documentary,Michael Pollan,Food, Inc. ,42,Barbara Kowalcyk,English,USA,PG,2008
-40,10,245,544,5355847,Drama,Rachel Hendrix,October Baby ,1147,Jason Burkey,English,USA,PG-13,2011
-38,122,458,22000,3386698,Comedy|Drama|Romance,Philip Seymour Hoffman,Next Stop Wonderland ,23461,Holland Taylor,English,USA,R,1998
-387,655,973,24000,143492840,Comedy|Drama|Romance,J.K. Simmons,Juno ,28817,Rainn Wilson,English,USA,PG-13,2007
-185,7,180,3000,5283379,Comedy|Drama,Ty Burrell,The Skeleton Twins ,3986,Kathleen Rose Perkins,English,USA,R,2014
-348,46,287,321,2981638,Drama|Mystery|Thriller,Christopher Abbott,Martha Marcy May Marlene ,1263,Brady Corbet,English,USA,R,2011
-155,9,313,612,3122616,Comedy|Drama,Gaby Hoffmann,Obvious Child ,1587,Jake Lacy,English,USA,R,2014
-181,33,229,496,2508841,Crime|Drama,Charlie McDermott,Frozen River ,994,Misty Upham,English,USA,R,2008
-149,9,13,130,4946250,Documentary|Music,Sheryl Crow,20 Feet from Stardom ,198,Merry Clayton,English,USA,PG-13,2013
-54,56,13,21000,1950218,Comedy|Drama,Robert Downey Jr.,Two Girls and a Guy ,21124,Angel David,English,USA,R,1997
-18,132,584,778,1277257,Comedy|Drama|Romance,Kevin Corrigan,Walking and Talking ,2400,Vincent Pastore,English,UK,R,1996
-122,11,121,1000,45857453,Comedy|Drama|Music,Tom Wilkinson,The Full Monty ,2323,Lesley Sharp,English,UK,R,1997
-87,2,5,783,1677838,Documentary,Ed Begley Jr.,Who Killed the Electric Car? ,1447,Colette Divine,English,USA,PG,2006
-51,112,428,1000,1744858,Comedy|Drama|Romance|Sport,Justin Theroux,The Broken Hearts Club: A Romantic Comedy ,3085,Mary McCormack,English,USA,R,2000
-260,152,124,1000,,Comedy|Fantasy|Mystery,Daniel Roebuck,Bubba Ho-Tep ,1587,Ella Joyce,English,USA,R,2002
-218,11,543,2000,80021740,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,Goosebumps ,5497,Ken Marino,English,USA,PG,2015
-16,12,6,245,982214,Drama,Sonja Sohn,Slam ,295,Bonz Malone,English,USA,R,1998
-12,13,25,957,798341,Crime|Drama|Mystery,Wilford Brimley,Brigham City ,1107,Rick Macy,English,USA,PG-13,2001
-1,10,97,353,610991,Drama|Romance,Karisma Kapoor,Fiza ,773,Jaya Bhaduri,Hindi,India,,2000
-48,0,842,1000,,Comedy,Madeline Kahn,History of the World: Part I ,3931,Dom DeLuise,English,USA,R,1981
-59,406,194,406,582024,Comedy|Sci-Fi,Trey Parker,Orgazmo ,904,Matt Stone,English,USA,NC-17,1997
-88,234,463,11000,548712,Drama|Romance,Zooey Deschanel,All the Real Girls ,12385,Shea Whigham,English,USA,R,2003
-28,4,301,611,464655,Comedy|Drama,David Arquette,Dream with the Fishes ,1692,Kathryn Erbe,English,USA,R,1997
-44,22,275,638,464126,Drama,Frances Fisher,Blue Car ,1641,A.J. Buckley,English,USA,R,2002
-13,0,268,844,428535,Comedy|Romance,Cheech Marin,Luminarias ,2289,Robert Beltran,English,USA,R,2000
-117,71,145,11000,750100,Drama,James Franco,Palo Alto ,12234,Olivia Crocicchia,English,USA,R,2013
-100,13,7,20,621240,Crime|Drama,Shahir Kabaha,Ajami ,42,Ranin Karim,Arabic,Germany,,2009
-117,21,772,1000,104077,Comedy|Drama|Fantasy|Romance,Leslie Bibb,Wristcutters: A Love Story ,4720,Chase Ellison,English,USA,R,2006
-140,135,11,7000,334658,Drama|Romance|Sci-Fi,Steven Yeun,I Origins ,7098,Venida Evans,English,USA,R,2014
-29,2,551,855,279282,Comedy|Drama|Romance,Shiri Appleby,The Battle of Shaker Heights ,2489,Kathleen Quinlan,English,USA,PG-13,2003
-308,0,310,873,43982842,Drama|Fantasy|Thriller,Michael Imperioli,The Lovely Bones ,2369,Tom McCarthy,English,USA,PG-13,2009
-248,50,0,3,484221,Biography|Crime|Documentary|History,Anwar Congo,The Act of Killing ,6,Syamsul Arifin,Indonesian,UK,Not Rated,2012
-84,141,23,141,274661,Crime|Documentary|War,Alex Gibney,Taxi to the Dark Side ,313,Greg D'Agostino,English,USA,R,2007
-40,10,5,102,144431,Documentary|Sport,Pelé,Once in a Lifetime: The Extraordinary Story of the New York Cosmos ,118,Ahmet Ertegun,English,UK,PG-13,2006
-,0,0,12,227241,Drama,Kumar Gaurav,Guiana 1838 ,15,Aasheekaa Bathija,English,USA,Unrated,2004
-13,165,679,978,112521,Comedy|Drama,Mira Sorvino,Lisa Picard Is Famous ,3258,Melissa Gilbert,English,USA,PG-13,2000
-31,9,9,53,287761,Adventure|Biography|Documentary|Drama,Josh Swanson,Antarctica: A Year on Ice ,86,Anthony Powell,English,New Zealand,PG,2013
-43,0,0,20,100240,Documentary,G.W. Krauss,A Lego Brickumentary ,28,Jason Bateman,English,Denmark,G,2014
-2,74,891,260000,96734,Action|Drama,Matthew Ziff,Hardflip ,263584,Raquel Elizabeth Ames,English,USA,PG-13,2012
-4,5,219,724,49000,Thriller,Emraan Hashmi,Chocolate: Deep Dark Secrets ,2024,Sunil Shetty,Hindi,India,,2005
-238,243,725,969,100659,Horror,Lena Dunham,The House of the Devil ,3833,Dee Wallace,English,USA,R,2009
-112,11,271,443,48430,Comedy|Crime|Thriller,David Hyde Pierce,The Perfect Host ,1452,Nathaniel Parker,English,USA,R,2010
-33,29,117,499,21210,Comedy|Crime,Harvey Fierstein,Safe Men ,1141,Josh Pais,English,USA,R,1998
-8,5,73,590,,Crime|Drama|Romance,Patrick Renna,Speedway Junky ,1042,Adrienne Frantz,English,USA,R,1999
-95,8,14,96,22434,Comedy|Drama,Yul Vazquez,The Last Big Thing ,196,James Lorinz,English,USA,R,1996
-29,82,490,2000,12996,Action|Comedy|Fantasy|Sci-Fi,Judy Greer,The Specials ,3905,Jamie Kennedy,English,USA,R,2000
-3,32,256,386,,Comedy|Romance,Will Rothhaar,16 to Life ,1647,Hallee Hirsh,English,USA,,2009
-71,0,61,262,10018,Crime|Drama|Thriller,Jordana Spiro,Alone with Her ,509,Jonathon Trent,English,USA,Not Rated,2006
-36,4,150,446,62480,Drama|Sci-Fi,Nora Zehetner,Creative Control ,928,Meredith Hagner,English,USA,R,2015
-56,0,394,975,6387,Comedy|Drama|Sci-Fi,Michael Rapaport,Special ,2694,Ian Bohen,English,USA,R,2006
-8,18,422,491,5494,Comedy|Drama,Frances Bay,Sparkler ,2633,Veronica Cartwright,English,USA,R,1997
-3,0,94,639,,Action|Adventure|Comedy|Fantasy|Sci-Fi,Scott Levy,The Helix... Loaded ,1188,Jennifer Sky,English,USA,R,2005
-8,53,176,563,721,Action|Drama,David Keith,In Her Line of Fire ,1284,Jesse Hutch,English,Germany,R,2006
-9,436,4,474,703,Comedy|Drama,Lynn Cohen,The Jimmy Show ,920,Heather Bucha,English,USA,R,2001
-87,50,8,327,,Crime|Drama|Romance,Kenny Johnston,Heli ,351,Gabriel Reyes,Spanish,Mexico,Not Rated,2013
-6,3,4,7,,Comedy|Family,Rasheed Naz,Karachi se Lahore ,19,Javed Sheikh,Urdu,Pakistan,,2015
-14,57,228,442,,Drama|Romance,Ilene Graff,Loving Annabelle ,1635,Laura Breckenridge,English,USA,Not Rated,2006
-20,0,396,782,,Comedy|Drama,Jason Ritter,Hits ,2607,Amy Sedaris,English,USA,,2014
-23,0,131,363,,Crime|Drama|Thriller,Nicole Randall Johnson,Jimmy and Judy ,997,James Eckhouse,English,USA,R,2006
-6,15,106,984,,Comedy,Randy Wayne,Frat Party ,1752,Alicia Ziegler,English,USA,R,2009
-12,82,47,694,,Drama,Oliver Reed,The Party's Over ,964,Louise Sorel,English,UK,,1965
-2,3,149,767,,Drama,Aidan Quinn,Proud ,1593,Janet Hubert,English,USA,PG,2004
-12,923,904,34000,,Drama,Jennifer Lawrence,The Poker House ,52113,Bokeem Woodbine,English,USA,R,2008
-,0,171,1000,,Drama,Joe Mantegna,Childless ,1996,Diane Venora,English,USA,R,2008
-64,23,23,199,,Comedy|Horror|Sci-Fi,Russell Hodgkinson,ZMD: Zombies of Mass Destruction ,292,Kevin Hamedani,English,USA,R,2009
-7,142,317,458,,Horror,Maureen McCormick,Snow White: A Deadly Summer ,1549,Tim Abell,English,USA,PG-13,2012
-9,0,0,90,,Drama|Romance,Álex Angulo,Hidden Away ,90,Joseba Ugalde,Spanish,Spain,Unrated,2014
-21,0,360,898,,Comedy|Drama|Romance,Nicole Beharie,My Last Day Without You ,2116,Reg E. Cathey,English,USA,,2011
-,105,110,592,,Comedy|Music,Wesley Jonathan,Steppin: The Movie ,1350,Chrystee Pharris,English,USA,PG-13,2009
-1,142,402,10000,,Western,William McNamara,Doc Holliday's Revenge ,11466,Randy Jay Burrell,English,USA,PG-13,2014
-95,224,37,224,,Horror|Thriller,Katie Aselton,Black Rock ,344,Jay Paulson,English,USA,R,2012
-40,0,177,335,,Horror|Mystery,David Oakes,Truth or Die ,1226,Jennie Jacques,English,UK,Not Rated,2012
-6,6,0,92,,Drama|Thriller,Magi Avila,The Pet ,109,Summer Napoles,English,USA,,2006
-16,0,36,57,,Drama|Musical|Sci-Fi,Boyd Banks,Bang Bang Baby ,231,Kristian Bruun,English,Canada,,2014
-39,53,253,677,,Horror,Angelina Armani,Fear Clinic ,1825,Fiona Dourif,English,USA,R,2015
-150,3,115,214,,Action|Comedy|Horror,Jason K. Wixom,Zombie Hunter ,656,Jarrod Phillips,English,USA,Not Rated,2013
-1,0,426,657,,Drama,Justin Baldoni,A Fine Step ,2677,Leonor Varela,,USA,PG,2014
-393,0,888,3000,2319187,Crime|Drama|Mystery|Thriller,Rosario Dawson,Trance ,5056,Tuppence Middleton,English,UK,R,2013
-32,17,113,754,,Drama|Romance|Sci-Fi,Cliff Robertson,Charly ,1567,Claire Bloom,English,USA,PG,1968
-78,0,302,696,,Horror|Thriller,Monique Candelaria,Banshee Chapter ,1618,Michael McMillian,English,Germany,R,2013
-,,223,775,,Comedy,Eric Lloyd,Jesse             ,1713,Bruno Campos,English,USA,,
-8,12,354,529,,Drama,Kimberly Williams-Paisley,Ask Me Anything ,2468,Cathryn de Prume,English,USA,Not Rated,2014
-6,29,558,1000,,Comedy|Romance,Vanessa Williams,And Then Came Love ,2504,Eartha Kitt,English,USA,,2007
-9,0,17,56,,Documentary|News,Alma Martinez,Food Chains ,104,Eve Ensler,English,USA,,2014
-134,603,279,10000,9600000,Crime|Drama|Romance,Marlon Brando,On the Waterfront ,11094,Rod Steiger,English,USA,Not Rated,1954
-18,28,501,945,20186,Comedy,Justin Kirk,L!fe Happens ,2924,Kristen Johnston,English,USA,R,2011
-233,163,27,131,1185783,Drama,Anamaria Marinca,4 Months, 3 Weeks and 2 Days ,264,Alexandru Potocean,Romanian,Romania,Not Rated,2007
-10,171,76,1000,,Horror,Javier Botet,The Horror Network Vol. 1 ,1343,Jan Cornet,English,USA,,2015
-231,171,0,109,1007962,Crime|Drama|Thriller,Odessa Rae,Hard Candy ,117,Patrick Wilson,English,USA,R,2005
-65,91,659,982,381186,Drama|Thriller,Katy Mixon,The Quiet ,3299,Edie Falco,English,USA,R,2005
-76,32,127,144,439958,Drama,Sarah Kazemy,Circumstance ,509,Sina Amedson,Persian,France,R,2011
-327,0,88,282,16097842,Biography|Drama|Romance,Ahna O'Reilly,Fruitvale Station ,687,Ariana Neal,English,USA,R,2013
-62,6,727,975,6643,Comedy|Fantasy|Thriller,Jack McBrayer,The Brass Teapot ,4184,Alia Shawkat,English,USA,R,2012
-116,11,8,16,102797150,Animation|Drama|Family,Sam Edwards,Bambi ,63,Ann Gillis,English,USA,Approved,1942
-73,0,102,465,442638,Comedy|Romance|Sport,John Enos III,The Hammer ,897,Adam Carolla,English,USA,R,2007
-238,29,874,12000,42919096,Action|Drama|Thriller,Dwayne Johnson,Snitch ,15800,Nadine Velazquez,English,USA,PG-13,2013
-35,6,522,23000,819939,Comedy|Drama|Romance,Joseph Gordon-Levitt,Latter Days ,26017,Jacqueline Bisset,English,USA,R,2003
-2,0,0,0,,Drama,Stana Roumillac,Elza ,0,Teddy Doloir,French,France,,2011
-6,66,734,904,,Drama,Bokeem Woodbine,1982 ,5435,Quinton Aaron,English,USA,R,2013
-115,15,567,938,1243961,Comedy,James Wolk,For a Good Time, Call... ,3770,Nia Vardalos,English,USA,R,2012
-193,43,172,904,3094687,Comedy|Drama|Romance,Ari Graynor,Celeste & Jesse Forever ,1751,Rob Huebel,English,USA,R,2012
-16,14,221,284,15278,Drama|Fantasy|Sci-Fi,Gavin MacLeod,Time Changer ,1185,Hal Linden,English,USA,PG,2002
-68,46,141,418,,Crime|Drama|Thriller,Lorraine Stanley,London to Brighton ,926,Georgia Groome,English,UK,R,2006
-16,63,175,489,,Action|Comedy|Drama|Sci-Fi,Eddie Griffin,American Hero ,1278,Michelle Tabora,English,USA,,2015
-7,8,487,1000,,Mystery|Thriller,Tommy O'Reilly,Windsor Drive ,3336,Matt Cohen,English,USA,,2015
-354,0,620,786,7098492,Drama|Mystery,Shahab Hosseini,A Separation ,2501,Peyman Moaadi,Persian,Iran,PG-13,2011
-16,5,10,49,,Thriller,Jo Hartley,Crying with Laughter ,81,Joe Cassidy,English,UK,,2009
-74,377,236,529,4771000,Comedy|Drama,Heather Matarazzo,Welcome to the Dollhouse ,1502,Christina Vidal,English,USA,R,1995
-11,9,86,159,1001437,Drama|Romance,Allison Dean,Ruby in Paradise ,423,Dorothy Lyman,English,USA,R,1993
-59,6,68,302,2073984,Drama|Romance,Victor Rasuk,Raising Victor Vargas ,663,Judy Marte,English,France,R,2002
-71,21,3,426,9950,Crime|Drama|Romance,Louise Brooks,Pandora's Box ,455,Fritz Kortner,German,Germany,Not Rated,1929
-5,0,167,940,,Drama,Martin Landau,Harrison Montgomery ,1484,Diane Baker,English,USA,,2008
-25,0,0,24,,Drama,Norma Aleandro,Live-In Maid ,29,Claudia Lapacó,Spanish,Argentina,Unrated,2004
-29,37,501,574,144583,Drama|Thriller,Kevin Pollak,Deterrence ,1983,Timothy Hutton,English,France,R,1999
-17,3,181,262,,Crime|Drama|Romance,Zachary Knighton,The Mudge Boy ,991,Ryan Donowho,English,USA,R,2003
-13,0,258,1000,58163,Drama,Leslie Bibb,The Young Unknowns ,2359,Arly Jover,English,USA,R,2000
-6,247,152,247,35688,Comedy,Shane Dawson,Not Cool ,954,Cherami Leigh,English,USA,Not Rated,2014
-224,75,13,35,41709,Comedy|Horror,Bjørn Sundquist,Dead Snow ,116,Ane Dahl Torp,Norwegian,Norway,Not Rated,2009
-33,38,69,214,1310270,Action|Adventure|Drama|War,Corbin Allred,Saints and Soldiers ,587,Kirby Heyborne,English,USA,PG-13,2003
-1,0,37,134,,Horror|Sci-Fi|Short|Thriller,Taylor Pigeon,Vessel ,315,Whit Spurgeon,English,USA,,2012
-100,0,425,11000,115000000,Comedy|Drama|Music,Harrison Ford,American Graffiti ,14954,Mackenzie Phillips,English,USA,PG,1973
-21,21,0,25,,Documentary|War,Scott Helvenston,Iraq for Sale: The War Profiteers ,25,Donna Zovko,English,USA,,2006
-82,8,357,2000,5518918,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,Tina Fey,Aqua Teen Hunger Force Colon Movie Film for Theaters ,3071,Chris Kattan,English,USA,R,2007
-271,365,522,934,4007792,Comedy|Drama|Romance,Mary Lynn Rajskub,Safety Not Guaranteed ,2714,Jeff Garlin,English,USA,R,2012
-5,15,95,312,7705974,Comedy|Documentary,Isaac C. Singleton Jr.,Kevin Hart: Laugh at My Pain ,548,Jeanette Branch,English,USA,R,2011
-255,214,246,513,26297,Crime|Horror|Thriller,MyAnna Buring,Kill List ,1269,Neil Maskell,English,UK,Not Rated,2011
-292,243,74,969,77501,Horror,Lena Dunham,The Innkeepers ,1252,Pat Healy,English,USA,R,2011
-178,687,389,10000,42638165,Drama|Fantasy|Horror|Mystery|Thriller,Gary Oldman,The Unborn ,12183,Rachel Brosnahan,English,USA,PG-13,2009
-120,973,48,319,,Drama,Jean-Louis Trintignant,The Conformist ,500,Dominique Sanda,Italian,Italy,R,1970
-31,168,21,108,47329,Drama,Raymond J. Barry,Interview with the Assassin ,243,Renee Faia,English,USA,R,2002
-114,4,201,1000,18378,Crime|Drama|Horror|Thriller,Julian Morris,Donkey Punch ,1558,Tom Burke,English,UK,R,2008
-233,129,280,935,,Horror,Luke Grimes,All the Boys Love Mandy Lane ,2170,Whitney Able,English,USA,R,2006
-8,3,118,717,,Horror,Dichen Lachman,Bled ,1117,Michele Morrow,English,USA,R,2009
-153,160,433,998,,Thriller|Western,Gary Cooper,High Noon ,2496,Lon Chaney Jr.,English,USA,PG,1952
-53,23,2,7,7830611,Documentary|Drama|Sport,William Gates,Hoop Dreams ,15,Isiah Thomas,English,USA,PG-13,1994
-49,30,14,262,3278611,Documentary|Music,Kevin Scott Richardson,Rize ,321,Tommy the Clown,English,USA,PG-13,2005
-4,364,567,22000,,Action|Adventure|Fantasy|Sci-Fi,Peter Dinklage,Destiny ,26578,Erick Avari,English,USA,,2014
-64,52,36,80,1141829,Crime|Drama,Adam LeFevre,L.I.E. ,209,Walter Masterson,English,USA,NC-17,2001
-23,0,195,601,,Drama|Mystery|Thriller,Laura Fraser,The Sisterhood of Night ,1581,Louis Ozawa Changchien,English,USA,PG-13,2014
-8,0,311,618,,Drama|Music|Romance,Aimee Garcia,B-Girl ,2476,Drew Sidora,English,USA,PG-13,2009
-446,0,84,6000,218051260,Action|Adventure|Drama|Romance,Naomi Watts,King Kong ,7122,Evan Parke,English,New Zealand,PG-13,2005
-228,174,324,730,32048809,Horror,Robert Ri'chard,House of Wax ,2160,Brian Van Holt,English,Australia,R,2005
-208,31,71,33000,2694973,Drama,Ryan Gosling,Half Nelson ,33734,Jeff Lima,English,USA,R,2006
-2,0,236,752,10508,Drama,Irene Bedard,Naturally Native ,1763,Max Gail,English,USA,PG-13,1998
-25,21,48,465,2301777,Comedy,Hill Harper,Hav Plenty ,714,Chenoa Maxwell,English,USA,R,1997
-8,0,137,696,,Crime|Drama|Thriller,Mehcad Brooks,Adulterers ,1210,Danielle Savre,English,USA,,2015
-143,13,432,977,169719,Fantasy|Horror,Trey Loney,Escape from Tomorrow ,2483,Amy Lucas,English,USA,Not Rated,2013
-21,2,442,628,,Documentary,Richard Curtis,Starsuckers ,1683,Elton John,English,UK,,2009
-1,0,21,1000,,Documentary,Alfre Woodard,The Hadza: Last of the First ,1359,Jane Goodall,English,USA,,2014
-34,4,258,523,,Fantasy|Horror|Mystery|Thriller,Sandra Ellis Lafferty,After ,1553,Karolina Wydra,English,USA,PG-13,2012
-5,4,2000,260000,,Drama|Thriller,Matthew Ziff,Treachery ,283939,Michael Biehn,English,USA,,2013
-10,7,912,956,,Comedy|Drama,Leven Rambin,Walter ,4767,Virginia Madsen,English,USA,,2015
-66,10,23,610,3000000,Comedy|Musical|Romance,Ginger Rogers,Top Hat ,824,Eric Blore,English,USA,Approved,1935
-360,19,39,170,140530114,Horror,Heather Donahue,The Blair Witch Project ,399,Michael C. Williams,English,USA,R,1999
-53,14,136,262,13300000,Documentary|History|Music,Joe Cocker,Woodstock ,778,Joan Baez,English,USA,R,1970
-82,644,11,119,,Comedy,David Zucker,The Kentucky Fried Movie ,190,Tara Strohmeier,English,USA,R,1977
-15,16,254,602,171988,Action|Crime|Drama,Stacy Keach,Mercy Streets ,1281,Cynthia Watros,English,USA,PG-13,2000
-,0,20,23,23616,Mystery|Thriller,Kendyl Joi,Arnolds Park ,85,Tac Fitzgerald,English,USA,PG-13,2007
-18,4,218,919,13493,Drama,William Smith,Broken Vessels ,2288,Brent David Fraser,English,USA,R,1998
-,12,359,601,79043,Crime|Drama,Nicholas Gonzalez,Water & Power ,2241,Exie Booker,English,USA,Not Rated,2013
-22,0,0,0,,Documentary,Aliou Touré,They Will Have to Kill Us First ,0,Khaira Arby,French,UK,,2015
-15,3,0,0,,Documentary,Karen Alexander,Crop Circles: Quest for Truth ,0,Francine Blake,English,USA,,2002
-,0,271,595,,Action|Drama|Thriller,Russell Wong,Light from the Darkroom ,1754,Lymari Nadal,English,USA,PG-13,2014
-18,12,2,541,,Comedy|Drama,François Cluzet,Irreplaceable ,553,Marianne Denicourt,French,France,,2016
-8,5,233,587,,Thriller,Paula Garcés,The Maid's Room ,1707,John Brodsky,English,USA,,2013
-105,44,704,785,515005,Comedy|Musical,Paul McCartney,A Hard Day's Night ,2538,George Harrison,English,UK,Approved,1964
-3,6,,,2245,Documentary,,The Harvest/La Cosecha ,0,,English,USA,,2011
-4,11,221,2000,,Drama|Romance,Jamie Lee Curtis,Love Letters ,2996,Amy Madigan,English,USA,R,1983
-2,0,0,0,,Comedy,Dario Nozic Serini,Julija in alfa Romeo ,0,Andrej Nahtigal,Slovenian,Slovenia,,2015
-50,589,150,848,33451479,Drama|Romance,Kirk Cameron,Fireproof ,1164,Erin Bethea,English,USA,PG,2008
-19,95,0,0,,Biography|Documentary|Drama,Bhole Baba,Faith Connections ,0,Shriman Umeshanad Brahmachari,Hindi,India,,2013
-5,24,142,407,39552600,Adventure|Family|Romance,Frances Bavier,Benji ,1090,Edgar Buchanan,English,USA,G,1974
-235,9,7,48,30500882,Adventure|Biography|Drama|Horror|Thriller,Blanchard Ryan,Open Water ,67,Daniel Travis,English,USA,R,2003
-8,490,201,833,,Comedy,Joe Lo Truglio,High Road ,2295,Abby Elliott,English,USA,R,2011
-95,8,22,423,17000000,Horror|Sci-Fi,Woody Strode,Kingdom of the Spiders ,516,Tiffany Bolling,English,USA,PG,1977
-84,2,0,0,8044906,Documentary|Family|Music,Heather Berman,Mad Hot Ballroom ,0,Paul Daggett,English,USA,PG,2005
-154,310,587,22000,5739376,Comedy|Drama,Peter Dinklage,The Station Agent ,24419,Paula Garcés,English,USA,R,2003
-20,3,234,984,3773863,Drama,Randy Wayne,To Save a Life ,2563,D. David Morin,English,USA,PG-13,2009
-88,3,2,196,3117666,Documentary,Ken Burns,Wordplay ,382,Bob Dole,English,USA,PG,2006
-70,6,43,54,2047570,Biography|Documentary|Sport,Terry Funk,Beyond the Mat ,194,Mick Foley,English,USA,R,1999
-5,0,15,69,1250798,Comedy|Drama|Romance,Kirby Heyborne,The Singles Ward ,161,Daryn Tufts,English,USA,PG,2002
-105,6,0,30,1127331,Drama,Marina Golbahari,Osama ,30,Mohamad Haref Harati,Dari,Afghanistan,PG-13,2003
-29,0,59,399,906666,Documentary,Rachel Dratch,Sholem Aleichem: Laughing in the Darkness ,660,Jason Kravits,English,USA,Unrated,2011
-46,7,17,328,1114943,Drama|Music,Rachel True,Groove ,407,Denny Kirkwood,English,USA,R,2000
-3,0,17,69,1111615,Comedy|Crime|Family,Kirby Heyborne,The R.M. ,155,Curt Doussett,English,USA,PG,2003
-54,35,482,980,985341,Drama,Sasha Alexander,Twin Falls Idaho ,3166,Jon Gries,English,USA,R,1999
-126,9,595,710,603943,Crime|Drama,Rory Culkin,Mean Creek ,2655,Trevor Morgan,English,USA,R,2004
-17,204,474,659,334041,Crime|Drama|Romance,Edie Falco,Hurricane Streets ,2322,Lynn Cohen,English,USA,R,1997
-25,71,658,22000,295468,Comedy|Romance,Peter Dinklage,Never Again ,24382,Michael McKean,English,USA,R,2001
-11,21,469,597,243347,Crime|Drama|Thriller,Monica Calhoun,Civil Brand ,2555,Clifton Powell,English,USA,R,2002
-81,12000,213,778,154077,Comedy|Drama,Kevin Corrigan,Lonesome Jim ,1440,Mary Kay Place,English,USA,R,2005
-155,217,243,10000,342936,Comedy|Drama|Romance,Olivia Wilde,Drinking Buddies ,20480,Ti West,English,USA,R,2013
-39,0,49,342,151389,Documentary,David Mamet,Deceptive Practice: The Mysteries and Mentors of Ricky Jay ,483,Dick Cavett,English,USA,,2012
-153,0,4,304,269061,Action|Adventure|Drama,Takashi Shimura,Seven Samurai ,338,Kamatari Fujiwara,Japanese,Japan,Unrated,1954
-26,6,8,14,133778,Documentary|Sport,Tommy Sheppard,The Other Dream Team ,44,Mickey Hart,English,USA,Not Rated,2012
-10,32,329,11000,,Comedy|Music|Romance,Brad Pitt,Johnny Suede ,11839,Nick Cave,English,Switzerland,R,1991
-35,681,143,239,52850,Comedy,Monique Gabriela Curnen,Finishing the Game: The Search for a New Bruce Lee ,734,Joe McQueen,English,USA,Not Rated,2007
-230,248,196,353,98017,Comedy|Fantasy|Horror,Haley Ramm,Rubber ,1498,Cecelia Antoinette,English,France,R,2010
-165,12,183,17000,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Jim Parsons,Home ,17883,April Winchell,English,USA,PG,2015
-9,6,325,396,31937,Comedy|Romance,Tori Spelling,Kiss the Bride ,2310,Garrett M. Brown,English,USA,R,2007
-17,12,699,33000,13134,Drama|Sport,Ryan Gosling,The Slaughter Rule ,35294,Eddie Spears,English,USA,R,2002
-344,380,113,660,237301,Drama|Sci-Fi|Thriller,Scoot McNairy,Monsters ,1118,Ricky Catter,English,UK,R,2010
-2,0,347,584,,Drama,Keith Carradine,The Californians ,1924,Illeana Douglas,English,USA,PG,2005
-28,0,170,472,12055,Comedy,Jim Gaffigan,The Living Wake ,1047,Matthew Cowles,English,USA,PG-13,2007
-29,38,445,552,1332,Comedy|Horror,Justin Chon,Detention of the Dead ,2251,Max Adler,English,USA,Not Rated,2012
-11,0,0,4,,Comedy|Crime,Bo Huang,Crazy Stone ,8,Zhonghua Chen,Mandarin,China,,2006
-48,3,25,30,,Biography|Documentary|Music,Brian Eno,Scott Walker: 30 Century Man ,119,Damon Albarn,English,UK,,2006
-24,395,637,991,,Drama,Radha Mitchell,Everything Put Together ,3309,Megan Mullally,English,USA,R,2000
-166,487,118,991,316842,Drama|Thriller,Bruce Greenwood,Good Kill ,2099,Stafford Douglas,English,USA,R,2014
-,2,0,2,,Thriller,Daston Kalili,Insomnia Manica ,2,Chin-Chien Chang,English,USA,,2005
-9,3,205,387,,Documentary,Carol Channing,The Outrageous Sophie Tucker ,1235,Tony Bennett,English,USA,,2014
-48,21,680,25000,,Drama|Romance,Jeremy Irvine,Now Is Good ,26999,Paddy Considine,English,UK,PG-13,2012
-64,32,238,685,,Comedy|Horror,Vincent Chimato,Girls Gone Dead ,2102,Al Sapienza,English,USA,R,2012
-,0,569,970,,History,Emma Caulfield,America Is Still the Place ,3359,Mike Colter,English,USA,,2015
-1,406,152,358,,Action|Mystery|Thriller,Mike Beckingham,Subconscious ,1038,Tom Stedham,English,USA,R,2015
-111,33,135,1000,37188667,Comedy|Drama,Britney Spears,Crossroads ,1531,Dave Allen,English,USA,PG-13,2002
-26,0,120,322,,Mystery|Thriller,Shaun Sipos,Enter Nowhere ,630,Christopher Denham,English,USA,R,2011
-1,0,15,159,,Crime|Drama,Manny Perez,The King of Najayo ,206,Claudette Lalí,Spanish,Dominican Republic,R,2012
-3,0,212,918,,Action|Romance|Sport,Jennifer Hale,Fight to the Finish ,2091,Vincent De Paul,English,USA,PG-13,2016
-10,163,303,636,,Horror|Musical,Paul Sorvino,Alleluia! The Devil's Carnival ,2438,Terrance Zdunich,English,USA,,2016
-1,0,33,84,,Comedy|Mystery|Thriller,Mary Kate Wiles,The Sound and the Shadow ,254,Felix Avitia,English,USA,R,2014
-1,431,317,466,,Family,Carrie Bradstreet,Rodeo Girl ,1628,Yassie Hawkes,English,USA,PG,2016
-10,0,0,0,21199,Action|Biography|Documentary|Sport,Elizabeth Streb,Born to Fly: Elizabeth Streb vs. Gravity ,0,Laura Flanders,English,USA,,2014
-1,0,53,385,,Family,Mike Stanley,The Little Ponderosa Zoo ,683,Jamison Stalsworth,English,USA,,2016
-525,0,11000,44000,234903076,Adventure|Family|Fantasy,Tim Holmes,Oz the Great and Powerful ,73441,James Franco,English,USA,PG,2013
-96,6,10,488,,Action|Comedy|Horror|Sci-Fi,Patrick Kilpatrick,The Toxic Avenger ,553,Pat Ryan,English,USA,Unrated,1984
-8,10,10,353,2712293,Crime|Drama,Lawrence Gilliard Jr.,Straight Out of Brooklyn ,380,Matty Rich,English,USA,R,1991
-92,521,80,773,768045,Drama|History|War,James Nesbitt,Bloody Sunday ,976,Tim Pigott-Smith,English,UK,R,2002
-1,5,237,472,,Action,Luis Sanchez,Diamond Ruff ,1752,Fredro Starr,English,USA,R,2015
-365,3,446,10000,379122,Comedy|Drama|Romance,Olivia Wilde,Conversations with Other Women ,12496,Nora Zehetner,English,UK,R,2005
-88,365,49,907,23000,Comedy|Horror|Musical,John Karyus,Poultrygeist: Night of the Chicken Dead ,1411,Kate Graham,English,USA,Unrated,2006
-3,0,304,873,,Comedy|Romance,Jennifer Lafleur,Mutual Friends ,2830,Michael Stahl-David,English,USA,,2013
-65,24,45,610,2300000,Comedy|Musical|Romance,Ginger Rogers,42nd Street ,995,George Brent,English,USA,Unrated,1933
-,0,0,8,,Documentary,Bob Proctor,Rise of the Entrepreneur: The Search for a Better Way ,10,Eric Worre,English,USA,G,2014
-71,89,3,88,2938208,Comedy|Drama|Romance,Chris Eigeman,Metropolitan ,173,Ellia Thompson,English,USA,PG-13,1990
-34,10,19,690,9910,Comedy|Drama|Music|Romance,Michael Nyqvist,As It Is in Heaven ,774,Nils-Anders Vallgårda,Swedish,Sweden,,2004
-15,15,93,847,,Drama|Horror|Mystery|Thriller,Jack E. Curenton,Roadside ,1151,Alan Pietruszewski,English,USA,,2013
-220,100,482,970,44540956,Comedy,Jon Heder,Napoleon Dynamite ,3950,Jon Gries,English,USA,PG,2004
-279,57,92,1000,258113,Crime|Drama|Thriller,Devin Ratray,Blue Ruin ,1528,Amy Hargreaves,English,USA,R,2013
-409,110,21,189,107917283,Horror,Micah Sloat,Paranormal Activity ,330,Amber Armstrong,English,USA,R,2007
-86,147,5,22,1293295,Documentary|Sport,Tony Alva,Dogtown and Z-Boys ,54,Jeff Ament,English,USA,PG-13,2001
-131,0,332,795,1229197,Adventure|Comedy|Fantasy,Eric Idle,Monty Python and the Holy Grail ,2158,Terry Jones,English,UK,PG,1975
-69,25,138,231,1689999,Drama,Emily Rios,Quinceañera ,771,Alicia Sixtos,Spanish,USA,R,2006
-8,14,6,361,11798,Comedy|Fantasy|Horror|Musical,Tony Doupe,Gory Gory Hallelujah ,387,David Frederick White,English,USA,,2003
-75,,833,1000,,Drama|Fantasy|Sci-Fi|Thriller,Sendhil Ramamurthy,Heroes             ,4908,Greg Grunberg,English,USA,TV-14,
-72,20,0,58,592014,Biography|Documentary,Greg Ayres,Tarnation ,78,Renee Leblanc,English,USA,Unrated,2003
-4,4,12,93,425899,Documentary,Bill Farmer,I Want Your Money ,168,Mike Huckabee,English,USA,PG,2010
-9,0,271,935,,Comedy|Horror,Kane Hodder,Love in the Time of Monsters ,2350,Alex Sanborn,English,USA,,2014
-203,385,22,48,126387,Horror,Catriona MacColl,The Beyond ,123,Al Cliver,Italian,Italy,X,1981
-11,,6,59,,Animation|Comedy|Drama,Brendon Small,Home Movies             ,81,Melissa Bardin Galsky,English,USA,TV-PG,
-148,12,149,642,80276912,Comedy|Romance,Treat Williams,What Happens in Vegas ,1026,Michelle Krusiec,English,USA,PG-13,2008
-80,3,39,108,,Horror|Thriller,Dov Tiefenbach,The Dark Hours ,272,Gordon Currie,English,Canada,R,2005
-46,350,33,114,,Comedy|Drama|Romance,Saeed Jaffrey,My Beautiful Laundrette ,260,Garry Cooper,English,UK,R,1985
-8,0,36,169,25918,Drama|Horror|Mystery|Thriller,R. Brandon Johnson,Fabled ,312,Desmond Askew,English,USA,R,2002
-10,0,83,918,,Drama|Thriller,Katharine Isabelle,Show Me ,1163,Gabriel Hogan,French,Canada,R,2004
-76,0,92,440,,Drama,Liv Ullmann,Cries & Whispers ,809,Erland Josephson,Swedish,Sweden,R,1972
-69,204,9,436,,Drama|History|War,Lillian Gish,Intolerance: Love's Struggle Throughout the Ages ,481,Walter Long,,USA,Not Rated,1916
-43,3,513,643,617172,Documentary,Walter Koenig,Trekkies ,2864,James Doohan,English,USA,PG,1997
-36,4,4,77,2808000,Musical|Romance,Anita Page,The Broadway Melody ,109,Charles King,English,USA,Passed,1929
-304,0,58,634,,Fantasy|Horror,Ted Raimi,The Evil Dead ,813,Ellen Sandweiss,English,USA,NC-17,1981
-279,33,118,470,12843,Horror|Thriller,America Olivo,Maniac ,1233,Liane Balaban,English,France,Not Rated,2012
-23,0,,3,34151,Documentary|History,Amos Oz,Censored Voices ,3,,Hebrew,Israel,,2015
-110,30,0,15,1523883,Documentary|Sport,Mark Zupan,Murderball ,15,Andy Cohn,English,USA,R,2005
-40,44,93,615,4000000,Action|Drama,Michael Dudikoff,American Ninja 2: The Confrontation ,872,Larry Poindexter,English,USA,R,1987
-45,0,0,0,84689,Documentary,Carol Block,51 Birch Street ,0,Mike Block,English,Germany,Unrated,2005
-23,,576,2000,,Action|Adventure|Drama|Sci-Fi,Billy Burke,Revolution             ,5052,David Lyons,English,USA,TV-14,
-4,0,0,196,,Family|Sci-Fi,Tom E. Nicholson,Rotor DR1 ,199,Christian Kapper,English,USA,,2015
-318,0,598,2000,47000000,Horror|Thriller,Jamie Lee Curtis,Halloween ,4400,P.J. Soles,English,USA,R,1978
-177,0,253,359,,Crime|Drama,Jack Warden,12 Angry Men ,1433,John Fiedler,English,USA,Not Rated,1957
-51,3,258,812,246574,Animation|Drama,Isabella Rossellini,My Dog Tulip ,1370,Lynn Redgrave,English,USA,,2009
-124,964,21,380,,Comedy|Romance,Claudette Colbert,It Happened One Night ,540,Walter Connolly,English,USA,Unrated,1934
-211,252,14,47,110197,Drama|Thriller,Angeliki Papoulia,Dogtooth ,126,Sissy Petropoulou,Greek,Greece,Unrated,2009
-26,2,321,786,7707563,Biography|Documentary|Music,James Cagney,Tupac: Resurrection ,2638,Todd Bridges,English,USA,R,2003
-64,149,276,409,1281176,Comedy|Drama,Kimberly J. Brown,Tumbleweeds ,1986,Lois Smith,English,USA,PG-13,1999
-56,10,912,10000,16115878,Action|Fantasy|Horror|Mystery|Thriller,Viggo Mortensen,The Prophecy ,13433,Virginia Madsen,English,USA,R,1995
-29,82,8,75,1652472,Comedy|Romance,Simon Abkarian,When the Cat's Away ,102,Jane Bradbury,French,France,R,1996
-131,54,543,1000,2360184,Comedy|Drama,Oliver Platt,Pieces of April ,3010,Derek Luke,English,USA,PG-13,2003
-4,7,2,19,,Drama,Kevin Howarth,The Big Swap ,37,Thierry Harcourt,English,UK,,1998
-88,129,26,52,255352,Drama,Daniel London,Old Joy ,132,Will Oldham,English,USA,Unrated,2006
-189,129,26,375,856942,Drama,John Robinson,Wendy and Lucy ,460,Will Oldham,English,USA,R,2008
-20,5,301,795,,Drama,Embeth Davidtz,3 Backyards ,1884,Kathryn Erbe,English,USA,R,2010
-96,0,0,710,,Crime|Drama|Romance,Jean-Paul Belmondo,Pierrot le Fou ,967,Graziella Galvani,French,France,Not Rated,1965
-27,0,,2,32631,Documentary,Vera Ngassa,Sisters in Law ,2,,English,Cameroon,Not Rated,2005
-15,95,,,16892,Documentary,,Ayurveda: Art of Being ,0,,English,India,,2001
-24,0,87,581,12438,Drama|Romance,Yaphet Kotto,Nothing But a Man ,835,Ivan Dixon,English,USA,Not Rated,1964
-16,37,104,318,40542,Drama|Romance,Robert John Burke,First Love, Last Rites ,751,Natasha Gregson Wagner,English,USA,R,1997
-13,3,25,54,5199,Drama|Sport,Don Wallace,Fighting Tommy Riley ,185,Christina Chambers,English,USA,R,2004
-8,0,32,502,,Action|Thriller,Lalaine,Royal Kill ,689,Darren Kendrick,English,USA,PG-13,2009
-156,278,107,5000,24343673,Drama|Fantasy|Musical|Romance,Jim Sturgess,Across the Universe ,5405,Robert Clohessy,English,USA,PG-13,2007
-4,44,221,644,1711,Drama|Music,Trish Basinger,The Looking Glass ,1440,Mary Norwood,English,USA,,2015
-164,43,668,13000,,Action|Comedy|Sci-Fi|Sport,Sylvester Stallone,Death Race 2000 ,14950,Martin Kove,English,USA,R,1975
-10,0,309,685,2468,Thriller,Tatyana Ali,Locker 13 ,2048,Jon Polito,English,USA,R,2014
-1,0,87,156,,Horror,Michael Des Barres,Midnight Cabaret ,544,Thom Mathews,English,USA,R,1990
-8,3,248,500,,Comedy|Drama|Romance,Taran Killam,Anderson's Cross ,1545,Ryan Carnes,English,USA,R,2010
-9,77,0,19,,Drama|Musical|Romance,Rumi Missabu,Bizarre ,19,Raquel Nave,English,France,Unrated,2015
-78,5,180,431,,Horror|Mystery,Linnea Quigley,Graduation Day ,1228,Vanna White,English,USA,R,1981
-131,19,313,778,,Comedy|Crime|Drama|Horror|Mystery|Thriller,Kevin Corrigan,Some Guy Who Kills People ,2515,Ahmed Best,English,USA,R,2011
-286,25,235,601,318622,Biography|Crime|Drama|Thriller,Dreama Walker,Compliance ,1734,James McCaffrey,English,USA,R,2012
-147,0,781,13000,12006514,Comedy|Drama|Romance,Matt Damon,Chasing Amy ,15765,Joey Lauren Adams,English,USA,R,1997
-71,132,225,400,4186931,Comedy|Drama|Romance,Aunjanue Ellis,Lovely & Amazing ,1330,Raven Goodwin,English,USA,R,2001
-,2,99,466,,Action|Adventure|Mystery|Romance|Thriller,Hector Echavarria,Death Calls ,842,Ron Roggé,English,USA,R,2010
-51,681,13,94,3799339,Crime|Drama|Romance,Parry Shen,Better Luck Tomorrow ,139,Collin Kahey,English,USA,R,2002
-23,4,10,360,1977544,Comedy|Drama|Romance,Nicole Ari Parker,The Incredibly True Adventure of Two Girls in Love ,656,Stephanie Berry,English,USA,R,1995
-59,44,129,625,1050600,Comedy|Drama,Lupe Ontiveros,Chuck & Buck ,1378,Chris Weitz,English,USA,R,2000
-9,0,51,250,902835,Comedy|Drama|Romance,Purva Bedi,American Desi ,454,Anil Kumar,English,USA,Unrated,2001
-,0,185,569,,Action|Crime|Drama,Keri Maletto,Amidst the Devil's Wings ,1461,Barbie Castro,English,USA,,2014
-99,165,319,686,489220,Mystery|Sci-Fi|Thriller,David Hewlett,Cube ,1743,Nicole de Boer,English,Canada,R,1997
-21,0,62,991,212285,Comedy|Romance,Radha Mitchell,Love and Other Catastrophes ,1661,Matt Day,English,Australia,R,1996
-19,45,0,5,203134,Animation|Comedy|Drama|Fantasy|Sci-Fi,Charis Michelsen,I Married a Strange Person! ,7,Richard Spore,English,USA,R,1997
-43,7,142,308,191309,Drama|Mystery|Thriller,Amir Talai,November ,1008,Nora Dunn,English,USA,R,2004
-206,52,224,34000,3388210,Drama|Romance,Jennifer Lawrence,Like Crazy ,34983,Finola Hughes,English,USA,PG-13,2011
-,0,270,471,,Horror,Marshal Hilton,Teeth and Blood ,1399,Clint Jung,English,USA,,2015
-29,99,181,793,177840,Comedy|Music,Ally Sheedy,Sugar Town ,1987,John Doe,English,UK,R,1999
-27,269,7,100,47111,Comedy|Drama,Samantha Futerman,The Motel ,127,Jackie Nova,Cantonese,USA,,2005
-162,261,461,924,49494,Drama|Thriller,Nolan Gerard Funk,The Canyons ,2862,James Deen,English,USA,R,2013
-11,,250,887,,Crime|Drama,Shirley Henderson,Happy Valley             ,2572,Sarah Lancashire,English,UK,TV-MA,
-26,5,41,68,,Drama,Judy Marte,On the Outs ,216,Dominic Colón,English,USA,R,2004
-85,337,22,35,45661,Drama|Thriller,Michael Abbott Jr.,Shotgun Stories ,114,Travis Smith,English,USA,PG-13,2007
-77,17,289,766,,Mystery|Thriller,Colin Salmon,Exam ,2123,Pollyanna McIntosh,English,UK,Not Rated,2009
-8,0,5,119,18195,Sci-Fi,James Urbaniak,The Sticky Fingers of Time ,154,Terumi Matthews,English,USA,,1997
-5,7,73,349,,Drama|Musical,Dustin Fitzsimons,Sunday School Musical ,631,Debra Lynn Hull,English,USA,G,2008
-3,1000,3,1000,,Drama,Corbin Bernsen,Rust ,1056,Kirsten Collins,English,Canada,PG,2010
-66,63,76,135,,Action|Drama|Fantasy|Sci-Fi,Eme Ikwuakor,Ink ,457,Jessica Duffy,English,USA,,2009
-4,3,104,337,,Drama|Family,Florence Henderson,The Christmas Bunny ,694,Charles Irving Beale,English,USA,PG,2010
-,2,152,338,,Comedy|Short,Victoria Jackson,Jesus People ,968,Tim Bagley,English,USA,,2007
-15,32,180,602,,Crime|Drama,Stacy Keach,Butterfly ,1991,Stuart Whitman,English,USA,R,1982
-1,0,0,0,,Documentary,Sam Adams,UnDivided ,0,Jeff Jacob,English,USA,PG,2013
-12,7,89,236,,Horror|Thriller,Noah Segan,The Frozen ,537,Sedona James,English,USA,PG-13,2012
-,45,224,1000,,Fantasy|Romance,Jennifer Jason Leigh,The Love Letter ,2166,Estelle Parsons,English,USA,Unrated,1998
-1,431,3,288,,Family,Joshua Ray Bell,Horse Camp ,387,Annelyse Ahmad,English,USA,PG,2014
-6,30,670,699,,Documentary,Esai Morales,Give Me Shelter ,3967,Elaine Hendrix,English,USA,,2014
-48,54,6,81,,Drama|Romance|War,John Gilbert,The Big Parade ,108,Claire Adams,,USA,Not Rated,1925
-2,12,29,1000,,Comedy,Sid Haig,Little Big Top ,1244,Travis Betz,English,USA,,2006
-17,0,142,431,,Comedy|Music|Romance,Matthew Emerick,Along the Roadside ,1087,Sheldon Bailey,English,USA,,2013
-225,0,146,27000,104792,Action|Biography|Crime|Drama,Tom Hardy,Bronson ,27507,Matt King,English,UK,R,2008
-5,7,494,814,,Adventure|Drama|Fantasy|Thriller|Western,Mark Fantasia,Western Religion ,2970,Greg Jackson,English,USA,,2015
-22,15,0,2,111300,Documentary,Brendan Doogie Milewski,Burn ,2,Craig Dougherty,English,USA,Not Rated,2012
-38,0,131,254,1027119,Drama,Dan Futterman,Urbania ,964,Matt Keeslar,English,USA,R,2000
-21,0,0,12,,Comedy|Drama,Christina Hart,The Stewardesses ,24,William Condos,English,USA,X,1969
-67,7,21,57,5000000,Adventure|Horror|Sci-Fi,Kenneth Tobey,The Beast from 20,000 Fathoms ,205,Ross Elliott,English,USA,Approved,1953
-69,130,51,618,,Adventure|Drama|Family|Fantasy|Sci-Fi,James Mason,20,000 Leagues Under the Sea ,800,Paul Lukas,English,USA,Approved,1954
-208,750,28,728,,Action|Adventure|Sci-Fi|Thriller,Hugh Keays-Byrne,Mad Max ,928,Joanne Samuel,English,Australia,R,1979
-77,218,31,4000,4505922,Comedy|Drama,Jon Favreau,Swingers ,4230,Blake Lindsley,English,USA,R,1996
-122,0,93,16000,3500000,Action|Drama|Western,Clint Eastwood,A Fistful of Dollars ,16534,Aldo Sambrell,Italian,Italy,R,1964
-35,16,28,418,,Comedy|Drama|History|Musical|Romance,Mae West,She Done Him Wrong ,583,Louise Beavers,English,USA,Approved,1933
-15,0,0,66,381225,Documentary,The Dalai Lama,Short Cut to Nirvana: Kumbh Mela ,66,Swami Krishnanad,English,USA,Unrated,2004
-25,0,16,77000,2428241,Drama,Michael Joiner,The Grace Card ,77046,Michael Higgenbottom,English,USA,PG-13,2010
-37,151,305,1000,78030,Drama,Omari Hardwick,Middle of Nowhere ,3021,Lorraine Toussaint,English,USA,R,2012
-76,670,9,24,59774,Comedy|Drama|Romance,Devid Striesow,3 ,69,Sophie Rois,German,Germany,Unrated,2010
-12,18,61,96,174682,Drama|Music,William Joseph Elk III,The Business of Fancydancing ,314,Cynthia Geary,English,USA,,2002
-7,0,15,178,215185,Documentary|History|Music,Matisyahu,Call + Response ,279,Madeleine Albright,English,USA,PG-13,2008
-450,0,273,17000,32154410,Crime|Drama|Thriller,Channing Tatum,Side Effects ,18469,Katie Lowes,English,USA,R,2013
-60,25,10,169,,Crime|Horror|Mystery|Thriller,R. Brandon Johnson,Malevolence ,206,Richard Glover,English,USA,R,2003
-4,89,45,471,,Comedy|Drama,Marri Savinar,Shooting the Warwicks ,705,Bethany Blakey,English,USA,,2015
-42,2,156,259,,Horror|Sci-Fi|Thriller,Melanie Papalia,Super Hybrid ,711,John Reardon,English,USA,PG-13,2010
-93,157,98,962,140016,Comedy|Drama|Horror|Romance,Greta Gerwig,Baghead ,2016,Elise Muller,English,USA,R,2008
-1,0,15,138,,Comedy|Horror|Mystery|Thriller,Susan Chambers,Solitude ,192,Ali Daniels,English,USA,,2014
+language
+English
+English
+English
+English
+English
+Dari
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+Japanese
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+Mandarin
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+Spanish
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+Swedish
+English
+English
+English
+English
+English
+English
+Spanish
+English
+English
+English
+English
+English
+Italian
+English
+English
+English
+English
+English
+French
+Swedish
+
+English
+English
+English
+English
+Hebrew
+English
+English
+English
+English
+English
+English
+English
+English
+English
+Greek
+English
+English
+English
+French
+English
+English
+English
+English
+English
+French
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English

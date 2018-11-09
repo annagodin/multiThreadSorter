@@ -1,348 +1,435 @@
-num_critic_for_reviews,movie_title,movie_facebook_likes
-60,Tank Girl ,0
-23,King's Ransom ,83
-229,Blindness ,0
-143,BloodRayne ,937
-376,Carnage ,21000
-97,Where the Truth Lies ,507
-73,Cirque du Soleil: Worlds Away ,0
-28,Without Limits ,942
-160,Me and Orson Welles ,0
-124,The Best Offer ,31000
-280,Bad Lieutenant: Port of Call New Orleans ,6000
-56,A Turtle's Tale: Sammy's Adventures ,0
-118,Little White Lies ,0
-49,Love Ranch ,636
-4,The True Story of Puss'N Boots ,90
-16,Space Dogs ,200
-336,The Counselor ,24000
-91,Ironclad ,0
-16,Waterloo ,690
-65,Kung Fu Killer ,0
-7,Red Sky ,437
-51,Dangerous Liaisons ,0
-252,On the Road ,27000
-106,Star Trek IV: The Voyage Home ,0
-285,Rocky Balboa ,0
-163,Point Break ,37000
-195,Scream 2 ,0
-123,Jane Got a Gun ,0
-52,Think Like a Man Too ,3000
-129,The Whole Nine Yards ,0
-60,Footloose ,0
-123,Old School ,0
-84,The Fisher King ,12000
-125,I Still Know What You Did Last Summer ,891
-106,Return to Me ,0
-247,Zack and Miri Make a Porno ,0
-156,Nurse Betty ,455
-271,The Men Who Stare at Goats ,15000
-45,Double Take ,204
-133,Girl, Interrupted ,0
-84,Win a Date with Tad Hamilton! ,876
-70,Muppets from Space ,619
-32,The Wiz ,0
-51,Ready to Rumble ,650
-73,Play It to the Bone ,153
-169,I Don't Know How She Does It ,0
-365,Piranha 3D ,13000
-113,Beyond the Sea ,0
-18,Meet the Deedles ,839
-10,The Princess and the Cobbler ,408
-16,The Bridge of San Luis Rey ,181
-196,Faster ,12000
-212,Howl's Moving Castle ,13000
-445,Zombieland ,26000
-446,King Kong ,0
-108,The Waterboy ,0
-223,Star Wars: Episode V - The Empire Strikes Back ,17000
-63,Bad Boys ,0
-43,The Naked Gun 2½: The Smell of Fear ,0
-211,Final Destination ,0
-421,The Ides of March ,22000
-214,Pitch Black ,5000
-92,Someone Like You... ,0
-574,Her ,148000
-216,Eddie the Eagle ,15000
-140,Joy Ride ,0
-28,The Adventurer: The Curse of the Midas Box ,0
-36,Anywhere But Here ,638
-65,Chasing Liberty ,0
-53,The Crew ,153
-394,Haywire ,0
-80,Jaws: The Revenge ,0
-45,Marvin's Room ,1000
-47,The Longshots ,376
-90,The End of the Affair ,0
-30,Harley Davidson and the Marlboro Man ,0
-232,In the Valley of Elah ,0
-165,Coco Before Chanel ,0
-45,Forsaken ,0
-155,Chéri ,0
-6,Rogue             ,532
-118,Vanity Fair ,767
-55,Bodyguards and Assassins ,765
-314,1408 ,11000
-103,Spaceballs ,13000
-183,The Water Diviner ,18000
-77,Ghost ,0
-171,There's Something About Mary ,0
-64,The Santa Clause ,0
-92,The Rookie ,0
-112,The Game Plan ,0
-69,The Bridges of Madison County ,0
-75,The Animal ,1000
-95,Gandhi ,12000
-180,The Hundred-Foot Journey ,55000
-53,The Net ,0
-129,I Am Sam ,15000
-61,Son of God ,15000
-226,Underworld ,0
-116,Derailed ,0
-248,The Informant! ,0
-23,Shadowlands ,2000
-98,Deuce Bigalow: European Gigolo ,887
-168,Delivery Man ,0
-159,Victor Frankenstein ,11000
-134,Our Kind of Traitor ,0
-97,Saving Silverman ,739
-88,Diary of a Wimpy Kid: Dog Days ,0
-85,Summer of Sam ,0
-181,Jay and Silent Bob Strike Back ,0
-257,The Island ,0
-95,The Glass House ,804
-423,Hail, Caesar! ,23000
-93,Josie and the Pussycats ,0
-203,Homefront ,15000
-38,The Little Vampire ,0
-183,I Heart Huckabees ,0
-75,RoboCop 3 ,716
-18,Megiddo: The Omega Code 2 ,158
-22,Darling Lili ,104
-41,Dudley Do-Right ,272
-148,The Transporter Refueled ,0
-111,The Libertine ,0
-231,Black Book ,0
-115,Joyeux Noel ,11000
-176,Hit and Run ,0
-98,Mad Money ,687
-149,Before I Go to Sleep ,11000
-84,Sorcerer ,0
-138,Stone ,0
-78,Molière ,815
-288,Out of the Furnace ,17000
-299,Michael Clayton ,0
-27,My Fellow Americans ,758
-155,Arlington Road ,0
-82,Underdogs ,0
-275,To Rome with Love ,18000
-43,Firefox ,0
-163,South Park: Bigger Longer & Uncut ,0
-168,Death at a Funeral ,0
-60,Teenage Mutant Ninja Turtles III ,1000
-85,Hardball ,0
-539,Silver Linings Playbook ,117000
-84,Freedom Writers ,10000
-75,For Colored Girls ,0
-171,The Transporter ,0
-140,Never Back Down ,0
-85,The Rage: Carrie 2 ,897
-5,The Bachelor             ,141
-217,Away We Go ,7000
-131,Swing Vote ,1000
-111,Moonlight Mile ,365
-466,Tinker Tailor Soldier Spy ,24000
-16,Molly ,284
-276,The Beaver ,17000
-11,The Best Little Whorehouse in Texas ,0
-196,eXistenZ ,6000
-234,Raiders of the Lost Ark ,16000
-37,Home Alone 2: Lost in New York ,0
-171,Close Encounters of the Third Kind ,0
-148,Pulse ,0
-50,Beverly Hills Cop II ,0
-121,Bringing Down the House ,800
-185,The Silence of the Lambs ,40000
-61,Wayne's World ,0
-156,Jackass 3D ,0
-75,Jaws 2 ,0
-100,Beverly Hills Chihuahua ,0
-511,The Conjuring ,131000
-75,Are We There Yet? ,773
-148,Tammy ,11000
-253,Disturbia ,0
-204,School of Rock ,0
-72,Mortal Kombat ,0
-98,Wicker Park ,0
-62,White Chicks ,0
-549,The Descendants ,22000
-106,Holes ,0
-123,The Last Song ,10000
-597,12 Years a Slave ,83000
-64,Drumline ,2000
-40,Why Did I Get Married Too? ,0
-111,Edward Scissorhands ,16000
-151,Me Before You ,51000
-31,Madea's Witness Protection ,0
-138,The French Connection ,0
-81,Bad Moms ,18000
-99,Date Movie ,806
-80,Return to Never Land ,302
-364,Selma ,22000
-85,The Jungle Book 2 ,227
-140,Boogeyman ,1000
-184,Premonition ,0
-89,The Tigger Movie ,347
-265,Orphan ,20000
-61,Max ,33000
-3,Meet the Browns             ,211
-112,Epic Movie ,0
-166,Conan the Barbarian ,0
-474,Spotlight ,80000
-165,Lakeview Terrace ,0
-131,The Grudge 2 ,930
-29,How Stella Got Her Groove Back ,0
-43,Bill & Ted's Bogus Journey ,0
-111,Man of the Year ,0
-90,The Black Hole ,4000
-333,The American ,10000
-37,Selena ,0
-122,Vampires Suck ,16000
-285,Babel ,0
-156,This Is Where I Leave You ,14000
-293,Doubt ,0
-233,Team America: World Police ,0
-282,Texas Chainsaw 3D ,16000
-57,Copycat ,0
-153,Scary Movie 5 ,13000
-20,Paint Your Wagon ,0
-324,Milk ,10000
-122,Risen ,21000
-156,Ghost Ship ,0
-161,A Very Harold & Kumar 3D Christmas ,21000
-69,Wild Things ,0
-121,The Stepfather ,0
-258,The Debt ,0
-174,High Fidelity ,10000
-141,One Missed Call ,0
-31,Eye for an Eye ,613
-222,The Bank Job ,0
-273,Eternal Sunshine of the Spotless Mind ,52000
-91,You Again ,0
-190,Street Kings ,0
-427,The World's End ,49000
-93,Nancy Drew ,590
-292,Daybreakers ,0
-180,She's Out of My League ,0
-94,Monte Carlo ,6000
-112,Stay Alive ,0
-20,Quigley Down Under ,0
-84,Alpha and Omega ,0
-120,The Covenant ,3000
-90,Stick It ,0
-103,Shorts ,431
-59,To Die For ,1000
-86,Nerve ,0
-190,Appaloosa ,0
-114,Vampires ,0
-6,Yu-Gi-Oh! Duel Monsters             ,124
-290,Psycho ,18000
-80,My Best Friend's Girl ,0
-98,Endless Love ,0
-88,Georgia Rule ,681
-13,Under the Rainbow ,501
-52,Ladyhawke ,0
-60,Simon Birch ,0
-154,Reign Over Me ,0
-274,Into the Wild ,76000
-110,School for Scoundrels ,484
-173,Silent Hill: Revelation 3D ,25000
-165,From Dusk Till Dawn ,12000
-45,Pooh's Heffalump Movie ,264
-45,Home for the Holidays ,0
-377,Kung Fu Hustle ,0
-,Fired Up             ,4
-43,The Country Bears ,422
-201,The Kite Runner ,0
-192,21 Grams ,0
-77,Paparazzi ,269
-350,Twilight ,19000
-81,A Guy Thing ,401
-81,Loser ,1000
-222,Capitalism: A Love Story ,10000
-27,The Greatest Story Ever Told ,1000
-155,Secret in Their Eyes ,0
-111,Disaster Movie ,0
-107,Armored ,0
-34,The Man Who Knew Too Little ,0
-151,What's Your Number? ,0
-289,Lockout ,10000
-76,Envy ,713
-150,Crank: High Voltage ,0
-67,Bullets Over Broadway ,979
-36,One Night with the King ,0
-149,The Quiet American ,983
-156,The Weather Man ,0
-64,Undisputed ,977
-210,Ghost Town ,0
-113,12 Rounds ,0
-390,Let Me In ,25000
-5,3 Ninjas Kick Back ,444
-248,Be Kind Rewind ,0
-137,Mrs Henderson Presents ,0
-214,Triple 9 ,0
-104,Deconstructing Harry ,0
-81,Three to Tango ,311
-175,Burnt ,25000
-20,We're No Angels ,855
-69,Everyone Says I Love You ,0
-168,Death at a Funeral ,0
-166,Death Sentence ,0
-160,Everybody's Fine ,10000
-32,Superbabies: Baby Geniuses 2 ,0
-72,The Man ,676
-53,Code Name: The Cleaner ,233
-76,Connie and Carla ,924
-15,Sweet Charity ,548
-401,Inherent Vice ,18000
-31,Doogal ,346
-65,Battle of the Year ,0
-26,Perception             ,0
-45,An American Carol ,797
-260,Machete Kills ,48000
-129,Willard ,0
-58,Strange Wilderness ,847
-103,Topsy-Turvy ,608
-45,Little Boy ,15000
-345,A Dangerous Method ,36000
-232,A Scanner Darkly ,0
-116,Chasing Mavericks ,13000
-148,Alone in the Dark ,1000
-79,Bandslam ,1000
-167,Birth ,0
-350,A Most Violent Year ,0
-25,Passchendaele ,971
-99,Flash of Genius ,0
-231,I'm Not There. ,0
-119,The Cold Light of Day ,0
-182,The Brothers Bloom ,0
-245,Synecdoche, New York ,13000
-174,Princess Mononoke ,11000
-69,Bon voyage ,235
-26,Can't Stop the Music ,1000
-168,The Proposition ,0
-27,Courage ,0
-28,Marci X ,241
-146,Equilibrium ,20000
-67,The Children of Huang Shi ,1000
-93,The Yards ,401
-28,The Oogieloves in the Big Balloon Adventure ,831
-131,By the Sea ,0
-105,Steamboy ,973
-21,The Game of Their Lives ,445
-140,All Good Things ,0
-9,Rapa Nui ,399
-83,CJ7 ,1000
-8,Les couloirs du temps: Les visiteurs II ,136
-138,Dylan Dog: Dead of Night ,0
-42,People I Know ,217
+num_critic_for_reviews,actor_3_facebook_likes,actor_1_facebook_likes,genres,actor_1_name,movie_title,num_voted_users,actor_3_name,imdb_score,aspect_ratio
+111,363,599,Mystery|Sci-Fi|Thriller,Gretchen Mol,The Thirteenth Floor ,51996,Brad William Henke,7.0,2.35
+21,578,1000,Comedy,Farrah Fawcett,The Cookout ,2385,Jenifer Lewis,3.6,1.85
+42,316,940,Action|Drama|Sci-Fi|Thriller,Martin Landau,Meteor ,5237,Brian Keith,4.9,2.35
+65,215,555,Comedy|Drama|Music,Lochlyn Munro,Duets ,8217,Huey Lewis,6.0,1.85
+109,642,11000,Comedy|Romance,Woody Allen,Hollywood Ending ,21613,Treat Williams,6.6,1.85
+42,322,1000,Comedy|Music,Natasha Lyonne,Detroit Rock City ,30682,Shannon Tweed,6.8,2.35
+112,186,1000,Action|Adventure|Fantasy,Christopher Lambert,Highlander ,98629,Celia Imrie,7.2,1.85
+146,295,1000,Drama,Alison Lohman,Things We Lost in the Fire ,24104,Robin Weigert,7.2,2.35
+36,465,503,Action|Crime|Sci-Fi,Charles Napier,Steel ,8687,Hill Harper,2.8,1.85
+230,310,10000,Drama|Romance,Jeremy Renner,The Immigrant ,20616,Angela Sarafyan,6.6,2.35
+64,258,898,Drama|History|Romance|War,Vanessa Redgrave,The White Countess ,5321,Lynn Redgrave,6.7,1.66
+393,888,3000,Crime|Drama|Mystery|Thriller,Rosario Dawson,Trance ,92640,Tuppence Middleton,7.0,2.35
+75,618,939,Comedy,Mo'Nique,Soul Plane ,18271,Tom Arnold,4.4,1.85
+78,27,172,Comedy|Romance,Dany Boon,Welcome to the Sticks ,30587,Michel Galabru,7.1,2.35
+67,227,10000,Drama|Romance|War,Viggo Mortensen,Good ,5664,Steven Mackintosh,6.2,2.35
+216,116,488,Drama|Fantasy,Paz de la Huerta,Enter the Void ,45449,Olly Alexander,7.3,2.35
+54,613,1000,Comedy|Horror|Romance,Taylor Negron,Vamps ,7444,Ivan Sergei,5.1,1.78
+84,805,1000,Drama|Family,Cary-Hiroyuki Tagawa,Hachi: A Dog's Tale ,155249,Joan Allen,8.1,1.85
+69,44,5000,Crime|Drama|Thriller,Orlando Bloom,Zulu ,12817,Conrad Kemp,6.7,2.35
+208,567,883,Drama|Western,Barry Corbin,The Homesman ,21370,Miranda Otto,6.6,2.35
+32,574,890,Comedy|Drama|Romance|Sport,Vivica A. Fox,Juwanna Mann ,5312,Kevin Pollak,4.5,1.85
+20,15,422,Comedy|Crime|Drama,Steven Van Zandt,Lilyhammer             ,19164,Tommy Karlsen,8.1,16.0
+78,125,232,Drama|War,David Alpay,Ararat ,8624,Charles Aznavour,6.6,1.66
+21,518,844,Drama|Sport,Bruce Dern,Madison ,1033,William Shockley,6.5,2.35
+40,922,1000,Drama|Mystery|Thriller,Mekhi Phifer,Slow Burn ,3299,Fisher Stevens,5.9,1.85
+40,17,235,Action|Comedy|Crime|Drama|Thriller,Carole Bouquet,Wasabi ,29392,Michel Muller,6.6,2.35
+251,102,499,Comedy|Horror|Sci-Fi,Dustin Milligan,Slither ,61912,Tania Saulnier,6.5,1.85
+94,383,901,Action|Comedy|Crime,Judge Reinhold,Beverly Hills Cop ,126464,James Russo,7.3,1.85
+102,925,3000,Comedy|Family,Macaulay Culkin,Home Alone ,311075,Catherine O'Hara,7.5,1.85
+21,801,19000,Comedy|Drama|Family,Tom Selleck,3 Men and a Baby ,36918,Steve Guttenberg,5.9,1.85
+94,481,13000,Comedy|Drama|Romance,Bill Murray,Tootsie ,77366,Teri Garr,7.4,2.35
+173,555,10000,Action|Drama|Romance,Tom Cruise,Top Gun ,219171,Adrian Pasdar,6.9,1.33
+287,5,103,Action|Drama|Romance,Chen Chang,"Crouching Tiger, Hidden Dragon ",217740,Sihung Lung,7.9,2.35
+176,158,18000,Drama,Kevin Spacey,American Beauty ,822500,Ara Celi,8.4,2.35
+479,520,14000,Biography|Drama|History|Romance,Colin Firth,The King's Speech ,503631,Derek Jacobi,8.0,1.85
+27,247,742,Comedy|Crime,Kelly Preston,Twins ,87538,Hugh O'Brian,6.0,1.85
+20,260,460,Crime|Drama|Horror|Mystery|Thriller,Bex Taylor-Klaus,Scream: The TV Series             ,18058,Jason Wiles,7.3,16.0
+60,882,17000,Drama|Romance,Kristen Stewart,The Yellow Handkerchief ,6723,William Hurt,6.8,2.35
+70,271,852,Drama,Oprah Winfrey,The Color Purple ,60988,Dana Ivey,7.8,1.85
+43,13,94,Action|Comedy|Drama|Thriller,Nicole Dionne,Tidal Wave ,2659,Kyung-gu Sol,5.7,2.35
+1,635,11000,Adventure|Drama|History,Morgan Freeman,Ben-Hur ,62,Moises Arias,6.1,2.35
+454,305,19000,Biography|Drama|Thriller|War,Benedict Cumberbatch,The Imitation Game ,467613,Allen Leech,8.1,2.35
+25,271,1000,Comedy|War,Eileen Brennan,Private Benjamin ,18140,Alan Oppenheimer,6.1,1.85
+46,572,874,Biography|Drama|Music|Musical,Sissy Spacek,Coal Miner's Daughter ,12974,Levon Helm,7.5,1.85
+111,569,17000,Comedy|Family,Chloë Grace Moretz,Diary of a Wimpy Kid ,32002,Rachael Harris,6.2,1.85
+393,250,1000,Fantasy|Horror,Javier Botet,Mama ,134869,Isabelle Nélisse,6.2,1.85
+318,598,2000,Horror|Thriller,Jamie Lee Curtis,Halloween ,157857,P.J. Soles,7.9,2.35
+55,624,816,Adventure|Comedy,Beverly D'Angelo,National Lampoon's Vacation ,71183,Jane Krakowski,7.4,1.85
+157,27,925,Comedy,Jackson Nicoll,Bad Grandpa ,77724,Grasie Mercedes,6.6,1.85
+280,39,326,Biography|Drama,Roger Allam,The Queen ,85333,Alex Jennings,7.3,1.85
+109,217,925,Comedy|Fantasy,Catherine O'Hara,Beetlejuice ,189413,Glenn Shadix,7.5,1.85
+41,607,2000,Comedy|Drama,Michael Jai White,Why Did I Get Married? ,9811,Lamman Rucker,5.6,1.85
+27,902,23000,Drama|Family|Romance,Christian Bale,Little Women ,36624,Eric Stoltz,7.3,1.85
+462,259,11000,Drama|Fantasy|Horror|Thriller,Daniel Radcliffe,The Woman in Black ,139749,Jessica Raine,6.4,2.35
+152,383,1000,Horror|Thriller,Madeline Carroll,When a Stranger Calls ,34711,Brian Geraghty,5.0,2.35
+69,799,934,Adventure|Comedy|Family,Frankie Muniz,Big Fat Liar ,29008,Lee Majors,5.4,1.85
+140,652,22000,Drama|War,Robert De Niro,The Deer Hunter ,232577,John Savage,8.2,2.35
+130,957,22000,Comedy|Drama,Robert De Niro,Wag the Dog ,67604,John Michael Higgins,7.1,1.85
+66,566,925,Adventure|Comedy|Family|Music|Romance,Clayton Snyder,The Lizzie McGuire Movie ,27580,Alex Borstein,5.3,2.35
+238,874,12000,Action|Drama|Thriller,Dwayne Johnson,Snitch ,64747,Nadine Velazquez,6.5,2.35
+198,562,3000,Comedy|Fantasy|Horror,Adam Scott,Krampus ,29867,Allison Tolman,6.2,2.35
+154,1000,4000,Horror|Mystery|Sci-Fi,Jordana Brewster,The Faculty ,92074,Clea DuVall,6.4,1.85
+19,2,90,Biography|Drama|Music,Rae'Ven Kelly,What's Love Got to Do with It ,13442,Dororthy Thorton,7.2,1.85
+131,1000,22000,Crime|Drama|Thriller,Robert De Niro,Cop Land ,69576,Janeane Garofalo,6.9,1.85
+97,971,11000,Comedy,Chris Evans,Not Another Teen Movie ,80305,Mia Kirshner,5.7,1.85
+355,953,15000,Crime|Drama|Thriller,Jake Gyllenhaal,End of Watch ,181025,America Ferrera,7.7,1.85
+138,13000,15000,Comedy|Drama|Romance,Emma Stone,Aloha ,39782,Bill Murray,5.4,1.85
+102,883,23000,Action|Crime|Drama|Thriller,Paul Walker,The Skulls ,26846,William Petersen,5.6,1.85
+419,149,13000,Biography|Drama|Romance,Eddie Redmayne,The Theory of Everything ,265507,Simon McBurney,7.7,2.35
+37,685,833,Comedy|Crime,Greg Grunberg,Malibu's Most Wanted ,15939,Blair Underwood,5.1,2.35
+78,944,20000,Comedy|Drama|Romance,Natalie Portman,Where the Heart Is ,27044,Stockard Channing,6.8,1.85
+181,87,607,Adventure|Biography|Drama|History|War,Claude Rains,Lawrence of Arabia ,192775,Jack Hawkins,8.4,2.2
+220,593,908,Horror,Scout Taylor-Compton,Halloween II ,36372,Margot Kidder,4.9,1.85
+349,612,2000,Adventure|Biography|Drama,Michiel Huisman,Wild ,86664,Gaby Hoffmann,7.1,2.35
+241,616,956,Crime|Horror|Thriller,Tony Goldwyn,The Last House on the Left ,67822,Martha MacIsaac,6.6,1.85
+103,458,1000,Comedy|Romance,Jack Davenport,The Wedding Date ,38248,Holland Taylor,6.1,1.85
+151,731,2000,Comedy|Horror|Thriller,Jamie Lee Curtis,Halloween: Resurrection ,26905,Bianca Kajlich,4.1,2.35
+344,850,14000,Action|Adventure|Fantasy,Liam Neeson,Clash of the Titans ,229687,Alexa Davalos,5.8,2.35
+185,594,18000,Adventure|Family|Fantasy|Romance,Robin Wright,The Princess Bride ,294163,André the Giant,8.1,1.85
+112,697,18000,Biography|Drama,Denzel Washington,The Great Debaters ,47626,John Heard,7.6,2.35
+676,228,33000,Crime|Drama,Ryan Gosling,Drive ,431578,Russ Tamblyn,7.8,2.35
+74,231,811,Comedy|Family|Music|Romance,Adam Garcia,Confessions of a Teenage Drama Queen ,23408,Glenne Headly,4.6,1.85
+65,106,818,Comedy|Drama|Romance,Liam Aiken,The Object of My Affection ,15582,Kali Rocha,6.0,1.85
+274,306,10000,Drama|Horror|Sci-Fi,Jeremy Renner,28 Weeks Later ,212167,Catherine McCormack,7.0,1.85
+50,100,116,Drama|Family|Sport,Jessie T. Usher,When the Game Stands Tall ,12596,Ser'Darius Blain,6.7,1.85
+96,649,907,Comedy|Drama|Family,Cicely Tyson,Because of Winn-Dixie ,8427,Eva Marie Saint,6.4,1.85
+68,865,1000,Drama|Romance|Sport,Alfre Woodard,Love & Basketball ,14322,Omar Epps,7.2,1.85
+111,141,893,Action|Comedy|Crime|Romance|Thriller,Minnie Driver,Grosse Pointe Blank ,73347,Mitchell Ryan,7.4,1.85
+128,628,14000,Comedy|Romance,Bradley Cooper,All About Steve ,33088,Beth Grant,4.8,1.85
+160,162,193,Adventure|Fantasy|Horror|Mystery|Thriller,Kim Director,Book of Shadows: Blair Witch 2 ,28964,Kurt Loder,4.0,1.85
+93,266,838,Drama|Fantasy|Horror|Thriller,Christine Taylor,The Craft ,57140,Brenda Strong,6.2,1.85
+278,400,19000,Drama|Romance|Thriller,Scarlett Johansson,Match Point ,166269,Penelope Wilton,7.7,1.85
+81,125,512,Adventure|Comedy|Family|Fantasy,Sierra McCormick,Ramona and Beezus ,13874,Jason Spevack,6.7,2.35
+58,258,12000,Drama|Romance,Anthony Hopkins,The Remains of the Day ,45703,Ben Chaplin,7.9,2.35
+153,170,3000,Drama,Don Cheadle,Boogie Nights ,189032,Nina Hartley,7.9,2.35
+25,232,1000,Action|Crime|Drama|Romance|Thriller,Kieran Culkin,Nowhere to Run ,17074,Joss Ackland,5.5,1.85
+46,461,1000,Adventure|Drama|Family,Alison Lohman,Flicka ,6095,Tim McGraw,6.2,2.35
+161,399,919,Horror,Jeff Kober,The Hills Have Eyes II ,49721,Jacob Vargas,5.1,2.35
+108,579,912,Horror|Mystery|Thriller,Loretta Devine,Urban Legends: Final Cut ,13048,Jacinda Barrett,4.1,2.35
+69,613,882,Drama|Family|Fantasy|Romance,William Hurt,Tuck Everlasting ,17983,Jonathan Jackson,6.7,2.35
+78,129,472,Action|Drama|Thriller,Kelly Carlson,The Marine ,27486,Drew Powell,4.7,1.85
+129,415,826,Action|Comedy,Nia Long,Keanu ,15385,Keegan-Michael Key,6.4,2.35
+135,461,3000,Drama|Music,Leighton Meester,Country Strong ,14814,Tim McGraw,6.3,2.35
+96,918,989,Horror|Mystery|Sci-Fi|Thriller,Bruce Greenwood,Disturbing Behavior ,17328,Katharine Isabelle,5.5,1.85
+417,619,33000,Crime|Drama|Thriller,Ryan Gosling,The Place Beyond the Pines ,187170,Angelo Anthony Pizza,7.3,2.35
+172,537,775,Action|Crime|Thriller,Luke Bracey,The November Man ,50056,Will Patton,6.3,2.35
+88,159,471,Drama|Mystery|Thriller,Jason Priestley,Eye of the Beholder ,13320,Geneviève Bujold,4.9,2.35
+388,383,10000,Drama|History|Thriller|War,Jeremy Renner,The Hurt Locker ,332065,Brian Geraghty,7.6,1.85
+45,563,695,Action|Horror|Sci-Fi|Thriller,Heather Locklear,Firestarter ,22797,David Keith,6.0,2.35
+414,748,11000,Crime|Thriller,Brad Pitt,Killing Them Softly ,111625,Ben Mendelsohn,6.2,2.35
+291,123,22000,Crime|Drama|Thriller,Philip Seymour Hoffman,A Most Wanted Man ,57210,Homayoun Ershadi,6.8,2.35
+97,484,826,Comedy,Rip Torn,Freddy Got Fingered ,39788,Eddie Kaye Thomas,4.5,1.85
+37,23,354,Adventure|Animation|Comedy|Family,Yuri Lowenthal,The Pirates Who Don't Do Anything: A VeggieTales Movie ,2037,Phil Vischer,5.7,1.85
+68,44,468,Documentary|Music,Bono,U2 3D ,2673,Larry Mullen Jr.,8.4,1.78
+90,377,1000,Action|Adventure|Fantasy|Sci-Fi,Christopher Lambert,Highlander: Endgame ,16340,Adam Copeland,4.6,2.35
+81,526,907,Crime|Drama|Musical|Romance,Cicely Tyson,Idlewild ,4603,Bobb'e J. Thompson,6.2,2.35
+221,358,11000,Drama|Romance,Anne Hathaway,One Day ,106111,Rafe Spall,7.0,2.35
+230,727,796,Drama|Sport,Daniel Stern,Whip It ,55665,Alia Shawkat,6.9,2.35
+57,366,14000,Crime|Drama|Thriller,Vin Diesel,Knockaround Guys ,19768,Kevin Gage,6.1,2.35
+119,308,436,Crime|Thriller,Louis Lombardi,Confidence ,30643,Leland Orser,6.7,2.35
+97,745,12000,Comedy,Jeff Bridges,The Muse ,9294,Albert Brooks,5.6,1.37
+119,65,427,Biography|Drama|Music|Musical,Kevin McNally,De-Lovely ,9649,Sandra Nelson,6.6,2.35
+42,563,11000,Comedy|Drama|Romance,Woody Allen,New York Stories ,13692,Mia Farrow,6.4,1.85
+24,47,595,Adventure|Family,Trevor Morgan,Barney's Great Adventure ,2724,Shirley Douglas,2.8,1.85
+208,353,746,Action,Rick Yune,The Man with the Iron Fists ,53471,Daniel Wu,5.4,2.35
+42,629,925,Comedy|Drama|Romance,Catherine O'Hara,Home Fries ,7159,Shelley Duvall,5.0,1.85
+44,670,989,Drama|Romance,Bruce Greenwood,Here on Earth ,7403,Elaine Hendrix,5.1,1.85
+230,1000,22000,Drama|Sci-Fi,Robert De Niro,Brazil ,152306,Jim Broadbent,8.0,1.85
+46,782,1000,Family|Music|Romance,Oliver James,Raise Your Voice ,22649,Jason Ritter,5.9,2.35
+18,186,443,Drama|Fantasy|Mystery|Sci-Fi,David Ogden Stiers,The Dead Zone             ,7122,Chris Bruno,7.5,
+249,12000,22000,Comedy|Crime,Philip Seymour Hoffman,The Big Lebowski ,537419,Steve Buscemi,8.2,1.85
+197,539,3000,Drama|Music,Justin Timberlake,Black Snake Moan ,52421,S. Epatha Merkerson,7.0,2.35
+71,274,556,Crime|Drama|Romance|Thriller,Khandi Alexander,Dark Blue ,17261,Michael Michele,6.6,2.35
+190,254,11000,Biography|Drama|History|Thriller|War,Angelina Jolie Pitt,A Mighty Heart ,24150,Dan Futterman,6.7,2.35
+50,612,11000,Comedy|Drama|Romance,James Franco,Whatever It Takes ,8055,Marla Sokoloff,5.5,1.85
+63,461,890,Comedy,Vivica A. Fox,Boat Trip ,26598,Bob Gunton,4.9,1.85
+104,692,14000,Comedy|Drama|Romance,Colin Firth,The Importance of Being Earnest ,18966,Rupert Everett,6.9,2.35
+,224,1000,Fantasy|Romance,Jennifer Jason Leigh,The Love Letter ,1465,Estelle Parsons,7.4,1.33
+49,596,8000,Adventure|Comedy|Family,Logan Lerman,Hoot ,6562,Tim Blake Nelson,5.6,1.85
+300,39,65,Comedy|Crime|Drama,Elizabeth Berrington,In Bruges ,307639,Eric Godon,8.0,2.35
+43,426,931,Comedy|Romance,Tyler James Williams,Peeples ,4065,Diahann Carroll,5.3,2.35
+132,1000,15000,Comedy|Music,Emma Stone,The Rocker ,32311,Josh Gad,6.2,1.85
+97,360,24000,Comedy|Romance,J.K. Simmons,Post Grad ,11498,Bobby Coleman,5.3,1.85
+242,363,13000,Drama,Matt Damon,Promised Land ,30284,Terry Kinney,6.6,1.85
+218,386,860,Comedy|Romance,Larry David,Whatever Works ,58967,Conleth Hill,7.2,1.85
+49,275,477,Drama|Mystery|Thriller,Matthew Settle,The In Crowd ,3668,A.J. Buckley,4.6,1.85
+172,289,572,Adventure|Crime|Drama|Mystery|Western,Levon Helm,Three Burials ,34194,Guillermo Arriaga,7.5,2.35
+68,693,49000,Drama|War,Robin Williams,Jakob the Liar ,12601,Michael Jeter,6.5,1.85
+223,611,21000,Comedy|Crime|Mystery,Robert Downey Jr.,Kiss Kiss Bang Bang ,175962,Larry Miller,7.6,2.35
+59,577,890,Comedy|Fantasy|Horror|Thriller,Vivica A. Fox,Idle Hands ,33745,Elden Henson,6.2,1.85
+252,669,6000,Drama|Mystery|Thriller,Naomi Watts,Mulholland Drive ,235992,Laura Harring,8.0,1.85
+106,220,837,Drama|Fantasy|Horror|Romance,Olivier Martinez,Blood and Chocolate ,15388,Chris Geere,5.5,2.35
+223,557,12000,Comedy|Drama|Romance,Anthony Hopkins,You Will Meet a Tall Dark Stranger ,36145,Ewen Bremner,6.3,1.85
+328,844,10000,Drama|Romance|Sci-Fi,Andrew Garfield,Never Let Me Go ,109873,Charlotte Rampling,7.2,2.35
+9,527,857,Drama|History|Thriller,Anna Silk,The Company             ,3828,Alessandro Nivola,7.9,1.78
+150,25,918,Crime|Drama|Mystery|Thriller,Thomas Kretschmann,Transsiberian ,42792,Mac McDonald,6.7,2.35
+21,90,876,Adventure|Drama|Fantasy,Curtis Armstrong,The Clan of the Cave Bear ,4996,Mike Muscat,5.3,2.35
+28,617,783,Comedy|Crime|Drama,Meat Loaf,Crazy in Alabama ,5917,Noah Emmerich,6.3,2.35
+250,287,6000,Crime|Drama|Horror|Thriller,Naomi Watts,Funny Games ,69569,Brady Corbet,6.5,1.85
+17,46,192,Drama|Sci-Fi|Thriller,Thomas Stroppel,Listening ,1933,Amber Marie Bollinger,5.6,2.35
+95,71,5000,Drama|Thriller,Bob Hoskins,Felicia's Journey ,6690,Gerard McSorley,7.0,2.35
+260,18,136,Drama|Sci-Fi,Brigitte Helm,Metropolis ,111841,Rudolf Klein-Rogge,8.3,1.33
+141,58,510,Action|Crime|Thriller,David Belle,District B13 ,55928,Dany Verissimo-Petit,7.2,2.35
+52,642,12000,Crime|Drama,Steve Buscemi,Things to Do in Denver When You're Dead ,22345,Treat Williams,6.8,1.85
+205,56,1000,Action|Drama,Qi Shu,The Assassin ,9427,Satoshi Tsumabuki,6.4,1.37
+109,730,936,Comedy|Crime|Drama|Thriller|War,Dean Stockwell,Buffalo Soldiers ,20730,Leon,6.9,2.35
+103,9,20,Drama|Mystery|Thriller,Konstantin Lavronenko,The Return ,31589,Nataliya Vdovina,8.0,1.85
+110,7,64,Action,Nirut Sirichanya,Ong-bak 2 ,24570,Sarunyu Wongkrachang,6.2,2.35
+195,570,13000,Action|Adventure|Drama|History|Thriller|War,Michael Fassbender,Centurion ,64777,Dave Legeno,6.4,2.35
+14,40,825,Action|Drama|Thriller,Christopher Heyerdahl,Silent Trigger ,2699,Conrad Dunn,5.6,2.35
+177,1000,14000,Fantasy|Horror|Mystery,Bradley Cooper,The Midnight Meat Train ,47574,Leslie Bibb,6.1,2.35
+17,2,549,Biography|Drama|History,Jennifer Hudson,Winnie Mandela ,609,Aubrey Poo,6.0,
+62,642,17000,Crime|Drama|Thriller,Channing Tatum,The Son of No One ,14280,Tracy Morgan,5.1,2.35
+19,125,776,Action|Comedy|Drama|War,Eddie Izzard,All the Queen's Men ,2236,Edward Fox,4.5,2.35
+50,66,1000,Comedy|Drama|Fantasy|Music|Romance,Stephen Graham,The Good Night ,7519,Keith Allen,5.9,1.85
+25,576,735,Biography|Drama|Fantasy|History,Anna Friel,Bathory: Countess of Blood ,3425,Franco Nero,6.0,2.35
+39,912,14000,Adventure|Animation|Family,Liam Neeson,Khumba ,4006,Loretta Devine,5.8,
+136,537,1000,Action|Sci-Fi|Thriller,Birgitte Hjort Sørensen,Automata ,41638,Melanie Griffith,6.1,2.35
+26,51,179,Action|Adventure|Fantasy,Bruce Payne,Dungeons & Dragons: Wrath of the Dragon God ,5018,Steven Elder,4.9,1.78
+4,50,61,Biography,Maximilian Dirr,Chiamatemi Francesco - Il Papa della gente ,80,Ferdinando Vetere,5.7,
+53,19,556,Action|Crime|Drama|Thriller,Bingbing Fan,Shinjuku Incident ,9177,Yasuaki Kurata,7.1,2.35
+22,303,631,Biography|Drama,Samantha Morton,Pandaemonium ,695,Linus Roache,6.6,
+147,512,13000,Comedy|Fantasy|Romance,Bill Murray,Groundhog Day ,437418,Willie Garson,8.1,1.85
+222,642,20000,Comedy|Drama|Music,Matt Bomer,Magic Mike XXL ,38202,Kevin Nash,5.7,2.35
+106,954,29000,Drama|Romance,Leonardo DiCaprio,Romeo + Juliet ,167750,Brian Dennehy,6.8,2.35
+136,121,1000,Drama|War,Kristin Scott Thomas,Sarah's Key ,12937,Arben Bajraktaraj,7.5,2.35
+5,124,467,Drama|Family|Music,Sharon Leal,Freedom ,993,Bart Shatto,6.2,
+131,638,16000,Drama|Western,Clint Eastwood,Unforgiven ,277505,Frances Fisher,8.3,2.35
+140,236,3000,Drama,Bryce Dallas Howard,Manderlay ,18646,Jean-Marc Barr,7.4,2.35
+418,40,668,Drama|Romance,Anil Kapoor,Slumdog Millionaire ,641997,Ayush Mahesh Khedekar,8.0,2.35
+94,249,886,Drama|Romance|Thriller,Fred Gwynne,Fatal Attraction ,55101,Anne Archer,6.9,1.85
+82,700,8000,Comedy|Romance,Julia Roberts,Pretty Woman ,213476,Jason Alexander,6.9,1.85
+,176,770,Comedy,Martin Short,Towering Inferno             ,10,Joe Flaherty,9.5,1.33
+32,57,442,Action|Adventure|Comedy,Paul Hogan,Crocodile Dundee II ,44096,John Meillon,5.5,2.35
+22,277,892,Action|Crime|Drama|Mystery|Thriller,María Valverde,Broken Horses ,1554,Chad Bishop,5.7,2.35
+72,560,10000,Biography|Drama|War,Tom Cruise,Born on the Fourth of July ,76842,Stephen Baldwin,7.2,2.35
+39,496,953,Adventure|Comedy|Family|Sport,Doug E. Doug,Cool Runnings ,69733,Malik Yoba,6.9,1.85
+264,725,10000,Horror|Thriller,Jensen Ackles,My Bloody Valentine ,45603,Edi Gathegi,5.5,1.85
+264,309,941,Horror|Thriller,Kyra Sedgwick,The Possession ,47169,Natasha Calis,5.9,2.35
+145,535,13000,Action|Adventure|Drama,Sylvester Stallone,First Blood ,172493,Chris Mulkey,7.7,2.35
+86,748,997,Drama|Music|Romance,Chris Brown,Stomp the Yard ,19505,Harry Lennix,5.2,2.35
+112,238,456,Action|Adventure|Sci-Fi|Thriller,Caroline Munro,The Spy Who Loved Me ,76477,Barbara Bach,7.1,2.35
+17,84,155,Documentary,Amy Bruni,Ghost Hunters             ,5563,Jason Hawes,6.6,
+101,648,975,Horror|Mystery|Thriller,Alicia Witt,Urban Legend ,47814,Julian Richings,5.5,2.35
+51,418,18000,Drama|Romance,Keanu Reeves,Dangerous Liaisons ,52846,Swoosie Kurtz,7.7,1.85
+42,490,849,Comedy|Drama|Romance,Eddie Cibrian,Good Deeds ,6352,Jamie Kennedy,5.4,2.35
+10,25,327,Adventure|Drama,Seymour Cassel,White Fang ,15730,Susan Hogan,6.7,1.85
+43,636,8000,Comedy|Romance,Will Ferrell,Superstar ,15047,Molly Shannon,5.0,1.85
+331,583,11000,Biography|Drama|History,Meryl Streep,The Iron Lady ,82327,Olivia Colman,6.4,2.35
+38,8,23,Adventure|Animation|Comedy|Drama|Family|Musical,Phil Vischer,Jonah: A VeggieTales Movie ,3135,Shelby Vischer,6.6,1.85
+12,279,592,Drama|Romance,Janet Jackson,Poetic Justice ,8904,Maya Angelou,5.9,1.85
+40,111,706,Action|Comedy|Crime|Thriller,Mike Epps,All About the Benjamins ,9693,Gino Salvano,5.7,2.35
+34,364,723,Comedy|Fantasy|Horror|Romance,John Witherspoon,Vampire in Brooklyn ,17262,Allen Payne,4.5,1.85
+82,467,931,Horror,Linda Blair,Exorcist II: The Heretic ,16294,Ned Beatty,3.7,1.85
+125,50,874,Horror|Mystery|Thriller,Sissy Spacek,An American Haunting ,22207,Vernon Dobtcheff,5.0,2.35
+56,636,869,Comedy|Romance,Carmen Electra,My Boss's Daughter ,24038,Molly Shannon,4.6,1.85
+160,690,26000,Adventure|Mystery|Thriller,Chris Hemsworth,A Perfect Getaway ,56338,Marley Shelton,6.5,2.35
+71,625,953,Comedy|Romance,America Ferrera,Our Family Wedding ,5721,Lupe Ontiveros,4.9,2.35
+37,654,3000,Comedy,Alyson Hannigan,Dead Man on Campus ,11729,Poppy Montgomery,6.0,1.85
+62,55,718,Comedy|Drama|War,Lily Tomlin,Tea with Mussolini ,9323,Paolo Seganti,6.9,1.85
+73,514,1000,Fantasy|Horror,Joe Mantegna,Thinner ,19805,Kari Wuhrer,5.7,1.85
+59,213,22000,Drama|Music|Musical|Romance,Robert De Niro,"New York, New York ",13548,Mary Kay Place,6.7,1.66
+25,534,1000,Comedy|Drama,Alfre Woodard,Crooklyn ,6011,Isaiah Washington,6.9,1.85
+97,458,12000,Comedy|Drama|Romance,Steve Buscemi,I Think I Love My Wife ,13866,Wendell Pierce,5.5,1.85
+205,489,1000,Action|Horror|Sci-Fi|Thriller,Peter Mensah,Jason X ,38985,Lexa Doig,4.4,1.85
+69,799,934,Adventure|Comedy|Family,Frankie Muniz,Big Fat Liar ,29008,Lee Majors,5.4,1.85
+195,383,12000,Drama|History,Anthony Hopkins,Bobby ,38142,Brian Geraghty,7.0,2.35
+61,169,878,Comedy|Mystery|Romance,Monica Potter,Head Over Heels ,11693,China Chow,5.4,2.35
+77,635,962,Adventure|Comedy,Thomas McDonell,Fun Size ,11233,Osric Chau,5.4,2.35
+259,177,413,Biography|Drama,Emmanuelle Seigner,The Diving Bell and the Butterfly ,89906,Isaach De Bankolé,8.0,1.85
+251,280,14000,Drama|Romance,Kate Winslet,Little Children ,92781,Jane Adams,7.6,2.35
+63,191,12000,Drama|Mystery|Thriller,Norman Reedus,Gossip ,12519,Noam Jenkins,5.9,2.35
+47,113,10000,Drama,Viggo Mortensen,A Walk on the Moon ,6782,Tovah Feldshuh,6.6,1.85
+108,15,543,Biography|Drama|History,Derek Luke,Catch a Fire ,9334,Bonnie Henna,6.7,2.35
+64,102,159,Drama|Horror|Mystery|Thriller,Melissa Sagemiller,Soul Survivors ,7277,Candace Kroslak,3.9,1.85
+20,5,423,Biography|Drama|History|Romance,Seth Gilliam,Jefferson in Paris ,2427,Nigel Whitmey,5.7,1.85
+135,548,14000,Comedy|Romance,Colin Firth,Easy Virtue ,16444,Kris Marshall,6.7,2.35
+2,324,16000,Action|Adventure|History,Christopher Lee,Caravans ,524,Behrouz Vossoughi,6.5,2.35
+262,43,149,Biography|Drama|History,Lesley Manville,Mr. Turner ,17933,Karl Johnson,6.8,2.35
+129,59,412,Drama|Romance,Mathieu Amalric,Wild Grass ,3174,Edouard Baer,6.3,2.35
+69,284,380,Biography|Crime|Drama|War,Sebastian Koch,Amen. ,11077,Ulrich Mühe,7.3,1.85
+50,21,149,Action,Woo-sung Jung,Reign of Assassins ,6069,Kelly Lin,6.9,2.35
+57,322,697,Comedy|Drama|War,John Heard,The Lucky Ones ,11704,Mark L. Young,7.0,1.85
+116,338,13000,Drama,Matt Damon,Margaret ,12053,John Gallagher Jr.,6.5,1.85
+45,378,826,Comedy|Horror,Steve Howey,Stan Helsing ,9928,Diora Baird,3.6,1.85
+87,767,1000,Comedy|Drama|Romance,Madeline Carroll,Flipped ,60460,Aidan Quinn,7.7,1.85
+357,11000,15000,Drama|Romance,Jake Gyllenhaal,Brokeback Mountain ,259837,Anne Hathaway,7.7,1.85
+348,429,833,Action|Adventure|Comedy|Sci-Fi,Noel Fisher,Teenage Mutant Ninja Turtles ,167089,Jeremy Howard,5.9,2.35
+88,201,927,Comedy|Romance,Donald Faison,Clueless ,123390,Elisa Donovan,6.8,1.85
+181,135,2000,Drama|Romance,Dennis Quaid,Far from Heaven ,36542,Michael Gaston,7.4,1.85
+107,390,3000,Comedy|Sci-Fi,Adam Scott,Hot Tub Time Machine 2 ,28159,Collette Wolfe,5.1,1.85
+53,2,20,Drama,Krystyna Janda,Dekalog             ,12590,Olgierd Lukaszewicz,9.1,1.33
+132,170,14000,Biography|Drama,Kate Winslet,Quills ,44795,Amelia Warner,7.4,1.85
+401,816,2000,Comedy|Crime,Abbie Cornish,Seven Psychopaths ,185845,Michael Stuhlbarg,7.2,2.35
+58,400,539,Crime|Drama|Music|Mystery|Thriller,Colm Feore,The Caveman's Valentine ,5602,Aunjanue Ellis,6.0,1.85
+1,2,70,Action|Crime|Drama|Thriller,Jacek Koman,The Border             ,271,Jaroslaw Boberek,7.4,
+192,471,918,Biography|Drama|History|War,Thomas Kretschmann,Downfall ,248354,Alexandra Maria Lara,8.3,1.85
+157,93,273,Biography|Drama|Romance,Belén Rueda,The Sea Inside ,64556,Tamar Novas,8.1,2.35
+454,21,19000,Drama|Horror|Sci-Fi|Thriller,Scarlett Johansson,Under the Skin ,85022,Alison Chand,6.3,1.85
+62,227,49000,Biography|Comedy|Drama|War,Robin Williams,"Good Morning, Vietnam ",98348,Bruno Kirby,7.3,1.85
+4,385,898,Comedy,Jason Mewes,The Last Godfather ,912,Michael Rispoli,3.6,1.78
+84,41,569,Documentary|Music,Usher Raymond,Justin Bieber: Never Say Never ,74351,Boys II Men,1.6,1.85
+669,1000,20000,Drama|Thriller,Natalie Portman,Black Swan ,551363,Mark Margolis,8.0,2.35
+492,1000,10000,Action|Crime|Sci-Fi|Thriller,Gary Oldman,RoboCop ,182910,Jennifer Ehle,6.2,2.35
+149,3000,22000,Crime|Drama,Robert De Niro,The Godfather: Part II ,790926,Robert Duvall,9.0,1.85
+101,237,656,Drama|Music|Romance,Sean Patrick Thomas,Save the Last Dance ,47876,Fredro Starr,6.1,1.85
+102,54,130,Fantasy|Horror|Thriller,Tuesday Knight,A Nightmare on Elm Street 4: The Dream Master ,36108,Brooke Bundy,5.7,1.85
+63,579,3000,Drama,Jennifer Garner,Miracles from Heaven ,6276,Martin Henderson,6.8,1.85
+106,612,3000,Comedy|Mystery,Jennifer Garner,"Dude, Where's My Car? ",116625,Marla Sokoloff,5.5,1.37
+50,316,549,Action|Crime|Drama|Thriller|Western,Jack Palance,Young Guns ,42614,Brian Keith,6.8,1.85
+275,360,13000,Comedy|Drama,Bill Murray,St. Vincent ,72803,Reg E. Cathey,7.3,1.85
+90,460,833,Comedy|Romance,Joe Lo Truglio,About Last Night ,16979,Bryan Callen,6.1,2.35
+133,835,23000,Comedy|Drama|Romance,Joseph Gordon-Levitt,10 Things I Hate About You ,222099,Andrew Keegan,7.2,1.85
+49,301,11000,Comedy,Zooey Deschanel,The New Guy ,28805,Gene Simmons,5.9,1.85
+19,182,11000,Action|Comedy|Crime,Jon Lovitz,Loaded Weapon 1 ,37611,Bill Nunn,6.1,1.85
+186,2,619,Drama|Horror|Thriller,Óscar Jaenada,The Shallows ,12983,Sedona Legge,6.8,2.35
+185,829,8000,Sci-Fi|Thriller,Logan Lerman,The Butterfly Effect ,357579,Cameron Bright,7.7,1.85
+42,329,571,Adventure|Comedy|Family,Chris Elliott,Snow Day ,9285,Jean Smart,4.9,1.85
+37,912,1000,Comedy|Drama|Romance,Mekhi Phifer,This Christmas ,6528,Loretta Devine,6.1,2.35
+45,782,899,Comedy|Crime|Family|Sci-Fi,Kathleen Turner,Baby Geniuses ,19547,Ruby Dee,2.5,1.85
+57,459,904,Action|Comedy|Crime|Thriller,Bokeem Woodbine,The Big Hit ,24834,Antonio Sabato Jr.,6.1,1.85
+25,388,694,Comedy|Drama|Family,Gregory Smith,Harriet the Spy ,7984,Charlotte Sullivan,5.9,1.85
+59,435,659,Fantasy|Horror,Jenny Agutter,Child's Play 2 ,31371,Greg Germann,5.7,1.85
+58,334,1000,Crime|Thriller,Leslie Bibb,No Good Deed ,12676,Henry Simmons,5.6,2.35
+330,745,2000,Horror,Toby Jones,The Mist ,220475,Jeffrey DeMunn,7.2,1.85
+489,123,149,Drama|Mystery|Sci-Fi|Thriller,Elina Alminas,Ex Machina ,289508,Corey Johnson,7.7,2.35
+242,213,512,Comedy|Drama|Fantasy,Willie Garson,Being John Malkovich ,254404,Mary Kay Place,7.8,1.85
+40,405,939,Comedy|Romance,Mo'Nique,Two Can Play That Game ,4339,Tamala Jones,6.1,1.85
+112,140,803,Adventure|Family|Sci-Fi,Teo Halm,Earth to Echo ,15664,Jason Gray-Stanford,5.8,1.85
+84,525,4000,Drama|Romance,Kirsten Dunst,Crazy/Beautiful ,21406,Rolando Molina,6.5,1.85
+251,78,378,Drama|History|War,Yuki Matsuzaki,Letters from Iwo Jima ,132149,Shidô Nakamura,7.9,2.35
+113,844,24000,Adventure|Drama|Sci-Fi,J.K. Simmons,The Astronaut Farmer ,19707,Bruce Dern,6.3,2.35
+23,744,1000,Comedy|Romance,LL Cool J,Woo ,1520,Dave Chappelle,3.8,
+421,491,805,Drama,Joan Allen,Room ,161288,Cas Anvar,8.3,2.35
+32,294,721,Comedy,Don Rickles,Dirty Work ,20033,Traylor Howard,6.4,1.85
+52,650,899,Comedy|Crime|Thriller,Kathleen Turner,Serial Mom ,21212,Traci Lords,6.7,1.66
+81,4000,16000,Comedy,Ryan Reynolds,Dick ,16059,Kirsten Dunst,6.1,1.85
+,75,690,Action|Crime|Mystery|Thriller,Michael Nyqvist,Del 1 - Män som hatar kvinnor             ,335,Lena Endre,8.1,
+39,730,3000,Drama|Thriller,Rosario Dawson,Light It Up ,3116,Robert Ri'chard,6.0,1.85
+63,812,4000,Drama|Music,Salma Hayek,54 ,27675,Sela Ward,5.8,1.85
+47,690,15000,Adventure|Comedy|Romance|Sci-Fi,Jake Gyllenhaal,Bubble Boy ,25541,Marley Shelton,5.6,2.35
+111,258,567,Comedy|Crime|Thriller,Mark Gatiss,Birthday Girl ,21530,Ben Chaplin,6.1,2.35
+168,499,552,Comedy,Justin Chon,21 & Over ,60407,Sarah Wright,5.9,2.35
+165,280,12000,Comedy|Drama|Romance,Steve Buscemi,"Paris, je t'aime ",63084,Catalina Sandino Moreno,7.3,1.85
+104,548,748,Drama|Sport,Harry Lennix,Resurrecting the Champ ,18442,Peter Coyote,6.8,2.35
+150,252,2000,Comedy|Drama|Romance,Tina Fey,Admission ,28573,Christopher Evan Welch,5.7,2.35
+61,8,2000,Drama|Romance,Emir Kusturica,The Widow of Saint-Pierre ,4767,Yves Jacques,7.3,2.35
+226,73,14000,Drama|Mystery|Romance|Thriller,Liam Neeson,Chloe ,56264,Natalie Lisinska,6.3,1.85
+21,150,979,Comedy|Crime|Drama,Chazz Palminteri,Faithful ,1595,Paul Mazursky,5.9,1.85
+217,1000,20000,Drama|Thriller,Natalie Portman,Brothers ,88037,Ethan Suplee,7.1,2.35
+94,968,22000,Biography|Comedy|Crime|Drama,Peter Dinklage,Find Me Guilty ,28068,Alex Rocco,7.1,1.85
+364,850,8000,Drama|Romance,Logan Lerman,The Perks of Being a Wallflower ,351274,Kate Walsh,8.0,1.85
+19,147,683,Action,Burt Young,Excessive Force ,922,Thomas Ian Griffith,5.1,1.85
+129,442,2000,Biography|Crime|Drama,Toby Jones,Infamous ,14143,Hope Davis,7.1,1.85
+71,887,14000,Drama|Romance|Western,Milla Jovovich,The Claim ,5254,Shirley Henderson,6.5,2.35
+93,794,3000,Horror|Thriller,Djimon Hounsou,The Vatican Tapes ,7199,Dougray Scott,4.5,1.85
+399,304,1000,Action|Comedy|Sci-Fi|Thriller,John Boyega,Attack the Block ,82331,Jodie Whittaker,6.6,2.35
+110,116,306,Drama|Romance|War,Jelena Jovanova,In the Land of Blood and Honey ,31414,Branko Djuric,4.3,2.35
+285,383,873,Crime|Thriller,Michael Imperioli,The Call ,88241,Roma Maffia,6.7,1.85
+2,29,14000,Action|Drama|History|War,Liam Neeson,Operation Chromite ,90,Jung-jae Lee,6.8,
+61,234,477,Action|Adventure|Comedy|Family,Steve Irwin,The Crocodile Hunter: Collision Course ,5663,Steve Bastoni,5.4,2.35
+242,113,170,Biography|Comedy|Crime|Drama|Romance,Dameon Clarke,I Love You Phillip Morris ,77305,Annie Golden,6.6,1.85
+62,91,581,Adventure|Drama|History,Rae Dawn Chong,Quest for Fire ,16281,Gary Schwartz,7.4,2.35
+121,543,18000,Biography|Drama,Denzel Washington,Antwone Fisher ,26493,Derek Luke,7.3,2.35
+83,355,13000,Drama,Gabriel Millman,The Emperor's Club ,14354,Rob Morrow,6.9,1.85
+122,975,11000,Action|Crime|Drama|Romance|Thriller,Brad Pitt,True Romance ,163492,Michael Rapaport,8.0,2.35
+88,1000,6000,Drama|Romance|Sci-Fi,Eva Green,Womb ,9957,Hannah Murray,6.4,2.35
+120,99,18000,Crime|Drama|Mystery,Kevin Spacey,Glengarry Glen Ross ,75675,Jude Ciccolella,7.8,2.35
+225,204,818,Crime|Drama|Thriller,Liam Aiken,The Killer Inside Me ,28483,Jay R. Ferguson,6.1,2.35
+130,697,783,Fantasy|Horror|Thriller,Ed Begley Jr.,Cat People ,14193,John Heard,6.1,1.85
+167,472,1000,Horror|Mystery,Julian Morris,Sorority Row ,24012,Rumer Willis,5.1,2.35
+7,135,490,Adventure|Drama|Romance,David Niven,The Prisoner of Zenda ,3256,Ronald Colman,7.8,1.37
+226,552,33000,Comedy|Drama|Romance,Ryan Gosling,Lars and the Real Girl ,114762,Paul Schneider,7.4,1.85
+185,18,77,Drama|War,Richard Johnson,The Boy in the Striped Pajamas ,132386,Cara Horgan,7.8,1.85
+177,322,963,Crime|Drama|Musical,Catherine Deneuve,Dancer in the Dark ,79330,Björk,8.0,2.35
+28,241,1000,Drama|Romance,Tom Wilkinson,Oscar and Lucinda ,5648,Clive Russell,6.7,2.35
+48,599,812,Crime|Drama,Isabella Rossellini,The Funeral ,6921,Gretchen Mol,6.6,1.85
+116,506,966,Comedy|Drama|Romance,Jenna Fischer,Solitary Man ,13371,Richard Schiff,6.4,1.85
+391,844,22000,Action|Crime|Thriller,Robert De Niro,Machete ,165792,Cheech Marin,6.7,1.85
+117,168,18000,Biography|Comedy|Crime|Drama,Kevin Spacey,Casino Jack ,14757,Christian Campbell,6.2,2.35
+24,191,912,Adventure|Animation|Family,Judith Barsi,The Land Before Time ,61753,Bill Erwin,7.3,1.33
+86,489,717,Action|Drama|War,Min-sik Choi,Tae Guk Gi: The Brotherhood of War ,31943,Dong-gun Jang,8.1,2.35
+41,655,968,Comedy|Drama|Family|Sport,Clifton Collins Jr.,The Perfect Game ,2676,Bruce McGill,7.0,2.35
+304,259,1000,Horror,Ellen Burstyn,The Exorcist ,284252,Lee J. Cobb,8.0,1.37
+385,366,813,Adventure|Drama|Thriller,Roy Scheider,Jaws ,412454,Murray Hamilton,8.0,2.35
+145,1000,3000,Comedy,Alyson Hannigan,American Pie ,315549,Natasha Lyonne,7.0,1.85
+99,186,6000,Animation|Comedy|Crime|Drama|Family,Mackenzie Foy,Ernest & Celestine ,12029,Lambert Wilson,7.9,1.85
+29,148,400,Action|Adventure|Comedy|Fantasy|Mystery,Victor Wong,The Golden Child ,39798,Charlotte Lewis,5.9,1.85
+77,807,997,Comedy|Romance,Chris Brown,Think Like a Man ,34579,Regina Hall,6.6,2.35
+91,436,656,Comedy|Drama,Sean Patrick Thomas,Barbershop ,22147,Cedric the Entertainer,6.3,1.85
+148,664,12000,Action|Adventure|Sci-Fi,Leonard Nimoy,Star Trek II: The Wrath of Khan ,91414,Nichelle Nichols,7.7,2.35
+61,567,759,Comedy,Sean Young,Ace Ventura: Pet Detective ,216486,David Margulies,6.9,1.85
+84,793,2000,Sci-Fi|Thriller,Matthew Broderick,WarGames ,71842,Ally Sheedy,7.1,1.85
+83,733,11000,Crime|Drama|Romance|Thriller,Harrison Ford,Witness ,66966,Lukas Haas,7.4,1.85
+216,11,93,Action|Adventure|Drama|Thriller|War,Alex Veadov,Act of Valor ,57996,Rorke Denver,6.5,2.35
+107,920,17000,Crime|Drama|Music|Romance,Channing Tatum,Step Up ,90938,Josh Henderson,6.5,2.35
+63,616,13000,Adventure|Animation|Comedy|Crime,Bruce Willis,Beavis and Butt-Head Do America ,42892,John Doman,6.8,1.85
+140,889,22000,Crime|Thriller,Robert De Niro,Jackie Brown ,239540,Robert Forster,7.5,1.85
+153,816,1000,Adventure|Comedy,Danneel Ackles,Harold & Kumar Escape from Guantanamo Bay ,113918,Beverly D'Angelo,6.6,1.85
+414,371,963,Drama|Sci-Fi|Thriller,Michael Kelly,Chronicle ,204327,Ashley Hinshaw,7.1,1.85
+16,122,405,Drama|Musical|Romance,Miriam Margolyes,Yentl ,9503,Steven Hill,6.6,1.85
+139,504,629,Adventure|Comedy|Fantasy|Sci-Fi,Shelley Duvall,Time Bandits ,45890,Kenny Baker,7.0,1.85
+111,135,1000,Comedy|Drama,Britney Spears,Crossroads ,34219,Dave Allen,3.3,1.85
+229,281,971,Comedy|Crime,Dax Flame,Project X ,157051,Oliver Cooper,6.7,1.85
+112,78,654,Biography|Drama|War,George C. Scott,Patton ,76398,Bill Hickman,8.0,2.2
+207,933,49000,Drama|Thriller,Robin Williams,One Hour Photo ,97938,Connie Nielsen,6.8,1.85
+198,1000,137000,Horror|Sci-Fi|Thriller,Andrew Fiscella,Quarantine ,57446,Dania Ramirez,6.0,1.85
+172,451,17000,Horror|Mystery,Chloë Grace Moretz,The Eye ,44130,Obba Babatundé,5.4,2.35
+45,826,1000,Comedy,Vanessa Williams,Johnson Family Vacation ,5928,Shad Moss,4.3,2.35
+34,722,995,Comedy|Fantasy,Hector Elizondo,How High ,42644,T.J. Thyne,6.2,1.85
+75,84,227,Comedy|Drama|Family|Fantasy|Musical,Steven Mackintosh,The Muppet Christmas Carol ,33850,Steve Whitmire,7.7,1.85
+400,834,6000,Action|Adventure|Thriller,Eva Green,Casino Royale ,470501,Ivana Milicevic,8.0,2.35
+128,898,4000,Biography|Drama|Romance,Salma Hayek,Frida ,61651,Valeria Golino,7.4,1.85
+68,8,28,Documentary|Music,Lexie Contursi,Katy Perry: Part of Me ,12383,Anthony Burrell,5.9,1.85
+326,733,8000,Drama|Romance,Shailene Woodley,The Fault in Our Stars ,249688,Nat Wolff,7.8,1.85
+128,599,13000,Crime|Drama,Matt Damon,Rounders ,121676,Gretchen Mol,7.4,2.35
+161,555,3000,Comedy|Romance,Rosario Dawson,Top Five ,21672,J.B. Smoove,6.5,2.35
+70,79,452,Horror|Sci-Fi,Talia Shire,Prophecy ,3000,Robert Foxworth,5.4,2.35
+164,282,347,Horror|Mystery|Thriller,Illeana Douglas,Stir of Echoes ,62468,Lusia Strus,7.0,1.85
+68,898,1000,Action|Adventure|Biography|Drama|History,Peter Mensah,Spartacus: War of the Damned             ,173172,Viva Bianca,8.6,16.0
+354,322,1000,Biography|Drama,Steve Coogan,Philomena ,76094,Peter Hermann,7.6,1.85
+125,805,975,Comedy|Drama,Alicia Witt,The Upside of Anger ,19007,Joan Allen,6.9,2.35
+55,801,1000,Drama|Thriller,Laurence Olivier,The Boys from Brazil ,20660,Steve Guttenberg,7.0,1.85
+66,717,836,Comedy|Family|Fantasy|Romance,Tammin Sursok,Aquamarine ,30462,Dichen Lachman,5.3,1.85
+191,376,733,Drama|Mystery|Romance,Nat Wolff,Paper Towns ,63390,Meg Crosbie,6.4,2.35
+33,581,873,Comedy,Michael Imperioli,My Baby's Daddy ,3119,Bai Ling,4.5,1.85
+433,622,1000,Adventure|Comedy|Drama,Devin Ratray,Nebraska ,91082,Will Forte,7.8,2.35
+66,580,1000,Action|Fantasy|Horror|Thriller,CCH Pounder,Tales from the Crypt: Demon Knight ,16646,Gary Farmer,6.7,1.85
+37,611,833,Comedy|Crime|Family,Noel Fisher,Max Keeble's Big Move ,5794,Larry Miller,5.3,1.85
+325,390,9000,Comedy|Drama,Charlize Theron,Young Adult ,64682,Collette Wolfe,6.3,1.85
+170,501,26000,Action|Crime|Thriller,Jason Statham,Crank ,196422,Jose Pablo Cantillo,7.0,1.78
+11,324,1000,Comedy,Bernie Mac,How to Be a Player ,2301,Lark Voorhies,5.3,1.85
+24,604,1000,Comedy|Drama|Romance,Holly Hunter,Living Out Loud ,4052,Jenette Goldstein,6.6,2.35
+70,696,988,Comedy|Romance|Sport,Common,Just Wright ,10103,Mehcad Brooks,5.8,2.35
+232,471,11000,Drama|Romance,Anne Hathaway,Rachel Getting Married ,41226,Bill Irwin,6.7,1.85
+34,85,1000,Crime|Drama|Romance|Thriller,Anjelica Huston,The Postman Always Rings Twice ,16764,John Colicos,6.6,1.85
+160,1000,19000,Biography|Drama|Romance,Scarlett Johansson,Girl with a Pearl Earring ,60171,Tom Wilkinson,7.0,2.35
+96,18,362,Adventure|Drama|Thriller|War,Jürgen Prochnow,Das Boot ,168203,Herbert Grönemeyer,8.4,1.85
+106,877,2000,Drama|History|War|Western,Dennis Quaid,The Alamo ,16832,Jordi Mollà,6.0,2.35
+53,503,529,Comedy,Heather Matarazzo,Sorority Boys ,12007,Harland Williams,5.4,1.85
+274,171,565,Drama|Fantasy|Romance,Tom Hughes,About Time ,202341,Lindsay Duncan,7.8,2.35
+248,4,755,Action|Adventure|Drama|Romance,Takeshi Kaneshiro,House of Flying Daggers ,92295,Zhengyong Zhang,7.6,2.35
+288,360,664,Drama|Thriller,Nate Parker,Arbitrage ,41574,Reg E. Cathey,6.6,1.85
+177,265,452,Sci-Fi|Thriller,Gary Weeks,Project Almanac ,57349,Sofia Black-D'Elia,6.4,2.35
+81,192,436,Biography|Drama|Music,Cedric the Entertainer,Cadillac Records ,15412,Tammy Blanchard,7.0,2.35
+29,654,931,Comedy|Crime,Sarah Silverman,Screwed ,6965,Sherman Hemsley,5.7,1.85
+58,968,1000,Action|Crime|Sci-Fi|Thriller,Christopher Lambert,Fortress ,23383,Clifton Collins Jr.,5.9,1.85
+144,783,957,Comedy,John Michael Higgins,For Your Consideration ,12197,Ed Begley Jr.,6.3,1.85
+114,99,537,Comedy|Drama,Melanie Griffith,Celebrity ,20576,Greg Mottola,6.3,1.66
+132,316,433,Comedy|Drama,Jill Clayburgh,Running with Scissors ,20000,Dagmara Dominczyk,6.2,2.35
+60,251,525,Comedy|Musical|Romance,Anika Noni Rose,From Justin to Kelly ,23606,Brian Dietzen,2.1,1.85
+30,599,873,Comedy|Drama,Michael Imperioli,Girl 6 ,4961,Gretchen Mol,5.0,1.85
+138,48,1000,Mystery|Thriller,Jennifer Jason Leigh,In the Cut ,18632,Susan Gardner,5.3,1.85
+190,103,812,Drama|Romance,Isabella Rossellini,Two Lovers ,29613,Samantha Ivers,7.1,2.35
+61,794,5000,Drama,Bob Hoskins,Last Orders ,5016,JJ Feild,7.0,2.35
+363,74,629,Comedy|Drama|Horror|Sci-Fi,Doona Bae,The Host ,68883,Ah-sung Ko,7.0,1.85
+2,212,3000,Adventure|Crime|Thriller,Robert Duvall,The Pursuit of D.B. Cooper ,763,Paul Gleason,5.7,1.85
+131,611,769,Fantasy|Horror|Thriller,Jeremy Davies,Ravenous ,29990,David Arquette,7.1,2.35
+146,442,21000,Comedy|Drama|Romance,Robert Downey Jr.,Charlie Bartlett ,56654,Hope Davis,7.0,1.85
+280,70,211,Drama,Toni Servillo,The Great Beauty ,55516,Serena Grandi,7.7,2.35
+78,77,1000,Comedy|Drama,Kieran Culkin,The Dangerous Lives of Altar Boys ,12047,Jake Richardson,7.1,1.85
+469,520,3000,Drama|Thriller,Mia Wasikowska,Stoker ,84620,Harmony Korine,6.8,2.35
+194,576,878,Drama|Romance|Sci-Fi,Li Gong,2046 ,41496,Maggie Cheung,7.5,2.35
+121,18,60,Crime|Drama|Romance,David Richmond-Peck,Married Life ,8014,Timothy Webber,6.3,1.85
+38,393,706,Adventure|Drama|Family,Eamonn Walker,Duma ,6454,Campbell Scott,7.3,1.85
+123,289,845,Drama|Mystery|Romance,Tony Curran,Ondine ,16863,Alicja Bachleda,6.8,1.85
+81,403,865,Crime|Drama|Thriller,Omar Epps,Brother ,18520,James Shigeta,7.2,1.85
+72,146,693,Comedy|Crime,Michael Jeter,Welcome to Collinwood ,12559,Andy Davoli,6.4,2.35
+25,745,941,Comedy|Drama,Kyra Sedgwick,Critical Care ,1427,Albert Brooks,6.0,1.85
+78,350,797,Drama|Mystery|Thriller,Eva Amurri Martino,The Life Before Her Eyes ,12125,Brett Cullen,6.4,2.35
+57,820,967,Comedy|Drama|Romance,Dianne Wiest,Darling Companion ,2551,Sam Shepard,5.1,2.35
+69,289,662,Crime|Drama|Thriller,Zack Ward,Trade ,14831,Alicja Bachleda,7.5,2.35
+73,0,9,Drama|Romance|War,Marcell Nagy,Fateless ,5603,Bálint Péntek,7.1,2.35
+42,865,13000,Comedy,Bruce Willis,Breakfast of Champions ,6884,Omar Epps,4.6,1.85

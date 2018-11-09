@@ -1,441 +1,328 @@
-num_critic_for_reviews,director_facebook_likes,actor_2_name,gross,actor_1_name,movie_title,num_voted_users,num_user_for_reviews,content_rating,budget,title_year,aspect_ratio,movie_facebook_likes
-176,72,Ray Winstone,70224196,Matthew McConaughey,Fool's Gold ,59352,138,PG-13,70000000,2008,2.35,0
-230,0,RZA,51814190,Adam Sandler,Funny People ,100837,301,R,75000000,2009,1.85,0
-234,532,Frances Fisher,47456450,Jennifer Garner,The Kingdom ,101386,289,R,70000000,2007,2.35,0
-164,285,Leslie Bibb,148213377,Will Ferrell,Talladega Nights: The Ballad of Ricky Bobby ,130776,437,PG-13,73000000,2006,2.35,0
-91,41,Jeffrey Jones,112950721,Raven-Symoné,Dr. Dolittle 2 ,33884,79,PG,72000000,2001,2.35,266
-132,0,Patrick McGoohan,75600000,Mhairi Calvey,Braveheart ,736638,1065,R,72000000,1995,2.35,17000
-262,0,Brian Geraghty,62647540,Jake Gyllenhaal,Jarhead ,143525,657,R,70000000,2005,2.35,0
-299,30,Yeardley Smith,183132370,Albert Brooks,The Simpsons Movie ,259083,763,PG-13,75000000,2007,2.35,0
-128,0,Hal Holbrook,27796042,Martin Landau,The Majestic ,45031,376,PG,72000000,2001,1.85,0
-109,212,Estella Warren,32616869,Sylvester Stallone,Driven ,34435,346,PG-13,72000000,2001,2.35,886
-88,218,Jean-Claude Dreyfus,18947630,David Gant,Two Brothers ,11798,124,PG,59660000,2004,2.35,2000
-261,0,Judy Greer,114195633,Bryce Dallas Howard,The Village ,193770,2003,PG-13,60000000,2004,1.85,0
-73,84,Raven-Symoné,144156464,Oliver Platt,Doctor Dolittle ,74343,98,PG-13,71500000,1998,1.85,694
-208,0,Merritt Wever,227965690,Rory Culkin,Signs ,271592,2335,PG-13,72000000,2002,1.85,0
-205,80,Jennifer Saunders,436471036,Rupert Everett,Shrek 2 ,314630,483,PG,150000000,2004,1.85,0
-256,487,Cheech Marin,244052771,John Ratzenberger,Cars ,263853,584,G,120000000,2006,2.35,0
-103,0,Christopher Meloni,152149590,Julia Roberts,Runaway Bride ,74274,255,PG,70000000,1999,2.35,0
-191,357,Eve,141204016,Vin Diesel,xXx ,142569,737,PG-13,70000000,2002,2.35,10000
-147,5,Billy West,162495848,Tim Conway,The SpongeBob Movie: Sponge Out of Water ,34359,133,PG,74000000,2015,1.85,16000
-79,2000,Delroy Lindo,136448821,Lili Taylor,Ransom ,98989,158,R,80000000,1996,1.85,1000
-486,16000,Brad Pitt,120523073,Michael Fassbender,Inglourious Basterds ,885175,1527,R,75000000,2009,2.35,42000
-75,14000,Julia Roberts,119654900,Robin Williams,Hook ,182802,363,PG,70000000,1991,2.35,13000
-245,420,Rufus Sewell,72660029,Dwayne Johnson,Hercules ,115687,269,PG-13,100000000,2014,2.35,21000
-142,212,John Amos,117541000,Bruce Willis,Die Hard 2 ,269858,316,R,70000000,1990,2.35,0
-144,69,Josh Charles,116643346,Jeremy Renner,S.W.A.T. ,119807,340,PG-13,80000000,2003,2.35,0
-39,,Katia Winter,,Nicole Beharie,Sleepy Hollow             ,49049,110,TV-14,,,16.0,14000
-153,488,Ivana Milicevic,100614858,Tom Cruise,Vanilla Sky ,206776,1248,R,68000000,2001,1.85,0
-284,0,Freddy Rodríguez,42272747,Bryce Dallas Howard,Lady in the Water ,78635,1040,PG-13,70000000,2006,1.85,0
-247,545,Colin Salmon,80281096,Sanaa Lathan,AVP: Alien vs. Predator ,143628,1283,PG-13,60000000,2004,2.35,0
-107,84,Bridgit Mendler,219613391,Amy Poehler,Alvin and the Chipmunks: The Squeakquel ,31649,98,PG,75000000,2009,1.85,2000
-141,130,Marc Blucas,78120196,Jon Hamm,We Were Soldiers ,103241,742,R,75000000,2002,2.35,5000
-358,845,Morgan Freeman,98895417,Gerard Butler,Olympus Has Fallen ,203154,698,R,70000000,2013,2.35,45000
-160,906,Jonathan Frakes,70117571,LeVar Burton,Star Trek: Insurrection ,56741,515,PG,58000000,1998,2.35,1000
-355,473,Jim Parrack,83552429,Noel Fisher,Battle Los Angeles ,154955,800,PG-13,70000000,2011,2.35,25000
-235,13000,Alison Lohman,66257002,Steve Buscemi,Big Fish ,350698,816,PG-13,70000000,2003,1.37,26000
-59,0,Peter Gerety,65012000,David Hyde Pierce,Wolf ,43559,137,R,70000000,1994,1.85,0
-388,14000,Benedict Cumberbatch,79883359,Jeremy Irvine,War Horse ,116159,488,PG-13,66000000,2011,2.35,28000
-371,0,Matt Damon,78031620,Bill Murray,The Monuments Men ,102248,403,PG-13,70000000,2014,2.35,34000
-82,0,Todd Graff,54222000,Michael Biehn,The Abyss ,131217,380,PG-13,69500000,1989,2.35,0
-297,0,Austin Pendleton,52474616,Frank Langella,Wall Street: Money Never Sleeps ,84118,245,PG-13,70000000,2010,2.35,13000
-261,28,Sarah Gadon,55942830,Dominic Cooper,Dracula Untold ,138582,423,PG-13,70000000,2014,2.35,37000
-120,380,Bruce Willis,40932372,Denzel Washington,The Siege ,58023,281,R,70000000,1998,2.35,0
-228,905,David Kelly,38345403,Henry Cavill,Stardust ,212085,492,PG-13,70000000,2007,2.35,15000
-76,218,Mako,37901509,Brad Pitt,Seven Years in Tibet ,96385,119,PG-13,70000000,1997,2.35,0
-185,2000,Clint Howard,48430355,Channing Tatum,The Dilemma ,43709,141,PG-13,70000000,2011,2.35,0
-128,541,Brooke Smith,30157016,Anthony Hopkins,Bad Company ,39659,189,PG-13,70000000,2002,2.35,792
-237,43,Ben Daniels,28031250,Dwayne Johnson,Doom ,88146,814,R,60000000,2005,2.35,0
-105,84,Phill Lewis,33105600,Gary Cole,I Spy ,41663,141,PG-13,70000000,2002,1.37,531
-242,24,Stephen Rea,62321039,Theo James,Underworld: Awakening ,117096,271,R,70000000,2012,2.35,24000
-360,163,Shane Hartline,38509342,James Martin Kelly,Rock of Ages ,61995,356,PG-13,75000000,2012,2.35,33000
-112,40,Cole Hauser,19076815,Bruce Willis,Hart's War ,43651,196,R,60000000,2002,2.35,997
-189,5,Robert De Niro,25093607,Jason Statham,Killer Elite ,105556,157,R,35000000,2011,2.35,17000
-151,323,Chris Klein,18990542,LL Cool J,Rollerball ,22264,289,R,70000000,2002,2.35,584
-92,8,Sandrine Holt,14294842,Talisa Soto,Ballistic: Ecks vs. Sever ,16761,277,R,70000000,2002,2.35,391
-79,13,Minnie Driver,19819494,Morgan Freeman,Hard Rain ,26893,126,R,70000000,1998,2.35,815
-81,101,Brandy Norwood,13596911,Ron Howard,Osmosis Jones ,25572,123,PG,70000000,2001,2.35,2000
-51,6,Oliver Platt,8460990,Lea Michele,Legends of Oz: Dorothy's Return ,5116,54,PG,70000000,2013,,5000
-261,0,Archie Kao,7097125,Chris Hemsworth,Blackhat ,38983,207,R,70000000,2015,2.35,11000
-197,14,Laurence Olivier,37760080,Angelina Jolie Pitt,Sky Captain and the World of Tomorrow ,72868,618,PG,70000000,2004,1.85,0
-159,105,Indira Varma,5851188,Charlotte Rampling,Basic Instinct 2 ,31124,313,R,70000000,2006,2.35,764
-286,101,50 Cent,25121291,Sylvester Stallone,Escape Plan ,177653,279,R,50000000,2013,2.35,34000
-156,212,Luke Newberry,18821279,Roxanne McKee,The Legend of Hercules ,44891,202,PG-13,70000000,2014,2.35,12000
-176,31,Bruce McGill,118471320,Morgan Freeman,The Sum of All Fears ,86504,568,PG-13,68000000,2002,2.35,0
-293,171,Kristen Stewart,300523113,Robert Pattinson,The Twilight Saga: Eclipse ,184637,498,PG-13,68000000,2010,2.35,29000
-141,0,Marlon Brando,71069884,Robert De Niro,The Score ,101899,445,R,68000000,2001,2.35,0
-304,275,Miranda Cosgrove,251501645,Steve Carell,Despicable Me ,385943,296,PG,69000000,2010,1.85,31000
-40,29,Robert Blake,35324232,Vincent Pastore,Money Train ,32224,62,R,68000000,1995,2.35,617
-280,3000,Morgan Freeman,81257500,Liam Neeson,Ted 2 ,117739,229,R,68000000,2015,2.35,30000
-180,448,Ashraf Barhom,617840,Max Minghella,Agora ,52496,172,R,70000000,2009,2.35,29000
-125,18,Wes Studi,29655590,Janeane Garofalo,Mystery Men ,53970,435,PG-13,65000000,1999,1.85,0
-237,101,Larry Joe Campbell,45045037,Jenna Fischer,Hall Pass ,103230,143,R,36000000,2011,2.35,10000
-209,0,Rip Torn,28965197,Al Pacino,The Insider ,133526,521,R,68000000,1999,2.35,0
-178,44,Abraham Benrubi,27550735,Michael Raymond-James,The Finest Hours ,27481,113,PG-13,,2016,2.35,12000
-238,0,Simon McBurney,39380442,Leonardo DiCaprio,Body of Lies ,174248,263,R,70000000,2008,2.35,0
-190,116,Stephanie Szostak,72980108,Steve Carell,Dinner for Schmucks ,80338,264,PG-13,,2010,1.85,0
-393,335,Dominic Cooper,37516013,Rufus Sewell,Abraham Lincoln: Vampire Hunter ,128629,348,R,69000000,2012,2.35,98000
-138,36,Kevin McNally,87704396,Will Patton,Entrapment ,88132,274,PG-13,66000000,1999,2.35,0
-4,,Kaitlyn Dever,,Hector Elizondo,Last Man Standing             ,15114,87,TV-PG,,,16.0,0
-142,38,Mitch Pileggi,83892374,Martin Landau,The X Files ,85720,297,PG-13,66000000,1998,2.35,0
-90,4,Nonso Anozie,5932060,Colin Firth,The Last Legion ,29285,174,PG-13,35000000,2007,2.35,0
-219,14000,Vin Diesel,216119491,Tom Hanks,Saving Private Ryan ,881236,2277,R,70000000,1998,1.85,22000
-327,76,Dominic Cooper,43568507,Rami Malek,Need for Speed ,136954,346,PG-13,66000000,2014,2.35,32000
-149,278,Lisa Edelstein,182805123,Judy Greer,What Women Want ,158864,395,PG-13,70000000,2000,1.37,0
-193,77,Stephen Root,176387405,Goran Visnjic,Ice Age ,328159,467,PG,59000000,2002,1.85,3000
-175,759,Michael O'Neill,33685268,Morgan Freeman,Dreamcatcher ,75573,662,R,68000000,2003,2.35,4000
-538,14000,Hal Holbrook,182204440,Joseph Gordon-Levitt,Lincoln ,197412,720,PG-13,65000000,2012,2.35,71000
-313,0,Marcus Chong,171383253,Keanu Reeves,The Matrix ,1217752,3646,R,63000000,1999,2.35,25000
-159,2000,Miko Hughes,172071312,Tom Hanks,Apollo 13 ,208817,296,PG,62000000,1995,2.35,5000
-196,719,Rachel Ticotin,119412921,Ronny Cox,Total Recall ,240241,391,R,65000000,1990,1.85,0
-80,54,Aisha Tyler,139225854,Judge Reinhold,The Santa Clause 2 ,34561,116,G,60000000,2002,1.85,1000
-488,0,Eddie Redmayne,148775460,Hugh Jackman,Les Misérables ,243834,845,PG-13,61000000,2012,1.85,144000
-153,0,Jean Stapleton,115731542,Tom Hanks,You've Got Mail ,151812,556,PG,65000000,1998,1.85,0
-173,285,Adam Scott,100468793,Will Ferrell,Step Brothers ,212499,277,R,65000000,2008,2.35,0
-156,258,Tony Amendola,93771072,Anthony Hopkins,The Mask of Zorro ,135404,318,PG-13,65000000,1998,2.35,0
-307,480,RZA,100448498,Robert Downey Jr.,Due Date ,272789,285,R,65000000,2010,2.35,25000
-322,11000,Jack O'Connell,115603980,Finn Wittrock,Unbroken ,103589,351,PG-13,65000000,2014,2.35,35000
-169,16000,Courtney B. Vance,90454043,Clint Eastwood,Space Cowboys ,60165,326,PG-13,65000000,2000,2.35,0
-74,212,Leon,84049211,Sylvester Stallone,Cliffhanger ,96096,172,R,70000000,1993,2.35,0
-72,610,Samantha Mathis,70450000,Delroy Lindo,Broken Arrow ,77390,189,R,50000000,1996,2.35,0
-86,226,Lily Tomlin,69688384,Bruce Willis,The Kid ,34473,139,PG,60000000,2000,1.85,0
-242,0,Jay Hernandez,70236496,Nicolas Cage,World Trade Center ,67395,564,PG-13,63000000,2006,1.85,0
-141,179,Kirsten Dunst,63695760,Julia Roberts,Mona Lisa Smile ,61490,264,PG-13,65000000,2003,1.85,0
-313,119,Aasif Mandvi,59617068,Sayed Badreya,The Dictator ,213863,310,R,65000000,2012,2.35,59000
-280,0,Vinessa Shaw,55637680,Tom Cruise,Eyes Wide Shut ,227071,1500,R,65000000,1999,1.66,10000
-176,87,Dorian Missick,85911262,Quvenzhané Wallis,Annie ,24735,213,PG,65000000,2014,2.39,16000
-279,43,Adrian Martinez,53846915,Will Smith,Focus ,149337,221,R,50100000,2015,1.85,23000
-241,368,Abigail Spencer,54758461,Tom Hardy,This Means War ,147641,238,PG-13,65000000,2012,2.35,18000
-185,687,Natasha Lyonne,52397389,Ryan Reynolds,Blade: Trinity ,132954,514,R,65000000,2004,2.35,0
-97,468,Jennifer Grey,,Lea Thompson,Red Dawn ,41776,383,PG-13,16900000,1984,1.85,0
-117,0,Adrian Lester,38966057,Maura Tierney,Primary Colors ,23940,157,R,65000000,1998,2.35,688
-239,545,Boris Kodjoe,42345531,Milla Jovovich,Resident Evil: Retribution ,104831,423,R,65000000,2012,2.35,32000
-230,545,Max Ryan,36064910,Jason Statham,Death Race ,166610,211,R,45000000,2008,2.35,0
-94,212,Craig Bierko,33328051,Melina Kanakaredes,The Long Kiss Goodnight ,60508,285,R,65000000,1996,2.35,4000
-134,138,Alun Armstrong,32598931,Pamela Reed,Proof of Life ,49300,265,R,65000000,2000,2.35,892
-136,4000,Josh Hutcherson,28045540,Kristen Stewart,Zathura: A Space Adventure ,67707,202,PG,65000000,2005,1.85,0
-315,21000,Meat Loaf,37023395,Brad Pitt,Fight Club ,1347461,2968,R,63000000,1999,2.35,48000
-96,368,Kimberly Williams-Paisley,43532294,Matthew McConaughey,We Are Marshall ,46951,175,PG,65000000,2006,2.35,0
-14,,James Nesbitt,,Jason Flemyng,The Missing             ,8739,28,,,,,0
-60,36,James Coburn,17218080,Bruce Willis,Hudson Hawk ,43376,249,R,70000000,1991,1.85,0
-60,0,Michael Moore,10014234,Michael Rapaport,Lucky Numbers ,8560,69,R,65000000,2000,1.85,177
-308,72,Kevin Grevioux,19059018,Caitlin Stasey,I, Frankenstein ,65709,194,PG-13,65000000,2014,2.35,15000
-127,2000,Barney Clark,1987287,Ian McNeice,Oliver Twist ,25474,138,PG-13,50000000,2005,2.35,0
-196,38,Cary-Hiroyuki Tagawa,24407944,Jennifer Garner,Elektra ,71202,380,PG-13,43000000,2005,2.35,0
-339,436,Bruce Willis,13750556,Joseph Gordon-Levitt,Sin City: A Dame to Kill For ,111102,239,R,65000000,2014,1.85,32000
-96,521,Kristin Scott Thomas,31054924,Harrison Ford,Random Hearts ,17025,290,R,64000000,1999,1.85,295
-361,175,Martin Henderson,43247140,Michael Kelly,Everest ,134625,265,PG-13,55000000,2015,2.35,40000
-226,670,David Calder,2208939,Michael Smiley,Perfume: The Story of a Murderer ,190490,482,R,50000000,2006,2.35,26000
-194,116,Josh Zuckerman,213079163,Verne Troyer,Austin Powers in Goldmember ,162909,795,PG-13,63000000,2002,2.35,0
-138,42,Charlize Theron,19548064,Nicolas Cage,Astro Boy ,25681,77,PG,65000000,2009,2.35,0
-308,14000,Ariana Richards,356784000,Wayne Knight,Jurassic Park ,613473,895,PG-13,63000000,1993,1.85,19000
-40,759,Catherine O'Hara,25052000,Dennis Quaid,Wyatt Earp ,35314,145,PG-13,63000000,1994,2.35,0
-42,176,Dean Jones,122012710,Harrison Ford,Clear and Present Danger ,69663,133,PG-13,62000000,1994,2.35,0
-68,10,Peng Lin,72413,Si Won Choi,Dragon Blade ,11584,86,R,65000000,2015,2.35,0
-78,322,Brittany Daniel,58255287,Chazz Palminteri,Littleman ,39471,187,PG-13,64000000,2006,1.85,0
-178,84,Thomas Kretschmann,77086030,Matthew McConaughey,U-571 ,65297,602,PG-13,62000000,2000,2.35,0
-75,0,Samantha Mathis,65000000,Shawna Waldron,The American President ,43027,214,PG-13,62000000,1995,2.35,0
-150,12,Romany Malco,32178777,Justin Timberlake,The Love Guru ,43300,250,PG-13,62000000,2008,2.35,0
-113,11,Bokeem Woodbine,15738632,Jon Lovitz,3000 Miles to Graceland ,38076,399,R,42000000,2001,2.35,0
-596,16000,Jennifer Jason Leigh,54116191,Craig Stark,The Hateful Eight ,272839,1018,R,44000000,2015,2.76,114000
-191,8,Amy Poehler,118153533,Will Ferrell,Blades of Glory ,129995,246,PG-13,61000000,2007,1.85,0
-156,25,Elizabeth Perkins,108012170,Gary Cole,Hop ,24089,82,PG,63000000,2011,1.85,0
-460,0,Michael Fassbender,210592590,Gerard Butler,300 ,607235,2073,R,65000000,2006,2.35,13000
-141,116,Blythe Danner,279167575,Robert De Niro,Meet the Fockers ,211296,428,PG-13,80000000,2004,1.85,0
-180,64,Kathleen Turner,143151473,Eric Dane,Marley & Me ,116681,320,PG,60000000,2008,2.35,11000
-186,0,Jeffrey DeMunn,136801374,Tom Hanks,The Green Mile ,782610,1377,R,60000000,1999,1.85,30000
-177,12,Tichina Arnold,168213584,Jill Hennessy,Wild Hogs ,99989,255,PG-13,,2007,2.35,0
-161,10,Fred Willard,135381507,Catherine O'Hara,Chicken Little ,63912,251,G,150000000,2005,1.85,912
-568,21000,Sela Ward,167735396,Patrick Fugit,Gone Girl ,569841,1127,R,61000000,2014,2.35,146000
-249,218,Josh Hamilton,121468960,Matt Damon,The Bourne Identity ,407601,849,PG-13,60000000,2002,2.35,0
-137,258,Joe Don Baker,106635996,Izabella Scorupco,GoldenEye ,199025,416,PG-13,58000000,1995,2.35,0
-113,165,Timothy Hutton,102678089,Daniel von Bargen,The General's Daughter ,42705,274,R,95000000,1999,2.35,885
-213,608,Noah Emmerich,125603360,Natascha McElhone,The Truman Show ,667983,877,PG,60000000,1998,1.85,18000
-120,59,Aria Noelle Curzon,101217900,Martin Short,The Prince of Egypt ,91093,353,PG,70000000,1998,1.85,0
-81,41,Lisa Edelstein,104148781,Anjelica Huston,Daddy Day Care ,49486,116,PG,60000000,2003,1.85,886
-265,175,Patrick Fischler,75573300,Denzel Washington,2 Guns ,156898,172,R,61000000,2013,2.35,22000
-105,6,Elizabeth Perkins,93375151,Carol Ann Susi,Cats & Dogs ,46031,235,PG,60000000,2001,1.85,0
-155,473,Charlize Theron,106126012,Jason Statham,The Italian Job ,285623,497,PG-13,60000000,2003,2.35,0
-118,30,Alicia Witt,93307796,Dorian Missick,Two Weeks Notice ,85673,269,PG-13,60000000,2002,1.85,0
-131,35,Woody Allen,90646554,Sylvester Stallone,Antz ,124641,289,PG,105000000,1998,1.85,0
-166,0,Kristin Davis,109176215,Jon Favreau,Couples Retreat ,83506,144,PG-13,60000000,2009,1.85,0
-60,12000,Robert Duvall,82670733,Tom Cruise,Days of Thunder ,60476,97,PG-13,60000000,1990,2.35,0
-77,163,Tom Welling,82569532,Taylor Lautner,Cheaper by the Dozen 2 ,42737,128,PG,60000000,2005,2.35,781
-249,47,Lili Taylor,81687587,Ki Hong Lee,The Scorch Trials ,138246,360,PG-13,61000000,2015,2.35,24000
-213,708,Julia Roberts,80574010,James Franco,Eat Pray Love ,63493,302,PG-13,60000000,2010,1.85,26000
-121,420,Don Cheadle,75764085,Nicolas Cage,The Family Man ,85844,322,PG-13,60000000,2000,2.35,0
-315,124,Morgan Freeman,90356857,Bruce Willis,RED ,238916,328,PG-13,58000000,2010,2.35,32000
-171,0,Dennis Quaid,75530832,Al Pacino,Any Given Sunday ,97047,452,R,55000000,1999,2.35,0
-96,0,Kristin Scott Thomas,75370763,Scarlett Johansson,The Horse Whisperer ,32353,263,PG-13,60000000,1998,1.85,0
-299,0,Jada Pinkett Smith,100003492,Tom Cruise,Collateral ,293662,836,R,65000000,2004,2.35,0
-167,55,Roger Rees,90341670,Dwayne Johnson,The Scorpion King ,102129,432,PG-13,60000000,2002,2.35,0
-125,13,Jay Hernandez,74540762,Billy Burke,Ladder 49 ,48753,323,PG-13,55000000,2004,1.85,0
-387,188,Robert Duvall,80033643,Tom Cruise,Jack Reacher ,226570,448,PG-13,60000000,2012,2.35,38000
-199,212,Michael Rapaport,73648142,LL Cool J,Deep Blue Sea ,99043,643,R,60000000,1999,2.35,0
-136,197,Mekia Cox,71844424,Misha Gabriel Hamilton,This Is It ,33158,223,PG,60000000,2009,1.78,0
-436,0,Monique Gabriela Curnen,75638743,Matt Damon,Contagion ,180479,411,PG-13,60000000,2011,1.85,42000
-73,18,Dyan Cannon,66734992,Estella Warren,Kangaroo Jack ,23476,181,PG,60000000,2003,2.35,858
-310,253,Dawn French,75280058,Jennifer Saunders,Coraline ,143121,279,PG,60000000,2009,1.85,10000
-323,0,Alan Ruck,64505912,Zooey Deschanel,The Happening ,163130,1264,R,48000000,2008,1.85,6000
-171,12000,Radha Mitchell,77862546,Denzel Washington,Man on Fire ,266310,690,R,70000000,2004,2.35,14000
-76,48,Joel David Moore,61112916,Robert Downey Jr.,The Shaggy Dog ,14888,83,PG,50000000,2006,2.35,747
-173,480,Carmen Electra,88200225,Snoop Dogg,Starsky & Hutch ,120795,308,PG-13,60000000,2004,2.35,0
-81,32,Harvey Korman,60573641,Jim Belushi,Jingle All the Way ,68406,162,PG,60000000,1996,1.85,0
-242,0,Rupert Evans,59035104,James Babson,Hellboy ,244566,597,PG-13,66000000,2004,1.85,0
-110,234,Kathleen Quinlan,56702901,Robert Duvall,A Civil Action ,23302,181,PG-13,60000000,1998,2.35,1000
-328,28,Kodi Smit-McPhee,55994557,Anna Kendrick,ParaNorman ,72287,176,PG,60000000,2012,2.35,12000
-83,105,Bruce Willis,54910560,J.K. Simmons,The Jackal ,88225,227,R,60000000,1997,2.35,0
-196,610,Joe Morton,53789313,Ivana Milicevic,Paycheck ,89816,347,PG-13,60000000,2003,2.35,0
-34,50,Stockard Channing,51045801,Joe Mantegna,Up Close & Personal ,11370,54,PG-13,60000000,1996,1.85,829
-118,18,Matthew Broderick,50818750,Emma Watson,The Tale of Despereaux ,31209,106,G,60000000,2008,2.35,0
-8,,Oliver Hudson,,Bianca Kajlich,Rules of Engagement             ,26404,41,TV-PG,,,1.78,0
-81,11,Debi Mazar,50189179,Romany Malco,The Tuxedo ,61966,207,PG-13,60000000,2002,1.85,797
-47,14,Brenda Bakke,50024083,Peter Greene,Under Siege 2: Dark Territory ,35918,126,R,60000000,1995,1.85,1000
-313,0,Nonso Anozie,50549107,Colm Feore,Jack Ryan: Shadow Recruit ,99035,289,PG-13,60000000,2014,2.35,17000
-315,737,Robert De Niro,56443482,Jennifer Lawrence,Joy ,75329,256,PG-13,60000000,2015,1.85,24000
-225,24,Radha Mitchell,62401264,Gerard Butler,London Has Fallen ,69484,323,R,60000000,2016,2.35,28000
-223,0,Michael Wincott,47748610,Gary Dourdan,Alien: Resurrection ,170179,656,R,75000000,1997,2.35,0
-198,845,Ned Beatty,46975183,Tate Donovan,Shooter ,256213,338,R,61000000,2007,2.35,0
-219,7,Dee Bradley Baker,50807639,Isaac Hempstead Wright,The Boxtrolls ,40883,122,PG,60000000,2014,1.85,11000
-92,165,Dianne Wiest,46611204,Goran Visnjic,Practical Magic ,55749,257,PG-13,48000000,1998,2.35,0
-435,97,Will Ferrell,257756197,Morgan Freeman,The Lego Movie ,246698,471,PG,60000000,2014,2.35,64000
-111,11,Diedrich Bader,48472213,Eileen Brennan,Miss Congeniality 2: Armed and Fabulous ,51252,156,PG-13,45000000,2005,2.35,621
-138,38,Gerard Butler,43060566,Christian Bale,Reign of Fire ,107859,569,PG-13,60000000,2002,2.35,0
-415,181,Brandon Molale,45996718,Ryan Gosling,Gangster Squad ,173530,264,R,60000000,2013,2.35,40000
-170,11000,Oliver Platt,43337279,Olivia Wilde,Year One ,76770,203,PG-13,60000000,2009,1.85,0
-306,16000,Morgan Freeman,37479778,Matt Damon,Invictus ,124222,259,PG-13,60000000,2009,2.35,23000
-252,162,Harry Lennix,36965395,Robin Wright,State of Play ,113295,235,PG-13,,2009,2.35,0
-211,209,Tom Wilkinson,40559930,Julia Roberts,Duplicity ,41727,184,PG-13,60000000,2009,2.35,0
-49,80,Ray Walston,36830057,Steven Anthony Lawrence,My Favorite Martian ,10883,73,PG,65000000,1999,1.85,448
-161,69,David Rasche,36279230,Blair Brown,The Sentinel ,42144,213,PG-13,60000000,2006,2.35,690
-156,2,Gary Oldman,42194060,Dwayne Johnson,Planet 51 ,41259,72,PG,70000000,2009,2.35,0
-172,53,LeVar Burton,43119879,Tom Hardy,Star Trek: Nemesis ,58450,842,PG-13,60000000,2002,2.35,0
-161,0,Paul Adelstein,35096190,Cedric the Entertainer,Intolerable Cruelty ,76560,322,PG-13,60000000,2003,1.85,0
-239,39,Ed Lauter,35754555,Clint Eastwood,Trouble with the Curve ,47954,150,PG-13,,2012,2.35,11000
-258,258,Ray Winstone,43290977,Bojana Novakovic,Edge of Darkness ,75201,256,R,80000000,2010,2.35,0
-95,0,Penelope Ann Miller,33927476,John Kapelos,The Relic ,19176,165,R,40000000,1997,2.35,956
-105,11000,Cathy Moriarty,32122249,Robert De Niro,Analyze That ,69319,138,R,60000000,2002,1.85,846
-198,50,Al Pacino,40076438,Robert De Niro,Righteous Kill ,73368,248,R,60000000,2008,2.35,0
-79,17,Miko Hughes,32940507,Bruce Willis,Mercury Rising ,54314,127,R,60000000,1998,2.35,0
-210,456,Stephen Root,31670931,Robert Downey Jr.,The Soloist ,44099,143,PG-13,60000000,2009,2.35,0
-125,0,Will Smith,30695227,Matt Damon,The Legend of Bagger Vance ,45296,267,PG-13,60000000,2000,1.85,0
-149,488,Zooey Deschanel,32522352,Philip Seymour Hoffman,Almost Famous ,207287,822,R,60000000,2000,1.85,15000
-77,25,Roger Rees,28424210,Bill Murray,Garfield 2 ,27517,74,PG,,2006,1.85,470
-77,93,Nona Gaye,26082914,Sunny Mabrey,xXx: State of the Union ,51349,213,PG-13,87000000,2005,2.35,0
-225,124,Alan Dale,29136626,Josh Wingate,Priest ,97089,233,PG-13,60000000,2011,2.35,20000
-98,0,Adriano Giannini,26288320,Brad Pitt,Sinbad: Legend of the Seven Seas ,36144,91,PG,60000000,2003,1.66,880
-172,545,Joely Richardson,26616590,Sean Pertwee,Event Horizon ,120416,857,R,60000000,1997,2.35,10000
-703,0,Robert Downey Jr.,623279547,Chris Hemsworth,The Avengers ,995415,1722,PG-13,220000000,2012,1.85,123000
-117,293,Susanna Thompson,30063805,Joe Morton,Dragonfly ,31788,243,PG-13,60000000,2002,2.35,0
-240,0,Mia Kirshner,22518325,Scarlett Johansson,The Black Dahlia ,63363,644,R,50000000,2006,2.35,0
-123,23,Tyler Labine,13082288,James Franco,Flyboys ,35565,247,PG-13,60000000,2006,2.35,2000
-110,37,Delroy Lindo,18208078,Clifton Collins Jr.,The Last Castle ,57100,281,R,60000000,2001,2.35,0
-100,394,Wilson Cruz,14218868,Robert Forster,Supernova ,14596,282,PG-13,65000000,2000,2.35,589
-189,167,William Hurt,22451,Matt Bomer,Winter's Tale ,41288,126,PG-13,60000000,2014,2.35,17000
-212,91,Kevin Zegers,31165421,Aidan Turner,The Mortal Instruments: City of Bones ,107028,457,PG-13,60000000,2013,2.35,44000
-127,48,Mike O'Malley,11802056,Marc Blucas,Meet Dave ,31640,109,PG,60000000,2008,1.85,791
-196,179,Camryn Manheim,25472967,Dougray Scott,Dark Water ,44966,411,PG-13,30000000,2005,2.35,0
-115,2000,Adam Goldberg,22362500,Matthew McConaughey,Edtv ,35599,195,PG-13,55000000,1999,1.85,641
-161,34,Stephen Graham,17281832,Brendan Fraser,Inkheart ,60232,110,PG,60000000,2008,2.35,0
-223,436,Jaime King,19781879,Scarlett Johansson,The Spirit ,53864,290,PG-13,60000000,2008,2.35,2000
-181,192,Olivia Munn,7605668,Johnny Depp,Mortdecai ,47320,188,R,60000000,2015,2.35,12000
-140,892,Mike Dopud,4535117,Jason Statham,In the Name of the King: A Dungeon Siege Tale ,38398,368,PG-13,60000000,2007,2.35,0
-54,258,Teri Polo,4426297,Angelina Jolie Pitt,Beyond Borders ,22570,156,R,35000000,2003,2.35,0
-14,3,Aaron Kwok,,Li Gong,Xi you ji zhi: Sun Wukong san da Baigu Jing ,1212,9,,68005000,2016,2.35,426
-81,131,Clayne Crawford,10166502,James Franco,The Great Raid ,18209,183,R,80000000,2005,2.35,0
-579,84,Ed Skrein,363024263,Ryan Reynolds,Deadpool ,479047,1058,R,58000000,2016,2.35,117000
-56,65,Morgan Fairchild,12065985,Kelly Preston,Holy Man ,16260,88,PG,60000000,1998,2.35,296
-490,16000,Leonard Roberts,350123553,Bradley Cooper,American Sniper ,325264,916,R,58800000,2014,2.35,112000
-218,11,Dylan Minnette,80021740,Odeya Rush,Goosebumps ,47968,154,PG,58000000,2015,2.35,35000
-20,,Soleil Moon Frye,,Nate Richert,Sabrina, the Teenage Witch             ,24420,94,TV-G,3000000,,1.33,990
-142,70,Ivana Milicevic,48291624,Jon Heder,Just Like Heaven ,82819,263,PG-13,58000000,2005,1.85,0
-57,32,Mark Addy,35231365,Taylor Negron,The Flintstones in Viva Rock Vegas ,15517,85,PG,60000000,2000,1.85,500
-84,10,Kurtwood Smith,53715611,Sylvester Stallone,Rambo III ,92106,171,R,63000000,1988,2.35,2000
-186,0,Malcolm Goodwin,31199215,Robert Baker,Leatherheads ,27664,120,PG-13,58000000,2008,1.85,472
-53,153,Adam Sandler,,Taylor Lautner,The Ridiculous 6 ,27019,143,TV-14,,2015,2.35,0
-133,30,Kim Shaw,29580087,Michael Kelly,Did You Hear About the Morgans? ,29523,121,PG-13,58000000,2009,2.35,0
-246,189,Jessica Szohr,44665963,Josh Gad,The Internship ,159931,281,PG-13,58000000,2013,2.35,22000
-253,545,Boris Kodjoe,60128566,Milla Jovovich,Resident Evil: Afterlife ,131447,410,R,60000000,2010,2.35,19000
-144,143,Nate Parker,49875589,David Oyelowo,Red Tails ,28807,273,PG-13,58000000,2012,2.35,0
-46,,Kristin Davis,,Chris Noth,Sex and the City             ,80025,238,TV-MA,,,1.33,0
-117,138,Al Pacino,60984028,Keanu Reeves,The Devil's Advocate ,259519,431,R,57000000,1997,2.35,11000
-157,51,Leighton Meester,36931089,Adam Sandler,That's My Boy ,70681,198,R,70000000,2012,2.35,12000
-60,357,Brian Thompson,51317350,Dennis Quaid,DragonHeart ,78343,139,PG-13,57000000,1996,2.35,0
-117,420,Don Cheadle,28328132,Salma Hayek,After the Sunset ,38298,147,PG-13,58000000,2004,2.35,782
-287,83,Spencer Wilding,51774002,Nicolas Cage,Ghost Rider: Spirit of Vengeance ,87745,331,PG-13,57000000,2011,2.35,18000
-96,108,Irene Papas,25528495,Christian Bale,Captain Corelli's Mandolin ,28099,220,R,57000000,2001,2.35,0
-26,,Noureen DeWulf,,Barry Corbin,Anger Management             ,26992,54,,,,16.0,0
-125,163,Brad Garrett,113006880,Vin Diesel,The Pacifier ,66308,225,PG,56000000,2005,2.35,0
-117,10,Ashley Scott,45860039,Dwayne Johnson,Walking Tall ,53118,221,PG-13,56000000,2004,2.35,0
-149,0,Siobhan Fallon Hogan,329691196,Tom Hanks,Forrest Gump ,1251222,1398,PG-13,55000000,1994,2.35,59000
-131,25,Beth Riesgraf,217326336,Jesse McCartney,Alvin and the Chipmunks ,57276,146,PG,60000000,2007,1.85,0
-150,116,Blythe Danner,166225040,Robert De Niro,Meet the Parents ,260442,507,PG-13,55000000,2000,1.85,0
-92,12,Frank Welker,141600000,Christian Bale,Pocahontas ,119675,216,G,55000000,1995,1.78,0
-169,503,Margot Kidder,134218018,Marlon Brando,Superman ,126357,497,PG,55000000,1978,2.35,0
-57,293,James Coburn,128769345,Jada Pinkett Smith,The Nutty Professor ,86556,99,PG-13,54000000,1996,1.85,960
-171,72,Michael Rapaport,177575142,Will Smith,Hitch ,244840,372,PG-13,70000000,2005,2.35,0
-53,39,Abraham Benrubi,105263257,Brendan Fraser,George of the Jungle ,56168,103,PG,55000000,1997,1.85,5000
-153,58,Thomas Ian Nicholas,104354205,Alyson Hannigan,American Wedding ,162331,332,R,55000000,2003,2.35,0
-491,521,Chris Mulkey,107100855,Tom Hanks,Captain Phillips ,323353,527,PG-13,55000000,2013,2.35,65000
-247,189,James Franco,98711404,Mila Kunis,Date Night ,127571,207,PG-13,55000000,2010,2.35,0
-26,52,Fred Rogers,100328194,Eric Idle,Casper ,85903,92,PG,50000000,1995,1.85,0
-292,845,Chloë Grace Moretz,101530738,Denzel Washington,The Equalizer ,229574,436,R,55000000,2014,2.35,56000
-114,61,Frances Conroy,93815117,Bob Hoskins,Maid in Manhattan ,68417,242,PG-13,55000000,2002,2.35,0
-82,12000,Viggo Mortensen,91400000,Denzel Washington,Crimson Tide ,81026,194,R,53000000,1995,2.35,0
-201,125,Kurt Fuller,162586036,Will Smith,The Pursuit of Happyness ,338383,611,PG-13,55000000,2006,2.35,32000
-231,124,Michael Irby,89706988,Erika Christensen,Flightplan ,126746,600,PG-13,55000000,2005,2.35,0
-55,272,Dylan Baker,83000000,Demi Moore,Disclosure ,36587,95,R,55000000,1994,2.35,0
-110,52,Andre Braugher,78745923,Nicolas Cage,City of Angels ,94407,322,PG-13,55000000,1998,2.35,0
-354,16000,Vivica A. Fox,70098138,David Carradine,Kill Bill: Vol. 1 ,735784,2105,R,30000000,2003,2.35,13000
-140,0,Adam Alexi-Malle,66365290,Robert Downey Jr.,Bowfinger ,56874,358,PG-13,55000000,1999,1.37,0
-77,,Don S. Davis,,Christopher Judge,Stargate SG-1             ,63982,181,TV-14,1400000,,1.33,0
-304,16000,Michael Parks,66207920,Vivica A. Fox,Kill Bill: Vol. 2 ,512749,935,R,30000000,2004,2.35,0
-45,96,Jack Palance,63408614,Sylvester Stallone,Tango & Cash ,75365,149,R,55000000,1989,2.35,0
-49,0,Meryl Streep,58422650,Bruce Willis,Death Becomes Her ,78974,173,PG-13,55000000,1992,1.85,8000
-146,9,Jason Connery,56932305,Xander Berkeley,Shanghai Noon ,96690,293,PG-13,55000000,2000,2.35,0
-60,53,Joe Morton,68750000,Oliver Platt,Executive Decision ,40858,144,R,55000000,1996,2.35,0
-189,70,Ophelia Lovibond,68218041,Madeline Carroll,Mr. Popper's Penguins ,67191,108,PG,55000000,2011,1.85,14000
-206,50,Thomas McDonell,25040293,Jet Li,The Forbidden Kingdom ,88049,279,PG-13,55000000,2008,2.35,0
-118,39,Carlos Ponce,55747724,Amy Poehler,Free Birds ,18042,73,PG,55000000,2013,1.85,0
-210,21000,Holt McCallany,55473600,Charles S. Dutton,Alien 3 ,207686,776,R,50000000,1992,2.35,0
-76,317,Jimmy Nail,49994804,Andrea Corr,Evita ,29205,194,PG,55000000,1996,2.35,0
-149,287,Natascha McElhone,41609593,Robert De Niro,Ronin ,145422,572,R,55000000,1998,2.35,0
-62,81,Bernard Hill,38553833,Tom Wilkinson,The Ghost and the Darkness ,46239,155,R,55000000,1996,2.35,0
-224,17,Matt Lucas,76137505,Julie Walters,Paddington ,49207,174,PG,55000000,2014,2.35,30000
-265,82,Nicholas Braun,34350553,Will Forte,The Watch ,104066,207,R,68000000,2012,2.35,15000
-135,607,Jenna Boyd,34238611,Connie Nielsen,The Hunted ,35830,321,R,55000000,2003,1.85,0
-100,226,Maura Tierney,34098563,Anthony Hopkins,Instinct ,27191,232,R,55000000,1999,2.35,0
-123,101,Terence Bernie Hines,33828318,Matt Damon,Stuck on You ,44453,154,PG-13,55000000,2003,2.35,0
-164,3,Maura Tierney,33472850,Will Ferrell,Semi-Pro ,67005,119,R,55000000,2008,2.35,0
-238,91,Russell Tovey,31051126,Salma Hayek,The Pirates! Band of Misfits ,36877,101,PG,55000000,2012,2.35,0
-264,16000,Michael Kelly,35707327,Angelina Jolie Pitt,Changeling ,199056,387,R,55000000,2008,2.35,14000
-47,99,Morgan Freeman,20550712,Keanu Reeves,Chain Reaction ,40346,95,PG-13,50000000,1996,1.85,1000
-50,12000,Kurt Fuller,18573791,Robert De Niro,The Fan ,38533,89,R,55000000,1996,2.35,0
-153,541,Minnie Driver,51225796,Gerard Butler,The Phantom of the Opera ,96654,2047,PG-13,70000000,2004,2.35,0
-202,159,Abbie Cornish,16264475,Eddie Redmayne,Elizabeth: The Golden Age ,54787,216,PG-13,55000000,2007,1.85,0
-178,45,Sophie Okonedo,25857987,Charlize Theron,Æon Flux ,110614,532,PG-13,62000000,2005,2.35,0
-84,33,Bruce Boxleitner,12870569,Billy Campbell,Gods and Generals ,13215,497,PG-13,56000000,2003,2.35,953
-44,0,Lauren Holly,11466088,Hector Elizondo,Turbulence ,8983,84,R,71000000,1997,2.35,316
-93,11,Ronny Cox,16088610,Stephen Root,Imagine That ,10417,39,PG,55000000,2009,2.35,610
-277,33,Tina Fey,51178893,Ty Burrell,Muppets Most Wanted ,24285,110,PG,50000000,2014,1.85,10000
-76,906,Philip Winchester,6768055,Sophia Myles,Thunderbirds ,11148,229,PG,57000000,2004,1.85,437
-197,59,Peter Gallagher,39440655,Eric Dane,Burlesque ,61680,222,PG-13,55000000,2010,2.35,19000
-186,0,André Dussollier,6167817,Denis Lavant,A Very Long Engagement ,62607,239,R,47000000,2004,2.35,0
-103,0,Shelley Winters,,James Mason,Lolita ,67822,207,Not Rated,2000000,1962,1.66,0
-66,13,Tom Berenger,,Sylvester Stallone,Eye See You ,19706,142,R,55000000,2002,2.35,448
-224,0,Thomas Kretschmann,81645152,Norman Reedus,Blade II ,158267,559,R,54000000,2002,1.85,0
-202,125,Rosario Dawson,69951824,Will Smith,Seven Pounds ,232710,599,PG-13,55000000,2008,2.35,26000
-279,394,Jason Momoa,9483821,Sylvester Stallone,Bullet to the Head ,39247,131,R,55000000,2012,1.85,10000
-110,0,Joe Mantegna,66676062,Al Pacino,The Godfather: Part III ,267980,545,R,54000000,1990,1.85,0
-190,488,Kirsten Dunst,26838389,Orlando Bloom,Elizabethtown ,58658,495,PG-13,57000000,2005,1.85,0
-136,94,Billy Gardell,75604320,Todd Stashwick,You, Me and Dupree ,68417,195,PG-13,54000000,2006,1.85,0
-121,44,Ned Beatty,108200000,Margot Kidder,Superman II ,76331,269,PG,54000000,1980,2.35,0
-131,102,Lenny Venito,5660084,Todd Giebenhain,Gigli ,41620,418,R,54000000,2003,2.35,2000
-127,234,Anthony Hopkins,7221458,Kate Winslet,All the King's Men ,20740,178,PG-13,55000000,2006,1.85,0
-160,309,Vanessa Williams,70327868,Christian Bale,Shaft ,58416,301,R,46000000,2000,2.35,0
-78,383,Kelsey Grammer,58297830,Kirsten Dunst,Anastasia ,86347,191,G,50000000,1997,2.35,0
-209,1000,Kylie Minogue,57386369,Jim Broadbent,Moulin Rouge! ,224013,2319,PG-13,52500000,2001,2.35,10000
-98,17,Teri Polo,45207112,Steve Buscemi,Domestic Disturbance ,21283,190,PG-13,53000000,2001,2.35,361
-391,108,Benedict Cumberbatch,62563543,Johnny Depp,Black Mass ,115216,289,R,53000000,2015,2.35,44000
-279,16000,Chris Bauer,33574332,Paul Walker,Flags of Our Fathers ,101221,415,R,90000000,2006,2.35,0
-216,473,Leslie Bibb,73343413,Gerard Butler,Law Abiding Citizen ,217480,429,R,50000000,2009,2.35,21000
-250,0,Rosario Dawson,25031037,Quentin Tarantino,Grindhouse ,155496,532,R,53000000,2007,2.35,0
-78,438,Kimberly Elise,22843047,Oprah Winfrey,Beloved ,6082,207,R,55000000,1998,1.85,853
-106,161,Robert Duvall,5755286,Robert Downey Jr.,Lucky You ,18310,63,PG-13,55000000,2007,2.35,672
-194,14000,Tom Hanks,164435221,Leonardo DiCaprio,Catch Me If You Can ,525801,667,PG-13,52000000,2002,1.85,15000
-558,0,Harold Perrineau,95720716,Jennifer Ehle,Zero Dark Thirty ,216032,640,R,40000000,2012,1.85,39000
-183,235,John Michael Higgins,118683135,Jon Favreau,The Break-Up ,102167,483,PG-13,52000000,2006,1.85,0
-238,58,Meryl Streep,143704210,Colin Firth,Mamma Mia! ,145974,611,PG-13,52000000,2008,2.35,10000
-186,0,Taylor Lautner,110476776,Bradley Cooper,Valentine's Day ,95437,211,PG-13,52000000,2010,1.85,9000
-144,422,Jessica Simpson,80270227,Alice Greczyn,The Dukes of Hazzard ,66382,612,PG-13,50000000,2005,2.35,0
-156,0,Miranda Otto,36385763,Nick Stahl,The Thin Red Line ,138941,1448,R,52000000,1998,2.35,0
-215,71,Olivia Wilde,37035845,Ryan Reynolds,The Change-Up ,136680,149,R,52000000,2011,2.35,13000
-140,869,Gerry Becker,34580635,Matt Price,Man on the Moon ,100743,549,R,52000000,1999,2.35,0
-133,17000,Don Rickles,42438300,Robert De Niro,Casino ,333542,533,R,52000000,1995,2.35,11000
-203,180,Amber Rose Revah,23324666,Kasia Smutniak,From Paris with Love ,97775,211,R,52000000,2010,2.35,0
-127,13,Mako,23020488,Jaime King,Bulletproof Monk ,42324,180,PG-13,52000000,2003,2.35,846
-155,101,Tony Cox,90567722,Robert Forster,Me, Myself & Irene ,185878,481,R,51000000,2000,1.85,0
-98,176,Wanda Sykes,72601713,Rob Paulsen,Barnyard ,21396,155,PG,51000000,2006,1.85,605
-71,14,Jorge Garcia,35092918,Matthew Broderick,Deck the Halls ,15740,110,PG,,2006,1.85,1000
-299,129,Kristen Stewart,296623634,Robert Pattinson,The Twilight Saga: New Moon ,220758,919,PG-13,50000000,2009,2.35,13000
-212,80,Chris Miller,267652016,Kathleen Freeman,Shrek ,467113,945,PG,60000000,2001,1.85,0
-413,53,Michael Kelly,62453315,Matt Damon,The Adjustment Bureau ,200035,407,PG-13,50200000,2011,1.85,36000
-67,58,Morgan Freeman,165500000,Alan Rickman,Robin Hood: Prince of Thieves ,145257,322,PG-13,48000000,1991,1.85,0
-109,488,Kelly Preston,153620822,Tom Cruise,Jerry Maguire ,189923,318,R,50000000,1996,1.85,0
-457,3000,Seth MacFarlane,218628680,Mila Kunis,Ted ,471644,623,R,50000000,2012,1.85,74000
-156,274,Yeardley Smith,147637474,Lupe Ontiveros,As Good as It Gets ,224671,470,PG-13,50000000,1997,1.85,11000
-55,293,Philip Seymour Hoffman,135014968,Robin Williams,Patch Adams ,80580,375,PG-13,50000000,1998,2.35,0
-272,285,Will Ferrell,2175312,Harrison Ford,Anchorman 2: The Legend Continues ,131227,346,PG-13,50000000,2013,2.35,41000
-117,65,Adam Sandler,126203320,Steve Buscemi,Mr. Deeds ,110432,309,PG-13,50000000,2002,1.85,0
-539,14000,AJ Michalka,126975169,Joel Courtney,Super 8 ,287822,849,PG-13,50000000,2011,2.35,37000
-169,0,Albert Finney,125548685,Julia Roberts,Erin Brockovich ,135246,498,R,52000000,2000,1.85,0
-140,80,Adam Goldberg,105807520,Matthew McConaughey,How to Lose a Guy in 10 Days ,156717,357,PG-13,50000000,2003,1.85,0
-330,97,Craig Roberts,191616238,Channing Tatum,22 Jump Street ,258186,322,R,50000000,2014,2.35,24000
-120,277,Tom Cruise,105264608,Brad Pitt,Interview with the Vampire: The Vampire Chronicles ,239752,406,R,60000000,1994,1.85,11000
-190,235,Zooey Deschanel,97680195,Bradley Cooper,Yes Man ,271691,243,PG-13,70000000,2008,2.35,0
-177,43,Thomas Kretschmann,126088877,Dwayne Johnson,Central Intelligence ,33354,110,PG-13,50000000,2016,2.35,10000
-65,0,Liam Aiken,91030827,Julia Roberts,Stepmom ,46482,252,PG-13,50000000,1998,2.35,0
-145,51,Linda Cardellini,150315155,Will Ferrell,Daddy's Home ,54010,130,PG-13,50000000,2015,1.85,13000
-321,252,Meryl Streep,127997349,Johnny Depp,Into the Woods ,101178,779,PG,50000000,2014,2.39,90000
-230,0,James Ransone,88504640,Denzel Washington,Inside Man ,273108,646,R,45000000,2006,2.35,0
-143,241,Deborah Kara Unger,81517441,Bill Duke,Payback ,111368,394,R,50000000,1999,2.35,0
-55,155,Joe Don Baker,81022333,Dylan Walsh,Congo ,34471,147,PG-13,50000000,1995,1.85,0
-257,488,Matt Damon,75621915,Scarlett Johansson,We Bought a Zoo ,111003,199,PG,,2011,1.85,22000
-279,295,Ben Mendelsohn,79948113,Nicolas Cage,Knowing ,186879,791,PG-13,50000000,2009,2.35,0
-143,9,Matthew McConaughey,88658172,Bradley Cooper,Failure to Launch ,58412,242,PG-13,50000000,2006,2.35,2000
-196,62,Gary Cole,75888270,Naomi Watts,The Ring Two ,71153,560,PG-13,,2005,1.85,0
-310,43,Emma Stone,84244877,Ryan Gosling,Crazy, Stupid, Love. ,375456,292,PG-13,50000000,2011,2.39,44000
-116,12,Mark Christopher Lawrence,75367693,Bill Murray,Garfield ,58961,232,PG,35000000,2004,1.85,795
-105,148,Cheech Marin,73701902,Jamie Lee Curtis,Christmas with the Kranks ,27548,209,PG,60000000,2004,2.35,0
-419,152,Robin Wright,75605492,Philip Seymour Hoffman,Moneyball ,283563,312,PG-13,50000000,2011,1.85,27000
-64,249,Morgan Freeman,67823573,Kevin Spacey,Outbreak ,91176,130,R,50000000,1995,1.85,0
-359,174,Nate Parker,91439400,Liam Neeson,Non-Stop ,200647,384,PG-13,50000000,2014,2.35,24000
-166,99,Billy Brown,67128202,Dwayne Johnson,Race to Witch Mountain ,43328,110,PG,65000000,2009,2.35,0
-525,160,Eddie Marsan,70496802,Natalie Portman,V for Vendetta ,791783,2042,R,54000000,2005,2.35,48000
-165,71,Anna-Louise Plowman,60470220,Fann Wong,Shanghai Knights ,81444,192,PG-13,50000000,2003,2.35,955
-2,,Gemma Jones,,Bernard Hill,Unforgotten             ,1824,9,,,,,0
-87,5,Frank Welker,58336565,Will Ferrell,Curious George ,12845,118,G,50000000,2006,1.85,624
-117,23,Thomas Lennon,66002004,Scoot McNairy,Herbie Fully Loaded ,36431,168,G,50000000,2005,1.85,1000
-113,39,Jennifer Esposito,54997476,Oliver Platt,Don't Say a Word ,40362,248,R,50000000,2001,2.35,970
-349,75,Derek Mears,55682070,Jeremy Renner,Hansel & Gretel: Witch Hunters ,159868,304,R,50000000,2013,2.35,45000
-152,213,Erik Per Sullivan,52752475,Olivier Martinez,Unfaithful ,63067,533,R,50000000,2002,1.85,0
-288,154,Emily Wickersham,55092830,Alex Pettyfer,I Am Number Four ,195043,329,PG-13,60000000,2011,1.85,27000
-358,79,Amr Waked,50815288,Matt Damon,Syriana ,109188,625,R,50000000,2005,2.35,0
-204,0,James Badge Dale,52822418,Toby Stephens,13 Hours ,47764,219,R,50000000,2016,2.35,44000
-156,34,Hector Elizondo,50150619,Channing Tatum,The Book of Life ,45580,102,PG,50000000,2014,2.35,18000
-171,12,Harrison Ford,48745150,Jimmy Bennett,Firewall ,50170,306,PG-13,50000000,2006,2.35,773
-76,16000,Mark Margolis,50007168,Clint Eastwood,Absolute Power ,39529,142,R,50000000,1997,2.35,1000
-97,0,Demi Moore,48154732,Viggo Mortensen,G.I. Jane ,60326,142,R,50000000,1997,2.35,2000
-157,21000,Armin Mueller-Stahl,48265581,Deborah Kara Unger,The Game ,261069,506,R,50000000,1997,2.35,25000
-267,50,Deborah Kara Unger,46982632,Radha Mitchell,Silent Hill ,172792,1740,R,50000000,2006,2.35,0
-118,41,Jon Favreau,44737059,Keanu Reeves,The Replacements ,48322,261,PG-13,50000000,2000,1.85,0
-291,22,Dania Ramirez,56724080,Alyson Hannigan,American Reunion ,172112,181,R,50000000,2012,1.85,39000
-68,473,Michael Cudlitz,44484065,Kevin Spacey,The Negotiator ,107227,279,R,50000000,1998,2.35,3000
-228,77,Alycia Debnam-Carey,47553512,Matt Walsh,Into the Storm ,54101,210,PG-13,50000000,2014,1.85,15000
-36,644,Jon Tenney,42610000,Louis Lombardi,Beverly Hills Cop III ,60293,114,R,55000000,1994,1.85,669
-105,287,Robert Picardo,41482207,Christopher Lee,Gremlins 2: The New Batch ,68428,148,PG-13,50000000,1990,1.85,0
-276,71,Robert Duvall,47105085,Robert Downey Jr.,The Judge ,136973,275,R,50000000,2014,2.35,47000
-93,75,Holt McCallany,41256277,Armin Mueller-Stahl,The Peacemaker ,46451,156,R,50000000,1997,2.35,0
-191,38,Thomas Kretschmann,50740078,Milla Jovovich,Resident Evil: Apocalypse ,151580,672,R,45000000,2004,2.35,0
-143,17,Jim Broadbent,40203020,Colin Firth,Bridget Jones: The Edge of Reason ,74315,259,R,40000000,2004,2.35,0
-124,73,Sanaa Lathan,40905277,Denzel Washington,Out of Time ,45895,157,R,50000000,2003,2.35,1000
-47,0,Joan Chen,38590500,Mike Starr,On Deadly Ground ,17997,140,R,50000000,1994,2.35,812
-66,0,Kristin Davis,39177541,Taylor Lautner,The Adventures of Sharkboy and Lavagirl 3-D ,20310,177,PG,50000000,2005,1.85,0
-118,0,Virginie Ledoyen,39778599,Leonardo DiCaprio,The Beach ,176169,548,R,50000000,2000,2.35,0
-93,0,Felicity Huffman,37486138,Amber Valletta,Raising Helen ,30890,106,PG-13,50000000,2004,1.85,718
-235,160,Ben Miles,38105077,Shô Kosugi,Ninja Assassin ,58349,194,R,40000000,2009,2.35,0
-113,0,Kelly Preston,35168395,J.K. Simmons,For Love of the Game ,26034,226,PG-13,50000000,1999,2.35,0
-14,,Bruce Alexander,,David Jason,A Touch of Frost             ,4438,33,,,,1.33,361
-51,31,Rumer Willis,32800000,Demi Moore,Striptease ,34896,118,R,40000000,1996,1.85,877
-98,9,Judy Greer,33643461,Emma Stone,Marmaduke ,11257,65,PG,50000000,2010,2.35,0
-315,16000,Jay Mohr,32741596,Matt Damon,Hereafter ,80140,323,PG-13,50000000,2010,2.35,16000
-136,58,Chris Penn,31874869,Ryan Gosling,Murder by Numbers ,43574,302,R,50000000,2002,1.85,0
-61,503,Sylvester Stallone,30306268,Muse Watson,Assassins ,62981,84,R,50000000,1995,1.85,0
-209,73,Stephen Walters,27667947,Li Gong,Hannibal Rising ,86374,392,R,50000000,2007,2.35,3000
-99,0,Tim Matheson,27067160,Bruce Willis,The Story of Us ,18404,150,R,50000000,1999,1.85,0
-298,487,Chandler Canterbury,26616999,J.D. Evermore,The Host ,92461,347,PG-13,40000000,2013,2.35,43000
-131,323,Harry Connick Jr.,26536120,Connie Nielsen,Basic ,49926,286,R,50000000,2003,2.35,0
-146,16000,Anjelica Huston,26199517,Clint Eastwood,Blood Work ,34356,260,R,50000000,2002,2.35,705
-245,670,Brían F. O'Byrne,25450527,Naomi Watts,The International ,80196,190,R,50000000,2009,2.35,0
-104,0,Valeria Golino,25407250,Steve Buscemi,Escape from L.A. ,54021,227,R,50000000,1996,2.35,0
-4,,Brittany Curran,,Grey Damon,Twisted             ,7945,22,,,,16.0,915
+duration,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,gross,genres,movie_title,facenumber_in_poster,movie_imdb_link,language,country,content_rating,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio
+138,0,258,820,132122995,Action|Sci-Fi,Hulk ,0,http://www.imdb.com/title/tt0286716/?ref_=fn_tt_tt_1,English,USA,PG-13,137000000,2003,300,5.7,1.85
+122,209,934,17000,122512052,Action|Adventure|Sci-Fi|Thriller,G.I. Joe: Retaliation ,6,http://www.imdb.com/title/tt1583421/?ref_=fn_tt_tt_1,English,USA,PG-13,130000000,2013,12000,5.8,2.35
+124,42,848,11000,68642452,Action|Adventure|Comedy|Thriller,Sahara ,3,http://www.imdb.com/title/tt0318649/?ref_=fn_tt_tt_1,English,UK,PG-13,130000000,2005,973,6.0,2.35
+106,6,422,12000,32131830,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Final Fantasy: The Spirits Within ,1,http://www.imdb.com/title/tt0173840/?ref_=fn_tt_tt_1,English,USA,PG-13,137000000,2001,2000,6.4,1.85
+124,394,2000,11000,176636816,Action|Adventure|Sci-Fi,Captain America: The First Avenger ,0,http://www.imdb.com/title/tt0458339/?ref_=fn_tt_tt_1,English,USA,PG-13,140000000,2011,3000,6.9,2.35
+128,150,244,766,126930660,Action|Adventure|Thriller,The World Is Not Enough ,2,http://www.imdb.com/title/tt0143145/?ref_=fn_tt_tt_1,English,UK,PG-13,135000000,1999,536,6.4,2.35
+138,608,168,613,93926386,Action|Adventure|Drama|History|War,Master and Commander: The Far Side of the World ,1,http://www.imdb.com/title/tt0311113/?ref_=fn_tt_tt_1,English,USA,PG-13,150000000,2003,172,7.4,2.35
+115,386,12000,21000,292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2 ,3,http://www.imdb.com/title/tt1673434/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2012,17000,5.5,2.35
+100,750,988,49000,63992328,Animation|Comedy|Family|Musical,Happy Feet 2 ,0,http://www.imdb.com/title/tt1402488/?ref_=fn_tt_tt_1,English,Australia,PG,135000000,2011,11000,5.9,2.35
+135,255,882,3000,134518390,Action|Adventure|Sci-Fi,The Incredible Hulk ,0,http://www.imdb.com/title/tt0800080/?ref_=fn_tt_tt_1,English,USA,PG-13,150000000,2008,1000,6.8,2.35
+60,,184,982,,Action|Crime|Drama|Mystery|Thriller,Miami Vice             ,2,http://www.imdb.com/title/tt0086759/?ref_=fn_tt_tt_1,English,USA,TV-14,1500000,,321,7.5,1.33
+117,14000,358,535,52792307,Adventure|Family|Fantasy,The BFG ,0,http://www.imdb.com/title/tt3691740/?ref_=fn_tt_tt_1,English,UK,PG,140000000,2016,400,6.8,2.35
+156,0,733,29000,183635922,Adventure|Drama|Thriller|Western,The Revenant ,0,http://www.imdb.com/title/tt1663202/?ref_=fn_tt_tt_1,English,USA,R,135000000,2015,27000,8.1,2.35
+96,13,463,16000,83024900,Adventure|Animation|Comedy|Family|Sport,Turbo ,0,http://www.imdb.com/title/tt1860353/?ref_=fn_tt_tt_1,English,USA,PG,135000000,2013,881,6.5,2.35
+107,563,939,40000,123207194,Adventure|Animation|Comedy|Family|Western,Rango ,0,http://www.imdb.com/title/tt1192628/?ref_=fn_tt_tt_1,English,USA,PG,135000000,2011,1000,7.2,2.35
+92,35,179,19000,83348920,Adventure|Animation|Comedy|Family,Penguins of Madagascar ,0,http://www.imdb.com/title/tt1911658/?ref_=fn_tt_tt_1,English,USA,PG,132000000,2014,411,6.7,1.85
+115,521,883,13000,227137090,Action|Mystery|Thriller,The Bourne Ultimatum ,0,http://www.imdb.com/title/tt0440963/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2007,897,8.1,2.35
+92,54,562,11000,215395021,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda ,0,http://www.imdb.com/title/tt0441773/?ref_=fn_tt_tt_1,English,USA,PG,130000000,2008,967,7.6,2.35
+117,235,680,2000,180191634,Action|Adventure|Comedy|Sci-Fi,Ant-Man ,6,http://www.imdb.com/title/tt0478970/?ref_=fn_tt_tt_1,English,USA,PG-13,130000000,2015,2000,7.4,1.85
+146,508,523,34000,424645577,Adventure|Sci-Fi|Thriller,The Hunger Games: Catching Fire ,1,http://www.imdb.com/title/tt1951264/?ref_=fn_tt_tt_1,English,USA,PG-13,130000000,2013,14000,7.6,2.35
+115,386,12000,21000,292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2 ,3,http://www.imdb.com/title/tt1673434/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2012,17000,5.5,2.35
+94,12,183,17000,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Home ,0,http://www.imdb.com/title/tt2224026/?ref_=fn_tt_tt_1,English,USA,PG,135000000,2015,523,6.7,1.85
+116,14000,807,10000,234277056,Adventure|Sci-Fi|Thriller,War of the Worlds ,0,http://www.imdb.com/title/tt0407304/?ref_=fn_tt_tt_1,English,USA,PG-13,132000000,2005,1000,6.5,1.85
+147,0,877,10000,138396624,Action|Comedy|Crime|Thriller,Bad Boys II ,1,http://www.imdb.com/title/tt0172156/?ref_=fn_tt_tt_1,English,USA,R,130000000,2003,898,6.6,2.35
+90,50,397,4000,149234747,Action|Adventure|Animation|Comedy|Family|Fantasy,Puss in Boots ,0,http://www.imdb.com/title/tt0448694/?ref_=fn_tt_tt_1,English,USA,PG,130000000,2011,442,6.7,2.35
+101,176,282,11000,118311368,Action|Crime|Mystery|Thriller,Salt ,1,http://www.imdb.com/title/tt0944835/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2010,702,6.4,2.35
+138,0,8000,12000,101160529,Action|Adventure|Drama,Noah ,2,http://www.imdb.com/title/tt1959490/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2014,9000,5.8,1.85
+107,14000,845,2000,77564037,Action|Adventure|Family|Mystery,The Adventures of Tintin ,1,http://www.imdb.com/title/tt0983193/?ref_=fn_tt_tt_1,English,USA,PG,135000000,2011,871,7.4,2.35
+142,0,10000,11000,249358727,Adventure|Family|Fantasy|Mystery,Harry Potter and the Prisoner of Azkaban ,3,http://www.imdb.com/title/tt0304141/?ref_=fn_tt_tt_1,English,UK,PG,130000000,2004,10000,7.8,2.35
+165,1000,165,309,49551662,Adventure|Drama|Romance|War,Australia ,0,http://www.imdb.com/title/tt0455824/?ref_=fn_tt_tt_1,English,Australia,PG-13,130000000,2008,284,6.6,2.35
+100,0,894,10000,60522097,Action|Adventure|Sci-Fi,After Earth ,0,http://www.imdb.com/title/tt1815862/?ref_=fn_tt_tt_1,English,USA,PG-13,130000000,2013,943,4.9,2.35
+82,0,388,1000,137748063,Adventure|Animation|Family|Thriller,Dinosaur ,1,http://www.imdb.com/title/tt0130623/?ref_=fn_tt_tt_1,English,USA,PG,127500000,2000,558,6.5,1.85
+,0,159,10000,,Action|Fantasy,Harry Potter and the Deathly Hallows: Part II ,1,http://www.imdb.com/title/tt1680310/?ref_=fn_tt_tt_1,English,UK,,,2011,570,7.5,
+98,189,1000,49000,113733726,Adventure|Comedy|Family|Fantasy,Night at the Museum: Secret of the Tomb ,7,http://www.imdb.com/title/tt2692250/?ref_=fn_tt_tt_1,English,USA,PG,127000000,2014,3000,6.2,1.85
+95,96,8000,24000,148337537,Action|Animation|Comedy|Family|Sci-Fi,Megamind ,3,http://www.imdb.com/title/tt1001526/?ref_=fn_tt_tt_1,English,USA,PG,130000000,2010,11000,7.3,2.35
+159,0,645,11000,317557891,Adventure|Family|Fantasy,Harry Potter and the Sorcerer's Stone ,4,http://www.imdb.com/title/tt0241527/?ref_=fn_tt_tt_1,English,UK,PG,125000000,2001,687,7.5,2.35
+96,124,1000,16000,33592415,Action|Comedy|Fantasy,R.I.P.D. ,2,http://www.imdb.com/title/tt0790736/?ref_=fn_tt_tt_1,English,USA,PG-13,130000000,2013,12000,5.6,2.35
+120,28,12,544,,Action|Adventure|Drama|Horror|Sci-Fi,Godzilla Resurgence ,0,http://www.imdb.com/title/tt4262980/?ref_=fn_tt_tt_1,Japanese,Japan,,,2016,106,8.2,2.35
+143,563,1000,40000,305388685,Action|Adventure|Fantasy,Pirates of the Caribbean: The Curse of the Black Pearl ,3,http://www.imdb.com/title/tt0325980/?ref_=fn_tt_tt_1,English,USA,PG-13,140000000,2003,5000,8.1,2.35
+,0,1000,10000,,Fantasy,Harry Potter and the Deathly Hallows: Part I ,1,http://www.imdb.com/title/tt1571403/?ref_=fn_tt_tt_1,English,UK,,,2010,2000,6.4,
+123,508,14000,34000,337103873,Adventure|Sci-Fi|Thriller,The Hunger Games: Mockingjay - Part 1 ,1,http://www.imdb.com/title/tt1951265/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2014,22000,6.7,2.35
+174,2000,362,15000,217536138,Mystery|Thriller,The Da Vinci Code ,2,http://www.imdb.com/title/tt0382625/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2006,574,6.6,2.35
+101,107,56,688,131536019,Adventure|Animation|Comedy|Family|Musical,Rio 2 ,0,http://www.imdb.com/title/tt2357291/?ref_=fn_tt_tt_1,English,USA,G,103000000,2014,237,6.4,2.35
+134,0,346,20000,214948780,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men 2 ,4,http://www.imdb.com/title/tt0290334/?ref_=fn_tt_tt_1,English,Canada,PG-13,110000000,2003,505,7.5,2.35
+132,681,12000,23000,209805005,Action|Crime|Thriller,Fast Five ,3,http://www.imdb.com/title/tt1596343/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2011,14000,7.3,2.35
+129,0,154,21000,186830669,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes: A Game of Shadows ,2,http://www.imdb.com/title/tt1515091/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2011,979,7.5,2.35
+106,255,850,14000,163192114,Action|Adventure|Fantasy,Clash of the Titans ,0,http://www.imdb.com/title/tt0800320/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2010,1000,5.8,2.35
+113,719,217,605,119412921,Action|Sci-Fi,Total Recall ,0,http://www.imdb.com/title/tt0100802/?ref_=fn_tt_tt_1,English,USA,R,65000000,1990,308,7.5,1.85
+102,323,241,845,32694788,Action|Adventure|History,The 13th Warrior ,1,http://www.imdb.com/title/tt0120657/?ref_=fn_tt_tt_1,English,USA,R,85000000,1999,372,6.6,2.35
+135,209,602,10000,113165635,Action|Adventure|Thriller,The Bourne Legacy ,0,http://www.imdb.com/title/tt1194173/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2012,826,6.7,2.35
+125,541,409,920,107285004,Action,Batman & Robin ,3,http://www.imdb.com/title/tt0118688/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,1997,890,3.7,1.85
+110,2000,636,1000,260031035,Comedy|Family|Fantasy,How the Grinch Stole Christmas ,0,http://www.imdb.com/title/tt0170016/?ref_=fn_tt_tt_1,English,USA,PG,123000000,2000,722,6.0,1.85
+124,776,812,15000,186739919,Action|Adventure|Sci-Fi|Thriller,The Day After Tomorrow ,0,http://www.imdb.com/title/tt0319262/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2004,2000,6.4,2.35
+123,610,653,10000,215397307,Action|Adventure|Thriller,Mission: Impossible II ,0,http://www.imdb.com/title/tt0120755/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2000,794,6.1,2.35
+130,249,461,784,182618434,Action|Adventure|Drama|Thriller,The Perfect Storm ,0,http://www.imdb.com/title/tt0177971/?ref_=fn_tt_tt_1,English,USA,PG-13,140000000,2000,638,6.4,2.35
+92,167,702,11000,131920333,Action|Adventure|Sci-Fi|Thriller,Fantastic 4: Rise of the Silver Surfer ,3,http://www.imdb.com/title/tt0486576/?ref_=fn_tt_tt_1,English,USA,PG,130000000,2007,2000,5.6,2.35
+127,0,341,774,124976634,Adventure|Drama|Fantasy,Life of Pi ,0,http://www.imdb.com/title/tt0454876/?ref_=fn_tt_tt_1,English,USA,PG,120000000,2012,358,8.0,1.85
+123,160,402,12000,115802596,Action|Fantasy|Thriller,Ghost Rider ,1,http://www.imdb.com/title/tt0259324/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2007,701,5.2,2.35
+123,521,265,13000,108521835,Action|Thriller,Jason Bourne ,0,http://www.imdb.com/title/tt4196776/?ref_=fn_tt_tt_1,English,UK,PG-13,120000000,2016,365,7.1,2.35
+107,368,1000,2000,100685880,Action|Adventure|Comedy|Crime,Charlie's Angels: Full Throttle ,0,http://www.imdb.com/title/tt0305357/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2003,1000,4.8,2.35
+124,0,641,13000,126464904,Adventure|Mystery|Sci-Fi,Prometheus ,0,http://www.imdb.com/title/tt1446714/?ref_=fn_tt_tt_1,English,USA,R,130000000,2012,9000,7.0,2.35
+77,50,537,886,64736114,Adventure|Animation|Comedy|Family|Fantasy,Stuart Little 2 ,0,http://www.imdb.com/title/tt0243585/?ref_=fn_tt_tt_1,English,USA,PG,120000000,2002,799,5.4,1.85
+109,662,1000,13000,93050117,Action|Drama|Sci-Fi|Thriller,Elysium ,0,http://www.imdb.com/title/tt1535108/?ref_=fn_tt_tt_1,English,USA,R,115000000,2013,2000,6.6,2.35
+134,123,567,14000,57637485,Action|Adventure|Sci-Fi|Thriller,The Chronicles of Riddick ,0,http://www.imdb.com/title/tt0296572/?ref_=fn_tt_tt_1,English,USA,PG-13,105000000,2004,850,6.7,2.35
+117,294,1000,10000,58607007,Action|Crime|Sci-Fi|Thriller,RoboCop ,0,http://www.imdb.com/title/tt1234721/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2014,2000,6.2,2.35
+135,0,87,690,43929341,Action|Family|Sport,Speed Racer ,0,http://www.imdb.com/title/tt0811080/?ref_=fn_tt_tt_1,English,USA,PG,120000000,2008,107,6.1,2.35
+121,274,157,273,30212620,Comedy|Drama|Romance,How Do You Know ,4,http://www.imdb.com/title/tt1341188/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2010,216,5.3,1.85
+117,446,877,10000,76418654,Action|Comedy|Romance,Knight and Day ,0,http://www.imdb.com/title/tt1013743/?ref_=fn_tt_tt_1,English,USA,PG-13,117000000,2010,973,6.3,2.35
+124,364,1000,11000,89021735,Action|Adventure|Mystery|Sci-Fi,Oblivion ,0,http://www.imdb.com/title/tt1483013/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2013,10000,7.0,2.35
+140,0,4000,20000,380262555,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode III - Revenge of the Sith ,4,http://www.imdb.com/title/tt0121766/?ref_=fn_tt_tt_1,English,USA,PG-13,113000000,2005,16000,7.6,2.35
+142,0,4000,20000,310675583,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode II - Attack of the Clones ,3,http://www.imdb.com/title/tt0121765/?ref_=fn_tt_tt_1,English,USA,PG,115000000,2002,16000,6.7,1.78
+92,0,773,12000,289907418,Adventure|Animation|Comedy|Family|Fantasy,"Monsters, Inc. ",0,http://www.imdb.com/title/tt0198781/?ref_=fn_tt_tt_1,English,USA,G,115000000,2001,1000,8.1,1.85
+138,446,929,20000,132550960,Action|Adventure|Sci-Fi|Thriller,The Wolverine ,1,http://www.imdb.com/title/tt1430132/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2013,992,6.7,2.35
+136,0,1000,20000,474544677,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode I - The Phantom Menace ,1,http://www.imdb.com/title/tt0120915/?ref_=fn_tt_tt_1,English,USA,PG,115000000,1999,14000,6.5,2.35
+98,16,12000,16000,187165546,Adventure|Animation|Comedy|Family|Fantasy,The Croods ,3,http://www.imdb.com/title/tt0481499/?ref_=fn_tt_tt_1,English,USA,PG,135000000,2013,15000,7.3,2.35
+116,0,141,936,,Adventure|Comedy|Family|Fantasy,Asterix at the Olympic Games ,1,http://www.imdb.com/title/tt0463872/?ref_=fn_tt_tt_1,French,France,,78000000,2008,276,5.1,2.35
+153,610,617,12000,40911830,Action|Drama|War,Windtalkers ,0,http://www.imdb.com/title/tt0245562/?ref_=fn_tt_tt_1,English,USA,R,115000000,2002,836,6.0,2.35
+120,19,9000,26000,47952020,Action|Adventure|Drama|Fantasy,The Huntsman: Winter's War ,2,http://www.imdb.com/title/tt2381991/?ref_=fn_tt_tt_1,English,USA,PG-13,115000000,2016,11000,6.1,2.35
+101,473,429,833,190871240,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles ,0,http://www.imdb.com/title/tt1291150/?ref_=fn_tt_tt_1,English,USA,PG-13,125000000,2014,809,5.9,2.35
+91,0,13,39,274084951,Adventure|Drama|Sci-Fi|Thriller,Gravity ,0,http://www.imdb.com/title/tt1454468/?ref_=fn_tt_tt_1,English,UK,PG-13,100000000,2013,23,7.8,2.35
+108,79,268,650,67155742,Action|Adventure|Thriller,Dante's Peak ,1,http://www.imdb.com/title/tt0118928/?ref_=fn_tt_tt_1,English,USA,PG-13,116000000,1997,293,5.8,2.35
+112,13,799,5000,81638674,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles: Out of the Shadows ,,http://www.imdb.com/title/tt3949660/?ref_=fn_tt_tt_1,English,USA,PG-13,135000000,2016,833,6.3,2.35
+100,128,78,596,56114221,Action|Adventure|Sci-Fi,Fantastic Four ,3,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2015,360,4.3,2.35
+108,189,1000,49000,250863268,Action|Adventure|Comedy|Family|Fantasy,Night at the Museum ,2,http://www.imdb.com/title/tt0477347/?ref_=fn_tt_tt_1,English,USA,PG,110000000,2006,3000,6.4,1.85
+114,62,884,12000,155181732,Action|Adventure|Drama|Thriller,San Andreas ,0,http://www.imdb.com/title/tt2126355/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2015,2000,6.1,2.35
+119,55,387,811,125332007,Action|Adventure|Thriller,Tomorrow Never Dies ,3,http://www.imdb.com/title/tt0120347/?ref_=fn_tt_tt_1,English,UK,PG-13,110000000,1997,766,6.5,2.35
+142,776,1000,13000,113330342,Action|Drama|History|War,The Patriot ,1,http://www.imdb.com/title/tt0187393/?ref_=fn_tt_tt_1,English,USA,R,110000000,2000,2000,7.1,2.35
+125,0,350,11000,125531634,Crime|Thriller,Ocean's Twelve ,0,http://www.imdb.com/title/tt0349903/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2004,8000,6.4,2.35
+126,218,322,11000,186336103,Action|Comedy|Crime|Romance|Thriller,Mr. & Mrs. Smith ,2,http://www.imdb.com/title/tt0356910/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2005,11000,6.5,2.35
+119,124,1000,14000,129995817,Adventure|Sci-Fi|Thriller,Insurgent ,0,http://www.imdb.com/title/tt2908446/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2015,5000,6.3,2.35
+170,17000,827,29000,102608827,Biography|Drama,The Aviator ,0,http://www.imdb.com/title/tt0338751/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2004,3000,7.5,2.35
+85,11,116,480,42776259,Adventure|Comedy|Family|Fantasy,Gulliver's Travels ,1,http://www.imdb.com/title/tt1320261/?ref_=fn_tt_tt_1,English,USA,PG,112000000,2010,392,4.9,2.35
+119,1000,741,11000,98780042,Action|Comedy|Crime|Sci-Fi|Thriller,The Green Hornet ,0,http://www.imdb.com/title/tt0990407/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2011,1000,5.8,2.35
+60,,432,669,,Action|Adventure|Crime,The A-Team             ,4,http://www.imdb.com/title/tt0084967/?ref_=fn_tt_tt_1,English,USA,TV-PG,,,554,7.6,4.0
+102,263,1000,6000,106369117,Action|Drama|Fantasy|War,300: Rise of an Empire ,0,http://www.imdb.com/title/tt1253863/?ref_=fn_tt_tt_1,English,USA,R,110000000,2014,1000,6.2,2.35
+103,67,111,383,142614158,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs ,3,http://www.imdb.com/title/tt0472181/?ref_=fn_tt_tt_1,English,USA,PG,110000000,2011,113,5.5,1.78
+76,6,421,12000,50026353,Animation|Comedy|Family|Music|Western,Home on the Range ,0,http://www.imdb.com/title/tt0299172/?ref_=fn_tt_tt_1,English,USA,PG,110000000,2004,513,5.4,1.78
+120,124,943,6000,66002193,Action|Adventure|Mystery|Sci-Fi|Thriller,Allegiant ,3,http://www.imdb.com/title/tt3410834/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2016,5000,5.8,2.35
+127,189,544,20000,85463309,Action|Drama|Sci-Fi|Sport,Real Steel ,1,http://www.imdb.com/title/tt0433035/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2011,929,7.1,2.35
+105,67,40,681,71017784,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs 2 ,3,http://www.imdb.com/title/tt2017020/?ref_=fn_tt_tt_1,English,USA,PG,105000000,2013,71,5.4,1.85
+121,101,202,673,48068396,Action|Crime|Romance|Thriller,Speed 2: Cruise Control ,0,http://www.imdb.com/title/tt0120179/?ref_=fn_tt_tt_1,English,USA,PG-13,160000000,1997,368,3.7,2.35
+114,151,430,11000,61656849,Action|Sci-Fi,Ender's Game ,4,http://www.imdb.com/title/tt1731141/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2013,635,6.7,2.35
+129,235,297,13000,134520804,Action|Adventure|Thriller,Live Free or Die Hard ,1,http://www.imdb.com/title/tt0337978/?ref_=fn_tt_tt_1,English,USA,PG-13,110000000,2007,300,7.2,2.35
+171,0,857,16000,313837577,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Fellowship of the Ring ,2,http://www.imdb.com/title/tt0120737/?ref_=fn_tt_tt_1,English,New Zealand,PG-13,93000000,2001,5000,8.8,2.35
+120,153,447,1000,24004159,Action|Adventure|Comedy,Around the World in 80 Days ,0,http://www.imdb.com/title/tt0327437/?ref_=fn_tt_tt_1,English,USA,PG,110000000,2004,1000,5.8,2.35
+165,0,780,10000,58183966,Biography|Drama|Sport,Ali ,1,http://www.imdb.com/title/tt0248667/?ref_=fn_tt_tt_1,English,USA,R,107000000,2001,851,6.8,2.35
+82,34,434,760,100446895,Adventure|Comedy|Family|Fantasy,The Cat in the Hat ,1,http://www.imdb.com/title/tt0312528/?ref_=fn_tt_tt_1,English,USA,PG,109000000,2003,743,3.8,1.85
+115,295,466,10000,144795350,Action|Mystery|Sci-Fi|Thriller,"I, Robot ",1,http://www.imdb.com/title/tt0343818/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2004,981,7.1,2.35
+194,0,195,14000,47396698,Action|Adventure|Drama|History|War,Kingdom of Heaven ,1,http://www.imdb.com/title/tt0320661/?ref_=fn_tt_tt_1,English,USA,R,130000000,2005,5000,7.2,2.35
+84,50,692,979,140015224,Adventure|Comedy|Family|Fantasy,Stuart Little ,0,http://www.imdb.com/title/tt0164912/?ref_=fn_tt_tt_1,English,Germany,PG,133000000,1999,886,5.9,1.85
+97,63,525,852,104374107,Animation|Family|Fantasy|Musical|Romance,The Princess and the Frog ,0,http://www.imdb.com/title/tt0780521/?ref_=fn_tt_tt_1,English,USA,G,105000000,2009,578,7.1,1.85
+151,0,372,13000,228430993,Adventure|Drama|Sci-Fi,The Martian ,1,http://www.imdb.com/title/tt3659388/?ref_=fn_tt_tt_1,English,USA,PG-13,108000000,2015,801,8.1,2.35
+22,0,,5,,Comedy,"10,000 B.C.             ",0,http://www.imdb.com/title/tt1869849/?ref_=fn_tt_tt_1,,,,,,,7.2,
+136,0,3000,19000,35799026,Action|Adventure|Romance|Sci-Fi|Thriller,The Island ,1,http://www.imdb.com/title/tt0399201/?ref_=fn_tt_tt_1,English,USA,PG-13,126000000,2005,12000,6.9,2.35
+104,23,591,752,6712451,Comedy|Romance,Town & Country ,0,http://www.imdb.com/title/tt0141907/?ref_=fn_tt_tt_1,English,New Line,R,90000000,2001,631,4.4,1.85
+127,57,3000,12000,101643008,Action|Crime|Thriller,Gone in Sixty Seconds ,1,http://www.imdb.com/title/tt0187078/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2000,11000,6.5,2.35
+171,0,695,3000,187670866,Action|Drama|Romance,Gladiator ,0,http://www.imdb.com/title/tt0172495/?ref_=fn_tt_tt_1,English,USA,R,103000000,2000,933,8.5,2.35
+145,14000,533,10000,132014112,Action|Mystery|Sci-Fi|Thriller,Minority Report ,0,http://www.imdb.com/title/tt0181689/?ref_=fn_tt_tt_1,English,USA,PG-13,102000000,2002,798,7.7,2.35
+174,0,9000,11000,261970615,Adventure|Family|Fantasy|Mystery,Harry Potter and the Chamber of Secrets ,1,http://www.imdb.com/title/tt0295297/?ref_=fn_tt_tt_1,English,UK,PG,100000000,2002,10000,7.4,2.35
+144,258,834,6000,167007184,Action|Adventure|Thriller,Casino Royale ,1,http://www.imdb.com/title/tt0381061/?ref_=fn_tt_tt_1,English,UK,PG-13,150000000,2006,1000,8.0,2.35
+119,13000,567,1000,180011740,Action|Adventure|Sci-Fi|Thriller,Planet of the Apes ,0,http://www.imdb.com/title/tt0133152/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2001,658,5.7,2.35
+153,0,539,780,204843350,Action|Sci-Fi,Terminator 2: Judgment Day ,0,http://www.imdb.com/title/tt0103064/?ref_=fn_tt_tt_1,English,USA,R,102000000,1991,604,8.5,2.35
+140,0,1000,40000,97030725,Biography|Crime|Drama|History|Romance,Public Enemies ,1,http://www.imdb.com/title/tt1152836/?ref_=fn_tt_tt_1,English,USA,R,100000000,2009,23000,7.0,2.35
+176,0,561,18000,130127620,Biography|Crime|Drama,American Gangster ,0,http://www.imdb.com/title/tt0765429/?ref_=fn_tt_tt_1,English,USA,R,100000000,2007,782,7.8,1.85
+141,0,618,2000,146282411,Action|Comedy|Thriller,True Lies ,0,http://www.imdb.com/title/tt0111503/?ref_=fn_tt_tt_1,English,USA,R,115000000,1994,1000,7.2,2.35
+106,12000,385,18000,65452312,Action|Crime|Thriller,The Taking of Pelham 1 2 3 ,1,http://www.imdb.com/title/tt1111422/?ref_=fn_tt_tt_1,English,USA,R,100000000,2009,464,6.4,2.35
+98,80,708,22000,148383780,Comedy|Romance,Little Fockers ,10,http://www.imdb.com/title/tt0970866/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2010,713,5.5,1.85
+116,285,107,12000,119219978,Action|Comedy|Crime,The Other Guys ,2,http://www.imdb.com/title/tt1386588/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2010,8000,6.7,2.35
+115,55,383,1000,101228120,Action|Drama|Mystery|Thriller,Eraser ,1,http://www.imdb.com/title/tt0116213/?ref_=fn_tt_tt_1,English,USA,R,100000000,1996,773,6.1,2.35
+165,16000,265,29000,162804648,Drama|Western,Django Unchained ,1,http://www.imdb.com/title/tt1853728/?ref_=fn_tt_tt_1,English,USA,R,100000000,2012,11000,8.5,2.35
+91,21,542,2000,100117603,Animation|Drama|Family|Musical|Romance,The Hunchback of Notre Dame ,0,http://www.imdb.com/title/tt0116583/?ref_=fn_tt_tt_1,English,USA,G,100000000,1996,700,6.9,1.78
+78,10,253,558,89296573,Adventure|Animation|Comedy|Family|Fantasy,The Emperor's New Groove ,1,http://www.imdb.com/title/tt0120917/?ref_=fn_tt_tt_1,English,USA,G,100000000,2000,452,7.3,1.66
+103,165,13000,26000,85017401,Action|Adventure|Thriller,The Expendables 2 ,3,http://www.imdb.com/title/tt1764651/?ref_=fn_tt_tt_1,English,USA,R,92000000,2012,13000,6.7,2.35
+131,226,341,12000,173005002,Action|Adventure|Comedy|Family|Mystery,National Treasure ,0,http://www.imdb.com/title/tt0368891/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2004,625,6.9,2.35
+104,14,203,3000,75030163,Action|Adventure|Family|Fantasy,Eragon ,0,http://www.imdb.com/title/tt0449010/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2006,762,5.1,2.35
+101,0,279,925,77222184,Adventure|Drama|Family|Fantasy,Where the Wild Things Are ,0,http://www.imdb.com/title/tt0386117/?ref_=fn_tt_tt_1,English,Germany,PG,100000000,2009,468,6.8,2.35
+111,456,394,20000,34964818,Adventure|Family|Fantasy,Pan ,4,http://www.imdb.com/title/tt3332064/?ref_=fn_tt_tt_1,English,USA,PG,150000000,2015,548,5.8,2.35
+102,77,120,14000,107515297,Adventure|Animation|Family|Fantasy,Epic ,2,http://www.imdb.com/title/tt0848537/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2013,151,6.7,2.35
+103,207,3000,40000,67631157,Action|Romance|Thriller,The Tourist ,0,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2010,11000,6.0,2.35
+121,0,595,1000,66862068,Action|Fantasy|Horror|Mystery,End of Days ,0,http://www.imdb.com/title/tt0146675/?ref_=fn_tt_tt_1,English,USA,R,83000000,1999,1000,5.7,2.35
+143,380,452,29000,57366262,Adventure|Drama|Thriller,Blood Diamond ,0,http://www.imdb.com/title/tt0450259/?ref_=fn_tt_tt_1,English,Germany,R,100000000,2006,3000,8.0,2.35
+240,17000,4000,29000,116866727,Biography|Comedy|Crime|Drama,The Wolf of Wall Street ,3,http://www.imdb.com/title/tt0993846/?ref_=fn_tt_tt_1,English,USA,R,100000000,2013,11000,8.2,2.35
+121,541,680,920,184031112,Action|Adventure|Fantasy,Batman Forever ,4,http://www.imdb.com/title/tt0112462/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,1995,710,5.4,1.85
+129,719,423,660,54700065,Action|Sci-Fi|War,Starship Troopers ,0,http://www.imdb.com/title/tt0120201/?ref_=fn_tt_tt_1,English,USA,R,105000000,1997,475,7.2,1.85
+172,670,1000,15000,27098580,Drama|Sci-Fi,Cloud Atlas ,5,http://www.imdb.com/title/tt1371111/?ref_=fn_tt_tt_1,English,Germany,R,102000000,2012,5000,7.5,2.35
+101,0,577,2000,55673333,Action|Adventure|Animation|Family|Fantasy,Legend of the Guardians: The Owls of Ga'Hoole ,1,http://www.imdb.com/title/tt1219342/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2010,653,7.0,2.35
+87,26,566,827,40198710,Action|Crime|Fantasy|Romance|Thriller,Catwoman ,0,http://www.imdb.com/title/tt0327554/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2004,825,3.3,2.35
+101,420,467,12000,72660029,Action|Adventure,Hercules ,0,http://www.imdb.com/title/tt1267297/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2014,3000,6.0,2.35
+95,63,720,23000,38120554,Adventure|Animation|Family|Sci-Fi,Treasure Planet ,0,http://www.imdb.com/title/tt0133240/?ref_=fn_tt_tt_1,English,USA,PG,140000000,2002,770,7.1,1.5
+102,52,526,8000,49392095,Adventure|Comedy|Sci-Fi,Land of the Lost ,1,http://www.imdb.com/title/tt0457400/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2009,735,5.4,1.85
+131,385,11000,26000,39292022,Action|Adventure|Thriller,The Expendables 3 ,15,http://www.imdb.com/title/tt2333784/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2014,13000,6.1,2.35
+114,19,848,1000,28772222,Action|Crime|Sport|Thriller,Point Break ,1,http://www.imdb.com/title/tt2058673/?ref_=fn_tt_tt_1,English,USA,PG-13,105000000,2015,897,5.3,2.35
+94,6,227,490,17010646,Comedy|Family|Fantasy,Son of the Mask ,0,http://www.imdb.com/title/tt0362165/?ref_=fn_tt_tt_1,English,USA,PG,84000000,2005,294,2.2,1.85
+122,2000,571,26000,24985612,Action|Adventure|Biography|Drama|History|Thriller,In the Heart of the Sea ,0,http://www.imdb.com/title/tt1390411/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2015,911,7.0,1.85
+95,31,683,3000,4411102,Action|Comedy|Sci-Fi,The Adventures of Pluto Nash ,1,http://www.imdb.com/title/tt0180052/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2002,695,3.8,1.85
+115,521,95,13000,35024475,Action|Drama|Thriller|War,Green Zone ,1,http://www.imdb.com/title/tt0947810/?ref_=fn_tt_tt_1,English,France,R,100000000,2010,537,6.9,2.35
+88,20,36,144,130174897,Adventure|Animation|Comedy|Family,The Peanuts Movie ,0,http://www.imdb.com/title/tt2452042/?ref_=fn_tt_tt_1,English,USA,G,99000000,2015,42,7.2,1.85
+110,342,393,623,10200000,Drama|Mystery|Thriller,The Spanish Prisoner ,0,http://www.imdb.com/title/tt0120176/?ref_=fn_tt_tt_1,English,USA,PG,10000000,1997,508,7.3,1.85
+130,208,591,12000,202007640,Action|Adventure|Fantasy|Thriller,The Mummy Returns ,5,http://www.imdb.com/title/tt0209163/?ref_=fn_tt_tt_1,English,USA,PG-13,98000000,2001,3000,6.3,2.35
+216,17000,1000,29000,77679638,Crime|Drama,Gangs of New York ,3,http://www.imdb.com/title/tt0217505/?ref_=fn_tt_tt_1,English,USA,R,100000000,2002,14000,7.5,2.35
+146,611,28,23000,9213,Drama|History|Romance|War,The Flowers of War ,2,http://www.imdb.com/title/tt1410063/?ref_=fn_tt_tt_1,Mandarin,China,R,94000000,2011,196,7.6,2.35
+85,9,970,12000,58867694,Animation|Comedy|Family|Sport,Surf's Up ,0,http://www.imdb.com/title/tt0423294/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2007,11000,6.8,1.85
+93,0,465,11000,59475623,Comedy|Sci-Fi|Thriller,The Stepford Wives ,1,http://www.imdb.com/title/tt0327162/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2004,2000,5.2,1.85
+152,0,557,2000,108638745,Drama|History|War,Black Hawk Down ,0,http://www.imdb.com/title/tt0265086/?ref_=fn_tt_tt_1,English,USA,R,92000000,2001,820,7.7,2.35
+85,116,329,8000,86897182,Comedy,The Campaign ,0,http://www.imdb.com/title/tt1790886/?ref_=fn_tt_tt_1,English,USA,R,95000000,2012,331,6.2,1.85
+126,0,10000,14000,63540020,Action|Adventure|Sci-Fi,The Fifth Element ,2,http://www.imdb.com/title/tt0119116/?ref_=fn_tt_tt_1,English,France,PG-13,93000000,1997,13000,7.7,2.35
+146,127,722,962,95328937,Comedy|Drama|Romance,Sex and the City 2 ,4,http://www.imdb.com/title/tt1261945/?ref_=fn_tt_tt_1,English,USA,R,100000000,2010,740,4.3,1.85
+89,10,442,2000,50802661,Adventure|Animation|Comedy|Family|Romance,The Road to El Dorado ,1,http://www.imdb.com/title/tt0138749/?ref_=fn_tt_tt_1,English,USA,PG,95000000,2000,919,6.9,1.85
+88,20,916,22000,161317423,Adventure|Animation|Comedy|Family,Ice Age: Continental Drift ,0,http://www.imdb.com/title/tt1667889/?ref_=fn_tt_tt_1,English,USA,PG,95000000,2012,1000,6.6,2.35
+105,0,502,2000,201148159,Drama|Family|Fantasy|Romance,Cinderella ,1,http://www.imdb.com/title/tt1661199/?ref_=fn_tt_tt_1,English,USA,PG,95000000,2015,520,7.0,2.35
+135,0,310,873,43982842,Drama|Fantasy|Thriller,The Lovely Bones ,1,http://www.imdb.com/title/tt0380510/?ref_=fn_tt_tt_1,English,USA,PG-13,65000000,2009,560,6.7,2.35
+100,475,799,1000,380838870,Adventure|Animation|Comedy|Family,Finding Nemo ,0,http://www.imdb.com/title/tt0266543/?ref_=fn_tt_tt_1,English,USA,G,94000000,2003,939,8.2,1.85
+192,0,416,5000,377019252,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Return of the King ,2,http://www.imdb.com/title/tt0167260/?ref_=fn_tt_tt_1,English,USA,PG-13,94000000,2003,857,8.9,2.35
+172,0,857,16000,340478898,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Two Towers ,1,http://www.imdb.com/title/tt0167261/?ref_=fn_tt_tt_1,English,USA,PG-13,94000000,2002,5000,8.7,2.35
+102,44,766,12000,17176900,Action|Adventure|Fantasy,Seventh Son ,4,http://www.imdb.com/title/tt1121096/?ref_=fn_tt_tt_1,English,USA,PG-13,95000000,2014,3000,5.5,2.35
+100,165,240,11000,131144183,Action|Adventure|Fantasy|Thriller,Lara Croft: Tomb Raider ,1,http://www.imdb.com/title/tt0146316/?ref_=fn_tt_tt_1,English,USA,PG-13,115000000,2001,509,5.7,2.35
+119,0,968,40000,23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,Transcendence ,1,http://www.imdb.com/title/tt2209764/?ref_=fn_tt_tt_1,English,UK,PG-13,100000000,2014,11000,6.3,2.35
+92,394,527,693,181166115,Action|Adventure|Sci-Fi|Thriller,Jurassic Park III ,0,http://www.imdb.com/title/tt0163025/?ref_=fn_tt_tt_1,English,USA,PG-13,93000000,2001,595,5.9,1.85
+105,81,779,11000,176740650,Action|Drama|Sci-Fi|Thriller,Rise of the Planet of the Apes ,0,http://www.imdb.com/title/tt1318514/?ref_=fn_tt_tt_1,English,USA,PG-13,93000000,2011,1000,7.6,2.35
+107,70,330,770,71148699,Adventure|Family|Fantasy,The Spiderwick Chronicles ,0,http://www.imdb.com/title/tt0416236/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2008,419,6.6,2.35
+101,212,476,13000,67344392,Action|Thriller,A Good Day to Die Hard ,2,http://www.imdb.com/title/tt1606378/?ref_=fn_tt_tt_1,English,USA,R,92000000,2013,787,5.3,1.85
+137,102,877,2000,22406362,Drama|History|War|Western,The Alamo ,0,http://www.imdb.com/title/tt0318974/?ref_=fn_tt_tt_1,English,USA,PG-13,107000000,2004,973,6.0,2.35
+115,663,55,1000,261437578,Action|Adventure|Animation|Family,The Incredibles ,0,http://www.imdb.com/title/tt0317705/?ref_=fn_tt_tt_1,English,USA,PG,92000000,2004,723,8.0,2.35
+124,212,810,1000,11000000,Action|Adventure|Comedy,Cutthroat Island ,3,http://www.imdb.com/title/tt0112760/?ref_=fn_tt_tt_1,English,USA,PG-13,98000000,1995,903,5.6,2.35
+118,0,1000,8000,88761720,Adventure|Family|Fantasy,Percy Jackson & the Olympians: The Lightning Thief ,0,http://www.imdb.com/title/tt0814255/?ref_=fn_tt_tt_1,English,UK,PG,95000000,2010,3000,5.9,2.35
+98,188,602,10000,250147615,Adventure|Comedy|Family|Mystery|Sci-Fi,Men in Black ,0,http://www.imdb.com/title/tt0119654/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,1997,826,7.3,1.85
+82,487,967,15000,245823397,Adventure|Animation|Comedy|Family|Fantasy,Toy Story 2 ,2,http://www.imdb.com/title/tt0120363/?ref_=fn_tt_tt_1,English,USA,G,90000000,1999,1000,7.9,1.85
+98,12000,1000,18000,81557479,Action|Thriller,Unstoppable ,1,http://www.imdb.com/title/tt0477080/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2010,3000,6.8,2.35
+90,420,141,191,226138454,Action|Comedy|Crime|Thriller,Rush Hour 2 ,2,http://www.imdb.com/title/tt0266915/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2001,165,6.6,2.35
+130,0,568,11000,155370362,Drama|Fantasy|Horror|Mystery|Thriller,What Lies Beneath ,0,http://www.imdb.com/title/tt0161081/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2000,627,6.6,2.35
+90,97,56,622,124870275,Animation|Comedy|Family|Sci-Fi,Cloudy with a Chance of Meatballs ,1,http://www.imdb.com/title/tt0844471/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2009,526,7.0,2.35
+94,107,117,835,196573705,Action|Adventure|Animation|Comedy|Family,Ice Age: Dawn of the Dinosaurs ,0,http://www.imdb.com/title/tt1080016/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2009,256,7.0,1.85
+114,0,423,3000,58229120,Adventure|Comedy|Drama|Fantasy|Romance,The Secret Life of Walter Mitty ,1,http://www.imdb.com/title/tt0359950/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2013,806,7.3,2.35
+94,368,466,13000,125305545,Action|Adventure|Comedy|Crime|Thriller,Charlie's Angels ,0,http://www.imdb.com/title/tt0160127/?ref_=fn_tt_tt_1,English,USA,PG-13,92000000,2000,1000,5.5,2.35
+151,17000,1000,29000,132373442,Crime|Drama|Thriller,The Departed ,0,http://www.imdb.com/title/tt0407887/?ref_=fn_tt_tt_1,English,USA,R,90000000,2006,13000,8.5,2.35
+88,7,484,2000,120618403,Adventure|Animation|Family|Fantasy|Musical|War,Mulan ,0,http://www.imdb.com/title/tt0120762/?ref_=fn_tt_tt_1,English,USA,G,90000000,1998,500,7.5,1.66
+121,0,918,21000,110416702,Action|Comedy,Tropic Thunder ,3,http://www.imdb.com/title/tt0942385/?ref_=fn_tt_tt_1,English,USA,R,92000000,2008,1000,7.0,2.35
+158,21000,585,18000,102515793,Crime|Drama|Mystery|Thriller,The Girl with the Dragon Tattoo ,1,http://www.imdb.com/title/tt1568346/?ref_=fn_tt_tt_1,English,USA,R,90000000,2011,1000,7.8,2.35
+128,323,489,13000,100012500,Action|Adventure|Thriller,Die Hard with a Vengeance ,1,http://www.imdb.com/title/tt0112864/?ref_=fn_tt_tt_1,English,USA,R,90000000,1995,559,7.6,2.35
+128,0,727,21000,209019489,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes ,3,http://www.imdb.com/title/tt0988045/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2009,979,7.6,1.85
+141,335,635,11000,,Adventure|Drama|History,Ben-Hur ,2,http://www.imdb.com/title/tt2638144/?ref_=fn_tt_tt_1,English,USA,PG-13,,2016,745,6.1,2.35
+95,21,503,12000,84037039,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Atlantis: The Lost Empire ,0,http://www.imdb.com/title/tt0230011/?ref_=fn_tt_tt_1,English,USA,PG,120000000,2001,802,6.8,2.35
+92,12,1000,35000,85884815,Adventure|Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: The Road Chip ,0,http://www.imdb.com/title/tt2974918/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2015,1000,5.0,1.85
+121,0,919,10000,83077470,Drama|History|Thriller|War,Valkyrie ,0,http://www.imdb.com/title/tt0985699/?ref_=fn_tt_tt_1,English,USA,PG-13,75000000,2008,1000,7.1,1.85
+113,221,503,11000,100018837,Action|Comedy,You Don't Mess with the Zohan ,0,http://www.imdb.com/title/tt0960144/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2008,600,5.5,1.85
+106,0,1000,22000,78747585,Action|Animation|Comedy|Sci-Fi,Pixels ,0,http://www.imdb.com/title/tt2120120/?ref_=fn_tt_tt_1,English,USA,PG-13,88000000,2015,11000,5.6,2.35
+146,14000,681,3000,78616689,Adventure|Drama|Sci-Fi,A.I. Artificial Intelligence ,0,http://www.imdb.com/title/tt0212720/?ref_=fn_tt_tt_1,English,USA,PG-13,100000000,2001,882,7.1,1.85
+88,50,441,691,75817994,Comedy|Family|Fantasy|Horror|Mystery,The Haunted Mansion ,0,http://www.imdb.com/title/tt0338094/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2003,569,4.9,2.35
+150,0,135,11000,100853835,Drama|Mystery|Sci-Fi|Thriller,Contact ,2,http://www.imdb.com/title/tt0118884/?ref_=fn_tt_tt_1,English,USA,PG,90000000,1997,1000,7.4,2.35
+119,719,423,833,73209340,Action|Horror|Sci-Fi|Thriller,Hollow Man ,0,http://www.imdb.com/title/tt0164052/?ref_=fn_tt_tt_1,English,USA,R,95000000,2000,624,5.7,1.85
+128,521,249,591,72515360,Crime|Mystery|Thriller,The Interpreter ,1,http://www.imdb.com/title/tt0373926/?ref_=fn_tt_tt_1,Aboriginal,UK,PG-13,80000000,2005,249,6.4,2.35
+106,87,918,8000,68558662,Adventure|Family|Fantasy,Percy Jackson: Sea of Monsters ,0,http://www.imdb.com/title/tt1854564/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2013,956,5.9,2.35
+117,101,3000,18000,65653758,Action|Adventure|Fantasy,Lara Croft Tomb Raider: The Cradle of Life ,1,http://www.imdb.com/title/tt0325703/?ref_=fn_tt_tt_1,English,USA,PG-13,95000000,2003,11000,5.5,2.35
+129,209,886,11000,64685359,Action|Adventure|Comedy|Crime|Mystery|Thriller,Now You See Me 2 ,6,http://www.imdb.com/title/tt3110958/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2016,11000,6.9,2.35
+116,176,84,192,61355436,Action|Adventure|Romance|Sci-Fi|Thriller,The Saint ,0,http://www.imdb.com/title/tt0120053/?ref_=fn_tt_tt_1,English,USA,PG-13,68000000,1997,117,6.2,2.35
+114,12000,307,11000,26871,Action|Crime|Thriller,Spy Game ,2,http://www.imdb.com/title/tt0266987/?ref_=fn_tt_tt_1,English,Germany,R,92000000,2001,577,7.0,2.35
+114,0,281,3000,60874615,Adventure|Sci-Fi|Thriller,Mission to Mars ,0,http://www.imdb.com/title/tt0183523/?ref_=fn_tt_tt_1,English,USA,PG,90000000,2000,933,5.6,2.35
+96,107,350,11000,143618384,Adventure|Animation|Comedy|Family|Musical,Rio ,0,http://www.imdb.com/title/tt1436562/?ref_=fn_tt_tt_1,English,USA,G,90000000,2011,560,7.0,2.35
+132,0,957,49000,58220776,Comedy|Drama|Sci-Fi,Bicentennial Man ,0,http://www.imdb.com/title/tt0182789/?ref_=fn_tt_tt_1,English,USA,PG,100000000,1999,1000,6.8,1.85
+104,81,612,3000,47474112,Action|Drama|Sci-Fi|Thriller,Volcano ,0,http://www.imdb.com/title/tt0120461/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,1997,643,5.4,1.85
+111,79,2000,11000,42877165,Action|Crime|Drama|Thriller,The Devil's Own ,0,http://www.imdb.com/title/tt0118972/?ref_=fn_tt_tt_1,English,USA,R,86000000,1997,11000,6.1,2.35
+138,0,123,14000,35168677,Drama|History|Thriller|War,K-19: The Widowmaker ,1,http://www.imdb.com/title/tt0267626/?ref_=fn_tt_tt_1,English,UK,PG-13,100000000,2002,602,6.7,2.35
+100,128,78,596,56114221,Action|Adventure|Sci-Fi,Fantastic Four ,3,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1,English,USA,PG-13,120000000,2015,360,4.3,2.35
+129,468,183,919,37567440,Adventure|Fantasy,Conan the Barbarian ,0,http://www.imdb.com/title/tt0082198/?ref_=fn_tt_tt_1,English,USA,R,20000000,1982,691,6.9,2.35
+144,2000,537,680,61644321,Biography|Drama|Sport,Cinderella Man ,0,http://www.imdb.com/title/tt0352248/?ref_=fn_tt_tt_1,English,USA,PG-13,88000000,2005,655,8.0,2.35
+110,96,554,887,190562,Action|Family|Fantasy|Musical,The Nutcracker in 3D ,0,http://www.imdb.com/title/tt1041804/?ref_=fn_tt_tt_1,English,UK,PG,90000000,2010,886,4.4,2.35
+140,378,599,12000,120147445,Drama|History|Sport,Seabiscuit ,0,http://www.imdb.com/title/tt0329575/?ref_=fn_tt_tt_1,English,USA,PG-13,87000000,2003,947,7.3,2.35
+113,101,848,22000,241688385,Action|Adventure|Drama|Thriller,Twister ,0,http://www.imdb.com/title/tt0117998/?ref_=fn_tt_tt_1,English,USA,PG-13,92000000,1996,946,6.3,2.35
+106,357,4000,23000,144512310,Action|Crime|Thriller,The Fast and the Furious ,2,http://www.imdb.com/title/tt0232500/?ref_=fn_tt_tt_1,English,USA,PG-13,38000000,2001,14000,6.7,2.35
+143,0,272,15000,233630478,Adventure|Drama|Romance,Cast Away ,1,http://www.imdb.com/title/tt0162222/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,2000,410,7.7,1.85
+108,750,971,49000,197992827,Animation|Comedy|Family|Music|Romance,Happy Feet ,0,http://www.imdb.com/title/tt0366548/?ref_=fn_tt_tt_1,English,USA,PG,100000000,2006,20000,6.5,2.35
+108,521,129,13000,176049130,Action|Mystery|Thriller,The Bourne Supremacy ,1,http://www.imdb.com/title/tt0372183/?ref_=fn_tt_tt_1,English,USA,PG-13,75000000,2004,805,7.8,2.35
+124,249,936,11000,172620724,Action|Adventure|Drama|Thriller,Air Force One ,1,http://www.imdb.com/title/tt0118571/?ref_=fn_tt_tt_1,English,USA,R,85000000,1997,10000,6.4,2.35
+116,0,471,11000,183405771,Crime|Thriller,Ocean's Eleven ,4,http://www.imdb.com/title/tt0240772/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2001,1000,7.8,2.35
+110,545,5000,14000,20315324,Action|Adventure|Romance,The Three Musketeers ,8,http://www.imdb.com/title/tt1509767/?ref_=fn_tt_tt_1,English,Germany,PG-13,75000000,2011,8000,5.8,2.35
+91,266,11000,12000,148313048,Animation|Comedy|Family|Fantasy,Hotel Transylvania ,2,http://www.imdb.com/title/tt0837562/?ref_=fn_tt_tt_1,English,USA,PG,85000000,2012,11000,7.1,1.85
+107,36,118,283,127706877,Animation|Comedy|Family|Fantasy|Musical|Romance,Enchanted ,2,http://www.imdb.com/title/tt0461770/?ref_=fn_tt_tt_1,English,USA,PG,85000000,2007,142,7.1,2.35
+44,,148,544,,Crime|Drama|Horror|Mystery|Thriller,Hannibal             ,1,http://www.imdb.com/title/tt2243973/?ref_=fn_tt_tt_1,English,USA,TV-14,,,183,8.6,1.78
+115,79,820,18000,126149655,Action|Crime|Mystery|Thriller,Safe House ,1,http://www.imdb.com/title/tt1599348/?ref_=fn_tt_tt_1,English,USA,R,85000000,2012,16000,6.8,2.35
+100,36,439,2000,66941559,Adventure|Comedy|Family,102 Dalmatians ,1,http://www.imdb.com/title/tt0211181/?ref_=fn_tt_tt_1,English,USA,G,85000000,2000,795,4.8,1.85
+104,420,535,2000,78009155,Action|Comedy|Crime,Tower Heist ,5,http://www.imdb.com/title/tt0471042/?ref_=fn_tt_tt_1,English,USA,PG-13,75000000,2011,906,6.2,2.35
+138,278,213,14000,63224849,Comedy|Romance,The Holiday ,3,http://www.imdb.com/title/tt0457939/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2006,3000,6.9,1.85
+140,12000,619,10000,111544445,Action|Crime|Drama|Mystery|Thriller,Enemy of the State ,4,http://www.imdb.com/title/tt0120660/?ref_=fn_tt_tt_1,English,USA,R,90000000,1998,660,7.3,2.35
+120,278,963,11000,112703470,Comedy|Drama|Romance,It's Complicated ,2,http://www.imdb.com/title/tt1230414/?ref_=fn_tt_tt_1,English,USA,R,85000000,2009,2000,6.6,1.85
+122,0,11000,14000,117144465,Crime|Thriller,Ocean's Thirteen ,3,http://www.imdb.com/title/tt0496806/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2007,13000,6.9,2.35
+83,28,624,4000,84303558,Adventure|Animation|Comedy|Family,Open Season ,1,http://www.imdb.com/title/tt0400717/?ref_=fn_tt_tt_1,English,USA,PG,85000000,2006,650,6.2,1.85
+139,168,1000,14000,150832203,Adventure|Mystery|Sci-Fi,Divergent ,2,http://www.imdb.com/title/tt1840309/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2014,5000,6.7,2.35
+131,218,29,5000,51396781,Drama|History|War,Enemy at the Gates ,1,http://www.imdb.com/title/tt0215750/?ref_=fn_tt_tt_1,English,USA,R,68000000,2001,35,7.6,2.35
+104,532,557,12000,47592825,Action|Adventure|Comedy|Thriller,The Rundown ,1,http://www.imdb.com/title/tt0327850/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2003,3000,6.7,2.35
+130,323,330,670,50016394,Action|Adventure|Comedy|Fantasy,Last Action Hero ,1,http://www.imdb.com/title/tt0107362/?ref_=fn_tt_tt_1,English,USA,PG-13,70000000,1993,442,6.2,2.35
+145,252,210,879,57010853,Drama|Romance,Memoirs of a Geisha ,1,http://www.imdb.com/title/tt0397535/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2005,691,7.3,2.35
+104,681,159,584,62494975,Action|Crime|Thriller,The Fast and the Furious: Tokyo Drift ,5,http://www.imdb.com/title/tt0463985/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2006,227,6.0,2.35
+97,6,561,1000,46440491,Adventure|Animation|Comedy|Family|Fantasy,Arthur Christmas ,1,http://www.imdb.com/title/tt1430607/?ref_=fn_tt_tt_1,English,UK,PG,100000000,2011,579,7.1,1.85
+178,102,551,12000,44606335,Drama|Fantasy|Romance,Meet Joe Black ,0,http://www.imdb.com/title/tt0119643/?ref_=fn_tt_tt_1,English,USA,PG-13,90000000,1998,11000,7.1,1.85
+108,99,172,672,40048332,Action|Drama|Thriller,Collateral Damage ,1,http://www.imdb.com/title/tt0233469/?ref_=fn_tt_tt_1,English,USA,R,85000000,2002,174,5.5,1.85
+123,189,87,813,,Comedy|Drama|Music|Musical,All That Jazz ,0,http://www.imdb.com/title/tt0078754/?ref_=fn_tt_tt_1,English,USA,R,,1979,388,7.8,1.85
+106,763,809,8000,64933670,Adventure|Comedy|Drama|Family|Fantasy,Mirror Mirror ,1,http://www.imdb.com/title/tt1667353/?ref_=fn_tt_tt_1,English,USA,PG,85000000,2012,886,5.6,1.85
+112,1000,719,10000,31494270,Action|Comedy|Fantasy|Romance,Scott Pilgrim vs. the World ,0,http://www.imdb.com/title/tt0446029/?ref_=fn_tt_tt_1,English,USA,PG-13,60000000,2010,1000,7.5,1.85
+135,36,106,894,31111260,Action|Adventure|Sci-Fi|Thriller,The Core ,0,http://www.imdb.com/title/tt0298814/?ref_=fn_tt_tt_1,English,USA,PG-13,60000000,2003,345,5.4,2.35
+109,88,571,611,123307945,Comedy|Romance|Sci-Fi,Nutty Professor II: The Klumps ,1,http://www.imdb.com/title/tt0144528/?ref_=fn_tt_tt_1,English,USA,PG-13,65000000,2000,592,4.3,1.85
+86,67,271,4000,153288182,Adventure|Comedy|Mystery,Scooby-Doo ,3,http://www.imdb.com/title/tt0267913/?ref_=fn_tt_tt_1,English,USA,PG,84000000,2002,2000,4.9,1.85
+95,38,20,409,13401683,Action|Sci-Fi,Dredd ,0,http://www.imdb.com/title/tt1343727/?ref_=fn_tt_tt_1,English,UK,R,35000000,2012,107,7.1,2.35
+107,153,233,11000,137340146,Comedy|Drama|Fantasy|Romance,Click ,1,http://www.imdb.com/title/tt0389860/?ref_=fn_tt_tt_1,English,USA,PG-13,70000000,2006,1000,6.4,1.85
+130,0,602,875,,Comedy|Fantasy|Horror,Creepshow ,0,http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1,English,USA,R,8000000,1982,826,6.9,1.85
+82,62,615,975,43575716,Action|Comedy|Family|Fantasy,Cats & Dogs: The Revenge of Kitty Galore ,0,http://www.imdb.com/title/tt1287468/?ref_=fn_tt_tt_1,English,USA,PG,85000000,2010,760,4.3,1.85
+88,218,521,17000,80170146,Action|Adventure|Sci-Fi|Thriller,Jumper ,0,http://www.imdb.com/title/tt0489099/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2008,4000,6.1,2.35
+120,0,160,3000,75754670,Action|Adventure|Fantasy|Horror|Sci-Fi,Hellboy II: The Golden Army ,0,http://www.imdb.com/title/tt0411477/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,2008,169,7.0,1.85
+162,21000,495,21000,33048353,Crime|Drama|History|Mystery|Thriller,Zodiac ,0,http://www.imdb.com/title/tt0443706/?ref_=fn_tt_tt_1,English,USA,R,65000000,2007,15000,7.7,2.35
+123,55,956,3000,34543701,Action|Mystery|Sci-Fi|Thriller,The 6th Day ,1,http://www.imdb.com/title/tt0216216/?ref_=fn_tt_tt_1,English,USA,PG-13,82000000,2000,975,5.9,2.35
+101,293,1000,11000,242589580,Comedy|Drama,Bruce Almighty ,1,http://www.imdb.com/title/tt0315327/?ref_=fn_tt_tt_1,English,USA,PG-13,81000000,2003,7000,6.7,1.85
+113,13000,5000,26000,102981571,Action|Adventure|Thriller,The Expendables ,9,http://www.imdb.com/title/tt1320253/?ref_=fn_tt_tt_1,English,USA,R,80000000,2010,13000,6.5,2.35
+110,0,898,10000,180965237,Action|Adventure|Thriller,Mission: Impossible ,0,http://www.imdb.com/title/tt0117060/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,1996,1000,7.1,2.35
+142,378,575,34000,407999255,Adventure|Drama|Sci-Fi|Thriller,The Hunger Games ,0,http://www.imdb.com/title/tt1392170/?ref_=fn_tt_tt_1,English,USA,PG-13,78000000,2012,14000,7.3,2.35
+102,480,461,14000,254455986,Comedy,The Hangover Part II ,0,http://www.imdb.com/title/tt1411697/?ref_=fn_tt_tt_1,English,USA,R,80000000,2011,670,6.5,2.35
+126,13000,390,920,162831698,Action,Batman Returns ,0,http://www.imdb.com/title/tt0103776/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,1992,811,7.0,1.85
+83,12,925,13000,155019340,Adventure|Animation|Comedy|Family,Over the Hedge ,1,http://www.imdb.com/title/tt0327084/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2006,7000,6.8,1.85
+85,255,443,1000,145771527,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,Lilo & Stitch ,0,http://www.imdb.com/title/tt0275847/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2002,533,7.2,1.66
+97,56,852,12000,82506325,Comedy|Family|Fantasy,Charlotte's Web ,0,http://www.imdb.com/title/tt0413895/?ref_=fn_tt_tt_1,English,USA,G,,2006,8000,6.4,1.85
+120,75,3000,11000,140459099,Action|Drama|Romance|Sci-Fi|Thriller,Deep Impact ,0,http://www.imdb.com/title/tt0120647/?ref_=fn_tt_tt_1,English,USA,PG-13,75000000,1998,4000,6.1,2.35
+116,23,110,13000,53215979,Action|Comedy|Crime|Thriller,RED 2 ,7,http://www.imdb.com/title/tt1821694/?ref_=fn_tt_tt_1,English,USA,PG-13,84000000,2013,12000,6.7,2.35
+113,88,421,11000,158115031,Comedy|Crime|Sport,The Longest Yard ,11,http://www.imdb.com/title/tt0398165/?ref_=fn_tt_tt_1,English,USA,PG-13,82000000,2005,437,6.4,2.35
+87,31,733,1000,133103929,Adventure|Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: Chipwrecked ,0,http://www.imdb.com/title/tt1615918/?ref_=fn_tt_tt_1,English,USA,G,75000000,2011,1000,4.4,1.85
+101,221,11000,12000,133668525,Comedy,Grown Ups 2 ,4,http://www.imdb.com/title/tt2191701/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2013,11000,5.4,1.85
+110,88,11000,13000,130313314,Action|Adventure|Comedy,Get Smart ,1,http://www.imdb.com/title/tt0425061/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2008,12000,6.5,1.85
+128,278,343,18000,124590960,Comedy|Drama|Romance,Something's Gotta Give ,1,http://www.imdb.com/title/tt0337741/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2003,4000,6.7,1.85
+138,17000,163,29000,127968405,Mystery|Thriller,Shutter Island ,0,http://www.imdb.com/title/tt1130884/?ref_=fn_tt_tt_1,English,USA,R,80000000,2010,223,8.1,2.35
+88,91,982,4000,120136047,Comedy|Drama|Romance,Four Christmases ,2,http://www.imdb.com/title/tt0369436/?ref_=fn_tt_tt_1,English,Germany,PG-13,80000000,2008,3000,5.6,1.85
+91,77,208,1000,128200012,Adventure|Animation|Comedy|Family|Sci-Fi,Robots ,1,http://www.imdb.com/title/tt0358082/?ref_=fn_tt_tt_1,English,USA,PG,75000000,2005,311,6.3,1.85
+138,610,805,12000,112225777,Action|Crime|Sci-Fi|Thriller,Face/Off ,0,http://www.imdb.com/title/tt0119094/?ref_=fn_tt_tt_1,English,USA,R,80000000,1997,1000,7.3,2.35
+99,163,495,11000,109993847,Comedy|Family|Fantasy|Romance,Bedtime Stories ,0,http://www.imdb.com/title/tt0960731/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2008,869,6.1,2.35
+117,0,818,15000,104054514,Crime|Drama|Thriller,Road to Perdition ,0,http://www.imdb.com/title/tt0257044/?ref_=fn_tt_tt_1,English,USA,R,80000000,2002,1000,7.7,2.35
+117,221,503,11000,103028109,Comedy|Romance,Just Go with It ,1,http://www.imdb.com/title/tt1564367/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2011,3000,6.4,1.85
+54,,0,577,,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Daredevil             ,0,http://www.imdb.com/title/tt3322312/?ref_=fn_tt_tt_1,English,USA,TV-MA,,,4,8.8,16.0
+123,165,744,12000,101087161,Action|Crime|Thriller,Con Air ,6,http://www.imdb.com/title/tt0118880/?ref_=fn_tt_tt_1,English,USA,R,75000000,1997,878,6.8,2.35
+118,154,915,3000,101111837,Action|Mystery|Thriller,Eagle Eye ,3,http://www.imdb.com/title/tt1059786/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2008,982,6.6,2.35
+154,333,16000,22000,95632614,Adventure|Drama|History|Romance|War,Cold Mountain ,3,http://www.imdb.com/title/tt0159365/?ref_=fn_tt_tt_1,English,USA,R,79000000,2003,20000,7.2,2.35
+118,117,10000,18000,94822707,Action|Adventure|Drama|Thriller,The Book of Eli ,0,http://www.imdb.com/title/tt1037705/?ref_=fn_tt_tt_1,English,USA,R,80000000,2010,15000,6.9,2.35
+90,10,159,49000,92969824,Comedy|Family|Sci-Fi,Flubber ,1,http://www.imdb.com/title/tt0119137/?ref_=fn_tt_tt_1,English,USA,PG,80000000,1997,570,5.2,1.85
+113,101,913,14000,91188905,Fantasy|Horror|Mystery|Thriller,The Haunting ,0,http://www.imdb.com/title/tt0171363/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,1999,960,4.9,2.35
+88,30,366,13000,90443603,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Space Jam ,1,http://www.imdb.com/title/tt0117705/?ref_=fn_tt_tt_1,English,USA,PG,80000000,1996,967,6.3,1.77
+93,189,38,1000,82226474,Adventure|Comedy|Crime|Family|Mystery,The Pink Panther ,0,http://www.imdb.com/title/tt0383216/?ref_=fn_tt_tt_1,English,USA,PG,65000000,2006,177,5.6,1.85
+104,301,71,18000,79363785,Drama|Sci-Fi|Thriller,The Day the Earth Stood Still ,0,http://www.imdb.com/title/tt0970416/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2008,4000,5.5,2.35
+135,503,67,8000,76081498,Action|Crime|Mystery|Romance|Thriller,Conspiracy Theory ,1,http://www.imdb.com/title/tt0118883/?ref_=fn_tt_tt_1,English,USA,R,75000000,1997,137,6.7,2.35
+134,452,697,11000,85707116,Action|Drama|War,Fury ,4,http://www.imdb.com/title/tt2713180/?ref_=fn_tt_tt_1,English,USA,R,68000000,2014,8000,7.6,2.35
+98,425,397,11000,74329966,Action|Adventure|Comedy|Romance,Six Days Seven Nights ,2,http://www.imdb.com/title/tt0120828/?ref_=fn_tt_tt_1,English,USA,PG-13,70000000,1998,643,5.7,2.35
+80,40,375,3000,100169068,Adventure|Animation|Comedy|Family,Yogi Bear ,0,http://www.imdb.com/title/tt1302067/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2010,642,4.6,1.85
+83,21,495,13000,73215310,Adventure|Animation|Family|Western,Spirit: Stallion of the Cimarron ,0,http://www.imdb.com/title/tt0166813/?ref_=fn_tt_tt_1,English,USA,G,80000000,2002,503,7.0,2.35
+102,153,269,3000,80360866,Comedy|Family|Romance,Zookeeper ,1,http://www.imdb.com/title/tt1222817/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2011,1000,5.2,2.35
+130,81,427,10000,69102910,Action|Adventure|Family|Sci-Fi|Thriller,Lost in Space ,0,http://www.imdb.com/title/tt0120738/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,1998,882,5.1,2.35
+129,438,502,18000,65948711,Drama|Mystery|Sci-Fi|Thriller,The Manchurian Candidate ,1,http://www.imdb.com/title/tt0368008/?ref_=fn_tt_tt_1,English,USA,R,80000000,2004,1000,6.6,1.85
+117,69,87,898,821997,Drama|Romance,Déjà Vu ,0,http://www.imdb.com/title/tt0119033/?ref_=fn_tt_tt_1,English,USA,PG-13,,1997,577,7.0,1.85
+89,266,859,12000,169692572,Animation|Comedy|Family|Fantasy,Hotel Transylvania 2 ,0,http://www.imdb.com/title/tt2510894/?ref_=fn_tt_tt_1,English,USA,PG,80000000,2015,11000,6.7,1.85
+25,,474,1000,,Comedy|Family|Fantasy,Bewitched             ,1,http://www.imdb.com/title/tt0057733/?ref_=fn_tt_tt_1,English,USA,TV-G,,,960,7.6,4.0
+74,11,62,340,60507228,Animation|Family|Fantasy|Music,Fantasia 2000 ,0,http://www.imdb.com/title/tt0120910/?ref_=fn_tt_tt_1,English,USA,G,80000000,1999,243,7.3,1.78
+96,25,102,891,56684819,Action|Adventure|Sci-Fi,The Time Machine ,0,http://www.imdb.com/title/tt0268695/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2002,639,5.9,2.35
+114,31,372,9000,50628009,Action|Adventure|Family|Fantasy|Thriller,Mighty Joe Young ,0,http://www.imdb.com/title/tt0120751/?ref_=fn_tt_tt_1,English,USA,PG,90000000,1998,496,5.6,1.85
+99,57,820,20000,69772969,Action|Crime|Thriller,Swordfish ,4,http://www.imdb.com/title/tt0244244/?ref_=fn_tt_tt_1,English,USA,R,80000000,2001,3000,6.5,2.35
+129,258,163,2000,45356386,Action|Adventure|Western,The Legend of Zorro ,1,http://www.imdb.com/title/tt0386140/?ref_=fn_tt_tt_1,Spanish,USA,PG,75000000,2005,277,5.9,2.35
+113,25,129,49000,55350897,Drama|Fantasy|Romance,What Dreams May Come ,1,http://www.imdb.com/title/tt0120889/?ref_=fn_tt_tt_1,English,USA,PG-13,85000000,1998,448,7.0,2.35
+90,65,658,11000,39442871,Comedy|Fantasy,Little Nicky ,0,http://www.imdb.com/title/tt0185431/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2000,11000,5.3,1.85
+118,0,871,13000,37899638,Action|Adventure|Comedy|Fantasy|Thriller,The Brothers Grimm ,2,http://www.imdb.com/title/tt0355295/?ref_=fn_tt_tt_1,English,USA,PG-13,88000000,2005,13000,5.9,1.85
+106,13000,733,20000,37754208,Action|Comedy|Sci-Fi,Mars Attacks! ,3,http://www.imdb.com/title/tt0116996/?ref_=fn_tt_tt_1,English,USA,PG-13,70000000,1996,770,6.3,2.35
+81,92,8,23,,Drama|Horror|Mystery|Sci-Fi,Evolution ,0,http://www.imdb.com/title/tt4291590/?ref_=fn_tt_tt_1,French,France,,,2015,21,6.4,2.35
+117,93,904,12000,27779888,Action|Adventure|Drama|Thriller,The Edge ,2,http://www.imdb.com/title/tt0119051/?ref_=fn_tt_tt_1,English,USA,R,,1997,1000,6.9,2.35
+89,84,1000,13000,38542418,Action|Sci-Fi|Thriller,Surrogates ,5,http://www.imdb.com/title/tt0986263/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2009,1000,6.3,2.35
+145,79,183,981,34566746,Drama|History|Thriller,Thirteen Days ,1,http://www.imdb.com/title/tt0146309/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,2000,274,7.3,1.85
+114,357,366,13000,32885565,Action|Adventure|Drama|Thriller,Daylight ,0,http://www.imdb.com/title/tt0116040/?ref_=fn_tt_tt_1,English,USA,PG-13,80000000,1996,10000,5.8,1.85

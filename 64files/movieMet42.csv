@@ -1,37 +1,131 @@
-num_critic_for_reviews,actor_1_facebook_likes,genres,actor_3_name,facenumber_in_poster,country,imdb_score,movie_facebook_likes
-108,8000,Comedy|Romance,Blair Underwood,0,USA,4.7,134
-65,265,Horror|Mystery|Thriller,Rose Marie,1,UK,5.7,0
-8,459,Comedy,Maria Thayer,3,USA,8.1,558
-85,597,Drama,Richard Briers,0,UK,7.8,0
-160,71,Comedy|Drama|Romance,Raphael Barker,3,USA,6.5,0
-231,56,Animation|Biography|Documentary|Drama|History|War,Zahava Solomon,0,Israel,8.0,0
-7,178,Adventure,Bruce Newbold,1,USA,3.3,32
-79,393,Documentary|War,Donald Rumsfeld,0,USA,8.3,0
-168,10000,Drama|Romance,Austin Lyon,3,USA,6.9,0
-1,11000,Comedy|Drama|Romance,Debrah Farentino,5,USA,7.3,43
-107,168,Documentary|History,Neil Armstrong,0,UK,8.1,0
-200,991,Drama|Western,Shirley Henderson,1,USA,6.5,0
-123,373,Biography|Documentary|History,Linda Lovelace,0,USA,6.8,592
-39,388,Crime|Drama|Romance,Ajay Naidu,1,USA,7.3,495
-41,584,Comedy|Drama,Jamie Kennedy,4,UK,6.4,166
-46,189,Comedy,Zack Pearlman,0,USA,4.6,974
-30,1000,Comedy|Drama|Thriller,Jean-Hugues Anglade,1,France,6.5,739
-46,49000,Comedy|Drama,Frank Langella,2,USA,7.0,857
-221,386,Comedy|Fantasy|Horror|Thriller,John Hensley,1,USA,5.4,17000
-51,33,Action|Adventure|Comedy|Drama|Music|Sci-Fi,Kim De Angelo,1,USA,6.7,0
-1,353,Action|Comedy|Romance|Thriller,Shakti Kapoor,2,India,2.8,10
-58,326,Biography|Comedy|Drama|Music,Kate Magowan,1,UK,7.4,0
-45,22000,Comedy|Drama,Romany Malco,1,USA,5.8,407
-44,5000,Comedy|Drama|Romance|Sport,Karl Collins,2,UK,7.1,224
-74,25000,Drama,Matt Craven,0,USA,4.5,0
-20,780,Comedy|Drama|Sci-Fi,Salli Richardson-Whitfield,2,USA,7.9,3000
-6,532,Animation|Comedy|Family|Romance,Javed Jaffrey,0,India,5.3,39
-5,584,Crime|Drama,Chuck Zito,4,USA,5.4,61
-10,589,Adventure|Family|Fantasy,Tiya Sircar,,Thailand,4.8,715
-81,10000,Comedy|Drama|Musical|Romance,Charly Bivona,7,USA,5.9,0
-66,529,Drama,Paul Adelstein,3,USA,6.2,195
-46,787,Horror|Romance|Sci-Fi,Sarah Douglas,1,USA,5.9,810
-34,26000,Drama|Romance,Dane Cook,2,UK,6.6,0
-78,363,Drama,Michelle Hurst,1,USA,6.6,474
-52,985,Comedy|Crime,Chris Penn,1,USA,5.1,215
-29,160,Drama|Horror|Mystery|Sci-Fi|Thriller,Kaiwi Lyman-Mersereau,0,USA,6.0,0
+director_facebook_likes,actor_1_facebook_likes,genres,plot_keywords,language,country,content_rating,budget,actor_2_facebook_likes,movie_facebook_likes
+151,24000,Drama|Thriller,american|bare chested male bondage|cia|detention|interrogation,English,USA,R,27500000,15000,0
+,766,Crime|Drama|Sci-Fi|Thriller,brain capacity|fbi|fictional drug|intelligence|taking a pill,English,USA,TV-14,,638,11000
+120,12000,Action|Adventure|Sci-Fi|Thriller,captain|explosion|klingon|moon|peace,English,USA,PG,30000000,1000,0
+144,1000,Drama,flashback|interview|louisiana|playwright|secret society,English,USA,PG-13,27000000,482,0
+4000,19000,Adventure|Drama|Family|Fantasy,fire|jungle|remake|tiger|wolf,English,UK,PG,175000000,13000,65000
+39,11000,Crime|Drama|Mystery|Thriller,detective|kidnapping|punching a heavy bag|serial killer|tied to a tree,English,USA,R,27000000,956,0
+644,1000,Action|Comedy|Crime|Music,band|catholic|money|parolee|prison,English,USA,R,27000000,809,14000
+43,953,Comedy|Drama|Family|Romance,actor|drawing|friendship|pregnancy|turkey,English,USA,PG-13,,713,894
+650,1000,Comedy|Music,bare chested male|chips|two word title,English,USA,PG-13,25000000,773,0
+129,66,Comedy|Drama|Romance,boy|friend|imaginary son|single father|single mother,English,UK,PG-13,30000000,5,0
+49,1000,Action|Comedy|Horror,crocodile|eaten alive|lake|maine|sheriff,English,USA,R,27000000,888,2000
+118,13000,Crime|Drama|Mystery|Thriller,coroner|death|gay son|love|mistaken identity,English,Germany,R,27000000,11000,10000
+133,2000,Adventure|Drama|History,astronaut|sound barrier|space program|u.s. air force|u.s. space program,English,USA,PG,27000000,826,0
+776,898,Drama|History|Thriller,earl of oxford|play|queen|rebellion|shakespeare play,English,UK,PG-13,30000000,584,15000
+249,523,Adventure|Drama|Family|Fantasy,book|dragon|story within the story|talking animal|werewolf,English,West Germany,PG,27000000,312,21000
+295,3000,Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller,memory|murder|neo noir|retrofuturism|tech noir,English,Australia,R,27000000,882,14000
+10,3000,Biography|Drama|History|Romance,duchess|duke|heir|infidelity|marriage,English,UK,PG-13,13500000,2000,0
+,491,Comedy|Family,1950s|bus driver|money scheme|poverty|sewer,English,USA,,,154,459
+181,303,Adventure|Family|Fantasy|Horror|Mystery,chicken|delusional depression|doctor|king|mysterious girl,English,UK,PG,25000000,146,0
+0,11000,Action|Crime|Drama|History|Western,bank robber|brother brother relationship|crime spree|explosive|train,English,USA,PG-13,27000000,597,315
+22,14000,Horror|Mystery|Thriller,death|fear|hairy chest|social worker|spinning in chair,English,USA,R,27000000,716,0
+54,748,Crime|Drama|Mystery|Thriller,fbi|fbi agent|murder|salesman|serial killer,English,USA,R,27000000,489,817
+43,1000,Comedy|Drama|Family,adopted son|adoption|boy|mars the planet|widower,English,USA,PG,27000000,506,0
+0,2000,Action|Adventure|Comedy|Family|Sci-Fi,2010s|3 dimensional|breath holding contest|child spy|spy,English,USA,PG,27000000,734,0
+0,8000,Crime|Drama|Thriller,death|hostage|money|shot in the chest|shot in the heart,English,USA,R,27000000,698,0
+31,783,Action|Comedy|Crime|Thriller,american in the uk|drug lord|drugs|gangster|organized crime,English,UK,R,28000000,132,0
+541,22000,Comedy|Crime|Drama,gay interest|gay lead character|gay republican|homosexual|neighbor,English,USA,R,15000000,22000,0
+212,1000,Crime|Horror|Mystery|Thriller,fbi|group|island|serial killer|training,English,USA,R,27000000,968,2000
+272,22000,Comedy|Drama,actor|agent|beard|cannes|hollywood,English,USA,R,25000000,18000,845
+278,844,Drama|Thriller,eiffel tower|nazi|police|ritual|stew,English,Canada,R,23000000,766,188
+0,5,Drama|Musical|Romance,based on opera|evil|mozart|queen|walking wounded,English,France,,27000000,4,359
+41,567,Action|Comedy|Crime,cell phone|hostage|mall|security guard|text messaging,English,USA,PG,26000000,402,0
+70,2000,Comedy|Family|Fantasy|Music|Romance,body swap|camera shot of feet|foot closeup|reference to keith richards|reference to the rolling stones,English,USA,PG,26000000,528,0
+0,7000,Comedy|Romance,40 year old|car accident|cheating on girlfriend|collection|porno movie,English,USA,R,26000000,966,0
+108,1000,Comedy|Drama|Romance,actor|audition|muse|playwright|theater,English,USA,R,25000000,264,0
+71,14000,Crime|Drama|Mystery|Thriller,drug dealer|ex cop|murder of wife|revenge|violence,English,USA,R,28000000,439,15000
+425,743,Action|Comedy|Crime,astoria|kindergarten|kindergarten teacher|school|teacher,English,USA,PG-13,26000000,394,0
+234,11000,Action|Comedy|Crime,murder|paranoia|process server|roach|stoner,English,USA,R,27000000,989,0
+72,1000,Comedy|Drama|Romance,based on fairy tale|bechdel test passed|cinderella|fairy tale|leonardo da vinci,English,USA,PG-13,26000000,794,0
+0,3000,Drama|Romance|Western,boss|cattle|cowboy|rancher|violence,English,USA,R,22000000,693,0
+541,8000,Drama|Horror|Sci-Fi|Thriller,childhood trauma|death|medical student|memory|near death experience,English,USA,R,26000000,1000,0
+,813,Comedy,alcohol|bad taste humour|crude humor|loser|self obsession,English,USA,TV-MA,,547,0
+0,385,Drama|History|War,airborne troops|allies|operation market garden|panzer|paratrooper,English,USA,PG,26000000,232,0
+0,332,Mystery|Thriller,airport|flight|hotel|hotel manager|plane,English,USA,PG-13,26000000,285,0
+160,748,Horror|Thriller,car accident|death|freak accident|hospital|premonition,English,USA,R,26000000,439,0
+0,1000,Adventure|Comedy|Crime|Music,baby|bank|blind prophet|convict|sirens,English,UK,PG-13,26000000,596,16000
+124,2000,Action|Fantasy|Horror,angel|diner|faith|human race|religious faith,English,USA,R,26000000,850,0
+0,12000,Comedy|Crime|Drama,american dream|bodybuilder|money|punch into the camera|reference to julia roberts,English,USA,R,26000000,412,43000
+80,19000,Comedy|Drama|Romance,company|corporate takeover|executive|magazine|new boss,English,USA,PG-13,26000000,3000,736
+906,2000,Action|Adventure|Comedy|Sci-Fi|Thriller,frozen time|stopped time|time freeze|watch|wristwatch,English,USA,PG,26000000,587,874
+759,826,Action|Crime|Drama|Western,1880s|kiss|small town|table broken in fight|wild west,English,USA,PG-13,26000000,130,0
+260,20000,Drama|Thriller,afghanistan|death of soldier|presumed dead|prisoner|war trauma,English,USA,R,26000000,15000,10000
+8,1000,Action|Adventure|Comedy|Family|Romance|Sci-Fi,chase|evil scientist|gadget|mind control|tough girl,English,USA,PG,26000000,934,167
+0,22000,Comedy|Romance,expecting|kiss|new year|new year's eve|singer,English,USA,PG-13,56000000,988,20000
+49,11000,Drama|Mystery|Romance|Thriller,delaware|erotica|money|pursuit|sex scene,English,France,R,42000000,216,3000
+160,771,Crime|Mystery|Thriller,mask|murder|newspaper|poem|serial killer,English,USA,R,26000000,570,35000
+80,826,Comedy|Romance,mayor|pink panties|upskirt|white panties|yellow panties,English,USA,PG-13,26000000,590,260
+5,1000,Action|Fantasy|Romance|Sci-Fi,cave|highlander|illusion|immortal|japan,English,Canada,PG-13,26000000,691,319
+30,1000,Crime|Drama|Thriller,diamond|necklace|safecracker|wine|wine dealer,English,USA,R,22000000,854,145
+2,642,Fantasy|Horror,apple|miner|mirror|necromancy|woods,English,USA,R,26000000,638,0
+11000,11000,Comedy|Crime|Mystery|Romance,efficiency expert|insurance investigator|magician|scorpion|thief,English,USA,PG-13,26000000,893,826
+737,15000,Comedy|Romance,health insurance|long delayed release|nail in the head|waitress|washington d.c.,English,USA,PG-13,26000000,980,0
+0,442,Adventure|Family,dolphin|florida|florida keys|summer|vomiting,English,USA,PG,25530000,95,504
+763,16000,Action|Mystery|Sci-Fi|Thriller,cancer|elderly man|funeral|medical|transhumanism,English,USA,PG-13,26000000,543,11000
+353,883,Drama|Mystery|Romance|Thriller,death|diplomat|doctor|kenya|murder,English,UK,R,15000000,430,0
+0,260,Drama,anti semitism|cult film|grindhouse|suffering|torture,Aramaic,USA,R,30000000,252,13000
+0,49000,Comedy|Drama|Family|Romance,actor|based on novel|fancy restaurant|male actor playing a female character|party,English,USA,PG-13,25000000,1000,0
+272,10000,Drama,buick|convertible|last will and testament|savant|travel,English,USA,R,25000000,898,12000
+16000,16000,Drama,gang|gang rape|hmong|teenager|widower,English,USA,R,33000000,601,28000
+0,2000,Biography|Drama|History,bible|cabinet meeting|dog|drinking|family relationships,English,USA,PG-13,25100000,826,0
+180,14000,Action|Thriller,agent|cia|france|rescue|teenage abduction,English,France,PG-13,25000000,816,29000
+97,775,Drama|Romance,adultery|based on novel|heart transplant|infidelity|protective male,English,USA,PG-13,26000000,523,19000
+81,970,Action|Drama|Music|Romance,bodyguard|manager|pop singer|secret service agent|singer,English,USA,R,25000000,854,0
+14000,14000,Biography|Drama|History,german|german soldier|jew|jewish|nazi,English,USA,R,22000000,795,41000
+150,15000,Drama,black servant|chocolate pie|jackson mississippi|maid|writing a novel,English,USA,PG-13,25000000,3000,75000
+386,19000,Biography|Drama|Thriller,computer hacker|internet|news leak|whistleblowing|wikileaks,English,USA,R,28000000,17000,11000
+67,4000,Adventure|Comedy|Family|Fantasy|Horror|Mystery,ghost|masked villain|monster|museum|tv,English,USA,PG,80000000,2000,567
+0,1000,Adventure|Fantasy|Mystery|Thriller,cartographer|creature|foreign language adaptation|sword and sorcery|village,Russian,Russia,,26000000,65,0
+31,918,Action|Horror|Thriller,elm street|freddy krueger|jason voorhees|serial killer|slasher,English,USA,R,30000000,782,3000
+187,554,Drama,,English,UK,Not Rated,,213,488
+8,770,Action|Adventure|Animation|Comedy|Family|Sci-Fi,alien|boy genius|children|genius|rescue,English,USA,G,30000000,677,425
+198,2000,Action|Adventure|Horror|Sci-Fi,brooklyn new york city|found footage|night vision|statue of liberty new york city|subway tunnel,English,USA,PG-13,25000000,1000,0
+34,642,Action|Adventure|Comedy|Family|Sci-Fi,chop socky|mutant|ninja|shredder|turtle,English,USA,PG,25000000,533,0
+0,22000,Crime|Drama|Thriller,corrupt judge|tax evasion|tough cop|white suit|year 1930,English,USA,R,25000000,371,0
+1000,2000,Crime|Drama|Thriller,coin toss|desert|sheriff|texas|tracking device,English,USA,R,25000000,939,21000
+167,655,Action|Comedy|Crime|Romance,gunfight|outrunning explosion|police|security guard|street shootout,English,USA,PG-13,25000000,521,0
+11,14000,Comedy|Drama|Romance,american actress playing british character|book publishing|calorie counting|employer employee relationship|rabbit costume,English,UK,R,26000000,1000,0
+529,541,Drama|Romance,chocolate|chocolate shop|food|france|village,English,UK,PG-13,25000000,399,18000
+0,934,Comedy,animal rights|congresswoman|doorman|transvestism|washington d.c.,English,USA,PG-13,45000000,655,660
+99,3000,Comedy|Family,chores|father figure|helicopter parents|in laws|punishment,English,USA,PG,25000000,448,0
+425,20000,Comedy|Romance,ex girlfriend|funeral|hospital|male objectification|summer camp,English,USA,R,25000000,962,24000
+170,2000,Action|Biography|Drama|History|Romance|Western,cigar smoking|cowboy|duel|outlaw|tombstone arizona,English,USA,R,25000000,722,11000
+43,5000,Action|Crime|Thriller,death|hong kong|kung fu|prison|waterfront,English,USA,R,25000000,848,0
+503,264,Fantasy|Horror|Mystery,ambassador|death|hospital|priest|stillborn child,English,UK,R,2800000,139,7000
+70,440,Horror,amusement park|death|fate|premonition|roller coaster,English,Germany,R,25000000,346,0
+96,713,Drama|Romance,arrogance|child in peril|disarming someone|kennel|post traumatic stress disorder,English,USA,PG-13,25000000,220,29000
+47,14000,Adventure|Drama|Family|Fantasy,bully|friend|imagination|reality|troll,English,USA,PG,17000000,11000,6000
+395,40000,Biography|Drama|Family,boy|inspiration|reference to peter pan|stage play|widow,English,USA,PG,25000000,14000,0
+0,975,Comedy|Drama,christmas|holiday|madea series|rural setting|stubbornness,English,USA,PG-13,25000000,521,0
+248,14000,Action|Adventure|Drama|Thriller,alaska|leadership|snow|survival|wilderness,English,USA,R,25000000,798,32000
+21,22000,Drama|Horror|Mystery|Thriller,bathtub|psychologist|pushed out a window|smothered with a pillow|telescope,English,USA,R,30000000,812,0
+285,640000,Comedy,1970s|anchorman|news anchor|newsroom|tv station,English,USA,PG-13,26000000,8000,0
+17000,22000,Biography|Crime|Drama,betrayal|gangster|mafia|organized crime|robbery,English,USA,R,25000000,854,25000
+91,1000,Action|Adventure|Comedy|Crime|Family|Romance|Thriller,cia|nanobot|prep school|scientist|teenager,English,USA,PG,26000000,934,542
+52,14000,Comedy|Family|Fantasy,father|governess|magic|nanny|widower,English,USA,PG,25000000,2000,0
+0,14000,Crime|Drama,assassination attempt|capitalism|cocaine|cuban american|cuban refugee,English,USA,R,25000000,670,19000
+176,742,Action|Adventure|Comedy|Crime,boss|ghetto|money|robber|robbery,English,USA,R,25000000,658,0
+973,1000,Biography|Drama|History,abdication|china|emperor|forbidden city|republic,English,China,PG-13,23000000,643,0
+175,24000,Action|Crime|Drama|Thriller,cocaine|contraband|drug lord|prison|smuggling,English,USA,R,25000000,736,0
+420,695,Action|Comedy|Crime|Thriller,blood splatter|fistfight|murder|police|prison bus,English,USA,R,25000000,635,666
+0,272,Drama,alcoholic|alcoholism|money|oil|turn of the century,English,USA,R,25000000,111,16000
+0,1000,Adventure|Animation|Comedy|Family|Fantasy,africa|chimpanzee|elephant|safari|shaman,English,USA,PG,25000000,535,187
+0,971,Adventure|Animation|Comedy|Family|Fantasy|Musical,kid|oxygen|rugrats|trapped underwater|underwater,English,USA,PG,25000000,503,329
+92,744,Action|Comedy,african american|cadillac|disguise|secret agent|undercover,English,USA,PG-13,25000000,489,0
+42,2000,Comedy|Drama|Family|Romance,friendship|jeans|pants|summer|vacation,English,USA,PG,25000000,953,0
+20,5000,Action|Crime|Drama|Thriller,action hero|chinese|forced prostitution|one man army|title spoken by character,English,France,R,25000000,888,0
+29,15000,Comedy|Romance,makeover|party|playboy|playboy mansion|sorority,English,USA,PG-13,25000000,852,0
+23,1000,Comedy,client|dentures|false teeth|reference to peter pan|single parent,English,USA,PG-13,,619,671
+44,4000,Biography|Drama|Sport,baseball|based on true story|india|sports agent|training,English,USA,PG,25000000,774,10000
+176,12000,Drama|Romance|Sci-Fi,black and white segues into color|color|community|dystopia|infanticide,English,South Africa,PG-13,25000000,11000,58000
+29,14000,Comedy|Drama|Family|Romance,american|daughter|england|father|politician,English,USA,PG,20000000,1000,0
+108,296,Horror,cheerleader|farmer|fear|high school basketball|nightmare,English,USA,R,17000000,270,0
+7,1000,Comedy|Romance,breasts|leg spreading|mini skirt|sex|sex in bed,English,USA,R,25000000,562,0
+43,5000,Action|Crime|Drama|Thriller,camera shot from inside human body|diamond|evil man|heist|terrorism,English,USA,R,30000000,618,1000
+335,11000,Drama|Romance,housewife|lesbian|novel|party|reading,English,USA,PG-13,25000000,577,0
+99,17000,Comedy|Romance,disguise|roommate|school|soccer|twin,English,USA,PG-13,20000000,1000,0
+68,328,Comedy|Family,camcorder|cannes|director|lost passport|train,English,UK,PG,25000000,132,0
+27,601,Action|Adventure|Horror|Thriller,anaconda|blood|borneo|flower|orchid,English,USA,PG-13,25000000,543,686
+0,15000,Crime|Drama|Thriller,1970s|flashback|love|money|murder,English,France,R,25500000,960,0
+59,49000,Drama|Music,baby|cellist|genius|prodigy|rhapsody,English,USA,PG,30000000,702,18000

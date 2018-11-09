@@ -1,388 +1,358 @@
-num_critic_for_reviews,duration,actor_3_facebook_likes,actor_2_name,num_voted_users,actor_3_name,movie_imdb_link,num_user_for_reviews,content_rating,actor_2_facebook_likes,imdb_score,aspect_ratio
-129,99,491,Rosario Dawson,28855,Cas Anvar,http://www.imdb.com/title/tt0323944/?ref_=fn_tt_tt_1,190,PG-13,3000,7.2,2.35
-84,95,15,Lynne Thigpen,9589,Polly Noonan,http://www.imdb.com/title/tt0234354/?ref_=fn_tt_tt_1,105,R,230,5.8,1.85
-61,84,152,Tony Devon,3413,Frederick Weller,http://www.imdb.com/title/tt0270259/?ref_=fn_tt_tt_1,78,R,257,6.4,1.85
-147,144,242,Warren Oates,63192,L.Q. Jones,http://www.imdb.com/title/tt0065214/?ref_=fn_tt_tt_1,287,R,288,8.0,2.35
-147,99,362,Aaron Yoo,27266,Method Man,http://www.imdb.com/title/tt1082886/?ref_=fn_tt_tt_1,75,R,617,7.0,2.35
-23,110,20,Michael Elphick,11623,Pamela Salem,http://www.imdb.com/title/tt0079240/?ref_=fn_tt_tt_1,50,PG,34,7.0,1.85
-75,97,53,Bryan Dick,6906,Paul Popplewell,http://www.imdb.com/title/tt0300214/?ref_=fn_tt_tt_1,111,R,104,6.7,1.85
-17,107,284,Kari Wuhrer,2281,Marc Singer,http://www.imdb.com/title/tt0101412/?ref_=fn_tt_tt_1,16,PG-13,514,3.8,1.85
-16,90,316,Kendrick Cross,1245,Sammy Nagi Njuguna,http://www.imdb.com/title/tt1130964/?ref_=fn_tt_tt_1,29,PG,529,5.7,1.85
-60,104,27,Nathalie Baye,2591,Mélanie Doutey,http://www.imdb.com/title/tt0322289/?ref_=fn_tt_tt_1,36,R,67,6.6,1.66
-63,96,71,Zoë Kravitz,7394,Cara Seymour,http://www.imdb.com/title/tt1226232/?ref_=fn_tt_tt_1,50,R,943,6.7,2.35
-56,104,451,Russell Wong,3024,Ji-hyun Jun,http://www.imdb.com/title/tt1541995/?ref_=fn_tt_tt_1,22,PG-13,595,6.1,2.35
-36,97,90,Diane Ladd,2330,Ritchie Montgomery,http://www.imdb.com/title/tt0457308/?ref_=fn_tt_tt_1,29,R,206,6.2,1.85
-47,107,419,Olivia Williams,1940,Peter McNamara,http://www.imdb.com/title/tt0246134/?ref_=fn_tt_tt_1,34,PG-13,766,6.2,2.35
-38,117,898,Jane Fonda,6454,Vanessa Redgrave,http://www.imdb.com/title/tt0076245/?ref_=fn_tt_tt_1,44,PG,949,7.4,1.85
-26,85,499,Scott Glenn,7367,Sarah Wright,http://www.imdb.com/title/tt0976247/?ref_=fn_tt_tt_1,37,R,826,4.7,1.85
-47,152,0,Pat Buchanan,2143,Bill Baird,http://www.imdb.com/title/tt0841119/?ref_=fn_tt_tt_1,29,Unrated,2,8.3,
-68,85,407,Barbara Hershey,38273,Shawn Hatosy,http://www.imdb.com/title/tt0331811/?ref_=fn_tt_tt_1,133,R,618,7.2,1.85
-19,76,259,Kevin Tighe,2989,Tim Guinee,http://www.imdb.com/title/tt0110490/?ref_=fn_tt_tt_1,38,R,472,5.8,2.35
-39,87,99,M. Emmet Walsh,2050,Robert Wahlberg,http://www.imdb.com/title/tt1281374/?ref_=fn_tt_tt_1,17,R,521,5.9,1.85
-162,95,874,Olivia Wilde,32512,Sissy Spacek,http://www.imdb.com/title/tt1667310/?ref_=fn_tt_tt_1,86,R,10000,6.3,2.35
-37,101,130,Aidan Quinn,1696,John Bell,http://www.imdb.com/title/tt1014774/?ref_=fn_tt_tt_1,19,PG,767,7.2,2.35
-26,90,787,Sean Cook,10196,Cole Hauser,http://www.imdb.com/title/tt1575694/?ref_=fn_tt_tt_1,39,R,816,5.4,1.85
-10,240,334,Blake Ritson,10388,Rupert Evans,http://www.imdb.com/title/tt1366312/?ref_=fn_tt_tt_1,50,,432,8.2,1.78
-179,89,15,Leslie Carlson,60522,Reiner Schwarz,http://www.imdb.com/title/tt0086541/?ref_=fn_tt_tt_1,228,R,20,7.3,1.85
-88,111,269,Cécile De France,34383,Iddo Goldberg,http://www.imdb.com/title/tt0283900/?ref_=fn_tt_tt_1,149,R,447,7.3,1.85
-43,86,444,Shawn Parsons,6797,Li Jun Li,http://www.imdb.com/title/tt2182972/?ref_=fn_tt_tt_1,21,PG-13,485,5.8,
-136,115,400,Chris Penn,43575,Agnes Bruckner,http://www.imdb.com/title/tt0264935/?ref_=fn_tt_tt_1,302,R,455,6.1,1.85
-111,103,19,Tygo Gernandt,9230,Martijn Lakemeier,http://www.imdb.com/title/tt0795441/?ref_=fn_tt_tt_1,37,R,20,7.1,2.35
-13,90,1000,Michael Jai White,6741,Bill Duke,http://www.imdb.com/title/tt0938305/?ref_=fn_tt_tt_1,11,R,2000,6.5,
-64,133,28,Paul Scofield,10119,Michel Simon,http://www.imdb.com/title/tt0059825/?ref_=fn_tt_tt_1,124,Unrated,94,7.9,1.66
-6,88,57,John Billingsley,748,Trieu Tran,http://www.imdb.com/title/tt1772408/?ref_=fn_tt_tt_1,8,PG-13,323,5.4,2.35
-112,111,380,Nathan Jones,30210,Johnny Nguyen,http://www.imdb.com/title/tt0427954/?ref_=fn_tt_tt_1,214,R,635,7.1,1.85
-12,94,136,Frank Finlay,867,Samuel West,http://www.imdb.com/title/tt0120210/?ref_=fn_tt_tt_1,21,R,338,6.4,1.85
-15,25,220,Belinda Stewart-Wilson,55987,James Buckley,http://www.imdb.com/title/tt1220617/?ref_=fn_tt_tt_1,42,TV-14,223,8.4,16.0
-161,112,397,Parminder Nagra,89806,Anupam Kher,http://www.imdb.com/title/tt0286499/?ref_=fn_tt_tt_1,438,PG-13,528,6.7,1.85
-68,141,501,Edie Falco,3433,Timothy Hutton,http://www.imdb.com/title/tt0286179/?ref_=fn_tt_tt_1,81,PG-13,659,6.9,1.85
-25,95,255,Wayne Brady,8707,Eva Marcille,http://www.imdb.com/title/tt0473024/?ref_=fn_tt_tt_1,36,PG-13,378,2.1,1.85
-23,141,61,Mithun Chakraborty,4633,Johnny Lever,http://www.imdb.com/title/tt2166214/?ref_=fn_tt_tt_1,31,Not Rated,284,4.3,
-222,85,6,Pablo Rosso,55597,Andrea Ros,http://www.imdb.com/title/tt1245112/?ref_=fn_tt_tt_1,148,R,9,6.6,1.85
-9,105,10,Alexis Biesiada,548,Kayla Raparelli,http://www.imdb.com/title/tt1303803/?ref_=fn_tt_tt_1,6,PG,11,3.4,
-119,129,417,Robert Shaw,175607,Ray Walston,http://www.imdb.com/title/tt0070735/?ref_=fn_tt_tt_1,252,PG,559,8.3,1.85
-90,125,249,Ben Cross,40511,John Gielgud,http://www.imdb.com/title/tt0082158/?ref_=fn_tt_tt_1,213,PG,303,7.2,1.85
-62,116,476,Kimberly Elise,10472,Tamara Taylor,http://www.imdb.com/title/tt0422093/?ref_=fn_tt_tt_1,202,PG-13,637,5.6,1.85
-71,105,35,Armin Mueller-Stahl,43013,Nicholas Bell,http://www.imdb.com/title/tt0117631/?ref_=fn_tt_tt_1,104,PG-13,294,7.7,1.85
-364,90,694,Scarlett Johansson,190494,Tony Danza,http://www.imdb.com/title/tt2229499/?ref_=fn_tt_tt_1,314,R,19000,6.6,2.35
-72,105,258,Richard Bull,36381,John Hillerman,http://www.imdb.com/title/tt0068699/?ref_=fn_tt_tt_1,169,R,742,7.6,2.35
-122,111,722,Steve Buscemi,96129,T.J. Thyne,http://www.imdb.com/title/tt0162346/?ref_=fn_tt_tt_1,488,R,12000,7.4,1.85
-100,91,548,Jim Broadbent,14786,Kris Marshall,http://www.imdb.com/title/tt0280778/?ref_=fn_tt_tt_1,144,R,1000,7.1,1.85
-24,95,60,Avery Schreiber,1955,Angelo Rossitto,http://www.imdb.com/title/tt0080771/?ref_=fn_tt_tt_1,44,R,110,3.4,2.35
-112,97,57,François Berléand,44151,Gérard Jugnot,http://www.imdb.com/title/tt0372824/?ref_=fn_tt_tt_1,110,PG-13,86,7.9,2.35
-67,92,71,Luke Kirby,5548,Claudia Ferri,http://www.imdb.com/title/tt0330602/?ref_=fn_tt_tt_1,67,R,210,6.7,1.85
-91,104,93,Louis Lombardi,18792,Franky G,http://www.imdb.com/title/tt0335563/?ref_=fn_tt_tt_1,153,R,436,6.6,1.85
-103,120,388,John Savage,59524,Danny Aiello,http://www.imdb.com/title/tt0097216/?ref_=fn_tt_tt_1,418,R,652,7.9,1.85
-27,99,781,Eric Stoltz,3754,Joey Lauren Adams,http://www.imdb.com/title/tt0242508/?ref_=fn_tt_tt_1,69,R,902,4.9,2.35
-205,93,36,Kati Outinen,15267,Jean-Pierre Darroussin,http://www.imdb.com/title/tt1508675/?ref_=fn_tt_tt_1,41,Not Rated,67,7.2,1.85
-192,99,9,Albert Dupontel,87244,Jo Prestia,http://www.imdb.com/title/tt0290673/?ref_=fn_tt_tt_1,664,Not Rated,46,7.4,2.35
-72,99,16,Hitoshi Matsumoto,1658,Shinobu Terajima,http://www.imdb.com/title/tt2914838/?ref_=fn_tt_tt_1,12,Unrated,17,6.1,1.85
-33,157,199,Steven Mackintosh,70233,Madhavan,http://www.imdb.com/title/tt0405508/?ref_=fn_tt_tt_1,321,Not Rated,227,8.4,2.35
-22,90,290,John Heard,605,David Dastmalchian,http://www.imdb.com/title/tt3297554/?ref_=fn_tt_tt_1,8,,697,6.2,2.35
-48,96,38,Cree Kelly,3788,Mike Eshaq,http://www.imdb.com/title/tt1251743/?ref_=fn_tt_tt_1,31,R,39,5.3,1.85
-65,96,139,Ken Marino,15315,Ron Silver,http://www.imdb.com/title/tt0811106/?ref_=fn_tt_tt_1,117,R,543,5.0,1.85
-29,90,222,Paddy Considine,4471,Shane Meadows,http://www.imdb.com/title/tt0202559/?ref_=fn_tt_tt_1,47,R,680,7.7,1.85
-284,100,27,Synnøve Macody Lund,79353,Julie R. Ølgaard,http://www.imdb.com/title/tt1614989/?ref_=fn_tt_tt_1,121,R,52,7.6,2.39
-187,94,114,Richard Coyle,13227,Bronagh Gallagher,http://www.imdb.com/title/tt1525366/?ref_=fn_tt_tt_1,70,Not Rated,567,6.3,2.35
-47,98,149,Adam Butcher,4976,Gordon Pinsent,http://www.imdb.com/title/tt0384488/?ref_=fn_tt_tt_1,52,PG-13,259,7.6,1.85
-88,129,0,Jessica Chastain,2894,Colin Farrell,http://www.imdb.com/title/tt2667960/?ref_=fn_tt_tt_1,14,PG-13,0,5.6,
-41,103,32,Bill Erwin,21049,George Voskovec,http://www.imdb.com/title/tt0081534/?ref_=fn_tt_tt_1,249,PG,191,7.3,1.85
-24,128,47,Bipasha Basu,3266,Prateik,http://www.imdb.com/title/tt1618430/?ref_=fn_tt_tt_1,27,R,282,6.2,
-318,106,482,Barbara Hershey,109214,Leigh Whannell,http://www.imdb.com/title/tt2226417/?ref_=fn_tt_tt_1,269,PG-13,618,6.6,2.35
-250,95,651,Tony Nappo,188679,Shawnee Smith,http://www.imdb.com/title/tt0432348/?ref_=fn_tt_tt_1,864,R,654,6.6,1.85
-411,104,82,John Gallagher Jr.,126893,Sumalee Montano,http://www.imdb.com/title/tt1179933/?ref_=fn_tt_tt_1,440,PG-13,338,7.3,2.35
-106,87,218,Steve-O,67992,Chris Pontius,http://www.imdb.com/title/tt0322802/?ref_=fn_tt_tt_1,327,R,362,6.6,1.85
-159,81,300,Amiah Miller,13523,Gabriel Bateman,http://www.imdb.com/title/tt4786282/?ref_=fn_tt_tt_1,95,PG-13,509,6.9,2.35
-251,94,434,Sprague Grayden,76828,Christopher Nicholas Smith,http://www.imdb.com/title/tt1778304/?ref_=fn_tt_tt_1,314,R,438,5.8,1.85
-183,89,704,Shelley Hennig,31915,Daren Kagasoff,http://www.imdb.com/title/tt1204977/?ref_=fn_tt_tt_1,159,PG-13,707,4.4,2.35
-131,88,150,Heather Langenkamp,49820,Jennifer Rubin,http://www.imdb.com/title/tt0093629/?ref_=fn_tt_tt_1,311,X,449,6.6,1.85
-297,108,458,Allison Tolman,79916,Wendell Pierce,http://www.imdb.com/title/tt4178092/?ref_=fn_tt_tt_1,279,R,562,7.1,2.35
-41,115,83,Jessica Lindsey,22105,Hugo Stiglitz,http://www.imdb.com/title/tt2378281/?ref_=fn_tt_tt_1,81,PG-13,89,7.6,1.85
-248,96,113,Brendon Eggertsen,51204,Alisha Boe,http://www.imdb.com/title/tt2109184/?ref_=fn_tt_tt_1,247,R,119,4.6,1.85
-42,135,275,Jean Simmons,6359,Victor Mature,http://www.imdb.com/title/tt0046247/?ref_=fn_tt_tt_1,69,Unrated,422,6.8,2.2
-33,113,80,Herbert Lom,19596,Catherine Schell,http://www.imdb.com/title/tt0072081/?ref_=fn_tt_tt_1,73,G,278,7.1,2.35
-91,93,581,Tom Arnold,30765,Yaphet Kotto,http://www.imdb.com/title/tt0101917/?ref_=fn_tt_tt_1,252,R,618,4.9,1.85
-185,109,592,Bruce Dern,105568,Pruitt Taylor Vince,http://www.imdb.com/title/tt0340855/?ref_=fn_tt_tt_1,533,R,844,7.3,1.85
-69,127,51,Robert J. Wilke,22123,Paul Lukas,http://www.imdb.com/title/tt0046672/?ref_=fn_tt_tt_1,108,Approved,53,7.2,1.37
-220,101,332,Gloria Sandoval,31791,Molly Ephraim,http://www.imdb.com/title/tt2473682/?ref_=fn_tt_tt_1,155,R,358,5.0,1.78
-117,124,452,Anne Bancroft,161972,Dexter Fletcher,http://www.imdb.com/title/tt0080678/?ref_=fn_tt_tt_1,356,PG,754,8.2,2.35
-471,117,896,Jennifer Garner,326494,Denis O'Hare,http://www.imdb.com/title/tt0790636/?ref_=fn_tt_tt_1,340,R,3000,8.0,2.35
-152,83,801,Mark Duplass,28513,Donald Glover,http://www.imdb.com/title/tt2918436/?ref_=fn_tt_tt_1,126,PG-13,830,5.2,2.35
-274,113,379,Thomas Lennon,845580,Jorja Fox,http://www.imdb.com/title/tt0209144/?ref_=fn_tt_tt_1,2067,R,651,8.5,2.35
-336,104,202,Rory Cochrane,85688,Garrett Ryan,http://www.imdb.com/title/tt2388715/?ref_=fn_tt_tt_1,339,R,407,6.5,2.35
-174,97,657,Jason Mewes,114797,Brian O'Halloran,http://www.imdb.com/title/tt0424345/?ref_=fn_tt_tt_1,472,R,898,7.4,1.85
-151,110,34,Gary Lewis,98354,Jamie Draven,http://www.imdb.com/title/tt0249462/?ref_=fn_tt_tt_1,433,R,203,7.7,1.85
-276,103,424,Liam James,115813,Jim Rash,http://www.imdb.com/title/tt1727388/?ref_=fn_tt_tt_1,216,PG-13,468,7.4,1.85
-12,94,287,Tisha Campbell-Martin,3571,Helen Martin,http://www.imdb.com/title/tt0102065/?ref_=fn_tt_tt_1,11,R,413,5.1,1.85
-18,102,75,Jack Thompson,5894,Tom Burlinson,http://www.imdb.com/title/tt0084296/?ref_=fn_tt_tt_1,56,PG,155,7.3,2.35
-28,77,73,Constance Shulman,2448,Alice Playten,http://www.imdb.com/title/tt0187819/?ref_=fn_tt_tt_1,18,G,804,5.0,1.33
-95,134,77,Todd Allen,11622,June Carter Cash,http://www.imdb.com/title/tt0118632/?ref_=fn_tt_tt_1,157,PG-13,130,7.2,1.85
-74,129,157,Xander Berkeley,10564,Diana Scarwid,http://www.imdb.com/title/tt0082766/?ref_=fn_tt_tt_1,161,R,485,6.7,1.85
-179,90,1000,Adam Scott,74875,Steve Coogan,http://www.imdb.com/title/tt1637706/?ref_=fn_tt_tt_1,115,R,3000,6.4,1.85
-125,134,388,Tony Curran,11744,David Kross,http://www.imdb.com/title/tt3499096/?ref_=fn_tt_tt_1,49,PG-13,845,7.1,2.35
-22,104,498,Monica Calhoun,4345,Chrystale Wilson,http://www.imdb.com/title/tt0119905/?ref_=fn_tt_tt_1,26,R,597,5.6,1.85
-92,95,697,Andrew Keegan,17333,John Heard,http://www.imdb.com/title/tt0184791/?ref_=fn_tt_tt_1,153,R,835,6.2,1.85
-196,93,161,Edwin Hodge,49948,Perdita Weeks,http://www.imdb.com/title/tt2870612/?ref_=fn_tt_tt_1,211,R,200,6.1,1.85
-9,106,467,Cameron Mills,5975,Sharon Leal,http://www.imdb.com/title/tt2205401/?ref_=fn_tt_tt_1,33,R,694,5.2,1.85
-31,109,426,Lynn Whitfield,6915,Diahann Carroll,http://www.imdb.com/title/tt0119080/?ref_=fn_tt_tt_1,209,R,434,7.3,1.85
-309,101,423,Hunter Parrish,86077,Seth Gilliam,http://www.imdb.com/title/tt3316960/?ref_=fn_tt_tt_1,195,PG-13,2000,7.5,1.85
-15,139,422,Peter Ustinov,2498,Jean Simmons,http://www.imdb.com/title/tt0046949/?ref_=fn_tt_tt_1,67,Approved,440,6.6,2.55
-36,99,142,Lindsay Wagner,12519,Persis Khambatta,http://www.imdb.com/title/tt0082817/?ref_=fn_tt_tt_1,107,R,970,6.4,1.85
-129,100,65,Peter Mark Richman,22961,Scott Reeves,http://www.imdb.com/title/tt0097388/?ref_=fn_tt_tt_1,291,R,120,4.5,1.85
-168,95,249,Louis Mandylor,102071,Lainie Kazan,http://www.imdb.com/title/tt0259446/?ref_=fn_tt_tt_1,756,PG,312,6.6,1.85
-444,94,192,Heather Morris,108683,Rachel Korine,http://www.imdb.com/title/tt2101441/?ref_=fn_tt_tt_1,561,R,892,5.3,2.35
-123,93,141,Kim Darby,20815,Mitchell Ryan,http://www.imdb.com/title/tt0113253/?ref_=fn_tt_tt_1,335,R,152,4.9,1.85
-173,106,19,Daniel Giménez Cacho,91377,María Aura,http://www.imdb.com/title/tt0245574/?ref_=fn_tt_tt_1,385,R,43,7.7,1.85
-246,99,358,Dylan Moran,395921,Rafe Spall,http://www.imdb.com/title/tt0365748/?ref_=fn_tt_tt_1,859,R,427,8.0,2.35
-74,82,664,Randy Wayne,7904,Haley Bennett,http://www.imdb.com/title/tt1045655/?ref_=fn_tt_tt_1,113,PG-13,984,3.8,1.85
-68,135,111,Clifton James,23202,Miriam Colon,http://www.imdb.com/title/tt0116905/?ref_=fn_tt_tt_1,173,R,189,7.6,2.35
-144,88,101,Kathleen Kinmont,29629,Ellie Cornell,http://www.imdb.com/title/tt0095271/?ref_=fn_tt_tt_1,374,R,120,5.9,1.85
-96,89,85,Deborah Foreman,10624,Clayton Rohner,http://www.imdb.com/title/tt0090655/?ref_=fn_tt_tt_1,125,R,190,6.2,2.35
-42,110,551,Daniel Stern,14995,Ellen Barkin,http://www.imdb.com/title/tt0083833/?ref_=fn_tt_tt_1,87,R,796,7.2,1.85
-29,107,268,William Sanderson,7973,Robert Beltran,http://www.imdb.com/title/tt0085862/?ref_=fn_tt_tt_1,65,PG,400,6.3,1.85
-228,86,205,Ryan Robbins,47227,Andrew Airlie,http://www.imdb.com/title/tt1772240/?ref_=fn_tt_tt_1,323,PG-13,270,5.2,1.33
-195,91,260,Mary Lynn Rajskub,61151,Paul Dooley,http://www.imdb.com/title/tt0862846/?ref_=fn_tt_tt_1,134,R,934,6.9,2.35
-203,103,13,Claire Geare,48675,Sahajak Boonthanakit,http://www.imdb.com/title/tt1781922/?ref_=fn_tt_tt_1,214,R,78,6.8,1.85
-44,90,826,John Amos,15345,Rip Torn,http://www.imdb.com/title/tt0083630/?ref_=fn_tt_tt_1,87,PG,982,6.2,1.85
-14,141,70,George Sanders,2017,Finlay Currie,http://www.imdb.com/title/tt0053290/?ref_=fn_tt_tt_1,33,,333,6.2,2.2
-59,92,355,Mike Epps,9509,Russell Peters,http://www.imdb.com/title/tt4667094/?ref_=fn_tt_tt_1,53,R,706,3.5,
-45,99,409,Jenifer Lewis,2326,Wood Harris,http://www.imdb.com/title/tt0795438/?ref_=fn_tt_tt_1,21,PG-13,578,6.1,1.85
-42,79,99,Helen Hayes,3519,Adolphe Menjou,http://www.imdb.com/title/tt0022879/?ref_=fn_tt_tt_1,46,Unrated,164,6.6,1.37
-12,96,503,Brandy Norwood,1180,Lauren London,http://www.imdb.com/title/tt4871980/?ref_=fn_tt_tt_1,9,R,509,4.5,
-29,82,44,Colleen O'Shaughnessey,5164,Mona Marshall,http://www.imdb.com/title/tt0259974/?ref_=fn_tt_tt_1,65,PG,45,5.9,1.85
-121,92,797,Patrick Fugit,40274,Eva Amurri Martino,http://www.imdb.com/title/tt0332375/?ref_=fn_tt_tt_1,324,PG-13,835,6.9,1.85
-135,112,21,Stéphane Rousseau,24921,Marina Hands,http://www.imdb.com/title/tt0338135/?ref_=fn_tt_tt_1,166,R,28,7.7,2.35
-27,106,136,Denholm Elliott,8930,Nicol Williamson,http://www.imdb.com/title/tt0075147/?ref_=fn_tt_tt_1,90,PG,249,6.6,1.85
-56,90,560,Kerr Smith,7319,Izabella Miko,http://www.imdb.com/title/tt0245120/?ref_=fn_tt_tt_1,131,R,591,5.3,1.85
-22,126,576,Carl Weathers,13587,Franco Nero,http://www.imdb.com/title/tt0077572/?ref_=fn_tt_tt_1,80,PG,794,6.3,2.35
-59,150,448,Gedde Watanabe,21416,Michael Richards,http://www.imdb.com/title/tt0098546/?ref_=fn_tt_tt_1,198,PG-13,448,7.0,1.85
-61,90,556,Joel David Moore,67853,Shirley Jones,http://www.imdb.com/title/tt0456554/?ref_=fn_tt_tt_1,202,R,936,7.0,2.35
-60,91,572,Kevin Corrigan,9427,Jessica Walter,http://www.imdb.com/title/tt0120831/?ref_=fn_tt_tt_1,79,R,778,6.6,1.85
-164,145,392,Woody Strode,216005,Jack Elam,http://www.imdb.com/title/tt0064116/?ref_=fn_tt_tt_1,565,PG-13,423,8.6,2.35
-81,95,334,Faizon Love,15053,Jonathan Silverman,http://www.imdb.com/title/tt0227005/?ref_=fn_tt_tt_1,165,R,585,6.4,1.85
-415,97,372,Matt Berry,260607,Benedict Wong,http://www.imdb.com/title/tt1182345/?ref_=fn_tt_tt_1,485,R,572,7.9,2.35
-43,90,701,Jami Gertz,2719,Carter Jenkins,http://www.imdb.com/title/tt0415949/?ref_=fn_tt_tt_1,41,PG-13,847,5.4,1.85
-7,41,0,Guillaume Denaiffe,296,Chloe Hollings,http://www.imdb.com/title/tt1529567/?ref_=fn_tt_tt_1,4,,0,6.9,1.78
-120,112,395,Sarah Polley,26720,Simon Baker,http://www.imdb.com/title/tt0120255/?ref_=fn_tt_tt_1,196,R,900,7.7,2.35
-195,122,32,Michael Lonsdale,12411,Olivier Rabourdin,http://www.imdb.com/title/tt1588337/?ref_=fn_tt_tt_1,89,PG-13,135,7.2,2.35
-109,110,39,Freddy Rodríguez,12233,Greg Collins,http://www.imdb.com/title/tt0914797/?ref_=fn_tt_tt_1,89,PG-13,579,6.8,2.35
-21,87,83,Tim Thomerson,881,Bess Armstrong,http://www.imdb.com/title/tt0084171/?ref_=fn_tt_tt_1,32,R,162,6.2,
-93,108,88,Jed Brophy,50197,Liz Mullane,http://www.imdb.com/title/tt0110005/?ref_=fn_tt_tt_1,265,R,433,7.4,2.35
-12,121,473,Bobby Batson,2047,Cynthia Barrett,http://www.imdb.com/title/tt4337690/?ref_=fn_tt_tt_1,29,PG-13,849,4.6,2.35
-155,97,939,Scott Takeda,40305,Stephen Root,http://www.imdb.com/title/tt1531663/?ref_=fn_tt_tt_1,86,R,981,6.4,2.35
-81,116,102,Ryan O'Neal,12366,Angela Featherstone,http://www.imdb.com/title/tt0120906/?ref_=fn_tt_tt_1,151,R,385,7.0,1.85
-204,94,360,Jennifer Jason Leigh,281649,Reg E. Cathey,http://www.imdb.com/title/tt0361862/?ref_=fn_tt_tt_1,458,R,1000,7.7,2.35
-19,103,145,Jane Adams,3665,David Clennon,http://www.imdb.com/title/tt0102307/?ref_=fn_tt_tt_1,39,R,280,6.8,1.85
-163,112,688,Paz Vega,32382,Robert Pralgo,http://www.imdb.com/title/tt1216491/?ref_=fn_tt_tt_1,99,R,963,7.0,2.35
-248,91,192,Jon Tenney,40618,Tammy Blanchard,http://www.imdb.com/title/tt0935075/?ref_=fn_tt_tt_1,144,PG-13,289,7.0,1.85
-39,98,600,Mia Kirshner,12675,Marilyn Manson,http://www.imdb.com/title/tt0320244/?ref_=fn_tt_tt_1,158,R,971,6.3,1.85
-322,95,233,Mark Webber,28845,Joe Cole,http://www.imdb.com/title/tt4062536/?ref_=fn_tt_tt_1,125,R,442,7.1,2.35
-50,88,276,Tim Russ,5494,Winter Ave Zoli,http://www.imdb.com/title/tt0422861/?ref_=fn_tt_tt_1,56,R,625,5.6,2.35
-12,99,361,Greg Germann,1900,Kristoffer Polaha,http://www.imdb.com/title/tt2800038/?ref_=fn_tt_tt_1,56,PG-13,435,4.4,
-83,91,65,Darryl Cox,54478,Lumi Cavazos,http://www.imdb.com/title/tt0115734/?ref_=fn_tt_tt_1,184,R,96,7.1,1.85
-37,97,977,Joe Mantegna,6632,Faye Dunaway,http://www.imdb.com/title/tt0115495/?ref_=fn_tt_tt_1,69,R,1000,6.1,2.35
-16,136,14,Bhoomika Chawla,1311,Darshan Jariwala,http://www.imdb.com/title/tt0459293/?ref_=fn_tt_tt_1,25,,45,7.4,2.35
-121,118,0,Megan Ambuhl Graner,3329,Ken Davis,http://www.imdb.com/title/tt0896866/?ref_=fn_tt_tt_1,22,R,0,7.5,2.35
-24,94,51,Don Gordon,1599,Jim Byrnes,http://www.imdb.com/title/tt0081291/?ref_=fn_tt_tt_1,27,R,59,7.2,1.85
-324,89,440,Tyler Labine,127842,Chelan Simmons,http://www.imdb.com/title/tt1465522/?ref_=fn_tt_tt_1,200,R,779,7.6,2.35
-27,90,940,Ellen Burstyn,1560,Martin Landau,http://www.imdb.com/title/tt1150947/?ref_=fn_tt_tt_1,15,PG,1000,7.3,1.85
-9,95,100,Paul Fix,989,Laraine Day,http://www.imdb.com/title/tt0039927/?ref_=fn_tt_tt_1,23,Approved,116,6.2,1.37
-31,90,697,John Heard,1884,Sara Gilbert,http://www.imdb.com/title/tt0126261/?ref_=fn_tt_tt_1,28,R,697,6.2,1.85
-35,95,383,Marc Trottier,4041,Corey Sevier,http://www.imdb.com/title/tt0357585/?ref_=fn_tt_tt_1,66,R,680,4.6,1.85
-371,94,99,Patch Darragh,65299,Olivia DeJonge,http://www.imdb.com/title/tt3567288/?ref_=fn_tt_tt_1,455,PG-13,309,6.2,1.85
-133,90,15,Daniel Stewart Sherman,8824,Kel O'Neill,http://www.imdb.com/title/tt0937237/?ref_=fn_tt_tt_1,108,R,29,6.2,1.85
-13,103,227,Jacqueline Bisset,1207,Alice Evans,http://www.imdb.com/title/tt0305632/?ref_=fn_tt_tt_1,44,R,522,3.3,2.35
-9,60,904,Dylan Minnette,3852,Bokeem Woodbine,http://www.imdb.com/title/tt0830900/?ref_=fn_tt_tt_1,47,TV-MA,1000,7.5,1.78
-56,91,14,Sandra Staggs,7888,Jelena Nik,http://www.imdb.com/title/tt1519461/?ref_=fn_tt_tt_1,55,R,21,4.2,
-191,102,78,Tony Corvillo,23756,Marta Etura,http://www.imdb.com/title/tt1437358/?ref_=fn_tt_tt_1,48,Not Rated,93,7.2,2.35
-80,92,141,Doug Bradley,10056,Georgia Groome,http://www.imdb.com/title/tt0465430/?ref_=fn_tt_tt_1,82,Unrated,337,6.2,2.35
-19,87,686,Callum Blue,10734,Shenae Grimes-Beech,http://www.imdb.com/title/tt1079444/?ref_=fn_tt_tt_1,80,R,738,6.1,1.78
-19,80,854,John Stamos,4322,Jim Belushi,http://www.imdb.com/title/tt0488539/?ref_=fn_tt_tt_1,47,R,2000,4.2,1.85
-,90,483,Patricia Neal,215,Katie Leclerc,http://www.imdb.com/title/tt1131732/?ref_=fn_tt_tt_1,2,PG-13,617,4.5,
-38,44,816,Dulé Hill,67315,Timothy Omundson,http://www.imdb.com/title/tt0491738/?ref_=fn_tt_tt_1,127,TV-PG,922,8.4,1.78
-44,105,394,Felicity Huffman,12672,David Adam Flannery,http://www.imdb.com/title/tt1798243/?ref_=fn_tt_tt_1,60,R,508,7.5,
-3,67,388,Cyndi Lauper,83,Danny Aiello,http://www.imdb.com/title/tt1460798/?ref_=fn_tt_tt_1,1,PG,732,6.7,
-6,95,541,Jon Heder,1091,Cheryl Hines,http://www.imdb.com/title/tt3703148/?ref_=fn_tt_tt_1,15,PG,970,5.1,
-,87,601,Esai Morales,216,Nicholas Gonzalez,http://www.imdb.com/title/tt2063015/?ref_=fn_tt_tt_1,3,TV-PG,699,5.5,1.78
-64,94,179,Irène Jacob,6964,Tomiwa Edun,http://www.imdb.com/title/tt1274586/?ref_=fn_tt_tt_1,47,R,316,4.4,2.35
-8,109,126,Sofia Black-D'Elia,237,Lisa Kay,http://www.imdb.com/title/tt1554921/?ref_=fn_tt_tt_1,3,R,266,4.4,
-64,130,826,Sam Waterston,15988,Hal Holbrook,http://www.imdb.com/title/tt0077294/?ref_=fn_tt_tt_1,153,PG,849,6.8,2.35
-2,,723,Natasha Henstridge,38,Costas Mandylor,http://www.imdb.com/title/tt1717210/?ref_=fn_tt_tt_1,2,,900,6.7,
-,88,668,Cody Howard,8,Martin Kove,http://www.imdb.com/title/tt4453560/?ref_=fn_tt_tt_1,,,763,8.6,
-35,88,1000,Haley Joel Osment,849,Natasha Lyonne,http://www.imdb.com/title/tt3838992/?ref_=fn_tt_tt_1,4,PG-13,3000,4.8,
-21,97,538,Michael Dudikoff,928,Ed Quinn,http://www.imdb.com/title/tt4511566/?ref_=fn_tt_tt_1,14,,615,3.4,
-99,113,4,Ivan Barnev,6183,Milan Lasica,http://www.imdb.com/title/tt0284363/?ref_=fn_tt_tt_1,27,R,12,7.4,1.85
-115,99,269,Moritz Bleibtreu,29203,Birol Ünel,http://www.imdb.com/title/tt1244668/?ref_=fn_tt_tt_1,26,,486,7.3,1.85
-104,148,263,Dwight Yoakam,72443,J.T. Walsh,http://www.imdb.com/title/tt0117666/?ref_=fn_tt_tt_1,309,R,324,8.0,1.85
-195,107,537,Imelda Staunton,46347,Joseph Mawle,http://www.imdb.com/title/tt1687901/?ref_=fn_tt_tt_1,112,R,579,6.5,2.35
-303,93,581,Takashi Miike,138814,Rick Hoffman,http://www.imdb.com/title/tt0450278/?ref_=fn_tt_tt_1,1516,R,1000,5.9,2.35
-122,94,427,Shirley Henderson,11202,Dylan Moran,http://www.imdb.com/title/tt0423409/?ref_=fn_tt_tt_1,123,R,887,6.8,2.35
-359,121,41,Shea Whigham,68211,Robert Longstreet,http://www.imdb.com/title/tt1675192/?ref_=fn_tt_tt_1,219,R,463,7.4,2.35
-130,118,339,Lukas Haas,4695,Katherine Helmond,http://www.imdb.com/title/tt0095484/?ref_=fn_tt_tt_1,69,R,733,6.7,1.85
-64,98,621,Julie Walters,9611,Tamsin Egerton,http://www.imdb.com/title/tt0446687/?ref_=fn_tt_tt_1,70,PG-13,838,6.8,1.85
-13,82,316,Greg Grunberg,4247,Dagmara Dominczyk,http://www.imdb.com/title/tt2980708/?ref_=fn_tt_tt_1,11,Unrated,833,5.4,
-159,101,14,Lou Perryman,19234,Jim Siedow,http://www.imdb.com/title/tt0092076/?ref_=fn_tt_tt_1,258,X,28,5.5,1.85
-54,106,372,Bob Dylan,13467,Jason Robards,http://www.imdb.com/title/tt0070518/?ref_=fn_tt_tt_1,106,R,476,7.4,2.35
-440,90,428,Kristin Scott Thomas,83234,Yayaying Rhatha Phongam,http://www.imdb.com/title/tt1602613/?ref_=fn_tt_tt_1,475,R,1000,5.7,1.85
-7,79,20,Isild Le Besco,262,Emmanuelle Bercot,http://www.imdb.com/title/tt0451673/?ref_=fn_tt_tt_1,6,,40,5.4,
-4,87,329,Kate del Castillo,1427,Camryn Manheim,http://www.imdb.com/title/tt1547090/?ref_=fn_tt_tt_1,12,R,345,3.2,
-1,,0,Diganth,57,Dileep Raj,http://www.imdb.com/title/tt3099638/?ref_=fn_tt_tt_1,1,,0,7.1,
-96,105,16,Sharon Small,18940,Jack McElhone,http://www.imdb.com/title/tt0377752/?ref_=fn_tt_tt_1,182,PG-13,66,7.8,1.85
-8,89,413,Gary Farmer,436,Stephen McHattie,http://www.imdb.com/title/tt0903131/?ref_=fn_tt_tt_1,8,R,580,5.3,2.35
-87,100,9,Jacques Gamblin,6304,Zinedine Soualem,http://www.imdb.com/title/tt1646974/?ref_=fn_tt_tt_1,21,R,52,7.2,1.85
-10,92,140,Douglas Smith,421,Kim Ly,http://www.imdb.com/title/tt2091427/?ref_=fn_tt_tt_1,3,,480,6.2,
-121,97,577,Elena Anaya,8867,Stephen Dillane,http://www.imdb.com/title/tt0379976/?ref_=fn_tt_tt_1,65,Not Rated,1000,5.9,1.85
-43,100,3,Matthew Sunderland,2776,Paul Glover,http://www.imdb.com/title/tt0839938/?ref_=fn_tt_tt_1,22,,10,7.3,1.85
-45,96,542,Bubba Smith,87739,Michael Winslow,http://www.imdb.com/title/tt0087928/?ref_=fn_tt_tt_1,133,R,760,6.7,1.85
-36,104,83,Christopher Atkins,50125,Leo McKern,http://www.imdb.com/title/tt0080453/?ref_=fn_tt_tt_1,140,R,511,5.7,1.85
-84,117,239,James Fleet,107923,Simon Callow,http://www.imdb.com/title/tt0109831/?ref_=fn_tt_tt_1,197,R,398,7.1,1.66
-118,90,811,Judge Reinhold,71217,Vincent Schiavelli,http://www.imdb.com/title/tt0083929/?ref_=fn_tt_tt_1,228,X,901,7.2,1.85
-42,115,68,Richard Basehart,13474,James Robertson Justice,http://www.imdb.com/title/tt0049513/?ref_=fn_tt_tt_1,115,Unrated,169,7.4,1.66
-202,108,346,Rosario Dawson,149528,Aaron Stanford,http://www.imdb.com/title/tt0307901/?ref_=fn_tt_tt_1,454,R,3000,7.7,2.35
-5,43,298,Indiana Evans,6762,KaDee Strickland,http://www.imdb.com/title/tt3516878/?ref_=fn_tt_tt_1,27,,560,7.7,16.0
-120,109,126,Kevin Michael Richardson,41138,Peter Spellos,http://www.imdb.com/title/tt0115736/?ref_=fn_tt_tt_1,208,R,441,7.4,1.85
-234,102,167,Mark Margolis,573541,Louise Lasser,http://www.imdb.com/title/tt0180093/?ref_=fn_tt_tt_1,1916,R,1000,8.4,1.37
-17,100,37,Jeanne Crain,2756,Frank McHugh,http://www.imdb.com/title/tt0038116/?ref_=fn_tt_tt_1,55,Approved,135,7.1,1.37
-35,115,4,Juan Luis Galiardo,2412,Miguel Ángel Solá,http://www.imdb.com/title/tt0120274/?ref_=fn_tt_tt_1,40,PG-13,26,7.2,2.0
-48,122,491,John Savage,15175,Juan Fernández,http://www.imdb.com/title/tt0091886/?ref_=fn_tt_tt_1,89,R,652,7.5,1.85
-49,98,402,Sarah Drew,10483,Patricia Heaton,http://www.imdb.com/title/tt3014666/?ref_=fn_tt_tt_1,125,PG,416,5.4,2.35
-283,133,701,Mary McDonnell,580999,James Duval,http://www.imdb.com/title/tt0246578/?ref_=fn_tt_tt_1,2110,R,933,8.1,2.35
-16,105,122,Gerardo Taracena,1592,Joaquín Cosio,http://www.imdb.com/title/tt0461336/?ref_=fn_tt_tt_1,14,PG-13,154,6.0,2.35
-54,122,3,Fedja van Huêt,9171,Hans Kesting,http://www.imdb.com/title/tt0119448/?ref_=fn_tt_tt_1,68,R,20,7.8,1.85
-92,106,391,Nicholas Gonzalez,32357,Debbie Harry,http://www.imdb.com/title/tt0283003/?ref_=fn_tt_tt_1,199,R,601,6.8,1.85
-159,98,844,Shirley Henderson,5465,Charlotte Rampling,http://www.imdb.com/title/tt0808526/?ref_=fn_tt_tt_1,37,R,887,6.5,1.85
-202,112,38,Yeong-ae Lee,53508,Hye-jeong Kang,http://www.imdb.com/title/tt0451094/?ref_=fn_tt_tt_1,131,R,126,7.7,2.35
-50,120,9,Clovis Fouin,1213,Marie Féret,http://www.imdb.com/title/tt1653911/?ref_=fn_tt_tt_1,17,,12,6.4,1.85
-54,99,798,Jason Flemyng,29463,Danny Dyer,http://www.imdb.com/title/tt0291341/?ref_=fn_tt_tt_1,84,R,1000,6.5,1.85
-98,110,76,Anthony Chau-Sang Wong,6919,Josie Ho,http://www.imdb.com/title/tt0796212/?ref_=fn_tt_tt_1,26,R,96,7.3,2.35
-92,102,327,Dominique McElligott,7390,Stephen Rea,http://www.imdb.com/title/tt1629705/?ref_=fn_tt_tt_1,40,R,356,6.6,2.35
-112,109,0,Artyom Bogucharskiy,35464,Lyubov Agapova,http://www.imdb.com/title/tt0300140/?ref_=fn_tt_tt_1,206,R,2,7.9,1.85
-138,104,329,Josh Charles,30836,Chandler Canterbury,http://www.imdb.com/title/tt0838247/?ref_=fn_tt_tt_1,137,R,1000,5.9,2.35
-9,134,62,Sana Saeed,781,Dimple Kapadia,http://www.imdb.com/title/tt3683702/?ref_=fn_tt_tt_1,7,,82,4.7,
-149,133,425,Michael Berryman,680041,Louise Fletcher,http://www.imdb.com/title/tt0073486/?ref_=fn_tt_tt_1,760,R,721,8.7,1.85
-5,85,212,Dove Cameron,917,Braeden Lemasters,http://www.imdb.com/title/tt4386242/?ref_=fn_tt_tt_1,4,PG,570,5.9,1.78
-39,87,753,Dom DeLuise,12666,Bernadette Peters,http://www.imdb.com/title/tt0075222/?ref_=fn_tt_tt_1,61,PG,842,6.7,1.85
-39,130,12,Sameer Ali Khan,30977,Purab Kohli,http://www.imdb.com/title/tt4387040/?ref_=fn_tt_tt_1,178,,26,8.5,2.35
-2,199,505,Jonathan Crombie,14251,Megan Follows,http://www.imdb.com/title/tt0088727/?ref_=fn_tt_tt_1,74,TV-G,517,8.4,1.33
-29,103,261,Michael J. Morris,4952,Lateef Crowder,http://www.imdb.com/title/tt2295722/?ref_=fn_tt_tt_1,32,R,298,5.8,
-111,112,422,Ray Winstone,16445,Alan Ford,http://www.imdb.com/title/tt0857190/?ref_=fn_tt_tt_1,99,R,1000,6.1,2.35
-149,89,100,James Fox,43135,Amanda Redman,http://www.imdb.com/title/tt0203119/?ref_=fn_tt_tt_1,346,R,146,7.3,2.35
-90,124,93,Fares Fares,13443,Matias Varela,http://www.imdb.com/title/tt1291652/?ref_=fn_tt_tt_1,25,R,254,6.7,2.35
-149,101,8,Rawiri Paratene,34232,Tammy Davis,http://www.imdb.com/title/tt0298228/?ref_=fn_tt_tt_1,346,PG-13,20,7.6,2.35
-12,133,106,Abhishek Bachchan,7295,Paresh Rawal,http://www.imdb.com/title/tt1532957/?ref_=fn_tt_tt_1,49,,374,7.2,2.35
-64,112,7,Claude-Oliver Rudolph,15780,Anna Katharina Schwabroh,http://www.imdb.com/title/tt0381940/?ref_=fn_tt_tt_1,62,,9,6.2,2.35
-256,111,394,Cara Delevingne,39975,Nonso Anozie,http://www.imdb.com/title/tt3332064/?ref_=fn_tt_tt_1,186,PG,559,5.8,2.35
-57,98,578,Corbin Bleu,59254,Olesya Rulin,http://www.imdb.com/title/tt0475293/?ref_=fn_tt_tt_1,726,TV-G,632,5.2,1.33
-8,60,551,Daniella Alonso,3673,Ellen Barkin,http://www.imdb.com/title/tt5574490/?ref_=fn_tt_tt_1,23,,557,8.1,16.0
-50,93,130,Maury Chaykin,3407,Danny Webb,http://www.imdb.com/title/tt0119574/?ref_=fn_tt_tt_1,48,PG-13,232,7.1,1.85
-232,104,16,Aleksey Chadov,47097,Zhanna Friske,http://www.imdb.com/title/tt0403358/?ref_=fn_tt_tt_1,310,R,28,6.5,1.85
-63,112,327,Miranda Richardson,41361,Stephen Rea,http://www.imdb.com/title/tt0104036/?ref_=fn_tt_tt_1,148,R,530,7.3,2.35
-75,94,95,Susan Clark,31260,Tony Ganios,http://www.imdb.com/title/tt0084522/?ref_=fn_tt_tt_1,152,R,95,6.2,1.85
-274,90,231,Shawn Roberts,17478,Kathleen Munroe,http://www.imdb.com/title/tt1134854/?ref_=fn_tt_tt_1,159,R,529,5.0,2.35
-284,96,56,Duane Jones,87978,S. William Hinzman,http://www.imdb.com/title/tt0063350/?ref_=fn_tt_tt_1,580,Unrated,108,8.0,1.85
-265,101,11,Bill Murray,321283,Catherine Lambert,http://www.imdb.com/title/tt0335266/?ref_=fn_tt_tt_1,1848,R,13000,7.8,1.85
-154,93,629,Carol Kane,192940,Shelley Duvall,http://www.imdb.com/title/tt0075686/?ref_=fn_tt_tt_1,491,PG,636,8.1,1.37
-44,152,132,Dorothy Lamour,9456,Cornel Wilde,http://www.imdb.com/title/tt0044672/?ref_=fn_tt_tt_1,107,Not Rated,178,6.7,1.37
-314,150,748,María Valverde,128694,Ben Mendelsohn,http://www.imdb.com/title/tt1528100/?ref_=fn_tt_tt_1,657,PG-13,892,6.1,2.35
-153,112,80,Peter Boyle,71495,Marcus Lyle Brown,http://www.imdb.com/title/tt0285742/?ref_=fn_tt_tt_1,522,R,595,7.1,2.35
-256,95,428,J.D. Evermore,30219,David A Cole,http://www.imdb.com/title/tt1881002/?ref_=fn_tt_tt_1,200,PG-13,430,5.6,2.35
-123,111,687,Valeria Golino,93894,Julian Sands,http://www.imdb.com/title/tt0113627/?ref_=fn_tt_tt_1,286,R,898,7.6,1.66
-46,86,555,Lara Flynn Boyle,2806,Lochlyn Munro,http://www.imdb.com/title/tt2081194/?ref_=fn_tt_tt_1,11,,619,4.3,1.78
-203,108,358,Clu Gulager,39857,Beverly Randolph,http://www.imdb.com/title/tt0089907/?ref_=fn_tt_tt_1,300,R,426,7.3,1.85
-34,105,116,Harold Gould,9007,David Wayne,http://www.imdb.com/title/tt0071524/?ref_=fn_tt_tt_1,50,PG,222,7.3,2.35
-149,91,326,Hill Harper,27198,Adam Hicks,http://www.imdb.com/title/tt3181822/?ref_=fn_tt_tt_1,131,R,465,4.6,2.35
-20,105,69,Katy Jurado,3102,Sidney James,http://www.imdb.com/title/tt0049875/?ref_=fn_tt_tt_1,35,Approved,119,6.8,2.35
-9,60,904,Dylan Minnette,3852,Bokeem Woodbine,http://www.imdb.com/title/tt0830900/?ref_=fn_tt_tt_1,47,TV-MA,1000,7.5,1.78
-323,106,712,Mia Wasikowska,110616,Yaya DaCosta,http://www.imdb.com/title/tt0842926/?ref_=fn_tt_tt_1,291,R,3000,7.1,1.85
-172,93,133,Peter Jason,73501,George 'Buck' Flower,http://www.imdb.com/title/tt0096256/?ref_=fn_tt_tt_1,333,R,151,7.3,2.35
-111,172,145,Donald Pleasence,165638,Gordon Jackson,http://www.imdb.com/title/tt0057115/?ref_=fn_tt_tt_1,301,Approved,742,8.3,2.35
-74,109,428,Elaine Hendrix,12059,Armin Shimerman,http://www.imdb.com/title/tt0399877/?ref_=fn_tt_tt_1,486,Unrated,670,5.4,1.85
-161,93,400,Spencer Treat Clark,13506,Ashley Bell,http://www.imdb.com/title/tt2034139/?ref_=fn_tt_tt_1,68,PG-13,541,4.0,2.35
-548,165,127,Lorelei Linklater,266020,Libby Villari,http://www.imdb.com/title/tt1065073/?ref_=fn_tt_tt_1,836,R,193,8.0,1.85
-177,96,405,Kevin McNally,66840,Geoff Bell,http://www.imdb.com/title/tt0457513/?ref_=fn_tt_tt_1,248,PG-13,427,6.7,1.85
-230,119,567,Estella Warren,177729,Erick Avari,http://www.imdb.com/title/tt0133152/?ref_=fn_tt_tt_1,1368,PG-13,658,5.7,2.35
-27,93,69,Dr. Dre,5612,DJ Pooh,http://www.imdb.com/title/tt0290332/?ref_=fn_tt_tt_1,38,R,231,4.6,1.85
-22,82,585,Mike Epps,1415,Faizon Love,http://www.imdb.com/title/tt0199290/?ref_=fn_tt_tt_1,10,R,706,4.0,1.85
-157,101,407,Paul Sorvino,28714,Shawn Hatosy,http://www.imdb.com/title/tt0318374/?ref_=fn_tt_tt_1,215,R,636,7.0,2.35
-70,120,268,Kevin McCarthy,12981,Thelma Ritter,http://www.imdb.com/title/tt0055184/?ref_=fn_tt_tt_1,121,Approved,403,7.4,1.66
-125,81,710,Joe Morton,13086,Rory Culkin,http://www.imdb.com/title/tt0448075/?ref_=fn_tt_tt_1,156,R,780,5.9,1.85
-10,82,27,William Hickey,2129,Peter Appel,http://www.imdb.com/title/tt0110189/?ref_=fn_tt_tt_1,37,R,246,4.6,1.85
-160,107,255,Emily Meade,16411,Zena Grey,http://www.imdb.com/title/tt0872230/?ref_=fn_tt_tt_1,136,R,374,4.8,2.35
-300,105,143,Belén Rueda,120189,Fernando Cayo,http://www.imdb.com/title/tt0464141/?ref_=fn_tt_tt_1,308,R,273,7.5,2.35
-69,86,511,Essence Atkins,14621,Gabriel Iglesias,http://www.imdb.com/title/tt2828996/?ref_=fn_tt_tt_1,48,R,713,4.7,1.85
-143,110,968,Faye Dunaway,44339,Clifton Collins Jr.,http://www.imdb.com/title/tt0292644/?ref_=fn_tt_tt_1,425,R,977,6.7,1.85
-50,127,148,John Vernon,12677,Philippe Noiret,http://www.imdb.com/title/tt0065112/?ref_=fn_tt_tt_1,89,M,187,6.3,1.85
-46,90,242,Chi McBride,19622,Amy Hill,http://www.imdb.com/title/tt0454987/?ref_=fn_tt_tt_1,58,R,466,6.0,1.85
-51,110,960,Alicia Witt,78241,Lili Taylor,http://www.imdb.com/title/tt0113101/?ref_=fn_tt_tt_1,177,R,975,6.7,1.85
-163,104,296,Stephen McHattie,67949,Lesley Ann Warren,http://www.imdb.com/title/tt0274812/?ref_=fn_tt_tt_1,390,R,413,7.1,1.85
-52,96,0,Alan Taylor,3611,Benjamin Fletcher,http://www.imdb.com/title/tt0360916/?ref_=fn_tt_tt_1,62,R,12,2.7,1.85
-40,110,237,Zach Grenier,10073,Bill Johnson,http://www.imdb.com/title/tt0096219/?ref_=fn_tt_tt_1,78,R,246,7.3,1.85
-50,84,611,Fred Willard,22697,Larry Miller,http://www.imdb.com/title/tt0118111/?ref_=fn_tt_tt_1,202,R,729,7.6,1.85
-45,94,545,Tyra Banks,4377,Bridgette Wilson-Sampras,http://www.imdb.com/title/tt0188863/?ref_=fn_tt_tt_1,85,R,625,5.8,1.85
-121,93,90,Aaron Hughes,16224,Jayne Eastwood,http://www.imdb.com/title/tt0796375/?ref_=fn_tt_tt_1,76,R,113,6.5,2.55
-114,96,71,Lou Taylor Pucci,18762,Nancy O'Dell,http://www.imdb.com/title/tt0318761/?ref_=fn_tt_tt_1,91,R,394,6.6,2.35
-270,88,939,Michael Angarano,53342,Stephen Root,http://www.imdb.com/title/tt0873886/?ref_=fn_tt_tt_1,287,R,947,6.2,1.85
-116,101,161,Gina McKee,20275,Rob Brydon,http://www.imdb.com/title/tt0366780/?ref_=fn_tt_tt_1,151,PG,291,6.9,1.85
-115,102,0,Balinese Tari Legong Dancers,22457,Puti Sri Candra Dewi,http://www.imdb.com/title/tt0770802/?ref_=fn_tt_tt_1,69,PG-13,0,8.5,2.35
-15,87,324,Eva LaRue,2308,Richard Lynch,http://www.imdb.com/title/tt0092615/?ref_=fn_tt_tt_1,35,R,576,4.8,1.85
-122,83,322,Blair Underwood,45293,Rita Wilson,http://www.imdb.com/title/tt1645080/?ref_=fn_tt_tt_1,71,PG-13,685,6.6,2.35
-35,103,842,Alexandra Breckenridge,4091,Elena Satine,http://www.imdb.com/title/tt3346224/?ref_=fn_tt_tt_1,20,R,1000,5.7,2.35
-41,99,444,Ricky Schroder,8535,Ernie Reyes Jr.,http://www.imdb.com/title/tt0273982/?ref_=fn_tt_tt_1,113,R,665,7.0,1.85
-31,106,687,Saffron Burrows,2877,Julian Sands,http://www.imdb.com/title/tt0126859/?ref_=fn_tt_tt_1,70,R,811,5.4,1.78
-332,115,226,Leos Carax,29440,Denis Lavant,http://www.imdb.com/title/tt2076220/?ref_=fn_tt_tt_1,110,Not Rated,227,7.1,1.85
-232,117,221,Tye Sheridan,36494,Ronnie Gene Blevins,http://www.imdb.com/title/tt2382396/?ref_=fn_tt_tt_1,118,R,1000,6.9,2.35
-43,99,159,Dan Futterman,6705,Ralph Ineson,http://www.imdb.com/title/tt0120122/?ref_=fn_tt_tt_1,53,PG,254,6.6,2.35
-68,102,195,Lane Smith,2705,Hal Landon Jr.,http://www.imdb.com/title/tt0095904/?ref_=fn_tt_tt_1,38,R,633,5.9,1.85
-51,85,209,Kathleen Robertson,4617,Beth Broderick,http://www.imdb.com/title/tt0206226/?ref_=fn_tt_tt_1,93,Unrated,774,6.3,1.85
-33,86,428,Frances Fisher,2133,Mary McCormack,http://www.imdb.com/title/tt0156639/?ref_=fn_tt_tt_1,31,R,638,6.3,1.85
-26,120,69,Adriana Barraza,2112,Arcelia Ramírez,http://www.imdb.com/title/tt2876428/?ref_=fn_tt_tt_1,7,PG-13,85,7.7,2.35
-109,106,67,Jordan Trovillion,34224,Zoe Levin,http://www.imdb.com/title/tt1529572/?ref_=fn_tt_tt_1,137,R,163,7.0,2.35
-34,103,70,Brían F. O'Byrne,1398,Pauline McLynn,http://www.imdb.com/title/tt0218182/?ref_=fn_tt_tt_1,26,R,450,6.3,1.85
-31,93,15,Alan Williams,811,Rob Jarvis,http://www.imdb.com/title/tt0122906/?ref_=fn_tt_tt_1,26,R,29,5.9,
-141,112,748,Naomi Watts,23334,Ben Mendelsohn,http://www.imdb.com/title/tt2103267/?ref_=fn_tt_tt_1,87,R,6000,6.2,2.35
-19,100,476,Danny Arroyo,1555,Olivia d'Abo,http://www.imdb.com/title/tt0120878/?ref_=fn_tt_tt_1,40,R,575,5.0,2.35
-64,113,9,Enrique Villén,9913,Aida Folch,http://www.imdb.com/title/tt0319769/?ref_=fn_tt_tt_1,38,R,27,7.7,1.85
-215,98,65,Michael Cerveris,34263,Nick Damici,http://www.imdb.com/title/tt1464580/?ref_=fn_tt_tt_1,141,R,238,6.5,2.35
-5,23,218,Tiffany Thornton,7673,Brandon Mychal Smith,http://www.imdb.com/title/tt1252374/?ref_=fn_tt_tt_1,47,TV-G,248,6.1,1.33
-12,92,599,Marg Helgenberger,1686,Gretchen Mol,http://www.imdb.com/title/tt0119502/?ref_=fn_tt_tt_1,28,R,759,5.8,1.85
-70,106,9,Clemens Schick,1738,Jesuíta Barbosa,http://www.imdb.com/title/tt2199543/?ref_=fn_tt_tt_1,10,Unrated,29,6.1,2.35
-46,119,2000,Ezra Miller,3297,Demi Moore,http://www.imdb.com/title/tt1719071/?ref_=fn_tt_tt_1,42,R,3000,6.0,2.35
-135,99,641,Eamonn Walker,22220,Sean Harris,http://www.imdb.com/title/tt1422136/?ref_=fn_tt_tt_1,97,R,706,6.3,2.35
-38,90,150,Angelo Tsarouchas,5137,Marie-Josée Croze,http://www.imdb.com/title/tt0298482/?ref_=fn_tt_tt_1,50,R,246,6.3,2.35
-8,120,22,Elena Lyadova,2488,Eugenia Khirivskaya,http://www.imdb.com/title/tt3155604/?ref_=fn_tt_tt_1,3,,45,7.5,
-34,168,69,Ken Howard,6303,Howard Caine,http://www.imdb.com/title/tt0068156/?ref_=fn_tt_tt_1,129,PG,649,7.6,2.35
-36,93,5,Bonnie Lee Bouman,2086,Fadia Nadda,http://www.imdb.com/title/tt1844203/?ref_=fn_tt_tt_1,20,R,11,5.2,2.35
-35,96,4,Marian Marsh,3753,James Hall,http://www.imdb.com/title/tt0020960/?ref_=fn_tt_tt_1,53,Passed,12,7.8,1.2
-6,103,183,Rosemarie DeWitt,2727,Peter Jacobson,http://www.imdb.com/title/tt0491109/?ref_=fn_tt_tt_1,19,,536,6.6,1.85
-39,93,359,Shannon Woodward,4146,Kira McLean,http://www.imdb.com/title/tt3533916/?ref_=fn_tt_tt_1,29,R,637,4.7,2.35
-182,84,35,Jessica McNamee,27781,Victoria Thaine,http://www.imdb.com/title/tt1316536/?ref_=fn_tt_tt_1,104,R,129,6.7,2.35
-14,81,104,Rachel Sterling,1561,Black Thomas,http://www.imdb.com/title/tt1854582/?ref_=fn_tt_tt_1,21,R,134,4.2,
-3,84,271,Gina Holden,1929,Brooke D'Orsay,http://www.imdb.com/title/tt2395247/?ref_=fn_tt_tt_1,4,TV-G,346,6.3,1.78
-3,94,111,Cheryl Ladd,724,Diana Vickers,http://www.imdb.com/title/tt2414822/?ref_=fn_tt_tt_1,15,PG,476,4.7,
-1,141,635,Ayelet Zurer,67,Moises Arias,http://www.imdb.com/title/tt2638144/?ref_=fn_tt_tt_1,1,PG-13,744,6.0,2.35
-62,120,94,Susannah York,23713,Paul Scofield,http://www.imdb.com/title/tt0060665/?ref_=fn_tt_tt_1,167,Approved,269,7.9,1.66
-161,121,682,Faye Dunaway,103493,William Holden,http://www.imdb.com/title/tt0074958/?ref_=fn_tt_tt_1,317,R,977,8.1,1.85
-157,226,248,George Reeves,215340,Thomas Mitchell,http://www.imdb.com/title/tt0031381/?ref_=fn_tt_tt_1,706,G,384,8.2,1.37
-31,104,196,Reece Ritchie,1177,Marama Corlett,http://www.imdb.com/title/tt2403393/?ref_=fn_tt_tt_1,10,PG-13,236,6.0,2.35
-53,152,288,Slim Pickens,5294,Warren Oates,http://www.imdb.com/title/tt0059418/?ref_=fn_tt_tt_1,67,Approved,575,6.8,2.35
-1,92,601,Laz Alonso,257,Nicholas Gonzalez,http://www.imdb.com/title/tt1056477/?ref_=fn_tt_tt_1,6,R,826,7.3,1.85
-21,107,83,Howard Keel,3167,Betty Hutton,http://www.imdb.com/title/tt0042200/?ref_=fn_tt_tt_1,90,Passed,244,7.0,1.37
-246,97,106,Riz Ahmed,55982,Alex Macqueen,http://www.imdb.com/title/tt1341167/?ref_=fn_tt_tt_1,148,R,365,7.3,1.85
-42,115,24,Seu Jorge,2650,Fernanda Torres,http://www.imdb.com/title/tt0373747/?ref_=fn_tt_tt_1,35,R,69,7.5,2.35
-78,95,388,Tony Nappo,31836,Charlotte Sullivan,http://www.imdb.com/title/tt1303828/?ref_=fn_tt_tt_1,90,R,654,6.8,2.35
-41,102,48,Reginald Owen,3258,Ellen Ross,http://www.imdb.com/title/tt0040694/?ref_=fn_tt_tt_1,54,Approved,78,7.1,1.37
-61,99,64,Susan Blommaert,3579,Stephen Henderson,http://www.imdb.com/title/tt0808285/?ref_=fn_tt_tt_1,14,R,64,6.9,2.35
-112,109,480,Russell Tovey,17770,James Corden,http://www.imdb.com/title/tt0464049/?ref_=fn_tt_tt_1,172,R,796,6.9,1.85
-349,113,767,Frank Langella,210548,Aidan Quinn,http://www.imdb.com/title/tt1401152/?ref_=fn_tt_tt_1,332,PG-13,902,6.9,2.35
-55,25,395,Jamie Farr,36265,Mike Farrell,http://www.imdb.com/title/tt0068098/?ref_=fn_tt_tt_1,147,TV-PG,421,8.4,4.0
-88,113,77,Barnard Hughes,76616,John McGiver,http://www.imdb.com/title/tt0064665/?ref_=fn_tt_tt_1,334,X,89,7.9,1.85
-122,91,121,Mark Addy,82232,Lesley Sharp,http://www.imdb.com/title/tt0119164/?ref_=fn_tt_tt_1,174,R,891,7.2,1.85
-134,88,318,Lloyd Bridges,160281,Barbara Billingsley,http://www.imdb.com/title/tt0080339/?ref_=fn_tt_tt_1,427,PG,575,7.8,1.85
-11,88,6,Max Ryan,801,Jon Osbeck,http://www.imdb.com/title/tt4340720/?ref_=fn_tt_tt_1,14,R,872,3.5,1.33
-20,97,624,John Witherspoon,74626,Tony Cox,http://www.imdb.com/title/tt0113118/?ref_=fn_tt_tt_1,157,R,723,7.3,1.85
-28,97,556,Larenz Tate,39508,Khandi Alexander,http://www.imdb.com/title/tt0107554/?ref_=fn_tt_tt_1,96,R,582,7.5,1.85
-22,42,496,Gabourey Sidibe,27418,Malik Yoba,http://www.imdb.com/title/tt3228904/?ref_=fn_tt_tt_1,92,TV-14,906,7.8,16.0
-95,85,178,Holt McCallany,15956,Dorothy Lamour,http://www.imdb.com/title/tt0092796/?ref_=fn_tt_tt_1,118,R,273,6.0,1.85
-31,121,242,Jason Robards,6350,L.Q. Jones,http://www.imdb.com/title/tt0065446/?ref_=fn_tt_tt_1,62,R,372,7.3,1.85
-79,134,188,Robert Blake,19026,Will Geer,http://www.imdb.com/title/tt0061809/?ref_=fn_tt_tt_1,128,Approved,220,8.0,2.35
-25,149,75,Peter Finch,7071,Beatrice Straight,http://www.imdb.com/title/tt0053131/?ref_=fn_tt_tt_1,83,Not Rated,139,7.6,1.78
-22,121,367,Robert Wagner,5941,Shelley Winters,http://www.imdb.com/title/tt0060490/?ref_=fn_tt_tt_1,74,Not Rated,481,7.0,2.35
-110,116,118,Jean Marsh,30982,Clive Swift,http://www.imdb.com/title/tt0068611/?ref_=fn_tt_tt_1,199,R,146,7.5,1.85
-425,92,159,Kate Dickie,66483,Ralph Ineson,http://www.imdb.com/title/tt4263482/?ref_=fn_tt_tt_1,452,R,191,6.8,1.66
-19,93,78,Master P,1721,Anthony Johnson,http://www.imdb.com/title/tt0131436/?ref_=fn_tt_tt_1,38,R,118,3.9,1.85
-43,96,111,Frank Vincent,13949,Michael McGlone,http://www.imdb.com/title/tt0117628/?ref_=fn_tt_tt_1,98,R,356,6.1,1.85
-127,105,248,Lynn Redgrave,24977,Kevin J. O'Connor,http://www.imdb.com/title/tt0120684/?ref_=fn_tt_tt_1,229,R,258,7.5,2.35
-262,129,50,Soledad Villamil,131831,Guillermo Francella,http://www.imdb.com/title/tt1305806/?ref_=fn_tt_tt_1,231,R,88,8.2,2.35
-184,87,83,John Amplas,49672,Joseph Pilato,http://www.imdb.com/title/tt0088993/?ref_=fn_tt_tt_1,419,Unrated,177,7.2,1.85
-33,94,108,Gloria Votsis,4790,Derek Magyar,http://www.imdb.com/title/tt1015474/?ref_=fn_tt_tt_1,52,R,209,4.8,1.85
-252,37,199,Dan Hicks,113451,Kassie Wesley DePaiva,http://www.imdb.com/title/tt0092991/?ref_=fn_tt_tt_1,537,X,328,7.8,1.85
-31,81,542,J.B. Smoove,11399,Robert Vaughn,http://www.imdb.com/title/tt0258038/?ref_=fn_tt_tt_1,131,PG-13,555,5.2,1.85
-139,97,689,John Heard,34532,Cassandra Scerbo,http://www.imdb.com/title/tt2724064/?ref_=fn_tt_tt_1,236,TV-14,697,3.3,1.78
-39,106,10,Zaide Silvia Gutiérrez,1024,Damián Delgado,http://www.imdb.com/title/tt0175996/?ref_=fn_tt_tt_1,494,R,16,6.8,1.85
-337,103,4,Johanna Mørck,54104,Glenn Erland Tosterud,http://www.imdb.com/title/tt1740707/?ref_=fn_tt_tt_1,199,PG-13,4,7.0,1.85
-30,101,681,Fred Willard,1950,Kevin Sussman,http://www.imdb.com/title/tt0480251/?ref_=fn_tt_tt_1,24,R,729,6.5,1.85
-265,102,536,Nicholas Braun,104072,Rosemarie DeWitt,http://www.imdb.com/title/tt1298649/?ref_=fn_tt_tt_1,207,R,591,5.7,2.35
-50,98,405,Will Ferrell,7228,Dallas Roberts,http://www.imdb.com/title/tt0380817/?ref_=fn_tt_tt_1,53,R,8000,6.4,1.85
-50,91,660,Geoff Stults,12188,Scoot McNairy,http://www.imdb.com/title/tt0367631/?ref_=fn_tt_tt_1,135,PG-13,756,5.3,2.35
-9,105,131,Mykel Shannon Jenkins,342,Lara Jean Chorostecki,http://www.imdb.com/title/tt3103166/?ref_=fn_tt_tt_1,15,PG-13,294,4.7,1.85
-15,98,31,Christian Campbell,1634,Blaine Anderson,http://www.imdb.com/title/tt1074191/?ref_=fn_tt_tt_1,11,,168,6.1,1.85
+director_name,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,plot_keywords,language,country,budget,title_year,imdb_score,aspect_ratio,movie_facebook_likes
+Jon Cassar,90,78,720,Landon Liboiron,2000,Drama|Western,Demi Moore,Forsaken ,4693,4142,1,,English,Canada,11000000,2015,6.3,2.35,0
+Richard Fleischer,89,130,183,Brigitte Nielsen,444,Action|Adventure|Fantasy,Ernie Reyes Jr.,Red Sonja ,30215,1243,1,cult film|psychotronic|sword and sorcery|talisman|warrior,English,Netherlands,17900000,1985,5.0,2.35,0
+Rodrigo Cortés,114,89,920,Toby Jones,22000,Drama|Horror|Mystery|Thriller,Robert De Niro,Red Lights ,48162,25804,2,fraud|physicist|psychic|skeptic|tailing,English,Spain,14000000,2012,6.2,2.35,10000
+Greg Mottola,119,99,778,Joe Lo Truglio,15000,Comedy,Emma Stone,Superbad ,422606,17584,2,black comedy|bromance|party|school|teen comedy,English,USA,20000000,2007,7.6,1.85,0
+Tyler Perry,103,0,543,Keshia Knight Pulliam,923,Comedy|Crime|Drama,Vanessa Ferlito,Madea Goes to Jail ,9544,3699,0,adaptation directed by original author|cross dressing|madea series|remake|sequel,English,USA,,2009,4.1,1.85,804
+David Hayter,91,512,413,Jennifer Hale,11000,Action|Horror,Jason Momoa,Wolves ,5693,13545,2,bar|female nudity|murder|small town|werewolf,English,France,18000000,2014,5.3,2.35,0
+Jon M. Chu,98,209,129,Mari Koda,158,Drama|Music|Musical|Romance,Cassie Ventura,Step Up 2: The Streets ,67653,816,2,audition|dance|kissing in the rain|student|subway,English,USA,23000000,2008,6.2,1.85,0
+Cory Edwards,80,19,854,Chazz Palminteri,11000,Action|Animation|Comedy|Crime|Family,Anne Hathaway,Hoodwinked! ,45900,14385,1,animal|axe|red riding hood|wolf|woodsman,English,USA,17500000,2005,6.5,1.85,0
+Terry George,121,83,242,Sophie Okonedo,3000,Drama|History|War,Don Cheadle,Hotel Rwanda ,264533,4142,1,atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,English,UK,17500000,2004,8.1,2.35,12000
+Xavier Gens,94,87,280,Dougray Scott,866,Action|Crime|Drama|Thriller,Henry Ian Cusick,Hitman ,140780,2124,1,hitman|impersonation|see through dress|topless female nudity|woman on top,English,France,24000000,2007,6.3,2.35,0
+Kasi Lemmons,93,148,170,Mary J. Blige,549,Drama|Family|Music|Musical,Jennifer Hudson,Black Nativity ,1633,1373,5,based on stage musical|based on the bible|christmas|color in title|nativity,English,USA,17500000,2013,4.4,2.35,0
+Brian A Miller,93,32,1000,50 Cent,13000,Action|Thriller,Bruce Willis,The Prince ,13133,16735,4,assassin|fight|mechanic|rescue|rival,English,USA,18000000,2014,4.6,2.35,0
+Matt Dillon,116,0,50,Shawn Andrews,109,Crime|Drama|Thriller,Kirk Fox,City of Ghosts ,4387,245,0,bag over head|buddhist temple|loss of friend|male bonding|nightclub,English,USA,17500000,2002,6.0,1.85,204
+Alejandro Amenábar,101,448,83,Elaine Cassidy,482,Fantasy|Horror|Thriller,Fionnula Flanagan,The Others ,268581,956,0,curtain|haunting|mansion|mute|xeroderma pigmentosum,English,USA,17000000,2001,7.6,1.85,20000
+James Cameron,154,0,604,Carrie Henn,2000,Action|Adventure|Sci-Fi,Michael Biehn,Aliens ,488537,4228,1,alien|human versus alien|monster|rescue mission|space marine,English,USA,18500000,1986,8.4,1.85,18000
+George Cukor,170,165,244,Rex Harrison,453,Drama|Family|Musical|Romance,Jeremy Brett,My Fair Lady ,66959,1164,1,colonel|flower girl|professor|street|wager,English,USA,17000000,1964,7.9,2.2,0
+Jim Gillespie,99,13,681,Sarah Michelle Gellar,45000,Horror|Mystery|Thriller,Muse Watson,I Know What You Did Last Summer ,105585,50284,1,beach|corpse|fourth of july|overalls|revenge,English,USA,17000000,1997,5.6,2.35,0
+Luke Greenfield,104,42,613,Damon Wayans Jr.,839,Comedy,Rob Riggle,Let's Be Cops ,106820,3627,1,friendship between men|impersonating a police officer|mobster|party|police officer,English,USA,17000000,2014,6.5,1.85,14000
+Alexander Payne,126,729,284,Patrick Gallagher,912,Adventure|Comedy|Drama|Romance,Virginia Madsen,Sideways ,149966,2170,0,actor|california|teacher|wine|writer,English,USA,12000000,2004,7.5,1.85,0
+Jay Chandrasekhar,110,422,422,Owain Yeoman,33000,Comedy,Chris Moss,Beerfest ,54710,35345,2,beer|competition|germany|oktoberfest|prostitute,English,USA,17500000,2006,6.3,2.35,0
+John Carpenter,101,0,598,Donald Pleasence,2000,Horror|Thriller,Jamie Lee Curtis,Halloween ,157857,4400,0,halloween|masked killer|michael myers|slasher|trick or treat,English,USA,300000,1978,7.9,2.35,12000
+Yimou Zhang,80,611,576,Tony Chiu Wai Leung,5000,Action|Adventure|History,Jet Li,Hero ,149414,6229,4,china|flying|king|palace|sword,Mandarin,China,31000000,2002,7.9,2.35,0
+John Hoffman,87,9,503,Molly Shannon,818,Comedy|Drama|Family|Fantasy|Sci-Fi,Liam Aiken,Good Boy! ,3407,2164,1,dog|friend|neighborhood|planet|star,English,USA,17000000,2003,5.1,1.85,309
+Malcolm D. Lee,123,92,849,Sanaa Lathan,1000,Comedy|Drama,Harold Perrineau,The Best Man Holiday ,11600,5306,5,childbirth|christmas|gay slur|infidelity|punched in the nose,English,USA,17000000,2013,6.7,2.35,7000
+Joe Carnahan,109,248,968,Common,16000,Action|Crime|Drama|Thriller,Ryan Reynolds,Smokin' Aces ,121058,19410,0,casino|fbi|mafia|mob hit|sniper,English,UK,17000000,2006,6.7,2.35,3000
+Kevin Greutert,90,52,298,Gina Holden,723,Horror|Mystery,Costas Mandylor,Saw 3D: The Final Chapter ,67978,1978,0,blood splatter|self help guru|sequel|support group|survivor,English,Canada,20000000,2010,5.6,1.85,12000
+Michael Lehmann,96,36,486,Vinessa Shaw,1000,Comedy|Romance,Emmanuelle Vaugier,40 Days and 40 Nights ,62272,3294,0,female on male rape|lent|male rear nudity|masturbation|sex,English,USA,17000000,2002,5.6,1.85,2000
+Joseph Kosinski,125,364,1000,Olivia Wilde,12000,Action|Adventure|Sci-Fi,Jeff Bridges,TRON: Legacy ,264186,25549,0,arcade|bridge|disappearance|escape|warrior,English,USA,170000000,2010,6.8,2.35,30000
+John Fortenberry,82,12,281,Chris Kattan,8000,Comedy|Music|Romance,Will Ferrell,A Night at the Roxbury ,48458,9271,2,1990s|bar|car accident|nightclub|whipped cream,English,USA,17000000,1998,6.2,1.85,0
+Daniel Barnz,86,33,583,Mary-Kate Olsen,15000,Drama|Fantasy|Romance,Alex Pettyfer,Beastly ,64190,17396,1,love|maid|newscaster|student|tutor,English,USA,17000000,2011,5.6,2.35,16000
+Alexandre Aja,108,192,580,Greg Nicotero,1000,Horror,Dan Byrd,The Hills Have Eyes ,129719,4500,0,desert|horror movie remake|murder of family|rape|slasher,English,USA,15000000,2006,6.4,2.35,0
+Sam Weisman,98,39,428,Jenna Boyd,593,Comedy,Kevin Grevioux,Dickie Roberts: Former Child Star ,11815,2713,1,dental braces|dental headgear|former child star|panties|white panties,English,USA,17000000,2003,5.6,2.35,320
+Niki Caro,129,51,89,Valente Rodriguez,427,Biography|Drama|Sport,Morgan Saylor,"McFarland, USA ",23480,952,0,coach|high school|place name in title|school|student,English,USA,17000000,2015,7.4,2.35,21000
+Erik White,99,17,826,Loretta Devine,918,Comedy,Brandon T. Jackson,Lottery Ticket ,7991,4797,7,block party|eurocopter ec120 colibri|fortune cookie|lottery ticket|reverend,English,USA,,2010,4.9,2.35,0
+Chris Robinson,105,49,104,Adam Boyer,680,Comedy|Crime|Drama|Music|Romance,T.I.,ATL ,8522,1538,0,high school|rollerskating rink|spelman college|twin|voice over narration,English,USA,,2006,6.0,2.35,874
+Jason Moore,112,36,746,Hana Mae Lee,10000,Comedy|Music|Romance,Anna Kendrick,Pitch Perfect ,213898,12676,4,a cappella|competition|dj|female protagonist|lesbian,English,USA,17000000,2012,7.2,1.85,36000
+Michael Tollin,108,19,505,Brian Dennehy,973,Comedy|Drama|Romance|Sport,Marc Blucas,Summer Catch ,12993,3344,2,baseball|baseball player|night|rivalry|summer,English,USA,34000000,2001,4.9,1.85,476
+Sam Raimi,121,0,244,Bridget Fonda,989,Crime|Drama|Thriller,Gary Cole,A Simple Plan ,50656,2365,1,bag of money|found money|minnesota|screenplay adapted by author|snow,English,UK,17000000,1998,7.5,1.85,0
+Robert Harmon,89,11,973,Ethan Embry,1000,Horror|Mystery|Thriller,Alexander Gould,They ,10885,4060,0,darkness|friend|kiss|nightmare|suicide,English,USA,17000000,2002,4.8,2.35,814
+Trent Cooper,89,0,323,Larry the Cable Guy,690,Comedy|Romance,Thomas F. Wilson,Larry the Cable Guy: Health Inspector ,9104,2135,2,diner|food poisoning|health inspector|restaurant|undercover,English,USA,4000000,2006,3.1,1.33,110
+Gary Halvorson,73,11,142,Kevin Clash,1000,Adventure|Comedy|Family|Fantasy|Musical,Vanessa Williams,The Adventures of Elmo in Grouchland ,2045,2020,0,based on tv series|blanket|box office flop|rescue|sesame street,English,USA,17000000,1999,5.8,1.85,339
+Antoine Fuqua,132,847,625,Lili Taylor,3000,Crime|Drama|Thriller,Don Cheadle,Brooklyn's Finest ,52852,6317,1,catholic|corrupt cop|new york city|police detective|police officer killed,English,USA,17000000,2009,6.7,2.35,4000
+Nicholas Ray,154,117,86,David Niven,715,Action|Adventure|Drama|History|War,Ava Gardner,55 Days at Peking ,4550,1567,3,ambassador|boxer rebellion|china|colonialism|peking china,English,USA,9000000,1963,6.8,2.2,419
+Fede Alvarez,96,201,58,Elizabeth Blackmore,394,Horror,Lou Taylor Pucci,Evil Dead ,125016,673,0,book of the dead|demon|h.p. lovecraft|lesbian kiss|promise,English,USA,17000000,2013,6.5,2.35,70000
+Donald Petrie,98,80,399,Harland Williams,567,Comedy|Romance,Nia Vardalos,My Life in Ruins ,15033,2016,1,greece|greek|tour bus|tour guide|tourist,English,USA,17000000,2009,5.9,1.85,0
+Paul Weitz,107,80,841,Dennis Quaid,2000,Comedy|Music,Judy Greer,American Dreamz ,22639,5992,6,chief of staff|contest|president|singing|terrorist,English,USA,19000000,2006,5.5,1.85,300
+Sidney J. Furie,134,22,488,Margot Kidder,1000,Action|Adventure|Family|Sci-Fi,Jim Broadbent,Superman IV: The Quest for Peace ,33570,3007,6,box office flop|dc comics|hair|nuclear disarmament|superman,English,UK,17000000,1987,3.6,2.35,1000
+Ian Iqbal Rashid,94,8,66,Clé Bennett,328,Drama,DeRay Davis,How She Move ,4600,760,0,dance|dance contest|loss of sister|step dancing|teenager,English,Canada,,2007,3.3,1.85,238
+Wayne Kramer,122,47,834,Chazz Palminteri,23000,Action|Crime|Drama|Thriller,Paul Walker,Running Scared ,88590,27381,2,adult child friendship|corrupt cop|fistfight|gangster|thug,English,Germany,17000000,2006,7.4,2.35,0
+Rowdy Herrington,128,9,193,Jeremy Northam,767,Biography|Drama|Romance|Sport,Aidan Quinn,Bobby Jones: Stroke of Genius ,3222,1727,3,colon in title|competition|five word title|golf|temper,English,USA,,2004,6.7,2.35,352
+Jim Goddard,97,3,161,Paul Freeman,400,Adventure|Crime|Drama|Romance,Victor Wong,Shanghai Surprise ,4081,805,0,china|missionary|opium|villain|year 1937,English,UK,17000000,1986,3.0,1.85,154
+Neil Burger,110,168,96,Eddie Marsan,3000,Drama|Mystery|Romance|Thriller,Rufus Sewell,The Illusionist ,295375,4210,3,duchess|illusionist|magician|prince|supernatural power,English,USA,16000000,2006,7.6,1.85,15000
+Noel Marshall,102,4,60,Melanie Griffith,634,Adventure|Horror|Thriller,Tippi Hedren,Roar ,1275,1262,0,chase|dead man|jungle|killing a lion|killing a tiger,English,USA,17000000,1981,6.4,2.35,0
+Joel Schumacher,98,541,71,David Murray,214,Biography|Crime|Drama|Thriller,Brenda Fricker,Veronica Guerin ,16234,409,1,criminal|drug lord|gunshot|irish|journalist,English,Ireland,17000000,2003,6.9,2.35,0
+Andrea Di Stefano,120,30,55,Brady Corbet,14000,Crime|Drama|Romance|Thriller,Josh Hutcherson,Escobar: Paradise Lost ,13762,14492,1,colombia|dream|love|surfer|village,English,France,17000000,2014,6.6,,0
+Richard Kelly,160,219,215,Curtis Armstrong,1000,Comedy|Mystery|Sci-Fi|Thriller,Janeane Garofalo,Southland Tales ,32671,2340,6,amnesia|boxer|conspiracy|police|porn star,English,France,17000000,2006,5.5,2.35,0
+Guillaume Ivernel,80,0,168,Jess Harnell,677,Adventure|Animation|Family|Fantasy,Rob Paulsen,Dragon Hunters ,10706,1364,0,cgi film|computer animation|dragon|hunter,French,France,11000000,2008,6.6,,0
+Jack Smight,91,22,255,Jan-Michael Vincent,669,Sci-Fi,George Peppard,Damnation Alley ,3701,1769,0,cockroach|desert|ghost town|giant spider|travel,English,USA,17000000,1977,5.2,2.35,903
+Todd Lincoln,83,57,62,Rick Gomez,465,Horror|Thriller,Julianna Guill,The Apparition ,16268,730,1,e mail|evil spirit|experiment|fear|supernatural,English,USA,17000000,2012,4.1,2.35,0
+Howard Zieff,102,6,165,Jamie Lee Curtis,3000,Comedy|Drama|Family|Romance,Macaulay Culkin,My Girl ,55895,5433,1,best friend|funeral|girl|overalls|summer,English,USA,16500000,1991,6.8,1.85,0
+Steven Shainberg,122,30,260,Ty Burrell,21000,Biography|Drama|Romance,Robert Downey Jr.,Fur: An Imaginary Portrait of Diane Arbus ,13239,25173,2,character name in title|diane arbus|male full frontal nudity|photographer|pubic hair,English,USA,16800000,2006,6.5,1.85,0
+Neil Burger,110,168,96,Eddie Marsan,3000,Drama|Mystery|Romance|Thriller,Rufus Sewell,The Illusionist ,295375,4210,3,duchess|illusionist|magician|prince|supernatural power,English,USA,16000000,2006,7.6,1.85,15000
+Oliver Stone,126,0,168,Tamara Tunie,826,Crime|Drama,Hal Holbrook,Wall Street ,119150,1607,2,1980s|argument|critique of capitalism|f word|fired from the job,English,USA,15000000,1987,7.4,1.85,0
+Ang Lee,136,0,1000,Kate Winslet,25000,Drama|Romance,Alan Rickman,Sense and Sensibility ,78392,41059,2,1810s|female protagonist|horseback riding|inheritance|three word title,English,USA,16500000,1995,7.7,1.85,0
+Julian Jarrold,120,11,281,Julie Walters,11000,Biography|Drama|Romance,Anne Hathaway,Becoming Jane ,46204,12554,1,country estate|jane austen|lady|love|writing,English,UK,16500000,2007,7.1,2.35,0
+Joe Nussbaum,108,18,433,Matt Long,714,Comedy|Romance,Danny Strong,Sydney White ,37700,2785,2,college|college girl|female protagonist|sorority|sorority house,English,USA,16500000,2007,6.3,2.35,0
+Vadim Perelman,126,26,385,Kim Dickens,638,Drama,Frances Fisher,House of Sand and Fog ,56665,2282,0,auction|home|house|iranian|marriage,English,USA,15000000,2003,7.6,1.85,0
+Peter Weir,128,608,1000,Josh Charles,49000,Comedy|Drama,Robin Williams,Dead Poets Society ,277451,51609,0,education|english teacher|poet|professor|student,English,USA,16400000,1989,8.0,1.85,23000
+Peter Farrelly,113,137,481,Mike Starr,879,Comedy,Lauren Holly,Dumb & Dumber ,288451,2985,2,briefcase full of money|character repeating someone else's dialogue|character says i love you|friendship|reference to cinderella,English,USA,16000000,1994,7.3,1.85,0
+Rob Reiner,89,0,62,Gretchen Palmer,227,Comedy|Drama|Romance,Bruno Kirby,When Harry Met Sally... ,149108,485,0,friendship|love|male female friendship|new york|sex,English,USA,16000000,1989,7.6,1.85,0
+Sidney Lumet,129,0,359,James Mason,844,Drama,Charlotte Rampling,The Verdict ,26310,2330,0,archdiocese|court|hospital|lawyer|malpractice,English,USA,16000000,1982,7.8,1.85,0
+Todd Phillips,94,480,486,Rachel Blanchard,1000,Comedy,Ethan Suplee,Road Trip ,132963,3889,5,blonde|college|friend|highway travel|road trip,English,USA,15600000,2000,6.5,1.85,0
+Brian Robbins,106,48,35,Ron Lester,23000,Comedy|Drama|Romance|Sport,Paul Walker,Varsity Blues ,35312,23369,0,coach|coyote|popularity|quarterback|texas,English,USA,16000000,1999,6.4,1.85,0
+Michel Hazanavicius,100,405,628,Ed Lauter,996,Comedy|Drama|Romance,Bérénice Bejo,The Artist ,190030,4606,0,1920s|jack russell terrier|modern silent movie|movie star|movie studio,English,France,15000000,2011,8.0,1.33,30000
+David S. Goyer,89,687,389,Atticus Shaffer,10000,Drama|Fantasy|Horror|Mystery|Thriller,Gary Oldman,The Unborn ,42182,12183,1,babysitting|experiment|nightmare|possession|twin,English,USA,16000000,2009,4.8,2.35,0
+Wes Anderson,94,0,559,Bill Murray,13000,Adventure|Comedy|Drama|Romance,Bruce Willis,Moonrise Kingdom ,237848,27911,2,1960s|boy scouts|boy scouts camp|coming of age|young love,English,USA,16000000,2012,7.8,1.85,71000
+Jonathan Liebesman,83,473,597,Jordana Brewster,20000,Horror,Matt Bomer,The Texas Chainsaw Massacre: The Beginning ,56269,26402,0,cannibal|car accident|leatherface|psychopath|slaughterhouse,English,USA,16000000,2006,5.9,1.85,0
+Cyrus Nowrasteh,111,19,107,Vincent Walsh,241,Drama,Clive Russell,The Young Messiah ,1449,824,0,based on novel,English,USA,18500000,2016,5.4,2.35,0
+Perry Andelin Blake,80,11,499,Kenan Thompson,911,Comedy|Family,Jennifer Esposito,The Master of Disguise ,18254,3058,2,disguise|mask|master of disguise|restaurant|waiter,English,USA,16000000,2002,3.3,1.85,1000
+Guillermo del Toro,112,0,250,Maribel Verdú,634,Drama|Fantasy|War,Ivana Baquero,Pan's Labyrinth ,467234,1322,0,fairy|fairy tale|faun|princess|spain,Spanish,Spain,13500000,2006,8.2,1.85,27000
+,60,,762,Jessika Van,1000,Drama|Fantasy|Mystery|Thriller,Joel Courtney,The Messengers             ,7210,4561,0,,English,USA,,,6.6,16.0,0
+John Whitesell,94,14,635,Angus T. Jones,1000,Action|Comedy|Crime|Family,Leslie Bibb,See Spot Run ,7392,4194,0,boy|fbi|mailman|van|witness protection,English,USA,35000000,2001,5.4,1.85,393
+John Singleton,130,309,522,Snoop Dogg,939,Crime|Drama|Romance|Thriller,Mo'Nique,Baby Boy ,9566,3107,2,cartoon on tv|family relationships|physical abuse|single parent|two word title,English,USA,16000000,2001,6.4,1.85,1000
+Christian E. Christiansen,91,26,638,Danneel Ackles,3000,Drama|Horror|Thriller,Leighton Meester,The Roommate ,29147,5349,1,animal abuse(non graphic)|cat killer|college|dead cat|death of cat,English,USA,16000000,2011,4.8,2.35,0
+Dennie Gordon,91,29,459,Erik Per Sullivan,861,Adventure|Comedy|Drama,Brittany Daniel,Joe Dirt ,41664,2543,0,first part|grand canyon|highway travel|indian|janitor,English,USA,17700000,2001,5.9,1.85,0
+Sheldon Lettich,110,23,51,Alonna Shaw,633,Action|Crime,Bolo Yeung,Double Impact ,28736,874,2,boat|hong kong|murder|tunnel|twins,English,USA,15000000,1991,5.5,1.85,0
+Edgar Wright,121,1000,108,Joe Cornish,175,Action|Comedy|Mystery,Bill Bailey,Hot Fuzz ,352695,485,1,accident|conspiracy|police|police officer|village,English,UK,8000000,2007,7.9,2.35,17000
+Diane English,114,15,650,Debi Mazar,851,Comedy|Drama,Jada Pinkett Smith,The Women ,16582,3485,4,beauty salon|divorce|fashion|new york|perfume,English,USA,16500000,2008,4.9,1.85,0
+Woody Allen,96,11000,252,Kevin Dunn,19000,Drama|Romance,Scarlett Johansson,Vicky Cristina Barcelona ,198111,19894,0,art|artist|painter|sex|summer,English,Spain,15500000,2008,7.2,1.85,14000
+Peter Flinth,270,5,292,Michael Nyqvist,908,Action|Adventure|Drama|Romance|War,Gustaf Skarsgård,Arn: The Knight Templar ,18041,2762,1,first part|holy land|knight templar|monastery|sword and shield,Swedish,Sweden,25000000,2007,6.6,2.35,0
+Jon Lucas,100,24,851,Jay Hernandez,15000,Comedy,Mila Kunis,Bad Moms ,4654,18786,9,lesbian kiss|mom|pta|reference to mad max|scene during end credits,English,USA,20000000,2016,6.7,,18000
+Robert Iscove,94,7,95,Amanda Detmer,3000,Comedy|Drama|Romance,Alyson Hannigan,Boys and Girls ,13661,3451,3,best friend|break up|friendship|graduation|male in underwear,English,USA,16000000,2000,5.3,1.85,487
+Peter Kosminsky,109,7,450,Cole Hauser,835,Drama,Patrick Fugit,White Oleander ,25549,2572,0,california|foster home|love|oleander|prison,English,USA,16000000,2002,7.2,1.85,0
+Karyn Kusama,107,45,271,Amy Sedaris,24000,Comedy|Fantasy|Horror,J.K. Simmons,Jennifer's Body ,92712,24805,1,cannibalism|cheerleader|condom|hook for hand|satanic ritual,English,USA,16000000,2009,5.1,1.85,6000
+Nick Gomez,96,22,324,Jamie Lee Curtis,8000,Comedy|Crime|Mystery,Will Ferrell,Drowning Mona ,11768,11078,0,crying woman|plot|suspect|waitress|younger man older woman relationship,English,USA,16000000,2000,5.6,1.85,492
+Woody Allen,88,11000,233,Don Pardo,854,Comedy,Mike Starr,Radio Days ,24256,1653,0,beach|cigarette girl|radio|woman holding a baby|working class,English,USA,16000000,1987,7.6,1.85,0
+Vic Armstrong,110,179,734,Lea Thompson,12000,Action|Drama|Fantasy|Mystery|Thriller,Nicolas Cage,Left Behind ,24854,15044,1,bible quote|chaos|faith|riot|shrine,English,USA,16000000,2014,3.1,2.35,31000
+Allen Coulter,113,47,238,Lena Olin,21000,Drama|Romance,Robert Pattinson,Remember Me ,113963,22088,0,binge drinking|new york|new york city|september 11 2001|suicide,English,USA,16000000,2010,7.2,1.85,24000
+Clare Kilner,101,6,258,Alexandra Holden,812,Comedy|Drama|Romance,Dylan Baker,How to Deal ,8215,1882,1,best friend|high school|mother|sister|wedding,English,USA,16000000,2003,5.7,1.85,371
+Richard Benjamin,105,121,384,Alyson Hannigan,11000,Comedy|Romance|Sci-Fi,Jon Lovitz,My Stepmother Is an Alien ,21079,14677,0,alien|earth|female alien|mission|secret,English,USA,20000000,1988,5.2,1.85,818
+Jonathan Demme,125,438,372,Tom Hanks,18000,Drama,Denzel Washington,Philadelphia ,178731,33865,2,aids|city name in title|gay|homophobia|lawyer,English,USA,26000000,1993,7.7,1.85,0
+Josef Rusnak,100,9,363,Craig Bierko,599,Mystery|Sci-Fi|Thriller,Gretchen Mol,The Thirteenth Floor ,51996,2389,0,amnesia|barricade|letter|time|virtual reality,English,Germany,16000000,1999,7.0,2.35,0
+Lance Rivera,97,3,578,Vincent Pastore,1000,Comedy,Farrah Fawcett,The Cookout ,2385,3835,1,flatulence|interracial marriage|marriage,English,USA,,2004,3.6,1.85,177
+Ronald Neame,108,38,316,Karl Malden,940,Action|Drama|Sci-Fi|Thriller,Martin Landau,Meteor ,5237,1945,7,asteroid|meteor|nasa|nuclear weapon|satellite,English,USA,16000000,1979,4.9,2.35,392
+Bruce Paltrow,112,28,215,Marian Seldes,555,Comedy|Drama|Music,Lochlyn Munro,Duets ,8217,1227,0,convict|karaoke|middle america|salesman|singer,English,USA,15000000,2000,6.0,1.85,573
+Woody Allen,112,11000,642,Debra Messing,11000,Comedy|Romance,Woody Allen,Hollywood Ending ,21613,12766,0,blind|director|psychosomatic blindness|self deprecating|studio,English,USA,16000000,2002,6.6,1.85,762
+Adam Rifkin,95,89,322,Lin Shaye,1000,Comedy|Music,Natasha Lyonne,Detroit Rock City ,30682,2518,0,band|concert|high school|kiss|teenager,English,USA,15000000,1999,6.8,2.35,0
+Russell Mulcahy,110,85,186,Jon Polito,1000,Action|Adventure|Fantasy,Christopher Lambert,Highlander ,98629,1852,1,combat|head cut off|immortal|scotland|swordsman,English,UK,16000000,1986,7.2,1.85,0
+Susanne Bier,118,369,295,Omar Benson Miller,1000,Drama,Alison Lohman,Things We Lost in the Fire ,24104,1889,1,best friend|dinner|garage|narcotics anonymous|recovery,English,USA,16000000,2007,7.2,2.35,0
+Kenneth Johnson,97,34,465,Annabeth Gish,503,Action|Crime|Sci-Fi,Charles Napier,Steel ,8687,3100,1,fight|gang|junkyard|military|soldier,English,USA,16000000,1997,2.8,1.85,0
+James Gray,120,115,310,Dagmara Dominczyk,10000,Drama|Romance,Jeremy Renner,The Immigrant ,20616,11019,3,immigrant|immigration|magician|money|prostitution,English,USA,16000000,2013,6.6,2.35,0
+James Ivory,135,133,258,Natasha Richardson,898,Drama|History|Romance|War,Vanessa Redgrave,The White Countess ,5321,2096,0,countess|diplomat|japanese|russian|shanghai,English,UK,16000000,2005,6.7,1.66,356
+Danny Boyle,101,0,888,Spencer Wilding,3000,Crime|Drama|Mystery|Thriller,Rosario Dawson,Trance ,92640,5056,0,amnesia|criminal|heist|hypnotherapy|lost painting,English,UK,20000000,2013,7.0,2.35,23000
+Jessy Terrero,92,29,618,Snoop Dogg,939,Comedy,Mo'Nique,Soul Plane ,18271,3935,9,airline|airplane|bathroom|sex|toilet,English,USA,16000000,2004,4.4,1.85,0
+Dany Boon,106,172,27,Kad Merad,172,Comedy|Romance,Dany Boon,Welcome to the Sticks ,30587,329,2,alcohol|alcoholic drink|drunken man|france|provence,French,France,11000000,2008,7.1,2.35,3000
+Vicente Amorim,92,6,227,Jodie Whittaker,10000,Drama|Romance|War,Viggo Mortensen,Good ,5664,11091,1,censorship|children|corpse|heil hitler|suffering,English,UK,15000000,2008,6.2,2.35,921
+Gaspar Noé,161,929,116,Emily Alyn Lind,488,Drama|Fantasy,Paz de la Huerta,Enter the Void ,45449,943,0,drug deal|drugs|explicit sex|love|stripper,English,France,13000000,2009,7.3,2.35,23000
+Amy Heckerling,92,143,613,Justin Kirk,1000,Comedy|Horror|Romance,Taylor Negron,Vamps ,7444,3086,2,murder|new york city|one word title|vampire|vampire slayer,English,USA,16000000,2012,5.1,1.78,0
+Lasse Hallström,93,529,805,Sarah Roemer,1000,Drama|Family,Cary-Hiroyuki Tagawa,Hachi: A Dog's Tale ,155249,4453,0,dog|human animal relationship|japanese|loyalty|waiting,English,USA,16000000,2009,8.1,1.85,115000
+Jérôme Salle,110,22,44,Tanya van Graan,5000,Crime|Drama|Thriller,Orlando Bloom,Zulu ,12817,5273,0,apartheid|corpse|male nudity|murder|police officer,English,France,16000000,2013,6.7,2.35,0
+Tommy Lee Jones,122,0,567,Tim Blake Nelson,883,Drama|Western,Barry Corbin,The Homesman ,21370,2896,1,abusive marriage|pastor|prison wagon|roast pig|suicide by hanging,English,USA,16000000,2014,6.6,2.35,0
+Jesse Vaughan,91,10,574,Jenifer Lewis,890,Comedy|Drama|Romance|Sport,Vivica A. Fox,Juwanna Mann ,5312,3104,3,basketball|dodge viper|hit in the crotch|male nudity|the star spangled banner,English,USA,15600000,2002,4.5,1.85,939
+,45,,15,Trond Fausa,422,Comedy|Crime|Drama,Steven Van Zandt,Lilyhammer             ,19164,537,0,mafia|mob|norway|steve|van,English,Norway,34000000,,8.1,16.0,16000
+Atom Egoyan,115,460,125,Marie-Josée Croze,232,Drama|War,David Alpay,Ararat ,8624,699,1,armenian|armenian genocide|customs agent|genocide|prayer,English,Canada,,2002,6.6,1.66,824
+William Bindley,94,4,518,Jake Lloyd,844,Drama|Sport,Bruce Dern,Madison ,1033,3583,0,boat racing|hydroplane|loyalty|one word title|scolding,English,USA,,2001,6.5,2.35,282
+Wayne Beach,93,7,922,LL Cool J,1000,Drama|Mystery|Thriller,Mekhi Phifer,Slow Burn ,3299,4329,0,district attorney|interview|murder|prosecutor|reporter,English,USA,15500000,2005,5.9,1.85,191
+Gérard Krawczyk,94,7,17,Ryôko Hirosue,235,Action|Comedy|Crime|Drama|Thriller,Carole Bouquet,Wasabi ,29392,303,1,french|inheritance|japan|letter|police detective hero,French,France,15300000,2001,6.6,2.35,0
+James Gunn,95,571,102,Gregg Henry,499,Comedy|Horror|Sci-Fi,Dustin Milligan,Slither ,61912,1120,0,alien|b movie|sex|slug|small town,English,Canada,15500000,2006,6.5,1.85,0
+Martin Brest,105,102,383,Ronny Cox,901,Action|Comedy|Crime,Judge Reinhold,Beverly Hills Cop ,126464,3464,1,drug dealer|drugs|murder|police brutality|police shootout,English,USA,14000000,1984,7.3,1.85,0
+Chris Columbus,103,0,925,Devin Ratray,3000,Comedy|Family,Macaulay Culkin,Home Alone ,311075,7521,5,airport|child protagonist|child swearing|christmas|home alone,English,USA,18000000,1990,7.5,1.85,20000
+Leonard Nimoy,102,12000,801,Ted Danson,19000,Comedy|Drama|Family,Tom Selleck,3 Men and a Baby ,36918,21499,4,1980s|baby|heroin|package|questioned by police,English,USA,11000000,1987,5.9,1.85,3000
+Sydney Pollack,116,521,481,Sydney Pollack,13000,Comedy|Drama|Romance,Bill Murray,Tootsie ,77366,14701,1,actor|actress|friend|love|reputation,English,USA,22000000,1982,7.4,2.35,0
+Tony Scott,110,12000,555,Tom Skerritt,10000,Action|Drama|Romance,Tom Cruise,Top Gun ,219171,13069,2,flying|gay subtext|machismo|male objectification|pilot,English,USA,15000000,1986,6.9,1.33,19000
+Ang Lee,120,0,5,Pei-Pei Cheng,103,Action|Drama|Romance,Chen Chang,"Crouching Tiger, Hidden Dragon ",217740,129,3,bare midriff|china|magical realism|martial arts|sword,Mandarin,Taiwan,15000000,2000,7.9,2.35,0
+Sam Mendes,122,0,158,Peter Gallagher,18000,Drama,Kevin Spacey,American Beauty ,822500,19078,0,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,English,USA,15000000,1999,8.4,2.35,22000
+Tom Hooper,118,0,520,Jennifer Ehle,14000,Biography|Drama|History|Romance,Colin Firth,The King's Speech ,503631,15732,0,king|king george vi|speech|speech therapist|throne,English,UK,15000000,2010,8.0,1.85,64000
+Ivan Reitman,107,425,247,Tony Jay,742,Comedy|Crime,Kelly Preston,Twins ,87538,2151,1,bare chested male|brother|catholic orphanage|long lost siblings|twins,English,USA,15000000,1988,6.0,1.85,0
+,45,,260,Bobby Campo,460,Crime|Drama|Horror|Mystery|Thriller,Bex Taylor-Klaus,Scream: The TV Series             ,18058,2380,0,generation y|millennial generation|murder|teenage girl|throat slitting,English,USA,,,7.3,16.0,0
+Udayan Prasad,102,4,882,Eddie Redmayne,17000,Drama|Romance,Kristen Stewart,The Yellow Handkerchief ,6723,30978,1,louisiana|overalls|road trip|southern u.s.|teenage boy,English,USA,15500000,2008,6.8,2.35,1000
+Steven Spielberg,154,14000,271,Rae Dawn Chong,852,Drama,Oprah Winfrey,The Color Purple ,60988,2592,0,book strap|girl|racial discrimination|racial tension|stereotype,English,USA,15000000,1985,7.8,1.85,6000
+JK Youn,103,2,13,Ji-won Ha,94,Action|Comedy|Drama|Thriller,Nicole Dionne,Tidal Wave ,2659,213,2,korea|lifeguard|single father|tears|tsunami,Korean,South Korea,,2009,5.7,2.35,558
+Timur Bekmambetov,141,335,635,Ayelet Zurer,11000,Adventure|Drama|History,Morgan Freeman,Ben-Hur ,62,13390,2,chariot race|epic|false accusation|jerusalem|slave,English,USA,100000000,2016,6.1,2.35,0
+Morten Tyldum,114,77,305,Rory Kinnear,19000,Biography|Drama|Thriller|War,Benedict Cumberbatch,The Imitation Game ,467613,20295,1,crossword puzzle|cryptography|enigma code|gay lead character|world war two,English,UK,14000000,2014,8.1,2.35,165000
+Howard Zieff,109,6,271,Albert Brooks,1000,Comedy|War,Eileen Brennan,Private Benjamin ,18140,2419,1,camera shot of feet|female stockinged feet|loss of husband|pantyhose|suntan pantyhose,English,USA,10000000,1980,6.1,1.85,855
+Michael Apted,124,150,572,Beverly D'Angelo,874,Biography|Drama|Music|Musical,Sissy Spacek,Coal Miner's Daughter ,12974,2667,0,country music|kissing while having sex|poverty|singer|title based on song,English,USA,,1980,7.5,1.85,0
+Thor Freudenthal,94,87,569,Zachary Gordon,17000,Comedy|Family,Chloë Grace Moretz,Diary of a Wimpy Kid ,32002,20154,1,cheese|diary|friend|middle school|school,English,USA,15000000,2010,6.2,1.85,0
+Andrés Muschietti,100,127,250,Megan Charpentier,1000,Fantasy|Horror,Javier Botet,Mama ,134869,1949,1,aunt|children|death of sister|forest|hiding in a closet,English,Canada,20000000,2013,6.2,1.85,57000
+John Carpenter,101,0,598,Donald Pleasence,2000,Horror|Thriller,Jamie Lee Curtis,Halloween ,157857,4400,0,halloween|masked killer|michael myers|slasher|trick or treat,English,USA,300000,1978,7.9,2.35,12000
+Harold Ramis,98,11000,624,Randy Quaid,816,Adventure|Comedy,Beverly D'Angelo,National Lampoon's Vacation ,71183,3617,1,amusement park|dog|family vacation|national lampoon series|vacation,English,USA,15000000,1983,7.4,1.85,0
+Jeff Tremaine,102,79,27,Georgina Cates,925,Comedy,Jackson Nicoll,Bad Grandpa ,77724,1018,0,child beauty pageant|grandson|hidden camera|jackass|road trip,English,USA,15000000,2013,6.6,1.85,26000
+Stephen Frears,94,350,39,Sylvia Syms,326,Biography|Drama,Roger Allam,The Queen ,85333,486,0,monarchy|prime minister|princess diana|queen|speech,English,UK,9800000,2006,7.3,1.85,0
+Tim Burton,92,13000,217,Jeffrey Jones,925,Comedy|Fantasy,Catherine O'Hara,Beetlejuice ,189413,1953,3,attic|ghost|surrealism|teenage girl|yuppie,English,USA,15000000,1988,7.5,1.85,15000
+Tyler Perry,113,0,607,Tasha Smith,2000,Comedy|Drama,Michael Jai White,Why Did I Get Married? ,9811,6510,8,marriage|overweight|psychologist|secret|work,English,USA,15000000,2007,5.6,1.85,1000
+Gillian Armstrong,115,44,902,Kirsten Dunst,23000,Drama|Family|Romance,Christian Bale,Little Women ,36624,29370,4,civil war|female protagonist|post civil war|reference to friedrich schiller|u.s. civil war,English,USA,15000000,1994,7.3,1.85,0
+James Watkins,95,43,259,Roger Allam,11000,Drama|Fantasy|Horror|Thriller,Daniel Radcliffe,The Woman in Black ,139749,11946,0,afterlife|baby boy|bird in a cage|ghost|reunited family,English,UK,17000000,2012,6.4,2.35,29000
+Simon West,87,165,383,Tessa Thompson,1000,Horror|Thriller,Madeline Carroll,When a Stranger Calls ,34711,2452,0,babysitting|cell phone|high school|nightmare|teenager,English,USA,15000000,2006,5.0,2.35,0
+Shawn Levy,88,189,799,Donald Faison,934,Adventure|Comedy|Family,Frankie Muniz,Big Fat Liar ,29008,3707,1,brunette|film producer|liar|prank|stunt,English,USA,15000000,2002,5.4,1.85,896
+Michael Cimino,183,517,652,Meryl Streep,22000,Drama|War,Robert De Niro,The Deer Hunter ,232577,34025,2,escape|friend|party|pittsburgh steelers|vietnam,English,UK,15000000,1978,8.2,2.35,11000
+Barry Levinson,97,272,957,Kirsten Dunst,22000,Comedy|Drama,Robert De Niro,Wag the Dog ,67604,29252,0,death|election|hollywood|president|scandal,English,USA,15000000,1997,7.1,1.85,12000
+Jim Fall,94,13,566,Adam Lamberg,925,Adventure|Comedy|Family|Music|Romance,Clayton Snyder,The Lizzie McGuire Movie ,27580,3423,1,best friend|roma|singer|spaghetti|teenager,English,USA,17000000,2003,5.3,2.35,0
+Ric Roman Waugh,112,29,874,Harold Perrineau,12000,Action|Drama|Thriller,Dwayne Johnson,Snitch ,64747,15800,1,cigarette smoking|dea|drugs|inspired by true events|undercover,English,USA,15000000,2013,6.5,2.35,12000
+Michael Dougherty,98,66,562,Conchata Ferrell,3000,Comedy|Fantasy|Horror,Adam Scott,Krampus ,29867,4567,0,christmas|german|holiday|krampus|santa claus,English,USA,15000000,2015,6.2,2.35,27000
+Robert Rodriguez,104,0,1000,Salma Hayek,4000,Horror|Mystery|Sci-Fi,Jordana Brewster,The Faculty ,92074,12170,1,alien|high school|ohio|photographer|water,English,USA,15000000,1998,6.4,1.85,0
+Brian Gibson,118,13,2,Virginia Capers,90,Biography|Drama|Music,Rae'Ven Kelly,What's Love Got to Do with It ,13442,114,0,abusive husband|love|singer|tina turner|violence,English,USA,,1993,7.2,1.85,0
+James Mangold,120,446,1000,Sylvester Stallone,22000,Crime|Drama|Thriller,Robert De Niro,Cop Land ,69576,40117,3,corruption|faked death|falling off a roof|internal affairs|nypd,English,USA,10000000,1997,6.9,1.85,2000
+Joel Gallen,99,11,971,JoAnna Garcia Swisher,11000,Comedy,Chris Evans,Not Another Teen Movie ,80305,15369,0,cheerleader|foreign exchange student|incestuous desire|incestuous kiss|prom,English,USA,16000000,2001,5.7,1.85,0
+David Ayer,109,453,953,Anna Kendrick,15000,Crime|Drama|Thriller,Jake Gyllenhaal,End of Watch ,181025,27788,2,lapd|police|police officer|south central los angeles|street gang,English,USA,7000000,2012,7.7,1.85,38000
+Cameron Crowe,105,488,13000,Bradley Cooper,15000,Comedy|Drama|Romance,Emma Stone,Aloha ,39782,44037,1,box office flop|critically bashed|hawaii|one word title|written by director,English,USA,37000000,2015,5.4,1.85,11000
+Rob Cohen,106,357,883,Leslie Bibb,23000,Action|Crime|Drama|Thriller,Paul Walker,The Skulls ,26846,26652,0,college|friend|ivy league|secret society|suicide,English,USA,15000000,2000,5.6,1.85,0
+James Marsh,123,120,149,Emily Watson,13000,Biography|Drama|Romance,Eddie Redmayne,The Theory of Everything ,265507,14100,0,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist,English,UK,15000000,2014,7.7,2.35,90000
+John Whitesell,86,14,685,Regina Hall,833,Comedy|Crime,Greg Grunberg,Malibu's Most Wanted ,15939,4435,3,los angeles california|person in car trunk|racial impersonation|south asian|street gang,English,USA,16000000,2003,5.1,2.35,0
+Matt Williams,120,18,944,James Frain,20000,Comedy|Drama|Romance,Natalie Portman,Where the Heart Is ,27044,22383,2,birth|oklahoma|photographer|tennessee|wal mart,English,USA,15000000,2000,6.8,1.85,0
+David Lean,227,767,87,José Ferrer,607,Adventure|Biography|Drama|History|War,Claude Rains,Lawrence of Arabia ,192775,1076,8,arab|british military|desert|ottoman empire|t.e. lawrence,English,UK,15000000,1962,8.4,2.2,11000
+Rob Zombie,119,0,593,Tyler Mane,908,Horror,Scout Taylor-Compton,Halloween II ,36372,3226,0,halloween|hospital|michael myers|rampage|vomiting,English,USA,15000000,2009,4.9,1.85,3000
+Jean-Marc Vallée,115,212,612,Kevin Rankin,2000,Adventure|Biography|Drama,Michiel Huisman,Wild ,86664,4896,1,female protagonist|grief|hiking|loss of mother|mother daughter relationship,English,USA,15000000,2014,7.1,2.35,38000
+Dennis Iliadis,114,29,616,Monica Potter,956,Crime|Horror|Thriller,Tony Goldwyn,The Last House on the Left ,67822,3861,0,kidnapping|lake|microwave oven|psychopath|woods,English,USA,15000000,2009,6.6,1.85,0
+Clare Kilner,90,6,458,Debra Messing,1000,Comedy|Romance,Jack Davenport,The Wedding Date ,38248,2666,0,chick flick|escort|male escort|wedding|wedding date,English,USA,15000000,2005,6.1,1.85,0
+Rick Rosenthal,94,28,731,Thomas Ian Nicholas,2000,Comedy|Horror|Thriller,Jamie Lee Curtis,Halloween: Resurrection ,26905,5440,5,cult film|halloween|killer|michael myers|serial killer,English,USA,15000000,2002,4.1,2.35,0
+Louis Leterrier,106,255,850,Jason Flemyng,14000,Action|Adventure|Fantasy,Liam Neeson,Clash of the Titans ,229687,18003,0,famous line|hand to hand combat|kraken|rape|zeus,English,USA,125000000,2010,5.8,2.35,15000
+Rob Reiner,98,0,594,Carol Kane,18000,Adventure|Family|Fantasy|Romance,Robin Wright,The Princess Bride ,294163,20060,0,fairy tale|giant|pirate|princess|true love,English,USA,16000000,1987,8.1,1.85,33000
+Denzel Washington,126,18000,697,Jurnee Smollett-Bell,18000,Biography|Drama,Denzel Washington,The Great Debaters ,47626,22745,1,college|debate|student|texas|wiley college,English,USA,15000000,2007,7.6,2.35,0
+Nicolas Winding Refn,100,0,228,Albert Brooks,33000,Crime|Drama,Ryan Gosling,Drive ,431578,34337,0,kissing in an elevator|mythical hero|neo noir|protective male|silent protagonist,English,USA,15000000,2011,7.8,2.35,81000
+Sara Sugarman,89,10,231,Carol Kane,811,Comedy|Family|Music|Romance,Adam Garcia,Confessions of a Teenage Drama Queen ,23408,2167,8,band|friend|new york city|suburb|teenager,English,Germany,15000000,2004,4.6,1.85,810
+Nicholas Hytner,111,13,106,Tim Daly,818,Comedy|Drama|Romance,Liam Aiken,The Object of My Affection ,15582,1450,0,baby|dancing|gay|name calling|penis slur,English,USA,15000000,1998,6.0,1.85,849
+Juan Carlos Fresnadillo,100,35,306,Harold Perrineau,10000,Drama|Horror|Sci-Fi,Jeremy Renner,28 Weeks Later ,212167,11471,1,paris france|rage|sniper|u.s. army|zombie apocalypse,English,UK,15000000,2007,7.0,1.85,0
+Thomas Carter,115,49,100,Matthew Daddario,116,Drama|Family|Sport,Jessie T. Usher,When the Game Stands Tall ,12596,525,0,coach|high school football,English,USA,15000000,2014,6.7,1.85,0
+Wayne Wang,106,61,649,Luke Benward,907,Comedy|Drama|Family,Cicely Tyson,Because of Winn-Dixie ,8427,3462,5,10 year old|dog|florida|girl|supermarket,English,USA,14000000,2005,6.4,1.85,1000
+Gina Prince-Bythewood,124,107,865,Sanaa Lathan,1000,Drama|Romance|Sport,Alfre Woodard,Love & Basketball ,14322,5135,0,basketball movie|female basketball player|high school|nba|title directed by female,English,USA,15000000,2000,7.2,1.85,0
+George Armitage,107,5,141,Michael Cudlitz,893,Action|Comedy|Crime|Romance|Thriller,Minnie Driver,Grosse Pointe Blank ,73347,2044,1,assassin|high school|high school reunion|reunion|suburb,English,USA,15000000,1997,7.4,1.85,0
+Phil Traill,99,3,628,Katy Mixon,14000,Comedy|Romance,Bradley Cooper,All About Steve ,33088,16461,3,blind date|crossword puzzle|eccentric|fall|mine shaft,English,USA,15000000,2009,4.8,1.85,0
+Joe Berlinger,90,31,162,Erica Leerhsen,193,Adventure|Fantasy|Horror|Mystery|Thriller,Kim Director,Book of Shadows: Blair Witch 2 ,28964,608,0,convenience store|digit in title|punctuation in title|violence|witch,English,USA,15000000,2000,4.0,1.85,949
+Andrew Fleming,101,26,266,Rachel True,838,Drama|Fantasy|Horror|Thriller,Christine Taylor,The Craft ,57140,1812,0,coven|occult|outcast|spell|witch,English,USA,15000000,1996,6.2,1.85,6000
+Woody Allen,119,11000,400,Mark Gatiss,19000,Drama|Romance|Thriller,Scarlett Johansson,Match Point ,166269,20391,3,extramarital affair|infidelity|irony of fate|surprise ending|tennis,English,UK,15000000,2005,7.7,1.85,0
+Elizabeth Allen Rosenbaum,103,20,125,Hutch Dano,512,Adventure|Comedy|Family|Fantasy,Sierra McCormick,Ramona and Beezus ,13874,1002,2,aunt|cat|death of pet|girl|no opening credits,English,USA,15000000,2010,6.7,2.35,0
+James Ivory,134,133,258,Peter Vaughan,12000,Drama|Romance,Anthony Hopkins,The Remains of the Day ,45703,12749,1,butler|housekeeper|manor|servant|service,English,UK,11500000,1993,7.9,2.35,0
+Paul Thomas Anderson,155,0,170,Nicole Ari Parker,3000,Drama,Don Cheadle,Boogie Nights ,189032,3677,15,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,English,USA,15000000,1997,7.9,2.35,0
+Robert Harmon,94,11,232,Rosanna Arquette,1000,Action|Crime|Drama|Romance|Thriller,Kieran Culkin,Nowhere to Run ,17074,2210,0,business|escaped convict|farm|motorcycle|widow,English,USA,15000000,1993,5.5,1.85,466
+Michael Mayer,95,15,461,Danny Pino,1000,Adventure|Drama|Family,Alison Lohman,Flicka ,6095,3845,0,father son relationship|horse|horse ranch|ranch|wild mustang,English,USA,15000000,2006,6.2,2.35,1000
+Martin Weisz,89,7,399,Daniella Alonso,919,Horror,Jeff Kober,The Hills Have Eyes II ,49721,2559,0,desert|fight|hill|murder|mutant,English,USA,15000000,2007,5.1,2.35,0
+John Ottman,97,83,579,Joey Lawrence,912,Horror|Mystery|Thriller,Loretta Devine,Urban Legends: Final Cut ,13048,2682,2,film set|movie set|sequel|slow motion|urban legend,English,USA,14000000,2000,4.1,2.35,243
+Jay Russell,90,13,613,Sissy Spacek,882,Drama|Family|Fantasy|Romance,William Hurt,Tuck Everlasting ,17983,2661,2,fountain of youth|immortality|secret|woods|young man,English,USA,15000000,2002,6.7,2.35,0
+John Bonito,92,8,129,Firass Dirani,472,Action|Drama|Thriller,Kelly Carlson,The Marine ,27486,1045,1,beating|marine|muscleman|tied up|tough guy,English,USA,20000000,2006,4.7,1.85,0
+Peter Atencio,100,10,415,Will Forte,826,Action|Comedy,Nia Long,Keanu ,15385,2958,2,car chase|gangsta|gun fight|hitman|kitten,English,USA,15000000,2016,6.4,2.35,0
+Shana Feste,117,19,461,Cinda McCain,3000,Drama|Music,Leighton Meester,Country Strong ,14814,4204,4,country music|panties|pink panties|relapse|songwriter,English,Official site,15000000,2010,6.3,2.35,0
+David Nutter,84,119,918,Ethan Embry,989,Horror|Mystery|Sci-Fi|Thriller,Bruce Greenwood,Disturbing Behavior ,17328,4660,3,blue ribbon|high school|jacket|jock|yogurt,English,Australia,15000000,1998,5.5,1.85,673
+Derek Cianfrance,140,310,619,Ben Mendelsohn,33000,Crime|Drama|Thriller,Ryan Gosling,The Place Beyond the Pines ,187170,34413,3,bank|carnival|motorcycle|police|rookie cop,English,USA,15000000,2012,7.3,2.35,47000
+Roger Donaldson,108,79,537,Akie Kotabe,775,Action|Crime|Thriller,Luke Bracey,The November Man ,50056,3033,2,critically bashed|premarital sex|sex scene|sex standing up|stripper,English,USA,15000000,2014,6.3,2.35,0
+Stephan Elliott,109,11,159,Patrick Bergin,471,Drama|Mystery|Thriller,Jason Priestley,Eye of the Beholder ,13320,1069,1,chicago illinois|false identity|femme fatale|new york city|spying,English,Canada,15000000,1999,4.9,2.35,327
+Kathryn Bigelow,131,0,383,Christian Camargo,10000,Drama|History|Thriller|War,Jeremy Renner,The Hurt Locker ,332065,11114,0,army|bomb|dangerous job|death|iraq,English,USA,15000000,2008,7.6,1.85,16000
+Mark L. Lester,114,73,563,George C. Scott,695,Action|Horror|Sci-Fi|Thriller,Heather Locklear,Firestarter ,22797,3444,1,captain|experiment|fire|psychic|secret government agency,English,USA,15000000,1984,6.0,2.35,0
+Andrew Dominik,97,181,748,Sam Shepard,11000,Crime|Thriller,Brad Pitt,Killing Them Softly ,111625,14025,1,exploding car|hit by a car|poker game|punched in the face|shot to death,English,USA,15000000,2012,6.2,2.35,20000
+Anton Corbijn,122,210,123,Nina Hoss,22000,Crime|Drama|Thriller,Philip Seymour Hoffman,A Most Wanted Man ,57210,22574,3,intelligence|intelligence agency|secret service|surveillance camera|war on terror,English,UK,15000000,2014,6.8,2.35,13000
+Tom Green,87,374,484,Harland Williams,826,Comedy,Rip Torn,Freddy Got Fingered ,39788,2689,1,animator|bamboo cane|cartoonist|sausage|slacker,English,USA,15000000,2001,4.5,1.85,0
+Mike Nawrocki,85,12,23,Cam Clarke,354,Adventure|Animation|Comedy|Family,Yuri Lowenthal,The Pirates Who Don't Do Anything: A VeggieTales Movie ,2037,568,0,17th century|king|pirate|vegetable|waiter,English,USA,15000000,2008,5.7,1.85,175
+Catherine Owens,85,0,44,The Edge,468,Documentary|Music,Bono,U2 3D ,2673,646,0,3d in title|digit in title|rock band|rocker|u2,English,USA,,2007,8.4,1.78,116
+Douglas Aarniokoski,101,36,377,Adrian Paul,1000,Action|Adventure|Fantasy|Sci-Fi,Christopher Lambert,Highlander: Endgame ,16340,2764,1,battle|explosion|immortal|revenge|sequel to cult film,English,USA,15000000,2000,4.6,2.35,356
+Bryan Barber,121,16,526,Faizon Love,907,Crime|Drama|Musical|Romance,Cicely Tyson,Idlewild ,4603,3633,4,gangster|playing piano|song and dance|speakeasy|written and directed by cast member,English,USA,15000000,2006,6.2,2.35,489
+Lone Scherfig,107,92,358,Jim Sturgess,11000,Drama|Romance,Anne Hathaway,One Day ,106111,17627,0,23 year time span|accidental death|best friend|loss of loved one|male female friendship,English,USA,15000000,2011,7.0,2.35,49000
+Drew Barrymore,111,0,727,Jimmy Fallon,796,Drama|Sport,Daniel Stern,Whip It ,55665,2633,1,beauty pageant|friend|pageant|roller derby|texas,English,USA,15000000,2009,6.9,2.35,10000
+Brian Koppelman,92,34,366,Tom Noonan,14000,Crime|Drama|Thriller,Vin Diesel,Knockaround Guys ,19768,15644,1,mob|mobster|money|montana|sheriff,English,USA,,2001,6.1,2.35,566
+James Foley,97,164,308,Brian Van Holt,436,Crime|Thriller,Louis Lombardi,Confidence ,30643,1172,3,con|grifter|lap dance|organized crime|shot in the forehead,English,USA,15000000,2003,6.7,2.35,622
+Albert Brooks,97,745,745,Bradley Whitford,12000,Comedy,Jeff Bridges,The Muse ,9294,15209,2,directed by star|muse|satire|screenwriter|tiffany's,English,USA,15000000,1999,5.6,1.37,251
+Irwin Winkler,125,34,65,Keith Allen,427,Biography|Drama|Music|Musical,Kevin McNally,De-Lovely ,9649,729,7,cole porter|composer|love|party|tears,English,USA,20000000,2004,6.6,2.35,1000
+Woody Allen,124,11000,563,Larry David,11000,Comedy|Drama|Romance,Woody Allen,New York Stories ,13692,12685,0,12 year old|artist|hotel|three word title|written and directed by cast member,English,USA,15000000,1989,6.4,1.85,877
+Steve Gomer,76,9,47,Kyla Pratt,595,Adventure|Family,Trevor Morgan,Barney's Great Adventure ,2724,1139,0,apostrophe in title|critically bashed|hit on the head with a ball|punctuation in title|tyrannosaurus rex,English,Canada,15000000,1998,2.8,1.85,436
+RZA,107,561,353,RZA,746,Action,Rick Yune,The Man with the Iron Fists ,53471,2377,3,blacksmith|box office flop|chop socky|critically bashed|village,English,USA,15000000,2012,5.4,2.35,29000
+Dean Parisot,91,23,629,Jake Busey,925,Comedy|Drama|Romance,Catherine O'Hara,Home Fries ,7159,2913,2,baby|infidelity|pilot|pregnant|waitress,English,USA,15000000,1998,5.0,1.85,247
+Mark Piznarski,96,4,670,Chris Klein,989,Drama|Romance,Bruce Greenwood,Here on Earth ,7403,3142,1,diner|love|private school|school|small town,English,USA,15000000,2000,5.1,1.85,648
+Terry Gilliam,142,0,1000,Bob Hoskins,22000,Drama|Sci-Fi,Robert De Niro,Brazil ,152306,29475,0,black comedy|bureaucracy|dream|terrorist|wrongful arrest,English,UK,15000000,1985,8.0,1.85,16000
+Sean McNamara,103,80,782,Rebecca De Mornay,1000,Family|Music|Romance,Oliver James,Raise Your Voice ,22649,4676,0,music school|scholarship|small town|stage fright|three word title,English,USA,15000000,2004,5.9,2.35,1000
+,60,,186,Nicole de Boer,443,Drama|Fantasy|Mystery|Sci-Fi,David Ogden Stiers,The Dead Zone             ,7122,981,1,psychic|psychic power|psychometry|spin off|supernatural power,English,Canada,,,7.5,,576
+Joel Coen,117,0,12000,Jeff Bridges,22000,Comedy|Crime,Philip Seymour Hoffman,The Big Lebowski ,537419,47728,1,death|drug|nihilism|rug|white russian,English,USA,15000000,1998,8.2,1.85,35000
+Craig Brewer,116,153,539,Michael Raymond-James,3000,Drama|Music,Justin Timberlake,Black Snake Moan ,52421,5012,0,breasts|nipples visible through clothing|nudity|rear entry sex|white panties,English,USA,15000000,2006,7.0,2.35,0
+Ron Shelton,118,41,274,Dash Mihok,556,Crime|Drama|Romance|Thriller,Khandi Alexander,Dark Blue ,17261,1873,1,corrupt|criminal|investigation|lapd|police,English,USA,15000000,2002,6.6,2.35,455
+Michael Winterbottom,108,187,254,Archie Panjabi,11000,Biography|Drama|History|Thriller|War,Angelina Jolie Pitt,A Mighty Heart ,24150,12178,0,fbi|journalist|missing|pakistan|reporter,English,USA,16000000,2007,6.7,2.35,923
+David Raynr,94,9,612,Jodi Lyn O'Keefe,11000,Comedy|Drama|Romance,James Franco,Whatever It Takes ,8055,13524,4,male objectification|manipulative behavior|modern day adaptation|narcissistic woman|promiscuous woman,English,USA,15000000,2000,5.5,1.85,816
+Mort Nathan,97,2,461,Lin Shaye,890,Comedy,Vivica A. Fox,Boat Trip ,26598,3161,4,gay|hot air balloon|rejecting a marriage proposal|talking to a dog|vomiting on someone,English,USA,20000000,2002,4.9,1.85,1000
+Oliver Parker,97,32,692,Tom Wilkinson,14000,Comedy|Drama|Romance,Colin Firth,The Importance of Being Earnest ,18966,16502,5,comedy of manners|false identity|farce|love|period drama,English,UK,15000000,2002,6.9,2.35,0
+Dan Curtis,99,45,224,Campbell Scott,1000,Fantasy|Romance,Jennifer Jason Leigh,The Love Letter ,1465,2166,1,antique|desk|letter|love|time travel,English,USA,,1998,7.4,1.33,515
+Wil Shriner,91,6,596,Neil Flynn,8000,Adventure|Comedy|Family,Logan Lerman,Hoot ,6562,10732,0,fight|florida|montana|owl|school,English,USA,15000000,2006,5.6,1.85,647
+Martin McDonagh,107,454,39,Anna Madeley,65,Comedy|Crime|Drama,Elizabeth Berrington,In Bruges ,307639,173,1,bruges|bullet|hope|irish|tourist,English,UK,15000000,2008,8.0,2.35,32000
+Tina Gordon Chism,95,24,426,S. Epatha Merkerson,931,Comedy|Romance,Tyler James Williams,Peeples ,4065,3322,6,african american,English,USA,15000000,2013,5.3,2.35,0
+Peter Cattaneo,102,11,1000,Bradley Cooper,15000,Comedy|Music,Emma Stone,The Rocker ,32311,33153,4,20 years later|drummer|hdtv|rock band|rock star,English,USA,15000000,2008,6.2,1.85,0
+Vicky Jenson,88,96,360,Zach Gilford,24000,Comedy|Romance,J.K. Simmons,Post Grad ,11498,25637,1,graduation|graduation speech|title directed by female|tv studio|unemployment,English,USA,15000000,2009,5.3,1.85,0
+Gus Van Sant,106,835,363,Hal Holbrook,13000,Drama,Matt Damon,Promised Land ,30284,14544,1,corporate greed|corporation|natural gas|salesman|small town,English,USA,15000000,2012,6.6,1.85,10000
+Woody Allen,92,11000,386,Michael McKean,860,Comedy|Romance,Larry David,Whatever Works ,58967,2717,1,atheist|limp|quantum mechanics|religion|runaway,English,USA,15000000,2009,7.2,1.85,10000
+Mary Lambert,105,52,275,Susan Ward,477,Drama|Mystery|Thriller,Matthew Settle,The In Crowd ,3668,2312,4,clique|country club|female protagonist|lip gloss|title directed by female,English,USA,15000000,2000,4.6,1.85,157
+Tommy Lee Jones,107,0,289,Dwight Yoakam,572,Adventure|Crime|Drama|Mystery|Western,Levon Helm,Three Burials ,34194,1627,2,cemetery|friend|journey|mexico|promise,English,France,15000000,2005,7.5,2.35,0
+Peter Kassovitz,120,0,693,Mark Margolis,49000,Drama|War,Robin Williams,Jakob the Liar ,12601,51657,2,german|ghetto|hope|nazi|radio,English,France,15000000,1999,6.5,1.85,0
+Shane Black,103,1000,611,Corbin Bernsen,21000,Comedy|Crime|Mystery,Robert Downey Jr.,Kiss Kiss Bang Bang ,175962,23932,2,actor|detective sergeant|hotel|nightclub|thief,English,USA,15000000,2005,7.6,2.35,0
+Rodman Flender,92,6,577,Fred Willard,890,Comedy|Fantasy|Horror|Thriller,Vivica A. Fox,Idle Hands ,33745,3654,0,breasts|female frontal nudity|nude woman murdered|slow motion scene|trailer home,English,USA,20000000,1999,6.2,1.85,0
+David Lynch,147,0,669,Robert Forster,6000,Drama|Mystery|Thriller,Naomi Watts,Mulholland Drive ,235992,8484,1,amnesia|car accident|female protagonist|lesbian sex|loss of memory,English,France,15000000,2001,8.0,1.85,16000
+Katja von Garnier,98,18,220,Agnes Bruckner,837,Drama|Fantasy|Horror|Romance,Olivier Martinez,Blood and Chocolate ,15388,1675,0,colorado|love|murder|rocky mountains|werewolf,English,USA,,2007,5.5,2.35,0
+Woody Allen,98,11000,557,Naomi Watts,12000,Comedy|Drama|Romance,Anthony Hopkins,You Will Meet a Tall Dark Stranger ,36145,19310,0,call girl|charlatan|fortune teller|manuscript|writer,English,USA,22000000,2010,6.3,1.85,0
+Mark Romanek,103,132,844,Charlie Rowe,10000,Drama|Romance|Sci-Fi,Andrew Garfield,Never Let Me Go ,109873,12867,0,boarding school|childhood|love|love triangle|organ donation,English,UK,15000000,2010,7.2,2.35,33000
+,286,,527,Tom Hollander,857,Drama|History|Thriller,Anna Silk,The Company             ,3828,3809,3,cia|mole|revolution|spy|ussr,English,USA,,,7.9,1.78,733
+Brad Anderson,111,122,25,Eduardo Noriega,918,Crime|Drama|Mystery|Thriller,Thomas Kretschmann,Transsiberian ,42792,1252,0,35 mm digital camera|drugs|murder|train|travel,English,Spain,15000000,2008,6.7,2.35,0
+Michael Chapman,98,70,90,Pamela Reed,876,Adventure|Drama|Fantasy,Curtis Armstrong,The Clan of the Cave Bear ,4996,1351,0,cave bear|cro magnon|neanderthal|survival|tradition,English,USA,15000000,1986,5.3,2.35,843
+Antonio Banderas,111,0,617,Elizabeth Perkins,783,Comedy|Crime|Drama,Meat Loaf,Crazy in Alabama ,5917,4834,0,abusive husband|alabama|boy|dream|sheriff,English,USA,15000000,1999,6.3,2.35,391
+Michael Haneke,111,0,287,Siobhan Fallon Hogan,6000,Crime|Drama|Horror|Thriller,Naomi Watts,Funny Games ,69569,6748,0,breaking the fourth wall|looking at the camera|remake|serial killer|violence,English,USA,15000000,2007,6.5,1.85,0
+Khalil Sullins,100,5,46,Kalim Chandler,192,Drama|Sci-Fi|Thriller,Thomas Stroppel,Listening ,1933,527,0,divorce papers|fainting|mind control|playground|technology,English,Cambodia,,2014,5.6,2.35,708
+Atom Egoyan,116,460,71,Elaine Cassidy,5000,Drama|Thriller,Bob Hoskins,Felicia's Journey ,6690,5426,0,caterer|catering|chef|friend|lawn mower,English,Canada,,1999,7.0,2.35,284
+Fritz Lang,145,756,18,Gustav Fröhlich,136,Drama|Sci-Fi,Brigitte Helm,Metropolis ,111841,203,1,art deco|bible quote|dance|silent film|worker,German,Germany,6000000,1927,8.3,1.33,12000
+Pierre Morel,84,180,58,Cyril Raffaelli,510,Action|Crime|Thriller,David Belle,District B13 ,55928,962,2,bomb|gang|police|sister|undercover cop,French,France,12000000,2004,7.2,2.35,0
+Gary Fleder,115,39,642,Bill Cobbs,12000,Crime|Drama,Steve Buscemi,Things to Do in Denver When You're Dead ,22345,14889,2,death|finger gun|video message|what happened to epilogue|wheelchair,English,USA,7000000,1995,6.8,1.85,0
+Hsiao-Hsien Hou,105,141,56,Chen Chang,1000,Action|Drama,Qi Shu,The Assassin ,9427,1172,1,black magic|china|love|refusal to kill|wuxia,Mandarin,Taiwan,15000000,2015,6.4,1.37,0
+Gregor Jordan,98,34,730,Scott Glenn,936,Comedy|Crime|Drama|Thriller|War,Dean Stockwell,Buffalo Soldiers ,20730,3578,1,berlin wall|germany|murder|soldier|specialist,English,UK,15000000,2001,6.9,2.35,664
+Andrey Zvyagintsev,99,445,9,Vladimir Garin,20,Drama|Mystery|Thriller,Konstantin Lavronenko,The Return ,31589,48,0,boy|photograph|return|russian|wilderness,Russian,Russia,,2003,8.0,1.85,0
+Tony Jaa,110,0,7,Petchtai Wongkamlao,64,Action,Nirut Sirichanya,Ong-bak 2 ,24570,134,0,cult film|elephant|jungle|martial arts|stylized violence,Thai,Thailand,300000000,2008,6.2,2.35,0
+Neil Marshall,97,197,570,JJ Feild,13000,Action|Adventure|Drama|History|Thriller|War,Michael Fassbender,Centurion ,64777,15293,0,mushroom|mute|roman soldier|screaming|wood carving,English,UK,,2010,6.4,2.35,0
+Russell Mulcahy,88,85,40,Gina Bellman,825,Action|Drama|Thriller,Christopher Heyerdahl,Silent Trigger ,2699,1432,0,assassin|die hard scenario|rangefinder|soldier|veteran,English,Canada,9000000,1996,5.6,2.35,154
+Ryûhei Kitamura,103,129,1000,Brooke Shields,14000,Fantasy|Horror|Mystery,Bradley Cooper,The Midnight Meat Train ,47574,18639,0,butcher|girlfriend|mute character|photographer|subway,English,USA,15000000,2008,6.1,2.35,0
+Darrell Roodt,104,36,2,Wendy Crewson,549,Biography|Drama|History,Jennifer Hudson,Winnie Mandela ,609,801,2,character name in title|nelson mandela|one word title|reference to winnie mandela|south africa,English,South Africa,15000000,2011,6.0,,705
+Dito Montiel,90,68,642,Al Pacino,17000,Crime|Drama|Thriller,Channing Tatum,The Son of No One ,14280,32814,5,housing project|letter|man with glasses|murder|subjective camera,English,USA,15000000,2011,5.1,2.35,0
+Stefan Ruzowitzky,105,24,125,Udo Kier,776,Action|Comedy|Drama|War,Eddie Izzard,All the Queen's Men ,2236,1732,1,apostrophe in title|behind enemy lines|box office flop|gay interest|punctuation in title,English,Germany,25000000,2001,4.5,2.35,193
+Jake Paltrow,93,17,66,Gael Le Cornec,1000,Comedy|Drama|Fantasy|Music|Romance,Stephen Graham,The Good Night ,7519,1245,1,commercial|dream|dreaming|girl|new york city,English,USA,15000000,2007,5.9,1.85,445
+Juraj Jakubisko,141,15,576,Hans Matheson,735,Biography|Drama|Fantasy|History,Anna Friel,Bathory: Countess of Blood ,3425,2528,1,bathory|countess|female protagonist|legend|virgin blood,English,Slovakia,,2008,6.0,2.35,0
+Anthony Silverston,85,0,912,Steve Buscemi,14000,Adventure|Animation|Family,Liam Neeson,Khumba ,4006,29488,0,herd|ostrich|waterhole|wildebeest|zebra,English,South Africa,20000000,2013,5.8,,0
+Gabe Ibáñez,109,19,537,Robert Forster,1000,Action|Sci-Fi|Thriller,Birgitte Hjort Sørensen,Automata ,41638,2829,0,child hitman|dystopia|future|robot|self repair,English,Bulgaria,7000000,2014,6.1,2.35,13000
+Gerry Lively,105,93,51,Lucy Gaskell,179,Action|Adventure|Fantasy,Bruce Payne,Dungeons & Dragons: Wrath of the Dragon God ,5018,363,0,combat|helmet|martial arts|medieval times|violence,English,Germany,15000000,2005,4.9,1.78,473
+Daniele Luchetti,98,6,50,Rodrigo De la Serna,61,Biography,Maximilian Dirr,Chiamatemi Francesco - Il Papa della gente ,80,192,0,,Spanish,Italy,15000000,2015,5.7,,18
+Tung-Shing Yee,119,3,19,Daniel Wu,556,Action|Crime|Drama|Thriller,Bingbing Fan,Shinjuku Incident ,9177,996,4,chinese|gang|gratitude|immigrant|japan,Mandarin,Hong Kong,15000000,2009,7.1,2.35,821
+Julien Temple,124,67,303,Dexter Fletcher,631,Biography|Drama,Samantha Morton,Pandaemonium ,695,1585,1,betrayal|french revolution|friendship|poet|revolution,English,UK,15000000,2000,6.6,,277
+Harold Ramis,101,11000,512,Chris Elliott,13000,Comedy|Fantasy|Romance,Bill Murray,Groundhog Day ,437418,15500,1,cult film|existentialism|groundhog day|time loop|trapped in a time loop,English,USA,14600000,1993,8.1,1.85,38000
+Gregory Jacobs,115,13,642,Channing Tatum,20000,Comedy|Drama|Music,Matt Bomer,Magic Mike XXL ,38202,38963,3,male bonding|male friendship|male objectification|muscular|stripper,English,USA,14800000,2015,5.7,2.35,41000
+Baz Luhrmann,120,1000,954,Harold Perrineau,29000,Drama|Romance,Leonardo DiCaprio,Romeo + Juliet ,167750,33791,2,hawaiian shirt|love|shakespeare adaptation|shakespeare play|star crossed lovers,English,USA,14500000,1996,6.8,2.35,10000
+Gilles Paquet-Brenner,111,15,121,Aidan Quinn,1000,Drama|War,Kristin Scott Thomas,Sarah's Key ,12937,2140,2,apartment|escape|jewish family|journalist|key,French,France,10000000,2010,7.5,2.35,0
+Peter Cousens,94,5,124,David Rasche,467,Drama|Family|Music,Sharon Leal,Freedom ,993,994,2,19th century|christian film|hymn|religion|slave,English,USA,14500000,2014,6.2,,998
+Clint Eastwood,131,16000,638,Morgan Freeman,16000,Drama|Western,Clint Eastwood,Unforgiven ,277505,28544,1,englishman|leaving flowers on a grave|one last job|reputation|visiting wife's grave,English,USA,14400000,1992,8.3,2.35,10000
+Lars von Trier,139,3000,236,Jeremy Davies,3000,Drama,Bryce Dallas Howard,Manderlay ,18646,4211,1,cotton|female frontal nudity|flogging|gangster|slavery,English,Denmark,14200000,2005,7.4,2.35,1000
+Danny Boyle,120,0,40,Saurabh Shukla,668,Drama|Romance,Anil Kapoor,Slumdog Millionaire ,641997,820,0,cheating|falling from height|murder|non professional cast|slum,English,UK,15000000,2008,8.0,2.35,13000
+Adrian Lyne,119,213,249,Lois Smith,886,Drama|Romance|Thriller,Fred Gwynne,Fatal Attraction ,55101,1639,0,borderline personality disorder|killing a pet|madame butterfly|new york|new york city,English,USA,14000000,1987,6.9,1.85,3000
+Garry Marshall,125,0,700,Hector Elizondo,8000,Comedy|Romance,Julia Roberts,Pretty Woman ,213476,11135,2,businessman|falling in love with a prostitute|hotel|prostitute|rich man poor woman,English,USA,14000000,1990,6.9,1.85,11000
+John Blanchard,65,0,176,Andrea Martin,770,Comedy,Martin Short,Towering Inferno             ,10,1125,2,,English,Canada,,,9.5,1.33,0
+John Cornell,108,5,57,Linda Kozlowski,442,Action|Adventure|Comedy,Paul Hogan,Crocodile Dundee II ,44096,717,1,australia|australian|crime boss|crocodile|gangster,English,Australia,15800000,1988,5.5,2.35,489
+Vidhu Vinod Chopra,101,34,277,Chris Marquette,892,Action|Crime|Drama|Mystery|Thriller,María Valverde,Broken Horses ,1554,2055,0,,English,USA,15000000,2015,5.7,2.35,0
+Oliver Stone,145,0,560,Tom Berenger,10000,Biography|Drama|War,Tom Cruise,Born on the Fourth of July ,76842,12098,0,desert|drunkenness|religious mother|strict mother|vietnam war,English,USA,14000000,1989,7.2,2.35,4000
+Jon Turteltaub,98,226,496,Leon,953,Adventure|Comedy|Family|Sport,Doug E. Doug,Cool Runnings ,69733,2496,1,bobsled|coach|jamaica|olympic games|olympics,English,USA,15000000,1993,6.9,1.85,0
+Patrick Lussier,101,71,725,Jaime King,10000,Horror|Thriller,Jensen Ackles,My Bloody Valentine ,45603,14159,0,coma|death|miner|valentine|valentine's day,English,USA,15000000,2009,5.5,1.85,0
+Ole Bornedal,92,30,309,Madison Davenport,941,Horror|Thriller,Kyra Sedgwick,The Possession ,47169,2348,0,basketball coach|box|jewish|rabbi|yard sale,English,USA,14000000,2012,5.9,2.35,17000
+Ted Kotcheff,93,270,535,Brian Dennehy,13000,Action|Adventure|Drama,Sylvester Stallone,First Blood ,172493,15192,1,1980s|colonel|deputy|rambo|sheriff,English,USA,14000000,1982,7.7,2.35,0
+Sylvain White,109,41,748,Laz Alonso,997,Drama|Music|Romance,Chris Brown,Stomp the Yard ,19505,3544,0,atlanta georgia|competition|dancer|death|fraternity,English,USA,14000000,2007,5.2,2.35,0
+Lewis Gilbert,123,43,238,Desmond Llewelyn,456,Action|Adventure|Sci-Fi|Thriller,Caroline Munro,The Spy Who Loved Me ,76477,1326,2,1970s|cult film|official james bond series|submarine|world war three,English,UK,14000000,1977,7.1,2.35,0
+,60,,84,Steve Gonsalves,155,Documentary,Amy Bruni,Ghost Hunters             ,5563,552,0,ghost|paranormal|paranormal research|shaky cam,English,USA,,,6.6,,373
+Jamie Blanks,99,9,648,Loretta Devine,975,Horror|Mystery|Thriller,Alicia Witt,Urban Legend ,47814,3500,4,campus|death|friend|professor|urban legend,English,USA,14000000,1998,5.5,2.35,0
+Stephen Frears,119,350,418,Peter Capaldi,18000,Drama|Romance,Keanu Reeves,Dangerous Liaisons ,52846,35501,2,catholic|corruption|emotional abuse|france|seduction,English,USA,14000000,1988,7.7,1.85,0
+Tyler Perry,110,0,490,Phylicia Rashad,849,Comedy|Drama|Romance,Eddie Cibrian,Good Deeds ,6352,2226,1,businessman|fight|mean brother|narrated by character|wordplay in title,English,USA,,2012,5.4,2.35,0
+Randal Kleiser,107,116,25,Klaus Maria Brandauer,327,Adventure|Drama,Seymour Cassel,White Fang ,15730,552,1,alaska|dog|friendship|gold|yukon,English,USA,14000000,1991,6.7,1.85,0
+Bruce McCulloch,81,54,636,Elaine Hendrix,8000,Comedy|Romance,Will Ferrell,Superstar ,15047,10792,1,dancing|orphan|school|special education|student,English,USA,14000000,1999,5.0,1.85,2000
+Phyllida Lloyd,105,58,583,Jim Broadbent,11000,Biography|Drama|History,Meryl Streep,The Iron Lady ,82327,12894,1,british prime minister|female prime minister|politics|prime minister|told in flashback,English,UK,13000000,2011,6.4,2.35,18000
+Mike Nawrocki,82,12,8,Mike Nawrocki,23,Adventure|Animation|Comedy|Drama|Family|Musical,Phil Vischer,Jonah: A VeggieTales Movie ,3135,49,0,anthropomorphism|pirate|pirate ship|tomato|whale,English,USA,14000000,2002,6.6,1.85,184
+John Singleton,109,309,279,Khandi Alexander,592,Drama|Romance,Janet Jackson,Poetic Justice ,8904,1620,0,african american|mail carrier|poetry|postal worker|south central los angeles,English,USA,14000000,1993,5.9,1.85,0
+Kevin Bray,95,10,111,Roger Guenveur Smith,706,Action|Comedy|Crime|Thriller,Mike Epps,All About the Benjamins ,9693,1421,2,black comedy|bounty hunter|diamond|machismo|money,English,USA,14000000,2002,5.7,2.35,530
+Wes Craven,100,0,364,W. Earl Brown,723,Comedy|Fantasy|Horror|Romance,John Witherspoon,Vampire in Brooklyn ,17262,2348,1,blood|destiny|nightmare|partner|vampire,English,USA,20000000,1995,4.5,1.85,1000
+John Boorman,118,128,467,Richard Burton,931,Horror,Linda Blair,Exorcist II: The Heretic ,16294,2704,7,demon|exorcism|locust|priest|repressed memory,English,USA,14000000,1977,3.7,1.85,889
+Courtney Solomon,91,31,50,James D'Arcy,874,Horror|Mystery|Thriller,Sissy Spacek,An American Haunting ,22207,1608,0,flashback|lifting someone into the air|paranormal phenomena|voice over letter|year 1818,English,UK,14000000,2005,5.0,2.35,0
+David Zucker,90,119,636,Tyler Labine,869,Comedy|Romance,Carmen Electra,My Boss's Daughter ,24038,3007,2,boss' daughter|crush|house sitter|housesitting|love interest,English,USA,14000000,2003,4.6,1.85,411
+David Twohy,108,123,690,Milla Jovovich,26000,Adventure|Mystery|Thriller,Chris Hemsworth,A Perfect Getaway ,56338,41359,4,cliff|hawaii|island|newlywed|waterfall,English,USA,14000000,2009,6.5,2.35,4000
+Rick Famuyiwa,103,44,625,Lance Gross,953,Comedy|Romance,America Ferrera,Our Family Wedding ,5721,3299,2,california|love|marriage|wedding|wedding dress,English,USA,14000000,2010,4.9,2.35,1000
+Alan Cohn,96,0,654,Linda Cardellini,3000,Comedy,Alyson Hannigan,Dead Man on Campus ,11729,6861,0,college|college roommate|party|roommate|student,English,USA,14000000,1998,6.0,1.85,645
+Franco Zeffirelli,117,160,55,Joan Plowright,718,Comedy|Drama|War,Lily Tomlin,Tea with Mussolini ,9323,1148,6,ambassador|american|art|english|italy,English,Italy,12000000,1999,6.9,1.85,970
+Tom Holland,93,85,514,Bethany Joy Lenz,1000,Fantasy|Horror,Joe Mantegna,Thinner ,19805,2777,0,death|doctor|gypsy|judge|lawyer,English,USA,8500000,1996,5.7,1.85,0
+Martin Scorsese,136,17000,213,Liza Minnelli,22000,Drama|Music|Musical|Romance,Robert De Niro,"New York, New York ",13548,23378,0,love|musician|saxophonist|singer|songwriter,English,USA,14000000,1977,6.7,1.66,932
+Spike Lee,115,0,534,Delroy Lindo,1000,Comedy|Drama,Alfre Woodard,Crooklyn ,6011,3267,0,argument|birthday|bully|coming of age|semi autobiographical,English,USA,14000000,1994,6.9,1.85,905
+Chris Rock,94,0,458,Eliza Coupe,12000,Comedy|Drama|Romance,Steve Buscemi,I Think I Love My Wife ,13866,13446,3,banker|investment|investment banker|marriage|sex,English,USA,,2007,5.5,1.85,488
+James Isaac,85,52,489,Kane Hodder,1000,Action|Horror|Sci-Fi|Thriller,Peter Mensah,Jason X ,38985,3050,1,jason voorhees|lake|machete|scientist|slasher,English,USA,11000000,2001,4.4,1.85,0
+Shawn Levy,88,189,799,Donald Faison,934,Adventure|Comedy|Family,Frankie Muniz,Big Fat Liar ,29008,3707,1,brunette|film producer|liar|prank|stunt,English,USA,15000000,2002,5.4,1.85,896
+Emilio Estevez,112,0,383,Nick Cannon,12000,Drama|History,Anthony Hopkins,Bobby ,38142,13528,0,campaign|chess|friend|hotel|senator,English,USA,14000000,2006,7.0,2.35,0
+Mark Waters,86,70,169,Ivana Milicevic,878,Comedy|Mystery|Romance,Monica Potter,Head Over Heels ,11693,2165,5,apartment|fast motion scene|model|private investigation|suspected murder,English,USA,14000000,2001,5.4,2.35,613
+Josh Schwartz,86,90,635,Jackson Nicoll,962,Adventure|Comedy,Thomas McDonell,Fun Size ,11233,3715,1,adult humor|best friend|friend|halloween|teenage girl,English,USA,14000000,2012,5.4,2.35,0
+Julian Schnabel,112,232,177,Mathieu Amalric,413,Biography|Drama,Emmanuelle Seigner,The Diving Bell and the Butterfly ,89906,1372,1,arc de triomphe paris|based on autobiography|coma|elle magazine|male frontal nudity,French,France,,2007,8.0,1.85,13000
+Todd Field,137,143,280,Noah Emmerich,14000,Drama|Romance,Kate Winslet,Little Children ,92781,15337,0,adulterous wife|bar|dysfunctional marriage|sex offender|suburb,English,USA,26000000,2006,7.6,2.35,5000
+Davis Guggenheim,90,49,191,Sharon Lawrence,12000,Drama|Mystery|Thriller,Norman Reedus,Gossip ,12519,12776,5,college|college campus|gossip|rape|sex,English,USA,24000000,2000,5.9,2.35,853
+Tony Goldwyn,107,956,113,Julie Kavner,10000,Drama,Viggo Mortensen,A Walk on the Moon ,6782,10368,1,adulterous wife|cheating wife|summer|unfaithfulness|woodstock,English,USA,14000000,1999,6.6,1.85,860
+Phillip Noyce,98,176,15,Terry Pheto,543,Biography|Drama|History,Derek Luke,Catch a Fire ,9334,678,3,attack|coach|colonel|jail|oil refinery,English,France,14000000,2006,6.7,2.35,447
+Stephen Carpenter,84,12,102,Angela Featherstone,159,Drama|Horror|Mystery|Thriller,Melissa Sagemiller,Soul Survivors ,7277,417,4,car accident|college|ghost|girl in panties|white panties,English,USA,14000000,2001,3.9,1.85,231
+James Ivory,139,133,5,Todd Boyce,423,Biography|Drama|History|Romance,Seth Gilliam,Jefferson in Paris ,2427,446,1,18th century|ambassador|french revolution|friendship|thomas jefferson,English,France,14000000,1995,5.7,1.85,127
+Stephan Elliott,97,11,548,Kristin Scott Thomas,14000,Comedy|Romance,Colin Firth,Easy Virtue ,16444,16431,4,estate|female frontal nudity|female nudity|no panties|unhappy marriage,English,UK,,2008,6.7,2.35,2000
+James Fargo,127,109,324,Joseph Cotten,16000,Action|Adventure|History,Christopher Lee,Caravans ,524,17250,0,afghanistan|caravan|rebel|russian|tribe,English,Iran,14000000,1978,6.5,2.35,76
+Mike Leigh,150,608,43,Ruth Sheen,149,Biography|Drama|History,Lesley Manville,Mr. Turner ,17933,390,0,prism|rented room|scrofula|sketching|sunrise,English,UK,8200000,2014,6.8,2.35,0
+Alain Resnais,104,752,59,Sara Forestier,412,Drama|Romance,Mathieu Amalric,Wild Grass ,3174,799,0,dentist|letter|pilot|skateboard|wallet,French,France,,2009,6.3,2.35,512
+Costa-Gavras,132,333,284,Mathieu Kassovitz,380,Biography|Crime|Drama|War,Sebastian Koch,Amen. ,11077,1429,2,jesuit|jew|pope|priest|ss,English,France,103000000,2002,7.3,1.85,0
+Chao-Bin Su,117,2,21,Shawn Yue,149,Action,Woo-sung Jung,Reign of Assassins ,6069,243,2,martial arts|sword fight|wuxia,Mandarin,China,12000000,2010,6.9,2.35,1000
+Neil Burger,115,168,322,Katherine LaNasa,697,Comedy|Drama|War,John Heard,The Lucky Ones ,11704,2243,0,college tuition|guitar|road trip|soldier|stranded,English,USA,15000000,2008,7.0,1.85,702
+Kenneth Lonergan,186,50,338,Kieran Culkin,13000,Drama,Matt Damon,Margaret ,12053,14638,1,accident|bus|loss of virginity|new york city|virginity,English,USA,14000000,2011,6.5,1.85,0
+Bo Zenga,90,10,378,Kenan Thompson,826,Comedy|Horror,Steve Howey,Stan Helsing ,9928,2207,7,dollar bill|double entendre|escaped convict|halloween|striptease,English,Canada,,2009,3.6,1.85,934
+Rob Reiner,90,0,767,Rebecca De Mornay,1000,Comedy|Drama|Romance,Madeline Carroll,Flipped ,60460,4377,0,apology|falling in love|multiple perspectives|narrated by a girl|younger version of character,English,USA,14000000,2010,7.7,1.85,14000
+Ang Lee,134,0,11000,Heath Ledger,15000,Drama|Romance,Jake Gyllenhaal,Brokeback Mountain ,259837,39789,0,gay relationship|homosexuality|mountain|ranch|rodeo,English,USA,14000000,2005,7.7,1.85,13000
+Jonathan Liebesman,101,473,429,Danny Woodburn,833,Action|Adventure|Comedy|Sci-Fi,Noel Fisher,Teenage Mutant Ninja Turtles ,167089,2690,0,18 wheeler|mutant|ninja|sewer|turtle,English,USA,125000000,2014,5.9,2.35,62000
+Amy Heckerling,97,143,201,Dan Hedaya,927,Comedy|Romance,Donald Faison,Clueless ,123390,1724,1,female protagonist|high school|makeover|matchmaker|popularity,English,USA,12000000,1995,6.8,1.85,0
+Todd Haynes,107,162,135,Celia Weston,2000,Drama|Romance,Dennis Quaid,Far from Heaven ,36542,2447,2,african american|catastrophe|family relationships|farewell scene|therapy,English,USA,13500000,2002,7.4,1.85,0
+Steve Pink,99,38,390,Gillian Jacobs,3000,Comedy|Sci-Fi,Adam Scott,Hot Tub Time Machine 2 ,28159,4702,4,acid trip|gameshow|hot tub|time lord|time machine,English,USA,14000000,2015,5.1,1.85,0
+,55,,2,Olaf Lubaszenko,20,Drama,Krystyna Janda,Dekalog             ,12590,25,0,meaning of life|moral challenge|morality|search for meaning|ten commandments,Polish,Poland,,,9.1,1.33,0
+Philip Kaufman,124,133,170,Stephen Marcus,14000,Biography|Drama,Kate Winslet,Quills ,44795,14726,1,asylum|lust|male pubic hair|penis|pubic hair,English,UK,13500000,2000,7.4,1.85,0
+Martin McDonagh,110,454,816,Gabourey Sidibe,2000,Comedy|Crime,Abbie Cornish,Seven Psychopaths ,185845,4757,7,dognapping|gangster|misfiring gun|screenwriter|shih tzu,English,UK,15000000,2012,7.2,2.35,52000
+Kasi Lemmons,105,148,400,Tamara Tunie,539,Crime|Drama|Music|Mystery|Thriller,Colm Feore,The Caveman's Valentine ,5602,1767,0,chrysler building manhattan new york city|delusion|manhattan new york city|new york city|title directed by female,English,USA,,2001,6.0,1.85,329
+,41,,2,Marian Dziedziel,70,Action|Crime|Drama|Thriller,Jacek Koman,The Border             ,271,74,4,,Polish,Poland,,,7.4,,64

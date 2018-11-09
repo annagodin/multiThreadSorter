@@ -1,223 +1,335 @@
-facenumber_in_poster
-1
-2
-5
-6
-0
-1
-2
-3
-0
-2
-2
-8
-0
-1
-0
-4
-1
-0
-4
-0
-2
-0
-3
-2
-1
-2
-2
-0
-1
-0
-0
-0
-0
-3
-1
-0
-0
-
-2
-2
-3
-1
-0
-0
-1
-2
-0
-2
-4
-0
-0
-3
-3
-1
-0
-0
-3
-0
-0
-0
-2
-0
-0
-0
-0
-3
-0
-2
-1
-0
-0
-0
-7
-0
-0
-2
-0
-0
-0
-0
-2
-0
-0
-4
-2
-2
-0
-0
-4
-0
-2
-1
-0
-3
-0
-1
-1
-0
-0
-0
-5
-4
-0
-1
-2
-0
-6
-3
-1
-0
-2
-1
-3
-0
-0
-2
-0
-0
-0
-0
-0
-0
-0
-6
-1
-3
-0
-0
-1
-0
-1
-2
-1
-3
-0
-0
-1
-1
-7
-3
-4
-2
-0
-3
-1
-1
-2
-0
-4
-3
-2
-0
-0
-1
-0
-3
-0
-0
-0
-0
-3
-0
-1
-0
-0
-0
-0
-0
-0
-0
-0
-4
-0
-0
-4
-3
-0
-1
-1
-3
-1
-0
-2
-0
-0
-1
-
-3
-2
-0
-3
-1
-0
-2
-0
-0
-1
-0
-4
-0
-3
-0
-3
-1
-3
-0
-4
-1
-2
-0
-1
-1
-1
-1
-0
-0
-1
-0
-1
-0
-1
-0
+director_name,num_critic_for_reviews,actor_1_facebook_likes,movie_title,title_year
+Tanner Beard,2,10000,The Legend of Hell's Gate: An American Conspiracy ,2011
+Scott Dow,23,680,The Walking Deceased ,2015
+Derick Martini,32,2000,The Curse of Downers Grove ,2015
+Jerry Dugan,18,11000,Shark Lake ,2015
+Tim Hunter,45,18000,River's Edge ,1986
+Michael Polish,60,548,Northfork ,2003
+William Kaufman,23,405,The Marine 4: Moving Target ,2015
+Rodrigo Cortés,363,16000,Buried ,2010
+Richard Ayoade,249,920,Submarine ,2010
+Jehane Noujaim,68,161,The Square ,2013
+Pascal Arnold,14,533,One to Another ,2006
+Kimberly Peirce,359,17000,Carrie ,2013
+Remo,15,733,ABCD (Any Body Can Dance) ,2013
+Wes Craven,256,40000,A Nightmare on Elm Street ,1984
+James Marsh,194,41,Man on Wire ,2008
+John Laing,,42,Abandoned ,2015
+Jamal Hill,10,628,Brotherly Love ,2015
+Daniel Stamm,311,463,The Last Exorcism ,2010
+Sam Taylor-Johnson,205,1000,Nowhere Boy ,2009
+Elia Kazan,94,10000,A Streetcar Named Desire ,1951
+Stanley Kubrick,192,654,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,1964
+Carlos Carrera,85,201,El crimen del padre Amaro ,2002
+Benh Zeitlin,663,2000,Beasts of the Southern Wild ,2012
+J. Lee Thompson,62,595,Battle for the Planet of the Apes ,1973
+Maggie Greenwald,39,767,Songcatcher ,2000
+Vera Farmiga,68,553,Higher Ground ,2011
+Vijay Chandar,3,141,Vaalu ,2015
+Morgan Spurlock,130,16000,The Greatest Movie Ever Sold ,2011
+Jonathan Wacks,13,12000,Ed and His Dead Mother ,1993
+Khyentse Norbu,44,0,Travelers and Magicians ,2003
+Ted Post,26,16000,Hang 'Em High ,1968
+Richard Brooks,27,2000,Deadline - U.S.A. ,1952
+Tony Krantz,53,647,Sublime ,2007
+Mitchell Altieri,,467,A Beginner's Guide to Snuff ,2016
+W.D. Hogan,10,433,Independence Daysaster ,2013
+Corey Grant,4,761,Dysfunctional Friends ,2012
+Tom Tykwer,181,486,Run Lola Run ,1998
+Lucky McKee,114,701,May ,2002
+Richard Boddington,11,900,Against the Wild ,2013
+David Hunt,1,86,Living Dark: The Story of Ted the Caver ,2013
+Patricia Riggen,75,953,Under the Same Moon ,2007
+J. Lee Thompson,80,595,Conquest of the Planet of the Apes ,1972
+Todd Field,179,1000,In the Bedroom ,2001
+Steven R. Monroe,225,635,I Spit on Your Grave ,2010
+Mark Illsley,77,349,"Happy, Texas ",1999
+Pawel Pawlikowski,124,680,My Summer of Love ,2004
+Ritesh Batra,195,638,The Lunchbox ,2013
+Sally Potter,76,887,Yes ,2004
+Frank Capra,51,319,You Can't Take It with You ,1938
+Fred Zinnemann,101,862,From Here to Eternity ,1953
+John Ford,55,281,She Wore a Yellow Ribbon ,1949
+Brad J. Silverman,15,651,Grace Unplugged ,2013
+Dave Meyers,16,489,Foolish ,1999
+David M. Matthews,5,713,N-Secure ,2010
+Nadine Labaki,109,227,Caramel ,2007
+Lluís Quílez,40,327,Out of the Dark ,2014
+Eytan Fox,51,53,The Bubble ,2006
+Francis Ford Coppola,149,11000,The Conversation ,1974
+Romesh Sharma,4,421,Dil Jo Bhi Kahey... ,2005
+François Truffaut,35,963,Mississippi Mermaid ,1969
+Adam Goldberg,22,2000,I Love Your Work ,2003
+Travis Zariwny,68,427,Cabin Fever ,2016
+Zack Snyder,287,3000,Dawn of the Dead ,2004
+Adrienne Shelly,173,597,Waitress ,2007
+Newt Arnold,61,633,Bloodsport ,1988
+Frank Capra,96,607,Mr. Smith Goes to Washington ,1939
+Larry Clark,71,3000,Kids ,1995
+Noah Baumbach,110,436,The Squid and the Whale ,2005
+Charles Herman-Wurmfeld,110,378,Kissing Jessica Stein ,2001
+Yimou Zhang,101,9,"A Woman, a Gun and a Noodle Shop ",2009
+John Stockwell,2,260000,Kickboxer: Vengeance ,2016
+Alfred Hitchcock,97,472,Spellbound ,1945
+Atom Egoyan,53,991,Exotica ,1994
+Vincent Gallo,106,1000,Buffalo '66 ,1998
+James Wan,445,852,Insidious ,2010
+Alex Cox,131,752,Repo Man ,1984
+Fabián Bielinsky,94,827,Nine Queens ,2000
+Dror Moreh,105,0,The Gatekeepers ,2012
+Rebecca Miller,75,552,The Ballad of Jack and Rose ,2005
+Maggie Carey,97,801,The To Do List ,2013
+Roger Avary,37,902,Killing Zoe ,1993
+Henry Bean,84,33000,The Believer ,2001
+David Gordon Green,88,947,Snow Angels ,2007
+Simeon Rice,6,393,Unsullied ,2014
+Brad Anderson,127,210,Session 9 ,2001
+Jeff Garlin,32,813,I Want Someone to Eat Cheese With ,2006
+Qasim Basir,8,1000,Mooz-Lum ,2010
+Adam Green,229,936,Hatchet ,2006
+Charles Chaplin,120,309,Modern Times ,1936
+Pete Jones,31,954,Stolen Summer ,2002
+Bruce Campbell,100,634,My Name Is Bruce ,2007
+Mark Brown,14,890,The Salon ,2005
+Adam Carolla,14,563,Road Hard ,2015
+Ira Sachs,39,826,Forty Shades of Blue ,2005
+John Sayles,35,38,Amigo ,2010
+Bruce McDonald,178,413,Pontypool ,2008
+James Mottern,46,87000,Trucker ,2008
+Jaime Zevallos,,310,Me You and Five Bucks ,2015
+Rob Zombie,234,1000,The Lords of Salem ,2012
+Gerard Johnstone,166,61,Housebound ,2014
+Robert Greenwald,56,0,Wal-Mart: The High Cost of Low Price ,2005
+David Ray,16,199,Fetching Cody ,2005
+Dave Rodriguez,9,979,Once Upon a Time in Queens ,2013
+Nae Caranfil,18,129,Closer to the Moon ,2014
+David Winning,4,341,Mutant World ,2014
+Frank Lotito,,3000,Growing Up Smith ,2015
+Timothy Woodward Jr.,6,835,Checkmate ,2015
+Christopher McQuarrie,387,10000,Jack Reacher ,2012
+Tara Subkoff,35,501,#Horror ,2015
+Russell Friedenberg,27,708,Wind Walkers ,2015
+William Cottrell,145,82,Snow White and the Seven Dwarfs ,1937
+Lucrecia Martel,78,341,The Holy Girl ,2004
+Edward Dmytryk,10,984,Shalako ,1968
+Zak Penn,60,87,Incident at Loch Ness ,2004
+Alex Ranarivelo,9,1000,The Dog Lover ,2016
+Jon Knautz,63,756,Girl House ,2014
+Mathieu Amalric,92,412,The Blue Room ,2014
+David Worth,4,847,House at the End of the Drive ,2014
+Leslie H. Martinson,53,1000,Batman: The Movie ,1966
+Guy Ritchie,116,26000,"Lock, Stock and Two Smoking Barrels ",1998
+Robert M. Young,,883,The Ballad of Gregorio Cortez ,1982
+,13,416,The Streets of San Francisco             ,
+Thomas Vinterberg,98,280,The Celebration ,1998
+Steve Buscemi,43,12000,Trees Lounge ,1996
+Ham Tran,15,51,Journey from the Fall ,2006
+Rich Cowan,14,2000,The Basket ,1999
+Boris Rodriguez,56,413,Eddie: The Sleepwalking Cannibal ,2012
+Harold Becker,79,13000,Mercury Rising ,1998
+,8,210,Space: Above and Beyond             ,
+Sadyk Sher-Niyaz,16,0,Queen of the Mountains ,2014
+Paul Donovan,18,232,Def-Con 4 ,1985
+Jonathan Kesselman,35,2000,The Hebrew Hammer ,2003
+Arjun Sablok,5,374,Neal 'N' Nikki ,2005
+Craig Moss,16,700,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,2010
+Tyler Oliver,24,35000,Forget Me Not ,2009
+Alfred Hitchcock,144,1000,Rebecca ,1940
+Steve Miner,242,309,Friday the 13th Part 2 ,1981
+Billy Wilder,97,287,The Lost Weekend ,1945
+Douglas Cheek,77,796,C.H.U.D. ,1984
+Youssef Delara,16,2000,Filly Brown ,2012
+Deryck Broom,7,578,The Lion of Judah ,2011
+Henry Hathaway,74,469,Niagara ,1953
+John Ford,74,595,How Green Was My Valley ,1941
+,19,934,The Girlfriend Experience             ,
+Spike Lee,46,3000,Da Sweet Blood of Jesus ,2014
+Steven Soderbergh,58,828,"Sex, Lies, and Videotape ",1989
+James Wan,287,2000,Saw ,2004
+Jay Chandrasekhar,100,816,Super Troopers ,2001
+Giovanni Zelko,5,18000,The Algerian ,2014
+Claudia Sainte-Luce,50,31,The Amazing Catfish ,2013
+Scott Derrickson,276,18000,The Day the Earth Stood Still ,2008
+Mira Nair,137,307,Monsoon Wedding ,2001
+Kenneth Lonergan,122,2000,You Can Count on Me ,2000
+Alfred Hitchcock,73,282,The Trouble with Harry ,1955
+Paul McGuigan,202,13000,Lucky Number Slevin ,2006
+Jamie Babbit,99,1000,But I'm a Cheerleader ,1999
+David Boyd,10,890,Home Run ,2013
+Quentin Tarantino,173,16000,Reservoir Dogs ,1992
+Walter Lang,7,94,The Blue Bird ,1940
+Sergio Leone,181,16000,"The Good, the Bad and the Ugly ",1966
+Anna Muylaert,111,61,The Second Mother ,2015
+Steve Taylor,38,1000,Blue Like Jazz ,2012
+Kurt Voss,12,268,Down and Out with the Dolls ,2001
+Léa Pool,23,,"Pink Ribbons, Inc. ",2011
+James David Pasternak,17,49000,Certifiably Jonathan ,2007
+Laurent Bouhnik,9,34,Q ,2011
+Tom Sanchez,1,3,The Knife of Don Juan ,2013
+David Caffrey,51,690,Grand Theft Parsons ,2003
+Adam Jay Epstein,14,387,Extreme Movie ,2008
+Michael Curtiz,24,843,The Charge of the Light Brigade ,1936
+Justin Thomas Ostensen,18,721,Below Zero ,2011
+Brenton Spencer,22,380,Crowsnest ,2012
+Rob Bowman,9,584,Airborne ,1993
+Ossie Davis,30,586,Cotton Comes to Harlem ,1970
+Jay Alaimo,9,10000,The Wicked Within ,2015
+Dylan Bank,7,498,Bleeding Hearts ,2015
+Rob McKittrick,91,16000,Waiting... ,2005
+Shane Meadows,99,680,Dead Man's Shoes ,2004
+,2,511,Wolf Creek             ,
+Jeff Burr,57,448,From a Whisper to a Scream ,1987
+Harry Gantz,12,,Sex with Strangers ,2002
+Guy Maddin,58,14,Dracula: Pages from a Virgin's Diary ,2002
+Regardt van den Bergh,5,412,Faith Like Potatoes ,2006
+Panos Cosmatos,97,434,Beyond the Black Rainbow ,2010
+Gareth Evans,481,1000,The Raid: Redemption ,2011
+Matthew R. Anderson,17,1000,The Dead Undead ,2010
+Joe Marino,9,12,The Vatican Exorcisms ,2013
+Michael Curtiz,242,2000,Casablanca ,1942
+Joel Anderson,95,12,Lake Mungo ,2008
+Shimit Amin,14,964,Rocket Singh: Salesman of the Year ,2009
+Douglas Trumbull,87,844,Silent Running ,1972
+John G. Avildsen,141,13000,Rocky ,1976
+Mona Fastvold,16,321,The Sleepwalker ,2014
+John Carpenter,212,2000,The Fog ,1980
+Tony Richardson,30,883,Tom Jones ,1963
+Levan Gabriadze,270,707,Unfriended ,2014
+Martin Scorsese,211,22000,Taxi Driver ,1976
+Joe Dante,161,1000,The Howling ,1981
+Terence Young,184,650,Dr. No ,1962
+Bradley Parker,270,1000,Chernobyl Diaries ,2012
+Clive Barker,203,266,Hellraiser ,1987
+Harold Cronk,29,634,God's Not Dead 2 ,2016
+Jeff Wadlow,137,1000,Cry_Wolf ,2005
+Takao Okawara,107,43,Godzilla 2000 ,1999
+Derek Cianfrance,377,33000,Blue Valentine ,2010
+Duncan Tucker,169,2000,Transamerica ,2005
+William Brent Bell,225,403,The Devil Inside ,2012
+Russ Meyer,101,503,Beyond the Valley of the Dolls ,1970
+Robert D. Webb,39,356,Love Me Tender ,1956
+Davis Guggenheim,372,861,An Inconvenient Truth ,2006
+Allan Dwan,40,183,Sands of Iwo Jima ,1949
+Martin Scorsese,129,543,Shine a Light ,2008
+Eli Roth,285,640,The Green Inferno ,2013
+Andrew Steggall,29,202,Departure ,2015
+Ben Lewin,337,422,The Sessions ,2012
+Robert Kenner,120,37,"Food, Inc. ",2008
+Andrew Erwin,40,544,October Baby ,2011
+Brad Anderson,38,22000,Next Stop Wonderland ,1998
+Jason Reitman,387,24000,Juno ,2007
+Craig Johnson,185,3000,The Skeleton Twins ,2014
+Sean Durkin,348,321,Martha Marcy May Marlene ,2011
+Gillian Robespierre,155,612,Obvious Child ,2014
+Courtney Hunt,181,496,Frozen River ,2008
+Morgan Neville,149,130,20 Feet from Stardom ,2013
+James Toback,54,21000,Two Girls and a Guy ,1997
+Nicole Holofcener,18,778,Walking and Talking ,1996
+Peter Cattaneo,122,1000,The Full Monty ,1997
+Chris Paine,87,783,Who Killed the Electric Car? ,2006
+Greg Berlanti,51,1000,The Broken Hearts Club: A Romantic Comedy ,2000
+Don Coscarelli,260,1000,Bubba Ho-Tep ,2002
+Rob Letterman,218,2000,Goosebumps ,2015
+Marc Levin,16,245,Slam ,1998
+Richard Dutcher,12,957,Brigham City ,2001
+Khalid Mohamed,1,353,Fiza ,2000
+Mel Brooks,48,1000,History of the World: Part I ,1981
+Trey Parker,59,406,Orgazmo ,1997
+David Gordon Green,88,11000,All the Real Girls ,2003
+Finn Taylor,28,611,Dream with the Fishes ,1997
+Karen Moncrieff,44,638,Blue Car ,2002
+José Luis Valenzuela,13,844,Luminarias ,2000
+Gia Coppola,117,11000,Palo Alto ,2013
+Scandar Copti,100,20,Ajami ,2009
+Goran Dukic,117,1000,Wristcutters: A Love Story ,2006
+Mike Cahill,140,7000,I Origins ,2014
+Efram Potelle,29,855,The Battle of Shaker Heights ,2003
+Peter Jackson,308,873,The Lovely Bones ,2009
+Joshua Oppenheimer,248,3,The Act of Killing ,2012
+Alex Gibney,84,141,Taxi to the Dark Side ,2007
+Paul Crowder,40,102,Once in a Lifetime: The Extraordinary Story of the New York Cosmos ,2006
+Rohit Jagessar,,12,Guiana 1838 ,2004
+Griffin Dunne,13,978,Lisa Picard Is Famous ,2000
+Anthony Powell,31,53,Antarctica: A Year on Ice ,2013
+Kief Davidson,43,20,A Lego Brickumentary ,2014
+Johnny Remo,2,260000,Hardflip ,2012
+Vivek Agnihotri,4,724,Chocolate: Deep Dark Secrets ,2005
+Ti West,238,969,The House of the Devil ,2009
+Nick Tomnay,112,443,The Perfect Host ,2010
+John Hamburg,33,499,Safe Men ,1998
+Nickolas Perry,8,590,Speedway Junky ,1999
+Dan Zukovic,95,96,The Last Big Thing ,1996
+Craig Mazin,29,2000,The Specials ,2000
+Becky Smith,3,386,16 to Life ,2009
+Eric Nicholas,71,262,Alone with Her ,2006
+Benjamin Dickinson,36,446,Creative Control ,2015
+Hal Haberman,56,975,Special ,2006
+Darren Stein,8,491,Sparkler ,1997
+A. Raven Cruz,3,639,The Helix... Loaded ,2005
+Brian Trenchard-Smith,8,563,In Her Line of Fire ,2006
+Frank Whaley,9,474,The Jimmy Show ,2001
+Amat Escalante,87,327,Heli ,2013
+Wajahat Rauf,6,7,Karachi se Lahore ,2015
+Katherine Brooks,14,442,Loving Annabelle ,2006
+David Cross,20,782,Hits ,2014
+Randall Rubin,23,363,Jimmy and Judy ,2006
+Robert Bennett,6,984,Frat Party ,2009
+Guy Hamilton,12,694,The Party's Over ,1965
+Mary Pat Kelly,2,767,Proud ,2004
+Lori Petty,12,34000,The Poker House ,2008
+Charlie Levi,,1000,Childless ,2008
+Kevin Hamedani,64,199,ZMD: Zombies of Mass Destruction ,2009
+David DeCoteau,7,458,Snow White: A Deadly Summer ,2012
+Mikel Rueda,9,90,Hidden Away ,2014
+Stefan C. Schaefer,21,898,My Last Day Without You ,2011
+Michael Taliferro,,592,Steppin: The Movie ,2009
+David DeCoteau,1,10000,Doc Holliday's Revenge ,2014
+Katie Aselton,95,224,Black Rock ,2012
+Robert Heath,40,335,Truth or Die ,2012
+D. Stevens,6,92,The Pet ,2006
+Jeffrey St. Jules,16,57,Bang Bang Baby ,2014
+Robert Hall,39,677,Fear Clinic ,2015
+K. King,150,214,Zombie Hunter ,2013
+Jonathan Meyers,1,657,A Fine Step ,2014
+Danny Boyle,393,3000,Trance ,2013
+Ralph Nelson,32,754,Charly ,1968
+Blair Erickson,78,696,Banshee Chapter ,2013
+,,775,Jesse             ,
+Allison Burnett,8,529,Ask Me Anything ,2014
+Richard Schenkman,6,1000,And Then Came Love ,2007
+Sanjay Rawal,9,56,Food Chains ,2014
+Elia Kazan,134,10000,On the Waterfront ,1954
+Kat Coiro,18,945,L!fe Happens ,2011
+Cristian Mungiu,233,131,"4 Months, 3 Weeks and 2 Days ",2007
+Brian Dorton,10,1000,The Horror Network Vol. 1 ,2015
+David Slade,231,109,Hard Candy ,2005
+Jamie Babbit,65,982,The Quiet ,2005
+Maryam Keshavarz,76,144,Circumstance ,2011
+Ryan Coogler,327,282,Fruitvale Station ,2013
+Ramaa Mosley,62,975,The Brass Teapot ,2012
+James Algar,116,16,Bambi ,1942
+Charles Herman-Wurmfeld,73,465,The Hammer ,2007
+Ric Roman Waugh,238,12000,Snitch ,2013
+C. Jay Cox,35,23000,Latter Days ,2003
+Mariette Monpierre,2,0,Elza ,2011
+Tommy Oliver,6,904,1982 ,2013
+Jamie Travis,115,938,"For a Good Time, Call... ",2012
+Lee Toland Krieger,193,904,Celeste & Jesse Forever ,2012
+Rich Christiano,16,284,Time Changer ,2002
+Paul Andrew Williams,68,418,London to Brighton ,2006
+Nick Love,16,489,American Hero ,2015
+Natalie Bible',7,1000,Windsor Drive ,2015
+Asghar Farhadi,354,786,A Separation ,2011
+Justin Molotnikov,16,49,Crying with Laughter ,2009
+Todd Solondz,74,529,Welcome to the Dollhouse ,1995
+Victor Nunez,11,159,Ruby in Paradise ,1993
+Peter Sollett,59,302,Raising Victor Vargas ,2002
+Georg Wilhelm Pabst,71,426,Pandora's Box ,1929
+Daniel Davila,5,940,Harrison Montgomery ,2008
+Jorge Gaggero,25,24,Live-In Maid ,2004
+Rod Lurie,29,574,Deterrence ,1999
+Michael Burke,17,262,The Mudge Boy ,2003
+Catherine Jelski,13,1000,The Young Unknowns ,2000
+Shane Dawson,6,247,Not Cool ,2014
+Tommy Wirkola,224,35,Dead Snow ,2009
+Ryan Little,33,214,Saints and Soldiers ,2003

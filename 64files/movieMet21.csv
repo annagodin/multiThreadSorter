@@ -1,51 +1,420 @@
-num_voted_users,facenumber_in_poster,movie_imdb_link
-25,6,http://www.imdb.com/title/tt3421204/?ref_=fn_tt_tt_1
-37,0,http://www.imdb.com/title/tt2559658/?ref_=fn_tt_tt_1
-4849,0,http://www.imdb.com/title/tt0015624/?ref_=fn_tt_tt_1
-110,0,http://www.imdb.com/title/tt0469690/?ref_=fn_tt_tt_1
-330,3,http://www.imdb.com/title/tt2290113/?ref_=fn_tt_tt_1
-84817,0,http://www.imdb.com/title/tt1172570/?ref_=fn_tt_tt_1
-146,0,http://www.imdb.com/title/tt3210710/?ref_=fn_tt_tt_1
-575,0,http://www.imdb.com/title/tt1781784/?ref_=fn_tt_tt_1
-2742,1,http://www.imdb.com/title/tt0182508/?ref_=fn_tt_tt_1
-161,0,http://www.imdb.com/title/tt0168192/?ref_=fn_tt_tt_1
-4812,0,http://www.imdb.com/title/tt0045546/?ref_=fn_tt_tt_1
-22124,0,http://www.imdb.com/title/tt0046672/?ref_=fn_tt_tt_1
-152232,0,http://www.imdb.com/title/tt0079501/?ref_=fn_tt_tt_1
-63951,0,http://www.imdb.com/title/tt0117802/?ref_=fn_tt_tt_1
-147566,1,http://www.imdb.com/title/tt0058461/?ref_=fn_tt_tt_1
-4152,1,http://www.imdb.com/title/tt0024548/?ref_=fn_tt_tt_1
-131,0,http://www.imdb.com/title/tt0420723/?ref_=fn_tt_tt_1
-2099,7,http://www.imdb.com/title/tt1544600/?ref_=fn_tt_tt_1
-1034,2,http://www.imdb.com/title/tt1211890/?ref_=fn_tt_tt_1
-4212,0,http://www.imdb.com/title/tt1517177/?ref_=fn_tt_tt_1
-460,0,http://www.imdb.com/title/tt0303313/?ref_=fn_tt_tt_1
-48,3,http://www.imdb.com/title/tt1301130/?ref_=fn_tt_tt_1
-148334,0,http://www.imdb.com/title/tt2053463/?ref_=fn_tt_tt_1
-2413,0,http://www.imdb.com/title/tt0388230/?ref_=fn_tt_tt_1
-81,0,http://www.imdb.com/title/tt2690560/?ref_=fn_tt_tt_1
-1328,0,http://www.imdb.com/title/tt1152827/?ref_=fn_tt_tt_1
-3507,0,http://www.imdb.com/title/tt0923600/?ref_=fn_tt_tt_1
-78,0,http://www.imdb.com/title/tt3565836/?ref_=fn_tt_tt_1
-352,0,http://www.imdb.com/title/tt0437123/?ref_=fn_tt_tt_1
-9903,0,http://www.imdb.com/title/tt0048452/?ref_=fn_tt_tt_1
-6689,0,http://www.imdb.com/title/tt0944101/?ref_=fn_tt_tt_1
-129799,0,http://www.imdb.com/title/tt0756683/?ref_=fn_tt_tt_1
-771,0,http://www.imdb.com/title/tt0446055/?ref_=fn_tt_tt_1
-1338,1,http://www.imdb.com/title/tt0412366/?ref_=fn_tt_tt_1
-374,3,http://www.imdb.com/title/tt0448182/?ref_=fn_tt_tt_1
-37,0,http://www.imdb.com/title/tt1989646/?ref_=fn_tt_tt_1
-191,0,http://www.imdb.com/title/tt3666210/?ref_=fn_tt_tt_1
-15,1,http://www.imdb.com/title/tt1702455/?ref_=fn_tt_tt_1
-27882,0,http://www.imdb.com/title/tt0118849/?ref_=fn_tt_tt_1
-19846,0,http://www.imdb.com/title/tt1714210/?ref_=fn_tt_tt_1
-4769,0,http://www.imdb.com/title/tt0091939/?ref_=fn_tt_tt_1
-27,0,http://www.imdb.com/title/tt2421956/?ref_=fn_tt_tt_1
-354,1,http://www.imdb.com/title/tt4707756/?ref_=fn_tt_tt_1
-71387,1,http://www.imdb.com/title/tt1549572/?ref_=fn_tt_tt_1
-6025,2,http://www.imdb.com/title/tt1666335/?ref_=fn_tt_tt_1
-3340,1,http://www.imdb.com/title/tt0067810/?ref_=fn_tt_tt_1
-8,3,http://www.imdb.com/title/tt3581098/?ref_=fn_tt_tt_1
-5178,2,http://www.imdb.com/title/tt0271219/?ref_=fn_tt_tt_1
-90827,0,http://www.imdb.com/title/tt0907657/?ref_=fn_tt_tt_1
-524,0,http://www.imdb.com/title/tt0217894/?ref_=fn_tt_tt_1
+director_facebook_likes,actor_2_name,movie_title
+44,Djimon Hounsou,Seventh Son 
+165,Noah Taylor,Lara Croft: Tomb Raider 
+0,Morgan Freeman,Transcendence 
+394,Trevor Morgan,Jurassic Park III 
+81,David Oyelowo,Rise of the Planet of the Apes 
+70,Tod Fennell,The Spiderwick Chronicles 
+212,Cole Hauser,A Good Day to Die Hard 
+102,Marc Blucas,The Alamo 
+663,Craig T. Nelson,The Incredibles 
+212,Frank Langella,Cutthroat Island 
+0,Rosario Dawson,Percy Jackson & the Olympians: The Lightning Thief 
+188,Rip Torn,Men in Black 
+487,John Ratzenberger,Toy Story 2 
+12000,Rosario Dawson,Unstoppable 
+420,John Lone,Rush Hour 2 
+0,Amber Valletta,What Lies Beneath 
+97,Bobb'e J. Thompson,Cloudy with a Chance of Meatballs 
+107,Maile Flanagan,Ice Age: Dawn of the Dinosaurs 
+0,Adrian Martinez,The Secret Life of Walter Mitty 
+368,LL Cool J,Charlie's Angels 
+17000,Matt Damon,The Departed 
+7,Harvey Fierstein,Mulan 
+0,Steve Coogan,Tropic Thunder 
+21000,Goran Visnjic,The Girl with the Dragon Tattoo 
+323,Aldis Hodge,Die Hard with a Vengeance 
+0,Eddie Marsan,Sherlock Holmes 
+335,Ayelet Zurer,Ben-Hur 
+21,Jim Varney,Atlantis: The Lost Empire 
+12,Joshua Mikel,Alvin and the Chipmunks: The Road Chip 
+0,Tom Wilkinson,Valkyrie 
+221,Sayed Badreya,You Don't Mess with the Zohan 
+0,Adam Sandler,Pixels 
+14000,William Hurt,A.I. Artificial Intelligence 
+50,Rachael Harris,The Haunted Mansion 
+0,Tom Skerritt,Contact 
+719,Kim Dickens,Hollow Man 
+521,George Harris,The Interpreter 
+87,Leven Rambin,Percy Jackson: Sea of Monsters 
+101,Angelina Jolie Pitt,Lara Croft Tomb Raider: The Cradle of Life 
+209,Morgan Freeman,Now You See Me 2 
+176,Michael Byrne,The Saint 
+12000,Stephen Dillane,Spy Game 
+0,Connie Nielsen,Mission to Mars 
+107,Wanda Sykes,Rio 
+0,Oliver Platt,Bicentennial Man 
+81,Anne Heche,Volcano 
+79,Brad Pitt,The Devil's Own 
+0,Christian Camargo,K-19: The Widowmaker 
+128,Reg E. Cathey,Fantastic Four 
+468,Mako,Conan the Barbarian 
+2000,Bruce McGill,Cinderella Man 
+96,Nathan Lane,The Nutcracker in 3D 
+378,Michael Angarano,Seabiscuit 
+101,Alan Ruck,Twister 
+357,Vin Diesel,The Fast and the Furious 
+0,Paul Sanchez,Cast Away 
+750,Hugh Jackman,Happy Feet 
+521,Joan Allen,The Bourne Supremacy 
+249,Gary Oldman,Air Force One 
+0,Bernie Mac,Ocean's Eleven 
+545,Logan Lerman,The Three Musketeers 
+266,Adam Sandler,Hotel Transylvania 
+36,Teala Dunn,Enchanted 
+,Scott Thompson,Hannibal             
+79,Ryan Reynolds,Safe House 
+36,Eric Idle,102 Dalmatians 
+420,Gabourey Sidibe,Tower Heist 
+278,Rufus Sewell,The Holiday 
+12000,Jake Busey,Enemy of the State 
+278,Hunter Parrish,It's Complicated 
+0,Matt Damon,Ocean's Thirteen 
+28,Debra Messing,Open Season 
+168,Theo James,Divergent 
+218,Gabriel Thomson,Enemy at the Gates 
+532,Rosario Dawson,The Rundown 
+323,Tom Noonan,Last Action Hero 
+252,Mako,Memoirs of a Geisha 
+681,Zachery Ty Bryan,The Fast and the Furious: Tokyo Drift 
+6,Imelda Staunton,Arthur Christmas 
+102,Brad Pitt,Meet Joe Black 
+99,Rick Worthy,Collateral Damage 
+189,Ben Vereen,All That Jazz 
+763,Nathan Lane,Mirror Mirror 
+1000,Kieran Culkin,Scott Pilgrim vs. the World 
+36,Tchéky Karyo,The Core 
+88,Janet Jackson,Nutty Professor II: The Klumps 
+67,Linda Cardellini,Scooby-Doo 
+38,Jason Cope,Dredd 
+153,Cameron Monaghan,Click 
+0,Hal Holbrook,Creepshow 
+62,Sean Hayes,Cats & Dogs: The Revenge of Kitty Galore 
+218,Hayden Christensen,Jumper 
+0,Iván Kamarás,Hellboy II: The Golden Army 
+21000,Jake Gyllenhaal,Zodiac 
+55,Michael Rapaport,The 6th Day 
+293,Steve Carell,Bruce Almighty 
+13000,Sylvester Stallone,The Expendables 
+0,Kristin Scott Thomas,Mission: Impossible 
+378,Josh Hutcherson,The Hunger Games 
+480,Mason Lee,The Hangover Part II 
+13000,Vincent Schiavelli,Batman Returns 
+12,Steve Carell,Over the Hedge 
+255,Jason Scott Lee,Lilo & Stitch 
+56,Julia Roberts,Charlotte's Web 
+75,Jon Favreau,Deep Impact 
+23,Anthony Hopkins,RED 2 
+88,Steve Reevis,The Longest Yard 
+31,Jesse McCartney,Alvin and the Chipmunks: Chipwrecked 
+221,Adam Sandler,Grown Ups 2 
+88,Dwayne Johnson,Get Smart 
+278,Jon Favreau,Something's Gotta Give 
+17000,Joseph Sikora,Shutter Island 
+91,Robert Duvall,Four Christmases 
+77,Drew Carey,Robots 
+610,CCH Pounder,Face/Off 
+163,Carmen Electra,Bedtime Stories 
+0,Jennifer Jason Leigh,Road to Perdition 
+221,Bailee Madison,Just Go with It 
+,Royce Johnson,Daredevil             
+165,Monica Potter,Con Air 
+154,Ethan Embry,Eagle Eye 
+333,Natalie Portman,Cold Mountain 
+117,Mila Kunis,The Book of Eli 
+10,Jodi Benson,Flubber 
+101,Lili Taylor,The Haunting 
+30,Wayne Knight,Space Jam 
+189,Henry Czerny,The Pink Panther 
+301,Jon Hamm,The Day the Earth Stood Still 
+503,Alex McArthur,Conspiracy Theory 
+452,Logan Lerman,Fury 
+425,Anne Heche,Six Days Seven Nights 
+40,Tom Cavanagh,Yogi Bear 
+21,Charles Napier,Spirit: Stallion of the Cimarron 
+153,Leslie Bibb,Zookeeper 
+81,William Hurt,Lost in Space 
+438,Dorian Missick,The Manchurian Candidate 
+69,Stephen Dillane,Déjà Vu 
+266,Adam Sandler,Hotel Transylvania 2 
+,Agnes Moorehead,Bewitched             
+11,Penn Jillette,Fantasia 2000 
+25,Alan Young,The Time Machine 
+31,Mika Boorem,Mighty Joe Young 
+57,Don Cheadle,Swordfish 
+258,Nick Chinlund,The Legend of Zorro 
+25,Annabella Sciorra,What Dreams May Come 
+65,Jon Lovitz,Little Nicky 
+0,Heath Ledger,The Brothers Grimm 
+13000,Martin Short,Mars Attacks! 
+92,Roxane Duran,Evolution 
+93,Harold Perrineau,The Edge 
+84,Devin Ratray,Surrogates 
+79,Jon Foster,Thirteen Days 
+357,Viggo Mortensen,Daylight 
+43,Tiya Sircar,Walking with Dinosaurs 3D 
+64,Michael Byrne,Battlefield Earth 
+287,Jenna Elfman,Looney Tunes: Back in Action 
+252,Elio Germano,Nine 
+503,Gerard Butler,Timeline 
+0,Brian Anthony Wilson,The Postman 
+750,Elizabeth Daily,Babe: Pig in the City 
+42,Joseph Gilgun,The Last Witch Hunter 
+14,Val Kilmer,Red Planet 
+0,Adam LeFevre,Arthur and the Invisibles 
+63,Jacques Perrin,Oceans 
+0,Catherine McCormack,A Sound of Thunder 
+545,Currie Graham,Pompeii 
+0,David Hoffman,Top Cat Begins 
+2000,Austin Pendleton,A Beautiful Mind 
+28,Nathan Lane,The Lion King 
+62,Dwayne Johnson,Journey 2: The Mysterious Island 
+18,Khamani Griffin,Cloudy with a Chance of Meatballs 2 
+420,Anthony Hopkins,Red Dragon 
+394,Viggo Mortensen,Hidalgo 
+221,Adam Sandler,Jack and Jill 
+309,Cole Hauser,2 Fast 2 Furious 
+54,James Franco,The Little Prince 
+101,Veronica Cartwright,The Invasion 
+5,Janeane Garofalo,The Adventures of Rocky & Bullwinkle 
+11,Eric Stonestreet,The Secret Life of Pets 
+45,Max Ryan,The League of Extraordinary Gentlemen 
+275,Miranda Cosgrove,Despicable Me 2 
+776,Adam Baldwin,Independence Day 
+14000,Richard Schiff,The Lost World: Jurassic Park 
+35,Cedric the Entertainer,Madagascar 
+0,Danny Huston,Children of Men 
+0,Tyler Mane,X-Men 
+335,Morgan Freeman,Wanted 
+0,Michael Biehn,The Rock 
+107,Ray Romano,Ice Age: The Meltdown 
+88,Peter Dante,50 First Dates 
+163,Elijah Kelley,Hairspray 
+212,Alan Ford,Exorcist: The Beginning 
+16,Rene Auberjonois,Inspector Gadget 
+255,Common,Now You See Me 
+221,Adam Sandler,Grown Ups 
+14000,Chi McBride,The Terminal 
+,Matt Ryan,Constantine             
+87,Kevin Dillon,Hotel for Dogs 
+258,Scott Glenn,Vertical Limit 
+0,Tom Hanks,Charlie Wilson's War 
+10,Martin Scorsese,Shark Tale 
+386,Jennifer Hudson,Dreamgirls 
+,Brent Sexton,Life             
+473,Christina Milian,Be Cool 
+14000,Moritz Bleibtreu,Munich 
+845,Tom Skerritt,Tears of the Sun 
+126,Lisa Ann Walter,Killers 
+0,Elizabeth Debicki,The Man from U.N.C.L.E. 
+274,Paz Vega,Spanglish 
+27,Jon Heder,Monster House 
+272,Brían F. O'Byrne,Bandits 
+109,Ben Cross,First Knight 
+72,Geoffrey Palmer,Anna and the King 
+763,Daniel Sharman,Immortals 
+17,Bruce Willis,Hostage 
+383,Janeane Garofalo,Titan A.E. 
+41,Bruce Greenwood,Hollywood Homicide 
+545,Sean Pertwee,Soldier 
+10,Kiernan Shipka,Carriers 
+253,Bridget Fonda,Monkeybone 
+212,Tony Curran,Flight of the Phoenix 
+0,Bruce Willis,Unbreakable 
+22,Jon Hamm,Minions 
+0,Abbie Cornish,Sucker Punch 
+0,Mike Starr,Snake Eyes 
+272,James Pickens Jr.,Sphere 
+6,Josh Gad,The Angry Birds Movie 
+72,Ray Winstone,Fool's Gold 
+0,RZA,Funny People 
+532,Frances Fisher,The Kingdom 
+285,Leslie Bibb,Talladega Nights: The Ballad of Ricky Bobby 
+41,Jeffrey Jones,Dr. Dolittle 2 
+0,Patrick McGoohan,Braveheart 
+0,Brian Geraghty,Jarhead 
+30,Yeardley Smith,The Simpsons Movie 
+0,Hal Holbrook,The Majestic 
+212,Estella Warren,Driven 
+218,Jean-Claude Dreyfus,Two Brothers 
+0,Judy Greer,The Village 
+84,Raven-Symoné,Doctor Dolittle 
+0,Merritt Wever,Signs 
+80,Jennifer Saunders,Shrek 2 
+487,Cheech Marin,Cars 
+0,Christopher Meloni,Runaway Bride 
+357,Eve,xXx 
+5,Billy West,The SpongeBob Movie: Sponge Out of Water 
+2000,Delroy Lindo,Ransom 
+16000,Brad Pitt,Inglourious Basterds 
+14000,Julia Roberts,Hook 
+420,Rufus Sewell,Hercules 
+212,John Amos,Die Hard 2 
+69,Josh Charles,S.W.A.T. 
+,Katia Winter,Sleepy Hollow             
+488,Ivana Milicevic,Vanilla Sky 
+0,Freddy Rodríguez,Lady in the Water 
+545,Colin Salmon,AVP: Alien vs. Predator 
+84,Bridgit Mendler,Alvin and the Chipmunks: The Squeakquel 
+130,Marc Blucas,We Were Soldiers 
+845,Morgan Freeman,Olympus Has Fallen 
+906,Jonathan Frakes,Star Trek: Insurrection 
+473,Jim Parrack,Battle Los Angeles 
+13000,Alison Lohman,Big Fish 
+0,Peter Gerety,Wolf 
+14000,Benedict Cumberbatch,War Horse 
+0,Matt Damon,The Monuments Men 
+0,Todd Graff,The Abyss 
+0,Austin Pendleton,Wall Street: Money Never Sleeps 
+28,Sarah Gadon,Dracula Untold 
+380,Bruce Willis,The Siege 
+905,David Kelly,Stardust 
+218,Mako,Seven Years in Tibet 
+2000,Clint Howard,The Dilemma 
+541,Brooke Smith,Bad Company 
+43,Ben Daniels,Doom 
+84,Phill Lewis,I Spy 
+24,Stephen Rea,Underworld: Awakening 
+163,Shane Hartline,Rock of Ages 
+40,Cole Hauser,Hart's War 
+5,Robert De Niro,Killer Elite 
+323,Chris Klein,Rollerball 
+8,Sandrine Holt,Ballistic: Ecks vs. Sever 
+13,Minnie Driver,Hard Rain 
+101,Brandy Norwood,Osmosis Jones 
+6,Oliver Platt,Legends of Oz: Dorothy's Return 
+0,Archie Kao,Blackhat 
+14,Laurence Olivier,Sky Captain and the World of Tomorrow 
+105,Indira Varma,Basic Instinct 2 
+101,50 Cent,Escape Plan 
+212,Luke Newberry,The Legend of Hercules 
+31,Bruce McGill,The Sum of All Fears 
+171,Kristen Stewart,The Twilight Saga: Eclipse 
+0,Marlon Brando,The Score 
+275,Miranda Cosgrove,Despicable Me 
+29,Robert Blake,Money Train 
+3000,Morgan Freeman,Ted 2 
+448,Ashraf Barhom,Agora 
+18,Wes Studi,Mystery Men 
+101,Larry Joe Campbell,Hall Pass 
+0,Rip Torn,The Insider 
+44,Abraham Benrubi,The Finest Hours 
+0,Simon McBurney,Body of Lies 
+116,Stephanie Szostak,Dinner for Schmucks 
+335,Dominic Cooper,Abraham Lincoln: Vampire Hunter 
+36,Kevin McNally,Entrapment 
+,Kaitlyn Dever,Last Man Standing             
+38,Mitch Pileggi,The X Files 
+4,Nonso Anozie,The Last Legion 
+14000,Vin Diesel,Saving Private Ryan 
+76,Dominic Cooper,Need for Speed 
+278,Lisa Edelstein,What Women Want 
+77,Stephen Root,Ice Age 
+759,Michael O'Neill,Dreamcatcher 
+14000,Hal Holbrook,Lincoln 
+0,Marcus Chong,The Matrix 
+2000,Miko Hughes,Apollo 13 
+719,Rachel Ticotin,Total Recall 
+54,Aisha Tyler,The Santa Clause 2 
+0,Eddie Redmayne,Les Misérables 
+0,Jean Stapleton,You've Got Mail 
+285,Adam Scott,Step Brothers 
+258,Tony Amendola,The Mask of Zorro 
+480,RZA,Due Date 
+11000,Jack O'Connell,Unbroken 
+16000,Courtney B. Vance,Space Cowboys 
+212,Leon,Cliffhanger 
+610,Samantha Mathis,Broken Arrow 
+226,Lily Tomlin,The Kid 
+0,Jay Hernandez,World Trade Center 
+179,Kirsten Dunst,Mona Lisa Smile 
+119,Aasif Mandvi,The Dictator 
+0,Vinessa Shaw,Eyes Wide Shut 
+87,Dorian Missick,Annie 
+43,Adrian Martinez,Focus 
+368,Abigail Spencer,This Means War 
+687,Natasha Lyonne,Blade: Trinity 
+468,Jennifer Grey,Red Dawn 
+0,Adrian Lester,Primary Colors 
+545,Boris Kodjoe,Resident Evil: Retribution 
+545,Max Ryan,Death Race 
+212,Craig Bierko,The Long Kiss Goodnight 
+138,Alun Armstrong,Proof of Life 
+4000,Josh Hutcherson,Zathura: A Space Adventure 
+21000,Meat Loaf,Fight Club 
+368,Kimberly Williams-Paisley,We Are Marshall 
+,James Nesbitt,The Missing             
+36,James Coburn,Hudson Hawk 
+0,Michael Moore,Lucky Numbers 
+72,Kevin Grevioux,"I, Frankenstein "
+2000,Barney Clark,Oliver Twist 
+38,Cary-Hiroyuki Tagawa,Elektra 
+436,Bruce Willis,Sin City: A Dame to Kill For 
+521,Kristin Scott Thomas,Random Hearts 
+175,Martin Henderson,Everest 
+670,David Calder,Perfume: The Story of a Murderer 
+116,Josh Zuckerman,Austin Powers in Goldmember 
+42,Charlize Theron,Astro Boy 
+14000,Ariana Richards,Jurassic Park 
+759,Catherine O'Hara,Wyatt Earp 
+176,Dean Jones,Clear and Present Danger 
+10,Peng Lin,Dragon Blade 
+322,Brittany Daniel,Littleman 
+84,Thomas Kretschmann,U-571 
+0,Samantha Mathis,The American President 
+12,Romany Malco,The Love Guru 
+11,Bokeem Woodbine,3000 Miles to Graceland 
+16000,Jennifer Jason Leigh,The Hateful Eight 
+8,Amy Poehler,Blades of Glory 
+25,Elizabeth Perkins,Hop 
+0,Michael Fassbender,300 
+116,Blythe Danner,Meet the Fockers 
+64,Kathleen Turner,Marley & Me 
+0,Jeffrey DeMunn,The Green Mile 
+12,Tichina Arnold,Wild Hogs 
+10,Fred Willard,Chicken Little 
+21000,Sela Ward,Gone Girl 
+218,Josh Hamilton,The Bourne Identity 
+258,Joe Don Baker,GoldenEye 
+165,Timothy Hutton,The General's Daughter 
+608,Noah Emmerich,The Truman Show 
+59,Aria Noelle Curzon,The Prince of Egypt 
+41,Lisa Edelstein,Daddy Day Care 
+175,Patrick Fischler,2 Guns 
+6,Elizabeth Perkins,Cats & Dogs 
+473,Charlize Theron,The Italian Job 
+30,Alicia Witt,Two Weeks Notice 
+35,Woody Allen,Antz 
+0,Kristin Davis,Couples Retreat 
+12000,Robert Duvall,Days of Thunder 
+163,Tom Welling,Cheaper by the Dozen 2 
+47,Lili Taylor,The Scorch Trials 
+708,Julia Roberts,Eat Pray Love 
+420,Don Cheadle,The Family Man 
+124,Morgan Freeman,RED 
+0,Dennis Quaid,Any Given Sunday 
+0,Kristin Scott Thomas,The Horse Whisperer 
+0,Jada Pinkett Smith,Collateral 
+55,Roger Rees,The Scorpion King 
+13,Jay Hernandez,Ladder 49 
+188,Robert Duvall,Jack Reacher 
+212,Michael Rapaport,Deep Blue Sea 
+197,Mekia Cox,This Is It 
+0,Monique Gabriela Curnen,Contagion 
+18,Dyan Cannon,Kangaroo Jack 
+253,Dawn French,Coraline 
+0,Alan Ruck,The Happening 
+12000,Radha Mitchell,Man on Fire 
+48,Joel David Moore,The Shaggy Dog 
+480,Carmen Electra,Starsky & Hutch 
+32,Harvey Korman,Jingle All the Way 
+0,Rupert Evans,Hellboy 
+234,Kathleen Quinlan,A Civil Action 
+28,Kodi Smit-McPhee,ParaNorman 
+105,Bruce Willis,The Jackal 
+610,Joe Morton,Paycheck 
+50,Stockard Channing,Up Close & Personal 
+18,Matthew Broderick,The Tale of Despereaux 
+,Oliver Hudson,Rules of Engagement             
+11,Debi Mazar,The Tuxedo 
+14,Brenda Bakke,Under Siege 2: Dark Territory 

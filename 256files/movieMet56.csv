@@ -1,100 +1,391 @@
-num_critic_for_reviews,movie_title,cast_total_facebook_likes,plot_keywords,country,content_rating,budget,title_year
-42,Mr. Holland's Opus ,2223,1990s|high school|high school teacher|teacher inspires students|teaching,USA,PG,6500000,1995
-130,Criminal ,10910,cia|husband wife relationship|memory|tied up while barefoot|violence,UK,R,31500000,2016
-66,Out of Africa ,12518,africa|hunter|love|marriage|plantation,USA,PG,31000000,1985
-449,Flight ,20952,airline|flight|flight attendant|lawyer|pilot,USA,R,31000000,2012
-121,Moonraker ,1008,astronaut|dog|official james bond series|space shuttle|space shuttle transported on a 747,UK,PG,34000000,1979
-536,The Grand Budapest Hotel ,15082,first person narration|hotel|lobby boy|mentor protege relationship|painting,USA,R,25000000,2014
-135,Hearts in Atlantis ,13811,based on multiple works|bully|kiss|memory|mysterious stranger,USA,PG-13,31000000,2001
-74,Arachnophobia ,1440,arachnophobia|death|doctor|small town|spider,USA,PG-13,31000000,1990
-168,Frequency ,4045,altering history|alternate history|amateur radio|ham radio|paranormal phenomena,USA,PG-13,31000000,2000
-464,Ghostbusters ,2097,ghost|ghostbuster|ghostbusters|male objectification|reboot,USA,PG-13,144000000,2016
-204,Vacation ,40312,amusement park|dysfunctional family|road trip|sequel|vacation,USA,R,31000000,2015
-96,Get Shorty ,3439,debt|loan shark|mobster|movie business|producer,USA,R,30250000,1995
-223,Chicago ,813,fame|jail|jazz age|murder|vaudeville,USA,PG-13,45000000,2002
-112,Big Daddy ,26760,homosexual|law|law school|responsibility|vomiting,USA,PG-13,34200000,1999
-142,American Pie 2 ,7872,beach|beach house|college|party|student,USA,R,30000000,2001
-166,Toy Story ,19046,claw crane|cowboy|jealousy|rivalry|toy,USA,G,30000000,1995
-114,Speed ,20966,bomb|bus|elevator|explosive|rescue,USA,R,25000000,1994
-214,The Vow ,18322,car accident|life support|memory loss|trauma|voice recording,USA,PG-13,30000000,2012
-126,Extraordinary Measures ,17560,cure|disease|imagination|race against time|venture capital,USA,PG,31000000,2010
-157,Remember the Titans ,54877,american football|based on true story|head coach|high school|school,USA,PG,30000000,2000
-104,The Hunt for Red October ,2575,analyst|defection|navy|soviet submarine|submarine,USA,PG,30000000,1990
-304,Lee Daniels' The Butler ,20035,butler|civil rights|hotel|president|white house,USA,PG-13,30000000,2013
-191,Dodgeball: A True Underdog Story ,4730,dodgeball|gym|las vegas|pirate|ups,USA,PG-13,20000000,2004
-55,The Addams Family ,3696,accountant|loan shark|macabre|uncle|uncle fester,USA,PG-13,38000000,1991
-59,Ace Ventura: When Nature Calls ,2203,africa|bat|hawaiian shirt|pregnancy|pregnant,USA,PG-13,30000000,1995
-108,The Princess Diaries ,13645,cinderella story|fish out of water|makeover|manners|princess,USA,G,37000000,2001
-50,The First Wives Club ,3143,cult film|female therapist|revenge|revenge motive|therapy session,USA,PG,26000000,1996
-216,Se7en ,22678,detective|police partner|serial killer|serial murder|seven deadly sins,USA,R,33000000,1995
-472,District 9 ,2639,alien|ghetto|prawn|refugee|refugee camp,South Africa,R,30000000,2009
-89,The SpongeBob SquarePants Movie ,20097,based on tv series|crown|dream|king neptune|plankton,USA,PG,30000000,2004
-229,Mystic River ,1942,ballistics|detective|friend|gun|sexual abuse,USA,R,25000000,2003
-268,Million Dollar Baby ,28830,boxing|boxing trainer|death|suicide attempt|women boxing,USA,PG-13,30000000,2004
-145,Analyze This ,24333,analyst|mafia|patient|psychiatrist|wedding,USA,R,30000000,1999
-177,The Notebook ,34495,class differences|letter|nursing home|second chance|summer love,USA,PG-13,29000000,2004
-175,27 Dresses ,2978,boss|bridesmaid|friend|love|wedding,USA,PG-13,30000000,2008
-131,Hannah Montana: The Movie ,4516,farm|female protagonist|hannah montana|horseback riding|overalls,USA,G,30000000,2009
-41,Rugrats in Paris: The Movie ,4527,amusement park|baby|france|paris france|villain,Germany,G,30000000,2000
-30,The Prince of Tides ,1936,new york|psychiatrist|shrimper|south carolina|twins,USA,R,30000000,1991
-57,Legends of the Fall ,26388,epic|heart|killing an animal|passion|usa,USA,R,30000000,1994
-391,Up in the Air ,35209,airport|business trip|downsizing|on the road|travel,USA,R,25000000,2009
-217,About Schmidt ,1556,highway travel|on the road|retirement|road movie|wedding,USA,R,30000000,2002
-452,Warm Bodies ,337,fight|memory|teenager|undead|zombie,USA,PG-13,35000000,2013
-589,Looper ,37387,chase|future|surprise ending|time loop|time travel,USA,R,30000000,2012
-61,Down to Earth ,2911,angel|butler|heaven|manhattan new york city|reincarnation,USA,PG-13,30000000,2001
-79,Babe ,1185,dog|farmer|pig|sheep|sheepdog,Australia,G,30000000,1995
-234,Hope Springs ,19420,couple|intimacy|marriage|marriage counseling|middle age couple,USA,PG-13,30000000,2012
-253,Forgetting Sarah Marshall ,16758,breakup|hawaii|hotel|male full frontal nudity|resort,USA,R,30000000,2008
-51,Friday Night Lights             ,3418,football|football coach|high school|small town|texas,USA,TV-14,,
-123,Four Brothers ,2740,bare butt|corrupt police|four brothers|funeral|murder,USA,R,45000000,2005
-145,Baby Mama ,6930,baby|book|cartoon on tv|female protagonist|male anorexia,USA,PG-13,30000000,2008
-65,Hope Floats ,2860,best friend|friend|mother daughter relationship|small town|texas,USA,PG-13,30000000,1998
-152,Bride Wars ,13794,best friend|dyed hair|fake tan|rivalry|wedding,USA,PG,30000000,2009
-94,Without a Paddle ,1266,death|friend|hijacker|river|tree house,USA,PG-13,19000000,2004
-119,13 Going on 30 ,6742,13 year old|13th birthday|30 year old|wish|year 1987,USA,PG-13,37000000,2004
-487,Midnight in Paris ,1289,1920s|golden age|midnight|paris france|time travel romance,Spain,PG-13,17000000,2011
-121,The Nut Job ,18795,bank robbery|heist|raccoon|rat|squirrel,Canada,PG,42000000,2014
-147,Blow ,43453,1960s|1970s|california|cocaine|wealth,USA,R,30000000,2001
-85,Message in a Bottle ,19815,beach|bottle|jogging|letter|love,USA,PG-13,55000000,1999
-98,Star Trek V: The Final Frontier ,14710,captain|half brother|klingon|planet|vulcan,USA,PG,27800000,1989
-39,Like Mike ,3679,basketball|lightning|nba|orphanage|shoe,USA,PG,30000000,2002
-43,Naked Gun 33 1/3: The Final Insult ,4767,retirement|spoof|terrorist|transsexual|undercover,USA,PG-13,30000000,1994
-108,A View to a Kill ,2943,computer|earthquake|microchip|official james bond series|silicon valley,UK,PG,30000000,1985
-209,The Curse of the Were-Rabbit ,1145,competition|giant vegetable|pest control|stop motion animation|vegetable,UK,G,30000000,2005
-131,P.S. I Love You ,18726,birthday|friendship|hairy chest|letter|widow,USA,PG-13,30000000,2007
-73,Racing Stripes ,2910,farm|horse|kentucky|racehorse|zebra,USA,PG,,2005
-316,Atonement ,20499,death of sister|dying|loss of virginity|septicemia|sex,UK,R,30000000,2007
-159,Letters to Juliet ,1026,chick flick|female protagonist|italian stereotype|man in a swimsuit|verona italy,USA,PG,30000000,2010
-63,Black Rain ,1748,counterfeit|detective|japan|police chase|yakuza,USA,R,30000000,1989
-162,The Three Stooges ,6137,mule|nun|orphanage|tennis court|the three stooges,USA,PG,,2012
-267,Corpse Bride ,60683,arranged marriage|bride|corpse|groom|woods,USA,PG,40000000,2005
-95,Glory Road ,2577,coach|college basketball|national championship|ncaa|texas,USA,PG,,2006
-478,Sicario ,1467,critically acclaimed|drug cartel|juarez mexico|u.s. mexico border|war on drugs,USA,R,30000000,2015
-305,Southpaw ,16881,boxer|boxing training|death of wife|male in shower|rage,USA,R,30000000,2015
-397,Drag Me to Hell ,5642,evil|fight|hell|psychic|psychologist,USA,PG-13,30000000,2009
-214,The Age of Adaline ,15327,hit by a pickup truck|immortality|paramedic|resuscitation|san francisco california,USA,PG-13,25000000,2015
-82,Secondhand Lions ,9638,africa|eyeglasses|money|texas|veteran,USA,PG,30000000,2003
-138,Step Up 3D ,4059,dance|dance crew|dancer|mortgage|new york city,USA,PG-13,30000000,2010
-69,Blue Crush ,1165,bikini|female surfer|sister sister relationship|surfing contest|swimsuit,USA,PG-13,30000000,2002
-253,Stranger Than Fiction ,8362,author|fate|novelist|professor|writer,USA,PG-13,38000000,2006
-304,30 Days of Night ,814,alaska|small town|snow|vampire|winter,USA,R,32000000,2007
-634,The Cabin in the Woods ,29551,cabin in the woods|dark humor|hatchet|killed in an elevator|robot,USA,R,30000000,2012
-111,Meet the Spartans ,3854,king|persian|spartan|training|xerxes,USA,PG-13,30000000,2008
-77,Midnight Run ,23866,accountant|bounty hunter|fbi|mafia|mob,USA,R,30000000,1988
-120,The Running Man ,2373,game of death|government conspiracy|latina|oppression|police,USA,R,27000000,1987
-63,Little Shop of Horrors ,15308,eclipse|florist|nerd|plant|shop,USA,PG-13,25000000,1986
-417,Hanna ,257,assassin|female warrior|martial arts|playground|training,USA,PG-13,30000000,2011
-9,The Family             ,3295,family drama|lie|missing child|political campaign|secret,USA,TV-PG,,
-59,Mortal Kombat: Annihilation ,2266,alternate reality|battle|martial arts|mortal kombat|warrior,USA,PG-13,30000000,1997
-218,Larry Crowne ,16827,bus stop|college|community college|scooter|speech class,USA,PG-13,30000000,2011
-359,Carrie ,20051,outcast|prom|self injury|telekinesis|tragic event,USA,R,30000000,2013
-101,Take the Lead ,3797,ballroom|dance|dance teacher|student|teacher,USA,PG-13,30000000,2006
-52,Entourage             ,2867,actor|fame|friendship between men|hollywood california|sitcom,USA,TV-MA,,
-85,Gridiron Gang ,15811,alliterative title|football|football coach|football practice|football team,USA,PG-13,30000000,2006
-64,What's the Worst That Could Happen? ,3664,businessman|ring|thief|vulgarity|washington d.c.,USA,PG-13,45000000,2001
-263,9 ,1594,hope|key|machine|number|rag doll,USA,PG-13,30000000,2009
-450,Side Effects ,18469,clinical trial|female protagonist|neuropharmacology|psychiatrist|side effect,USA,R,30000000,2013
-85,The Prince and Me ,3239,denmark|king|love|prince|wisconsin,USA,PG,,2004
-162,Winnie the Pooh ,1002,disney|owl|rabbit|sequel|tiger,USA,G,30000000,2011
-85,Dumb and Dumberer: When Harry Met Lloyd ,1653,1980s|buddy|high school|prequel to cult favorite|teenager,USA,PG-13,19000000,2003
+duration,director_facebook_likes,gross,genres,num_voted_users,cast_total_facebook_likes,movie_imdb_link,num_user_for_reviews,country,content_rating,budget,actor_2_facebook_likes,imdb_score,movie_facebook_likes
+117,905,48043505,Action|Comedy,435864,2357,http://www.imdb.com/title/tt1250777/?ref_=fn_tt_tt_1,801,UK,R,30000000,488,7.7,36000
+83,181,37053924,Action|Comedy|Crime,77935,1987,http://www.imdb.com/title/tt1622547/?ref_=fn_tt_tt_1,122,Germany,R,28000000,579,6.1,0
+99,71,33000377,Action|Fantasy|Horror|Thriller,27378,23344,http://www.imdb.com/title/tt0219653/?ref_=fn_tt_tt_1,365,USA,R,28000000,1000,4.9,0
+81,44,66950483,Comedy|Family,29738,47677,http://www.imdb.com/title/tt1698641/?ref_=fn_tt_tt_1,85,USA,PG,28000000,7000,6.2,12000
+135,456,38372662,Drama|Romance,193455,1083,http://www.imdb.com/title/tt0414387/?ref_=fn_tt_tt_1,1058,France,PG,28000000,286,7.8,17000
+117,0,27000000,Sci-Fi|Thriller,461609,13877,http://www.imdb.com/title/tt0083658/?ref_=fn_tt_tt_1,1168,USA,R,28000000,759,8.2,34000
+139,105,31600000,Adventure|Biography,34427,16125,http://www.imdb.com/title/tt0114287/?ref_=fn_tt_tt_1,126,USA,R,28000000,1000,6.9,0
+123,368,30688364,Action|Drama|Thriller,69355,1286,http://www.imdb.com/title/tt2172934/?ref_=fn_tt_tt_1,211,USA,PG-13,28000000,194,6.2,10000
+117,115,28563179,Crime|Drama|Thriller,72693,3681,http://www.imdb.com/title/tt0498399/?ref_=fn_tt_tt_1,199,USA,R,21000000,327,6.9,0
+97,710,16779636,Drama|Horror|Thriller,9338,1805,http://www.imdb.com/title/tt0160484/?ref_=fn_tt_tt_1,167,USA,R,28000000,347,4.8,209
+81,63,10762178,Documentary,10369,66,http://www.imdb.com/title/tt0301727/?ref_=fn_tt_tt_1,153,France,G,160000000,3,8.0,1000
+103,80,17324744,Comedy|Fantasy|Romance,44103,3211,http://www.imdb.com/title/tt0397078/?ref_=fn_tt_tt_1,149,USA,PG-13,28000000,591,5.3,0
+119,116,8888143,Comedy|Drama|Sport,22250,2171,http://www.imdb.com/title/tt0134618/?ref_=fn_tt_tt_1,123,Canada,R,28000000,428,6.7,913
+94,32,24268828,Action|Comedy|Family,29971,3436,http://www.imdb.com/title/tt1273678/?ref_=fn_tt_tt_1,71,USA,PG,28000000,626,5.4,0
+89,23,8119205,Comedy|Family|Fantasy,4288,5535,http://www.imdb.com/title/tt0120133/?ref_=fn_tt_tt_1,21,USA,PG,28000000,937,5.4,517
+98,0,8434601,Action|Horror|Sci-Fi,43006,28867,http://www.imdb.com/title/tt0228333/?ref_=fn_tt_tt_1,460,USA,R,28000000,1000,4.9,0
+107,234,6998324,Comedy|Drama,11476,3944,http://www.imdb.com/title/tt1018765/?ref_=fn_tt_tt_1,50,USA,R,28000000,962,6.1,0
+108,23,10907291,Action|Horror|Romance,23775,4710,http://www.imdb.com/title/tt1374989/?ref_=fn_tt_tt_1,134,USA,PG-13,28000000,860,5.8,73000
+134,17000,5532301,Biography|Drama|History|War,21606,4,http://www.imdb.com/title/tt0119485/?ref_=fn_tt_tt_1,117,USA,PG-13,28000000,2,7.0,0
+110,53,2775593,Comedy|Drama|Romance,61269,858,http://www.imdb.com/title/tt0455538/?ref_=fn_tt_tt_1,98,UK,R,27000000,261,6.5,0
+103,65,28751715,Action|Comedy|Crime,202967,19168,http://www.imdb.com/title/tt1650554/?ref_=fn_tt_tt_1,378,USA,R,28000000,927,6.6,36000
+145,13,,Adventure|Drama|History|Romance|Thriller|War,10266,11669,http://www.imdb.com/title/tt0395119/?ref_=fn_tt_tt_1,84,Spain,,24000000,1000,6.1,0
+100,11,20285518,Action|Crime|Drama|Thriller,32103,25387,http://www.imdb.com/title/tt1430612/?ref_=fn_tt_tt_1,112,France,PG-13,28000000,727,5.7,0
+131,46,67900000,Action|Adventure|Thriller,74374,1898,http://www.imdb.com/title/tt0086034/?ref_=fn_tt_tt_1,225,UK,PG,27500000,303,6.6,0
+133,0,148734225,Comedy|Romance,298590,12874,http://www.imdb.com/title/tt0478311/?ref_=fn_tt_tt_1,559,USA,R,30000000,985,7.0,0
+109,415,49185998,Drama,74476,1775,http://www.imdb.com/title/tt1078588/?ref_=fn_tt_tt_1,184,USA,PG-13,30000000,489,7.4,15000
+114,92,42168445,Comedy|Drama|Romance,10791,3565,http://www.imdb.com/title/tt0494652/?ref_=fn_tt_tt_1,39,USA,PG-13,35000000,706,5.3,464
+164,767,26400000,Adventure|Drama|History,12980,1334,http://www.imdb.com/title/tt0087892/?ref_=fn_tt_tt_1,89,UK,PG,16000000,223,7.4,845
+92,14,17508670,Crime|Drama|Romance|Thriller,64625,646,http://www.imdb.com/title/tt0465551/?ref_=fn_tt_tt_1,281,UK,R,15000000,99,7.4,0
+122,151,9664316,Drama|Thriller,47203,50950,http://www.imdb.com/title/tt0804522/?ref_=fn_tt_tt_1,197,USA,R,27500000,15000,6.8,0
+42,,,Crime|Drama|Sci-Fi|Thriller,38177,2707,http://www.imdb.com/title/tt4422836/?ref_=fn_tt_tt_1,131,USA,TV-14,,638,7.9,11000
+110,120,74888996,Action|Adventure|Sci-Fi|Thriller,55513,16230,http://www.imdb.com/title/tt0102975/?ref_=fn_tt_tt_1,188,USA,PG,30000000,1000,7.2,0
+116,144,69586544,Drama,15352,3845,http://www.imdb.com/title/tt0279778/?ref_=fn_tt_tt_1,199,USA,PG-13,27000000,482,6.0,0
+106,4000,362645141,Adventure|Drama|Family|Fantasy,106221,32921,http://www.imdb.com/title/tt3040964/?ref_=fn_tt_tt_1,398,UK,PG,175000000,13000,7.8,65000
+115,39,60491560,Crime|Drama|Mystery|Thriller,50653,14322,http://www.imdb.com/title/tt0119468/?ref_=fn_tt_tt_1,143,USA,R,27000000,956,6.6,0
+148,644,54200000,Action|Comedy|Crime|Music,142448,2566,http://www.imdb.com/title/tt0080455/?ref_=fn_tt_tt_1,319,USA,R,27000000,809,7.9,14000
+119,43,44087387,Comedy|Drama|Family|Romance,22304,3525,http://www.imdb.com/title/tt1018785/?ref_=fn_tt_tt_1,33,USA,PG-13,,713,6.2,894
+118,650,30920167,Comedy|Music,6476,3389,http://www.imdb.com/title/tt1710396/?ref_=fn_tt_tt_1,71,USA,PG-13,25000000,773,5.7,0
+101,129,40566655,Comedy|Drama|Romance,144021,74,http://www.imdb.com/title/tt0276751/?ref_=fn_tt_tt_1,391,UK,PG-13,30000000,5,7.1,0
+82,49,31768374,Action|Comedy|Horror,42761,3313,http://www.imdb.com/title/tt0139414/?ref_=fn_tt_tt_1,366,USA,R,27000000,888,5.6,2000
+110,118,22494487,Crime|Drama|Mystery|Thriller,262153,26451,http://www.imdb.com/title/tt0425210/?ref_=fn_tt_tt_1,507,Germany,R,27000000,11000,7.8,10000
+193,133,21500000,Adventure|Drama|History,45271,6341,http://www.imdb.com/title/tt0086197/?ref_=fn_tt_tt_1,170,USA,PG,27000000,826,7.9,0
+130,776,4463292,Drama|History|Thriller,34488,2452,http://www.imdb.com/title/tt1521197/?ref_=fn_tt_tt_1,136,UK,PG-13,30000000,584,6.9,15000
+94,249,,Adventure|Drama|Family|Fantasy,99557,1560,http://www.imdb.com/title/tt0088323/?ref_=fn_tt_tt_1,284,West Germany,PG,27000000,312,7.4,21000
+111,295,14337579,Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller,156929,4696,http://www.imdb.com/title/tt0118929/?ref_=fn_tt_tt_1,624,Australia,R,27000000,882,7.7,14000
+110,10,13823741,Biography|Drama|History|Romance,61777,6420,http://www.imdb.com/title/tt0864761/?ref_=fn_tt_tt_1,140,UK,PG-13,13500000,2000,6.9,0
+30,,,Comedy|Family,3446,812,http://www.imdb.com/title/tt0042114/?ref_=fn_tt_tt_1,31,USA,,,154,8.7,459
+109,181,,Adventure|Family|Fantasy|Horror|Mystery,19568,960,http://www.imdb.com/title/tt0089908/?ref_=fn_tt_tt_1,208,UK,PG,25000000,146,6.7,0
+123,0,10297897,Action|Crime|Drama|History|Western,8309,11969,http://www.imdb.com/title/tt0120769/?ref_=fn_tt_tt_1,39,USA,PG-13,27000000,597,6.0,315
+109,22,13248477,Horror|Mystery|Thriller,60555,15790,http://www.imdb.com/title/tt0795351/?ref_=fn_tt_tt_1,174,USA,R,27000000,716,6.2,0
+99,54,8712564,Crime|Drama|Mystery|Thriller,16555,1721,http://www.imdb.com/title/tt0324127/?ref_=fn_tt_tt_1,139,USA,R,27000000,489,5.9,817
+106,43,7486906,Comedy|Drama|Family,17436,2495,http://www.imdb.com/title/tt0415965/?ref_=fn_tt_tt_1,71,USA,PG,27000000,506,6.8,0
+89,0,38536376,Action|Adventure|Comedy|Family|Sci-Fi,15866,4311,http://www.imdb.com/title/tt1517489/?ref_=fn_tt_tt_1,83,USA,PG,27000000,734,3.6,0
+98,0,41008532,Crime|Drama|Thriller,19611,10894,http://www.imdb.com/title/tt2241351/?ref_=fn_tt_tt_1,103,USA,R,27000000,698,6.7,0
+93,31,5204007,Action|Comedy|Crime|Thriller,42876,1044,http://www.imdb.com/title/tt0227984/?ref_=fn_tt_tt_1,167,UK,R,28000000,132,6.3,0
+112,541,4485485,Comedy|Crime|Drama,14612,46022,http://www.imdb.com/title/tt0155711/?ref_=fn_tt_tt_1,105,USA,R,15000000,22000,6.4,0
+101,212,4476235,Crime|Horror|Mystery|Thriller,49405,4186,http://www.imdb.com/title/tt0297284/?ref_=fn_tt_tt_1,226,USA,R,27000000,968,6.4,2000
+104,272,1089365,Comedy|Drama,23767,71973,http://www.imdb.com/title/tt0486674/?ref_=fn_tt_tt_1,111,USA,R,25000000,18000,5.7,845
+120,278,763044,Drama|Thriller,4257,3286,http://www.imdb.com/title/tt0340376/?ref_=fn_tt_tt_1,52,Canada,R,23000000,766,6.2,188
+135,0,,Drama|Musical|Romance,926,24,http://www.imdb.com/title/tt0475331/?ref_=fn_tt_tt_1,19,France,,27000000,4,6.6,359
+91,41,20819129,Action|Comedy|Crime,84209,2954,http://www.imdb.com/title/tt1114740/?ref_=fn_tt_tt_1,201,USA,PG,26000000,402,5.2,0
+97,70,110222438,Comedy|Family|Fantasy|Music|Romance,96693,3984,http://www.imdb.com/title/tt0322330/?ref_=fn_tt_tt_1,271,USA,PG,26000000,528,6.1,0
+133,0,109243478,Comedy|Romance,313797,8341,http://www.imdb.com/title/tt0405422/?ref_=fn_tt_tt_1,546,USA,R,26000000,966,7.1,0
+123,108,100241322,Comedy|Drama|Romance,175524,1690,http://www.imdb.com/title/tt0138097/?ref_=fn_tt_tt_1,752,USA,R,25000000,264,7.2,0
+114,71,25977365,Crime|Drama|Mystery|Thriller,87950,15428,http://www.imdb.com/title/tt0365907/?ref_=fn_tt_tt_1,207,USA,R,28000000,439,6.5,15000
+111,425,91457688,Action|Comedy|Crime,107801,2403,http://www.imdb.com/title/tt0099938/?ref_=fn_tt_tt_1,109,USA,PG-13,26000000,394,6.0,0
+117,234,87341380,Action|Comedy|Crime,255257,15590,http://www.imdb.com/title/tt0910936/?ref_=fn_tt_tt_1,374,USA,R,27000000,989,7.0,0
+121,72,65703412,Comedy|Drama|Romance,57958,2747,http://www.imdb.com/title/tt0120631/?ref_=fn_tt_tt_1,345,USA,PG-13,26000000,794,7.0,0
+139,0,58328680,Drama|Romance|Western,54096,5458,http://www.imdb.com/title/tt0316356/?ref_=fn_tt_tt_1,494,USA,R,22000000,693,7.5,0
+115,541,61490000,Drama|Horror|Sci-Fi|Thriller,62037,10493,http://www.imdb.com/title/tt0099582/?ref_=fn_tt_tt_1,148,USA,R,26000000,1000,6.6,0
+22,,,Comedy,133415,1784,http://www.imdb.com/title/tt0472954/?ref_=fn_tt_tt_1,151,USA,TV-MA,,547,8.8,0
+175,0,50800000,Drama|History|War,40277,669,http://www.imdb.com/title/tt0075784/?ref_=fn_tt_tt_1,210,USA,PG,26000000,232,7.4,0
+85,0,57859105,Mystery|Thriller,94108,1090,http://www.imdb.com/title/tt0421239/?ref_=fn_tt_tt_1,673,USA,PG-13,26000000,285,6.5,0
+90,160,46455802,Horror|Thriller,120786,3172,http://www.imdb.com/title/tt0309593/?ref_=fn_tt_tt_1,472,USA,R,26000000,439,6.2,0
+107,0,45506619,Adventure|Comedy|Crime|Music,225102,3066,http://www.imdb.com/title/tt0190590/?ref_=fn_tt_tt_1,862,UK,PG-13,26000000,596,7.8,16000
+100,124,40168080,Action|Fantasy|Horror,80870,3889,http://www.imdb.com/title/tt1038686/?ref_=fn_tt_tt_1,315,USA,R,26000000,850,5.2,0
+129,0,49874933,Comedy|Crime|Drama,161168,13573,http://www.imdb.com/title/tt1980209/?ref_=fn_tt_tt_1,287,USA,R,26000000,412,6.5,43000
+109,80,45489752,Comedy|Drama|Romance,48973,28493,http://www.imdb.com/title/tt0385267/?ref_=fn_tt_tt_1,214,USA,PG-13,26000000,3000,6.5,736
+94,906,36985501,Action|Adventure|Comedy|Sci-Fi|Thriller,11212,3917,http://www.imdb.com/title/tt0157472/?ref_=fn_tt_tt_1,94,USA,PG,26000000,587,5.2,874
+133,759,33200000,Action|Crime|Drama|Western,28247,1154,http://www.imdb.com/title/tt0090022/?ref_=fn_tt_tt_1,149,USA,PG-13,26000000,130,7.2,0
+105,260,28501651,Drama|Thriller,88035,42473,http://www.imdb.com/title/tt0765010/?ref_=fn_tt_tt_1,201,USA,R,26000000,15000,7.1,10000
+100,8,23222861,Action|Adventure|Comedy|Family|Romance|Sci-Fi,11092,3742,http://www.imdb.com/title/tt0358349/?ref_=fn_tt_tt_1,44,USA,PG,26000000,934,4.5,167
+113,0,54540525,Comedy|Romance,66579,23456,http://www.imdb.com/title/tt1598822/?ref_=fn_tt_tt_1,134,USA,PG-13,56000000,988,5.7,20000
+118,49,16252765,Drama|Mystery|Romance|Thriller,44913,11662,http://www.imdb.com/title/tt0218922/?ref_=fn_tt_tt_1,181,France,R,42000000,216,6.0,3000
+110,160,16005978,Crime|Mystery|Thriller,72886,2356,http://www.imdb.com/title/tt1486192/?ref_=fn_tt_tt_1,190,USA,R,26000000,570,6.4,35000
+110,80,14469428,Comedy|Romance,10667,2466,http://www.imdb.com/title/tt0361925/?ref_=fn_tt_tt_1,95,USA,PG-13,26000000,590,5.2,260
+99,5,13829734,Action|Fantasy|Romance|Sci-Fi,16194,2960,http://www.imdb.com/title/tt0110027/?ref_=fn_tt_tt_1,79,Canada,PG-13,26000000,691,4.3,319
+101,30,1075288,Crime|Drama|Thriller,7772,2228,http://www.imdb.com/title/tt0115710/?ref_=fn_tt_tt_1,55,USA,R,22000000,854,6.1,145
+100,2,,Fantasy|Horror,8118,2170,http://www.imdb.com/title/tt0119227/?ref_=fn_tt_tt_1,69,USA,R,26000000,638,6.3,0
+103,11000,7496522,Comedy|Crime|Mystery|Romance,31798,12534,http://www.imdb.com/title/tt0256524/?ref_=fn_tt_tt_1,178,USA,PG-13,26000000,893,6.8,826
+100,737,,Comedy|Romance,5006,19068,http://www.imdb.com/title/tt1137470/?ref_=fn_tt_tt_1,28,USA,PG-13,26000000,980,4.0,0
+95,0,20047715,Adventure|Family,8008,616,http://www.imdb.com/title/tt0116322/?ref_=fn_tt_tt_1,26,USA,PG,25530000,95,5.2,504
+117,763,12276810,Action|Mystery|Sci-Fi|Thriller,57674,17847,http://www.imdb.com/title/tt2140379/?ref_=fn_tt_tt_1,126,USA,PG-13,26000000,543,6.5,11000
+129,353,33565375,Drama|Mystery|Romance|Thriller,111351,1565,http://www.imdb.com/title/tt0387131/?ref_=fn_tt_tt_1,568,UK,R,15000000,430,7.5,0
+120,0,499263,Drama,179235,705,http://www.imdb.com/title/tt0335345/?ref_=fn_tt_tt_1,2814,USA,R,30000000,252,7.1,13000
+125,0,219200000,Comedy|Drama|Family|Romance,181380,52201,http://www.imdb.com/title/tt0107614/?ref_=fn_tt_tt_1,223,USA,PG-13,25000000,1000,6.9,0
+133,272,172825435,Drama,383784,12285,http://www.imdb.com/title/tt0095953/?ref_=fn_tt_tt_1,331,USA,R,25000000,898,8.0,12000
+116,16000,148085755,Drama,561773,17347,http://www.imdb.com/title/tt1205489/?ref_=fn_tt_tt_1,871,USA,R,33000000,601,8.2,28000
+129,0,25517500,Biography|Drama|History,40941,4264,http://www.imdb.com/title/tt1175491/?ref_=fn_tt_tt_1,320,USA,PG-13,25100000,826,6.4,0
+93,180,145000989,Action|Thriller,483756,16461,http://www.imdb.com/title/tt0936501/?ref_=fn_tt_tt_1,974,France,PG-13,25000000,816,7.9,29000
+118,97,26761283,Drama|Romance,43084,3197,http://www.imdb.com/title/tt1972779/?ref_=fn_tt_tt_1,99,USA,PG-13,26000000,523,6.7,19000
+129,81,121945720,Action|Drama|Music|Romance,89972,2551,http://www.imdb.com/title/tt0103855/?ref_=fn_tt_tt_1,126,USA,R,25000000,854,6.1,0
+185,14000,96067179,Biography|Drama|History,865020,15233,http://www.imdb.com/title/tt0108052/?ref_=fn_tt_tt_1,1273,USA,R,22000000,795,8.9,41000
+146,150,169705587,Drama,318955,23227,http://www.imdb.com/title/tt1454029/?ref_=fn_tt_tt_1,460,USA,PG-13,25000000,3000,8.1,75000
+128,386,3254172,Biography|Drama|Thriller,29282,36337,http://www.imdb.com/title/tt1837703/?ref_=fn_tt_tt_1,105,USA,R,28000000,17000,6.2,11000
+93,67,84185387,Adventure|Comedy|Family|Fantasy|Horror|Mystery,33180,7800,http://www.imdb.com/title/tt0331632/?ref_=fn_tt_tt_1,149,USA,PG,80000000,2000,4.9,567
+107,0,,Adventure|Fantasy|Mystery|Thriller,3170,1166,http://www.imdb.com/title/tt1224378/?ref_=fn_tt_tt_1,18,Russia,,26000000,65,5.4,0
+97,31,82163317,Action|Horror|Thriller,89101,4692,http://www.imdb.com/title/tt0329101/?ref_=fn_tt_tt_1,885,USA,R,30000000,782,5.8,3000
+101,187,,Drama,2863,1041,http://www.imdb.com/title/tt2967008/?ref_=fn_tt_tt_1,25,UK,Not Rated,,213,4.7,488
+82,8,80920948,Action|Adventure|Animation|Comedy|Family|Sci-Fi,23943,2251,http://www.imdb.com/title/tt0268397/?ref_=fn_tt_tt_1,118,USA,G,30000000,677,6.0,425
+85,198,80034302,Action|Adventure|Horror|Sci-Fi,296787,3958,http://www.imdb.com/title/tt1060277/?ref_=fn_tt_tt_1,2192,USA,PG-13,25000000,1000,7.0,0
+88,34,78656813,Action|Adventure|Comedy|Family|Sci-Fi,42765,2501,http://www.imdb.com/title/tt0103060/?ref_=fn_tt_tt_1,93,USA,PG,25000000,533,6.0,0
+119,0,76270454,Crime|Drama|Thriller,219008,22767,http://www.imdb.com/title/tt0094226/?ref_=fn_tt_tt_1,418,USA,R,25000000,371,7.9,0
+122,1000,74273505,Crime|Drama|Thriller,612060,4738,http://www.imdb.com/title/tt0477348/?ref_=fn_tt_tt_1,1518,USA,R,25000000,939,8.1,21000
+99,167,134141530,Action|Comedy|Crime|Romance,75903,2394,http://www.imdb.com/title/tt1408253/?ref_=fn_tt_tt_1,109,USA,PG-13,25000000,521,6.2,0
+97,11,71500556,Comedy|Drama|Romance,171568,16999,http://www.imdb.com/title/tt0243155/?ref_=fn_tt_tt_1,571,UK,R,26000000,1000,6.7,0
+121,529,71309760,Drama|Romance,150308,1323,http://www.imdb.com/title/tt0241303/?ref_=fn_tt_tt_1,498,UK,PG-13,25000000,399,7.3,18000
+95,0,89808372,Comedy,46417,3500,http://www.imdb.com/title/tt0333780/?ref_=fn_tt_tt_1,297,USA,PG-13,45000000,655,4.6,660
+105,99,77264926,Comedy|Family,21176,5740,http://www.imdb.com/title/tt1047540/?ref_=fn_tt_tt_1,107,USA,PG,25000000,448,6.1,0
+108,425,70625986,Comedy|Romance,168717,22739,http://www.imdb.com/title/tt1411238/?ref_=fn_tt_tt_1,178,USA,R,25000000,962,6.2,24000
+134,170,56505065,Action|Biography|Drama|History|Romance|Western,95241,4453,http://www.imdb.com/title/tt0108358/?ref_=fn_tt_tt_1,439,USA,R,25000000,722,7.8,11000
+115,43,55973336,Action|Crime|Thriller,57040,9082,http://www.imdb.com/title/tt0165929/?ref_=fn_tt_tt_1,365,USA,R,25000000,848,6.1,0
+107,503,,Fantasy|Horror|Mystery,80958,673,http://www.imdb.com/title/tt0075005/?ref_=fn_tt_tt_1,310,UK,R,2800000,139,7.6,7000
+86,70,54098051,Horror,102861,2420,http://www.imdb.com/title/tt0414982/?ref_=fn_tt_tt_1,571,Germany,R,25000000,346,5.8,0
+101,96,60443237,Drama|Romance,76882,1852,http://www.imdb.com/title/tt1327194/?ref_=fn_tt_tt_1,106,USA,PG-13,25000000,220,6.5,29000
+96,47,82234139,Adventure|Drama|Family|Fantasy,110390,28071,http://www.imdb.com/title/tt0398808/?ref_=fn_tt_tt_1,522,USA,PG,17000000,11000,7.2,6000
+101,395,51676606,Biography|Drama|Family,174591,58823,http://www.imdb.com/title/tt0308644/?ref_=fn_tt_tt_1,632,USA,PG,25000000,14000,7.8,0
+100,0,52528330,Comedy|Drama,4265,3202,http://www.imdb.com/title/tt2609758/?ref_=fn_tt_tt_1,27,USA,PG-13,25000000,521,4.7,0
+117,248,51533608,Action|Adventure|Drama|Thriller,203111,16606,http://www.imdb.com/title/tt1601913/?ref_=fn_tt_tt_1,755,USA,R,25000000,798,6.8,32000
+101,21,51097664,Drama|Horror|Mystery|Thriller,70205,23328,http://www.imdb.com/title/tt0382077/?ref_=fn_tt_tt_1,450,USA,R,30000000,812,5.9,0
+98,285,84136909,Comedy,267921,656730,http://www.imdb.com/title/tt0357413/?ref_=fn_tt_tt_1,577,USA,PG-13,26000000,8000,7.2,0
+146,17000,46836394,Biography|Crime|Drama,728685,24783,http://www.imdb.com/title/tt0099685/?ref_=fn_tt_tt_1,989,USA,R,25000000,854,8.7,25000
+102,91,47285499,Action|Adventure|Comedy|Crime|Family|Romance|Thriller,26755,3037,http://www.imdb.com/title/tt0313911/?ref_=fn_tt_tt_1,104,USA,PG,26000000,934,5.0,542
+97,52,47124400,Comedy|Family|Fantasy,49676,17278,http://www.imdb.com/title/tt0396752/?ref_=fn_tt_tt_1,181,USA,PG,25000000,2000,6.6,0
+142,0,44700000,Crime|Drama,537442,16464,http://www.imdb.com/title/tt0086250/?ref_=fn_tt_tt_1,851,USA,R,25000000,670,8.3,19000
+98,176,44455658,Action|Adventure|Comedy|Crime,36253,2457,http://www.imdb.com/title/tt0119807/?ref_=fn_tt_tt_1,92,USA,R,25000000,658,6.7,0
+219,973,43984230,Biography|Drama|History,70274,2451,http://www.imdb.com/title/tt0093389/?ref_=fn_tt_tt_1,133,China,PG-13,23000000,643,7.8,0
+109,175,66489425,Action|Crime|Drama|Thriller,101977,26625,http://www.imdb.com/title/tt1524137/?ref_=fn_tt_tt_1,161,USA,R,25000000,736,6.5,0
+97,420,41067398,Action|Comedy|Crime|Thriller,22748,2530,http://www.imdb.com/title/tt0119695/?ref_=fn_tt_tt_1,41,USA,R,25000000,635,6.1,666
+158,0,40218903,Drama,372990,533,http://www.imdb.com/title/tt0469494/?ref_=fn_tt_tt_1,1107,USA,R,25000000,111,8.1,16000
+85,0,39880476,Adventure|Animation|Comedy|Family|Fantasy,12218,2908,http://www.imdb.com/title/tt0282120/?ref_=fn_tt_tt_1,33,USA,PG,25000000,535,5.2,187
+80,0,39399750,Adventure|Animation|Comedy|Family|Fantasy|Musical,5674,3017,http://www.imdb.com/title/tt0337711/?ref_=fn_tt_tt_1,35,USA,PG,25000000,503,5.6,329
+86,92,38230435,Action|Comedy,29661,3001,http://www.imdb.com/title/tt0279493/?ref_=fn_tt_tt_1,179,USA,PG-13,25000000,489,5.8,0
+119,42,39008741,Comedy|Drama|Family|Romance,44838,6862,http://www.imdb.com/title/tt0403508/?ref_=fn_tt_tt_1,223,USA,PG,25000000,953,6.6,0
+98,20,36833473,Action|Crime|Drama|Thriller,53126,7945,http://www.imdb.com/title/tt0271027/?ref_=fn_tt_tt_1,254,France,R,25000000,888,6.6,0
+97,29,48237389,Comedy|Romance,63969,18789,http://www.imdb.com/title/tt0852713/?ref_=fn_tt_tt_1,126,USA,PG-13,25000000,852,5.5,0
+105,23,36310118,Comedy,13194,3535,http://www.imdb.com/title/tt0388500/?ref_=fn_tt_tt_1,59,USA,PG-13,,619,5.5,671
+124,44,36447959,Biography|Drama|Sport,35833,6393,http://www.imdb.com/title/tt1647668/?ref_=fn_tt_tt_1,96,USA,PG,25000000,774,7.0,10000
+97,176,45089048,Drama|Romance|Sci-Fi,86251,36064,http://www.imdb.com/title/tt0435651/?ref_=fn_tt_tt_1,260,South Africa,PG-13,25000000,11000,6.5,58000
+105,29,35990505,Comedy|Drama|Family|Romance,48095,16400,http://www.imdb.com/title/tt0286788/?ref_=fn_tt_tt_1,194,USA,PG,20000000,1000,5.8,0
+104,108,35143332,Horror,45102,1340,http://www.imdb.com/title/tt0301470/?ref_=fn_tt_tt_1,316,USA,R,17000000,270,5.6,0
+101,7,35000629,Comedy|Romance,74622,2822,http://www.imdb.com/title/tt0452625/?ref_=fn_tt_tt_1,150,USA,R,25000000,562,5.6,0
+101,43,34604054,Action|Crime|Drama|Thriller,34942,6867,http://www.imdb.com/title/tt0306685/?ref_=fn_tt_tt_1,185,USA,R,30000000,618,5.8,1000
+114,335,41597830,Drama|Romance,102123,12624,http://www.imdb.com/title/tt0274558/?ref_=fn_tt_tt_1,660,USA,PG-13,25000000,577,7.6,0
+105,99,33687630,Comedy|Romance,116762,20109,http://www.imdb.com/title/tt0454945/?ref_=fn_tt_tt_1,261,USA,PG-13,20000000,1000,6.4,0
+90,68,32553210,Comedy|Family,88714,794,http://www.imdb.com/title/tt0453451/?ref_=fn_tt_tt_1,235,UK,PG,25000000,132,6.3,0
+97,27,31526393,Action|Adventure|Horror|Thriller,22243,2730,http://www.imdb.com/title/tt0366174/?ref_=fn_tt_tt_1,144,USA,PG-13,25000000,543,4.6,686
+144,0,41229,Crime|Drama|Thriller,14612,18442,http://www.imdb.com/title/tt1747958/?ref_=fn_tt_tt_1,41,France,R,25500000,960,6.5,0
+114,59,31655091,Drama|Music,87331,50927,http://www.imdb.com/title/tt0426931/?ref_=fn_tt_tt_1,364,USA,PG,30000000,702,7.5,18000
+124,159,30012990,Biography|Drama|History,75973,1006,http://www.imdb.com/title/tt0127536/?ref_=fn_tt_tt_1,409,UK,R,25000000,249,7.5,0
+89,31,32368960,Comedy|Fantasy|Horror|Romance,39768,667,http://www.imdb.com/title/tt0144120/?ref_=fn_tt_tt_1,292,Canada,R,25000000,81,5.3,0
+160,130,14500000,Action|Drama|History|War,25019,1548,http://www.imdb.com/title/tt0066473/?ref_=fn_tt_tt_1,159,Japan,G,25000000,377,7.5,0
+93,14,29247405,Comedy|Family|Music,28377,2176,http://www.imdb.com/title/tt0120185/?ref_=fn_tt_tt_1,261,UK,PG,25000000,401,3.3,0
+87,234,30538669,Comedy,60202,3850,http://www.imdb.com/title/tt1366344/?ref_=fn_tt_tt_1,114,USA,R,,555,5.7,0
+88,82,25615792,Action|Comedy|Music,10161,4378,http://www.imdb.com/title/tt1153706/?ref_=fn_tt_tt_1,50,USA,PG-13,25000000,713,3.5,657
+142,0,28341469,Crime|Drama,1689764,13495,http://www.imdb.com/title/tt0111161/?ref_=fn_tt_tt_1,4144,USA,R,25000000,745,9.3,108000
+92,23,25590119,Adventure|Comedy|Crime,19699,1315,http://www.imdb.com/title/tt0231402/?ref_=fn_tt_tt_1,119,Australia,PG,21150000,442,4.8,387
+117,101,24944213,Comedy|Sport,63459,16937,http://www.imdb.com/title/tt0116778/?ref_=fn_tt_tt_1,185,USA,PG-13,27000000,852,6.9,3000
+111,81,33631221,Crime|Drama|Thriller,48559,3784,http://www.imdb.com/title/tt2039393/?ref_=fn_tt_tt_1,145,USA,R,25000000,571,6.0,0
+121,53,37738400,Drama,67797,39690,http://www.imdb.com/title/tt1322269/?ref_=fn_tt_tt_1,285,USA,R,25000000,11000,7.3,30000
+98,3,24381334,Comedy|Drama|Family|Sport,19737,235,http://www.imdb.com/title/tt0396652/?ref_=fn_tt_tt_1,81,USA,G,,89,6.0,901
+107,13,21835784,Comedy|Drama|Romance,58297,1095,http://www.imdb.com/title/tt0391304/?ref_=fn_tt_tt_1,161,USA,PG-13,30000000,172,6.6,0
+106,452,15785632,Biography|Comedy|Drama|Sport,32507,21195,http://www.imdb.com/title/tt1083452/?ref_=fn_tt_tt_1,119,UK,PG-13,23000000,732,7.5,15000
+136,0,21554585,Drama|Sport,36108,37315,http://www.imdb.com/title/tt0124718/?ref_=fn_tt_tt_1,109,USA,R,25000000,14000,6.9,0
+97,19,22200000,Comedy|Drama|Romance,41310,52122,http://www.imdb.com/title/tt0112883/?ref_=fn_tt_tt_1,117,USA,PG-13,25000000,10000,6.8,0
+7,,,Animation|Comedy|Family,7968,55,http://www.imdb.com/title/tt0983983/?ref_=fn_tt_tt_1,12,UK,TV-G,,7,8.3,834
+108,529,80014842,Drama|Romance|War,104356,19945,http://www.imdb.com/title/tt0989757/?ref_=fn_tt_tt_1,186,USA,PG-13,25000000,861,6.3,14000
+97,41,23527955,Action|Crime|Drama|Mystery|Thriller,74691,12841,http://www.imdb.com/title/tt0480255/?ref_=fn_tt_tt_1,165,USA,PG-13,25000000,673,6.4,0
+99,24,24042490,Fantasy|Horror|Thriller,40776,3744,http://www.imdb.com/title/tt1270761/?ref_=fn_tt_tt_1,250,USA,R,25000000,441,5.6,10000
+103,5,22466994,Action|Crime|Thriller,72673,33565,http://www.imdb.com/title/tt0499556/?ref_=fn_tt_tt_1,166,USA,R,25000000,5000,6.3,0
+95,0,17791031,Comedy|Drama|Romance|Thriller,109855,11994,http://www.imdb.com/title/tt0272338/?ref_=fn_tt_tt_1,888,USA,R,25000000,876,7.3,0
+93,17,17718223,Comedy,162067,14180,http://www.imdb.com/title/tt0356150/?ref_=fn_tt_tt_1,316,USA,R,25000000,634,6.6,0
+98,70,15361537,Action|Crime|Thriller,12263,1855,http://www.imdb.com/title/tt0297162/?ref_=fn_tt_tt_1,132,Germany,PG-13,13000000,444,4.6,564
+90,176,16647384,Adventure|Comedy|Family|Romance,8398,4431,http://www.imdb.com/title/tt0488658/?ref_=fn_tt_tt_1,56,USA,PG,26000000,839,5.1,498
+107,21,16118077,Drama,5817,3067,http://www.imdb.com/title/tt0094799/?ref_=fn_tt_tt_1,37,USA,R,25000000,767,5.6,377
+90,48,15091542,Adventure|Family|Fantasy|Musical,4086,2465,http://www.imdb.com/title/tt0115472/?ref_=fn_tt_tt_1,22,UK,G,25000000,595,5.3,246
+120,0,15331289,Drama|History|Sport,22289,1217,http://www.imdb.com/title/tt0388980/?ref_=fn_tt_tt_1,106,USA,PG,,464,7.5,0
+115,219,15045676,Drama|Fantasy|Mystery|Thriller,76303,2466,http://www.imdb.com/title/tt0362478/?ref_=fn_tt_tt_1,376,USA,PG-13,16000000,837,5.6,0
+93,27,17427926,Horror,60062,1749,http://www.imdb.com/title/tt0963794/?ref_=fn_tt_tt_1,351,USA,R,8000000,664,5.9,0
+99,154,14983572,Comedy|Drama|Romance,9361,2498,http://www.imdb.com/title/tt0156841/?ref_=fn_tt_tt_1,162,USA,PG-13,25000000,692,4.7,378
+107,0,14637490,Horror|Mystery|Thriller,16411,2537,http://www.imdb.com/title/tt0872230/?ref_=fn_tt_tt_1,136,USA,R,25000000,374,4.8,0
+110,42,14589444,Comedy|Drama|Romance,171151,911,http://www.imdb.com/title/tt0265208/?ref_=fn_tt_tt_1,513,USA,R,25000000,155,6.8,0
+101,17,14095303,Action|Crime|Mystery|Romance|Thriller,15814,1634,http://www.imdb.com/title/tt0117011/?ref_=fn_tt_tt_1,68,USA,R,25000000,246,5.4,503
+85,54,13973532,Comedy|Crime,11211,3065,http://www.imdb.com/title/tt0265808/?ref_=fn_tt_tt_1,92,USA,PG-13,25000000,637,5.1,215
+132,241,1865774,Biography|Crime|Drama|History|Thriller,87682,27659,http://www.imdb.com/title/tt3569230/?ref_=fn_tt_tt_1,174,UK,R,30000000,154,7.0,43000
+88,82,13920741,Comedy,59900,2062,http://www.imdb.com/title/tt0787475/?ref_=fn_tt_tt_1,149,USA,PG-13,,434,6.7,0
+90,160,18860403,Horror|Thriller,20823,4952,http://www.imdb.com/title/tt1633356/?ref_=fn_tt_tt_1,130,USA,PG-13,25000000,936,4.0,0
+145,317,13038660,Drama,16995,1282,http://www.imdb.com/title/tt0145653/?ref_=fn_tt_tt_1,163,USA,R,25000000,219,7.3,0
+110,425,28831145,Drama|Sport,39357,3757,http://www.imdb.com/title/tt2223990/?ref_=fn_tt_tt_1,113,USA,R,25000000,466,6.8,14000
+101,365,,Action|Horror|Sci-Fi|Thriller,15531,1008,http://www.imdb.com/title/tt0089489/?ref_=fn_tt_tt_1,189,UK,R,25000000,246,6.1,0
+30,,,Action|Animation|Comedy|Family|Fantasy|Sci-Fi,23664,2346,http://www.imdb.com/title/tt0175058/?ref_=fn_tt_tt_1,60,USA,TV-Y7,,918,7.2,581
+122,0,11538204,Crime|Drama|History,23696,21163,http://www.imdb.com/title/tt0968264/?ref_=fn_tt_tt_1,135,USA,PG-13,25000000,1000,7.0,0
+107,308,11008432,Biography|Drama|Sport,43903,16651,http://www.imdb.com/title/tt0355702/?ref_=fn_tt_tt_1,194,USA,PG-13,25000000,947,7.1,5000
+127,36,12188642,Biography|Drama|History,21098,2230,http://www.imdb.com/title/tt2006295/?ref_=fn_tt_tt_1,56,Chile,PG-13,26000000,499,6.9,0
+99,0,11100000,Action|Adventure|Comedy|Fantasy,92464,896,http://www.imdb.com/title/tt0090728/?ref_=fn_tt_tt_1,331,USA,PG-13,25000000,223,7.3,19000
+104,8,,Comedy|Romance,5525,210,http://www.imdb.com/title/tt1986843/?ref_=fn_tt_tt_1,11,France,,17000000,20,6.3,853
+140,149,13651662,Drama|Sport,332276,29692,http://www.imdb.com/title/tt1291584/?ref_=fn_tt_tt_1,514,USA,PG-13,25000000,798,8.2,77000
+133,277,11030963,Biography|Drama|Thriller|War,24145,48482,http://www.imdb.com/title/tt0117039/?ref_=fn_tt_tt_1,93,UK,R,28000000,14000,7.1,0
+271,33,10769960,Drama|History|War,21940,2107,http://www.imdb.com/title/tt0107007/?ref_=fn_tt_tt_1,256,USA,PG,25000000,702,7.7,0
+112,108,10911750,Drama|War,17757,43560,http://www.imdb.com/title/tt0489281/?ref_=fn_tt_tt_1,99,USA,R,25000000,17000,6.5,982
+99,79,10719367,Drama|Music|Mystery|Romance|Thriller,7909,28987,http://www.imdb.com/title/tt0267248/?ref_=fn_tt_tt_1,157,USA,PG-13,25000000,11000,4.9,261
+100,57,10114315,Drama|Mystery|Thriller,18693,582,http://www.imdb.com/title/tt0120620/?ref_=fn_tt_tt_1,187,USA,PG-13,25000000,151,6.4,0
+92,30,49122319,Horror|Thriller,47169,2348,http://www.imdb.com/title/tt0431021/?ref_=fn_tt_tt_1,162,USA,PG-13,14000000,459,5.9,17000
+105,121,10070000,Comedy|Drama|Romance,5668,5023,http://www.imdb.com/title/tt0117104/?ref_=fn_tt_tt_1,50,USA,PG-13,25000000,624,6.2,491
+110,37,10324441,Action|Drama|Thriller,27117,11431,http://www.imdb.com/title/tt0999913/?ref_=fn_tt_tt_1,140,USA,R,25000000,826,5.8,7000
+116,529,7156933,Comedy|Drama,14581,1134,http://www.imdb.com/title/tt0462338/?ref_=fn_tt_tt_1,74,USA,R,25000000,252,6.7,348
+88,22,9286314,Action|Crime|Drama|Thriller,4972,583,http://www.imdb.com/title/tt0102984/?ref_=fn_tt_tt_1,62,USA,R,17000000,132,5.9,0
+111,214,56692,Adventure|Drama,177401,23566,http://www.imdb.com/title/tt0898367/?ref_=fn_tt_tt_1,504,USA,R,25000000,9000,7.3,32000
+117,71,,Adventure|Fantasy,3334,611,http://www.imdb.com/title/tt0088103/?ref_=fn_tt_tt_1,52,UK,PG,25000000,54,4.8,739
+95,32,5654777,Action|Comedy|Crime|Drama|Thriller,4875,2165,http://www.imdb.com/title/tt0373416/?ref_=fn_tt_tt_1,26,USA,PG-13,25000000,593,4.1,206
+95,6,5516708,Comedy|Romance,11375,2413,http://www.imdb.com/title/tt0239949/?ref_=fn_tt_tt_1,91,USA,R,25000000,841,4.9,295
+127,79,5128124,Biography|Drama|Sport,44198,12574,http://www.imdb.com/title/tt0412080/?ref_=fn_tt_tt_1,251,New Zealand,PG-13,25000000,506,7.9,11000
+105,160,34014398,Action|Adventure|Crime|Drama|Thriller,115650,2603,http://www.imdb.com/title/tt0417148/?ref_=fn_tt_tt_1,1033,Germany,R,33000000,521,5.6,4000
+104,54,4064333,Action|Comedy|Sci-Fi,24790,9662,http://www.imdb.com/title/tt0114614/?ref_=fn_tt_tt_1,173,USA,R,25000000,923,5.2,0
+95,2,4006906,Comedy|Crime,3229,4990,http://www.imdb.com/title/tt0388183/?ref_=fn_tt_tt_1,20,USA,PG-13,15000000,912,4.1,83
+121,353,3073392,Drama|Mystery|Sci-Fi|Thriller,59462,142,http://www.imdb.com/title/tt0861689/?ref_=fn_tt_tt_1,300,Canada,R,25000000,30,6.6,0
+92,892,1550000,Action|Adventure|Fantasy|Horror,30628,2930,http://www.imdb.com/title/tt0383222/?ref_=fn_tt_tt_1,471,USA,R,25000000,595,2.9,937
+80,2000,,Comedy|Drama,96480,25143,http://www.imdb.com/title/tt1692486/?ref_=fn_tt_tt_1,181,France,R,25000000,11000,7.2,21000
+107,460,871527,Crime|Drama|Mystery|Thriller,14982,16090,http://www.imdb.com/title/tt0373450/?ref_=fn_tt_tt_1,128,Canada,R,25000000,1000,6.5,507
+91,80,12495865,Fantasy,7100,539,http://www.imdb.com/title/tt1792647/?ref_=fn_tt_tt_1,35,USA,PG,,31,6.8,0
+117,162,777423,Biography|Drama|Sport,5841,4351,http://www.imdb.com/title/tt0119934/?ref_=fn_tt_tt_1,57,USA,PG-13,25000000,878,7.2,942
+107,0,1186957,Drama,9264,1591,http://www.imdb.com/title/tt1175506/?ref_=fn_tt_tt_1,69,UK,PG-13,25000000,266,6.8,0
+131,911,85433,Crime|Drama|Mystery|Romance,69676,5954,http://www.imdb.com/title/tt1924396/?ref_=fn_tt_tt_1,131,Italy,R,13500000,234,7.8,31000
+122,0,1697956,Crime|Drama,64944,13809,http://www.imdb.com/title/tt1095217/?ref_=fn_tt_tt_1,212,USA,R,20000000,463,6.7,6000
+88,4,,Adventure|Animation|Family,5385,3874,http://www.imdb.com/title/tt1230204/?ref_=fn_tt_tt_1,22,France,PG,,749,6.1,0
+134,0,183662,Comedy|Drama,18395,890,http://www.imdb.com/title/tt1440232/?ref_=fn_tt_tt_1,48,France,Not Rated,25000000,173,7.1,0
+117,138,134904,Comedy|Drama|Romance|Sport,2395,3204,http://www.imdb.com/title/tt1125929/?ref_=fn_tt_tt_1,17,USA,R,25000000,581,5.7,636
+80,0,,Adventure|Animation|Comedy,753,53,http://www.imdb.com/title/tt1239462/?ref_=fn_tt_tt_1,24,France,G,25000000,9,2.9,90
+85,0,,Adventure|Animation|Comedy|Family,891,48,http://www.imdb.com/title/tt1272051/?ref_=fn_tt_tt_1,8,Russia,G,25000000,15,5.2,200
+138,0,16969390,Crime|Drama|Thriller,80861,27797,http://www.imdb.com/title/tt2193215/?ref_=fn_tt_tt_1,431,USA,R,25000000,11000,5.3,24000
+121,9,,Action|Adventure|History|Romance,34338,3287,http://www.imdb.com/title/tt1233301/?ref_=fn_tt_tt_1,103,UK,R,25000000,870,6.2,0
+134,27,,Action|Drama|History|War,5911,705,http://www.imdb.com/title/tt0066549/?ref_=fn_tt_tt_1,76,Italy,G,25000000,128,7.3,690
+100,3,129115,Action|Drama,5900,285,http://www.imdb.com/title/tt2952602/?ref_=fn_tt_tt_1,26,China,,25000000,68,6.5,0
+100,535,,Action|Thriller,1084,2204,http://www.imdb.com/title/tt1946381/?ref_=fn_tt_tt_1,11,USA,PG-13,25000000,535,4.1,437
+119,350,34700000,Drama|Romance,52846,35501,http://www.imdb.com/title/tt0094947/?ref_=fn_tt_tt_1,143,USA,R,14000000,17000,7.7,0
+137,179,717753,Adventure|Drama,33107,33747,http://www.imdb.com/title/tt0337692/?ref_=fn_tt_tt_1,128,France,R,25000000,10000,6.1,27000
+119,12000,109713132,Adventure|Comedy|Sci-Fi,61621,15449,http://www.imdb.com/title/tt0092007/?ref_=fn_tt_tt_1,219,USA,PG,25000000,664,7.3,0
+139,13000,70269171,Drama|Sport,162130,15111,http://www.imdb.com/title/tt0479143/?ref_=fn_tt_tt_1,962,USA,PG,24000000,683,7.2,0
+114,19,28772222,Action|Crime|Sport|Thriller,33958,3962,http://www.imdb.com/title/tt2058673/?ref_=fn_tt_tt_1,163,USA,PG-13,105000000,897,5.3,37000
+120,0,101334374,Horror|Mystery,124941,2321,http://www.imdb.com/title/tt0120082/?ref_=fn_tt_tt_1,488,USA,R,24000000,851,6.1,0
+98,149,1512815,Action|Drama|Western,8885,21414,http://www.imdb.com/title/tt2140037/?ref_=fn_tt_tt_1,56,USA,R,25000000,617,5.8,0
+106,167,65182182,Comedy|Romance,15310,4830,http://www.imdb.com/title/tt2239832/?ref_=fn_tt_tt_1,38,USA,PG-13,24000000,807,5.7,3000
+98,36,57262492,Comedy|Crime,90374,17582,http://www.imdb.com/title/tt0190138/?ref_=fn_tt_tt_1,318,USA,R,24000000,2000,6.7,0
+107,71,80000000,Drama|Music|Romance,51459,1962,http://www.imdb.com/title/tt0087277/?ref_=fn_tt_tt_1,113,USA,PG,8200000,455,6.5,0
+88,480,74608545,Comedy,185258,10325,http://www.imdb.com/title/tt0302886/?ref_=fn_tt_tt_1,404,USA,R,24000000,909,7.2,0
+137,0,41895491,Comedy|Drama|Fantasy,63274,12947,http://www.imdb.com/title/tt0101889/?ref_=fn_tt_tt_1,170,USA,R,24000000,443,7.6,12000
+100,41,39989008,Horror|Mystery,55398,49847,http://www.imdb.com/title/tt0130018/?ref_=fn_tt_tt_1,418,USA,R,24000000,1000,4.6,891
+115,597,32662299,Comedy|Drama|Romance,16469,3946,http://www.imdb.com/title/tt0122459/?ref_=fn_tt_tt_1,275,USA,PG,24000000,854,6.9,0
+101,0,31452765,Comedy|Romance,149835,638,http://www.imdb.com/title/tt1007028/?ref_=fn_tt_tt_1,243,USA,R,24000000,216,6.6,0
+110,119,25167270,Comedy|Crime|Drama,30119,12254,http://www.imdb.com/title/tt0171580/?ref_=fn_tt_tt_1,263,Germany,R,24000000,592,6.3,455
+94,293,32416109,Comedy|War,109620,32474,http://www.imdb.com/title/tt1234548/?ref_=fn_tt_tt_1,268,USA,R,25000000,12000,6.2,15000
+88,269,20218,Action|Comedy|Crime|Thriller,5431,2557,http://www.imdb.com/title/tt0238948/?ref_=fn_tt_tt_1,50,USA,PG-13,24000000,489,5.3,204
+127,446,28871190,Biography|Drama,125421,13433,http://www.imdb.com/title/tt0172493/?ref_=fn_tt_tt_1,385,USA,R,24000000,1000,7.3,0
+95,126,16964743,Comedy|Romance,22844,4681,http://www.imdb.com/title/tt0335559/?ref_=fn_tt_tt_1,140,USA,PG-13,24000000,989,5.6,876
+87,25,16290976,Adventure|Comedy|Family|Fantasy|Music|Sci-Fi,14637,3243,http://www.imdb.com/title/tt0158811/?ref_=fn_tt_tt_1,100,USA,G,24000000,670,6.2,619
+118,0,13000000,Adventure|Family|Fantasy|Music|Musical,10895,1458,http://www.imdb.com/title/tt0078504/?ref_=fn_tt_tt_1,150,USA,G,24000000,295,5.2,0
+107,48,12372410,Comedy|Sport,11709,4971,http://www.imdb.com/title/tt0217756/?ref_=fn_tt_tt_1,101,USA,PG-13,24000000,957,5.3,650
+124,41,8427204,Comedy|Drama|Sport,10100,1523,http://www.imdb.com/title/tt0196857/?ref_=fn_tt_tt_1,59,USA,R,24000000,481,5.4,153
+89,41,9639242,Comedy|Romance,16437,5470,http://www.imdb.com/title/tt1742650/?ref_=fn_tt_tt_1,68,USA,PG-13,24000000,1000,4.9,0
+88,192,25003072,Comedy|Horror,72552,5737,http://www.imdb.com/title/tt0464154/?ref_=fn_tt_tt_1,374,USA,R,24000000,859,5.5,13000
+118,18000,6144806,Biography|Drama|Music|Musical,12821,23689,http://www.imdb.com/title/tt0363473/?ref_=fn_tt_tt_1,248,USA,PG-13,23000000,5000,6.7,0
+93,9,4308981,Comedy|Family,2265,24436,http://www.imdb.com/title/tt0120645/?ref_=fn_tt_tt_1,37,USA,PG,24000000,284,3.9,839
+80,18,669276,Action|Adventure|Animation|Comedy|Fantasy,2541,1088,http://www.imdb.com/title/tt0112389/?ref_=fn_tt_tt_1,47,UK,G,28000000,83,7.2,408
+120,6,42880,Drama|Romance,2919,23769,http://www.imdb.com/title/tt0356443/?ref_=fn_tt_tt_1,50,UK,PG,24000000,670,5.1,181
+98,88,23225911,Action|Crime|Drama|Thriller,80574,14699,http://www.imdb.com/title/tt1433108/?ref_=fn_tt_tt_1,157,USA,R,24000000,854,6.5,12000
+119,6000,4710455,Adventure|Animation|Family|Fantasy,214091,24263,http://www.imdb.com/title/tt0347149/?ref_=fn_tt_tt_1,330,Japan,PG,24000000,713,8.2,13000
+88,181,75590286,Adventure|Comedy|Horror|Sci-Fi,386217,28011,http://www.imdb.com/title/tt1156398/?ref_=fn_tt_tt_1,553,USA,R,23600000,13000,7.7,26000
+201,0,218051260,Action|Adventure|Drama|Romance,316020,7122,http://www.imdb.com/title/tt0360717/?ref_=fn_tt_tt_1,2618,New Zealand,PG-13,207000000,918,7.2,0
+90,153,161487252,Comedy|Sport,119450,13823,http://www.imdb.com/title/tt0120484/?ref_=fn_tt_tt_1,300,USA,PG-13,20000000,1000,6.1,0
+127,883,290158751,Action|Adventure|Fantasy|Sci-Fi,837759,12643,http://www.imdb.com/title/tt0080684/?ref_=fn_tt_tt_1,900,USA,PG,18000000,504,8.8,17000
+119,0,65807024,Action|Comedy|Crime|Drama|Thriller,172405,11013,http://www.imdb.com/title/tt0112442/?ref_=fn_tt_tt_1,203,USA,R,19000000,345,6.8,0
+85,119,86930411,Comedy|Crime,83269,3847,http://www.imdb.com/title/tt0102510/?ref_=fn_tt_tt_1,87,USA,PG-13,23000000,348,6.8,0
+98,70,53302314,Horror|Thriller,181058,3345,http://www.imdb.com/title/tt0195714/?ref_=fn_tt_tt_1,674,USA,R,23000000,847,6.7,0
+101,0,40962534,Drama,188652,57077,http://www.imdb.com/title/tt1124035/?ref_=fn_tt_tt_1,288,USA,R,12500000,22000,7.1,22000
+112,123,39235088,Horror|Sci-Fi,193962,16196,http://www.imdb.com/title/tt0134847/?ref_=fn_tt_tt_1,805,USA,R,23000000,991,7.1,5000
+97,956,27338033,Comedy|Romance,19709,20798,http://www.imdb.com/title/tt0244970/?ref_=fn_tt_tt_1,167,USA,PG-13,23000000,551,6.1,0
+126,0,25556065,Drama|Romance|Sci-Fi,355126,19359,http://www.imdb.com/title/tt1798709/?ref_=fn_tt_tt_1,748,USA,R,23000000,128,8.0,148000
+106,452,15785632,Biography|Comedy|Drama|Sport,32513,21195,http://www.imdb.com/title/tt1083452/?ref_=fn_tt_tt_1,119,UK,PG-13,23000000,732,7.5,15000
+97,131,21973182,Mystery|Thriller,53415,23242,http://www.imdb.com/title/tt0206314/?ref_=fn_tt_tt_1,339,USA,R,23000000,81,6.6,0
+100,3,4756,Adventure|Family|Fantasy,4191,2450,http://www.imdb.com/title/tt1376213/?ref_=fn_tt_tt_1,32,UK,PG,25000000,228,5.4,0
+114,61,18653615,Comedy|Drama,14786,22040,http://www.imdb.com/title/tt0149691/?ref_=fn_tt_tt_1,103,USA,PG-13,23000000,797,6.1,638
+101,3,12189514,Comedy|Romance,30092,829,http://www.imdb.com/title/tt0360139/?ref_=fn_tt_tt_1,129,USA,PG-13,23000000,143,6.1,0
+88,12,13019253,Comedy|Crime,3914,1509,http://www.imdb.com/title/tt0198386/?ref_=fn_tt_tt_1,47,USA,PG-13,23000000,281,5.6,153
+93,0,18934858,Action|Thriller,72646,31187,http://www.imdb.com/title/tt1506999/?ref_=fn_tt_tt_1,397,Ireland,R,23000000,13000,5.8,0
+92,114,20763013,Adventure|Horror|Thriller,30840,2355,http://www.imdb.com/title/tt0093300/?ref_=fn_tt_tt_1,383,USA,PG-13,23000000,535,2.8,0
+98,4,12782508,Drama,20163,63194,http://www.imdb.com/title/tt0116999/?ref_=fn_tt_tt_1,71,USA,PG-13,23000000,22000,6.7,1000
+94,258,11508423,Biography|Comedy|Drama|Family|Sport,3174,2453,http://www.imdb.com/title/tt1091751/?ref_=fn_tt_tt_1,19,USA,PG,23000000,463,5.1,376
+102,277,10660147,Drama|Romance,17740,672,http://www.imdb.com/title/tt0172396/?ref_=fn_tt_tt_1,165,UK,R,23000000,261,7.2,0
+98,23,7434726,Action|Crime|Drama|Thriller|Western,14473,3671,http://www.imdb.com/title/tt0102005/?ref_=fn_tt_tt_1,81,USA,R,23000000,1000,6.0,0
+121,549,6777589,Crime|Drama|Mystery|Thriller,60115,24248,http://www.imdb.com/title/tt0478134/?ref_=fn_tt_tt_1,224,USA,R,,9000,7.2,0
+111,105,6109075,Biography|Drama,32003,735,http://www.imdb.com/title/tt1035736/?ref_=fn_tt_tt_1,65,France,PG-13,19430000,86,6.7,0
+90,78,,Drama|Western,4693,4142,http://www.imdb.com/title/tt2271563/?ref_=fn_tt_tt_1,49,Canada,R,11000000,1000,6.3,0
+100,350,2708188,Comedy|Drama|Romance,8924,365,http://www.imdb.com/title/tt1179258/?ref_=fn_tt_tt_1,43,UK,R,23000000,123,6.2,0
+50,,,Action|Crime|Drama|Thriller,1781,3276,http://www.imdb.com/title/tt2397255/?ref_=fn_tt_tt_1,23,USA,,,748,6.8,532
+141,300,16123851,Drama,17373,1618,http://www.imdb.com/title/tt0241025/?ref_=fn_tt_tt_1,148,USA,PG-13,23000000,539,6.2,767
+139,3,,Action|Drama|History,6263,1059,http://www.imdb.com/title/tt1403130/?ref_=fn_tt_tt_1,33,China,,23000000,155,6.9,765
+114,101,71975611,Fantasy|Horror,209396,214,http://www.imdb.com/title/tt0450385/?ref_=fn_tt_tt_1,580,USA,PG-13,25000000,25,6.8,11000
+96,0,38119483,Adventure|Comedy|Sci-Fi,136667,2936,http://www.imdb.com/title/tt0094012/?ref_=fn_tt_tt_1,273,USA,PG,22700000,605,7.1,13000
+111,0,4190530,Drama|War,53341,1795,http://www.imdb.com/title/tt3007512/?ref_=fn_tt_tt_1,185,Australia,R,22500000,468,7.1,18000
+127,109,217631306,Drama|Fantasy|Romance|Thriller,154199,3100,http://www.imdb.com/title/tt0099653/?ref_=fn_tt_tt_1,252,USA,PG-13,22000000,956,7.0,0
+107,101,176483808,Comedy|Romance,247289,4664,http://www.imdb.com/title/tt0129387/?ref_=fn_tt_tt_1,611,USA,R,23000000,852,7.1,0
+97,11,144833357,Comedy|Drama|Family|Fantasy,64742,2790,http://www.imdb.com/title/tt0111070/?ref_=fn_tt_tt_1,111,USA,PG,22000000,775,6.4,0
+127,102,75597042,Drama|Family|Sport,26434,6657,http://www.imdb.com/title/tt0265662/?ref_=fn_tt_tt_1,174,USA,G,20000000,1000,7.0,0
+110,99,90636983,Comedy|Family|Sport,44021,15170,http://www.imdb.com/title/tt0492956/?ref_=fn_tt_tt_1,83,USA,PG,22000000,941,6.2,0
+135,16000,70960517,Drama|Romance,54631,27237,http://www.imdb.com/title/tt0112579/?ref_=fn_tt_tt_1,192,USA,PG-13,35000000,11000,7.5,0
+84,42,55762229,Comedy|Sci-Fi,47383,1203,http://www.imdb.com/title/tt0255798/?ref_=fn_tt_tt_1,132,USA,PG-13,22000000,241,4.8,1000
+240,0,,Biography|Drama|History,171726,1943,http://www.imdb.com/title/tt0083987/?ref_=fn_tt_tt_1,256,UK,PG,22000000,429,8.1,12000
+122,529,54235441,Comedy|Drama,52894,1484,http://www.imdb.com/title/tt2980648/?ref_=fn_tt_tt_1,185,USA,PG,22000000,201,7.3,55000
+114,34,50728000,Action|Crime|Drama|Mystery|Thriller,48909,1725,http://www.imdb.com/title/tt0113957/?ref_=fn_tt_tt_1,166,USA,PG-13,22000000,327,5.8,0
+132,24,40270895,Drama,121937,3152,http://www.imdb.com/title/tt0277027/?ref_=fn_tt_tt_1,431,USA,PG-13,22000000,912,7.6,15000
+170,25,59696176,Biography|Drama|History,15448,775,http://www.imdb.com/title/tt3210686/?ref_=fn_tt_tt_1,174,USA,PG-13,22000000,134,5.6,15000
+133,235,51483949,Action|Fantasy|Thriller,208092,1777,http://www.imdb.com/title/tt0320691/?ref_=fn_tt_tt_1,806,UK,R,22000000,593,7.0,0
+112,101,36020063,Drama|Thriller,62584,2019,http://www.imdb.com/title/tt0398017/?ref_=fn_tt_tt_1,375,USA,R,22000000,561,6.6,0
+108,0,33313582,Comedy|Crime|Drama|Thriller,52888,16031,http://www.imdb.com/title/tt1130080/?ref_=fn_tt_tt_1,175,USA,R,21000000,734,6.5,0
+115,0,25842000,Biography|Drama|Romance,13455,13619,http://www.imdb.com/title/tt0108101/?ref_=fn_tt_tt_1,87,UK,PG,22000000,1000,7.4,2000
+83,2,22264487,Comedy,41239,1729,http://www.imdb.com/title/tt0367652/?ref_=fn_tt_tt_1,166,USA,R,22000000,489,4.6,887
+105,31,30659817,Comedy|Drama,59805,1006,http://www.imdb.com/title/tt2387559/?ref_=fn_tt_tt_1,95,USA,PG-13,26000000,311,6.4,0
+110,118,5773519,Drama|Horror|Sci-Fi|Thriller,28621,12876,http://www.imdb.com/title/tt1976009/?ref_=fn_tt_tt_1,91,USA,PG-13,40000000,1000,6.0,11000
+108,24,3108216,Thriller,2587,540,http://www.imdb.com/title/tt1995390/?ref_=fn_tt_tt_1,21,UK,R,,104,6.4,0
+96,221,19351569,Comedy|Crime|Romance,33287,664,http://www.imdb.com/title/tt0239948/?ref_=fn_tt_tt_1,201,USA,PG-13,22000000,226,5.9,739
+94,42,49002815,Comedy|Family,15665,3153,http://www.imdb.com/title/tt2023453/?ref_=fn_tt_tt_1,35,USA,PG,22000000,569,6.4,0
+142,0,19283782,Crime|Drama|Romance|Thriller,31227,5386,http://www.imdb.com/title/tt0162677/?ref_=fn_tt_tt_1,354,USA,R,22000000,911,6.6,0
+104,0,30059386,Comedy,128593,11632,http://www.imdb.com/title/tt0261392/?ref_=fn_tt_tt_1,867,USA,R,22000000,1000,6.9,0
+136,0,35799026,Action|Adventure|Romance|Sci-Fi|Thriller,263336,34838,http://www.imdb.com/title/tt0399201/?ref_=fn_tt_tt_1,899,USA,PG-13,126000000,12000,6.9,0
+106,12,17951431,Crime|Drama|Mystery|Thriller,25462,4239,http://www.imdb.com/title/tt0221218/?ref_=fn_tt_tt_1,200,USA,PG-13,30000000,844,5.8,804
+106,1000,29997095,Comedy|Mystery,60926,38494,http://www.imdb.com/title/tt0475290/?ref_=fn_tt_tt_1,302,UK,PG-13,22000000,17000,6.4,23000
+98,4,14252830,Comedy|Music,18900,3769,http://www.imdb.com/title/tt0236348/?ref_=fn_tt_tt_1,242,Canada,PG-13,22000000,486,5.3,0
+100,39,19783777,Action|Crime|Drama|Thriller,82804,39989,http://www.imdb.com/title/tt2312718/?ref_=fn_tt_tt_1,154,USA,R,22000000,11000,6.5,15000
+95,34,13555988,Adventure|Comedy|Family|Fantasy,7242,2216,http://www.imdb.com/title/tt0192255/?ref_=fn_tt_tt_1,38,Germany,PG,22000000,439,5.7,0
+107,737,12784713,Comedy,56813,8094,http://www.imdb.com/title/tt0356721/?ref_=fn_tt_tt_1,381,USA,R,22000000,718,6.7,0
+104,87,10696210,Action|Crime|Sci-Fi|Thriller,35018,3148,http://www.imdb.com/title/tt0107978/?ref_=fn_tt_tt_1,180,USA,PG-13,23500000,826,3.9,716
+104,53,5974653,Action|Adventure|Fantasy|Sci-Fi|Thriller,2253,4221,http://www.imdb.com/title/tt0263728/?ref_=fn_tt_tt_1,111,USA,PG-13,22000000,595,4.1,158
+143,688,5000000,Comedy|Drama|Musical|Romance|War,1547,788,http://www.imdb.com/title/tt0065611/?ref_=fn_tt_tt_1,50,USA,G,25000000,50,6.2,104
+77,37,9694105,Comedy|Family|Romance,8176,5568,http://www.imdb.com/title/tt0160236/?ref_=fn_tt_tt_1,77,USA,PG,22000000,968,3.8,272
+96,11,16027866,Action|Crime|Thriller,26767,1411,http://www.imdb.com/title/tt2938956/?ref_=fn_tt_tt_1,121,France,PG-13,25000000,173,5.1,0
+114,2,4829497,Drama|Romance,31433,42484,http://www.imdb.com/title/tt0375920/?ref_=fn_tt_tt_1,260,UK,R,,1000,6.4,0
+145,719,4398392,Drama|Thriller|War,59507,2590,http://www.imdb.com/title/tt0389557/?ref_=fn_tt_tt_1,232,Netherlands,R,21000000,380,7.8,0
+116,13,1050445,Drama|History|Music|Romance|War,21394,773,http://www.imdb.com/title/tt0424205/?ref_=fn_tt_tt_1,147,France,PG-13,22000000,172,7.8,11000
+100,21,13746550,Action|Comedy|Romance,29322,15922,http://www.imdb.com/title/tt2097307/?ref_=fn_tt_tt_1,104,USA,R,2000000,618,6.1,0
+104,144,20668843,Comedy|Crime|Thriller,16831,2453,http://www.imdb.com/title/tt0951216/?ref_=fn_tt_tt_1,54,USA,PG-13,22000000,875,5.8,687
+92,17,2963012,Drama|Mystery|Thriller,48873,14617,http://www.imdb.com/title/tt1726592/?ref_=fn_tt_tt_1,105,UK,R,22000000,257,6.3,11000
+92,607,,Adventure|Drama|Thriller,9513,1011,http://www.imdb.com/title/tt0076740/?ref_=fn_tt_tt_1,116,USA,PG,12000000,85,7.7,0
+105,43,1796024,Drama|Thriller,34985,37766,http://www.imdb.com/title/tt1423995/?ref_=fn_tt_tt_1,135,USA,R,22000000,14000,5.4,0
+120,2,634277,Comedy|History,5166,1651,http://www.imdb.com/title/tt0796335/?ref_=fn_tt_tt_1,27,France,PG-13,16000000,521,7.3,815
+116,108,11326836,Crime|Drama|Thriller,83171,24134,http://www.imdb.com/title/tt1206543/?ref_=fn_tt_tt_1,231,USA,R,22000000,820,6.8,17000
+119,209,49024969,Crime|Drama|Mystery|Thriller,133367,3284,http://www.imdb.com/title/tt0465538/?ref_=fn_tt_tt_1,363,USA,R,25000000,896,7.3,0
+101,88,22294341,Adventure|Comedy,12278,4629,http://www.imdb.com/title/tt0117119/?ref_=fn_tt_tt_1,71,USA,PG-13,21500000,821,6.5,758
+117,89,24362501,Crime|Drama|Thriller,69980,13576,http://www.imdb.com/title/tt0137363/?ref_=fn_tt_tt_1,591,USA,R,21500000,541,7.2,0
+106,195,,Adventure|Animation|Family|Sport,6920,30,http://www.imdb.com/title/tt1634003/?ref_=fn_tt_tt_1,22,Spain,PG,22000000,10,6.7,0
+112,11000,16684352,Comedy|Romance,67893,1205,http://www.imdb.com/title/tt1859650/?ref_=fn_tt_tt_1,163,USA,R,17000000,223,6.3,18000
+136,16000,46700000,Action|Adventure|Thriller,19832,16805,http://www.imdb.com/title/tt0083943/?ref_=fn_tt_tt_1,98,USA,PG,21000000,281,5.9,0
+81,406,52008288,Animation|Comedy|Fantasy|Musical,162037,3003,http://www.imdb.com/title/tt0158983/?ref_=fn_tt_tt_1,928,USA,R,21000000,795,7.8,0
+87,0,8579684,Comedy,89547,24324,http://www.imdb.com/title/tt0795368/?ref_=fn_tt_tt_1,199,USA,R,9000000,557,7.4,0
+96,8,42660000,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,25086,1254,http://www.imdb.com/title/tt0108308/?ref_=fn_tt_tt_1,87,USA,PG,17000000,219,4.8,1000
+106,48,40219708,Drama|Sport,22649,18630,http://www.imdb.com/title/tt0180734/?ref_=fn_tt_tt_1,131,USA,PG-13,21000000,558,6.3,0
+122,737,132088910,Comedy|Drama|Romance,533607,72115,http://www.imdb.com/title/tt1045658/?ref_=fn_tt_tt_1,692,USA,R,21000000,22000,7.8,117000
+123,98,36581633,Biography|Crime|Drama,52533,3994,http://www.imdb.com/title/tt0463998/?ref_=fn_tt_tt_1,235,Germany,PG-13,21000000,826,7.5,10000
+133,0,37721949,Drama,6067,6035,http://www.imdb.com/title/tt1405500/?ref_=fn_tt_tt_1,73,USA,R,,912,6.0,0
+92,255,25296447,Action|Crime|Thriller,237248,27572,http://www.imdb.com/title/tt0293662/?ref_=fn_tt_tt_1,460,France,PG-13,21000000,1000,6.8,0
+110,65,24848292,Action|Drama|Sport,80556,4089,http://www.imdb.com/title/tt1023111/?ref_=fn_tt_tt_1,184,USA,PG-13,20000000,427,6.6,0
+104,52,17757087,Horror|Sci-Fi|Thriller,13065,3162,http://www.imdb.com/title/tt0144814/?ref_=fn_tt_tt_1,253,USA,R,21000000,490,4.6,897
+60,,,Game-Show|Reality-TV|Romance,4398,98,http://www.imdb.com/title/tt0313038/?ref_=fn_tt_tt_1,33,USA,,3000000,,2.9,141
+98,0,9430988,Comedy|Drama|Romance,45992,1997,http://www.imdb.com/title/tt1176740/?ref_=fn_tt_tt_1,115,USA,R,17000000,472,7.1,7000
+120,0,16284360,Comedy|Drama,15079,6212,http://www.imdb.com/title/tt1027862/?ref_=fn_tt_tt_1,79,USA,PG-13,21000000,901,6.1,1000
+112,52,6830957,Drama|Romance,11983,16692,http://www.imdb.com/title/tt0179098/?ref_=fn_tt_tt_1,147,USA,PG-13,21000000,1000,6.7,365
+127,140,24104113,Drama|Mystery|Thriller,149066,46241,http://www.imdb.com/title/tt1340800/?ref_=fn_tt_tt_1,517,France,R,20000000,14000,7.1,24000
+102,18,15593,Comedy|Drama|Romance,2295,1562,http://www.imdb.com/title/tt0143746/?ref_=fn_tt_tt_1,40,USA,PG-13,21000000,419,5.8,284
+91,0,958319,Drama,39764,34705,http://www.imdb.com/title/tt1321860/?ref_=fn_tt_tt_1,148,USA,PG-13,21000000,242,6.7,17000
+114,19,69700000,Comedy|Musical,7748,3688,http://www.imdb.com/title/tt0083642/?ref_=fn_tt_tt_1,48,USA,R,35000000,883,5.8,0
+115,0,2840417,Horror|Sci-Fi|Thriller,77493,2990,http://www.imdb.com/title/tt0120907/?ref_=fn_tt_tt_1,527,Canada,R,31000000,900,6.8,6000
+115,14000,242374454,Action|Adventure,661017,12906,http://www.imdb.com/title/tt0082971/?ref_=fn_tt_tt_1,771,USA,PG,18000000,783,8.5,16000
+120,0,173585516,Adventure|Comedy|Family,200077,7860,http://www.imdb.com/title/tt0104431/?ref_=fn_tt_tt_1,189,USA,PG,18000000,1000,6.6,0
+135,14000,128300000,Drama|Sci-Fi,139288,1591,http://www.imdb.com/title/tt0075860/?ref_=fn_tt_tt_1,339,USA,PG,19400870,481,7.7,0
+90,2,20259297,Drama|Horror|Sci-Fi|Thriller,24969,19952,http://www.imdb.com/title/tt0454919/?ref_=fn_tt_tt_1,258,USA,PG-13,20000000,1000,4.7,0
+100,12000,153665036,Action|Comedy|Crime|Thriller,84824,4121,http://www.imdb.com/title/tt0092644/?ref_=fn_tt_tt_1,95,USA,R,28000000,901,6.4,0
+105,163,132541238,Comedy,30058,2505,http://www.imdb.com/title/tt0305669/?ref_=fn_tt_tt_1,236,USA,PG-13,33000000,409,5.5,800
+138,438,130727000,Crime|Drama|Horror|Thriller,887467,13184,http://www.imdb.com/title/tt0102926/?ref_=fn_tt_tt_1,916,USA,R,19000000,826,8.6,40000
+94,122,121697350,Comedy|Music,114610,4263,http://www.imdb.com/title/tt0105793/?ref_=fn_tt_tt_1,176,USA,PG-13,20000000,619,7.0,0
+101,79,117224271,Action|Comedy|Documentary,47794,1787,http://www.imdb.com/title/tt1116184/?ref_=fn_tt_tt_1,81,USA,R,20000000,362,7.1,0
+131,82,102922376,Adventure|Horror|Thriller,51314,1520,http://www.imdb.com/title/tt0077766/?ref_=fn_tt_tt_1,265,USA,PG,20000000,366,5.7,0

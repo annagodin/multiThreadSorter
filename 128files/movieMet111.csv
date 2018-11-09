@@ -1,60 +1,75 @@
-actor_1_name,cast_total_facebook_likes,plot_keywords,country,content_rating,imdb_score
-Claude Rains,1076,arab|british military|desert|ottoman empire|t.e. lawrence,UK,PG,8.4
-Scout Taylor-Compton,3226,halloween|hospital|michael myers|rampage|vomiting,USA,R,4.9
-Michiel Huisman,4896,female protagonist|grief|hiking|loss of mother|mother daughter relationship,USA,R,7.1
-Tony Goldwyn,3861,kidnapping|lake|microwave oven|psychopath|woods,USA,R,6.6
-Jack Davenport,2666,chick flick|escort|male escort|wedding|wedding date,USA,PG-13,6.1
-Jamie Lee Curtis,5440,cult film|halloween|killer|michael myers|serial killer,USA,R,4.1
-Liam Neeson,18003,famous line|hand to hand combat|kraken|rape|zeus,USA,PG-13,5.8
-Robin Wright,20060,fairy tale|giant|pirate|princess|true love,USA,PG,8.1
-Denzel Washington,22745,college|debate|student|texas|wiley college,USA,PG-13,7.6
-Ryan Gosling,34337,kissing in an elevator|mythical hero|neo noir|protective male|silent protagonist,USA,R,7.8
-Adam Garcia,2167,band|friend|new york city|suburb|teenager,Germany,PG,4.6
-Liam Aiken,1450,baby|dancing|gay|name calling|penis slur,USA,R,6.0
-Jeremy Renner,11471,paris france|rage|sniper|u.s. army|zombie apocalypse,UK,R,7.0
-Jessie T. Usher,525,coach|high school football,USA,PG,6.7
-Cicely Tyson,3462,10 year old|dog|florida|girl|supermarket,USA,PG,6.4
-Alfre Woodard,5135,basketball movie|female basketball player|high school|nba|title directed by female,USA,PG-13,7.2
-Minnie Driver,2044,assassin|high school|high school reunion|reunion|suburb,USA,R,7.4
-Bradley Cooper,16461,blind date|crossword puzzle|eccentric|fall|mine shaft,USA,PG-13,4.8
-Kim Director,608,convenience store|digit in title|punctuation in title|violence|witch,USA,R,4.0
-Christine Taylor,1812,coven|occult|outcast|spell|witch,USA,R,6.2
-Scarlett Johansson,20391,extramarital affair|infidelity|irony of fate|surprise ending|tennis,UK,R,7.7
-Sierra McCormick,1002,aunt|cat|death of pet|girl|no opening credits,USA,G,6.7
-Anthony Hopkins,12749,butler|housekeeper|manor|servant|service,UK,PG,7.9
-Don Cheadle,3677,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,USA,R,7.9
-Kieran Culkin,2210,business|escaped convict|farm|motorcycle|widow,USA,R,5.5
-Alison Lohman,3845,father son relationship|horse|horse ranch|ranch|wild mustang,USA,PG,6.2
-Jeff Kober,2559,desert|fight|hill|murder|mutant,USA,R,5.1
-Loretta Devine,2682,film set|movie set|sequel|slow motion|urban legend,USA,R,4.1
-William Hurt,2661,fountain of youth|immortality|secret|woods|young man,USA,PG,6.7
-Kelly Carlson,1045,beating|marine|muscleman|tied up|tough guy,USA,PG-13,4.7
-Nia Long,2958,car chase|gangsta|gun fight|hitman|kitten,USA,R,6.4
-Leighton Meester,4204,country music|panties|pink panties|relapse|songwriter,Official site,PG-13,6.3
-Bruce Greenwood,4660,blue ribbon|high school|jacket|jock|yogurt,Australia,R,5.5
-Ryan Gosling,34413,bank|carnival|motorcycle|police|rookie cop,USA,R,7.3
-Luke Bracey,3033,critically bashed|premarital sex|sex scene|sex standing up|stripper,USA,R,6.3
-Jason Priestley,1069,chicago illinois|false identity|femme fatale|new york city|spying,Canada,R,4.9
-Jeremy Renner,11114,army|bomb|dangerous job|death|iraq,USA,R,7.6
-Heather Locklear,3444,captain|experiment|fire|psychic|secret government agency,USA,R,6.0
-Brad Pitt,14025,exploding car|hit by a car|poker game|punched in the face|shot to death,USA,R,6.2
-Philip Seymour Hoffman,22574,intelligence|intelligence agency|secret service|surveillance camera|war on terror,UK,R,6.8
-Rip Torn,2689,animator|bamboo cane|cartoonist|sausage|slacker,USA,R,4.5
-Yuri Lowenthal,568,17th century|king|pirate|vegetable|waiter,USA,G,5.7
-Bono,646,3d in title|digit in title|rock band|rocker|u2,USA,G,8.4
-Christopher Lambert,2764,battle|explosion|immortal|revenge|sequel to cult film,USA,R,4.6
-Cicely Tyson,3633,gangster|playing piano|song and dance|speakeasy|written and directed by cast member,USA,R,6.2
-Anne Hathaway,17627,23 year time span|accidental death|best friend|loss of loved one|male female friendship,USA,PG-13,7.0
-Daniel Stern,2633,beauty pageant|friend|pageant|roller derby|texas,USA,PG-13,6.9
-Vin Diesel,15644,mob|mobster|money|montana|sheriff,USA,R,6.1
-Louis Lombardi,1172,con|grifter|lap dance|organized crime|shot in the forehead,USA,R,6.7
-Jeff Bridges,15209,directed by star|muse|satire|screenwriter|tiffany's,USA,PG-13,5.6
-Kevin McNally,729,cole porter|composer|love|party|tears,USA,PG-13,6.6
-Woody Allen,12685,12 year old|artist|hotel|three word title|written and directed by cast member,USA,PG,6.4
-Trevor Morgan,1139,apostrophe in title|critically bashed|hit on the head with a ball|punctuation in title|tyrannosaurus rex,Canada,G,2.8
-Rick Yune,2377,blacksmith|box office flop|chop socky|critically bashed|village,USA,R,5.4
-Catherine O'Hara,2913,baby|infidelity|pilot|pregnant|waitress,USA,PG-13,5.0
-Bruce Greenwood,3142,diner|love|private school|school|small town,USA,PG-13,5.1
-Robert De Niro,29475,black comedy|bureaucracy|dream|terrorist|wrongful arrest,UK,R,8.0
-Oliver James,4676,music school|scholarship|small town|stage fright|three word title,USA,PG,5.9
-David Ogden Stiers,981,psychic|psychic power|psychometry|spin off|supernatural power,Canada,TV-14,7.5
+director_name,director_facebook_likes,actor_2_name,genres,actor_1_name,num_voted_users,cast_total_facebook_likes,actor_3_name,plot_keywords,movie_imdb_link,num_user_for_reviews,budget
+Serdar Akar,11,Bergüzar Korel,Action|Adventure,Necati Sasmaz,14486,808,Ghassan Massoud,abu ghraib|bomb|christian|explosion|iraq,http://www.imdb.com/title/tt0493264/?ref_=fn_tt_tt_1,159,8300000
+Quentin Tarantino,16000,Eric Stoltz,Crime|Drama,Bruce Willis,1324680,16557,Phil LaMarr,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,http://www.imdb.com/title/tt0110912/?ref_=fn_tt_tt_1,2195,8000000
+James Frawley,21,Jim Henson,Adventure|Comedy|Family|Musical,Madeline Kahn,25498,5673,Dom DeLuise,friend|frog leg|on the road|restaurant|the muppets,http://www.imdb.com/title/tt0079588/?ref_=fn_tt_tt_1,92,
+Dan Gilroy,66,Michael Papajohn,Crime|Drama|Thriller,Jake Gyllenhaal,293304,15554,James Huang,employer employee relationship|ethics|journalism|sociopath|tv news,http://www.imdb.com/title/tt2872718/?ref_=fn_tt_tt_1,552,8500000
+Jay Chandrasekhar,422,Lindsay Price,Comedy|Horror|Thriller,Brittany Daniel,23823,3306,Jay Chandrasekhar,beach|island|party|resort|serial killer,http://www.imdb.com/title/tt0331953/?ref_=fn_tt_tt_1,201,8550000
+Robert Wise,338,Angela Cartwright,Biography|Drama|Family|Musical|Romance,Eleanor Parker,148172,1495,Nicholas Hammond,austria|children|governess|love|orchestral music score,http://www.imdb.com/title/tt0059742/?ref_=fn_tt_tt_1,406,8200000
+Ron Howard,2000,Howard Morris,Comedy|Fantasy|Romance,Tom Hanks,54723,15361,Patrick Cronin,cmnf|cmnf scene|mermaid|new york city|public nudity,http://www.imdb.com/title/tt0088161/?ref_=fn_tt_tt_1,99,8000000
+Jonathan Dayton,36,Steven Christopher Parker,Comedy|Drama,Steve Carell,355810,7227,Jill Talley,gay|graduate student|sister sister relationship|sprite|uncle nephew relationship,http://www.imdb.com/title/tt0449059/?ref_=fn_tt_tt_1,889,8000000
+Rob Reiner,0,Frances Lee McCain,Adventure|Drama,Marshall Bell,271794,644,Casey Siemaszko,friendship|summertime|treehouse|walking on train tracks|woods,http://www.imdb.com/title/tt0092005/?ref_=fn_tt_tt_1,584,8000000
+Danny Boyle,0,Megan Burns,Drama|Horror|Sci-Fi|Thriller,Noah Huntley,297250,241,David Schneider,laboratory|london england|military|virus|zombie apocalypse,http://www.imdb.com/title/tt0289043/?ref_=fn_tt_tt_1,1441,8000000
+Chris Stokes,548,Marques Houston,Drama|Music,Jennifer Freeman,23671,1792,Steve Harvey,competition|dance contest|friend|money|street dancing,http://www.imdb.com/title/tt0365957/?ref_=fn_tt_tt_1,247,8000000
+Don Siegel,152,Patrick McGoohan,Biography|Crime|Drama,Clint Eastwood,87090,17568,Fred Ward,alcatraz|escape|inmate|island|prison,http://www.imdb.com/title/tt0079116/?ref_=fn_tt_tt_1,142,8000000
+Rick Famuyiwa,44,Sanaa Lathan,Comedy|Drama|Music|Romance,Boris Kodjoe,5971,3199,Wendell Pierce,basketball|hip hop|rap music|record company|writer,http://www.imdb.com/title/tt0297037/?ref_=fn_tt_tt_1,60,8000000
+Martin Lawrence,0,Lynn Whitfield,Comedy|Crime|Drama|Romance|Thriller,Faizon Love,3122,3023,Della Reese,african american|dating|independent film|irreverence|revenge,http://www.imdb.com/title/tt0117891/?ref_=fn_tt_tt_1,14,8000000
+Jonathan Levine,129,Anna Kendrick,Comedy|Drama|Romance,Joseph Gordon-Levitt,270441,39807,Bryce Dallas Howard,best friend|cancer|survival rate|therapist|vomiting,http://www.imdb.com/title/tt1306980/?ref_=fn_tt_tt_1,378,8000000
+Masayuki Ochiai,5,David Denman,Horror|Mystery|Thriller,James Kyson,26609,1534,Daisy Betts,car accident|japan|newlywed|photograph|photographer,http://www.imdb.com/title/tt0482599/?ref_=fn_tt_tt_1,148,8000000
+George A. Romero,0,Hal Holbrook,Comedy|Fantasy|Horror,Ted Danson,29935,2662,Adrienne Barbeau,anthology|child abuse|critically acclaimed|death|grindhouse,http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1,211,8000000
+Tom Gormican,19,Lola Glaudini,Comedy|Romance,Mackenzie Davis,76791,1024,Josh Pais,dating|divorce|father daughter relationship|mother daughter relationship|party,http://www.imdb.com/title/tt1800246/?ref_=fn_tt_tt_1,100,8000000
+Ken Shapiro,2,Dabney Coleman,Comedy|Fantasy|Sci-Fi,Brian Doyle-Murray,3904,1455,Mary Kay Place,air traffic controller|nuclear waste|orgasm|telekinesis|voodoo,http://www.imdb.com/title/tt0082763/?ref_=fn_tt_tt_1,48,8000000
+Justin Tipping,2,Natalie Stephany Aguilar,Adventure,Tina Gilton,59,1279,Justin Hall,,http://www.imdb.com/title/tt4254584/?ref_=fn_tt_tt_1,6,
+Kenneth Branagh,0,Denzel Washington,Comedy|Drama|Romance,Keanu Reeves,37269,37645,Brian Blessed,16th century|bachelor|dishonor|masquerade party|wedding,http://www.imdb.com/title/tt0107616/?ref_=fn_tt_tt_1,165,8000000
+Peter R. Hunt,13,George Lazenby,Action|Adventure|Thriller,Telly Savalas,59941,1769,Desmond Llewelyn,bond girl|british|mission|portugal|switzerland,http://www.imdb.com/title/tt0064757/?ref_=fn_tt_tt_1,452,7000000
+,,Philip Winchester,Action|Crime|Drama|Thriller,Nick Wechsler,5817,4043,Jeff Marlow,bet|friend|pit boss|secret|surveillance,http://www.imdb.com/title/tt4474310/?ref_=fn_tt_tt_1,25,
+Wes Craven,0,Heather Langenkamp,Fantasy|Horror|Mystery|Thriller,Miko Hughes,38191,1775,Tracy Middendorf,earthquake|elm street|freddy krueger|nightmare|sleep,http://www.imdb.com/title/tt0111686/?ref_=fn_tt_tt_1,271,8000000
+John Schultz,13,Mark Webber,Comedy|Drama|Romance,Stephen Collins,14904,1760,Keri Lynn Pratt,centennial|girl|next door neighbor|prom|school,http://www.imdb.com/title/tt0164114/?ref_=fn_tt_tt_1,147,8000000
+Doug Atchison,3,Sean Michael Afable,Drama,Curtis Armstrong,15337,2832,Tzi Ma,national spelling bee|principal|school principal|spelling|spelling bee,http://www.imdb.com/title/tt0437800/?ref_=fn_tt_tt_1,172,
+Tamra Davis,33,Harland Williams,Comedy|Crime,Dave Chappelle,48225,2400,Clarence Williams III,bail|diabetic|friend|jail|pharmaceutical lab,http://www.imdb.com/title/tt0120693/?ref_=fn_tt_tt_1,164,8000000
+Jonas Elmer,3,Frances Conroy,Comedy|Romance,J.K. Simmons,17461,25792,Harry Connick Jr.,love|manufacturing|minnesota|plant|small town,http://www.imdb.com/title/tt1095174/?ref_=fn_tt_tt_1,78,8000000
+Stephen Gaghan,79,Amr Waked,Drama|Thriller,Matt Damon,109191,14747,Kayvan Novak,cia|hezbollah|lebanon|oil|prince,http://www.imdb.com/title/tt0365737/?ref_=fn_tt_tt_1,625,50000000
+Mary Harron,126,Justin Theroux,Crime|Drama,Christian Bale,357275,25462,Samantha Mathis,1980s|business card|male rear nudity|materialism|narcissism,http://www.imdb.com/title/tt0144084/?ref_=fn_tt_tt_1,1061,7000000
+Miguel Arteta,44,Zooey Deschanel,Drama|Romance,Jake Gyllenhaal,37952,27646,Tim Blake Nelson,dysfunctional marriage|marijuana|small town|store|trying to conceive,http://www.imdb.com/title/tt0279113/?ref_=fn_tt_tt_1,298,5000000
+Erik Canuel,31,Richard Howland,Action|Comedy|Crime|Thriller,Colm Feore,8616,895,Sarain Boylan,border|hockey|killer|police|tattoo,http://www.imdb.com/title/tt0479647/?ref_=fn_tt_tt_1,90,8000000
+Troy Duffy,78,Julie Benz,Action|Crime|Thriller,Norman Reedus,53251,17524,Clifton Collins Jr.,final showdown|ireland|justice|priest|sheep,http://www.imdb.com/title/tt1300851/?ref_=fn_tt_tt_1,188,8000000
+James Ivory,133,Omar Metwally,Drama|Romance,Alexandra Maria Lara,2311,858,Diego Velazquez,child|student|university|widow|writer,http://www.imdb.com/title/tt0896923/?ref_=fn_tt_tt_1,25,8300000
+Nicole Holofcener,132,Ben Falcone,Comedy|Drama|Romance,Christopher Nicholas Smith,49240,1183,Michaela Watkins,dating|divorcee|ex husband|ex wife|party,http://www.imdb.com/title/tt2390361/?ref_=fn_tt_tt_1,142,8000000
+Will Gluck,87,Dan Byrd,Comedy|Romance,Emma Stone,276746,16982,Fred Armisen,gay|gay interest|high school|school|student,http://www.imdb.com/title/tt1282140/?ref_=fn_tt_tt_1,264,8000000
+Matty Rich,10,Joe Morton,Comedy|Drama|Romance,Jada Pinkett Smith,1103,3293,Larenz Tate,fire|marriage|martha's vineyard|teenager|vacation,http://www.imdb.com/title/tt0110137/?ref_=fn_tt_tt_1,11,
+E. Elias Merhige,54,Udo Kier,Drama|Horror,Eddie Izzard,34191,1761,Catherine McCormack,actor|breasts|film actress|nosferatu|vampire,http://www.imdb.com/title/tt0189998/?ref_=fn_tt_tt_1,339,8000000
+Joe Nussbaum,18,Thomas McDonell,Comedy|Drama,Cameron Monaghan,12702,5190,Aimee Teegarden,decoration|father daughter relationship|high school|prom|teenager,http://www.imdb.com/title/tt1604171/?ref_=fn_tt_tt_1,32,8000000
+Matt Reeves,198,Michael Rapaport,Comedy|Romance,Mark Margolis,6124,3502,Carol Kane,bachelor party|directorial debut|funeral|pallbearer|wedding,http://www.imdb.com/title/tt0117283/?ref_=fn_tt_tt_1,55,8000000
+Steve Rash,15,Nia Long,Comedy,Barry Corbin,2870,3291,Jake Busey,hold up|hostage|stockholm syndrome|swat team|vegetarian,http://www.imdb.com/title/tt0165831/?ref_=fn_tt_tt_1,34,8000000
+Fina Torres,26,John de Lancie,Comedy|Fantasy|Romance,Harold Perrineau,8546,2687,Mark Feuerstein,cross dresser|food|friend|motion sickness|restaurant,http://www.imdb.com/title/tt0206420/?ref_=fn_tt_tt_1,86,8000000
+James Ivory,133,Vanessa Redgrave,Drama|Romance,Anthony Hopkins,21254,13180,Samuel West,england|friendship|prejudice|upper class|working class,http://www.imdb.com/title/tt0104454/?ref_=fn_tt_tt_1,86,
+,,Joseph Gilgun,Adventure|Drama|Fantasy|Mystery,Dominic Cooper,22848,6034,Ruth Negga,heaven and hell|preacher|supernatural|vampire|vertigo comics,http://www.imdb.com/title/tt5016504/?ref_=fn_tt_tt_1,85,
+Duke Johnson,26,Tom Noonan,Animation|Comedy|Drama|Romance,Jennifer Jason Leigh,31489,1442,David Thewlis,full frontal male nudity|hotel room|multiple characters voiced by same person|one night stand|sex in hotel room,http://www.imdb.com/title/tt2401878/?ref_=fn_tt_tt_1,140,8000000
+Mike Leigh,608,Imelda Staunton,Comedy|Drama,Jim Broadbent,23629,2265,Phil Davis,autumn|four seasons|friend|looking at one's self in a mirror|unhappiness,http://www.imdb.com/title/tt1431181/?ref_=fn_tt_tt_1,141,10000000
+François Ozon,341,Isabelle Huppert,Comedy|Crime|Musical|Romance,Catherine Deneuve,23660,3543,Emmanuelle Béart,cook|industrialist|secret|snowstorm|suspect,http://www.imdb.com/title/tt0283832/?ref_=fn_tt_tt_1,162,8000000
+Mark L. Lester,73,Tia Carrere,Action|Comedy|Crime|Thriller,Cary-Hiroyuki Tagawa,12561,2404,Vernee Watson,bare chested male|detective|electric torture|japanese american|yakuza,http://www.imdb.com/title/tt0102915/?ref_=fn_tt_tt_1,102,8000000
+David Dobkin,71,Vince Vieluf,Comedy|Crime,Janeane Garofalo,9494,1795,Kevin Rahm,breasts|serial killer|small town|vomiting|widow,http://www.imdb.com/title/tt0118863/?ref_=fn_tt_tt_1,109,8000000
+Anna Boden,16,Jeremy Davies,Comedy|Drama|Romance,Zoë Kravitz,106098,2786,Jim Gaffigan,based on novel|depression|psychiatric ward|suicide attempt|therapy,http://www.imdb.com/title/tt0804497/?ref_=fn_tt_tt_1,150,8000000
+Nigel Cole,13,Robbie Kay,Biography|Comedy|Drama|History,Bob Hoskins,11158,7692,Sally Hawkins,equal pay|machinist|minister|protest|sex,http://www.imdb.com/title/tt1371155/?ref_=fn_tt_tt_1,73,7200000
+Anand Tucker,14,Jim Broadbent,Biography|Drama,Colin Firth,3571,15848,Gina McKee,cancer|children|death|terminal cancer|time,http://www.imdb.com/title/tt0829098/?ref_=fn_tt_tt_1,34,8000000
+Steve James,23,Laurel Holloman,Biography|Drama|Romance|Sport,Kurtwood Smith,5673,1610,Amy Locane,long distance runner|olympics|oregon|runner|watching television,http://www.imdb.com/title/tt0119937/?ref_=fn_tt_tt_1,37,8000000
+Michael Winner,136,Marina Sirtis,Adventure|Drama,Faye Dunaway,802,2413,John Gielgud,female nudity|highwayman|nell gwynne|nudity|whipping,http://www.imdb.com/title/tt0086582/?ref_=fn_tt_tt_1,15,8000000
+Tomm Moore,45,Mick Lally,Adventure|Animation|Family|Fantasy,Sean Lennon,22811,75,Evan McGuire,barbarian|fairy|forest|monastery|unfinished book,http://www.imdb.com/title/tt0485601/?ref_=fn_tt_tt_1,71,6500000
+John Carney,109,Karen Pittman,Drama|Music,James Corden,99430,517,Mary Catherine Garrison,manhattan new york city|new york city|record label|singer|song,http://www.imdb.com/title/tt1980929/?ref_=fn_tt_tt_1,182,8000000
+David Jacobson,12,Bruce Dern,Drama|Romance|Thriller,Hunter Parrish,16617,3921,Rory Culkin,beach|cowboy|cowboy hat|neo western|valley,http://www.imdb.com/title/tt0398027/?ref_=fn_tt_tt_1,110,8000000
+Michael Corrente,30,Tony Devon,Crime|Drama,Jerry Ferrara,5049,1234,Alexa Havins,1980s|friend|friendship|loyalty|mafia,http://www.imdb.com/title/tt0283503/?ref_=fn_tt_tt_1,48,8000000
+Edward Hall,0,Hayley Atwell,Drama|Romance,Rufus Sewell,2098,6343,Charlotte Rampling,espionage|motel|mother son relationship|murder disguised as suicide|shot in the head,http://www.imdb.com/title/tt2241676/?ref_=fn_tt_tt_1,12,
+Keith Gordon,200,Robin Wright,Comedy|Crime|Musical|Mystery,Robert Downey Jr.,7116,41645,Alfre Woodard,detective|detective novel|fantasy sequence|hallucination|writer,http://www.imdb.com/title/tt0314676/?ref_=fn_tt_tt_1,79,8000000
+David Leland,2,Catherine McCormack,Drama|Romance|War,Anna Friel,1591,1378,Steven Mackintosh,dorset|farm|friend|love|women's land army,http://www.imdb.com/title/tt0119494/?ref_=fn_tt_tt_1,27,
+Andrew Currie,8,Henry Czerny,Comedy|Drama|Horror|Sci-Fi,Alexia Fast,25055,786,Kesun Loder,decapitation|neighbor|neighborhood|next door neighbor|zombie,http://www.imdb.com/title/tt0457572/?ref_=fn_tt_tt_1,98,8000000
+Andrew Wilson,387,Eddie Griffin,Comedy|Drama|Romance,Will Ferrell,5159,9608,Jacob Vargas,directorial debut|fantasy sequence|nurse|old age home|prison,http://www.imdb.com/title/tt0373445/?ref_=fn_tt_tt_1,27,8000000
+Jonathan Lynn,36,Rupert Everett,Action|Comedy|Crime,Rupert Grint,29994,11770,Geoff Bell,apprentice|assassin|hitman|kleptomaniac|thief,http://www.imdb.com/title/tt1235189/?ref_=fn_tt_tt_1,86,8000000
+Marc Schölermann,3,Larry Drake,Crime|Horror|Thriller,John de Lancie,26849,3185,Johnny Whitworth,corpse|dark humor|medical school|murder|pathology,http://www.imdb.com/title/tt0964539/?ref_=fn_tt_tt_1,107,8000000
+,,Jack O'Connell,Drama|Romance,Tom Hardy,6053,29196,Kevin McNally,abuse|love|moor the landscape|revenge|tv mini series,http://www.imdb.com/title/tt1238834/?ref_=fn_tt_tt_1,33,
+Robert Moresco,53,Brad Renfro,Crime|Drama|Thriller,Brian Dennehy,5557,2512,Dash Mihok,desert storm|fbi|fbi agent|fragmentation grenade|woman kills attacker,http://www.imdb.com/title/tt0360323/?ref_=fn_tt_tt_1,34,8000000
+Thomas Vinterberg,346,Chris Owen,Comedy|Crime|Drama|Romance,Michael Angarano,9003,2572,William Hootkins,gang|gun|loner|love|outcast,http://www.imdb.com/title/tt0342272/?ref_=fn_tt_tt_1,58,50000000
+Claudia Llosa,43,Zen McGrath,Drama,Ian Tracey,2103,326,William Shimell,,http://www.imdb.com/title/tt2494384/?ref_=fn_tt_tt_1,11,8000000
+Katsuhiro Ôtomo,78,Takeshi Kusao,Action|Animation|Sci-Fi,Mitsuo Iwata,106160,28,Tesshô Genda,based on manga|biker gang|gifted child|post thermonuclear war|science runs amok,http://www.imdb.com/title/tt0094625/?ref_=fn_tt_tt_1,430,1100000000
+John Herzfeld,17,Olivia Wilde,Action|Crime|Thriller,Paul Walker,12078,37457,Jason Flemyng,drug lord|on the run|prison|vegan|vegetarian,http://www.imdb.com/title/tt0473188/?ref_=fn_tt_tt_1,31,22000000
+Charles Binamé,2,Roy Dupuis,Biography|Drama|Sport,Stephen McHattie,4412,733,Julie LeBreton,fan|french canadian|hockey|hockey player|machinist,http://www.imdb.com/title/tt0460505/?ref_=fn_tt_tt_1,31,8000000
+Keith Parmer,2,Josh Henderson,Action|Crime|Drama|Thriller,Rachel Ann Mullins,1965,33858,Grant Bowler,police officer killed|police officer shot in the chest|police officer shot in the forehead|police officer shot in the head|police shootout,http://www.imdb.com/title/tt2112277/?ref_=fn_tt_tt_1,24,8000000
+Dennie Gordon,29,Ruby Lin,Action|Adventure|Comedy|Romance,Leehom Wang,322,219,Jack Kao,,http://www.imdb.com/title/tt2102502/?ref_=fn_tt_tt_1,2,

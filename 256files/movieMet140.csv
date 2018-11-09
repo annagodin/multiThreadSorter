@@ -1,43 +1,463 @@
-director_name,num_critic_for_reviews,actor_3_facebook_likes,actor_1_facebook_likes,gross,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,plot_keywords,movie_imdb_link,country,content_rating,budget,title_year,actor_2_facebook_likes,imdb_score,movie_facebook_likes
-Guy Hamilton,120,175,244,43800000,Action|Adventure|Thriller,Desmond Llewelyn,Diamonds Are Forever ,74249,1105,2,cat|diamond|ford mustang|james bond 007|yanked off bikini top,http://www.imdb.com/title/tt0066995/?ref_=fn_tt_tt_1,UK,GP,7200000,1971,177,6.7,0
-Francis Ford Coppola,208,3000,14000,134821952,Crime|Drama,Al Pacino,The Godfather ,1155770,28122,1,crime family|mafia|organized crime|patriarch|rise to power,http://www.imdb.com/title/tt0068646/?ref_=fn_tt_tt_1,USA,R,6000000,1972,10000,9.2,43000
-Adrian Lyne,51,92,225,94900000,Drama|Music|Romance,Michael Nouri,Flashdance ,35172,791,0,ballet school|dance|dancer|overalls|steel worker,http://www.imdb.com/title/tt0085549/?ref_=fn_tt_tt_1,USA,R,4000000,1983,174,6.1,0
-Marc Webb,331,11000,23000,32391374,Comedy|Drama|Romance,Joseph Gordon-Levitt,500 Days of Summer ,376600,54075,43,friend|greeting card|office|summer|true love,http://www.imdb.com/title/tt1022603/?ref_=fn_tt_tt_1,USA,PG-13,7500000,2009,17000,7.7,40000
-Jane Campion,83,11,1000,40158000,Drama|Music|Romance,Holly Hunter,The Piano ,63931,1051,1,adultery|daughter|male rear nudity|new zealand|piano,http://www.imdb.com/title/tt0107822/?ref_=fn_tt_tt_1,New Zealand,R,7000000,1993,18,7.6,0
-Steven Soderbergh,324,11000,17000,113709992,Comedy|Drama,Channing Tatum,Magic Mike ,108843,46646,1,bank|male nudity|male objectification|male stripper|stripper,http://www.imdb.com/title/tt1915581/?ref_=fn_tt_tt_1,USA,R,7000000,2012,15000,6.1,54000
-Jonathan Liebesman,140,82,1000,32131483,Horror|Mystery|Thriller,Sullivan Stapleton,Darkness Falls ,25870,2212,0,boy|darkness|light|tooth|tooth fairy,http://www.imdb.com/title/tt0282209/?ref_=fn_tt_tt_1,USA,PG-13,11000000,2003,970,4.9,2000
-Guy Hamilton,136,189,581,35400000,Action|Adventure|Thriller,Yaphet Kotto,Live and Let Die ,74957,1865,3,british|cards|heroin|murder|tarot card,http://www.imdb.com/title/tt0070328/?ref_=fn_tt_tt_1,UK,PG,7000000,1973,547,6.8,0
-Jay Russell,79,430,1000,34099640,Drama|Family|Sport,Clint Howard,My Dog Skip ,16651,2515,0,1940s|dog|mississippi|puppy|veteran,http://www.imdb.com/title/tt0156812/?ref_=fn_tt_tt_1,USA,PG,5000000,2000,934,7.0,0
-Adam Brooks,160,61,16000,31973840,Comedy|Drama|Romance,Ryan Reynolds,Definitely, Maybe ,127760,16289,5,college|daughter|girl|sex|wisconsin,http://www.imdb.com/title/tt0832266/?ref_=fn_tt_tt_1,Germany,PG-13,,2008,109,7.2,0
-Salim Akil,52,826,1000,37295394,Comedy|Drama,Gary Dourdan,Jumping the Broom ,7973,5959,8,martha's vineyard|mother|older woman younger man relationship|wedding|weekend,http://www.imdb.com/title/tt1640484/?ref_=fn_tt_tt_1,USA,PG-13,6600000,2011,912,5.7,0
-Baz Luhrmann,490,76,29000,144812796,Drama|Romance,Leonardo DiCaprio,The Great Gatsby ,362933,29769,4,ingratitude|mansion|party|title appears in writing|tragedy,http://www.imdb.com/title/tt1343092/?ref_=fn_tt_tt_1,Australia,PG-13,105000000,2013,509,7.3,115000
-George Clooney,351,566,21000,31501218,Biography|Drama|History,Robert Downey Jr.,Good Night, and Good Luck. ,84070,22745,0,cbs|expose|fear|paranoia|reporter,http://www.imdb.com/title/tt0433383/?ref_=fn_tt_tt_1,USA,PG,7500000,2005,650,7.5,0
-Bennett Miller,271,27,22000,28747570,Biography|Crime|Drama,Philip Seymour Hoffman,Capote ,100571,22140,1,book|holcomb kansas|kansas|killer|truman capote,http://www.imdb.com/title/tt0379725/?ref_=fn_tt_tt_1,Canada,R,7000000,2005,68,7.4,0
-Robert Rodriguez,93,4000,16000,25625110,Action|Crime|Thriller,Quentin Tarantino,Desperado ,138707,33758,0,crushed by a car|female frontal nudity|female nudity|female rear nudity|one against many,http://www.imdb.com/title/tt0112851/?ref_=fn_tt_tt_1,USA,R,7000000,1995,12000,7.2,0
-Michael Winterbottom,71,887,14000,403932,Drama|Romance|Western,Milla Jovovich,The Claim ,5254,17104,4,gold|gold mine|miner|railroad|surveyor,http://www.imdb.com/title/tt0218378/?ref_=fn_tt_tt_1,UK,R,20000000,2000,900,6.5,141
-,54,1000,4000,,Crime|Drama|Thriller,Kirsten Dunst,Fargo             ,170055,19949,0,anthology|death|insurance salesman|minnesota|police officer,http://www.imdb.com/title/tt2802850/?ref_=fn_tt_tt_1,USA,TV-MA,,,1000,9.0,61000
-Michael Anderson,112,440,1000,25000000,Action|Adventure|Sci-Fi,Farrah Fawcett,Logan's Run ,39847,2951,1,cat|computer|cult film|runner|sanctuary,http://www.imdb.com/title/tt0074812/?ref_=fn_tt_tt_1,USA,PG,9000000,1976,659,6.8,0
-Guy Hamilton,118,244,16000,21000000,Action|Adventure|Thriller,Christopher Lee,The Man with the Golden Gun ,73950,17611,3,assassin|bikini|girl in a bikini|mission|secret agent,http://www.imdb.com/title/tt0071807/?ref_=fn_tt_tt_1,UK,PG,13000000,1974,387,6.8,2000
-Craig R. Baxley,35,794,1000,20257000,Action|Comedy|Crime|Thriller,Bill Duke,Action Jackson ,7569,5282,2,murder|power|psychotronic|tough cop|union,http://www.imdb.com/title/tt0094612/?ref_=fn_tt_tt_1,USA,R,7000000,1988,841,5.2,978
-Neil Marshall,342,159,513,26005908,Adventure|Horror|Thriller,MyAnna Buring,The Descent ,154938,1379,0,cave|expedition|friendship between women|group of friends|survival horror,http://www.imdb.com/title/tt0435625/?ref_=fn_tt_tt_1,UK,R,3500000,2005,239,7.2,10000
-Don Kempf,14,69,13000,18642318,Documentary|Sport,Bill Murray,Michael Jordan to the Max ,1723,13448,0,basketball|basketball player|character name in title|chicago bulls|imax,http://www.imdb.com/title/tt0245280/?ref_=fn_tt_tt_1,USA,,,2000,366,7.5,407
-Matt Bettinelli-Olpin,137,270,971,15818967,Horror|Mystery,Zach Gilford,Devil's Due ,13913,2517,0,eiffel tower at night|honeymoon|implied insemination|party|taxi driver,http://www.imdb.com/title/tt2752758/?ref_=fn_tt_tt_1,USA,R,7000000,2014,479,4.0,0
-David O. Russell,50,380,718,14891000,Comedy,Lily Tomlin,Flirting with Disaster ,15088,2240,3,adoption|armpit fetish|mistaken identity|new mexico|overalls,http://www.imdb.com/title/tt0116324/?ref_=fn_tt_tt_1,USA,R,7000000,1996,524,6.8,824
-Rob Zombie,261,597,1000,16901126,Crime|Horror,Sid Haig,The Devil's Rejects ,76267,3544,0,escape|police|road trip|sheriff|texas,http://www.imdb.com/title/tt0395584/?ref_=fn_tt_tt_1,USA,R,7000000,2005,649,6.9,0
-,96,970,4000,,Action|Drama|Fantasy|Romance,Sarah Michelle Gellar,Buffy the Vampire Slayer             ,101902,7970,0,action heroine|coming of age|destiny|double life|vampire,http://www.imdb.com/title/tt0118276/?ref_=fn_tt_tt_1,USA,TV-14,2300000,,3000,8.2,6000
-Rick Famuyiwa,180,190,637,17474107,Comedy|Crime|Drama,Kimberly Elise,Dope ,56605,1342,3,african american|geek|hip hop|party|tomboy,http://www.imdb.com/title/tt3850214/?ref_=fn_tt_tt_1,USA,R,7000000,2015,256,7.3,23000
-Michael Rymer,28,826,1000,14003141,Crime|Drama|Thriller,LL Cool J,In Too Deep ,4598,4837,1,cunnilingus|oral sex|police|sex scene|undercover,http://www.imdb.com/title/tt0160401/?ref_=fn_tt_tt_1,USA,R,7000000,1999,865,6.1,375
-Sam Mendes,750,393,883,304360277,Action|Adventure|Thriller,Albert Finney,Skyfall ,522048,2039,0,brawl|childhood home|computer cracker|intelligence agency|terrorist cell,http://www.imdb.com/title/tt1074638/?ref_=fn_tt_tt_1,UK,PG-13,200000000,2012,563,7.8,80000
-Rob Zombie,202,303,1000,12583510,Horror,Sid Haig,House of 1000 Corpses ,60709,2444,0,actor playing multiple roles|axe|dark comedy|masked man|sadism,http://www.imdb.com/title/tt0251736/?ref_=fn_tt_tt_1,USA,R,7000000,2003,340,6.0,0
-Sharron Miller,8,23,246,,Horror,Bernard Fox,Alien Zone ,440,345,0,affair|child murderer|mortician|strangulation|supernatural power,http://www.imdb.com/title/tt0072626/?ref_=fn_tt_tt_1,USA,PG,350000,1978,29,4.1,44
-Ethan Coen,341,98,816,9190525,Comedy|Drama,Michael Stuhlbarg,A Serious Man ,102125,1120,1,bar mitzvah|jewish|marital breakup|nose job|rabbi,http://www.imdb.com/title/tt1019452/?ref_=fn_tt_tt_1,USA,R,7000000,2009,105,7.0,10000
-Aaron Schneider,160,970,13000,9176553,Drama|Mystery,Bill Murray,Get Low ,19147,19330,1,funeral|funeral home|hermit|party|secret,http://www.imdb.com/title/tt1194263/?ref_=fn_tt_tt_1,USA,PG-13,7500000,2009,3000,7.1,0
-Steve Miner,31,304,687,9094451,Action|Fantasy|Horror|Thriller,Julian Sands,Warlock ,11668,1990,0,17th century|book|death|warlock|witch hunter,http://www.imdb.com/title/tt0098622/?ref_=fn_tt_tt_1,USA,R,7000000,1989,554,6.2,0
-Gina Prince-Bythewood,71,658,893,14612840,Drama|Music,Minnie Driver,Beyond the Lights ,11191,3110,1,domestic abuse|public humiliation|sex symbol|singer|suicide attempt,http://www.imdb.com/title/tt3125324/?ref_=fn_tt_tt_1,USA,PG-13,7000000,2014,664,6.9,0
-Tom Ford,281,292,14000,9166863,Drama|Romance,Colin Firth,A Single Man ,83182,14816,2,car accident|male full back nudity|practicing a suicide|public nudity|suicide contemplation,http://www.imdb.com/title/tt1315981/?ref_=fn_tt_tt_1,USA,R,7000000,2009,343,7.6,16000
-Martin Scorsese,114,159,883,8373585,Drama,Irvin Kershner,The Last Temptation of Christ ,39680,1934,0,carpenter|exorcism|faith|reference to jesus christ|temptation,http://www.imdb.com/title/tt0095497/?ref_=fn_tt_tt_1,USA,R,7000000,1988,618,7.6,0
-Michael Corrente,72,407,761,7292175,Comedy|Drama|Romance,Jonathan Brandis,Outside Providence ,7736,2018,3,class|cornwall connecticut|dog|friend|pawtucket rhode island,http://www.imdb.com/title/tt0125971/?ref_=fn_tt_tt_1,USA,R,7000000,1999,412,6.4,0
-Gurinder Chadha,119,397,729,6601079,Comedy|Drama|Musical|Romance,Indira Varma,Bride & Prejudice ,17436,2321,1,bollywood|india|jane austen|london england|travel,http://www.imdb.com/title/tt0361411/?ref_=fn_tt_tt_1,UK,PG-13,7000000,2004,579,6.2,0
-Phillip Noyce,74,46,116,6165429,Adventure|Biography|Drama|History,Roy Billing,Rabbit-Proof Fence ,23486,312,1,aborigine|based on true story|colonialism|fence|half caste,http://www.imdb.com/title/tt0252444/?ref_=fn_tt_tt_1,Australia,PG,6000000,2002,93,7.5,0
-Don Michael Paul,25,442,692,5694308,Comedy|Sport,Jeffrey Jones,Who's Your Caddy? ,13815,3128,0,2000s|golf caddy|golf course|golfer|question mark in title,http://www.imdb.com/title/tt0785077/?ref_=fn_tt_tt_1,USA,PG-13,7000000,2007,585,2.0,446
-Tony Maylam,39,38,206,5430822,Action|Crime|Horror|Sci-Fi|Thriller,Michael J. Pollard,Split Second ,8391,493,0,appearing from water|breasts|creature|partner|water,http://www.imdb.com/title/tt0105459/?ref_=fn_tt_tt_1,UK,R,7000000,1992,192,6.2,0
+actor_3_facebook_likes,cast_total_facebook_likes,facenumber_in_poster,language,content_rating,title_year,actor_2_facebook_likes,aspect_ratio,movie_facebook_likes
+2,25,0,Dutch,,1996,3,1.85,121
+315,2555,0,English,Passed,1943,675,1.37,116
+628,4701,0,English,R,1974,1000,2.35,12000
+74,467,0,English,R,1984,84,1.85,0
+46,205,1,Polish,PG-13,2013,64,1.33,17000
+239,1269,1,English,R,1987,249,1.66,963
+327,2753,2,English,R,2006,549,,323
+1000,52621,0,English,R,1999,9000,1.85,1000
+28,179,1,English,PG-13,2004,52,,0
+36,239,0,Spanish,R,2007,76,1.85,0
+4,19,1,Mandarin,,2009,4,2.35,30
+209,1082,1,English,R,2007,272,1.85,254
+390,2510,0,English,Approved,1952,786,1.37,0
+0,67,2,English,,2010,2,,10000
+555,3421,6,English,R,2013,584,1.85,0
+67,1111,0,English,PG,2012,118,1.85,0
+593,3226,0,English,R,2009,764,1.85,3000
+982,28713,6,English,PG,1996,9000,1.37,0
+67,684,0,English,R,1982,128,2.35,0
+450,2373,0,English,G,1971,521,2.35,819
+124,1141,0,English,Approved,1963,189,2.35,1000
+36,1385,0,English,R,2013,309,1.85,0
+535,19923,2,English,R,1991,595,1.78,0
+294,1655,3,English,R,2004,379,2.35,0
+4,36,1,English,R,1995,12,1.85,22000
+6,79,0,French,,2003,16,1.85,39
+442,2125,1,English,R,1999,631,2.35,500
+209,1396,0,English,R,2004,265,1.85,774
+40,150,1,English,PG-13,2007,41,2.35,430
+215,1980,3,English,PG-13,2012,291,2.35,13000
+471,2972,1,English,R,2003,648,1.85,0
+478,10040,1,English,R,2013,1000,2.35,10000
+362,1967,0,English,,1990,577,,16
+0,338,1,English,R,2008,4,1.78,24000
+125,1252,0,English,Not Rated,2008,130,1.85,588
+107,1064,7,English,,2006,157,1.85,144
+936,4730,0,English,PG-13,2004,939,2.35,0
+249,1491,1,English,PG-13,2006,261,1.85,140
+5,210,0,English,R,2010,12,1.78,0
+315,1739,2,English,PG-13,2008,397,2.35,0
+10,163,0,German,R,2000,10,2.35,560
+35,862,0,Spanish,PG-13,2008,399,1.85,0
+370,4590,0,English,R,2010,973,1.85,19000
+555,2579,2,English,TV-PG,2010,607,,190
+577,3157,0,English,Not Rated,2015,625,2.35,0
+442,2406,1,English,,2016,677,,89
+702,5963,10,English,R,1996,748,1.85,352
+201,2306,0,English,PG-13,2006,872,2.35,250
+233,1490,0,English,R,2006,497,1.85,79000
+109,881,0,English,R,2015,159,,0
+698,3282,0,English,Unrated,2006,788,1.85,11000
+663,3132,0,English,R,2012,722,2.35,0
+226,1627,2,English,Passed,1944,659,1.37,144
+76,1668,0,English,PG-13,2011,618,1.85,566
+326,2580,0,English,PG,1998,599,1.85,500
+244,2329,3,English,Approved,1951,715,1.33,438
+608,3586,4,English,PG-13,2010,646,2.35,279
+826,4385,2,English,R,2014,1000,,0
+385,12359,0,English,Not Rated,1987,516,,0
+,16,0,English,G,1940,0,1.37,3000
+109,1196,0,English,R,1971,165,1.85,0
+0,210,1,English,PG-13,2014,0,,224
+20,174,0,English,R,1982,31,2.35,0
+17,170,0,English,R,1985,27,1.85,1000
+275,2161,0,English,PG-13,2007,425,1.85,285
+835,6752,5,English,PG-13,2015,848,,13000
+306,1651,2,English,R,2008,399,,77
+275,1490,0,English,Passed,1945,284,1.37,68
+708,3799,2,English,R,2015,800,,452
+18,244,3,English,,2005,79,1.85,172
+782,6085,5,English,,2014,938,,107
+42,558,2,English,R,2007,52,1.85,870
+188,1941,5,English,Not Rated,1946,208,1.37,0
+551,3293,0,English,R,2001,648,1.85,0
+14,155,0,Norwegian,R,2001,21,1.85,0
+17,214,0,English,R,2015,22,2.35,305
+7,145,0,Spanish,R,2007,9,1.85,15000
+650,3873,1,English,TV-PG,2010,718,1.78,162
+338,1814,0,English,,2015,354,2.39,14
+260,2044,0,English,,2015,366,,275
+106,1020,1,English,,2015,308,2.35,380
+177,1456,0,English,Approved,1963,201,1.37,0
+14,99,2,English,R,1989,30,1.33,321
+213,1736,1,English,,,360,1.33,763
+45,11192,0,English,PG,1973,66,1.85,0
+159,1062,0,English,R,2014,189,2.35,45000
+258,12034,5,English,R,1972,300,1.85,0
+161,3833,0,English,Not Rated,1962,226,1.85,15000
+41,1396,0,English,R,1981,531,2.35,0
+75,768,1,Cantonese,R,1994,147,2.35,0
+177,1404,0,English,Not Rated,1962,367,1.66,0
+103,563,0,English,R,1999,148,1.85,0
+32,218,0,English,R,2011,44,1.85,0
+155,927,3,German,R,2006,284,2.35,39000
+341,2300,7,English,PG-13,2011,589,2.35,10000
+366,2290,1,English,Unrated,1961,491,2.35,0
+380,2555,8,English,Passed,1940,760,1.37,236
+0,29,0,French,PG-13,2003,6,1.66,0
+580,3163,3,English,PG-13,1998,752,1.85,0
+92,14412,0,English,R,2003,119,1.85,0
+3,65,0,English,R,2004,8,1.85,13000
+35,318,0,Spanish,R,2000,79,1.85,11000
+374,2186,2,English,R,2003,482,1.85,0
+167,1846,3,English,Approved,1947,297,1.37,0
+179,34446,2,English,R,2010,248,1.85,20000
+3,29,0,English,R,2003,5,1.85,0
+300,1833,2,English,Approved,1938,392,1.37,60
+244,1349,0,English,R,2005,363,1.85,0
+18,13145,0,English,PG-13,2010,125,2.35,63000
+328,3013,0,English,R,2015,625,1.85,0
+116,675,1,English,R,1999,147,1.85,0
+2000,50313,2,English,R,2005,23000,1.85,0
+349,2739,1,English,PG-13,2015,426,1.85,0
+685,11327,0,English,R,2002,724,1.85,134
+186,901,1,English,R,1986,194,1.85,0
+344,1359,3,English,TV-14,,396,4.0,558
+401,1645,0,English,PG-13,1996,591,2.2,0
+37,226,3,English,Unrated,2006,51,1.78,0
+0,56,0,Hebrew,R,2008,0,1.85,0
+40,359,1,English,PG-13,2003,69,1.85,32
+17,446,0,English,,2007,21,1.85,0
+80,11184,3,English,R,2015,1000,2.35,0
+143,11618,5,English,,,289,1.33,43
+65,408,0,English,PG,2007,142,1.85,0
+887,3427,1,English,PG,2010,962,1.33,0
+218,1136,0,English,NC-17,2005,334,1.85,592
+120,1156,1,English,R,2000,159,1.85,495
+490,3011,4,English,PG-13,1997,559,,166
+126,768,0,English,R,2010,131,1.85,974
+164,1917,1,French,R,1985,572,2.35,739
+902,51441,2,English,PG-13,2004,1000,1.85,857
+268,1511,1,English,R,2007,357,1.85,17000
+0,36,1,English,PG-13,1998,3,1.85,0
+72,613,2,Hindi,,2000,89,,10
+137,865,1,English,R,2004,246,2.35,0
+966,36885,1,English,R,2009,12000,2.35,407
+20,5535,2,English,R,1997,497,1.85,224
+256,26176,0,English,R,2015,463,2.35,0
+543,4280,2,English,TV-14,,747,1.78,3000
+24,653,0,Hindi,PG,2008,85,2.35,39
+267,1307,4,English,Not Rated,2003,356,1.85,61
+395,2522,,English,PG,2013,488,2.35,715
+89,10869,7,English,PG-13,2014,773,2.35,0
+399,2749,3,English,,2009,423,1.85,195
+163,1362,1,English,R,1993,196,1.85,810
+1000,39518,2,English,R,2005,11000,2.35,0
+85,774,1,English,R,2006,223,1.85,474
+455,3065,1,English,PG-13,2002,637,1.85,215
+94,776,0,English,Not Rated,2015,152,,0
+418,14561,1,English,R,2008,698,2.35,0
+395,2341,2,English,R,2013,449,1.78,604
+161,1593,3,English,R,2009,480,2.35,0
+12,86,2,English,R,2008,18,2.35,1000
+268,1650,1,English,R,2004,312,2.35,205
+103,762,0,English,Not Rated,2011,113,1.78,0
+47,322,0,English,R,2012,94,1.85,0
+107,1149,0,English,R,2010,167,2.35,0
+8,712,0,English,,2015,27,,0
+167,11700,3,English,GP,1971,430,1.37,0
+46,892,0,English,Not Rated,2012,303,,115
+372,2395,1,English,R,2007,453,2.35,44
+424,1884,5,English,,,511,1.33,1000
+18,1055,1,English,Not Rated,1947,29,1.37,0
+332,2620,0,English,R,2008,597,1.78,153
+171,15740,3,English,R,2002,284,2.35,912
+722,3683,6,English,R,2012,811,1.85,0
+424,35796,3,English,,2013,463,2.35,0
+356,1611,2,English,Not Rated,2012,403,2.35,655
+322,2020,1,English,R,2013,591,,825
+51,16110,0,German,M,1967,57,1.66,200
+293,2654,3,English,R,2013,472,,0
+137,1807,0,English,Approved,1966,164,1.85,805
+119,1674,0,English,,2007,562,,69
+894,15707,1,English,PG-13,2011,1000,,651
+233,1425,0,English,R,2015,418,,0
+618,4968,1,English,,2015,860,,0
+412,13583,0,English,Not Rated,2015,1000,,728
+223,19649,2,English,R,1986,1000,1.85,0
+482,2389,0,English,PG-13,2003,495,2.35,298
+164,1204,2,English,R,2015,217,1.78,620
+263,17471,0,English,R,2010,517,2.35,24000
+594,3275,1,English,R,2010,680,1.85,17000
+5,176,0,Arabic,Not Rated,2013,10,1.85,0
+164,1082,5,French,Unrated,2006,323,1.85,104
+534,20051,1,English,R,2013,2000,2.35,39000
+71,1182,3,Hindi,Not Rated,2013,168,,1000
+574,42918,1,English,X,1984,852,1.85,10000
+0,68,0,English,PG-13,2008,27,1.85,0
+3,90,5,English,,2015,40,,213
+585,4249,6,English,R,2015,606,1.85,1000
+308,1958,0,English,PG-13,2010,400,1.85,0
+231,2032,1,English,R,2009,548,2.35,10000
+114,10570,0,English,PG,1951,416,1.37,5000
+277,1991,0,English,PG,1964,575,1.66,18000
+67,546,0,Spanish,R,2002,163,1.85,544
+168,2658,0,English,PG-13,2012,458,1.85,31000
+196,1432,4,English,G,1973,356,2.35,511
+280,2187,1,English,PG-13,2000,380,1.85,0
+186,1439,0,English,R,2011,471,1.85,952
+61,349,2,Tamil,,2015,77,,82
+808,32405,1,English,PG-13,2011,14000,,0
+482,14620,0,English,PG-13,1993,580,1.78,266
+0,0,0,Dzongkha,,2003,0,1.85,353
+426,18263,3,English,M,1968,844,1.85,0
+114,2831,0,English,,1952,399,1.37,169
+491,2439,0,English,R,2007,642,2.35,368
+165,1270,0,English,,2016,258,,8
+91,984,0,English,PG-13,2013,108,,566
+685,4306,13,English,Not Rated,2012,713,1.85,569
+34,623,1,German,R,1998,37,1.85,0
+446,2489,1,English,R,2002,461,1.85,0
+120,1724,3,English,PG,2013,450,,326
+11,139,0,English,PG-13,2013,42,1.85,73
+345,2198,1,Spanish,PG-13,2007,399,1.85,0
+67,941,0,English,PG,1972,70,2.35,794
+783,3970,1,English,R,2001,874,2.35,951
+374,2423,0,English,R,2010,445,2.35,17000
+327,2095,3,English,PG-13,1999,347,1.85,374
+34,763,0,English,R,2004,46,1.85,869
+73,822,2,Hindi,PG,2013,85,2.35,16000
+420,2721,0,English,R,2004,805,1.85,305
+275,1363,10,English,Approved,1938,302,1.37,0
+426,2247,5,English,Not Rated,1953,488,1.37,0
+89,955,1,English,Unrated,1949,230,1.37,721
+575,3894,0,English,PG,2013,611,,0
+249,2196,0,English,R,1999,469,,43
+394,3137,5,English,R,2010,607,2.35,588
+0,231,0,Arabic,PG,2007,4,1.85,0
+2,380,3,English,R,2014,51,2.35,844
+27,137,0,Hebrew,Unrated,2006,30,,0
+324,12157,2,English,PG,1974,481,1.37,6000
+45,622,4,English,,2005,96,,9
+21,1694,0,French,R,1969,710,2.35,278
+127,2564,2,English,R,2003,163,2.35,63
+114,992,0,English,Not Rated,2016,253,,2000
+1000,10438,0,English,R,2004,2000,2.35,7000
+336,1981,1,English,PG-13,2007,541,1.85,0
+49,1168,1,English,R,1988,403,1.85,0
+248,1573,7,English,Not Rated,1939,319,1.37,0
+82,3310,1,English,,1995,202,1.85,0
+18,479,0,English,R,2005,25,1.85,0
+117,1173,1,English,R,2001,321,1.85,682
+3,18,1,Mandarin,R,2009,4,2.35,784
+354,261818,5,,,2016,454,,0
+82,896,1,English,Unrated,1945,239,1.37,0
+900,2990,1,English,R,1994,971,1.85,619
+642,4762,2,English,R,1998,787,1.85,0
+588,3030,1,English,PG-13,2010,618,2.35,60000
+166,1652,3,English,R,1984,324,1.85,0
+7,856,0,Spanish,R,2000,22,1.85,0
+0,0,3,Hebrew,PG-13,2012,0,1.85,0
+42,859,1,English,R,2005,265,1.66,608
+690,2667,7,English,R,2013,727,1.78,0
+164,1582,0,English,R,1993,424,1.85,853
+76,33441,0,English,R,2001,243,1.66,0
+442,2747,0,English,R,2007,530,2.35,415
+56,792,1,English,R,2014,191,2.35,307
+83,469,0,English,R,2001,148,2.35,0
+423,2179,0,English,R,2006,522,1.85,0
+616,3288,1,English,PG-13,2010,826,,0
+488,3668,0,English,R,2006,935,1.85,0
+8,352,1,English,G,1936,8,1.37,0
+597,3901,1,English,PG,2002,767,1.85,304
+158,1238,1,English,R,2007,328,1.85,0
+424,3138,7,English,PG-13,2005,597,1.85,68
+360,2628,0,English,,2015,485,,212
+121,1240,0,English,R,2005,189,1.85,216
+7,60,0,English,R,2010,8,,594
+57,721,0,English,Not Rated,2008,98,2.35,0
+711,89263,3,English,R,2008,781,2.35,371
+134,771,1,English,,2015,228,,132
+721,5158,1,English,R,2012,725,2.35,15000
+28,165,3,English,Not Rated,2014,46,2.35,10000
+0,0,0,English,Not Rated,2005,0,1.85,0
+108,596,2,English,,2005,134,,193
+636,4036,2,English,R,2013,975,1.89,283
+71,588,2,English,Not Rated,2014,98,2.35,0
+146,967,0,English,,2014,265,,236
+259,4320,,English,PG-13,2015,660,1.85,232
+492,2882,3,English,,2015,522,2.35,402
+1000,16385,2,English,PG-13,2012,3000,2.35,38000
+56,1044,1,English,Not Rated,2015,418,,750
+485,2870,,English,R,2015,571,,135
+31,229,1,English,Approved,1937,47,1.37,0
+3,358,0,Spanish,R,2004,5,1.85,57
+387,2140,2,English,PG,1968,423,2.35,209
+37,256,0,English,PG-13,2004,70,1.85,400
+256,2419,,English,PG,2016,301,2.35,724
+295,2072,0,English,,2014,382,2.35,969
+3,421,0,French,R,2014,4,1.33,389
+69,1159,0,English,R,2014,147,,223
+356,2658,1,English,Approved,1966,370,1.85,0
+452,28294,1,English,R,1998,1000,1.85,21000
+467,3164,0,English,,1982,655,,32
+,416,0,English,,,0,4.0,533
+141,821,1,Danish,R,1998,278,1.33,5000
+636,14420,1,English,R,1996,680,1.85,872
+5,83,2,Vietnamese,R,2006,24,1.85,100
+548,3475,2,English,PG,1999,783,1.85,117
+98,843,0,English,Not Rated,2012,197,,932
+652,16537,1,English,R,1998,969,2.35,0
+109,611,0,English,,,121,1.33,963
+0,0,1,English,PG-13,2014,0,2.35,0
+13,289,0,English,R,1985,23,1.85,220
+624,6227,1,English,R,2003,1000,1.85,3000
+40,602,2,English,,2005,145,2.35,66
+134,1499,3,English,R,2010,460,1.85,0
+511,38121,1,English,R,2009,516,2.35,969
+333,2888,2,English,Not Rated,1940,991,1.37,0
+59,707,0,English,R,1981,121,1.85,0
+66,581,4,English,Not Rated,1945,160,1.37,0
+132,1866,0,English,R,1984,697,1.85,0
+183,2459,1,English,R,2012,245,2.35,0
+397,1730,0,English,PG,2011,418,1.78,381
+48,683,0,English,Approved,1953,79,1.37,1000
+137,1129,5,English,Approved,1941,176,1.37,0
+201,1961,0,English,TV-MA,,691,,632
+161,4040,0,English,,2014,372,2.35,447
+65,1431,2,English,R,1989,531,1.85,2000
+651,5161,0,English,R,2004,878,1.85,0
+422,2893,0,English,R,2001,577,1.85,0
+434,20218,6,English,,2014,748,1.85,221
+3,58,0,Spanish,,2013,24,,407
+71,22194,0,English,PG-13,2008,4000,2.35,0
+73,809,0,Hindi,R,2001,209,1.85,0
+612,4288,0,English,R,2000,710,1.85,756
+232,1041,0,English,Approved,1955,255,1.5,0
+1000,26451,3,English,R,2006,11000,2.35,10000
+849,4289,1,English,R,1999,1000,1.85,0
+449,2681,2,English,PG-13,2013,848,2.35,0
+455,28994,0,English,R,1992,12000,2.35,19000
+51,293,1,English,Approved,1940,62,1.37,548
+24,16089,3,Italian,Approved,1966,34,2.35,20000
+4,76,1,Portuguese,R,2015,9,2.35,0
+274,1805,0,English,PG-13,2012,330,1.85,0
+3,318,0,English,R,2001,44,1.78,27
+,0,0,English,Not Rated,2011,,,5000
+924,54484,10,English,,2007,931,,87
+24,114,1,French,,2011,29,1.78,754
+0,5,3,Spanish,,2013,2,,75
+95,1438,1,English,PG-13,2003,316,1.85,480
+227,1190,6,English,R,2008,295,1.85,636
+94,1621,3,English,Approved,1936,490,1.37,204
+5,862,2,English,R,2011,134,,161
+63,630,0,English,R,2012,91,,238
+117,1218,0,English,PG,1993,399,1.85,0
+148,1581,1,English,R,1970,434,1.85,477
+475,11257,0,English,R,2015,500,,479
+312,1810,1,English,,2015,350,,242
+804,19957,3,English,R,2005,1000,1.85,0
+68,1311,0,English,,2004,404,1.85,0
+206,1617,0,English,,,457,2.0,954
+147,1329,0,English,R,1987,426,1.85,241
+,0,0,English,,2002,,1.33,51
+3,21,1,English,,2002,4,1.85,131
+25,521,2,Zulu,PG,2006,48,1.85,0
+48,645,1,English,R,2010,95,2.35,0
+60,1445,0,Indonesian,R,2011,342,1.85,51000
+252,2510,1,English,R,2010,745,1.85,444
+0,12,0,English,R,2013,0,2.35,200
+269,3442,4,English,PG,1942,607,1.37,23000
+5,29,0,English,R,2008,5,1.85,0
+20,1052,1,Hindi,,2009,22,,773
+42,1080,1,English,GP,1972,184,1.85,0
+794,16094,0,English,PG,1976,1000,1.33,0
+9,622,1,English,Not Rated,2014,287,2.35,234
+606,4878,0,English,R,1980,826,2.35,7000
+69,1371,1,English,Unrated,1963,269,1.37,328
+142,1565,0,English,R,2014,305,1.85,13000
+595,23525,1,English,R,1976,745,1.85,35000
+725,4438,0,English,R,1981,823,1.85,0
+177,1421,4,English,Approved,1962,275,1.37,5000
+300,2665,0,English,R,2012,466,1.85,24000
+100,673,0,English,R,1987,209,1.85,0
+295,1810,11,English,PG,2016,420,2.35,0
+683,3155,0,English,PG-13,2005,989,2.35,816
+3,53,0,Japanese,PG,1999,3,2.35,339
+616,35941,0,English,R,2010,2000,1.66,25000
+226,3192,2,English,R,2005,508,1.85,0
+128,988,0,English,R,2012,169,1.85,12000
+44,731,8,English,X,1970,46,2.35,0
+102,831,1,English,,1956,110,2.35,365
+,929,0,English,PG,2006,68,1.85,0
+88,510,0,English,Approved,1949,102,1.37,624
+184,1218,0,English,PG-13,2008,426,1.85,0
+389,2082,0,English,R,2013,550,2.35,12000
+30,283,0,English,,2015,47,1.85,75
+365,1899,3,English,R,2012,374,1.85,11000
+2,42,0,English,PG,2008,3,1.78,37000
+245,1147,1,English,PG-13,2011,264,,0
+458,23461,1,English,R,1998,472,1.85,392
+973,28817,0,English,PG-13,2007,3000,1.85,10000
+180,3986,2,English,R,2014,439,2.35,0
+287,1263,0,English,R,2011,300,2.35,0
+313,1587,1,English,R,2014,457,2.35,0
+229,994,1,English,R,2008,238,1.85,0
+13,198,0,English,PG-13,2013,19,1.78,14000
+13,21124,3,English,R,1997,104,1.85,387
+584,2400,2,English,R,1996,695,1.85,227
+121,2323,3,English,R,1997,891,1.85,0
+5,1447,0,English,PG,2006,659,1.75,0
+428,3085,1,English,R,2000,826,2.35,671
+124,1587,2,English,R,2002,282,1.85,0
+543,5497,4,English,PG,2015,1000,2.35,35000
+6,295,0,English,R,1998,38,1.85,603
+25,1107,0,English,PG-13,2001,81,1.85,100
+97,773,3,Hindi,,2000,186,2.35,92
+842,3931,0,English,R,1981,898,2.35,0
+194,904,0,English,NC-17,1997,203,1.85,0
+463,12385,0,English,R,2003,552,2.35,571
+301,1692,0,English,R,1997,394,1.85,166
+275,1641,0,English,R,2002,400,1.85,115
+268,2289,1,English,R,2000,625,,24
+145,12234,0,English,R,2013,733,1.85,0
+7,42,6,Arabic,,2009,13,1.85,0
+772,4720,2,English,R,2006,835,1.78,11000
+11,7098,0,English,R,2014,71,2.39,32000
+551,2489,2,English,PG-13,2003,577,1.85,150
+310,2369,1,English,PG-13,2009,559,2.35,16000
+0,6,1,Indonesian,Not Rated,2012,3,1.85,20000
+23,313,0,English,R,2007,125,1.85,0
+5,118,0,English,PG-13,2006,7,1.85,587
+0,15,0,English,Unrated,2004,3,,32
+679,3258,1,English,PG-13,2000,922,,25
+9,86,1,English,PG,2013,24,1.85,0
+0,28,0,English,G,2014,8,,0
+891,263584,3,English,PG-13,2012,984,1.85,706
+219,2024,5,Hindi,,2005,668,,31
+725,3833,0,English,R,2009,962,1.85,0
+271,1452,1,English,R,2010,298,1.85,0
+117,1141,0,English,R,1998,230,1.85,157
+73,1042,2,English,R,1999,231,,27
+14,196,1,English,R,1996,71,1.85,43
+490,3905,0,English,R,2000,571,1.85,210
+256,1647,1,English,,2009,261,1.78,143
+61,509,0,English,Not Rated,2006,163,1.85,244
+150,928,1,English,R,2015,171,2.39,793
+394,2694,0,English,R,2006,645,1.85,0
+422,2633,3,English,R,1997,490,,17
+94,1188,2,English,R,2005,361,1.78,128
+176,1284,2,English,R,2006,288,1.85,42
+4,920,3,English,R,2001,436,1.85,47
+8,351,0,Spanish,Not Rated,2013,9,1.85,0
+4,19,9,Urdu,,2015,5,,259
+228,1635,0,English,Not Rated,2006,403,1.85,501
+396,2607,1,English,,2014,490,1.78,903
+131,997,2,English,R,2006,275,,138
+106,1752,4,English,R,2009,157,16.0,297
+47,964,1,English,,1965,196,1.37,32
+149,1593,2,English,PG,2004,282,,141
+904,52113,3,English,R,2008,17000,1.85,599
+171,1996,5,English,R,2008,618,,3
+23,292,0,English,R,2009,37,1.85,0
+317,1549,1,English,PG-13,2012,383,1.78,150
+0,90,0,Spanish,Unrated,2014,0,2.35,68
+360,2116,1,English,,2011,395,1.66,370
+110,1350,6,English,PG-13,2009,207,,41
+402,11466,3,English,PG-13,2014,854,1.78,54
+37,344,1,English,R,2012,59,1.85,0
+177,1226,2,English,Not Rated,2012,334,2.35,968
+0,109,0,English,,2006,17,,91
+36,231,2,English,,2014,40,,48

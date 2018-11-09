@@ -1,64 +1,117 @@
-director_name,num_critic_for_reviews,actor_1_name,movie_title,facenumber_in_poster,movie_imdb_link,language,country,content_rating,budget,imdb_score,movie_facebook_likes
-Kent Alterman,164,Will Ferrell,Semi-Pro ,3,http://www.imdb.com/title/tt0839980/?ref_=fn_tt_tt_1,English,USA,R,55000000,5.8,0
-Peter Lord,238,Salma Hayek,The Pirates! Band of Misfits ,0,http://www.imdb.com/title/tt1430626/?ref_=fn_tt_tt_1,English,UK,PG,55000000,6.7,0
-Clint Eastwood,264,Angelina Jolie Pitt,Changeling ,0,http://www.imdb.com/title/tt0824747/?ref_=fn_tt_tt_1,English,USA,R,55000000,7.8,14000
-Andrew Davis,47,Keanu Reeves,Chain Reaction ,1,http://www.imdb.com/title/tt0115857/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,5.6,1000
-Tony Scott,50,Robert De Niro,The Fan ,3,http://www.imdb.com/title/tt0116277/?ref_=fn_tt_tt_1,English,USA,R,55000000,5.8,0
-Joel Schumacher,153,Gerard Butler,The Phantom of the Opera ,0,http://www.imdb.com/title/tt0293508/?ref_=fn_tt_tt_1,English,UK,PG-13,70000000,7.4,0
-Shekhar Kapur,202,Eddie Redmayne,Elizabeth: The Golden Age ,1,http://www.imdb.com/title/tt0414055/?ref_=fn_tt_tt_1,English,UK,PG-13,55000000,6.9,0
-Karyn Kusama,178,Charlize Theron,Æon Flux ,0,http://www.imdb.com/title/tt0402022/?ref_=fn_tt_tt_1,English,USA,PG-13,62000000,5.5,0
-Ron Maxwell,84,Billy Campbell,Gods and Generals ,0,http://www.imdb.com/title/tt0279111/?ref_=fn_tt_tt_1,English,USA,PG-13,56000000,6.3,953
-Robert Butler,44,Hector Elizondo,Turbulence ,0,http://www.imdb.com/title/tt0120390/?ref_=fn_tt_tt_1,English,USA,R,71000000,4.7,316
-Karey Kirkpatrick,93,Stephen Root,Imagine That ,2,http://www.imdb.com/title/tt0780567/?ref_=fn_tt_tt_1,English,USA,PG,55000000,5.6,610
-James Bobin,277,Ty Burrell,Muppets Most Wanted ,4,http://www.imdb.com/title/tt2281587/?ref_=fn_tt_tt_1,English,USA,PG,50000000,6.4,10000
-Jonathan Frakes,76,Sophia Myles,Thunderbirds ,0,http://www.imdb.com/title/tt0167456/?ref_=fn_tt_tt_1,English,UK,PG,57000000,4.2,437
-Steve Antin,197,Eric Dane,Burlesque ,1,http://www.imdb.com/title/tt1126591/?ref_=fn_tt_tt_1,English,USA,PG-13,55000000,6.4,19000
-Jean-Pierre Jeunet,186,Denis Lavant,A Very Long Engagement ,1,http://www.imdb.com/title/tt0344510/?ref_=fn_tt_tt_1,French,France,R,47000000,7.7,0
-Stanley Kubrick,103,James Mason,Lolita ,0,http://www.imdb.com/title/tt0056193/?ref_=fn_tt_tt_1,English,UK,Not Rated,2000000,7.7,0
-Jim Gillespie,66,Sylvester Stallone,Eye See You ,1,http://www.imdb.com/title/tt0160184/?ref_=fn_tt_tt_1,English,USA,R,55000000,5.3,448
-Guillermo del Toro,224,Norman Reedus,Blade II ,1,http://www.imdb.com/title/tt0187738/?ref_=fn_tt_tt_1,English,USA,R,54000000,6.7,0
-Gabriele Muccino,202,Will Smith,Seven Pounds ,1,http://www.imdb.com/title/tt0814314/?ref_=fn_tt_tt_1,English,USA,PG-13,55000000,7.7,26000
-Walter Hill,279,Sylvester Stallone,Bullet to the Head ,3,http://www.imdb.com/title/tt1308729/?ref_=fn_tt_tt_1,English,USA,R,55000000,5.7,10000
-Francis Ford Coppola,110,Al Pacino,The Godfather: Part III ,1,http://www.imdb.com/title/tt0099674/?ref_=fn_tt_tt_1,English,USA,R,54000000,7.6,0
-Cameron Crowe,190,Orlando Bloom,Elizabethtown ,0,http://www.imdb.com/title/tt0368709/?ref_=fn_tt_tt_1,English,USA,PG-13,57000000,6.4,0
-Anthony Russo,136,Todd Stashwick,You, Me and Dupree ,1,http://www.imdb.com/title/tt0463034/?ref_=fn_tt_tt_1,English,USA,PG-13,54000000,5.6,0
-Richard Lester,121,Margot Kidder,Superman II ,4,http://www.imdb.com/title/tt0081573/?ref_=fn_tt_tt_1,English,USA,PG,54000000,6.8,0
-Martin Brest,131,Todd Giebenhain,Gigli ,0,http://www.imdb.com/title/tt0299930/?ref_=fn_tt_tt_1,English,USA,R,54000000,2.4,2000
-Steven Zaillian,127,Kate Winslet,All the King's Men ,0,http://www.imdb.com/title/tt0405676/?ref_=fn_tt_tt_1,English,Germany,PG-13,55000000,6.2,0
-John Singleton,160,Christian Bale,Shaft ,0,http://www.imdb.com/title/tt0162650/?ref_=fn_tt_tt_1,English,Germany,R,46000000,5.9,0
-Don Bluth,78,Kirsten Dunst,Anastasia ,1,http://www.imdb.com/title/tt0118617/?ref_=fn_tt_tt_1,English,USA,G,50000000,7.1,0
-Baz Luhrmann,209,Jim Broadbent,Moulin Rouge! ,1,http://www.imdb.com/title/tt0203009/?ref_=fn_tt_tt_1,English,USA,PG-13,52500000,7.6,10000
-Harold Becker,98,Steve Buscemi,Domestic Disturbance ,1,http://www.imdb.com/title/tt0249478/?ref_=fn_tt_tt_1,English,USA,PG-13,53000000,5.5,361
-Scott Cooper,391,Johnny Depp,Black Mass ,7,http://www.imdb.com/title/tt1355683/?ref_=fn_tt_tt_1,English,USA,R,53000000,7.0,44000
-Clint Eastwood,279,Paul Walker,Flags of Our Fathers ,0,http://www.imdb.com/title/tt0418689/?ref_=fn_tt_tt_1,English,USA,R,90000000,7.1,0
-F. Gary Gray,216,Gerard Butler,Law Abiding Citizen ,0,http://www.imdb.com/title/tt1197624/?ref_=fn_tt_tt_1,English,USA,R,50000000,7.4,21000
-Robert Rodriguez,250,Quentin Tarantino,Grindhouse ,0,http://www.imdb.com/title/tt0462322/?ref_=fn_tt_tt_1,English,USA,R,53000000,7.6,0
-Jonathan Demme,78,Oprah Winfrey,Beloved ,1,http://www.imdb.com/title/tt0120603/?ref_=fn_tt_tt_1,English,USA,R,55000000,5.9,853
-Curtis Hanson,106,Robert Downey Jr.,Lucky You ,1,http://www.imdb.com/title/tt0338216/?ref_=fn_tt_tt_1,English,USA,PG-13,55000000,5.9,672
-Steven Spielberg,194,Leonardo DiCaprio,Catch Me If You Can ,0,http://www.imdb.com/title/tt0264464/?ref_=fn_tt_tt_1,English,USA,PG-13,52000000,8.0,15000
-Kathryn Bigelow,558,Jennifer Ehle,Zero Dark Thirty ,0,http://www.imdb.com/title/tt1790885/?ref_=fn_tt_tt_1,English,USA,R,40000000,7.4,39000
-Peyton Reed,183,Jon Favreau,The Break-Up ,1,http://www.imdb.com/title/tt0452594/?ref_=fn_tt_tt_1,English,USA,PG-13,52000000,5.8,0
-Phyllida Lloyd,238,Colin Firth,Mamma Mia! ,1,http://www.imdb.com/title/tt0795421/?ref_=fn_tt_tt_1,English,USA,PG-13,52000000,6.3,10000
-Garry Marshall,186,Bradley Cooper,Valentine's Day ,12,http://www.imdb.com/title/tt0817230/?ref_=fn_tt_tt_1,English,USA,PG-13,52000000,5.7,9000
-Jay Chandrasekhar,144,Alice Greczyn,The Dukes of Hazzard ,5,http://www.imdb.com/title/tt0377818/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,5.1,0
-Terrence Malick,156,Nick Stahl,The Thin Red Line ,0,http://www.imdb.com/title/tt0120863/?ref_=fn_tt_tt_1,English,USA,R,52000000,7.6,0
-David Dobkin,215,Ryan Reynolds,The Change-Up ,2,http://www.imdb.com/title/tt1488555/?ref_=fn_tt_tt_1,English,USA,R,52000000,6.4,13000
-Milos Forman,140,Matt Price,Man on the Moon ,1,http://www.imdb.com/title/tt0125664/?ref_=fn_tt_tt_1,English,UK,R,52000000,7.4,0
-Martin Scorsese,133,Robert De Niro,Casino ,2,http://www.imdb.com/title/tt0112641/?ref_=fn_tt_tt_1,English,USA,R,52000000,8.2,11000
-Pierre Morel,203,Kasia Smutniak,From Paris with Love ,1,http://www.imdb.com/title/tt1179034/?ref_=fn_tt_tt_1,English,France,R,52000000,6.5,0
-Paul Hunter,127,Jaime King,Bulletproof Monk ,3,http://www.imdb.com/title/tt0245803/?ref_=fn_tt_tt_1,English,USA,PG-13,52000000,5.5,846
-Bobby Farrelly,155,Robert Forster,Me, Myself & Irene ,1,http://www.imdb.com/title/tt0183505/?ref_=fn_tt_tt_1,English,USA,R,51000000,6.5,0
-Steve Oedekerk,98,Rob Paulsen,Barnyard ,1,http://www.imdb.com/title/tt0414853/?ref_=fn_tt_tt_1,English,Germany,PG,51000000,5.6,605
-John Whitesell,71,Matthew Broderick,Deck the Halls ,0,http://www.imdb.com/title/tt0790604/?ref_=fn_tt_tt_1,English,USA,PG,,4.9,1000
-Chris Weitz,299,Robert Pattinson,The Twilight Saga: New Moon ,2,http://www.imdb.com/title/tt1259571/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,4.6,13000
-Andrew Adamson,212,Kathleen Freeman,Shrek ,1,http://www.imdb.com/title/tt0126029/?ref_=fn_tt_tt_1,English,USA,PG,60000000,7.9,0
-George Nolfi,413,Matt Damon,The Adjustment Bureau ,2,http://www.imdb.com/title/tt1385826/?ref_=fn_tt_tt_1,English,USA,PG-13,50200000,7.1,36000
-Kevin Reynolds,67,Alan Rickman,Robin Hood: Prince of Thieves ,0,http://www.imdb.com/title/tt0102798/?ref_=fn_tt_tt_1,English,USA,PG-13,48000000,6.9,0
-Cameron Crowe,109,Tom Cruise,Jerry Maguire ,0,http://www.imdb.com/title/tt0116695/?ref_=fn_tt_tt_1,English,USA,R,50000000,7.3,0
-Seth MacFarlane,457,Mila Kunis,Ted ,1,http://www.imdb.com/title/tt1637725/?ref_=fn_tt_tt_1,English,USA,R,50000000,7.0,74000
-James L. Brooks,156,Lupe Ontiveros,As Good as It Gets ,0,http://www.imdb.com/title/tt0119822/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,7.7,11000
-Tom Shadyac,55,Robin Williams,Patch Adams ,1,http://www.imdb.com/title/tt0129290/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,6.7,0
-Adam McKay,272,Harrison Ford,Anchorman 2: The Legend Continues ,2,http://www.imdb.com/title/tt1229340/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,6.3,41000
-Steven Brill,117,Steve Buscemi,Mr. Deeds ,1,http://www.imdb.com/title/tt0280590/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,5.8,0
-J.J. Abrams,539,Joel Courtney,Super 8 ,0,http://www.imdb.com/title/tt1650062/?ref_=fn_tt_tt_1,English,USA,PG-13,50000000,7.1,37000
-Steven Soderbergh,169,Julia Roberts,Erin Brockovich ,0,http://www.imdb.com/title/tt0195685/?ref_=fn_tt_tt_1,English,USA,R,52000000,7.3,0
+actor_1_name
+Gregory Scott Cummins
+Tom Skerritt
+Bill Murray
+Mike Howard
+Hayden Christensen
+Dennis Quaid
+Chloë Grace Moretz
+Sylvester Stallone
+Jeremy Renner
+Anna Kendrick
+J.K. Simmons
+Gerard Butler
+Chris Hemsworth
+Patton Oswalt
+Bruce Willis
+Alison Brie
+Morgan Freeman
+Kristen Stewart
+Denzel Washington
+Peter Greene
+Laura-Leigh
+Yuliya Snigir
+Kathleen Quinlan
+Bernie Casey
+Charlie McDermott
+Morgan Freeman
+Charlize Theron
+Vin Diesel
+Emma Stone
+Alexa PenaVega
+Rick Yune
+Anthony Hopkins
+Blair Underwood
+Stockard Channing
+Cheryl Hines
+Bernie Mac
+Bradley Cooper
+Mike Tyson
+Muse Watson
+Michael Gough
+Jordi Mollà
+Rene Russo
+Catherine Dyer
+Jon Foo
+Alexa PenaVega
+Kevin Spacey
+Matt Damon
+Meryl Streep
+Leonard Nimoy
+Jon Favreau
+Robert De Niro
+Kevin Spacey
+Amy Schumer
+Bernie Mac
+Colin Firth
+Kevin Spacey
+Michael Angarano
+Tom Selleck
+Natasha Henstridge
+Johnny Depp
+Dylan Baker
+Leonardo DiCaprio
+Scott Glenn
+Chris Evans
+Alfre Woodard
+Mila Kunis
+Chloë Grace Moretz
+Tom Hanks
+Denzel Washington
+Charlyne Yi
+Robin Williams
+Craig Parker
+Robin Williams
+Jon Lovitz
+Stockard Channing
+Johnny Depp
+Milla Jovovich
+Heather O'Rourke
+J.K. Simmons
+Mila Kunis
+Matt Bomer
+Danneel Ackles
+Ashley Williams
+Jodi Lyn O'Keefe
+Tom Wilkinson
+Tatum O'Neal
+Ming-Na Wen
+Emilia Fox
+Johnny Depp
+Keisha Castle-Hughes
+Robert Ri'chard
+Natalie Portman
+Leonardo DiCaprio
+Jason Flemyng
+Aaliyah
+Adam Baldwin
+Billy Burke
+Brendan Fraser
+Brian Blessed
+Stephen Root
+Cicely Tyson
+Kevin Spacey
+Robert De Niro
+Daniel Mays
+Frank Whaley
+Mitch Pileggi
+Anne Hathaway
+Will Smith
+Ken Arnold
+Jim Broadbent
+Robert Downey Jr.
+Drake Bell
+Alona Tal
+Shannon Elizabeth
+Joseph Gordon-Levitt
+Jim Gaffigan

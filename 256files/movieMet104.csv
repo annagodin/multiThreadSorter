@@ -1,501 +1,74 @@
-director_name,num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,movie_title,num_voted_users,plot_keywords,country,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio
-Mark Waters,189,70,497,1000,Mr. Popper's Penguins ,67191,father|penguin|snowglobe|son|winter,USA,2011,549,6.0,1.85
-Rob Minkoff,206,50,947,5000,The Forbidden Kingdom ,88049,monkey king|staff|teenager|urination|warrior,USA,2008,962,6.6,2.35
-Jimmy Hayward,118,39,562,1000,Free Birds ,18042,chipmunk|hunting dog|sabotage|thanksgiving|turkey the bird,USA,2013,591,5.9,1.85
-David Fincher,210,21000,243,534,Alien 3 ,207686,alien|crash|planet|prison|survivor,USA,1992,273,6.4,2.35
-Alan Parker,76,317,34,57,Evita ,29205,actress|argentina|military|politics|singer,USA,1996,40,6.3,2.35
-John Frankenheimer,149,287,135,22000,Ronin ,145422,case|ex kgb|ronin|russian|suitcase,UK,1998,2000,7.3,2.35
-Stephen Hopkins,62,81,163,1000,The Ghost and the Darkness ,46239,bridge|engineer|hunter|lion|railway,USA,1996,416,6.8,2.35
-Paul King,224,17,594,838,Paddington ,49207,bear|ear wax cleaning|fake newsreel|paddington station london|taxidermist,UK,2014,722,7.2,2.35
-Akiva Schaffer,265,82,537,622,The Watch ,104066,alien|escape|manager|neighborhood watch|ohio,USA,2012,591,5.7,2.35
-William Friedkin,135,607,215,933,The Hunted ,35830,capture|combat|fbi|hunter|special forces,USA,2003,518,6.0,1.85
-Jon Turteltaub,100,226,241,12000,Instinct ,27191,africa|anthropologist|murder|poacher|psychiatrist,USA,1999,509,6.5,2.35
-Bobby Farrelly,123,101,327,13000,Stuck on You ,44453,actor|conjoined twins|cook|internet|short order cook,USA,2003,390,5.8,2.35
-Kent Alterman,164,3,490,8000,Semi-Pro ,67005,flint michigan|merger|michigan|nba|team,USA,2008,509,5.8,2.35
-Peter Lord,238,91,591,4000,The Pirates! Band of Misfits ,36877,charles darwin|cutlass|pirate|queen victoria|scientist,UK,2012,796,6.7,2.35
-Clint Eastwood,264,16000,539,11000,Changeling ,199056,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,USA,2008,963,7.8,2.35
-Andrew Davis,47,99,581,18000,Chain Reaction ,40346,cold fusion|die hard scenario|man with glasses|on the run|outrunning explosion,USA,1996,11000,5.6,1.85
-Tony Scott,50,12000,552,22000,The Fan ,38533,baseball|fan|obsession|salesman|san francisco giants,USA,1996,617,5.8,2.35
-Joel Schumacher,153,541,530,18000,The Phantom of the Opera ,96654,based on stage musical based on novel|disfigurement|mask|opera|singer,UK,2004,893,7.4,2.35
-Shekhar Kapur,202,159,877,13000,Elizabeth: The Golden Age ,54787,court|intrigue|queen|spain|virgin,UK,2007,2000,6.9,1.85
-Karyn Kusama,178,45,352,9000,Æon Flux ,110614,based on cult favorite|disease|female hero|female protagonist|future,USA,2005,460,5.5,2.35
-Ron Maxwell,84,33,67,789,Gods and Generals ,13215,confederacy|hero|prequel|stonewall jackson|war hero,USA,2003,640,6.3,2.35
-Robert Butler,44,0,745,995,Turbulence ,8983,airplane|christmas|marshal|pilot|u.s. marshal,USA,1997,879,4.7,2.35
-Karey Kirkpatrick,93,11,506,939,Imagine That ,10417,blanket|competition|family relationships|feather|sleepover,USA,2009,605,5.6,2.35
-James Bobin,277,33,518,3000,Muppets Most Wanted ,24285,europe|frog|gulag|prison break|puppet,USA,2014,2000,6.4,1.85
-Jonathan Frakes,76,906,287,956,Thunderbirds ,11148,astronaut|island|lady penelope|rescue|the hood,UK,2004,579,4.2,1.85
-Steve Antin,197,59,676,2000,Burlesque ,61680,burlesque|dancer|iowa|small town girl|stage,USA,2010,828,6.4,2.35
-Jean-Pierre Jeunet,186,0,46,226,A Very Long Engagement ,62607,court martial|death|girl|no man's land|soldier,France,2004,52,7.7,2.35
-Stanley Kubrick,103,0,177,617,Lolita ,67822,lolita|nymphet|older man young girl relationship|professor|writer,UK,1962,367,7.7,1.66
-Jim Gillespie,66,13,534,13000,Eye See You ,19706,drill in the eye|eye gouging|hanged woman|murder|peep hole,USA,2002,854,5.3,2.35
-Guillermo del Toro,224,0,845,12000,Blade II ,158267,blade the character|cult film|mutation|vampire|warrior,USA,2002,919,6.7,1.85
-Gabriele Muccino,202,125,835,10000,Seven Pounds ,232710,boyfriend girlfriend relationship|heart|main character dies|organ donor|redemption,USA,2008,3000,7.7,2.35
-Walter Hill,279,394,565,13000,Bullet to the Head ,39247,bar|bullet|corruption|detective|lawyer,USA,2012,11000,5.7,1.85
-Francis Ford Coppola,110,0,889,14000,The Godfather: Part III ,267980,1970s|family relationships|mob hit|opera|repeating history,USA,1990,1000,7.6,1.85
-Cameron Crowe,190,488,2000,5000,Elizabethtown ,58658,flight|flight attendant|kentucky|shoes|travel,USA,2005,4000,6.4,1.85
-Anthony Russo,136,94,240,277,You, Me and Dupree ,68417,best friend|foot fetish|houseguest|newlywed|wedding,USA,2006,245,5.6,1.85
-Richard Lester,121,44,420,593,Superman II ,76331,alien invasion|based on comic book|flying superhero|phantom zone|revenge,USA,1980,467,6.8,2.35
-Martin Brest,131,102,43,117,Gigli ,41620,gangster|hospital|lesbian|mob|thug,USA,2003,62,2.4,2.35
-Steven Zaillian,127,234,581,14000,All the King's Men ,20740,governor|journalist|louisiana|mistress|politician,Germany,2006,12000,6.2,1.85
-John Singleton,160,309,577,23000,Shaft ,58416,blaxploitation|detective|drugs|shaft|trial,Germany,2000,1000,5.9,2.35
-Don Bluth,78,383,753,4000,Anastasia ,86347,amnesia|reference to anastasia romanov|romanov|russia|russian revolution,USA,1997,808,7.1,2.35
-Baz Luhrmann,209,1000,653,1000,Moulin Rouge! ,224013,death of main character|eiffel tower paris|jealousy|tragedy|two suitors,USA,2001,691,7.6,2.35
-Harold Becker,98,17,303,12000,Domestic Disturbance ,21283,amateur detective|boat builder|boy|stepfather|witness,USA,2001,708,5.5,2.35
-Scott Cooper,391,108,3000,40000,Black Mass ,115216,based on true story|boston massachusetts|fbi agent|gangster|true crime,USA,2015,19000,7.0,2.35
-Clint Eastwood,279,16000,310,23000,Flags of Our Fathers ,101221,imperial japan|japan|japanese army|japanese soldier|world war two,USA,2006,638,7.1,2.35
-F. Gary Gray,216,473,963,18000,Law Abiding Citizen ,217480,attorney|deal|district attorney|investigation|justice,USA,2009,1000,7.4,2.35
-Robert Rodriguez,250,0,1000,16000,Grindhouse ,155496,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,USA,2007,3000,7.6,2.35
-Jonathan Demme,78,438,466,852,Beloved ,6082,farm|freedom|ohio|slavery|spirit,USA,1998,637,5.9,1.85
-Curtis Hanson,106,161,681,21000,Lucky You ,18310,losing|poker|poker player|reference to frederic chopin|reference to johannes brahms,USA,2007,3000,5.9,2.35
-Steven Spielberg,194,14000,3000,29000,Catch Me If You Can ,525801,attorney|cat and mouse|fbi|pan am|pilot,USA,2002,15000,8.0,1.85
-Kathryn Bigelow,558,0,304,1000,Zero Dark Thirty ,216032,al qaeda|cia|interrogation|lie|navy seal,USA,2012,1000,7.4,1.85
-Peyton Reed,183,235,931,4000,The Break-Up ,102167,art|break up|football video game|kitchen|talking to one's self in a mirror,USA,2006,957,5.8,1.85
-Phyllida Lloyd,238,58,838,14000,Mamma Mia! ,145974,bride|greece|island|mediterranean|wedding,USA,2008,11000,6.3,2.35
-Garry Marshall,186,0,11000,14000,Valentine's Day ,95437,flower|indian restaurant|tv station|valentine|valentine's day,USA,2010,12000,5.7,1.85
-Jay Chandrasekhar,144,422,379,631,The Dukes of Hazzard ,66382,1969 dodge charger|bikini|farm|misogynist|tow truck,USA,2005,534,5.1,2.35
-Terrence Malick,156,0,463,648,The Thin Red Line ,138941,battle|hill|jungle|multiple perspectives|tropical island,USA,1998,568,7.6,2.35
-David Dobkin,215,71,634,16000,The Change-Up ,136680,best friend|fountain|law firm|lawyer|sex,USA,2011,10000,6.4,2.35
-Milos Forman,140,869,21,134,Man on the Moon ,100743,andy kaufman|comedian|eccentric|wrestler|wrestling,UK,1999,27,7.4,2.35
-Martin Scorsese,133,17000,574,22000,Casino ,333542,car bomb|card cheat|cash|casino|gambling syndicate,USA,1995,721,8.2,2.35
-Pierre Morel,203,180,75,211,From Paris with Love ,97775,ambassador|cia|dinner|spy|terrorist,France,2010,135,6.5,2.35
-Paul Hunter,127,13,343,961,Bulletproof Monk ,42324,monastery|monk|scroll|tibetan|tibetan monk,USA,2003,691,5.5,2.35
-Bobby Farrelly,155,101,79,889,Me, Myself & Irene ,185878,dissociative identity disorder|limousine|multiple personality|police|rhode island,USA,2000,624,6.5,1.85
-Steve Oedekerk,98,176,523,677,Barnyard ,21396,cow|farmer|howl|howling at the moon|vegetarian,Germany,2006,560,5.6,1.85
-John Whitesell,71,14,728,2000,Deck the Halls ,15740,christmas|december|holiday|massachusetts|neighbor,USA,2006,1000,4.9,1.85
-Chris Weitz,299,129,12000,21000,The Twilight Saga: New Moon ,220758,forks washington|protecting a woman|title same as book|vampire|werewolf,USA,2009,17000,4.6,2.35
-Andrew Adamson,212,80,21,145,Shrek ,467113,donkey|fairy tale|ogre|princess|swamp,USA,2001,50,7.9,1.85
-George Nolfi,413,53,593,13000,The Adjustment Bureau ,200035,love at first sight|obscene finger gesture|rain|teleportation|three word title,USA,2011,963,7.1,1.85
-Kevin Reynolds,67,58,720,25000,Robin Hood: Prince of Thieves ,145257,balladeer|crusades|england|king|modern minstrel,USA,1991,11000,6.9,1.85
-Cameron Crowe,109,488,597,10000,Jerry Maguire ,189923,agent|career|client|fiance|sports agent,USA,1996,743,7.3,1.85
-Seth MacFarlane,457,3000,1000,15000,Ted ,471644,2010s|car accident|sex scene|teddy bear|testicle,USA,2012,3000,7.0,1.85
-James L. Brooks,156,274,285,625,As Good as It Gets ,224671,dog|friendship|neighbor|unlikely friendship|writer,USA,1997,440,7.7,1.85
-Tom Shadyac,55,293,878,49000,Patch Adams ,80580,doctor|hospital|mental institution|nurse|student,USA,1998,22000,6.7,2.35
-Adam McKay,272,285,7000,11000,Anchorman 2: The Legend Continues ,131227,fame|father son relationship|interracial kiss|interracial relationship|interracial sex,USA,2013,8000,6.3,2.35
-Steven Brill,117,65,828,12000,Mr. Deeds ,110432,abbreviation in title|reporter|small town|sudden wealth|unknowing heir,USA,2002,11000,5.8,1.85
-J.J. Abrams,539,14000,417,1000,Super 8 ,287822,deputy|group of friends|time|train|train crash,USA,2011,560,7.1,2.35
-Steven Soderbergh,169,0,658,8000,Erin Brockovich ,135246,contamination|corporate crime|environmental issue|female protagonist|working single mother,USA,2000,883,7.3,1.85
-Donald Petrie,140,80,651,11000,How to Lose a Guy in 10 Days ,156717,advertising executive|diamond|magazine|party|wager,USA,2003,1000,6.4,1.85
-Phil Lord,330,97,584,17000,22 Jump Street ,258186,college|drugs|hidden camera|tattoo|undercover,USA,2014,920,7.1,2.35
-Neil Jordan,120,277,4000,11000,Interview with the Vampire: The Vampire Chronicles ,239752,betrayal|dangerous friend|gothic|monster as victim|vampire,USA,1994,10000,7.6,1.85
-Peyton Reed,190,235,1000,14000,Yes Man ,271691,best friend|dvd|girlfriend|loan|self help,USA,2008,11000,6.8,2.35
-Rawson Marshall Thurber,177,43,569,12000,Central Intelligence ,33354,accountant|blooper|espionage|facebook|high school reunion,USA,2016,919,6.6,2.35
-Chris Columbus,65,0,701,8000,Stepmom ,46482,attorney|cancer|custody|fashion photographer|photographer,USA,1998,818,6.7,2.35
-Sean Anders,145,51,322,8000,Daddy's Home ,54010,biological father|dad|drinking|product placement|wilhelm scream,USA,2015,2000,6.1,1.85
-Rob Marshall,321,252,10000,40000,Into the Woods ,101178,based on stage musical|cinderella|little red riding hood|singing|witch,USA,2014,11000,6.0,2.39
-Spike Lee,230,0,277,18000,Inside Man ,273108,bank|detective|negotiation|police|robber,USA,2006,412,7.6,2.35
-Brian Helgeland,143,241,416,1000,Payback ,111368,anti hero|criminal|greed|prostitute|tough guy,USA,1999,495,7.1,2.35
-Frank Marshall,55,155,293,426,Congo ,34471,captain|congo|expedition|laser|lost city,USA,1995,387,5.0,1.85
-Cameron Crowe,257,488,1000,19000,We Bought a Zoo ,111003,blocked road|father son relationship|love at first sight|teenage boy|zookeeper,USA,2011,13000,7.1,1.85
-Alex Proyas,279,295,329,12000,Knowing ,186879,disaster|end of the world|number|student|time capsule,USA,2009,748,6.2,2.35
-Tom Dey,143,9,11000,14000,Failure to Launch ,58412,friend|intervention|moving|secret|slacker,USA,2006,11000,5.6,2.35
-Hideo Nakata,196,62,874,6000,The Ring Two ,71153,cartoon on tv|foreign language adaptation|second part|videotape|writer,USA,2005,989,5.4,1.85
-Glenn Ficarra,310,43,7000,33000,Crazy, Stupid, Love. ,375456,bar|divorce|friend|girl|male objectification,USA,2011,15000,7.4,2.39
-Peter Hewitt,116,12,58,13000,Garfield ,58961,cat|dog|first part|lasagna|veterinarian,USA,2004,258,5.0,1.85
-Joe Roth,105,148,660,2000,Christmas with the Kranks ,27548,act of kindness|christmas|christmas eve|neighbor|vacation,USA,2004,843,5.2,2.35
-Bennett Miller,419,152,11000,22000,Moneyball ,283563,baseball|meeting|statistics|strategy|voice over,USA,2011,18000,7.6,1.85
-Wolfgang Petersen,64,249,808,18000,Outbreak ,91176,disease|epidemic|monkey|quarantine|virus,USA,1995,11000,6.6,1.85
-Jaume Collet-Serra,359,174,660,14000,Non-Stop ,200647,air marshal|death|passenger|terrorist|transatlantic flight,UK,2014,664,7.0,2.35
-Andy Fickman,166,99,433,12000,Race to Witch Mountain ,43328,alien|military|mountain|spacecraft|ufo,USA,2009,536,5.7,2.35
-James McTeigue,525,160,443,20000,V for Vendetta ,791783,dystopia|freedom|government|revolution|terrorist,USA,2005,979,8.2,2.35
-David Dobkin,165,71,55,154,Shanghai Knights ,81444,1880s|arrow|imperial seal|murder|revenge,USA,2003,131,6.2,2.35
-,2,,132,416,Unforgotten             ,1824,,UK,,171,7.9,
-Matthew O'Callaghan,87,5,1000,8000,Curious George ,12845,hat|monkey|museum|shrine|yellow,USA,2006,2000,6.6,1.85
-Angela Robinson,117,23,541,660,Herbie Fully Loaded ,36431,automobile racing|car|mechanic|nascar|street racing,USA,2005,651,4.7,1.85
-Gary Fleder,113,39,477,1000,Don't Say a Word ,40362,mental institution|post traumatic stress|psychiatrist|vomiting|voyeur,USA,2001,912,6.3,2.35
-Tommy Wirkola,349,75,467,10000,Hansel & Gretel: Witch Hunters ,159868,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power,Germany,2013,520,6.1,2.35
-Adrian Lyne,152,213,372,838,Unfaithful ,63067,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,USA,2002,593,6.7,1.85
-D.J. Caruso,288,154,144,15000,I Am Number Four ,195043,based on young adult novel|good versus evil|guardian|human alien|ohio,USA,2011,348,6.1,1.85
-Stephen Gaghan,358,79,414,13000,Syriana ,109188,cia|hezbollah|lebanon|oil|prince,USA,2005,903,7.0,2.35
-Michael Bay,204,0,681,769,13 Hours ,47764,based on true story|cia agent|libya|mercenary|u.s. ambassador,USA,2016,726,7.4,2.35
-Jorge R. Gutiérrez,156,34,679,17000,The Book of Life ,45580,afterlife|bullfight|bullfighting|love triangle|mexico,USA,2014,995,7.3,2.35
-Richard Loncraine,171,12,935,87000,Firewall ,50170,architect|bank|cayman islands|meeting|murder,USA,2006,11000,5.8,2.35
-Clint Eastwood,76,16000,826,16000,Absolute Power ,39529,death|death of wife|murder|thief|violence,USA,1997,1000,6.7,2.35
-Ridley Scott,97,0,957,10000,G.I. Jane ,60326,feminism|hit in the crotch|kicked in the crotch|kicked in the testicles|navy,USA,1997,2000,5.8,2.35
-David Fincher,157,21000,283,495,The Game ,261069,birthday|falling through a glass roof|game|hitchcockian|suicide,USA,1997,294,7.8,2.35
-Christophe Gans,267,50,368,992,Silent Hill ,172792,gothic|police|police officer|silent hill|sleepwalking,Canada,2006,495,6.6,2.35
-Howard Deutch,118,41,585,18000,The Replacements ,48322,coach|football player|misfits|strike|sumo wrestler,USA,2000,4000,6.5,1.85
-Jon Hurwitz,291,22,1000,3000,American Reunion ,172112,bikini|female female kiss|high school reunion|outdoor sex|upskirt,USA,2012,1000,6.7,1.85
-F. Gary Gray,68,473,294,18000,The Negotiator ,107227,hostage|innocence|murder|negotiator|police,Germany,1998,822,7.3,2.35
-Steven Quale,228,77,159,490,Into the Storm ,54101,danger|graduation|storm|teenage boy|tornado,USA,2014,298,5.8,1.85
-John Landis,36,644,174,437,Beverly Hills Cop III ,60293,california|counterfeit|counterfeit money|money|theme park,USA,1994,289,5.5,1.85
-Joe Dante,105,287,767,16000,Gremlins 2: The New Batch ,68428,gremlin|horror host|hulk hogan|monster|skyscraper,USA,1990,823,6.3,1.85
-David Dobkin,276,71,3000,21000,The Judge ,136973,courtroom|dysfunctional family|indiana|lawyer|trial,USA,2014,3000,7.4,2.35
-Mimi Leder,93,75,258,294,The Peacemaker ,46451,nuclear explosion|nuclear weapon|russia|train|train crash,USA,1997,273,5.9,2.35
-Alexander Witt,191,38,706,14000,Resident Evil: Apocalypse ,151580,cover up|monster|strong female character|strong female lead|zombie apocalypse,Germany,2004,919,6.2,2.35
-Beeban Kidron,143,17,186,14000,Bridget Jones: The Edge of Reason ,74315,american actress playing british character|intern|prison|six word title|thailand,UK,2004,1000,5.9,2.35
-Carl Franklin,124,73,323,18000,Out of Time ,45895,cancer|florida|insurance|life insurance policy|small town,USA,2003,886,6.5,2.35
-Steven Seagal,47,0,158,854,On Deadly Ground ,17997,environmental|murder|oil|oil spill|tribe,USA,1994,643,4.4,2.35
-Robert Rodriguez,66,0,717,12000,The Adventures of Sharkboy and Lavagirl 3-D ,20310,boy|bully|dream|dream sequence|planet,USA,2005,722,3.5,1.85
-Danny Boyle,118,0,39,29000,The Beach ,176169,love|map|paradise|thailand|travel,USA,2000,414,6.6,2.35
-Garry Marshall,93,0,434,627,Raising Helen ,30890,fashion show|female protagonist|love|pastor|queens new york city,USA,2004,508,6.0,1.85
-James McTeigue,235,160,72,330,Ninja Assassin ,58349,critically bashed|kung fu|martial artist|martial arts|ninja,USA,2009,119,6.4,2.35
-Sam Raimi,113,0,432,24000,For Love of the Game ,26034,baseball|baseball movie|detroit tigers|perfect game|pitcher,USA,1999,743,6.5,2.35
-,14,,5,325,A Touch of Frost             ,4438,cult tv|death|detective inspector|four word title|internal affairs,UK,,7,7.8,1.33
-Andrew Bergman,51,31,210,2000,Striptease ,34896,bouncer|breasts|congressman|private dancer|stripper,USA,1996,472,4.3,1.85
-Tom Dey,98,9,1000,15000,Marmaduke ,11257,dog|great dane|rivalry|talking animal|talking cat,USA,2010,2000,4.2,2.35
-Clint Eastwood,315,16000,447,13000,Hereafter ,80140,death|france|near death experience|tsunami|twin brother,USA,2010,563,6.5,2.35
-Barbet Schroeder,136,58,401,33000,Murder by Numbers ,43574,disposing of a dead body|high school student|murder|sociopath|teenage boy,USA,2002,455,6.1,1.85
-Richard Donner,61,503,282,45000,Assassins ,62981,assassin|floppy disk|modem|rival|russian,France,1995,13000,6.3,1.85
-Peter Webber,209,73,163,879,Hannibal Rising ,86374,aunt|cannibalism|faked death|medical student|revenge,UK,2007,184,6.2,2.35
-Rob Reiner,99,0,323,13000,The Story of Us ,18404,four word title|husband wife relationship|male rear nudity|marriage|summer camp,USA,1999,559,5.9,1.85
-Andrew Niccol,298,487,201,430,The Host ,92461,alien|alien creature|body snatching|desert|parasite,USA,2013,329,5.9,2.35
-John McTiernan,131,323,511,933,Basic ,49926,2000s|army|military crime|necklace yanked off|panama,Germany,2003,631,6.5,2.35
-Clint Eastwood,146,16000,581,16000,Blood Work ,34356,boat|heart transplant|murder|serial killer|sister,USA,2002,1000,6.4,2.35
-Tom Tykwer,245,670,294,6000,The International ,80196,bank|chase|district attorney|interpol|murder,USA,2009,450,6.5,2.35
-John Carpenter,104,0,764,12000,Escape from L.A. ,54021,escape|island|los angeles california|machismo|president's daughter,USA,1996,898,5.7,2.35
-,4,,398,629,Twisted             ,7945,,USA,,512,7.5,16.0
-Brad Bird,162,663,521,14000,The Iron Giant ,128455,boy|friend|government agent|maine|robot,USA,1999,631,8.0,2.35
-Wes Anderson,259,0,639,13000,The Life Aquatic with Steve Zissou ,139535,expedition|oceanographer|sea|shark|team,USA,2004,1000,7.3,2.35
-Gary Ross,79,378,303,11000,Free State of Jones ,3077,american civil war|civil war|u.s. civil war,USA,2016,552,6.7,1.85
-Alan Parker,141,317,256,18000,The Life of David Gale ,88270,activist|death|death row|murder|texas,USA,2003,14000,7.5,2.35
-Stephen Herek,59,65,730,1000,Man of the House ,19829,cheerleader|cheerleading movie|neo noir|neo western|texas ranger,USA,2005,923,5.4,2.35
-Jaume Collet-Serra,236,174,655,14000,Run All Night ,76010,death|drug dealer|limousine|limousine driver|one night,USA,2015,988,6.6,2.35
-David Cronenberg,356,0,509,10000,Eastern Promises ,189249,male pubic hair|pubic hair|russian|sex scene|turkish bath,USA,2007,6000,7.7,1.85
-John Stockwell,120,134,795,23000,Into the Blue ,63599,bahamas|blood splatter|cocaine|hairy chest|shark,USA,2005,1000,5.8,2.35
-Luc Besson,111,0,15,51,The Messenger: The Story of Joan of Arc ,55889,cathedral|dauphin|france|trial|wartime rape,France,1999,40,6.4,2.35
-David Gordon Green,208,234,11000,20000,Your Highness ,85237,knight|prince|quest|rescue|thong bikini,USA,2011,11000,5.6,2.35
-Jim Sheridan,174,260,692,6000,Dream House ,46239,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train,USA,2011,694,6.0,2.35
-Costa-Gavras,59,333,317,972,Mad City ,16562,hostage|museum|natural history museum|news reporter|reporter,USA,1997,713,6.2,2.35
-Patrick Read Johnson,22,32,479,1000,Baby's Day Out ,33186,baby|baby boy|kidnapping|kidnapping a child|taxi,USA,1994,619,5.9,1.85
-Roland Joffé,34,596,2000,10000,The Scarlet Letter ,12037,17th century|adultery|letter|pubic hair|swimming,USA,1995,3000,5.1,2.35
-Doug Liman,214,218,405,6000,Fair Game ,38513,bush administration|cia|interview|iraq|new york times,USA,2010,3000,6.8,2.35
-,28,,600,3000,Defiance             ,33535,alien|alien invasion|planet invasion|post apocalypse|year 2046,USA,,845,7.0,1.78
-Tony Scott,186,12000,897,984,Domino ,58015,bounty hunter|fbi|female bounty hunter|female nudity|reality show,France,2005,940,6.0,2.35
-William Friedkin,50,607,602,2000,Jade ,9227,blackmail|investigation|murder|panties pulled down|prostitution,USA,1995,979,5.1,1.85
-Mark Neveldine,180,83,1000,18000,Gamer ,113483,battle|convict|death|mind control|role playing,USA,2009,8000,5.8,1.85
-Richard LaGravenese,231,98,592,1000,Beautiful Creatures ,67796,dream|escape|magic|magic spell|small town,USA,2013,852,6.2,2.35
-Danny DeVito,105,0,809,49000,Death to Smoochy ,34730,children|children's tv show|money|revenge|scandal,UK,2002,811,6.4,1.85
-Ben Stiller,226,0,1000,14000,Zoolander 2 ,34964,chosen one|fashion|fashion model|model|retired,USA,2016,8000,4.8,2.35
-George Armitage,75,5,338,11000,The Big Bounce ,15880,breasts|consensual sex|female nudity|judge|surfer,USA,2004,387,4.9,2.35
-Mike Nichols,82,0,591,2000,What Planet Are You From? ,8070,alien|baby|banker|pregnancy|question in title,USA,2000,602,5.6,1.85
-Patrick Lussier,296,71,982,12000,Drive Angry ,81800,baby|cult|oklahoma|sex scene|waitress,USA,2011,2000,5.5,1.85
-Andrzej Bartkowiak,103,43,77,841,Street Fighter: The Legend of Chun-Li ,19824,chun li|crime fighter|gangster|mobster|rescue,Canada,2009,342,3.7,2.35
-James Wong,98,70,848,26000,The One ,77684,fight|multiverse|police|police officer|prison,USA,2001,5000,5.9,2.35
-,30,,184,1000,Outlander             ,50391,based on novel|clan|scotland|scottish highlands|year 1743,USA,,531,8.5,16.0
-Renny Harlin,48,212,380,879,The Adventures of Ford Fairlane ,14429,detective|groupie|murder|music industry|rock n roll,USA,1990,560,6.3,2.35
-Richard Curtis,195,628,830,22000,Pirate Radio ,90932,inspired by radio program|inspired by true events|pirate broadcasting|pirate radio|pirate radio station,UK,2009,882,7.4,2.35
-Steven Soderbergh,223,0,215,599,Traffic ,170684,cocaine|drug smuggling|interlinked stories|judge|mexico,USA,2000,399,7.6,1.85
-Steven Spielberg,149,14000,440,11000,Indiana Jones and the Last Crusade ,515306,castle|diary|holy grail|map|nazi,USA,1989,844,8.3,2.35
-Joe Wright,324,456,0,2000,Anna Karenina ,70886,dance|infidelity|marriage|russia|russian,UK,2012,35,6.6,2.35
-Neill Blomkamp,371,662,502,20000,Chappie ,172965,artificial intelligence|consciousness|future|mind uploading|robot,USA,2015,2000,6.9,2.35
-Phillip Noyce,75,176,308,18000,The Bone Collector ,120202,new york city|police|quadriplegic|serial killer|suicide,USA,1999,11000,6.7,2.35
-David Fincher,233,21000,237,17000,Panic Room ,206104,brownstone|burglar|money|panic|panic room,USA,2002,324,6.8,2.35
-Chuck Bowman,32,42,235,598,The Tooth Fairy ,1263,bare breasts|genital dismemberment|mulching someone|tooth fairy|woodchipper,USA,2006,555,4.6,1.78
-David O. Russell,150,737,393,2000,Three Kings ,137854,gold|gulf war|iraq|kuwait|map,USA,1999,490,7.1,2.35
-Daniel Espinosa,172,79,194,27000,Child 44 ,40568,child murderer|murder|sex|soviet union|woman slaps a man,Czech Republic,2015,254,6.4,2.35
-Jerry Zucker,103,109,261,779,Rat Race ,93367,casino|locker|money|museum|race,Canada,2001,629,6.4,2.35
-Iain Softley,140,34,1000,18000,K-PAX ,148490,extraterrestrial|hospital|patient|planet|science,USA,2001,12000,7.4,2.35
-James Mangold,125,446,821,20000,Kate & Leopold ,64595,bridge|brooklyn bridge|falling down an elevator shaft|time travel|time travel romance,USA,2001,1000,6.4,1.85
-Harold Ramis,125,11000,484,3000,Bedazzled ,81888,contract|devil|dream|soul|wish,USA,2000,575,6.0,2.35
-Francis Ford Coppola,36,0,886,12000,The Cotton Club ,12771,brothers hugging|jazz|jealousy|nudity|parole violation,USA,1984,5000,6.5,1.85
-James Mangold,295,446,600,23000,3:10 to Yuma ,237872,outlaw|rancher|small western town|stagecoach|train,USA,2007,8000,7.8,2.35
-Olivier Megaton,222,118,482,14000,Taken 3 ,133436,betrayal|death|final showdown|murder|on the run,France,2014,794,6.0,2.35
-Steven Soderbergh,158,0,23,3000,Out of Sight ,71708,heist|neo noir|one last job|opposites attract|u.s. marshal,USA,1998,745,7.0,1.85
-Ben Stiller,72,0,302,2000,The Cable Guy ,122347,cable guy|foreplay|friend|kissing|television,USA,1996,1000,6.0,2.35
-Deepa Mehta,34,375,59,113,Earth ,5639,friend|hindu|india|muslim|sikh,India,1998,102,7.8,
-Warren Beatty,72,631,327,678,Dick Tracy ,47819,crime boss|detective|dick tracy|gangster|orphan,USA,1990,631,6.1,1.85
-John McTiernan,152,323,835,1000,The Thomas Crown Affair ,73068,art|insurance investigator|martinique|painting|trust,USA,1999,977,6.8,2.35
-Penny Marshall,89,545,807,919,Riding in Cars with Boys ,22447,boy|college|heroin|working class|writer,USA,2001,811,6.4,1.85
-Ted Kotcheff,145,270,535,13000,First Blood ,172489,1980s|colonel|deputy|rambo|sheriff,USA,1982,954,7.7,2.35
-Andrei Tarkovsky,144,0,12,29,Solaris ,54057,hallucination|ocean|psychologist|scientist|space station,Soviet Union,1972,29,8.1,2.35
-Paul Bolger,93,0,677,4000,Happily N'Ever After ,8693,apostrophe in title|cinderella|first of series|punctuation in title|three word title,USA,2006,769,4.5,1.85
-Stephen Frears,46,350,77,8000,Mary Reilly ,11913,19th century|butler|housemaid|laboratory|servant,USA,1996,115,5.8,1.85
-P.J. Hogan,84,29,692,8000,My Best Friend's Wedding ,98199,best friend|chick flick|male female friendship|promise|wedding,USA,1997,1000,6.3,2.35
-Joe Roth,142,148,135,8000,America's Sweethearts ,47573,actor|love|movie star|press|publicist,USA,2001,973,5.7,2.35
-Christopher Nolan,185,22000,319,14000,Insomnia ,218771,detective|insomnia|murder|partner|police,USA,2002,509,7.2,2.35
-Jonathan Frakes,143,906,906,1000,Star Trek: First Contact ,97838,21st century|borg|borg sphere|captain|sphere,USA,1996,1000,7.6,2.35
-Jimmy Hayward,178,39,364,13000,Jonah Hex ,45729,confederate|death|independence day|military|terrorist,USA,2010,541,4.7,2.35
-Edward Zwick,65,380,826,18000,Courage Under Fire ,40126,bravery|honor|medal of honor|military life|unreliable flashback,USA,1996,13000,6.6,1.85
-Tom Shadyac,73,293,255,509,Liar Liar ,220392,birthday|birthday wish|father disappoints child|lie|workaholic,USA,1997,418,6.8,1.85
-Brad Furman,72,65,345,788,The Infiltrator ,2581,,UK,2016,423,7.3,2.35
-Terence Young,10,92,522,1000,Inchon ,491,1950s|douglas macarthur|general|inchon|invasion,South Korea,1981,623,2.7,2.35
-Brian Levant,35,32,628,924,The Flintstones ,60884,1000000 b.c.|box office hit|lawn mowing|product placement|stone age,USA,1994,664,4.8,1.33
-Olivier Megaton,358,118,558,14000,Taken 2 ,238671,albanian|revenge|revenge motive|teenage daughter|vacation,France,2012,935,6.3,2.35
-David Zucker,151,119,750,807,Scary Movie 3 ,111526,crop circle|farm|orchestral music score|reference to michael jackson|videotape,USA,2003,780,5.5,1.85
-Donald Petrie,140,80,213,545,Miss Congeniality ,137377,beauty pageant|fbi|female agent|pageant|undercover,USA,2000,337,6.2,1.85
-Eric Brevig,201,40,311,14000,Journey to the Center of the Earth ,85323,cave|lost world|missing brother|mountain|venus flytrap,USA,2008,3000,5.8,1.85
-Garry Marshall,77,0,995,11000,The Princess Diaries 2: Royal Engagement ,53687,coronation|horse|princess|queen|side saddle,USA,2004,1000,5.7,1.85
-Alan J. Pakula,43,79,956,18000,The Pelican Brief ,59569,college professor|fbi|president|professor|supreme court,USA,1993,8000,6.5,2.35
-Joel Schumacher,39,541,551,821,The Client ,45798,boy|brother|lawyer|mafia|senator,USA,1994,577,6.7,2.35
-Rob Reiner,207,0,760,11000,The Bucket List ,184795,billionaire|friend|hospital|list|mechanic,USA,2007,2000,7.4,1.85
-Phillip Noyce,47,176,308,11000,Patriot Games ,81442,analyst|cia|ira|terrorist|terrorist attack,USA,1992,530,6.9,2.35
-Robert Luketic,132,126,586,3000,Monster-in-Law ,43358,breakdown|fight|mother in law|scheme|wedding,Germany,2005,949,5.5,2.35
-Denis Villeneuve,454,777,1000,20000,Prisoners ,383591,child abduction|detective|investigation|police|sex offender,USA,2013,15000,8.1,1.85
-Antoine Fuqua,109,845,854,18000,Training Day ,305929,lapd|narc|narcotics|title spoken by character|training,USA,2001,881,7.7,2.35
-Dean Parisot,213,23,436,25000,Galaxy Quest ,123558,alien|alien race|convention|fan|general,USA,1999,724,7.3,2.35
-Keenen Ivory Wayans,127,322,179,1000,Scary Movie 2 ,119590,blow job|demon|exorcism|priest|professor,USA,2001,422,5.2,1.85
-James Bobin,398,33,84,970,The Muppets ,75176,bel air california|book|friends who live together|the muppets|tribute band,USA,2011,91,7.1,1.85
-Stephen Norrington,184,45,595,886,Blade ,191437,1990s|blade|blood|vampire|vampire hunter,USA,1998,650,7.1,2.35
-Thomas Carter,127,49,730,17000,Coach Carter ,92702,basketball|basketball coach|coach|contract|high school,USA,2005,807,7.2,2.35
-Roger Michell,167,50,67,521,Changing Lanes ,57281,car accident|feud|lawyer|revenge|road rage,USA,2002,108,6.5,2.35
-Luis Llosa,119,49,514,2000,Anaconda ,73539,amazon|anaconda|boat|jungle|snake,USA,1997,902,4.6,2.35
-David McNally,155,18,560,811,Coyote Ugly ,90539,girl in panties|lift skirt|sexual attraction|short shorts|songwriter,USA,2000,625,5.6,2.35
-Richard Curtis,218,628,548,14000,Love Actually ,318634,aging rocker|christmas|love at first sight|minister|prime minister,UK,2003,14000,7.7,2.35
-John Lasseter,117,487,1000,18000,A Bug's Life ,211226,ant|circus|grasshopper|misunderstanding|overhearing,USA,1998,1000,7.2,2.35
-Albert Hughes,208,117,140,40000,From Hell ,124765,freemason|jack the ripper|opium|prostitute|victorian era,USA,2001,1000,6.8,2.35
-Luis Llosa,38,49,20,13000,The Specialist ,50148,bomb|cia|explosive|explosives expert|miami florida,Peru,1994,279,5.4,1.85
-Ron Shelton,48,41,808,982,Tin Cup ,37911,driving range|golf|golfer|tournament|winnebago,USA,1996,843,6.3,2.35
-Melville Shavelson,8,5,559,6000,Yours, Mine and Ours ,5888,nurse|parent|sibling|widow|widower,USA,1968,584,7.2,1.85
-Jesse Dylan,94,58,3000,14000,Kicking & Screaming ,30255,book|child|slapstick comedy|soccer|suburb,USA,2005,8000,5.6,2.35
-Garth Jennings,276,37,651,11000,The Hitchhiker's Guide to the Galaxy ,155745,alien|friend|galaxy|hyperspace|spaceship,USA,2005,2000,6.8,2.35
-Joel Zwick,59,38,631,1000,Fat Albert ,9380,animated sequence|junkyard|love|party|television,USA,2004,641,4.3,2.35
-Russell Mulcahy,216,85,443,14000,Resident Evil: Extinction ,149549,clone|convoy|crow|desert|satellite,France,2007,706,6.3,2.35
-Frank Coraci,173,153,734,35000,Blended ,87165,blind date|children|date|daughter|son,USA,2014,11000,6.5,1.85
-Wayne Wang,99,61,501,1000,Last Holiday ,21215,chef|congressman|cook|hotel|senator,USA,2006,976,6.4,2.35
-Curtis Hanson,42,161,132,11000,The River Wild ,32544,criminal|rafting|river|robber|white water rafting,USA,1994,894,6.3,2.35
-Frank Oz,25,0,563,1000,The Indian in the Cupboard ,20688,best friend|birthday|boy|friend|magic,USA,1995,845,5.9,1.85
-Oliver Stone,339,0,404,749,Savages ,104301,arms tied overhead|damsel in distress|dea|marijuana|southern california,USA,2012,463,6.5,2.35
-David R. Ellis,127,160,167,550,Cellular ,79141,cell phone|distress signal|family in danger|police|stealing a car,USA,2004,216,6.5,2.35
-Peter Howitt,122,29,252,427,Johnny English ,114692,british|crown jewels|explosion|funeral|spy,UK,2003,304,6.1,1.85
-John A. Davis,105,8,8000,12000,The Ant Bully ,30055,ant|miniaturization|punishment|shrinking|sudden change in size,USA,2006,11000,5.9,1.85
-David Lynch,144,0,202,913,Dune ,97087,desert planet|dune|giant worm|space travel|spice,USA,1984,362,6.6,2.35
-Julie Taymor,156,278,107,5000,Across the Universe ,91860,anti war|liverpool|love|protest|song,USA,2007,117,7.4,2.35
-Sam Mendes,323,0,10000,29000,Revolutionary Road ,152591,based on novel|children|connecticut|suburb|work,USA,2008,14000,7.3,2.35
-Richard Donner,199,503,795,13000,16 Blocks ,112769,alcoholic|courthouse|detective|jail|witness,Germany,2006,929,6.6,2.35
-Mathieu Kassovitz,164,326,510,14000,Babylon A.D. ,81523,box office flop|convent|mercenary|new york|pregnant,France,2008,844,5.6,2.35
-John Gray,39,29,322,2000,The Glimmer Man ,15455,detective|heavy rain|murder|partner|serial killer,USA,1996,461,5.3,1.85
-Harold Ramis,43,11000,451,905,Multiplicity ,24757,clone|cloning|construction|same actor playing two characters simultaneously on screen|year 1996,USA,1996,484,6.0,2.35
-John Schultz,82,13,553,1000,Aliens in the Attic ,16580,alien|attic|boyfriend|mind control|nintendo ds,USA,2009,701,5.4,1.85
-Sean Penn,150,0,19,723,The Pledge ,42621,nevada|pledge|police|porcupine|search,USA,2001,44,6.8,2.35
-Susan Stroman,168,38,2000,11000,The Producers ,35140,accountant|money|opening night|scheme|swedish,USA,2005,8000,6.4,2.35
-Pete Travis,432,38,20,409,Dredd ,203461,brutality|dark humor|female antagonist|female warrior|post apocalypse,UK,2012,107,7.1,2.35
-Simon Wincer,60,23,579,1000,The Phantom ,27648,ghost|new york city|phantom|skull|superhero,Australia,1996,642,4.9,2.35
-Billy Bob Thornton,85,0,820,13000,All the Pretty Horses ,11388,1940s|cowboy|mexico|railway station|texas,USA,2000,861,5.8,2.35
-Oliver Stone,83,0,805,12000,Nixon ,23996,courtship|election|paranoia|president|quaker,USA,1995,5000,7.1,2.35
-Roman Polanski,343,2000,501,854,The Ghost Writer ,132423,british prime minister|death|island|memoir|writer,France,2010,766,7.2,2.35
-Stephen Sommers,106,208,855,3000,Deep Rising ,26551,creature feature|hijacker|ocean|ship|shot in the leg,USA,1998,1000,6.0,2.35
-Spike Lee,158,0,826,23000,Miracle at St. Anna ,15697,boy|german soldier|partisan|trapped|village,USA,2008,1000,6.0,2.35
-Yimou Zhang,189,611,10,879,Curse of the Golden Flower ,36455,china|chrysanthemum|emperor|empress|prince,China,2006,52,7.0,2.35
-Danny Pang,125,15,61,12000,Bangkok Dangerous ,48245,deaf|hitman|nightclub|pickpocket|rules of profession,USA,2008,68,5.4,1.85
-Barry Sonnenfeld,87,188,865,11000,Big Trouble ,17307,airport|fbi agent|person in a car trunk|suitcase|suitcase bomb,USA,2002,1000,6.5,1.85
-Mike Newell,115,179,50,267,Love in the Time of Cholera ,19114,19th century|colombia|love|marriage|widow,USA,2007,202,6.4,2.35
-,23,,114,164,The Returned             ,15762,france|living dead|serial killer|small town|supernatural,France,,116,8.3,16.0
-George P. Cosmatos,24,170,269,849,Shadow Conspiracy ,3803,american president|assassin|conspiracy|president|white house,USA,1997,623,4.9,2.35
-Oliver Parker,152,32,104,219,Johnny English Reborn ,89568,assassin|chinese|conspiracy|gadget|premier,USA,2011,141,6.3,2.35
-Lawrence Kasanoff,12,11,500,719,Foodfight! ,4377,femme fatale|food|pun|supermarket|troubled production,USA,2012,611,1.7,
-Ben Affleck,656,0,650,1000,Argo ,452465,1970s|cia|f word|u.s. embassy|year 1979,USA,2012,660,7.7,2.35
-Andrew Davis,119,99,812,11000,The Fugitive ,213668,hospital|on the run|one armed man|surgeon|u.s. marshal,USA,1993,1000,7.8,1.85
-Andy Tennant,161,72,789,18000,The Bounty Hunter ,96565,bounty hunter|death|murder|police officer|reporter,USA,2010,1000,5.5,2.35
-Barry Levinson,73,272,893,22000,Sleepers ,154487,boy|guard|kicked in the crotch|prank|sexual abuse,USA,1996,11000,7.5,2.35
-George P. Cosmatos,96,170,668,13000,Rambo: First Blood Part II ,117606,1980s|mission|prison|rambo|vietnam,USA,1985,738,6.4,2.35
-Brian Gibson,28,13,643,23000,The Juror ,13995,breasts|mafia|sex scene|temple|woods,USA,1996,2000,5.6,2.35
-Norman Ferguson,105,3,40,1000,Pinocchio ,90360,boy|conscience|fairy|jiminy cricket|pinocchio,USA,1940,48,7.5,1.37
-Michael Cimino,102,517,678,12000,Heaven's Gate ,9830,1890s|hired gun|immigrant|johnson county war|sheriff,USA,1980,849,6.8,2.35
-Len Wiseman,206,235,520,956,Underworld: Evolution ,156225,death|feud|forbidden love|vampire|werewolf,USA,2006,845,6.8,2.35
-Paul McGuigan,159,118,287,11000,Victor Frankenstein ,28618,assistant|experiment|frankenstein|medical student|scientist,USA,2015,1000,6.0,2.35
-Gus Van Sant,137,835,225,670,Finding Forrester ,73006,basketball|mentor|new york|school|writing,USA,2000,370,7.3,2.35
-Betty Thomas,116,84,664,12000,28 Days ,34597,12 step program|box office hit|car accident|vomiting|wedding,USA,2000,10000,6.0,1.37
-Louis Leterrier,177,255,5000,11000,Unleashed ,85198,collar|dog|fight|fighting|piano,France,2005,5000,7.0,2.35
-Roger Kumble,99,16,16,44,The Sweetest Thing ,46158,female removes her clothes|roommate|voyeur|voyeurism|wedding,USA,2002,28,5.1,1.85
-Sydney Pollack,56,521,957,10000,The Firm ,88844,bar|fbi|law|law firm|lawyer,USA,1993,1000,6.8,1.85
-Burr Steers,117,23,135,405,Charlie St. Cloud ,47364,brother brother relationship|death of brother|ghost|seeing dead people|talking with the dead,USA,2010,268,6.5,2.35
-Simon West,252,165,350,26000,The Mechanic ,117999,apprentice|disobeying orders|gas station|hitman|nightclub,USA,2011,956,6.6,2.35
-Phil Lord,375,97,839,17000,21 Jump Street ,408302,narcotics|parody|police|remake|undercover cop,USA,2012,971,7.2,2.35
-Roger Michell,150,50,427,8000,Notting Hill ,203269,actress|bookstore|friend|kiss|love,UK,1999,437,7.0,2.35
-Peter Lord,187,91,206,579,Chicken Run ,140499,chicken|escape|farm|freedom|rooster,UK,2000,530,7.0,1.85
-John Hamburg,108,29,650,22000,Along Came Polly ,106909,bride|friend|honeymoon|insurance|insurance company,USA,2004,923,5.9,1.85
-Reginald Hudlin,21,71,547,723,Boomerang ,20183,advertising|battle of the sexes|dating|one word title|womanizer,USA,1992,558,5.4,1.85
-Paul Feig,270,176,749,975,The Heat ,133177,drug lord|fbi|fbi agent|hospital|shot in the crotch,USA,2013,815,6.6,2.35
-Joseph L. Mankiewicz,72,311,595,940,Cleopatra ,21554,cleopatra|egypt|epic|queen|roman empire,UK,1963,726,7.0,2.2
-Frank Coraci,154,153,491,4000,Here Comes the Boom ,74169,claim in title|high school|mixed martial arts|ultimate fighting championship|underdog,USA,2012,828,6.5,1.85
-Carl Franklin,114,73,505,11000,High Crimes ,30077,defense lawyer|lawyer|marine|murder|villager,USA,2002,3000,6.3,2.35
-Barbra Streisand,27,0,292,12000,The Mirror Has Two Faces ,11453,columbia university|lecture|marriage|professor|sex,USA,1996,592,6.5,1.85
-Mark Pellington,166,89,395,650,The Mothman Prophecies ,63677,car accident|death of wife|mothman|point pleasant west virginia|urban legend,USA,2002,537,6.5,2.35
-Larry Charles,288,119,412,468,Brüno ,119622,austrian|fame|fashion|gay lead character|mockumentary,USA,2009,442,5.8,1.85
-John Glen,117,46,275,683,Licence to Kill ,74009,drug cartel|drug lord|james bond 007|personal vendetta|vengeance,UK,1989,349,6.6,2.35
-Catherine Hardwicke,291,308,913,10000,Red Riding Hood ,91151,death|forest|love|werewolf|werewolf bite,USA,2011,2000,5.4,2.35
-John Herzfeld,151,17,808,22000,15 Minutes ,42547,criminal|detective|fire|homicide|media,USA,2001,9000,6.1,2.35
-Annabel Jankel,36,5,687,5000,Super Mario Bros. ,38203,based on video game|dinosaur|king|mario|plumber,UK,1993,922,4.0,1.85
-Andrew Niccol,168,487,16,12000,Lord of War ,248123,1980s|arms dealer|immorality|ukrainian|warlord,USA,2005,43,7.6,2.35
-Yimou Zhang,283,611,576,5000,Hero ,149414,china|flying|king|palace|sword,China,2002,643,7.9,2.35
-Julie Anne Robinson,127,30,497,922,One for the Money ,34203,bail bond|bounty hunter|jeans|shot in the butt|title directed by female,USA,2012,786,5.3,2.35
-Evan Goldberg,293,133,365,11000,The Interview ,247020,assassination attempt|communist dictatorship|dictator|exploding helicopter|finger bitten off,USA,2014,392,6.6,2.35
-Sngmoo Lee,95,19,433,624,The Warrior's Way ,22309,bullet time|explosion|knife throwing|throwing a knife|violence,New Zealand,2010,489,6.3,2.35
-,4,,253,870,McHale's Navy             ,1558,american soldier|naval uniform|navy|patrol boat|uniform,USA,,284,7.5,4.0
-Jean-Pierre Jeunet,213,0,52,1000,Micmacs ,24657,bullet|contortionist|gag humor|human cannonball|revenge,France,2009,172,7.2,2.35
-Curtis Hanson,119,161,196,1000,8 Mile ,187181,competition|contest|friend|self expression|white rapper,USA,2002,418,7.0,2.35
-Jamel Debbouze,9,326,6,326,Animal Kingdom: Let's go Ape ,590,ape|computer animation|evolution|first person title|reference to louis de funes,France,2015,152,4.9,
-Brian Helgeland,167,241,996,13000,A Knight's Tale ,137003,chaucer|jousting|knight|medieval times|tournament,USA,2001,3000,6.9,2.35
-Gordon Chan,98,4,96,687,The Medallion ,29861,hong kong|interpol|medallion|ship|tough cop,Hong Kong,2003,312,5.2,2.35
-M. Night Shyamalan,234,0,766,13000,The Sixth Sense ,704766,able to see the dead|ghost|plot twist|psychic|surprise ending,USA,1999,3000,8.1,1.85
-Asger Leth,258,20,54,107,Man on a Ledge ,125198,detective|diamond|hotel|police|rooftop,USA,2012,81,6.6,2.35
-David Frankel,108,64,296,734,The Big Year ,34809,alaska|birding|competition|migration|storm,USA,2011,574,6.2,2.35
-John G. Avildsen,81,80,225,668,The Karate Kid ,126907,apartment|bully|fight|karate|master,USA,1984,641,7.2,1.85
-David O. Russell,538,737,14000,34000,American Hustle ,358416,based on true story|con artist|drunk wife|fbi investigation|scam,USA,2013,23000,7.3,2.35
-Anne Fletcher,224,98,723,16000,The Proposal ,227824,alaska|deportation|father son relationship|male objectification|sitka alaska,USA,2009,896,6.7,2.35
-Bruce Beresford,129,78,298,984,Double Jeopardy ,56646,blood|murder|sex scene|wrongful arrest|wrongful conviction,USA,1999,489,6.4,2.35
-Robert Zemeckis,125,0,690,1000,Back to the Future Part II ,340085,alternate timeline|same actor playing two characters simultaneously on screen|second part|year 2015|younger version of character,USA,1989,869,7.8,1.85
-Luc Besson,433,0,903,19000,Lucy ,327367,brain capacity|drugs|fictional drug|one woman army|tough girl,France,2014,11000,6.4,2.35
-Sam Taylor-Johnson,362,456,716,1000,Fifty Shades of Grey ,220020,female frontal nudity|female nudity|perversion|sex scene|spanking,USA,2015,935,4.1,2.35
-Robert Rodriguez,93,0,2000,13000,Spy Kids 3-D: Game Over ,40227,mission|spy|surfing|trapped|virtual reality,USA,2003,4000,4.1,1.85
-Joel Schumacher,71,541,1000,18000,A Time to Kill ,99558,african american|court|law|mississippi|trial,USA,1996,11000,7.4,2.35
-Shawn Levy,104,189,597,3000,Cheaper by the Dozen ,75152,9 year old|house|illinois|new job|vomiting,USA,2003,2000,5.8,1.85
-Peter Berg,319,532,127,480,Lone Survivor ,203963,courage|navy seal|outnumbered|shot multiple times|survival,USA,2013,449,7.6,2.35
-Penny Marshall,41,545,251,15000,A League of Their Own ,71754,baseball|friend|oregon|rivalry|softball,USA,1992,923,7.2,2.35
-James Wan,300,0,336,1000,The Conjuring 2 ,64989,based on supposedly true story|house|paranormal investigating|psychic|second part,USA,2016,575,7.8,2.35
-David Fincher,556,21000,81,10000,The Social Network ,479453,competitiveness|creator|entrepreneur|facebook|intellectual property,USA,2010,349,7.7,2.35
-Ken Kwapis,161,42,49,97,He's Just Not That Into You ,132048,advertising|bar|dating|lingerie slip|six word title,USA,2009,50,6.4,2.35
-David Zucker,151,119,807,2000,Scary Movie 4 ,93748,female nudity|male nudity|parody|reference to myspace|sequel,USA,2006,869,5.1,1.85
-Wes Craven,212,0,71,287,Scream 3 ,98535,death|ghostface|murder|scream|survivor,USA,2000,157,5.5,2.35
-Robert Zemeckis,111,0,690,1000,Back to the Future Part III ,283480,band|dog|letter|time machine|tombstone,USA,1990,869,7.4,1.37
-Etan Cohen,173,164,723,8000,Get Hard ,85629,camera focus on female butt|gay bar|millionaire|singing in a car|two word title,USA,2015,2000,6.0,1.85
-Francis Ford Coppola,181,0,10000,18000,Bram Stoker's Dracula ,143835,dracula|horror movie remake|maze|monster sex|vampire,USA,1992,12000,7.5,1.85
-Nora Ephron,252,0,923,11000,Julie & Julia ,79264,american|blog|book|cook|cooking,USA,2009,935,7.0,1.85
-Brian Helgeland,216,241,898,11000,42 ,66511,baseball|baseball player|brooklyn dodgers|major league baseball|racism,USA,2013,3000,7.5,2.35
-Anthony Minghella,203,333,1000,22000,The Talented Mr. Ripley ,137891,1950s|italy|mistaken identity|nudity|sociopath,USA,1999,13000,7.3,1.85
-Bobby Farrelly,218,101,839,13000,Dumb and Dumber To ,97045,adoption|highway travel|road trip|sequel|stupidity,USA,2014,899,5.7,1.85
-Frank Marshall,118,155,249,23000,Eight Below ,48806,antarctica|dog|siberian husky|sled dog|survival,USA,2006,984,7.3,2.35
-Nancy Meyers,241,278,808,22000,The Intern ,130661,reference to ben affleck|reference to brad pitt|reference to george clooney|reference to jack nicholson|website,USA,2015,11000,7.2,1.85
-Tim Story,119,167,655,2000,Ride Along 2 ,28621,computer hacker|crime boss|detective|drugs|wedding,USA,2016,874,5.9,2.35
-Michael Mann,89,0,322,855,The Last of the Mohicans ,113068,18th century|based on novel|colonel|french and indian war|revenge,USA,1992,363,7.8,2.35
-Taylor Hackford,209,138,748,904,Ray ,110394,1950s|1960s|racism|rhythm and blues|singer,USA,2004,876,7.7,1.85
-Frank Miller,374,436,175,3000,Sin City ,656640,anthology|corruption|hearing characters thoughts|neo noir|night,USA,2005,472,8.1,1.85
-Pete Travis,235,38,882,2000,Vantage Point ,127528,explosion|multiple perspectives|president|secret service|shooting,USA,2008,897,6.6,2.35
-John Hamburg,215,29,257,24000,I Love You, Man ,166194,bromance|friend|gay brother|homosexual subtext|wedding,USA,2009,4000,7.1,1.85
-Bobby Farrelly,109,101,398,700,Shallow Hal ,109445,dying|friend|inner beauty|love|self help guru,USA,2001,655,5.9,1.85
-Oliver Stone,125,0,4,433,JFK ,113472,death|gay slur|homosexuality|investigation|president,France,1991,256,8.0,2.35
-John Whitesell,65,14,633,17000,Big Momma's House 2 ,31968,cheerleading|fbi|fbi agent|nanny|undercover,USA,2006,826,4.6,1.85
-Gore Verbinski,125,563,8000,24000,The Mexican ,87351,curse|hostage|mexico|pistol|vomiting,USA,2001,11000,6.1,2.35
-Angelina Jolie Pitt,322,11000,465,769,Unbroken ,103589,emaciation|male nudity|plane crash|prisoner of war|torture,USA,2014,698,7.2,2.35
-Burr Steers,191,23,651,2000,17 Again ,146899,adult as child|father son relationship|high school student|janitor|school,USA,2009,2000,6.4,2.35
-Nick Cassavetes,191,415,119,982,The Other Woman ,104481,beach house|blonde bombshell|cheating husband|revenge|wife meets mistress,USA,2014,971,6.0,2.35
-David R. Ellis,221,160,748,164000,The Final Destination ,75345,attempted suicide|car crash|collapsing scaffold|overflowing bathtub|tooth knocked out,USA,2009,137000,5.2,2.35
-Steven Spielberg,459,14000,423,15000,Bridge of Spies ,178118,cia|cold war|lawyer|negotiation|spy,USA,2015,535,7.6,2.35
-John Moore,131,212,389,578,Behind Enemy Lines ,86902,battle|massacre|navigator|navy|rescue,USA,2001,563,6.4,2.35
-Nicholas Stoller,222,89,177,836,Get Him to the Greek ,147317,concert|drugs|recession|record company|rock star,USA,2010,719,6.4,1.85
-Peter Chelsom,118,23,418,1000,Shall We Dance ,35508,dance|dance competition|dance lesson|love|teacher,USA,2004,593,6.1,1.85
-Joe Dante,100,287,823,4000,Small Soldiers ,77415,action figure|battle|computer|military|toy,USA,1998,835,6.1,2.35
-Mark A.Z. Dippé,70,20,968,2000,Spawn ,52805,based on comic|based on comic book|dark hero|image comics|superhero,USA,1997,2000,5.2,1.85
-Kevin Reynolds,138,58,720,15000,The Count of Monte Cristo ,104991,count|escape|island|revenge|sailor,UK,2002,1000,7.7,1.85
-Brad Furman,274,65,638,11000,The Lincoln Lawyer ,173848,defense attorney|defense lawyer|lawyer|plot twist|prostitute,USA,2011,980,7.3,2.35
-Jaume Collet-Serra,349,174,767,14000,Unknown ,210542,agriculture|airport|amnesia|nurse|scientist,UK,2011,903,6.9,2.35
-Christopher Nolan,341,22000,19000,23000,The Prestige ,844052,illusion|magician|obsession|rivalry|secret,USA,2006,20000,8.5,2.35
-Sean Anders,196,51,465,18000,Horrible Bosses 2 ,114294,kidnapping|reference to franz beckenbauer|scene during end credits|second part|singing in a car,USA,2014,11000,6.3,2.35
-Cal Brunker,83,7,91,3000,Escape from Planet Earth ,20615,alien|cult film|mission control|product placement|rescue,USA,2013,190,5.9,2.35
-Mel Gibson,283,0,19,708,Apocalypto ,236000,jaguar|mayan|solar eclipse|tribe|village,USA,2006,78,7.8,1.85
-John Glen,105,46,162,387,The Living Daylights ,69457,british agent|defection|escape|kgb|soviet general,UK,1987,244,6.7,2.35
-Nimród Antal,351,190,520,2000,Predators ,171418,kicked in the face|martial arts|punched in the face|strong female character|woman punching a man,USA,2010,1000,6.4,2.35
-Ivan Reitman,16,425,204,954,Legal Eagles ,7900,judicial|judiciary|lawyer|murder|painting,USA,1986,568,5.9,2.35
-David Koepp,195,192,501,40000,Secret Window ,147504,adultery|extramarital affair|infidelity|unfaithfulness|writer,USA,2004,534,6.6,2.35
-Alejandro Agresti,175,18,211,18000,The Lake House ,114321,house|lake|letter|love across time|parallel time,USA,2006,426,6.8,2.35
-Iain Softley,193,34,280,545,The Skeleton Key ,87447,attic|bound and gagged|hoodoo|secret|southern gothic,USA,2005,351,6.5,2.35
-Peter Hedges,169,54,988,3000,The Odd Life of Timothy Green ,37398,dodgeball|portrait|soccer|soccer game|young love,USA,2012,2000,6.6,1.85
-Paul Weiland,128,10,681,1000,Made of Honor ,54421,friend|love|maid|maid of honor|marriage,USA,2008,689,5.8,2.35
-Clint Eastwood,249,16000,235,880,Jersey Boys ,25465,band|music group|musical quartet|singer|song,USA,2014,413,6.9,2.35
-Francis Ford Coppola,91,0,913,13000,The Rainmaker ,46221,courtroom|domestic violence|insurance company|lawyer|underdog,USA,1997,936,7.1,2.35
-Mathieu Kassovitz,207,326,416,21000,Gothika ,89557,memory|murder|patient|psychiatrist|the devil,USA,2003,534,5.8,1.85
-Steven Spielberg,77,14000,11000,12000,Amistad ,56509,courtroom|mutiny|ship|slave ship|slave trade,USA,1997,11000,7.2,1.85
-John McTiernan,25,323,0,472,Medicine Man ,17443,cancer|environment|gas chromatograph|jungle|nature,USA,1992,47,6.0,2.35
-Colin Strause,211,25,473,1000,Aliens vs. Predator: Requiem ,92789,alien|escape|hunting|hybrid|predator,USA,2007,741,4.7,2.35
-Donald Petrie,19,80,287,3000,Ri¢hie Ri¢h ,49612,attempted murder|based on comic book|escape from prison|lost at sea|wealth,USA,1994,450,5.2,1.85
-Joan Chen,101,643,586,24000,Autumn in New York ,20201,may december romance|new york|new york city|rockefeller center|title directed by female,USA,2000,1000,5.5,1.85
-Marc Lawrence,175,30,664,799,Music and Lyrics ,81334,love|lyricist|singer|singing|song,USA,2007,690,6.5,1.85
-Greg Mottola,342,99,57,176,Paul ,192462,alien|geek|nerd|road trip|ufo,USA,2011,61,7.0,2.35
-Anne Fletcher,147,98,78,405,The Guilt Trip ,30394,cross country|love|mother son relationship|on the road|trip,USA,2012,358,5.8,2.35
-Wes Craven,420,0,687,2000,Scream 4 ,104119,author|book|deputy|murder|sheriff,USA,2011,741,6.2,2.35
-Joel Schumacher,138,541,173,12000,8MM ,104564,investigation|obsession|private eye|private investigator|snuff film,Germany,1999,638,6.5,2.35
-Oliver Stone,82,0,552,720,The Doors ,68159,death|paris france|rock band|singer|the doors,USA,1991,576,7.2,2.35
-Jake Kasdan,201,52,214,683,Sex Tape ,84382,sex in a car|sex video|sexual desire|sexuality|undressing,USA,2014,392,5.1,1.85
-Diane Keaton,82,0,235,374,Hanging Up ,10132,actress|clown costume|magazine|party planner|soap opera actress,Germany,2000,258,4.7,1.85
-Steven Quale,277,77,495,703,Final Destination 5 ,83788,blood splatter|death|eyeball run over by car|latex gloves|suspension bridge,USA,2011,682,5.9,2.35
-Kelly Makin,90,6,584,711,Mickey Blue Eyes ,29968,auctioneer|fbi|mafia|mobster|painting,UK,1999,683,5.8,1.85
-Mimi Leder,157,75,754,18000,Pay It Forward ,95860,alcoholism|boy|good deed|protective male|teacher,USA,2000,3000,7.2,1.85
-Bobby Farrelly,124,101,223,787,Fever Pitch ,36223,baltimore orioles|boston red sox|promotion|ups|world series,USA,2005,299,6.2,2.35
-,3,,12,51,Arthur             ,8495,based on children's book|best friend|character name in title|friend|one word title,Canada,,21,7.4,1.33
-Steven Brill,146,65,490,1000,Drillbit Taylor ,50199,bodyguard|bully|generation y|high school|nerd,USA,2008,613,5.7,2.35
-Seth MacFarlane,303,3000,3000,14000,A Million Ways to Die in the West ,136093,dancing sheep|fetish|musical scene|racial humor|snake poison,USA,2014,9000,6.1,2.35
-Russell Mulcahy,70,85,510,924,The Shadow ,18723,1930s|bomb|city|invisibility|the shadow,USA,1994,595,6.0,1.85
-Stephen Daldry,283,335,64,15000,Extremely Loud & Incredibly Close ,81298,fear|mourning|mute|quest|revelation,USA,2011,467,6.9,2.35
-Roger Michell,212,50,58,293,Morning Glory ,58871,job offer|roller coaster|slow motion action scene|slow motion sequence|television,USA,2010,117,6.5,2.35
-Jim Sheridan,98,260,441,1000,Get Rich or Die Tryin' ,35834,male frontal nudity|male pubic hair|prison|pubic hair|violence,USA,2005,1000,5.0,2.35
-Christian Duguay,110,18,249,2000,The Art of War ,25346,blood splatter|fbi|murder|secretary general|united nations,USA,2000,1000,5.7,2.35
-Chris Columbus,146,0,715,3000,Rent ,41685,aids|hiv positive|lawyer|new york city|roommate,USA,2005,1000,7.0,2.35
-Chuck Russell,100,55,294,3000,Bless the Child ,12093,easter|fbi|luminol|nurse|omen,USA,2000,941,5.1,2.35
-Sam Weisman,62,39,210,607,The Out-of-Towners ,10446,job interview|manhattan new york city|new york city|remake|sausage,USA,1999,322,5.3,1.85
-John Frankenheimer,70,287,44,10000,The Island of Dr. Moreau ,26051,animal experimentation|chimera|island|jungle|mutant,USA,1996,368,4.4,2.35
-Peter Hyams,107,0,327,964,The Musketeer ,12856,guard|king|murder|musketeer|swordsman,Germany,2001,931,4.7,2.35
-Justin Chadwick,169,56,19000,20000,The Other Boleyn Girl ,84357,children|court|king|king henry viii|love,UK,2008,19000,6.7,1.85
-Pat O'Connor,94,7,903,18000,Sweet November ,70292,advertising|cancer|dog|san francisco california|terminal illness,USA,2001,9000,6.7,1.85
-Stephen Hopkins,190,81,135,327,The Reaping ,37412,biblical plague|louisiana|missionary|plague|small town,USA,2007,253,5.7,2.35
-Martin Scorsese,112,17000,354,22000,Mean Streets ,67797,bar|catholic guilt|epilepsy|italian american|money,USA,1973,926,7.4,1.85
-Penny Marshall,12,545,353,783,Renaissance Man ,13830,army|basic training|reference to shakespeare's hamlet|teacher|u.s. army,USA,1994,754,6.1,1.85
-Olivier Megaton,201,118,674,877,Colombiana ,76498,female in a shower|female nudity|premarital sex|sex scene|woman wearing a miniskirt,France,2011,738,6.4,2.35
-Frederik Du Chau,34,7,795,10000,The Magic Sword: Quest for Camelot ,11156,camelot|dragon|excalibur|knight|sword,USA,1998,908,6.2,1.85
-Michael Caton-Jones,104,105,616,22000,City by the Sea ,21319,beach|grandson|murder|new york city|police,USA,2002,11000,6.2,2.35
-Irwin Winkler,55,34,685,978,At First Sight ,11232,based on article|blindness|box office flop|massage therapist|regaining sight,USA,1999,886,5.9,1.85
-Joseph Kahn,86,33,1000,1000,Torque ,23747,murder|on the run|security camera|surveillance footage|timebomb,USA,2004,1000,4.0,2.35
-Harold Becker,50,17,889,14000,City Hall ,16741,drug dealer|mayor|new york city|probation|scandal,USA,1996,940,6.2,1.85
-Paul Verhoeven,181,719,683,16000,Showgirls ,49874,cult film|lap dance|lap dancing|stripper|striptease,France,1995,893,4.6,2.35
-Sofia Coppola,260,0,826,4000,Marie Antoinette ,79892,austria|cake|france|queen|versailles,USA,2006,887,6.4,1.85
-Barbet Schroeder,40,58,497,12000,Kiss of Death ,14226,beard|female nudity|police brutality|stripper|woman in lingerie,USA,1995,975,5.9,1.85
-Stephen Kay,102,19,351,13000,Get Carter ,27305,affair|car crash|enforcer|funeral|murder,USA,2000,530,5.1,2.35
-J.A. Bayona,371,171,284,6000,The Impossible ,145270,christmas|resort|thailand|tourist|tsunami,Spain,2012,382,7.6,2.35
-Elaine May,49,124,572,636,Ishtar ,8692,cia|emir|hotel|map|morocco,USA,1987,631,4.2,1.85
-Wes Anderson,335,0,563,13000,Fantastic Mr. Fox ,139114,cider|farm|farmer|fox|tale,USA,2009,11000,7.8,1.85
-Stephen Herek,86,65,311,11000,Life or Something Like It ,19364,football|homeless man|interview|psychic|reporter,USA,2002,944,5.8,2.35
-John Carpenter,40,0,402,782,Memoirs of an Invisible Man ,17365,accident|bar|chase|cia|laboratory,USA,1992,658,5.9,2.35
-Jean-Pierre Jeunet,242,0,54,326,Amélie ,534262,cheerfulness|female protagonist|garden gnome|magical realism|waitress,France,2001,326,8.4,2.35
-Dennie Gordon,70,29,762,976,New York Minute ,17722,dog|new york city|scholarship|senator|twin,USA,2004,799,4.8,1.85
-Charles Shyer,135,14,624,865,Alfie ,43442,best friend|commitment|friend|limousine driver|one night stand,UK,2004,826,6.2,1.85
-Ken Kwapis,125,42,171,875,Big Miracle ,15231,arctic circle|reporter|small town|volunteer|whale,USA,2012,596,6.5,2.35
-Ulu Grosbard,54,22,613,2000,The Deep End of the Ocean ,10413,basketball|boy|italian|kidnapping a child|reunion,USA,1999,642,6.3,1.85
-William Malone,104,37,595,2000,Feardotcom ,17309,bondage gear|bound and gagged|hung by one's wrists|tied to a chair|tied to a table,UK,2002,886,3.3,2.35
-Paul Weitz,157,80,835,14000,Cirque du Freak: The Vampire's Assistant ,35990,antidote|based on young adult novel|flyer|spider|vampire,USA,2009,4000,5.9,2.35
-Paul McGuigan,159,118,287,11000,Victor Frankenstein ,28618,assistant|experiment|frankenstein|medical student|scientist,USA,2015,1000,6.0,2.35
-Danny DeVito,78,0,500,1000,Duplex ,46205,christmas|duplex|television|tenant|writer,USA,2003,627,5.8,1.85
-Malcolm D. Lee,88,92,706,1000,Soul Men ,7794,band|masturbation|reunion|singer|tribute,USA,2008,760,6.5,2.35
-Jerry Jameson,32,5,249,521,Raise the Titanic ,2933,military|mineral|ocean|ship|titanic,UK,1980,372,4.7,2.35
-Mic Rodgers,75,7,485,2000,Universal Soldier: The Return ,24216,combat|computer|general|military|reporter,USA,1999,577,4.1,1.85
-Christian Alvart,219,22,61,12000,Pandorum ,121432,future|mission|space|spaceship|survival,Germany,2009,2000,6.8,2.35
-Gary Fleder,83,39,259,1000,Impostor ,19986,alien|android|bomb|future|weapon,USA,2001,1000,6.2,1.85
-Christian Duguay,53,18,443,3000,Extreme Ops ,4821,commercial|extreme sports|mountain|serbian|terrorist,UK,2002,545,4.5,2.35
-Jean-Marie Poiré,61,8,219,545,Just Visiting ,15130,alternate history|alternate timeline|flatulence|future time travel|time travel comedy,France,2001,248,5.8,2.35
-Danny Boyle,308,0,167,11000,Sunshine ,190132,astronaut|earth|future|icarus|sun,UK,2007,372,7.3,2.35
-Brian Robbins,70,48,39,61,A Thousand Words ,30842,box office flop|buddhist|liar|literary agent|magical tree,USA,2012,46,5.9,2.35
-Marc F. Adler,41,0,379,795,Delgo ,2458,box office flop|computer animation|one word title|surrealism|villainess,USA,2008,754,4.4,1.85
-Pierre Morel,224,180,87,1000,The Gunman ,28429,assassination|blood vomiting|death|hit squad|mercenary,USA,2015,535,5.8,2.35
-Geoffrey Sax,66,13,173,15000,Alex Rider: Operation Stormbreaker ,20201,14 year old|british|gadget|spy|training,Germany,2006,460,5.1,2.35
-D.J. Caruso,253,154,502,884,Disturbia ,186982,binoculars|electronic tag|house arrest|neighbor|watching someone,USA,2007,617,6.9,1.85
-Iain Softley,79,34,472,11000,Hackers ,54650,computer|computer virus|cyberpunk|fight the system|sexual fantasy,USA,1995,922,6.2,2.35
-Richard Shepard,94,47,2,499,The Hunting Party ,22010,bosnia|cia|fox|hunt|war criminal,USA,2007,3,6.9,2.35
-Joel Coen,77,0,385,1000,The Hudsucker Proxy ,65474,art deco|board of directors|industry|mail|stock,UK,1994,970,7.3,1.85
-Peter Ho-Sun Chan,106,31,483,5000,The Warlords ,22897,assassination|blood brother|dynasty|general|stabbing a woman,Hong Kong,2007,755,7.1,2.35
-Sergey Bodrov,30,44,533,1000,Nomad: The Warrior ,3322,1800s|kazakhstan|nomad,France,2005,580,6.0,2.35
-Joon-ho Bong,488,584,398,11000,Snowpiercer ,181472,closed ecological system|perpetual winter|population control|revolt|train,South Korea,2013,557,7.0,1.85
-Bibo Bergeron,63,10,541,1000,A Monster in Paris ,15790,belle epoque|city name in title|monster|paris france,France,2011,559,6.8,1.85
-Jeff Nathanson,42,23,596,2000,The Last Shot ,3789,fbi|movie producer|sting operation|undercover|urination,USA,2004,894,5.7,1.85
-Alex Proyas,118,295,380,720,The Crow ,136580,back from the dead|crime boss|crow|gothic|vigilante,USA,1994,581,7.6,1.85
-S.S. Rajamouli,44,50,72,218,Baahubali: The Beginning ,62756,ancient india|dual role|good versus evil|hindu|kingdom,India,2015,133,8.4,1.85
-Robert Schwentke,214,124,100,152,The Time Traveler's Wife ,114925,jumping on a bed|kissing while having sex|librarian|male objectification|pregnant woman in bathtub,USA,2009,142,7.1,2.35
-Michael Lehmann,110,36,433,747,Because I Said So ,32412,meddling|psychologist|sobbing female|subtitled scene|you can say that again joke,USA,2007,452,5.6,1.85
-Rob Cohen,187,357,4000,23000,The Fast and the Furious ,272227,eighteen wheeler|illegal street racing|truck|trucker|undercover cop,USA,2001,14000,6.7,2.35
-Tim Burton,370,13000,787,940,Frankenweenie ,73886,dog|life|remake by original director|science|stop motion animation,USA,2012,925,7.0,1.85
-Joss Whedon,276,0,279,2000,Serenity ,242599,alliance|cannibalism|future|operative|planet,USA,2005,505,8.0,2.35
-Charles S. Dutton,76,534,511,865,Against the Ropes ,5917,boxer|boxing|boxing arena|boxing manager|directed by co star,USA,2004,534,5.3,2.35
-Richard Lester,95,44,420,593,Superman III ,49934,computer|high school|kryptonite|smallville|villain,UK,1983,542,4.9,2.35
-Peter Segal,211,88,785,22000,Grudge Match ,46480,broke|promoter|retirement|trainer|training,USA,2013,13000,6.4,1.85
-John Woo,160,610,478,755,Red Cliff ,36894,alliance|battle|china|chinese|strategy,China,2008,643,7.4,2.35
-Andy Tennant,97,72,559,982,Sweet Home Alabama ,83786,alabama|divorce|divorce papers|husband wife relationship|new york city,USA,2002,935,6.1,2.35
-Robert Luketic,174,126,954,18000,The Ugly Truth ,163665,call in|chick flick|date|hot air balloon|show producer,USA,2009,957,6.5,2.35
-Jonathan Lynn,23,36,275,592,Sgt. Bilko ,17810,greenland|military|revenge|soldier|u.s. soldier,USA,1996,516,5.7,2.35
-Robert Rodriguez,103,0,1000,12000,Spy Kids 2: Island of Lost Dreams ,44885,island|mad scientist|scientist|sequel|spy,USA,2002,2000,5.1,1.85
-David Carson,98,18,906,1000,Star Trek: Generations ,60504,23rd century|bare chested male bondage|enterprise the starship|rescue|sacrifice,USA,1994,946,6.6,2.35
-Kar-Wai Wong,273,0,7,643,The Grandmaster ,24557,challenge|china|hong kong|martial arts|martial arts master,Hong Kong,2013,290,6.5,2.35
-Francis Lawrence,279,508,1000,21000,Water for Elephants ,95367,circus|circus vargas|elephant|fear|train,USA,2011,11000,6.9,2.35
-,22,,501,23000,3rd Rock from the Sun             ,38383,alien|digit in title|human form|number 3 in title|talking on a rooftop,USA,,967,7.8,1.33
-Yuefeng Song,4,0,46,76,Dragon Nest: Warriors' Dawn ,2169,,China,2014,47,6.4,
-Norman Jewison,65,278,494,18000,The Hurricane ,76016,african american|book|boxer|boxing|murder,USA,1999,584,7.6,1.85
-Michael Apted,98,150,789,970,Enough ,30667,abusive husband|escape|intimate partner homicide|marriage|woman wearing only a man's shirt,USA,2002,919,5.6,2.35
-David Mirkin,116,7,692,931,Heartbreakers ,44168,bank|infidelity|millionaire|money|scam,USA,2001,754,6.2,2.35
-Andy Fickman,76,99,377,598,Paul Blart: Mall Cop 2 ,23473,character name in title|no opening credits|sequel|wilhelm scream,USA,2015,557,4.4,1.85
-Luis Mandoki,106,43,280,308,Angel Eyes ,19686,apartment|fate|gun|love|mysterious man,USA,2001,285,5.6,1.85
-John Pasquin,55,11,466,854,Joe Somebody ,8433,bully|co worker|divorce|fight|karate,USA,2001,543,5.5,1.85
-Roman Polanski,172,2000,541,40000,The Ninth Gate ,137722,bare butt|gnosticism|lucifer|rare book|sex,Spain,1999,903,6.7,2.35
-Michael Apted,47,150,182,24000,Extreme Measures ,14066,cartoon on tv|doctor|emergency room|hospital|nudity,USA,1996,210,6.1,2.35
-Stephen Herek,107,65,108,628,Rock Star ,34592,cover band|fired from a job|heavy metal|rock star|tribute band,USA,2001,316,6.2,2.35
-Lee Daniels,323,304,736,940,Precious ,86955,abuse|african american lesbian|lesbian|lesbian couple|school,USA,2009,906,7.3,1.85
-Ridley Scott,37,0,982,12000,White Squall ,17859,acrophobia|jamaica|male bonding|prostitute|tragedy,USA,1996,1000,6.6,2.35
-John Carpenter,297,0,145,957,The Thing ,258078,alien creature|alien life form|antarctica|isolation|paranoia,USA,1982,163,8.2,2.35
-David Twohy,302,123,904,14000,Riddick ,125305,alien|left for dead|mercenary|survival|vomiting,USA,2013,924,6.4,2.35
-Jeb Stuart,38,11,12,37,Switchback ,9740,deputy|fbi agent|knife held to throat|serial killer|sheriff,USA,1997,12,6.4,2.35
-Steve Miner,31,49,427,1000,Texas Rangers ,4757,army|mexican|orphan|texas|texas ranger,USA,2001,569,5.2,2.35
+movie_imdb_link,num_user_for_reviews,movie_facebook_likes
+http://www.imdb.com/title/tt0323572/?ref_=fn_tt_tt_1,41,419
+http://www.imdb.com/title/tt0202677/?ref_=fn_tt_tt_1,327,1000
+http://www.imdb.com/title/tt0280760/?ref_=fn_tt_tt_1,238,838
+http://www.imdb.com/title/tt0110759/?ref_=fn_tt_tt_1,52,0
+http://www.imdb.com/title/tt0482629/?ref_=fn_tt_tt_1,81,0
+http://www.imdb.com/title/tt0092325/?ref_=fn_tt_tt_1,54,748
+http://www.imdb.com/title/tt0087451/?ref_=fn_tt_tt_1,56,0
+http://www.imdb.com/title/tt0441007/?ref_=fn_tt_tt_1,27,313
+http://www.imdb.com/title/tt0427968/?ref_=fn_tt_tt_1,63,215
+http://www.imdb.com/title/tt1104733/?ref_=fn_tt_tt_1,76,1000
+http://www.imdb.com/title/tt0120879/?ref_=fn_tt_tt_1,314,0
+http://www.imdb.com/title/tt5215952/?ref_=fn_tt_tt_1,24,0
+http://www.imdb.com/title/tt1922612/?ref_=fn_tt_tt_1,21,0
+http://www.imdb.com/title/tt0290879/?ref_=fn_tt_tt_1,47,124
+http://www.imdb.com/title/tt0100827/?ref_=fn_tt_tt_1,45,375
+http://www.imdb.com/title/tt3202120/?ref_=fn_tt_tt_1,1,348
+http://www.imdb.com/title/tt0286261/?ref_=fn_tt_tt_1,94,484
+http://www.imdb.com/title/tt1185344/?ref_=fn_tt_tt_1,14,0
+http://www.imdb.com/title/tt0420835/?ref_=fn_tt_tt_1,6,135
+http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,57,0
+http://www.imdb.com/title/tt0920458/?ref_=fn_tt_tt_1,44,0
+http://www.imdb.com/title/tt0434424/?ref_=fn_tt_tt_1,45,128
+http://www.imdb.com/title/tt1259574/?ref_=fn_tt_tt_1,44,0
+http://www.imdb.com/title/tt1183672/?ref_=fn_tt_tt_1,14,120
+http://www.imdb.com/title/tt1068678/?ref_=fn_tt_tt_1,42,3000
+http://www.imdb.com/title/tt0090555/?ref_=fn_tt_tt_1,93,0
+http://www.imdb.com/title/tt1679332/?ref_=fn_tt_tt_1,64,0
+http://www.imdb.com/title/tt0325596/?ref_=fn_tt_tt_1,57,458
+http://www.imdb.com/title/tt1418646/?ref_=fn_tt_tt_1,39,0
+http://www.imdb.com/title/tt1661420/?ref_=fn_tt_tt_1,33,0
+http://www.imdb.com/title/tt0211933/?ref_=fn_tt_tt_1,196,0
+http://www.imdb.com/title/tt0458290/?ref_=fn_tt_tt_1,73,2000
+http://www.imdb.com/title/tt1641841/?ref_=fn_tt_tt_1,38,0
+http://www.imdb.com/title/tt0093437/?ref_=fn_tt_tt_1,339,19000
+http://www.imdb.com/title/tt1263670/?ref_=fn_tt_tt_1,226,0
+http://www.imdb.com/title/tt0079826/?ref_=fn_tt_tt_1,52,1000
+http://www.imdb.com/title/tt1171222/?ref_=fn_tt_tt_1,41,0
+http://www.imdb.com/title/tt0062711/?ref_=fn_tt_tt_1,186,0
+http://www.imdb.com/title/tt0099816/?ref_=fn_tt_tt_1,14,278
+http://www.imdb.com/title/tt0126886/?ref_=fn_tt_tt_1,441,0
+http://www.imdb.com/title/tt0433416/?ref_=fn_tt_tt_1,117,0
+http://www.imdb.com/title/tt1666801/?ref_=fn_tt_tt_1,116,8000
+http://www.imdb.com/title/tt0118589/?ref_=fn_tt_tt_1,308,0
+http://www.imdb.com/title/tt1457765/?ref_=fn_tt_tt_1,57,0
+http://www.imdb.com/title/tt0387596/?ref_=fn_tt_tt_1,17,387
+http://www.imdb.com/title/tt0810784/?ref_=fn_tt_tt_1,110,0
+http://www.imdb.com/title/tt1188996/?ref_=fn_tt_tt_1,235,27000
+http://www.imdb.com/title/tt0087277/?ref_=fn_tt_tt_1,113,0
+http://www.imdb.com/title/tt2017038/?ref_=fn_tt_tt_1,312,18000
+http://www.imdb.com/title/tt0164085/?ref_=fn_tt_tt_1,140,196
+http://www.imdb.com/title/tt0795434/?ref_=fn_tt_tt_1,47,341
+http://www.imdb.com/title/tt0460989/?ref_=fn_tt_tt_1,222,0
+http://www.imdb.com/title/tt2178470/?ref_=fn_tt_tt_1,102,0
+http://www.imdb.com/title/tt0087538/?ref_=fn_tt_tt_1,235,0
+http://www.imdb.com/title/tt0043949/?ref_=fn_tt_tt_1,90,1000
+http://www.imdb.com/title/tt0963194/?ref_=fn_tt_tt_1,259,8000
+http://www.imdb.com/title/tt0493264/?ref_=fn_tt_tt_1,159,467
+http://www.imdb.com/title/tt0110912/?ref_=fn_tt_tt_1,2195,45000
+http://www.imdb.com/title/tt0079588/?ref_=fn_tt_tt_1,92,0
+http://www.imdb.com/title/tt2872718/?ref_=fn_tt_tt_1,552,65000
+http://www.imdb.com/title/tt0331953/?ref_=fn_tt_tt_1,201,713
+http://www.imdb.com/title/tt0059742/?ref_=fn_tt_tt_1,406,15000
+http://www.imdb.com/title/tt0088161/?ref_=fn_tt_tt_1,99,0
+http://www.imdb.com/title/tt0449059/?ref_=fn_tt_tt_1,889,15000
+http://www.imdb.com/title/tt0092005/?ref_=fn_tt_tt_1,584,24000
+http://www.imdb.com/title/tt0289043/?ref_=fn_tt_tt_1,1441,11000
+http://www.imdb.com/title/tt0365957/?ref_=fn_tt_tt_1,247,0
+http://www.imdb.com/title/tt0079116/?ref_=fn_tt_tt_1,142,0
+http://www.imdb.com/title/tt0297037/?ref_=fn_tt_tt_1,60,0
+http://www.imdb.com/title/tt0117891/?ref_=fn_tt_tt_1,14,559
+http://www.imdb.com/title/tt1306980/?ref_=fn_tt_tt_1,378,40000
+http://www.imdb.com/title/tt0482599/?ref_=fn_tt_tt_1,148,0
+http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1,211,0

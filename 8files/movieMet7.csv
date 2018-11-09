@@ -1,22 +1,350 @@
-director_name,num_critic_for_reviews,duration,actor_2_name,actor_1_facebook_likes,gross,genres,actor_1_name,movie_title,num_voted_users,facenumber_in_poster,num_user_for_reviews,language,country,content_rating,title_year,actor_2_facebook_likes,imdb_score,movie_facebook_likes
-Stephen Herek,86,103,Stockard Channing,11000,14448589,Comedy|Romance,Angelina Jolie Pitt,Life or Something Like It ,19364,2,128,English,USA,PG-13,2002,944,5.8,835
-John Carpenter,40,99,Michael McKean,782,14358033,Comedy|Romance|Sci-Fi|Thriller,Richard Epcar,Memoirs of an Invisible Man ,17365,2,66,English,USA,PG-13,1992,658,5.9,630
-Jean-Pierre Jeunet,242,122,Jamel Debbouze,326,33201661,Comedy|Romance,Mathieu Kassovitz,Amélie ,534262,0,1314,French,France,R,2001,326,8.4,39000
-Dennie Gordon,70,91,Bob Saget,976,14018364,Comedy|Crime|Family|Romance,Mary-Kate Olsen,New York Minute ,17722,1,111,English,USA,PG,2004,799,4.8,849
-Charles Shyer,135,103,Nia Long,865,13395939,Comedy|Drama|Romance,Omar Epps,Alfie ,43442,4,146,English,UK,R,2004,826,6.2,0
-Ken Kwapis,125,107,Tim Blake Nelson,875,20113965,Biography|Drama|Romance,Ted Danson,Big Miracle ,15231,3,66,English,USA,PG,2012,596,6.5,0
-Ulu Grosbard,54,106,Treat Williams,2000,13376506,Drama,Alexa PenaVega,The Deep End of the Ocean ,10413,1,111,English,USA,PG-13,1999,642,6.3,579
-William Malone,104,101,Jeffrey Combs,2000,13208023,Crime|Horror|Thriller,Natascha McElhone,Feardotcom ,17309,1,388,English,UK,R,2002,886,3.3,612
-Paul Weitz,157,109,Salma Hayek,14000,13838130,Action|Adventure|Fantasy|Thriller,Josh Hutcherson,Cirque du Freak: The Vampire's Assistant ,35990,3,157,English,USA,PG-13,2009,4000,5.9,0
-Paul McGuigan,159,110,Spencer Wilding,11000,5773519,Drama|Horror|Sci-Fi|Thriller,Daniel Radcliffe,Victor Frankenstein ,28618,2,91,English,USA,PG-13,2015,1000,6.0,11000
-Danny DeVito,78,89,Amber Valletta,1000,9652000,Comedy,Justin Theroux,Duplex ,46205,0,147,English,USA,PG-13,2003,627,5.8,0
-Malcolm D. Lee,88,100,Sean Hayes,1000,12081447,Comedy|Drama|Music,Bernie Mac,Soul Men ,7794,2,25,English,USA,R,2008,760,6.5,866
-Jerry Jameson,32,119,Jason Robards,521,7000000,Action|Adventure|Drama|Thriller,M. Emmet Walsh,Raise the Titanic ,2933,0,70,English,UK,PG,1980,372,4.7,328
-Mic Rodgers,75,83,Daniel von Bargen,2000,10431220,Action|Sci-Fi,Michael Jai White,Universal Soldier: The Return ,24216,0,162,English,USA,R,1999,577,4.1,401
-Christian Alvart,219,108,Dennis Quaid,12000,10326062,Action|Horror|Mystery|Sci-Fi|Thriller,Norman Reedus,Pandorum ,121432,0,310,English,Germany,R,2009,2000,6.8,10000
-Gary Fleder,83,102,Mekhi Phifer,1000,6114237,Drama|Mystery|Sci-Fi|Thriller,Gary Dourdan,Impostor ,19986,4,207,English,USA,R,2001,1000,6.2,892
-Christian Duguay,53,93,Bridgette Wilson-Sampras,3000,4835968,Action|Adventure|Thriller,Rufus Sewell,Extreme Ops ,4821,0,82,English,UK,PG-13,2002,545,4.5,158
-Jean-Marie Poiré,61,84,Matt Ross,545,4777007,Comedy|Fantasy|Sci-Fi,Bridgette Wilson-Sampras,Just Visiting ,15130,3,98,English,France,PG-13,2001,248,5.8,565
-Danny Boyle,308,107,Benedict Wong,11000,3675072,Adventure|Sci-Fi|Thriller,Chris Evans,Sunshine ,190132,0,801,English,UK,R,2007,372,7.3,15000
-Brian Robbins,70,91,Lou Saliba,61,18438149,Comedy|Drama,John Gatins,A Thousand Words ,30842,8,93,English,USA,PG-13,2012,46,5.9,0
-Marc F. Adler,41,94,Anne Bancroft,795,511920,Adventure|Animation|Comedy|Fantasy|Romance,Eric Idle,Delgo ,2458,1,26,English,USA,PG,2008,754,4.4,211
+actor_3_facebook_likes,actor_1_name,num_user_for_reviews
+681,Robert Downey Jr.,63
+3000,Leonardo DiCaprio,667
+304,Jennifer Ehle,640
+931,Jon Favreau,483
+838,Colin Firth,611
+11000,Bradley Cooper,211
+379,Alice Greczyn,612
+463,Nick Stahl,1448
+634,Ryan Reynolds,149
+21,Matt Price,549
+574,Robert De Niro,533
+75,Kasia Smutniak,211
+343,Jaime King,180
+79,Robert Forster,481
+523,Rob Paulsen,155
+728,Matthew Broderick,110
+12000,Robert Pattinson,919
+21,Kathleen Freeman,945
+593,Matt Damon,407
+720,Alan Rickman,322
+597,Tom Cruise,318
+1000,Mila Kunis,623
+285,Lupe Ontiveros,470
+878,Robin Williams,375
+7000,Harrison Ford,346
+828,Steve Buscemi,309
+417,Joel Courtney,849
+658,Julia Roberts,498
+651,Matthew McConaughey,357
+584,Channing Tatum,322
+4000,Brad Pitt,406
+1000,Bradley Cooper,243
+569,Dwayne Johnson,110
+701,Julia Roberts,252
+322,Will Ferrell,130
+10000,Johnny Depp,779
+277,Denzel Washington,646
+416,Bill Duke,394
+293,Dylan Walsh,147
+1000,Scarlett Johansson,199
+329,Nicolas Cage,791
+11000,Bradley Cooper,242
+874,Naomi Watts,560
+7000,Ryan Gosling,292
+58,Bill Murray,232
+660,Jamie Lee Curtis,209
+11000,Philip Seymour Hoffman,312
+808,Kevin Spacey,130
+660,Liam Neeson,384
+433,Dwayne Johnson,110
+443,Natalie Portman,2042
+55,Fann Wong,192
+132,Bernard Hill,9
+1000,Will Ferrell,118
+541,Scoot McNairy,168
+477,Oliver Platt,248
+467,Jeremy Renner,304
+372,Olivier Martinez,533
+144,Alex Pettyfer,329
+414,Matt Damon,625
+681,Toby Stephens,219
+679,Channing Tatum,102
+935,Jimmy Bennett,306
+826,Clint Eastwood,142
+957,Viggo Mortensen,142
+283,Deborah Kara Unger,506
+368,Radha Mitchell,1740
+585,Keanu Reeves,261
+1000,Alyson Hannigan,181
+294,Kevin Spacey,279
+159,Matt Walsh,210
+174,Louis Lombardi,114
+767,Christopher Lee,148
+3000,Robert Downey Jr.,275
+258,Armin Mueller-Stahl,156
+706,Milla Jovovich,672
+186,Colin Firth,259
+323,Denzel Washington,157
+158,Mike Starr,140
+717,Taylor Lautner,177
+39,Leonardo DiCaprio,548
+434,Amber Valletta,106
+72,Shô Kosugi,194
+432,J.K. Simmons,226
+5,David Jason,33
+210,Demi Moore,118
+1000,Emma Stone,65
+447,Matt Damon,323
+401,Ryan Gosling,302
+282,Muse Watson,84
+163,Li Gong,392
+323,Bruce Willis,150
+201,J.D. Evermore,347
+511,Connie Nielsen,286
+581,Clint Eastwood,260
+294,Naomi Watts,190
+764,Steve Buscemi,227
+398,Grey Damon,22
+521,Vin Diesel,514
+639,Bill Murray,632
+303,Matthew McConaughey,47
+256,Kevin Spacey,420
+730,Christina Milian,94
+655,Liam Neeson,205
+509,Viggo Mortensen,398
+795,Paul Walker,208
+15,Paul Brooke,390
+11000,Natalie Portman,274
+692,Naomi Watts,137
+317,Mia Kirshner,73
+479,Joe Mantegna,78
+2000,Gary Oldman,90
+405,Naomi Watts,127
+600,Julie Benz,149
+897,Ian Ziering,374
+602,Michael Biehn,70
+1000,Gerard Butler,245
+592,Alden Ehrenreich,258
+809,Robin Williams,341
+1000,Milla Jovovich,150
+338,Morgan Freeman,93
+591,Judy Greer,91
+982,Nicolas Cage,211
+77,Chris Klein,179
+848,Jason Statham,294
+184,Tobias Menzies,148
+380,Lauren Holly,113
+830,Philip Seymour Hoffman,209
+215,Michael O'Neill,867
+440,Harrison Ford,477
+0,Kelly Macdonald,226
+502,Hugh Jackman,627
+308,Denzel Washington,397
+237,Kristen Stewart,850
+235,P.J. Soles,32
+393,Judy Greer,560
+194,Tom Hardy,185
+261,Corinna Harney,497
+1000,Kevin Spacey,537
+821,Hugh Jackman,316
+484,Brendan Fraser,254
+886,Nicolas Cage,84
+600,Christian Bale,560
+482,Liam Neeson,323
+23,Don Cheadle,307
+302,Matthew Broderick,345
+59,Nandita Das,55
+327,Charlie Korsmo,164
+835,Mark Margolis,419
+807,Rosie Perez,210
+535,Sylvester Stallone,376
+12,Donatas Banionis,236
+677,Sarah Michelle Gellar,71
+77,Julia Roberts,97
+692,Julia Roberts,169
+135,Julia Roberts,343
+319,Al Pacino,651
+906,LeVar Burton,286
+364,Michael Fassbender,176
+826,Denzel Washington,107
+255,Maura Tierney,243
+345,Joseph Gilgun,29
+522,Laurence Olivier,16
+628,Jonathan Winters,85
+558,Liam Neeson,461
+750,Regina Hall,347
+213,Candice Bergen,370
+311,Josh Hutcherson,212
+995,Anne Hathaway,152
+956,Denzel Washington,89
+551,Bradley Whitford,94
+760,Morgan Freeman,310
+308,Harrison Ford,137
+586,Adam Scott,228
+1000,Hugh Jackman,620
+854,Denzel Washington,633
+436,Alan Rickman,609
+179,Natasha Lyonne,548
+84,Bill Cobbs,252
+595,Sanaa Lathan,582
+730,Channing Tatum,209
+67,Sydney Pollack,350
+514,Frank Welker,271
+560,Adam Garcia,379
+548,Colin Firth,1004
+1000,Kevin Spacey,317
+140,Johnny Depp,541
+20,Sylvester Stallone,116
+808,Don Johnson,73
+559,Lucille Ball,61
+3000,Josh Hutcherson,118
+651,Zooey Deschanel,1053
+631,Dania Ramirez,91
+443,Milla Jovovich,348
+734,Bella Thorne,184
+501,LL Cool J,116
+132,Meryl Streep,69
+563,Steve Coogan,47
+404,Demián Bichir,269
+167,Richard Burgi,355
+252,Kevin McNally,285
+8000,Nicolas Cage,70
+202,Virginia Madsen,569
+107,Jim Sturgess,524
+10000,Leonardo DiCaprio,414
+795,Bruce Willis,305
+510,Vin Diesel,214
+322,Alexa PenaVega,80
+451,John de Lancie,81
+553,Malese Jow,55
+19,Costas Mandylor,531
+2000,Jon Lovitz,409
+20,Wood Harris,588
+579,Cary-Hiroyuki Tagawa,148
+820,Matt Damon,183
+805,Anthony Hopkins,161
+501,Jim Belushi,349
+855,Djimon Hounsou,273
+826,Joseph Gordon-Levitt,182
+10,Li Gong,229
+61,Nicolas Cage,154
+865,Zooey Deschanel,186
+50,Marcela Mar,115
+114,Pierre Perrier,47
+269,Sam Waterston,41
+104,Daniel Kaluuya,142
+500,Jerry Stiller,66
+650,Clea DuVall,695
+812,Harrison Ford,270
+789,Gerard Butler,135
+893,Robert De Niro,259
+668,Sylvester Stallone,217
+643,Joseph Gordon-Levitt,62
+40,Mel Blanc,147
+678,Jeff Bridges,189
+520,Sophia Myles,502
+287,Daniel Radcliffe,91
+225,F. Murray Abraham,297
+664,Steve Buscemi,194
+5000,Morgan Freeman,303
+16,Judith Chapman,403
+957,Tom Cruise,142
+135,Augustus Prew,75
+350,Jason Statham,181
+839,Channing Tatum,345
+427,Julia Roberts,602
+206,Imelda Staunton,358
+650,Philip Seymour Hoffman,268
+547,John Witherspoon,41
+749,Michael Rapaport,380
+595,Martin Landau,192
+491,Salma Hayek,112
+505,Morgan Freeman,175
+292,Jeff Bridges,71
+395,Debra Messing,460
+412,Bono,396
+275,Robert Davi,317
+913,Gary Oldman,283
+808,Robert De Niro,265
+687,Bob Hoskins,290
+16,Nicolas Cage,437
+576,Jet Li,841
+497,Fisher Stevens,169
+365,James Franco,835
+433,Tony Cox,102
+253,Tim Conway,18
+52,Omar Sy,71
+196,Mekhi Phifer,564
+6,Jamel Debbouze,5
+996,Heath Ledger,658
+96,Julian Sands,132
+766,Bruce Willis,2073
+54,Robert Clohessy,153
+296,Joel McHale,125
+225,Martin Kove,235
+14000,Jennifer Lawrence,751
+723,Ryan Reynolds,273
+298,Bruce Greenwood,336
+690,Lea Thompson,327
+903,Scarlett Johansson,918
+716,Jennifer Ehle,1360
+2000,Sylvester Stallone,188
+1000,Kevin Spacey,236
+597,Tom Welling,288
+127,Jerry Ferrara,420
+251,Tom Hanks,166
+336,Javier Botet,279
+81,Andrew Garfield,696
+49,Carmen Perez,203
+807,Beau Mirchoff,410
+71,Kelly Rutherford,734
+690,Lea Thompson,263
+723,Will Ferrell,144
+10000,Keanu Reeves,654
+923,Meryl Streep,277
+898,Harrison Ford,200
+1000,Philip Seymour Hoffman,696
+839,Bill Murray,285
+249,Paul Walker,263
+808,Robert De Niro,304
+655,Olivia Munn,58
+322,Wes Studi,382
+748,Bokeem Woodbine,433
+175,Rosario Dawson,1732
+882,Dennis Quaid,422
+257,J.K. Simmons,215
+398,Jason Alexander,426
+4,Sally Kirkland,442
+633,Chloë Grace Moretz,82
+8000,J.K. Simmons,344
+465,Finn Wittrock,351
+651,Matthew Perry,185
+119,Don Johnson,189
+748,Krista Allen,290
+423,Tom Hanks,355
+389,Joaquim de Almeida,411
+177,Pink,197
+418,Lisa Ann Walter,211
+823,Kirsten Dunst,139
+968,Michael Jai White,209
+720,Henry Cavill,544
+638,Matthew McConaughey,203
+767,Liam Neeson,332
+19000,Christian Bale,1100
+465,Kevin Spacey,187
+91,Brendan Fraser,44
+19,Rudy Youngblood,1043
+162,Joe Don Baker,271
+520,Topher Grace,619
+204,Brian Dennehy,34
+501,Johnny Depp,531
+211,Keanu Reeves,548
+280,Gena Rowlands,371
+988,Jennifer Garner,110
+681,Busy Philipps,101
+235,Johnny Cannizzaro,190
+913,Matt Damon,141
+416,Robert Downey Jr.,376
+11000,Anthony Hopkins,227
+0,Lorraine Bracco,56
+473,Sam Trammell,998
+287,Macaulay Culkin,39
+586,J.K. Simmons,180
+664,Brad Garrett,291
+57,Bobby Lee,334
+78,Miriam Margolyes,103
+687,Alison Brie,518
+173,Nicolas Cage,587
+552,Michael Wincott,209

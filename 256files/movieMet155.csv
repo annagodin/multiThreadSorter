@@ -1,162 +1,406 @@
-actor_2_name,cast_total_facebook_likes,country,title_year,imdb_score
-Marie Avgeropoulos,4072,Canada,2009,5.3
-Ari Graynor,16004,USA,2009,6.5
-Richard Farnsworth,927,USA,1981,5.0
-Jamie Lee Curtis,14995,USA,2001,6.1
-Dennis Franz,1067,USA,1981,7.4
-Paul Freeman,676,USA,2013,4.4
-Kate Burton,1466,USA,1997,7.5
-Annie Parisse,1673,USA,2014,5.7
-Shelley Long,2368,USA,1989,5.5
-Shaun Evans,847,Canada,2004,7.1
-Karen Young,711,USA,1986,5.9
-Ralph Richardson,1263,USA,1981,6.7
-Kerry Condon,1341,Germany,2009,7.0
-Bill Murray,56585,USA,1994,7.9
-Kate Winslet,39307,USA,2013,6.9
-Khulan Chuluun,653,Russia,2007,7.3
-Gerard Butler,46944,UK,2008,7.3
-Michael Beck,1356,USA,1982,3.5
-Brian Blessed,1645,UK,1996,7.8
-Suzie Steen,1598,Australia,2009,7.4
-Sam Shepard,5671,Greece,2016,6.7
-Stockard Channing,14843,USA,2003,6.4
-Colin Firth,39463,Australia,2013,7.1
-Dylan Walsh,1906,USA,,6.7
-Burghart Klaußner,167,Germany,2009,7.8
-Anna Harr,1498,USA,2016,4.0
-Randy Quaid,2319,USA,1986,5.9
-Meat Loaf,4094,USA,2002,7.2
-Mackenzie Gray,1083,USA,2013,7.2
-Brad Renfro,2215,Germany,2008,5.1
-Nora von Waldstätten,1032,France,,7.7
-Simón Andreu,198,France,2009,5.5
-Joaquim de Almeida,2705,Spain,1999,6.2
-John Amplas,1592,USA,1985,7.2
-Rebecca De Mornay,3212,USA,2016,5.2
-Catherine McCormack,1185,France,2006,6.7
-Landon Liboiron,4142,Canada,2015,6.3
-Brigitte Nielsen,1243,Netherlands,1985,5.0
-Toby Jones,25804,Spain,2012,6.2
-Joe Lo Truglio,17584,USA,2007,7.6
-Keshia Knight Pulliam,3699,USA,2009,4.1
-Jennifer Hale,13545,France,2014,5.3
-Mari Koda,816,USA,2008,6.2
-Chazz Palminteri,14385,USA,2005,6.5
-Sophie Okonedo,4142,UK,2004,8.1
-Dougray Scott,2124,France,2007,6.3
-Mary J. Blige,1373,USA,2013,4.4
-50 Cent,16735,USA,2014,4.6
-Shawn Andrews,245,USA,2002,6.0
-Elaine Cassidy,956,USA,2001,7.6
-Carrie Henn,4228,USA,1986,8.4
-Rex Harrison,1164,USA,1964,7.9
-Sarah Michelle Gellar,50284,USA,1997,5.6
-Damon Wayans Jr.,3627,USA,2014,6.5
-Patrick Gallagher,2170,USA,2004,7.5
-Owain Yeoman,35345,USA,2006,6.3
-Donald Pleasence,4400,USA,1978,7.9
-Tony Chiu Wai Leung,6229,China,2002,7.9
-Molly Shannon,2164,USA,2003,5.1
-Sanaa Lathan,5306,USA,2013,6.7
-Common,19410,UK,2006,6.7
-Gina Holden,1978,Canada,2010,5.6
-Vinessa Shaw,3294,USA,2002,5.6
-Olivia Wilde,25549,USA,2010,6.8
-Chris Kattan,9271,USA,1998,6.2
-Mary-Kate Olsen,17396,USA,2011,5.6
-Greg Nicotero,4500,USA,2006,6.4
-Jenna Boyd,2713,USA,2003,5.6
-Valente Rodriguez,952,USA,2015,7.4
-Loretta Devine,4797,USA,2010,4.9
-Adam Boyer,1538,USA,2006,6.0
-Hana Mae Lee,12676,USA,2012,7.2
-Brian Dennehy,3344,USA,2001,4.9
-Bridget Fonda,2365,UK,1998,7.5
-Ethan Embry,4060,USA,2002,4.8
-Larry the Cable Guy,2135,USA,2006,3.1
-Kevin Clash,2020,USA,1999,5.8
-Lili Taylor,6317,USA,2009,6.7
-David Niven,1567,USA,1963,6.8
-Elizabeth Blackmore,673,USA,2013,6.5
-Harland Williams,2016,USA,2009,5.9
-Dennis Quaid,5992,USA,2006,5.5
-Margot Kidder,3007,UK,1987,3.6
-Clé Bennett,760,Canada,2007,3.3
-Chazz Palminteri,27381,Germany,2006,7.4
-Jeremy Northam,1727,USA,2004,6.7
-Paul Freeman,805,UK,1986,3.0
-Eddie Marsan,4210,USA,2006,7.6
-Melanie Griffith,1262,USA,1981,6.4
-David Murray,409,Ireland,2003,6.9
-Brady Corbet,14492,France,2014,6.6
-Curtis Armstrong,2340,France,2006,5.5
-Jess Harnell,1364,France,2008,6.6
-Jan-Michael Vincent,1769,USA,1977,5.2
-Rick Gomez,730,USA,2012,4.1
-Jamie Lee Curtis,5433,USA,1991,6.8
-Ty Burrell,25173,USA,2006,6.5
-Eddie Marsan,4210,USA,2006,7.6
-Tamara Tunie,1607,USA,1987,7.4
-Kate Winslet,41059,USA,1995,7.7
-Julie Walters,12554,UK,2007,7.1
-Matt Long,2785,USA,2007,6.3
-Kim Dickens,2282,USA,2003,7.6
-Josh Charles,51609,USA,1989,8.0
-Mike Starr,2985,USA,1994,7.3
-Gretchen Palmer,485,USA,1989,7.6
-James Mason,2330,USA,1982,7.8
-Rachel Blanchard,3889,USA,2000,6.5
-Ron Lester,23369,USA,1999,6.4
-Ed Lauter,4606,France,2011,8.0
-Atticus Shaffer,12183,USA,2009,4.8
-Bill Murray,27911,USA,2012,7.8
-Jordana Brewster,26402,USA,2006,5.9
-Vincent Walsh,824,USA,2016,5.4
-Kenan Thompson,3058,USA,2002,3.3
-Maribel Verdú,1322,Spain,2006,8.2
-Jessika Van,4561,USA,,6.6
-Angus T. Jones,4194,USA,2001,5.4
-Snoop Dogg,3107,USA,2001,6.4
-Danneel Ackles,5349,USA,2011,4.8
-Erik Per Sullivan,2543,USA,2001,5.9
-Alonna Shaw,874,USA,1991,5.5
-Joe Cornish,485,UK,2007,7.9
-Debi Mazar,3485,USA,2008,4.9
-Kevin Dunn,19894,Spain,2008,7.2
-Michael Nyqvist,2762,Sweden,2007,6.6
-Jay Hernandez,18786,USA,2016,6.7
-Amanda Detmer,3451,USA,2000,5.3
-Cole Hauser,2572,USA,2002,7.2
-Amy Sedaris,24805,USA,2009,5.1
-Jamie Lee Curtis,11078,USA,2000,5.6
-Don Pardo,1653,USA,1987,7.6
-Lea Thompson,15044,USA,2014,3.1
-Lena Olin,22088,USA,2010,7.2
-Alexandra Holden,1882,USA,2003,5.7
-Alyson Hannigan,14677,USA,1988,5.2
-Tom Hanks,33865,USA,1993,7.7
-Craig Bierko,2389,Germany,1999,7.0
-Vincent Pastore,3835,USA,2004,3.6
-Karl Malden,1945,USA,1979,4.9
-Marian Seldes,1227,USA,2000,6.0
-Debra Messing,12766,USA,2002,6.6
-Lin Shaye,2518,USA,1999,6.8
-Jon Polito,1852,UK,1986,7.2
-Omar Benson Miller,1889,USA,2007,7.2
-Annabeth Gish,3100,USA,1997,2.8
-Dagmara Dominczyk,11019,USA,2013,6.6
-Natasha Richardson,2096,UK,2005,6.7
-Spencer Wilding,5056,UK,2013,7.0
-Snoop Dogg,3935,USA,2004,4.4
-Kad Merad,329,France,2008,7.1
-Jodie Whittaker,11091,UK,2008,6.2
-Emily Alyn Lind,943,France,2009,7.3
-Justin Kirk,3086,USA,2012,5.1
-Sarah Roemer,4453,USA,2009,8.1
-Tanya van Graan,5273,France,2013,6.7
-Tim Blake Nelson,2896,USA,2014,6.6
-Jenifer Lewis,3104,USA,2002,4.5
-Trond Fausa,537,Norway,,8.1
-Marie-Josée Croze,699,Canada,2002,6.6
-Jake Lloyd,3583,USA,2001,6.5
+director_name,director_facebook_likes,actor_2_name,language,country,budget,movie_facebook_likes
+Norman Jewison,278,Paul Michael Glaser,English,USA,9000000,0
+Terence Young,92,Earl Cameron,English,UK,9000000,0
+Joseph Kahn,33,Shanley Caswell,English,USA,10000000,0
+Ferzan Ozpetek,798,Alessandro Preziosi,Italian,Italy,,0
+F. Gary Gray,473,Jada Pinkett Smith,English,USA,9000000,0
+Malcolm D. Lee,92,Sanaa Lathan,English,USA,9000000,0
+Tom Holland,85,Alex Vincent,English,USA,9000000,0
+Michael Moore,909,Tucker Albrizzi,English,USA,9000000,0
+James DeMonaco,65,Zach Gilford,English,USA,9000000,15000
+Kris Isacsson,0,Lauren German,English,USA,9000000,580
+Danny Leiner,8,Fred Willard,English,USA,9000000,0
+Rod Lurie,37,Gary Oldman,English,USA,20000000,1000
+Ben Younger,46,Nia Long,English,USA,8000000,0
+John Landis,644,Denholm Elliott,English,USA,,0
+Glen Morgan,17,Crystal Lowe,English,USA,9000000,0
+Daniel Taplitz,2,Tate Taylor,English,USA,,266
+Kenneth Branagh,0,Derek Jacobi,English,UK,9000000,0
+Tamara Jenkins,84,David Zayas,English,USA,,0
+Linda Mendoza,17,Freddy Rodríguez,English,USA,,419
+Christopher McQuarrie,188,Nicky Katt,English,USA,8500000,1000
+Burr Steers,23,Rory Culkin,English,USA,9000000,838
+Hart Bochner,157,Matt Ross,English,USA,8000000,0
+Michael O. Sajbel,6,Drew Fuller,English,USA,,0
+,,Katherine Kelly Lang,English,USA,,748
+Stewart Raffill,12,John Carradine,English,USA,9000000,0
+Davis Guggenheim,49,John Doman,English,USA,9000000,313
+Bart Freundlich,38,Garry Shandling,English,USA,9000000,215
+Andrew Fleming,26,Amy Poehler,English,USA,9000000,1000
+Todd Haynes,162,Eddie Izzard,English,UK,,0
+Hong-jin Na,43,Jun Kunimura,Korean,South Korea,,0
+Kevin Tancharoen,64,Heather Morris,English,USA,9000000,0
+Chatrichalerm Yukol,6,Chatchai Plengpanich,Thai,Thailand,400000000,124
+Dario Argento,930,Adrienne Barbeau,English,Italy,9000000,375
+Eric Lavaine,0,Julie Engelbrecht,French,France,,348
+Mike Leigh,608,Ruth Sheen,English,UK,9000000,484
+Marc Forby,3,Will Patton,English,USA,9000000,0
+Peter Cattaneo,11,Vince Colosimo,English,Australia,11400000,135
+Scott Mann,8,Joshua Mikel,English,USA,19000000,0
+Ole Christian Madsen,28,Thure Lindhardt,Danish,Denmark,45000000,0
+Meiert Avis,0,Kip Pardue,English,Germany,9000000,128
+Julian Jarrold,11,Warren Clarke,English,UK,,0
+André Téchiné,25,Ronit Elkabetz,French,France,,120
+Emily Young,6,Erika Christensen,English,USA,9000000,3000
+Peter Faiman,4,Linda Kozlowski,English,Australia,8800000,0
+Martyn Pick,4,Steven Waddington,English,UK,,0
+Roland Suso Richter,3,Sarah Polley,English,UK,8800000,458
+Jeremy Sims,8,Gyton Grantley,English,Australia,9000000,0
+Maïwenn,236,Maïwenn,French,France,,0
+Joby Harold,8,Fisher Stevens,English,USA,8600000,0
+,,James Arnold Taylor,English,USA,,2000
+Ekachai Uekrongtham,3,Mike Dopud,English,Thailand,9000000,0
+Joel Schumacher,541,Jami Gertz,English,USA,,19000
+Scott Cooper,108,Beth Grant,English,USA,7000000,0
+Mark Rydell,43,Frederic Forrest,English,USA,8500000,1000
+David E. Talbert,68,Christina Milian,English,USA,8500000,0
+Roger Vadim,35,David Hemmings,English,France,9000000,0
+Nils Gaup,8,Louisa Milwood-Haigh,English,Norway,60000000,278
+Alexander Payne,729,Chris Klein,English,USA,8000000,0
+Mira Nair,300,Brooke Smith,English,USA,,0
+Ari Sandel,17,Romany Malco,English,USA,8500000,8000
+Vondie Curtis-Hall,170,Max Beesley,English,USA,22000000,0
+Tom Elkins,14,Cicely Tyson,English,USA,9000000,0
+Woo-Suk Kang,0,Sung-kee Ahn,Korean,South Korea,8000000,387
+Jane Campion,319,Paul Schneider,English,UK,8500000,0
+Karan Johar,160,Jimmy Shergill,Hindi,India,12000000,27000
+Herbert Ross,71,Chris Penn,English,USA,8200000,0
+J.C. Chandor,78,,English,USA,9000000,18000
+John Sayles,407,Casey Siemaszko,English,USA,8000000,196
+Vipul Amrutlal Shah,11,Clive Standen,Hindi,India,,341
+Ken Loach,644,Orla Fitzgerald,English,Ireland,,0
+Ayan Mukerji,0,Madhuri Dixit,Hindi,India,,0
+John G. Avildsen,80,William Zabka,English,USA,8000000,0
+Mervyn LeRoy,54,Deborah Kerr,English,USA,7623000,1000
+Darren Lynn Bousman,163,Paris Hilton,English,USA,8500000,8000
+Serdar Akar,11,Bergüzar Korel,Arabic,Turkey,8300000,467
+Quentin Tarantino,16000,Eric Stoltz,English,USA,8000000,45000
+James Frawley,21,Jim Henson,English,UK,,0
+Dan Gilroy,66,Michael Papajohn,English,USA,8500000,65000
+Jay Chandrasekhar,422,Lindsay Price,English,USA,8550000,713
+Robert Wise,338,Angela Cartwright,English,USA,8200000,15000
+Ron Howard,2000,Howard Morris,English,USA,8000000,0
+Jonathan Dayton,36,Steven Christopher Parker,English,USA,8000000,15000
+Rob Reiner,0,Frances Lee McCain,English,USA,8000000,24000
+Danny Boyle,0,Megan Burns,English,UK,8000000,11000
+Chris Stokes,548,Marques Houston,English,USA,8000000,0
+Don Siegel,152,Patrick McGoohan,English,USA,8000000,0
+Rick Famuyiwa,44,Sanaa Lathan,English,USA,8000000,0
+Martin Lawrence,0,Lynn Whitfield,English,USA,8000000,559
+Jonathan Levine,129,Anna Kendrick,English,USA,8000000,40000
+Masayuki Ochiai,5,David Denman,English,USA,8000000,0
+George A. Romero,0,Hal Holbrook,English,USA,8000000,0
+Tom Gormican,19,Lola Glaudini,English,USA,8000000,0
+Ken Shapiro,2,Dabney Coleman,English,USA,8000000,495
+Justin Tipping,2,Natalie Stephany Aguilar,English,USA,,240
+Kenneth Branagh,0,Denzel Washington,English,UK,8000000,0
+Peter R. Hunt,13,George Lazenby,English,UK,7000000,0
+,,Philip Winchester,English,USA,,0
+Wes Craven,0,Heather Langenkamp,English,USA,8000000,0
+John Schultz,13,Mark Webber,English,USA,8000000,0
+Doug Atchison,3,Sean Michael Afable,English,USA,,0
+Tamra Davis,33,Harland Williams,English,USA,8000000,0
+Jonas Elmer,3,Frances Conroy,English,USA,8000000,0
+Stephen Gaghan,79,Amr Waked,English,USA,50000000,0
+Mary Harron,126,Justin Theroux,English,USA,7000000,18000
+Miguel Arteta,44,Zooey Deschanel,English,USA,5000000,938
+Erik Canuel,31,Richard Howland,English,Canada,8000000,758
+Troy Duffy,78,Julie Benz,English,USA,8000000,0
+James Ivory,133,Omar Metwally,English,USA,8300000,638
+Nicole Holofcener,132,Ben Falcone,English,USA,8000000,12000
+Will Gluck,87,Dan Byrd,English,USA,8000000,19000
+Matty Rich,10,Joe Morton,English,USA,,160
+E. Elias Merhige,54,Udo Kier,English,UK,8000000,0
+Joe Nussbaum,18,Thomas McDonell,English,USA,8000000,0
+Matt Reeves,198,Michael Rapaport,English,USA,8000000,125
+Steve Rash,15,Nia Long,English,USA,8000000,77
+Fina Torres,26,John de Lancie,English,USA,8000000,859
+James Ivory,133,Vanessa Redgrave,English,UK,,788
+,,Joseph Gilgun,English,,,18000
+Duke Johnson,26,Tom Noonan,English,USA,8000000,0
+Mike Leigh,608,Imelda Staunton,English,UK,10000000,0
+François Ozon,341,Isabelle Huppert,French,France,8000000,0
+Mark L. Lester,73,Tia Carrere,English,USA,8000000,0
+David Dobkin,71,Vince Vieluf,English,Germany,8000000,515
+Anna Boden,16,Jeremy Davies,English,USA,8000000,20000
+Nigel Cole,13,Robbie Kay,English,UK,7200000,0
+Anand Tucker,14,Jim Broadbent,English,UK,8000000,429
+Steve James,23,Laurel Holloman,English,USA,8000000,0
+Michael Winner,136,Marina Sirtis,English,UK,8000000,79
+Tomm Moore,45,Mick Lally,English,France,6500000,11000
+John Carney,109,Karen Pittman,English,USA,8000000,43000
+David Jacobson,12,Bruce Dern,English,USA,8000000,412
+Michael Corrente,30,Tony Devon,English,USA,8000000,226
+Edward Hall,0,Hayley Atwell,English,UK,,434
+Keith Gordon,200,Robin Wright,English,USA,8000000,494
+David Leland,2,Catherine McCormack,English,UK,,75
+Andrew Currie,8,Henry Czerny,English,Canada,8000000,0
+Andrew Wilson,387,Eddie Griffin,English,USA,8000000,143
+Jonathan Lynn,36,Rupert Everett,English,UK,8000000,0
+Marc Schölermann,3,Larry Drake,English,USA,8000000,3000
+,,Jack O'Connell,English,UK,,0
+Robert Moresco,53,Brad Renfro,English,USA,8000000,294
+Thomas Vinterberg,346,Chris Owen,English,Italy,50000000,532
+Claudia Llosa,43,Zen McGrath,English,Spain,8000000,675
+Katsuhiro Ôtomo,78,Takeshi Kusao,Japanese,Japan,1100000000,0
+John Herzfeld,17,Olivia Wilde,English,USA,22000000,0
+Charles Binamé,2,Roy Dupuis,French,Canada,8000000,520
+Keith Parmer,2,Josh Henderson,English,USA,8000000,438
+Dennie Gordon,29,Ruby Lin,Chinese,China,,81
+Ol Parker,21,Ben Miles,English,UK,7900000,0
+Bruce Beresford,78,Lucy Fry,English,USA,8000000,205
+François Ozon,341,Ludivine Sagnier,English,France,,0
+James Nunn,16,Mark Wingett,English,UK,,0
+David Webb Peoples,73,Joan Chen,English,Australia,10000000,999
+Michael Winnick,155,Helena Mattsson,English,USA,8000000,689
+Bruce Beresford,78,Jessica Tandy,English,USA,7500000,3000
+George Tillman Jr.,88,Mekhi Phifer,English,USA,7500000,508
+Stanley Tong,7,Anita Mui,Cantonese,Hong Kong,7500000,0
+David Oelhoffen,2,Reda Kateb,French,France,7700000,2000
+Jason Reitman,655,Cameron Bright,English,USA,6500000,0
+Eli Roth,0,Lauren German,English,USA,10000000,0
+Lone Scherfig,92,Olivia Williams,English,UK,4500000,12000
+Anand Tucker,14,Bridgette Wilson-Sampras,English,USA,,1000
+Tony Richardson,62,Beau Bridges,English,UK,7500000,345
+Joe Carnahan,248,Chi McBride,English,USA,7500000,1000
+Paul Gross,329,Paul Gross,English,Canada,7500000,0
+Charles Robert Carner,18,Jenny McCarthy,English,USA,7500000,140
+Russell Holt,0,Brenda Strong,English,USA,7500000,31
+Mike Judge,406,Mila Kunis,English,USA,8000000,0
+Larry Charles,119,Cheech Marin,English,USA,,655
+Claude Miller,27,Edouard Baer,French,France,50000000,26
+Michael Winterbottom,187,Om Puri,English,UK,7500000,0
+Sacha Bennett,22,Jenny Agutter,English,UK,7500000,223
+Paul Haggis,549,Loretta Devine,English,Germany,6500000,18000
+Rodrigo García,127,Michael McElhatton,English,UK,8000000,0
+Jeta Amata,20,Nathin Butler,English,Nigeria,7500000,389
+Siddharth Anand,5,Mary Goggin,Hindi,USA,6000000,108
+Vincent Paronnaud,10,Gena Rowlands,French,France,7300000,14000
+Joe Dante,287,Teri Polo,English,USA,12000000,0
+Dennis Gansel,23,Elyas M'Barek,German,Germany,5000000,25000
+Nicolas Winding Refn,0,Bella Heathcote,English,France,7000000,0
+Daniel Barber,12,Jack O'Connell,English,UK,7300000,0
+Sam Raimi,0,James Franco,English,USA,258000000,0
+Robert Marcarelli,0,William Hootkins,English,USA,7500000,129
+Jason Reitman,655,Jennifer Garner,English,USA,7500000,10000
+Ernie Barbarash,249,Aki Aleong,English,Canada,7500000,0
+Guy Hamilton,82,Lois Maxwell,English,UK,7200000,0
+Francis Ford Coppola,0,Marlon Brando,English,USA,6000000,43000
+Adrian Lyne,213,Cynthia Rhodes,English,USA,4000000,0
+Marc Webb,464,Chloë Grace Moretz,English,USA,7500000,40000
+Jane Campion,319,Ian Mune,English,New Zealand,7000000,0
+Steven Soderbergh,0,Alex Pettyfer,English,USA,7000000,54000
+Jonathan Liebesman,474,Emma Caulfield,English,USA,11000000,2000
+Guy Hamilton,82,Geoffrey Holder,English,UK,7000000,0
+Jay Russell,13,Frankie Muniz,English,USA,5000000,0
+Adam Brooks,20,Sakina Jaffrey,English,Germany,,0
+Salim Akil,70,Loretta Devine,English,USA,6600000,0
+Baz Luhrmann,1000,Elizabeth Debicki,English,Australia,105000000,115000
+George Clooney,0,Tate Donovan,English,USA,7500000,0
+Bennett Miller,152,Michael J. Burg,English,Canada,7000000,0
+Robert Rodriguez,0,Steve Buscemi,English,USA,7000000,0
+Michael Winterbottom,187,Sarah Polley,English,UK,20000000,141
+,,Adam Goldberg,English,USA,,61000
+Michael Anderson,23,Jenny Agutter,English,USA,9000000,0
+Guy Hamilton,82,Hervé Villechaize,English,UK,13000000,2000
+Craig R. Baxley,22,Vanity,English,USA,7000000,978
+Neil Marshall,197,Shauna Macdonald,English,UK,3500000,10000
+Don Kempf,0,Michael Jordan,English,USA,,407
+Matt Bettinelli-Olpin,14,Allison Miller,English,USA,7000000,0
+David O. Russell,737,Mary Tyler Moore,English,USA,7000000,824
+Rob Zombie,0,Ken Foree,English,USA,7000000,0
+,,Alyson Hannigan,English,USA,2300000,6000
+Rick Famuyiwa,44,Rick Fox,English,USA,7000000,23000
+Michael Rymer,48,Omar Epps,English,USA,7000000,375
+Sam Mendes,0,Helen McCrory,English,UK,200000000,80000
+Rob Zombie,0,Matthew McGrory,English,USA,7000000,0
+Sharron Miller,0,Elizabeth MacRae,English,USA,350000,44
+Ethan Coen,1000,Fred Melamed,English,USA,7000000,10000
+Aaron Schneider,11,Robert Duvall,English,USA,7500000,0
+Steve Miner,49,Richard E. Grant,English,USA,7000000,0
+Gina Prince-Bythewood,107,Nate Parker,English,USA,7000000,0
+Tom Ford,192,Teddy Sears,English,USA,7000000,16000
+Martin Scorsese,17000,Barbara Hershey,English,USA,7000000,0
+Michael Corrente,30,George Wendt,English,USA,7000000,0
+Gurinder Chadha,98,Martin Henderson,English,UK,7000000,0
+Phillip Noyce,176,David Gulpilil,Aboriginal,Australia,6000000,0
+Don Michael Paul,70,Faizon Love,English,USA,7000000,446
+Tony Maylam,6,Alun Armstrong,English,UK,7000000,0
+,,Xander Berkeley,English,USA,,0
+Mitch Davis,7,Nathaniel Lees,English,USA,7000000,650
+,,Ashley Scott,English,USA,,0
+Yash Chopra,147,Preity Zinta,Hindi,India,7000000,2000
+David Mamet,342,Randy Couture,English,USA,7000000,0
+Jay Duplass,157,Tim Guinee,English,USA,7000000,0
+Kevin Brodie,0,Cheryl Ladd,English,USA,7000000,157
+Paul Schrader,261,Michael McKean,English,USA,7000000,357
+George Hickenlooper,60,Jimmy Fallon,English,USA,7000000,3000
+Lynne Ramsay,159,Siobhan Fallon Hogan,English,UK,7000000,38000
+John Stephenson,0,Hans Matheson,English,UK,,962
+Tim Chambers,2,Marley Shelton,English,USA,7000000,797
+Curtis Hanson,161,Shelley Long,English,Canada,7000000,168
+Rodrigo García,127,Jimmy Smits,English,USA,4825000,0
+Dick Richards,6,Terence Hill,English,UK,9000000,122
+Jean-Marie Poiré,8,Isabelle Nanty,French,France,50000000,0
+Sofia Coppola,0,Chris Pontius,English,USA,7000000,0
+Bob Gosse,10,Susie Abromeit,English,USA,,0
+Alex Zamm,43,Raquel Welch,English,USA,10000000,724
+Spencer Susser,58,Natalie Portman,English,USA,7000000,19000
+Richard Shepard,47,Mark Wingett,English,UK,,0
+Gus Van Sant,835,Casey Affleck,English,USA,3500000,0
+Thaddeus O'Sullivan,5,Luke Newberry,English,UK,7000000,97
+Peter Sollett,6,Josh Charles,English,USA,7000000,0
+Shari Springer Berman,30,Marian Seldes,English,USA,7000000,916
+Aleksey German,23,Yuriy Tsurilo,Russian,Russia,7000000,1000
+Stephen Milburn Anderson,0,Mike Starr,English,USA,7000000,694
+Richard E. Grant,554,Julie Walters,English,UK,7000000,311
+Troy Duffy,78,David Della Rocco,English,Canada,7000000,16000
+David Lam,4,Louis Koo,Cantonese,Hong Kong,7000000,55
+Francis Ford Coppola,0,Bruce Dern,English,USA,7000000,0
+Vladlen Barbe,0,Wendee Lee,Russian,Russia,7000000,453
+Richard Rich,24,Kate Higgins,,USA,7000000,41
+Clint Eastwood,16000,Chris Penn,English,USA,6900000,0
+Robert C. Cooper,49,Christopher Judge,English,USA,,389
+Richard Linklater,0,Adam Goldberg,English,USA,6900000,10000
+Kenny Ortega,197,Corbin Bleu,English,USA,7000000,586
+Kim Nguyen,16,Justin Edward Seale,English,Canada,8700000,187
+Jackie Earle Haley,0,Edi Gathegi,English,USA,7000000,0
+Max Färberböck,4,Johanna Wokalek,German,Germany,15000000,687
+Arie Posin,3,John Heard,English,USA,6800000,1000
+Damian Nieman,0,Jason Cerbone,English,USA,6800000,413
+Mark Tonderai,13,Nolan Gerard Funk,English,Canada,6900000,10000
+Denis Villeneuve,777,Mélissa Désormeaux-Poulin,French,Canada,6800000,37000
+Gabriele Muccino,125,Silvio Muccino,Italian,Italy,5000000,282
+Ian Fitzgibbon,11,Brendan Coyle,English,Ireland,,663
+José Padilha,294,Fernanda Machado,Portuguese,Brazil,4000000,11000
+John R. Leonetti,40,Annabelle Wallis,English,USA,6500000,45000
+Rachel Perkins,3,Magda Szubanski,English,Australia,6500000,479
+John Singleton,309,Lloyd Avery II,English,USA,6000000,0
+Luis Valdez,7,Rosanna DeSoto,English,USA,6500000,0
+Alan Alda,0,Len Cariou,English,USA,,337
+Brian De Palma,0,David Margulies,English,USA,6500000,0
+Stephen Sommers,208,Frances Conroy,English,USA,6500000,391
+Doug Liman,218,Jay Mohr,English,USA,6500000,0
+Nicole Holofcener,132,Marin Hinkle,English,USA,6500000,515
+Robert Wise,338,Paula Kelly,English,USA,6500000,0
+Louis Morneau,38,Bob Gunton,English,USA,6500000,342
+Caroline Link,11,Juliane Köhler,English,Germany,7000000,802
+Steve McQueen,0,Nicole Beharie,English,UK,6500000,23000
+Matthew Vaughn,905,Sally Hawkins,English,UK,4000000,0
+Sterling Van Wagenen,0,Eric Johnson,English,USA,6500000,19
+Zal Batmanglij,129,Julia Ormond,English,UK,6500000,12000
+Michael Mayer,15,Matt Frewer,English,USA,6500000,1000
+Hans Petter Moland,19,Sara-Marie Maltha,English,UK,6500000,260
+Oren Moverman,38,Yaya DaCosta,English,USA,6500000,0
+Ian Sharp,9,Jed Brophy,English,New Zealand,6500000,830
+Anton Corbijn,210,Samantha Morton,English,UK,4500000,13000
+James Cameron,0,Brian Thompson,English,UK,6500000,13000
+Wolfgang Becker,31,Chulpan Khamatova,German,Germany,4800000,11000
+Tom Hooper,0,Mark Bazeley,English,UK,10000000,0
+Dan O'Bannon,228,Clu Gulager,English,USA,4000000,0
+,,Fortunato Cerlino,Italian,Italy,,0
+Kevin Smith,0,Jason Mewes,English,USA,6000000,0
+Randal Kleiser,116,Stockard Channing,English,USA,6000000,13000
+Oliver Stone,0,Tom Berenger,English,UK,6000000,9000
+Michael Moore,909,Stevie Wonder,English,USA,6000000,0
+George Roy Hill,131,Ted Cassidy,English,USA,6000000,0
+Robert Stevenson,55,Glynis Johns,English,USA,6000000,0
+Robert Redford,0,Elizabeth McGovern,English,USA,6000000,0
+Frank Coraci,153,Steve Coogan,English,USA,110000000,0
+Jerome Robbins,34,George Chakiris,English,USA,6000000,0
+Harold Ramis,11000,Rodney Dangerfield,English,USA,6000000,0
+Gary Hardwick,10,Tatyana Ali,English,USA,6000000,478
+Rick Famuyiwa,44,Tamala Jones,English,USA,6000000,990
+Bryan Singer,0,Chazz Palminteri,English,USA,6000000,28000
+Stephen Hopkins,81,Kelly Jo Minter,English,USA,8000000,1000
+Walt Becker,12,Curtis Armstrong,English,Germany,6000000,0
+Darren Aronofsky,0,John D'Leo,English,USA,6000000,10000
+King Vidor,54,Lillian Gish,English,USA,8000000,403
+Christopher Guest,378,Catherine O'Hara,English,USA,6000000,0
+John Carpenter,0,Adrienne Barbeau,English,UK,6000000,0
+Spike Lee,0,Ossie Davis,English,USA,6500000,624
+Fred Savage,0,Brian Doyle-Murray,English,USA,6000000,256
+Sammo Kam-Bo Hung,472,Richard Norton,English,Hong Kong,,355
+Christopher Guest,378,Christopher Guest,English,USA,,0
+Donald Petrie,80,Lili Taylor,English,USA,6000000,0
+,,Tuppence Middleton,English,UK,,11000
+Peter Howitt,29,Kevin McNally,English,UK,9000000,0
+Rusty Cundieff,38,Clarence Williams III,English,USA,6000000,985
+Kevin Macdonald,162,Simon McBurney,English,UK,6000000,0
+Dominique Othenin-Girard,2,Tamara Glynn,English,USA,3000000,926
+Richard Linklater,0,Brandon Smith,English,USA,5000000,15000
+Jean-Jacques Mantello,0,Daryl Hannah,English,UK,6000000,28
+Ed Harris,0,Bud Cort,English,USA,6000000,0
+Risa Bramon Garcia,112,Dave Chappelle,English,USA,6000000,0
+Brian Klugman,49,Bradley Cooper,English,USA,6000000,21000
+Matt Piedmont,4,Adrian Martinez,Spanish,USA,6000000,9000
+Raymond De Felitta,20,Curtiss Cook,English,USA,6000000,0
+John Michael McDonagh,51,Fionnula Flanagan,English,Ireland,6000000,17000
+Deb Hagan,0,Alona Tal,English,USA,6500000,422
+Sofia Coppola,0,Kathleen Turner,English,USA,6000000,0
+Mark Herman,39,Annette Badland,English,UK,,915
+Zach Cregger,138,Windell Middlebrooks,English,USA,6000000,985
+Zach Braff,0,Josh Gad,English,USA,6000000,0
+Mark Tarlov,3,Dylan Baker,English,Germany,6000000,901
+,,Jason Dohring,English,USA,,0
+John Cameron Mitchell,263,Miriam Shor,English,USA,6000000,0
+Sheldon Lettich,23,Ryan Bollman,English,USA,6000000,0
+Jon Knautz,10,Monda Scott,English,USA,,84
+Billy Ray,53,Rosario Dawson,English,USA,6000000,0
+David Atkins,8,Lynne Thigpen,English,USA,6000000,289
+Patrick Stettner,5,Tony Devon,English,USA,,29
+Sam Peckinpah,541,Warren Oates,English,USA,6244087,0
+Jonathan Levine,129,Aaron Yoo,English,USA,6000000,0
+Michael Crichton,735,Michael Elphick,English,UK,6000000,643
+Lynne Ramsay,159,Bryan Dick,English,UK,,605
+Sylvio Tabet,0,Kari Wuhrer,English,USA,6000000,125
+Rick Bieber,11,Kendrick Cross,English,USA,6000000,0
+Claude Chabrol,324,Nathalie Baye,French,France,,52
+Shana Feste,19,Zoë Kravitz,English,USA,6000000,0
+Wayne Wang,61,Russell Wong,English,China,6000000,0
+Joey Lauren Adams,781,Diane Ladd,English,USA,6000000,224
+Peter Cattaneo,11,Olivia Williams,English,UK,6000000,30
+Fred Zinnemann,160,Jane Fonda,English,USA,7840000,733
+S.R. Bindler,0,Scott Glenn,English,USA,6000000,850
+Tony Kaye,194,Pat Buchanan,English,USA,,570
+Greg Marcks,9,Barbara Hershey,English,USA,6000000,0
+Perry Lang,17,Kevin Tighe,English,USA,8600000,176
+Jake Goldberger,2,M. Emmet Walsh,English,USA,,275
+Stefan Ruzowitzky,24,Olivia Wilde,English,USA,12000000,0
+Vic Sarin,24,Aidan Quinn,English,Canada,6000000,1000
+William Kaufman,58,Sean Cook,English,USA,6000000,0
+,,Blake Ritson,English,UK,,0
+David Cronenberg,0,Leslie Carlson,English,Canada,5952000,0
+Cédric Klapisch,82,Cécile De France,French,France,5300000,0
+Kate Barker-Froyland,4,Shawn Parsons,English,USA,6000000,0
+Barbet Schroeder,58,Chris Penn,English,USA,50000000,0
+Martin Koolhoven,12,Tygo Gernandt,Dutch,Netherlands,4000000,0
+Charles Matthau,139,Michael Jai White,English,USA,6000000,0
+John Frankenheimer,287,Paul Scofield,English,France,6700000,0
+Christopher M. Bessette,0,John Billingsley,English,USA,,543
+Prachya Pinkaew,64,Nathan Jones,Thai,Thailand,200000000,0
+Gary Sinyor,0,Frank Finlay,English,UK,,109
+,,Belinda Stewart-Wilson,English,UK,,0
+Gurinder Chadha,98,Parminder Nagra,English,UK,3500159,0
+John Sayles,407,Edie Falco,English,USA,5600000,160
+Preston A. Whitmore II,17,Wayne Brady,English,USA,5600000,244
+Ashish R. Mohan,2,Mithun Chakraborty,Hindi,India,,365
+Jaume Balagueró,57,Pablo Rosso,Spanish,Spain,5600000,4000
+Stewart Raffill,12,Alexis Biesiada,English,USA,,277
+George Roy Hill,131,Robert Shaw,English,USA,5500000,0
+Hugh Hudson,46,Ben Cross,English,UK,5500000,0
+Darren Grant,0,Kimberly Elise,English,USA,5500000,0
+Scott Hicks,96,Armin Mueller-Stahl,English,Australia,5500000,0
+Joseph Gordon-Levitt,23000,Scarlett Johansson,English,USA,3000000,33000
+Clint Eastwood,16000,Richard Bull,English,USA,5500000,0
+Terry Zwigoff,72,Steve Buscemi,English,USA,7000000,5000
+Richard Eyre,14,Jim Broadbent,English,UK,5500000,0
+William Sachs,14,Avery Schreiber,English,USA,,438
+Christophe Barratier,25,François Berléand,French,France,5500000,0
+Émile Gaudreault,9,Luke Kirby,English,Canada,5000000,352
+James Cox,10,Louis Lombardi,English,USA,5000000,1000
+Spike Lee,0,John Savage,English,USA,6500000,0
+James Toback,56,Eric Stoltz,English,USA,5500000,113
+Aki Kaurismäki,592,Kati Outinen,French,Finland,3850000,0
+Gaspar Noé,929,Albert Dupontel,French,France,,13000
+Hitoshi Matsumoto,17,Hitoshi Matsumoto,Japanese,Japan,5500000,543

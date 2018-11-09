@@ -1,182 +1,413 @@
-num_critic_for_reviews,duration,actor_2_name,genres,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,num_user_for_reviews,language,content_rating,movie_facebook_likes
-222,105,Michael Moore,Crime|Documentary|News,2327,Bernie Sanders,0,188,English,R,10000
-27,225,Carroll Baker,Biography|Drama|History,1934,José Ferrer,6,100,English,G,1000
-155,111,Michael Kelly,Crime|Drama|Mystery|Thriller,9941,Joe Cole,0,81,English,PG-13,0
-111,88,Tony Cox,Comedy,2857,Ike Barinholtz,0,359,English,PG-13,0
-107,88,Fred Ward,Action|Crime|Thriller,137712,Lorna Raver,6,110,English,PG-13,0
-34,94,Peter Gallagher,Action|Comedy|Crime|Thriller,15183,Joanne Whalley,1,100,English,PG,0
-151,117,Ari Graynor,Comedy|Romance,15713,Ed Begley Jr.,1,91,English,R,0
-289,95,Vincent Regan,Action|Adventure|Sci-Fi|Thriller,1414,Jacky Ido,2,236,English,PG-13,10000
-76,99,Ariel Gade,Comedy,1189,Sam Lerner,1,176,English,PG-13,713
-150,96,Clifton Collins Jr.,Action|Crime|Sci-Fi|Thriller,30541,David Carradine,0,223,English,R,0
-67,98,Chazz Palminteri,Comedy|Crime,4302,Dianne Wiest,4,86,English,R,979
-36,123,Tiffany Dupont,Biography|Drama|History,908,Nimrat Kaur,0,177,English,PG,0
-149,101,Tzi Ma,Drama|Mystery|Romance|Thriller|War,3431,Holmes Osborne,2,199,English,R,983
-156,102,Hope Davis,Comedy|Drama,13156,Michael Rispoli,1,316,English,R,0
-64,94,Wes Studi,Action|Crime|Drama|Sport,2880,Jon Seda,2,88,English,R,977
-210,102,Dequina Moore,Comedy|Drama|Fantasy|Romance,500,Jordan Carlos,3,147,English,PG-13,0
-113,108,Ashley Scott,Action|Crime|Thriller,2799,Nick Gomez,1,113,English,PG-13,0
-390,116,Dylan Minnette,Drama|Fantasy|Horror|Mystery,20258,Kodi Smit-McPhee,0,366,English,R,25000
-5,93,Dustin Nguyen,Action|Comedy|Family,1151,Don Stark,0,26,English,PG,444
-248,102,Mia Farrow,Comedy,1778,Melonie Diaz,2,235,English,PG-13,0
-137,103,Christopher Guest,Comedy|Drama|Music|War,5637,Sarah Solemani,1,180,English,R,0
-214,115,Norman Reedus,Action|Crime|Drama|Thriller,27214,Clifton Collins Jr.,3,106,English,R,0
-104,96,Lynn Cohen,Comedy,11867,Judy Davis,2,131,English,R,0
-81,98,Oliver Platt,Comedy|Romance,4843,David Ramsey,2,121,English,PG-13,311
-175,101,Omar Sy,Comedy|Drama,16926,Riccardo Scamarcio,1,129,English,R,25000
-20,106,Demi Moore,Comedy|Crime,24887,James Russo,0,42,English,PG-13,855
-69,101,Gaby Hoffmann,Comedy|Musical|Romance,1614,Jeff DeRocker,0,140,English,R,0
-168,87,Ewen Bremner,Comedy,24324,Kris Marshall,0,199,English,R,0
-166,111,Kelly Preston,Action|Crime|Thriller,3309,Edi Gathegi,0,299,English,R,0
-160,99,James Frain,Adventure|Drama,23409,Brendan Sexton III,1,117,English,PG-13,10000
-32,88,Vanessa Angel,Comedy|Family|Sci-Fi,1343,Peter Wingfield,3,129,English,PG,0
-72,83,Susie Essman,Action|Comedy|Crime,1019,Gigi Rice,2,76,English,PG-13,676
-53,91,Will Patton,Action|Comedy|Crime,2700,Cedric the Entertainer,3,26,English,PG-13,233
-76,108,Nia Vardalos,Comedy|Crime|Music,2730,Dash Mihok,3,117,English,PG-13,924
-15,154,Ricardo Montalban,Comedy|Drama|Music|Musical|Romance,2172,Ben Vereen,0,64,English,G,548
-401,148,Katherine Waterston,Comedy|Crime|Drama|Mystery|Romance,707,Serena Scott Thomas,0,242,English,R,18000
-31,77,Kylie Minogue,Adventure|Animation|Comedy|Family|Fantasy,2185,Jon Stewart,0,114,English,G,346
-65,110,Caity Lotz,Drama|Music,3177,Laz Alonso,19,25,English,PG-13,0
-26,42,Eric McCormack,Crime|Drama|Mystery|Thriller,2240,Scott Wolf,1,29,English,TV-14,0
-45,83,Geoffrey Arend,Comedy|Fantasy,2907,Gary Coleman,2,205,English,PG-13,797
-260,107,Demián Bichir,Action|Comedy|Crime|Thriller,2848,Marko Zaror,7,164,English,R,48000
-129,100,Ty Olsson,Drama|Horror|Sci-Fi|Thriller,1267,Jackie Burroughs,0,213,English,PG-13,0
-58,87,Ashley Scott,Adventure|Comedy,4218,Jeff Garlin,4,120,English,R,847
-103,154,Dexter Fletcher,Biography|Comedy|Drama|History|Music|Musical,1690,Lesley Manville,1,202,English,R,608
-45,106,Cary-Hiroyuki Tagawa,Drama|War,5705,Michael Rapaport,0,122,English,PG-13,15000
-345,99,Viggo Mortensen,Biography|Drama|Thriller,23755,Sarah Gadon,3,190,English,R,36000
-232,100,Keanu Reeves,Animation|Drama|Mystery|Sci-Fi|Thriller,39507,Rory Cochrane,0,293,English,R,0
-116,116,Abigail Spencer,Biography|Drama|Sport,21200,Leven Rambin,2,75,English,PG,13000
-148,94,Darren Shahlavi,Horror|Sci-Fi,838,Karin Konoval,0,521,English,R,1000
-79,111,Charlie Saxton,Comedy|Drama|Family|Music|Romance,1573,Ryan Donowho,3,39,English,PG,1000
-167,100,Anne Heche,Drama|Mystery|Romance|Thriller,2295,Danny Huston,1,361,English,R,0
-350,125,Ashley Williams,Action|Crime|Drama|Thriller,3979,Albert Brooks,0,180,English,R,0
-25,114,Michael Greyeyes,Drama|History|Romance|War,3493,Caroline Dhavernas,0,102,English,R,971
-99,119,Bill Lake,Biography|Drama,64,Victoria Learn,0,45,English,PG-13,0
-231,135,Heath Ledger,Biography|Drama|Music,36398,Tyrone Benskin,0,230,English,R,0
-119,93,Bruce Willis,Action|Thriller,30134,Óscar Jaenada,3,113,English,PG-13,0
-182,114,Maximilian Schell,Adventure|Comedy|Drama|Romance,3014,Nora Zehetner,4,105,English,PG-13,0
-245,124,Jennifer Jason Leigh,Comedy|Drama|Romance,24732,Samantha Morton,0,274,English,R,13000
-174,134,Jada Pinkett Smith,Adventure|Animation|Fantasy,2710,Billy Crudup,0,570,Japanese,PG-13,11000
-69,114,Peter Coyote,Comedy|Drama|Mystery|Romance|Thriller|War,1776,Virginie Ledoyen,5,53,French,PG-13,235
-26,124,Randy Jones,Biography|Comedy|Musical,1462,Caitlyn Jenner,0,74,English,PG,1000
-168,104,Noah Taylor,Crime|Drama|Western,2129,Danny Huston,1,232,English,R,0
-27,118,Finn Wittrock,Biography|Drama|Sport,3384,Brent Anderson,4,20,English,PG,0
-28,80,Jane Krakowski,Comedy|Music,2467,Paula Garcés,2,66,English,R,241
-146,107,Emily Watson,Action|Drama|Sci-Fi|Thriller,25088,Sean Pertwee,2,1137,English,R,20000
-67,125,Guang Li,Drama|War,1003,Matthew Walker,4,33,English,R,1000
-93,115,Ellen Burstyn,Crime|Drama|Romance|Thriller,11433,Faye Dunaway,2,138,English,R,401
-28,88,Garrett Clayton,Adventure|Family|Fantasy|Musical,1978,Toni Braxton,0,83,English,G,831
-131,122,Angelina Jolie Pitt,Drama|Romance,22319,Melvil Poupaud,0,61,English,R,0
-105,103,Robin Atkin Downes,Action|Adventure|Animation|Family|Sci-Fi|Thriller,991,Rosalind Ayres,1,79,Japanese,PG-13,973
-21,101,Costas Mandylor,Drama|History|Sport,20354,Jimmy Jean-Louis,0,46,English,PG,445
-140,101,Kirsten Dunst,Crime|Drama|Mystery|Romance|Thriller,39515,Frank Langella,2,67,English,R,0
-9,107,Jason Scott Lee,Action|Adventure|Drama|History|Romance,1592,Sandrine Holt,1,25,English,R,399
-83,86,Yuqi Zhang,Comedy|Family|Sci-Fi,82,Chi Chung Lam,1,66,Cantonese,PG,1000
-8,118,Philippe Nahon,Comedy|Family|Fantasy|Sci-Fi,182,Marie-Anne Chazel,0,16,French,,136
-138,107,Laura Spencer,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,1577,Anita Briem,1,75,English,PG-13,0
-42,100,Richard Schiff,Crime|Drama|Mystery,15612,Mark Webber,3,81,English,R,217
-,30,George Coulouris,Drama|Family,344,Ewen Solon,4,,English,,0
-92,110,Reeve Carney,Comedy|Drama|Fantasy|Romance,3785,Tom Conti,2,36,English,PG-13,0
-140,106,Aaron Ashmore,Crime|Drama|Mystery|Thriller,10982,Julian Richings,1,62,English,R,0
-,7,Traci Dinwiddie,Romance|Short,726,Elea Oberon,0,,English,,30
-29,102,Sammo Kam-Bo Hung,Action|Drama|History|War,1113,Andy On,3,29,Mandarin,R,314
-29,98,Nicholas Lea,Crime|Drama|Thriller,20472,Callum Rennie,1,118,English,R,0
-39,83,Phil LaMarr,Adventure|Animation|Comedy|Family,15680,Noureen DeWulf,0,11,English,G,1000
-2,153,Michael Lieber,Biography|Drama|History,164,Kevin McGowan,0,1,English,,58
-2,98,Maggie Wheeler,Animation,1092,Jacqueline Lovell,4,3,English,PG,70
-,105,Jurnee Smollett-Bell,Action|Biography|Drama|Sport,27425,Edgar Ramírez,0,1,English,R,0
-64,96,Roger Rees,Action|Crime|Thriller,17957,Robert Forster,2,101,English,PG-13,0
-120,105,Radha Mitchell,Crime|Drama|Mystery|Thriller,16355,Jodi Lyn O'Keefe,3,133,English,R,11000
-143,125,Sally Hawkins,Drama|Romance,2608,Alan David,0,220,Mandarin,PG-13,0
-160,184,Alexandra Maria Lara,Action|Biography|Crime|Drama,1601,Martina Gedeck,2,110,German,R,0
-92,236,Michael Spears,Adventure|Drama|Western,2398,Maury Chaykin,1,382,English,PG-13,0
-286,97,John Michael Higgins,Comedy,5547,Phyllis Smith,0,296,English,R,16000
-43,113,Michael O'Neill,Crime|Drama|Mystery|Thriller,15914,Ellen Barkin,1,112,English,R,0
-69,95,Lin Shaye,Comedy|Family|Romance,3092,Julie Gonzalo,2,232,English,PG,0
-242,103,W. Earl Brown,Horror|Mystery,1212,Roger Jackson,0,869,English,R,11000
-149,91,Embeth Davidtz,Horror,3023,F. Murray Abraham,0,478,English,R,0
-253,146,Shelley Duvall,Drama|Horror,2560,Joe Turkel,0,1320,English,R,37000
-198,116,Thomas F. Wilson,Adventure|Comedy|Sci-Fi,3230,J.J. Cohen,0,809,English,PG,39000
-147,93,Peter Gallagher,Horror|Mystery|Thriller,2872,Bridgette Wilson-Sampras,0,536,English,R,0
-36,113,Mary J. Blige,Comedy|Drama,1465,Hope Olaide Wilson,6,59,English,PG-13,1000
-6,90,Erin O'Brien,Action|Drama,2374,Cabrina Collesides,4,6,English,,1000
-181,101,Scott Elrod,Comedy|Drama|Romance,1292,Kelli Barrett,2,120,English,PG-13,0
-97,95,David Agranov,Comedy|Romance,2020,David Moscow,2,205,English,PG-13,0
-167,109,Dominic Cooper,Biography|Drama|Thriller,35561,Ludivine Sagnier,1,125,English,R,14000
-,43,Jenni 'Jwoww' Farley,Comedy|Drama|Reality-TV|Romance,1462,Paul 'Pauly D' DelVecchio,1,,English,TV-14,0
-47,85,Colm Feore,Adventure|Comedy|Drama|Family|Fantasy,2429,Peter Fonda,1,119,English,G,663
-308,101,Glenn Morshower,Horror|Thriller,2609,John Aylward,0,251,English,R,0
-246,125,Ryûnosuke Kamiki,Adventure|Animation|Family|Fantasy,44,Miyu Irino,0,902,Japanese,PG,28000
-23,118,Michael Wong,Action|Crime|Thriller,635,Terence Yin,1,12,Mandarin,,332
-29,132,Anthony Hopkins,Action|Adventure|Drama|History|Romance,28094,Laurence Olivier,2,95,English,PG,1000
-252,131,Sophie Nélisse,Drama|War,1985,Roger Allam,1,236,English,PG-13,53000
-102,129,Michael Cudlitz,Adventure|Comedy|Romance,4324,Alice Greczyn,1,103,English,R,0
-134,100,Kaitlin Olson,Comedy|Romance,4094,Dominique McElligott,2,181,English,PG,13000
-30,172,Mel Ferrer,Drama|History|War,1131,Stephen Boyd,0,91,English,Approved,560
-136,97,Michael Biehn,Comedy|Drama|Romance,5519,Dan Fogler,4,83,English,R,0
-102,121,Rosie Perez,Drama,3260,Dante Brown,2,37,English,PG,0
-10,92,Kyra Nichols,Family|Fantasy|Music,2,Margaret Tracey,0,15,English,G,238
-31,116,Jennifer Jason Leigh,Crime|Drama|Music|Thriller,14579,Miranda Richardson,2,44,English,R,228
-63,110,Sarah Gadon,Drama,8972,Tracy Letts,0,3,Hebrew,R,599
-220,90,Chloë Grace Moretz,Drama|Horror|Mystery|Thriller,120797,Ryan Reynolds,0,518,English,R,0
-241,81,Meryl Streep,Comedy|Drama,25489,Roger Willie,0,710,English,R,0
-252,97,Shawn Roberts,Horror,1876,Pedro Miguel Arce,8,662,English,R,0
-23,107,Angelica Lee,Action,151,Ching Wan Lau,2,4,Chinese,PG-13,124
-156,118,Michael Jeter,Adventure|Comedy|Drama,43105,Ellen Barkin,0,648,English,R,15000
-192,100,Tina Fey,Comedy|Fantasy|Romance,7252,Martin Starr,3,287,English,PG-13,13000
-351,97,Carla Gallo,Comedy,2771,Ike Barinholtz,3,397,English,R,21000
-57,114,Amy Yasbeck,Action|Comedy|Crime|Fantasy,2085,Reg E. Cathey,0,213,English,PG-13,0
-99,130,Jon Lovitz,Comedy|Drama|Family|Fantasy|Romance,28018,John Heard,1,204,English,PG,0
-343,82,Ken Davitian,Comedy,505,Chester,1,1198,English,R,0
-163,96,Raquel Welch,Comedy|Romance,4380,Alanna Ubach,1,548,English,PG-13,0
-110,105,Nichelle Nichols,Action|Adventure|Sci-Fi,14762,Walter Koenig,1,192,English,PG,0
-233,122,Colm Feore,Drama|Horror|Thriller,2759,JR Bourne,0,522,English,PG-13,0
-91,88,Eddie Griffin,Comedy|Romance,2604,Bree Turner,1,202,English,R,0
-169,110,Lea Thompson,Action|Drama|Fantasy|Mystery|Thriller,15044,Quinton Aaron,1,374,English,PG-13,31000
-142,103,Paul Schneider,Comedy|Drama|Romance,1615,Tyrone Giordano,0,475,English,PG-13,0
-50,106,Sean Patrick Thomas,Comedy|Drama,3956,Kenan Thompson,4,69,English,PG-13,265
-195,98,Tony Cox,Comedy|Crime|Drama,3151,Alex Borstein,2,485,English,R,10000
-129,68,Charles Napier,Comedy|Crime,10557,Robert Wagner,2,425,English,PG-13,0
-156,94,Louis Mandylor,Comedy|Family|Romance,2259,Joey Fatone,10,103,English,PG-13,19000
-103,99,Rachael Harris,Comedy|Family,3567,Fran Kranz,2,45,English,PG,0
-217,107,Bill Duke,Action|Horror|Sci-Fi,4223,Carl Weathers,1,629,English,R,13000
-134,180,F. Murray Abraham,Biography|Drama|History|Music,3076,Tom Hulce,0,549,English,R,16000
-146,89,Scott Porter,Horror|Mystery,4867,Collins Pennie,0,260,English,PG-13,1000
-159,97,Amy Poehler,Comedy,5032,Neil Flynn,4,554,English,PG-13,0
-111,113,Lindsay Duncan,Comedy|Drama|Romance,1310,Mario Monicelli,1,317,English,PG-13,0
-187,131,Bob Balaban,Drama|Mystery,3261,Tom Hollander,0,651,English,R,0
-20,44,Melinda Clarke,Comedy|Drama|Romance,2546,Tate Donovan,8,281,English,TV-PG,0
-44,103,Kathleen Turner,Comedy|Drama|Fantasy|Romance,14672,Joan Allen,0,96,English,PG-13,0
-588,119,Naomi Watts,Comedy|Drama|Romance,21668,Merritt Wever,8,1101,English,R,114000
-415,98,Charlie Tahan,Drama,1353,Andrew Dice Clay,1,384,English,PG-13,36000
-279,111,David Alan Basche,Drama|History|Thriller,313,Susan Blommaert,0,828,English,R,0
-97,94,Mekhi Phifer,Drama|Music|Romance,4868,Romeo Miller,2,144,English,PG-13,0
-60,122,Morgan Freeman,Drama|History|War,32930,Matthew Broderick,3,365,English,R,0
-27,81,Barry Bostwick,Action|Comedy,2653,Nicollette Sheridan,2,76,English,PG-13,588
-212,89,Hal Holbrook,Fantasy|Horror,4877,Janet Leigh,0,335,English,R,7000
-110,106,Chris Brochu,Biography|Drama|Family|Sport,5024,Craig T. Nelson,1,114,English,PG,15000
-45,122,Bob Balaban,Comedy|Drama|War,2032,Martin Balsam,0,124,English,R,0
-190,86,Celia Weston,Comedy|Crime|Drama,727,Dan Bakkedahl,1,248,English,R,0
-77,103,Olivia d'Abo,Action|Adventure|Fantasy,2481,Grace Jones,1,109,English,PG,2000
-151,121,Cathy Moriarty,Biography|Drama|Sport,23008,Frank Vincent,1,494,English,R,0
-111,109,Sasha Alexander,Drama|Romance,4947,Frances Conroy,0,77,English,PG-13,0
-64,109,Roger Ashton-Griffiths,Adventure|Fantasy|Mystery|Thriller,605,Freddie Jones,1,86,English,PG-13,0
-134,123,Kay Panabaker,Comedy|Drama|Musical|Romance,5734,Megan Mullally,0,82,English,PG,0
-450,94,Treat Williams,Adventure|Biography|Drama|Thriller,11984,Kate Burton,0,440,English,R,63000
-128,94,Jon Lovitz,Comedy|Crime,23283,Michael Rapaport,0,192,English,PG,812
-68,115,Susan May Pratt,Drama|Music|Romance,1201,Ethan Stiefel,2,210,English,PG-13,0
-97,107,Alex Borstein,Comedy,10691,Timothée Chalamet,13,68,English,PG-13,0
-54,91,Corbin Bleu,Comedy|Crime,18711,Kevin G. Schmidt,0,49,English,PG,591
-99,125,Hayden Christensen,Drama,21622,Kristin Scott Thomas,0,359,English,R,0
-412,122,Michael Fassbender,Biography|Drama,28933,Michael Stuhlbarg,0,307,English,R,23000
-107,102,Marie Avgeropoulos,Comedy|Romance,4072,Shawn Roberts,1,80,English,PG-13,0
-192,90,Ari Graynor,Comedy|Drama|Romance,16004,Fred Willard,2,105,English,R,0
-25,98,Richard Farnsworth,Action|Adventure|Western,927,Michael Horse,0,41,English,PG,346
-104,109,Jamie Lee Curtis,Drama|Thriller,14995,Mark Margolis,0,213,English,R,813
-120,107,Dennis Franz,Mystery|Thriller,1067,John McMartin,0,149,English,R,2000
-146,90,Paul Freeman,Action|Crime|Thriller,676,Bruce Payne,1,109,English,PG-13,4000
-124,112,Kate Burton,Drama,1466,Henry Czerny,0,287,English,R,0
-107,94,Annie Parisse,Comedy|Drama|Romance,1673,Frankie Valli,2,48,English,PG-13,3000
-11,105,Shelley Long,Adventure|Comedy,2368,Kellie Martin,1,35,English,PG,0
-93,104,Shaun Evans,Comedy|Drama|Romance,847,Juliet Stevenson,2,112,English,R,562
+director_name,num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,actor_2_name,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,content_rating,title_year,imdb_score,aspect_ratio,movie_facebook_likes
+Barry Levinson,64,272,124,Roger Ashton-Griffiths,14870,605,1,PG-13,1985,6.8,1.85,0
+Kevin Tancharoen,134,64,637,Kay Panabaker,14062,5734,0,PG,2009,5.0,2.35,0
+Danny Boyle,450,0,223,Treat Williams,279179,11984,0,R,2010,7.6,1.85,63000
+Woody Allen,128,11000,975,Jon Lovitz,31169,23283,0,PG,2000,6.7,1.85,812
+Nicholas Hytner,68,13,111,Susan May Pratt,15817,1201,2,PG-13,2000,6.7,2.35,0
+Jessie Nelson,97,24,85,Alex Borstein,9051,10691,13,PG-13,2015,5.7,2.35,0
+Bart Freundlich,54,38,362,Corbin Bleu,8023,18711,0,PG,2004,5.2,1.85,591
+Irwin Winkler,99,34,1000,Hayden Christensen,39105,21622,0,R,2001,7.5,2.35,0
+Danny Boyle,412,0,816,Michael Fassbender,93548,28933,0,R,2015,7.2,2.35,23000
+Chris Columbus,107,0,529,Marie Avgeropoulos,28209,4072,1,PG-13,2009,5.3,1.85,0
+Miguel Arteta,192,44,729,Ari Graynor,64646,16004,2,R,2009,6.5,1.85,0
+William A. Fraker,25,28,102,Richard Farnsworth,1400,927,0,PG,1981,5.0,2.35,346
+John Boorman,104,128,1000,Jamie Lee Curtis,23728,14995,0,R,2001,6.1,2.35,813
+Brian De Palma,120,0,101,Dennis Franz,27629,1067,0,R,1981,7.4,2.35,2000
+Courtney Solomon,146,31,179,Paul Freeman,19586,676,1,PG-13,2013,4.4,2.35,4000
+Ang Lee,124,0,177,Kate Burton,46396,1466,0,R,1997,7.5,1.85,0
+Rob Reiner,107,0,197,Annie Parisse,8895,1673,2,PG-13,2014,5.7,2.35,3000
+Jeff Kanew,11,6,371,Shelley Long,7470,2368,1,PG,1989,5.5,1.37,0
+István Szabó,93,109,202,Shaun Evans,10680,847,2,R,2004,7.1,1.85,562
+Adrian Lyne,38,213,45,Karen Young,29591,711,0,R,1986,5.9,1.85,0
+Matthew Robbins,60,25,94,Ralph Richardson,10832,1263,0,PG,1981,6.7,2.35,0
+Michael Hoffman,184,97,231,Kerry Condon,15352,1341,2,R,2009,7.0,2.35,0
+Tim Burton,148,13000,940,Bill Murray,142416,56585,1,R,1994,7.9,1.85,0
+Jason Reitman,217,655,405,Kate Winslet,31898,39307,1,PG-13,2013,6.9,2.35,0
+Sergey Bodrov,160,44,9,Khulan Chuluun,37635,653,0,R,2007,7.3,2.35,0
+Guy Ritchie,209,0,1000,Gerard Butler,194489,46944,4,R,2008,7.3,2.35,12000
+Hal Needham,40,379,251,Michael Beck,2541,1356,2,PG,1982,3.5,1.85,0
+Kenneth Branagh,85,0,401,Brian Blessed,30618,1645,0,PG-13,1996,7.8,2.2,0
+Bruce Beresford,83,78,238,Suzie Steen,6091,1598,0,PG,2009,7.4,1.85,0
+Jeff Nichols,263,337,201,Sam Shepard,31359,5671,0,PG-13,2016,6.7,2.35,0
+Woody Allen,128,11000,922,Stockard Channing,25165,14843,2,R,2003,6.4,2.35,827
+Jonathan Teplitzky,186,6,212,Colin Firth,27882,39463,2,R,2013,7.1,2.35,18000
+,14,,405,Dylan Walsh,12854,1906,1,,,6.7,,0
+Michael Haneke,292,0,16,Burghart Klaußner,52958,167,0,R,2009,7.8,1.85,0
+Zack Ward,15,662,161,Anna Harr,436,1498,0,,2016,4.0,,378
+Mike Marvin,70,28,415,Randy Quaid,10082,2319,2,R,1986,5.9,1.85,0
+D.J. Caruso,79,154,576,Meat Loaf,26730,4094,0,R,2002,7.2,1.85,2000
+Nimród Antal,103,190,151,Mackenzie Gray,13359,1083,0,R,2013,7.2,2.35,19000
+Gregor Jordan,97,34,394,Brad Renfro,14324,2215,1,R,2008,5.1,2.35,1000
+,108,,30,Nora von Waldstätten,10111,1032,0,Not Rated,,7.7,2.35,0
+Tran Anh Hung,59,157,32,Simón Andreu,2541,198,0,Not Rated,2009,5.5,2.35,342
+Lance Hool,10,0,353,Joaquim de Almeida,899,2705,2,R,1999,6.2,2.35,271
+George A. Romero,184,0,83,John Amplas,49669,1592,1,Unrated,1985,7.2,1.85,3000
+Chuck Russell,23,55,757,Rebecca De Mornay,4510,3212,1,R,2016,5.2,,0
+Christian Volckman,112,2,69,Catherine McCormack,14325,1185,0,R,2006,6.7,2.35,0
+Jon Cassar,45,78,720,Landon Liboiron,4693,4142,1,R,2015,6.3,2.35,0
+Richard Fleischer,59,130,183,Brigitte Nielsen,30215,1243,1,PG-13,1985,5.0,2.35,0
+Rodrigo Cortés,195,89,920,Toby Jones,48162,25804,2,R,2012,6.2,2.35,10000
+Greg Mottola,256,99,778,Joe Lo Truglio,422606,17584,2,R,2007,7.6,1.85,0
+Tyler Perry,44,0,543,Keshia Knight Pulliam,9544,3699,0,PG-13,2009,4.1,1.85,804
+David Hayter,59,512,413,Jennifer Hale,5693,13545,2,R,2014,5.3,2.35,0
+Jon M. Chu,97,209,129,Mari Koda,67653,816,2,PG-13,2008,6.2,1.85,0
+Cory Edwards,142,19,854,Chazz Palminteri,45900,14385,1,PG,2005,6.5,1.85,0
+Terry George,187,83,242,Sophie Okonedo,264533,4142,1,PG-13,2004,8.1,2.35,12000
+Xavier Gens,193,87,280,Dougray Scott,140780,2124,1,R,2007,6.3,2.35,0
+Kasi Lemmons,40,148,170,Mary J. Blige,1633,1373,5,PG,2013,4.4,2.35,0
+Brian A Miller,46,32,1000,50 Cent,13133,16735,4,R,2014,4.6,2.35,0
+Matt Dillon,38,0,50,Shawn Andrews,4387,245,0,R,2002,6.0,1.85,204
+Alejandro Amenábar,239,448,83,Elaine Cassidy,268581,956,0,PG-13,2001,7.6,1.85,20000
+James Cameron,250,0,604,Carrie Henn,488537,4228,1,R,1986,8.4,1.85,18000
+George Cukor,82,165,244,Rex Harrison,66959,1164,1,Approved,1964,7.9,2.2,0
+Jim Gillespie,140,13,681,Sarah Michelle Gellar,105585,50284,1,R,1997,5.6,2.35,0
+Luke Greenfield,129,42,613,Damon Wayans Jr.,106820,3627,1,R,2014,6.5,1.85,14000
+Alexander Payne,285,729,284,Patrick Gallagher,149966,2170,0,R,2004,7.5,1.85,0
+Jay Chandrasekhar,91,422,422,Owain Yeoman,54710,35345,2,R,2006,6.3,2.35,0
+John Carpenter,318,0,598,Donald Pleasence,157857,4400,0,R,1978,7.9,2.35,12000
+Yimou Zhang,283,611,576,Tony Chiu Wai Leung,149414,6229,4,PG-13,2002,7.9,2.35,0
+John Hoffman,52,9,503,Molly Shannon,3407,2164,1,PG,2003,5.1,1.85,309
+Malcolm D. Lee,56,92,849,Sanaa Lathan,11600,5306,5,R,2013,6.7,2.35,7000
+Joe Carnahan,186,248,968,Common,121058,19410,0,R,2006,6.7,2.35,3000
+Kevin Greutert,178,52,298,Gina Holden,67978,1978,0,R,2010,5.6,1.85,12000
+Michael Lehmann,140,36,486,Vinessa Shaw,62272,3294,0,R,2002,5.6,1.85,2000
+Joseph Kosinski,469,364,1000,Olivia Wilde,264186,25549,0,PG,2010,6.8,2.35,30000
+John Fortenberry,63,12,281,Chris Kattan,48458,9271,2,PG-13,1998,6.2,1.85,0
+Daniel Barnz,148,33,583,Mary-Kate Olsen,64190,17396,1,PG-13,2011,5.6,2.35,16000
+Alexandre Aja,265,192,580,Greg Nicotero,129719,4500,0,R,2006,6.4,2.35,0
+Sam Weisman,75,39,428,Jenna Boyd,11815,2713,1,PG-13,2003,5.6,2.35,320
+Niki Caro,113,51,89,Valente Rodriguez,23480,952,0,PG,2015,7.4,2.35,21000
+Erik White,62,17,826,Loretta Devine,7991,4797,7,PG-13,2010,4.9,2.35,0
+Chris Robinson,54,49,104,Adam Boyer,8522,1538,0,PG-13,2006,6.0,2.35,874
+Jason Moore,223,36,746,Hana Mae Lee,213898,12676,4,PG-13,2012,7.2,1.85,36000
+Michael Tollin,50,19,505,Brian Dennehy,12993,3344,2,PG-13,2001,4.9,1.85,476
+Sam Raimi,125,0,244,Bridget Fonda,50656,2365,1,R,1998,7.5,1.85,0
+Robert Harmon,81,11,973,Ethan Embry,10885,4060,0,PG-13,2002,4.8,2.35,814
+Trent Cooper,37,0,323,Larry the Cable Guy,9104,2135,2,PG-13,2006,3.1,1.33,110
+Gary Halvorson,44,11,142,Kevin Clash,2045,2020,0,G,1999,5.8,1.85,339
+Antoine Fuqua,197,847,625,Lili Taylor,52852,6317,1,R,2009,6.7,2.35,4000
+Nicholas Ray,15,117,86,David Niven,4550,1567,3,Unrated,1963,6.8,2.2,419
+Fede Alvarez,543,201,58,Elizabeth Blackmore,125016,673,0,R,2013,6.5,2.35,70000
+Donald Petrie,112,80,399,Harland Williams,15033,2016,1,PG-13,2009,5.9,1.85,0
+Paul Weitz,153,80,841,Dennis Quaid,22639,5992,6,PG-13,2006,5.5,1.85,300
+Sidney J. Furie,94,22,488,Margot Kidder,33570,3007,6,PG,1987,3.6,2.35,1000
+Ian Iqbal Rashid,62,8,66,Clé Bennett,4600,760,0,PG-13,2007,3.3,1.85,238
+Wayne Kramer,157,47,834,Chazz Palminteri,88590,27381,2,R,2006,7.4,2.35,0
+Rowdy Herrington,35,9,193,Jeremy Northam,3222,1727,3,PG,2004,6.7,2.35,352
+Jim Goddard,21,3,161,Paul Freeman,4081,805,0,PG-13,1986,3.0,1.85,154
+Neil Burger,236,168,96,Eddie Marsan,295375,4210,3,PG-13,2006,7.6,1.85,15000
+Noel Marshall,50,4,60,Melanie Griffith,1275,1262,0,PG,1981,6.4,2.35,0
+Joel Schumacher,106,541,71,David Murray,16234,409,1,R,2003,6.9,2.35,0
+Andrea Di Stefano,106,30,55,Brady Corbet,13762,14492,1,R,2014,6.6,,0
+Richard Kelly,173,219,215,Curtis Armstrong,32671,2340,6,R,2006,5.5,2.35,0
+Guillaume Ivernel,41,0,168,Jess Harnell,10706,1364,0,PG,2008,6.6,,0
+Jack Smight,41,22,255,Jan-Michael Vincent,3701,1769,0,PG,1977,5.2,2.35,903
+Todd Lincoln,145,57,62,Rick Gomez,16268,730,1,PG-13,2012,4.1,2.35,0
+Howard Zieff,31,6,165,Jamie Lee Curtis,55895,5433,1,PG-13,1991,6.8,1.85,0
+Steven Shainberg,105,30,260,Ty Burrell,13239,25173,2,R,2006,6.5,1.85,0
+Neil Burger,236,168,96,Eddie Marsan,295375,4210,3,PG-13,2006,7.6,1.85,15000
+Oliver Stone,114,0,168,Tamara Tunie,119150,1607,2,R,1987,7.4,1.85,0
+Ang Lee,69,0,1000,Kate Winslet,78392,41059,2,PG,1995,7.7,1.85,0
+Julian Jarrold,150,11,281,Julie Walters,46204,12554,1,PG,2007,7.1,2.35,0
+Joe Nussbaum,72,18,433,Matt Long,37700,2785,2,PG-13,2007,6.3,2.35,0
+Vadim Perelman,158,26,385,Kim Dickens,56665,2282,0,R,2003,7.6,1.85,0
+Peter Weir,96,608,1000,Josh Charles,277451,51609,0,PG,1989,8.0,1.85,23000
+Peter Farrelly,84,137,481,Mike Starr,288451,2985,2,PG-13,1994,7.3,1.85,0
+Rob Reiner,114,0,62,Gretchen Palmer,149108,485,0,R,1989,7.6,1.85,0
+Sidney Lumet,79,0,359,James Mason,26310,2330,0,R,1982,7.8,1.85,0
+Todd Phillips,103,480,486,Rachel Blanchard,132963,3889,5,R,2000,6.5,1.85,0
+Brian Robbins,67,48,35,Ron Lester,35312,23369,0,R,1999,6.4,1.85,0
+Michel Hazanavicius,576,405,628,Ed Lauter,190030,4606,0,PG-13,2011,8.0,1.33,30000
+David S. Goyer,178,687,389,Atticus Shaffer,42182,12183,1,PG-13,2009,4.8,2.35,0
+Wes Anderson,487,0,559,Bill Murray,237848,27911,2,PG-13,2012,7.8,1.85,71000
+Jonathan Liebesman,196,473,597,Jordana Brewster,56269,26402,0,R,2006,5.9,1.85,0
+Cyrus Nowrasteh,24,19,107,Vincent Walsh,1449,824,0,PG-13,2016,5.4,2.35,0
+Perry Andelin Blake,56,11,499,Kenan Thompson,18254,3058,2,PG,2002,3.3,1.85,1000
+Guillermo del Toro,406,0,250,Maribel Verdú,467234,1322,0,R,2006,8.2,1.85,27000
+,3,,762,Jessika Van,7210,4561,0,,,6.6,16.0,0
+John Whitesell,51,14,635,Angus T. Jones,7392,4194,0,PG,2001,5.4,1.85,393
+John Singleton,41,309,522,Snoop Dogg,9566,3107,2,R,2001,6.4,1.85,1000
+Christian E. Christiansen,138,26,638,Danneel Ackles,29147,5349,1,PG-13,2011,4.8,2.35,0
+Dennie Gordon,78,29,459,Erik Per Sullivan,41664,2543,0,PG-13,2001,5.9,1.85,0
+Sheldon Lettich,40,23,51,Alonna Shaw,28736,874,2,R,1991,5.5,1.85,0
+Edgar Wright,285,1000,108,Joe Cornish,352695,485,1,R,2007,7.9,2.35,17000
+Diane English,124,15,650,Debi Mazar,16582,3485,4,PG-13,2008,4.9,1.85,0
+Woody Allen,275,11000,252,Kevin Dunn,198111,19894,0,PG-13,2008,7.2,1.85,14000
+Peter Flinth,34,5,292,Michael Nyqvist,18041,2762,1,,2007,6.6,2.35,0
+Jon Lucas,81,24,851,Jay Hernandez,4654,18786,9,R,2016,6.7,,18000
+Robert Iscove,67,7,95,Amanda Detmer,13661,3451,3,PG-13,2000,5.3,1.85,487
+Peter Kosminsky,103,7,450,Cole Hauser,25549,2572,0,PG-13,2002,7.2,1.85,0
+Karyn Kusama,300,45,271,Amy Sedaris,92712,24805,1,R,2009,5.1,1.85,6000
+Nick Gomez,84,22,324,Jamie Lee Curtis,11768,11078,0,PG-13,2000,5.6,1.85,492
+Woody Allen,64,11000,233,Don Pardo,24256,1653,0,PG,1987,7.6,1.85,0
+Vic Armstrong,169,179,734,Lea Thompson,24854,15044,1,PG-13,2014,3.1,2.35,31000
+Allen Coulter,158,47,238,Lena Olin,113963,22088,0,PG-13,2010,7.2,1.85,24000
+Clare Kilner,46,6,258,Alexandra Holden,8215,1882,1,PG-13,2003,5.7,1.85,371
+Richard Benjamin,15,121,384,Alyson Hannigan,21079,14677,0,PG-13,1988,5.2,1.85,818
+Jonathan Demme,68,438,372,Tom Hanks,178731,33865,2,PG-13,1993,7.7,1.85,0
+Josef Rusnak,111,9,363,Craig Bierko,51996,2389,0,R,1999,7.0,2.35,0
+Lance Rivera,21,3,578,Vincent Pastore,2385,3835,1,PG-13,2004,3.6,1.85,177
+Ronald Neame,42,38,316,Karl Malden,5237,1945,7,PG,1979,4.9,2.35,392
+Bruce Paltrow,65,28,215,Marian Seldes,8217,1227,0,R,2000,6.0,1.85,573
+Woody Allen,109,11000,642,Debra Messing,21613,12766,0,PG-13,2002,6.6,1.85,762
+Adam Rifkin,42,89,322,Lin Shaye,30682,2518,0,R,1999,6.8,2.35,0
+Russell Mulcahy,112,85,186,Jon Polito,98629,1852,1,R,1986,7.2,1.85,0
+Susanne Bier,146,369,295,Omar Benson Miller,24104,1889,1,R,2007,7.2,2.35,0
+Kenneth Johnson,36,34,465,Annabeth Gish,8687,3100,1,PG-13,1997,2.8,1.85,0
+James Gray,230,115,310,Dagmara Dominczyk,20616,11019,3,R,2013,6.6,2.35,0
+James Ivory,64,133,258,Natasha Richardson,5321,2096,0,PG-13,2005,6.7,1.66,356
+Danny Boyle,393,0,888,Spencer Wilding,92640,5056,0,R,2013,7.0,2.35,23000
+Jessy Terrero,75,29,618,Snoop Dogg,18271,3935,9,R,2004,4.4,1.85,0
+Dany Boon,78,172,27,Kad Merad,30587,329,2,,2008,7.1,2.35,3000
+Vicente Amorim,67,6,227,Jodie Whittaker,5664,11091,1,R,2008,6.2,2.35,921
+Gaspar Noé,216,929,116,Emily Alyn Lind,45449,943,0,Not Rated,2009,7.3,2.35,23000
+Amy Heckerling,54,143,613,Justin Kirk,7444,3086,2,PG-13,2012,5.1,1.78,0
+Lasse Hallström,84,529,805,Sarah Roemer,155249,4453,0,G,2009,8.1,1.85,115000
+Jérôme Salle,69,22,44,Tanya van Graan,12817,5273,0,R,2013,6.7,2.35,0
+Tommy Lee Jones,208,0,567,Tim Blake Nelson,21370,2896,1,R,2014,6.6,2.35,0
+Jesse Vaughan,32,10,574,Jenifer Lewis,5312,3104,3,PG-13,2002,4.5,1.85,939
+,20,,15,Trond Fausa,19164,537,0,TV-MA,,8.1,16.0,16000
+Atom Egoyan,78,460,125,Marie-Josée Croze,8624,699,1,R,2002,6.6,1.66,824
+William Bindley,21,4,518,Jake Lloyd,1033,3583,0,PG,2001,6.5,2.35,282
+Wayne Beach,40,7,922,LL Cool J,3299,4329,0,R,2005,5.9,1.85,191
+Gérard Krawczyk,40,7,17,Ryôko Hirosue,29392,303,1,R,2001,6.6,2.35,0
+James Gunn,251,571,102,Gregg Henry,61912,1120,0,R,2006,6.5,1.85,0
+Martin Brest,94,102,383,Ronny Cox,126464,3464,1,R,1984,7.3,1.85,0
+Chris Columbus,102,0,925,Devin Ratray,311075,7521,5,PG,1990,7.5,1.85,20000
+Leonard Nimoy,21,12000,801,Ted Danson,36918,21499,4,PG,1987,5.9,1.85,3000
+Sydney Pollack,94,521,481,Sydney Pollack,77366,14701,1,PG,1982,7.4,2.35,0
+Tony Scott,173,12000,555,Tom Skerritt,219171,13069,2,PG,1986,6.9,1.33,19000
+Ang Lee,287,0,5,Pei-Pei Cheng,217740,129,3,PG-13,2000,7.9,2.35,0
+Sam Mendes,176,0,158,Peter Gallagher,822500,19078,0,R,1999,8.4,2.35,22000
+Tom Hooper,479,0,520,Jennifer Ehle,503631,15732,0,R,2010,8.0,1.85,64000
+Ivan Reitman,27,425,247,Tony Jay,87538,2151,1,PG,1988,6.0,1.85,0
+,20,,260,Bobby Campo,18058,2380,0,TV-14,,7.3,16.0,0
+Udayan Prasad,60,4,882,Eddie Redmayne,6723,30978,1,PG-13,2008,6.8,2.35,1000
+Steven Spielberg,70,14000,271,Rae Dawn Chong,60988,2592,0,PG-13,1985,7.8,1.85,6000
+JK Youn,43,2,13,Ji-won Ha,2659,213,2,R,2009,5.7,2.35,558
+Timur Bekmambetov,1,335,635,Ayelet Zurer,62,13390,2,PG-13,2016,6.1,2.35,0
+Morten Tyldum,454,77,305,Rory Kinnear,467613,20295,1,PG-13,2014,8.1,2.35,165000
+Howard Zieff,25,6,271,Albert Brooks,18140,2419,1,R,1980,6.1,1.85,855
+Michael Apted,46,150,572,Beverly D'Angelo,12974,2667,0,PG,1980,7.5,1.85,0
+Thor Freudenthal,111,87,569,Zachary Gordon,32002,20154,1,PG,2010,6.2,1.85,0
+Andrés Muschietti,393,127,250,Megan Charpentier,134869,1949,1,PG-13,2013,6.2,1.85,57000
+John Carpenter,318,0,598,Donald Pleasence,157857,4400,0,R,1978,7.9,2.35,12000
+Harold Ramis,55,11000,624,Randy Quaid,71183,3617,1,R,1983,7.4,1.85,0
+Jeff Tremaine,157,79,27,Georgina Cates,77724,1018,0,R,2013,6.6,1.85,26000
+Stephen Frears,280,350,39,Sylvia Syms,85333,486,0,PG-13,2006,7.3,1.85,0
+Tim Burton,109,13000,217,Jeffrey Jones,189413,1953,3,PG,1988,7.5,1.85,15000
+Tyler Perry,41,0,607,Tasha Smith,9811,6510,8,PG-13,2007,5.6,1.85,1000
+Gillian Armstrong,27,44,902,Kirsten Dunst,36624,29370,4,PG,1994,7.3,1.85,0
+James Watkins,462,43,259,Roger Allam,139749,11946,0,PG-13,2012,6.4,2.35,29000
+Simon West,152,165,383,Tessa Thompson,34711,2452,0,PG-13,2006,5.0,2.35,0
+Shawn Levy,69,189,799,Donald Faison,29008,3707,1,PG,2002,5.4,1.85,896
+Michael Cimino,140,517,652,Meryl Streep,232577,34025,2,R,1978,8.2,2.35,11000
+Barry Levinson,130,272,957,Kirsten Dunst,67604,29252,0,R,1997,7.1,1.85,12000
+Jim Fall,66,13,566,Adam Lamberg,27580,3423,1,PG,2003,5.3,2.35,0
+Ric Roman Waugh,238,29,874,Harold Perrineau,64747,15800,1,PG-13,2013,6.5,2.35,12000
+Michael Dougherty,198,66,562,Conchata Ferrell,29867,4567,0,PG-13,2015,6.2,2.35,27000
+Robert Rodriguez,154,0,1000,Salma Hayek,92074,12170,1,R,1998,6.4,1.85,0
+Brian Gibson,19,13,2,Virginia Capers,13442,114,0,R,1993,7.2,1.85,0
+James Mangold,131,446,1000,Sylvester Stallone,69576,40117,3,R,1997,6.9,1.85,2000
+Joel Gallen,97,11,971,JoAnna Garcia Swisher,80305,15369,0,R,2001,5.7,1.85,0
+David Ayer,355,453,953,Anna Kendrick,181025,27788,2,R,2012,7.7,1.85,38000
+Cameron Crowe,138,488,13000,Bradley Cooper,39782,44037,1,PG-13,2015,5.4,1.85,11000
+Rob Cohen,102,357,883,Leslie Bibb,26846,26652,0,PG-13,2000,5.6,1.85,0
+James Marsh,419,120,149,Emily Watson,265507,14100,0,PG-13,2014,7.7,2.35,90000
+John Whitesell,37,14,685,Regina Hall,15939,4435,3,PG-13,2003,5.1,2.35,0
+Matt Williams,78,18,944,James Frain,27044,22383,2,PG-13,2000,6.8,1.85,0
+David Lean,181,767,87,José Ferrer,192775,1076,8,PG,1962,8.4,2.2,11000
+Rob Zombie,220,0,593,Tyler Mane,36372,3226,0,R,2009,4.9,1.85,3000
+Jean-Marc Vallée,349,212,612,Kevin Rankin,86664,4896,1,R,2014,7.1,2.35,38000
+Dennis Iliadis,241,29,616,Monica Potter,67822,3861,0,R,2009,6.6,1.85,0
+Clare Kilner,103,6,458,Debra Messing,38248,2666,0,PG-13,2005,6.1,1.85,0
+Rick Rosenthal,151,28,731,Thomas Ian Nicholas,26905,5440,5,R,2002,4.1,2.35,0
+Louis Leterrier,344,255,850,Jason Flemyng,229687,18003,0,PG-13,2010,5.8,2.35,15000
+Rob Reiner,185,0,594,Carol Kane,294163,20060,0,PG,1987,8.1,1.85,33000
+Denzel Washington,112,18000,697,Jurnee Smollett-Bell,47626,22745,1,PG-13,2007,7.6,2.35,0
+Nicolas Winding Refn,676,0,228,Albert Brooks,431578,34337,0,R,2011,7.8,2.35,81000
+Sara Sugarman,74,10,231,Carol Kane,23408,2167,8,PG,2004,4.6,1.85,810
+Nicholas Hytner,65,13,106,Tim Daly,15582,1450,0,R,1998,6.0,1.85,849
+Juan Carlos Fresnadillo,274,35,306,Harold Perrineau,212167,11471,1,R,2007,7.0,1.85,0
+Thomas Carter,50,49,100,Matthew Daddario,12596,525,0,PG,2014,6.7,1.85,0
+Wayne Wang,96,61,649,Luke Benward,8427,3462,5,PG,2005,6.4,1.85,1000
+Gina Prince-Bythewood,68,107,865,Sanaa Lathan,14322,5135,0,PG-13,2000,7.2,1.85,0
+George Armitage,111,5,141,Michael Cudlitz,73347,2044,1,R,1997,7.4,1.85,0
+Phil Traill,128,3,628,Katy Mixon,33088,16461,3,PG-13,2009,4.8,1.85,0
+Joe Berlinger,160,31,162,Erica Leerhsen,28964,608,0,R,2000,4.0,1.85,949
+Andrew Fleming,93,26,266,Rachel True,57140,1812,0,R,1996,6.2,1.85,6000
+Woody Allen,278,11000,400,Mark Gatiss,166269,20391,3,R,2005,7.7,1.85,0
+Elizabeth Allen Rosenbaum,81,20,125,Hutch Dano,13874,1002,2,G,2010,6.7,2.35,0
+James Ivory,58,133,258,Peter Vaughan,45703,12749,1,PG,1993,7.9,2.35,0
+Paul Thomas Anderson,153,0,170,Nicole Ari Parker,189032,3677,15,R,1997,7.9,2.35,0
+Robert Harmon,25,11,232,Rosanna Arquette,17074,2210,0,R,1993,5.5,1.85,466
+Michael Mayer,46,15,461,Danny Pino,6095,3845,0,PG,2006,6.2,2.35,1000
+Martin Weisz,161,7,399,Daniella Alonso,49721,2559,0,R,2007,5.1,2.35,0
+John Ottman,108,83,579,Joey Lawrence,13048,2682,2,R,2000,4.1,2.35,243
+Jay Russell,69,13,613,Sissy Spacek,17983,2661,2,PG,2002,6.7,2.35,0
+John Bonito,78,8,129,Firass Dirani,27486,1045,1,PG-13,2006,4.7,1.85,0
+Peter Atencio,129,10,415,Will Forte,15385,2958,2,R,2016,6.4,2.35,0
+Shana Feste,135,19,461,Cinda McCain,14814,4204,4,PG-13,2010,6.3,2.35,0
+David Nutter,96,119,918,Ethan Embry,17328,4660,3,R,1998,5.5,1.85,673
+Derek Cianfrance,417,310,619,Ben Mendelsohn,187170,34413,3,R,2012,7.3,2.35,47000
+Roger Donaldson,172,79,537,Akie Kotabe,50056,3033,2,R,2014,6.3,2.35,0
+Stephan Elliott,88,11,159,Patrick Bergin,13320,1069,1,R,1999,4.9,2.35,327
+Kathryn Bigelow,388,0,383,Christian Camargo,332065,11114,0,R,2008,7.6,1.85,16000
+Mark L. Lester,45,73,563,George C. Scott,22797,3444,1,R,1984,6.0,2.35,0
+Andrew Dominik,414,181,748,Sam Shepard,111625,14025,1,R,2012,6.2,2.35,20000
+Anton Corbijn,291,210,123,Nina Hoss,57210,22574,3,R,2014,6.8,2.35,13000
+Tom Green,97,374,484,Harland Williams,39788,2689,1,R,2001,4.5,1.85,0
+Mike Nawrocki,37,12,23,Cam Clarke,2037,568,0,G,2008,5.7,1.85,175
+Catherine Owens,68,0,44,The Edge,2673,646,0,G,2007,8.4,1.78,116
+Douglas Aarniokoski,90,36,377,Adrian Paul,16340,2764,1,R,2000,4.6,2.35,356
+Bryan Barber,81,16,526,Faizon Love,4603,3633,4,R,2006,6.2,2.35,489
+Lone Scherfig,221,92,358,Jim Sturgess,106111,17627,0,PG-13,2011,7.0,2.35,49000
+Drew Barrymore,230,0,727,Jimmy Fallon,55665,2633,1,PG-13,2009,6.9,2.35,10000
+Brian Koppelman,57,34,366,Tom Noonan,19768,15644,1,R,2001,6.1,2.35,566
+James Foley,119,164,308,Brian Van Holt,30643,1172,3,R,2003,6.7,2.35,622
+Albert Brooks,97,745,745,Bradley Whitford,9294,15209,2,PG-13,1999,5.6,1.37,251
+Irwin Winkler,119,34,65,Keith Allen,9649,729,7,PG-13,2004,6.6,2.35,1000
+Woody Allen,42,11000,563,Larry David,13692,12685,0,PG,1989,6.4,1.85,877
+Steve Gomer,24,9,47,Kyla Pratt,2724,1139,0,G,1998,2.8,1.85,436
+RZA,208,561,353,RZA,53471,2377,3,R,2012,5.4,2.35,29000
+Dean Parisot,42,23,629,Jake Busey,7159,2913,2,PG-13,1998,5.0,1.85,247
+Mark Piznarski,44,4,670,Chris Klein,7403,3142,1,PG-13,2000,5.1,1.85,648
+Terry Gilliam,230,0,1000,Bob Hoskins,152306,29475,0,R,1985,8.0,1.85,16000
+Sean McNamara,46,80,782,Rebecca De Mornay,22649,4676,0,PG,2004,5.9,2.35,1000
+,18,,186,Nicole de Boer,7122,981,1,TV-14,,7.5,,576
+Joel Coen,249,0,12000,Jeff Bridges,537419,47728,1,R,1998,8.2,1.85,35000
+Craig Brewer,197,153,539,Michael Raymond-James,52421,5012,0,R,2006,7.0,2.35,0
+Ron Shelton,71,41,274,Dash Mihok,17261,1873,1,R,2002,6.6,2.35,455
+Michael Winterbottom,190,187,254,Archie Panjabi,24150,12178,0,R,2007,6.7,2.35,923
+David Raynr,50,9,612,Jodi Lyn O'Keefe,8055,13524,4,PG-13,2000,5.5,1.85,816
+Mort Nathan,63,2,461,Lin Shaye,26598,3161,4,R,2002,4.9,1.85,1000
+Oliver Parker,104,32,692,Tom Wilkinson,18966,16502,5,PG,2002,6.9,2.35,0
+Dan Curtis,,45,224,Campbell Scott,1465,2166,1,Unrated,1998,7.4,1.33,515
+Wil Shriner,49,6,596,Neil Flynn,6562,10732,0,PG,2006,5.6,1.85,647
+Martin McDonagh,300,454,39,Anna Madeley,307639,173,1,R,2008,8.0,2.35,32000
+Tina Gordon Chism,43,24,426,S. Epatha Merkerson,4065,3322,6,PG-13,2013,5.3,2.35,0
+Peter Cattaneo,132,11,1000,Bradley Cooper,32311,33153,4,PG-13,2008,6.2,1.85,0
+Vicky Jenson,97,96,360,Zach Gilford,11498,25637,1,PG-13,2009,5.3,1.85,0
+Gus Van Sant,242,835,363,Hal Holbrook,30284,14544,1,R,2012,6.6,1.85,10000
+Woody Allen,218,11000,386,Michael McKean,58967,2717,1,PG-13,2009,7.2,1.85,10000
+Mary Lambert,49,52,275,Susan Ward,3668,2312,4,PG-13,2000,4.6,1.85,157
+Tommy Lee Jones,172,0,289,Dwight Yoakam,34194,1627,2,R,2005,7.5,2.35,0
+Peter Kassovitz,68,0,693,Mark Margolis,12601,51657,2,PG-13,1999,6.5,1.85,0
+Shane Black,223,1000,611,Corbin Bernsen,175962,23932,2,R,2005,7.6,2.35,0
+Rodman Flender,59,6,577,Fred Willard,33745,3654,0,R,1999,6.2,1.85,0
+David Lynch,252,0,669,Robert Forster,235992,8484,1,R,2001,8.0,1.85,16000
+Katja von Garnier,106,18,220,Agnes Bruckner,15388,1675,0,PG-13,2007,5.5,2.35,0
+Woody Allen,223,11000,557,Naomi Watts,36145,19310,0,R,2010,6.3,1.85,0
+Mark Romanek,328,132,844,Charlie Rowe,109873,12867,0,R,2010,7.2,2.35,33000
+,9,,527,Tom Hollander,3828,3809,3,,,7.9,1.78,733
+Brad Anderson,150,122,25,Eduardo Noriega,42792,1252,0,R,2008,6.7,2.35,0
+Michael Chapman,21,70,90,Pamela Reed,4996,1351,0,R,1986,5.3,2.35,843
+Antonio Banderas,28,0,617,Elizabeth Perkins,5917,4834,0,PG-13,1999,6.3,2.35,391
+Michael Haneke,250,0,287,Siobhan Fallon Hogan,69569,6748,0,R,2007,6.5,1.85,0
+Khalil Sullins,17,5,46,Kalim Chandler,1933,527,0,,2014,5.6,2.35,708
+Atom Egoyan,95,460,71,Elaine Cassidy,6690,5426,0,PG-13,1999,7.0,2.35,284
+Fritz Lang,260,756,18,Gustav Fröhlich,111841,203,1,Not Rated,1927,8.3,1.33,12000
+Pierre Morel,141,180,58,Cyril Raffaelli,55928,962,2,R,2004,7.2,2.35,0
+Gary Fleder,52,39,642,Bill Cobbs,22345,14889,2,R,1995,6.8,1.85,0
+Hsiao-Hsien Hou,205,141,56,Chen Chang,9427,1172,1,Not Rated,2015,6.4,1.37,0
+Gregor Jordan,109,34,730,Scott Glenn,20730,3578,1,R,2001,6.9,2.35,664
+Andrey Zvyagintsev,103,445,9,Vladimir Garin,31589,48,0,Unrated,2003,8.0,1.85,0
+Tony Jaa,110,0,7,Petchtai Wongkamlao,24570,134,0,R,2008,6.2,2.35,0
+Neil Marshall,195,197,570,JJ Feild,64777,15293,0,R,2010,6.4,2.35,0
+Russell Mulcahy,14,85,40,Gina Bellman,2699,1432,0,R,1996,5.6,2.35,154
+Ryûhei Kitamura,177,129,1000,Brooke Shields,47574,18639,0,R,2008,6.1,2.35,0
+Darrell Roodt,17,36,2,Wendy Crewson,609,801,2,R,2011,6.0,,705
+Dito Montiel,62,68,642,Al Pacino,14280,32814,5,R,2011,5.1,2.35,0
+Stefan Ruzowitzky,19,24,125,Udo Kier,2236,1732,1,PG-13,2001,4.5,2.35,193
+Jake Paltrow,50,17,66,Gael Le Cornec,7519,1245,1,R,2007,5.9,1.85,445
+Juraj Jakubisko,25,15,576,Hans Matheson,3425,2528,1,R,2008,6.0,2.35,0
+Anthony Silverston,39,0,912,Steve Buscemi,4006,29488,0,Not Rated,2013,5.8,,0
+Gabe Ibáñez,136,19,537,Robert Forster,41638,2829,0,R,2014,6.1,2.35,13000
+Gerry Lively,26,93,51,Lucy Gaskell,5018,363,0,Not Rated,2005,4.9,1.78,473
+Daniele Luchetti,4,6,50,Rodrigo De la Serna,80,192,0,,2015,5.7,,18
+Tung-Shing Yee,53,3,19,Daniel Wu,9177,996,4,R,2009,7.1,2.35,821
+Julien Temple,22,67,303,Dexter Fletcher,695,1585,1,PG-13,2000,6.6,,277
+Harold Ramis,147,11000,512,Chris Elliott,437418,15500,1,PG,1993,8.1,1.85,38000
+Gregory Jacobs,222,13,642,Channing Tatum,38202,38963,3,R,2015,5.7,2.35,41000
+Baz Luhrmann,106,1000,954,Harold Perrineau,167750,33791,2,PG-13,1996,6.8,2.35,10000
+Gilles Paquet-Brenner,136,15,121,Aidan Quinn,12937,2140,2,PG-13,2010,7.5,2.35,0
+Peter Cousens,5,5,124,David Rasche,993,994,2,R,2014,6.2,,998
+Clint Eastwood,131,16000,638,Morgan Freeman,277505,28544,1,R,1992,8.3,2.35,10000
+Lars von Trier,140,3000,236,Jeremy Davies,18646,4211,1,Not Rated,2005,7.4,2.35,1000
+Danny Boyle,418,0,40,Saurabh Shukla,641997,820,0,R,2008,8.0,2.35,13000
+Adrian Lyne,94,213,249,Lois Smith,55101,1639,0,R,1987,6.9,1.85,3000
+Garry Marshall,82,0,700,Hector Elizondo,213476,11135,2,R,1990,6.9,1.85,11000
+John Blanchard,,0,176,Andrea Martin,10,1125,2,,,9.5,1.33,0
+John Cornell,32,5,57,Linda Kozlowski,44096,717,1,PG,1988,5.5,2.35,489
+Vidhu Vinod Chopra,22,34,277,Chris Marquette,1554,2055,0,R,2015,5.7,2.35,0
+Oliver Stone,72,0,560,Tom Berenger,76842,12098,0,R,1989,7.2,2.35,4000
+Jon Turteltaub,39,226,496,Leon,69733,2496,1,PG,1993,6.9,1.85,0
+Patrick Lussier,264,71,725,Jaime King,45603,14159,0,R,2009,5.5,1.85,0
+Ole Bornedal,264,30,309,Madison Davenport,47169,2348,0,PG-13,2012,5.9,2.35,17000
+Ted Kotcheff,145,270,535,Brian Dennehy,172493,15192,1,R,1982,7.7,2.35,0
+Sylvain White,86,41,748,Laz Alonso,19505,3544,0,PG-13,2007,5.2,2.35,0
+Lewis Gilbert,112,43,238,Desmond Llewelyn,76477,1326,2,PG,1977,7.1,2.35,0
+,17,,84,Steve Gonsalves,5563,552,0,,,6.6,,373
+Jamie Blanks,101,9,648,Loretta Devine,47814,3500,4,R,1998,5.5,2.35,0
+Stephen Frears,51,350,418,Peter Capaldi,52846,35501,2,R,1988,7.7,1.85,0
+Tyler Perry,42,0,490,Phylicia Rashad,6352,2226,1,PG-13,2012,5.4,2.35,0
+Randal Kleiser,10,116,25,Klaus Maria Brandauer,15730,552,1,PG,1991,6.7,1.85,0
+Bruce McCulloch,43,54,636,Elaine Hendrix,15047,10792,1,PG-13,1999,5.0,1.85,2000
+Phyllida Lloyd,331,58,583,Jim Broadbent,82327,12894,1,PG-13,2011,6.4,2.35,18000
+Mike Nawrocki,38,12,8,Mike Nawrocki,3135,49,0,G,2002,6.6,1.85,184
+John Singleton,12,309,279,Khandi Alexander,8904,1620,0,R,1993,5.9,1.85,0
+Kevin Bray,40,10,111,Roger Guenveur Smith,9693,1421,2,R,2002,5.7,2.35,530
+Wes Craven,34,0,364,W. Earl Brown,17262,2348,1,R,1995,4.5,1.85,1000
+John Boorman,82,128,467,Richard Burton,16294,2704,7,R,1977,3.7,1.85,889
+Courtney Solomon,125,31,50,James D'Arcy,22207,1608,0,PG-13,2005,5.0,2.35,0
+David Zucker,56,119,636,Tyler Labine,24038,3007,2,PG-13,2003,4.6,1.85,411
+David Twohy,160,123,690,Milla Jovovich,56338,41359,4,R,2009,6.5,2.35,4000
+Rick Famuyiwa,71,44,625,Lance Gross,5721,3299,2,PG-13,2010,4.9,2.35,1000
+Alan Cohn,37,0,654,Linda Cardellini,11729,6861,0,R,1998,6.0,1.85,645
+Franco Zeffirelli,62,160,55,Joan Plowright,9323,1148,6,PG,1999,6.9,1.85,970
+Tom Holland,73,85,514,Bethany Joy Lenz,19805,2777,0,R,1996,5.7,1.85,0
+Martin Scorsese,59,17000,213,Liza Minnelli,13548,23378,0,PG,1977,6.7,1.66,932
+Spike Lee,25,0,534,Delroy Lindo,6011,3267,0,PG-13,1994,6.9,1.85,905
+Chris Rock,97,0,458,Eliza Coupe,13866,13446,3,R,2007,5.5,1.85,488
+James Isaac,205,52,489,Kane Hodder,38985,3050,1,R,2001,4.4,1.85,0
+Shawn Levy,69,189,799,Donald Faison,29008,3707,1,PG,2002,5.4,1.85,896
+Emilio Estevez,195,0,383,Nick Cannon,38142,13528,0,R,2006,7.0,2.35,0
+Mark Waters,61,70,169,Ivana Milicevic,11693,2165,5,PG-13,2001,5.4,2.35,613
+Josh Schwartz,77,90,635,Jackson Nicoll,11233,3715,1,PG-13,2012,5.4,2.35,0
+Julian Schnabel,259,232,177,Mathieu Amalric,89906,1372,1,PG-13,2007,8.0,1.85,13000
+Todd Field,251,143,280,Noah Emmerich,92781,15337,0,R,2006,7.6,2.35,5000
+Davis Guggenheim,63,49,191,Sharon Lawrence,12519,12776,5,R,2000,5.9,2.35,853
+Tony Goldwyn,47,956,113,Julie Kavner,6782,10368,1,R,1999,6.6,1.85,860
+Phillip Noyce,108,176,15,Terry Pheto,9334,678,3,PG-13,2006,6.7,2.35,447
+Stephen Carpenter,64,12,102,Angela Featherstone,7277,417,4,PG-13,2001,3.9,1.85,231
+James Ivory,20,133,5,Todd Boyce,2427,446,1,PG-13,1995,5.7,1.85,127
+Stephan Elliott,135,11,548,Kristin Scott Thomas,16444,16431,4,PG-13,2008,6.7,2.35,2000
+James Fargo,2,109,324,Joseph Cotten,524,17250,0,PG,1978,6.5,2.35,76
+Mike Leigh,262,608,43,Ruth Sheen,17933,390,0,R,2014,6.8,2.35,0
+Alain Resnais,129,752,59,Sara Forestier,3174,799,0,PG,2009,6.3,2.35,512
+Costa-Gavras,69,333,284,Mathieu Kassovitz,11077,1429,2,Unrated,2002,7.3,1.85,0
+Chao-Bin Su,50,2,21,Shawn Yue,6069,243,2,R,2010,6.9,2.35,1000
+Neil Burger,57,168,322,Katherine LaNasa,11704,2243,0,R,2008,7.0,1.85,702
+Kenneth Lonergan,116,50,338,Kieran Culkin,12053,14638,1,R,2011,6.5,1.85,0
+Bo Zenga,45,10,378,Kenan Thompson,9928,2207,7,R,2009,3.6,1.85,934
+Rob Reiner,87,0,767,Rebecca De Mornay,60460,4377,0,PG,2010,7.7,1.85,14000
+Ang Lee,357,0,11000,Heath Ledger,259837,39789,0,R,2005,7.7,1.85,13000
+Jonathan Liebesman,348,473,429,Danny Woodburn,167089,2690,0,PG-13,2014,5.9,2.35,62000
+Amy Heckerling,88,143,201,Dan Hedaya,123390,1724,1,PG-13,1995,6.8,1.85,0
+Todd Haynes,181,162,135,Celia Weston,36542,2447,2,PG-13,2002,7.4,1.85,0
+Steve Pink,107,38,390,Gillian Jacobs,28159,4702,4,R,2015,5.1,1.85,0
+,53,,2,Olaf Lubaszenko,12590,25,0,TV-MA,,9.1,1.33,0
+Philip Kaufman,132,133,170,Stephen Marcus,44795,14726,1,R,2000,7.4,1.85,0
+Martin McDonagh,401,454,816,Gabourey Sidibe,185845,4757,7,R,2012,7.2,2.35,52000
+Kasi Lemmons,58,148,400,Tamara Tunie,5602,1767,0,R,2001,6.0,1.85,329
+,1,,2,Marian Dziedziel,271,74,4,,,7.4,,64
+Oliver Hirschbiegel,192,101,471,Bruno Ganz,248354,2334,0,R,2004,8.3,1.85,14000
+Alejandro Amenábar,157,448,93,Lola Dueñas,64556,529,1,PG-13,2004,8.1,2.35,0
+Jonathan Glazer,454,143,21,Paul Brannigan,85022,19086,0,R,2013,6.3,1.85,29000
+Barry Levinson,62,272,227,J.T. Walsh,98348,50141,1,R,1987,7.3,1.85,0
+Hyung-rae Shim,4,26,385,Stephanie Danielson,912,2895,5,PG-13,2010,3.6,1.78,502
+Jon M. Chu,84,209,41,Sean Kingston,74351,714,1,G,2011,1.6,1.85,62000
+Darren Aronofsky,669,0,1000,Mila Kunis,551363,38072,1,R,2010,8.0,2.35,106000
+José Padilha,492,294,1000,Abbie Cornish,182910,14160,0,PG-13,2014,6.2,2.35,60000
+Francis Ford Coppola,149,0,3000,Al Pacino,790926,39960,1,R,1974,9.0,1.85,14000
+Thomas Carter,101,49,237,Terry Kinney,47876,1307,0,PG-13,2001,6.1,1.85,0

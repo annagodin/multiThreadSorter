@@ -1,173 +1,340 @@
-director_name,num_critic_for_reviews,duration,actor_3_facebook_likes,gross,genres,num_voted_users,actor_3_name,facenumber_in_poster,plot_keywords,num_user_for_reviews,language,country,content_rating,budget,aspect_ratio
-Steve Carr,91,87,574,112950721,Comedy|Family|Fantasy,33884,Kevin Pollak,0,bear|doctor|false accusation|man with glasses|second part,79,English,USA,PG,72000000,2.35
-Mel Gibson,132,178,403,75600000,Biography|Drama|History|War,736638,James Robinson,1,14th century|legend|revolt|scotland|tyranny,1065,English,USA,R,72000000,2.35
-Sam Mendes,262,125,210,62647540,Action|Drama|War,143525,James Morrison,0,american abroad|gulf war|u.s. military|u.s. soldier|usmc,657,English,Germany,R,70000000,2.35
-David Silverman,299,87,433,183132370,Adventure|Animation|Comedy,259083,Marcia Wallace,0,alaska|dome|lake|pig|the simpsons,763,English,USA,PG-13,75000000,2.35
-Frank Darabont,128,152,745,27796042,Drama|Romance,45031,Jeffrey DeMunn,1,amnesia|california|communist|small town|writer,376,English,USA,PG,72000000,1.85
-Renny Harlin,109,116,462,32616869,Action|Drama|Sport,34435,Cristián de la Fuente,0,car race|german|race car|race car driver|rookie,346,English,USA,PG-13,72000000,2.35
-Jean-Jacques Annaud,88,109,8,18947630,Adventure|Drama|Family,11798,Oanh Nguyen,0,circus|death of protagonist|jungle|killing an animal|tiger,124,English,France,PG,59660000,2.35
-M. Night Shyamalan,261,108,882,114195633,Drama|Mystery|Romance|Thriller,193770,William Hurt,0,creature|pact|plot twist|village|woods,2003,English,USA,PG-13,60000000,1.85
-Betty Thomas,73,85,595,144156464,Comedy|Family|Fantasy,74343,Peter Boyle,0,box office hit|doctor|dog|first part|tiger,98,English,USA,PG-13,71500000,1.85
-M. Night Shyamalan,208,106,242,227965690,Drama|Sci-Fi|Thriller,271592,Cherry Jones,0,crop circle|faith|farm|glass of water|loss of faith,2335,English,USA,PG-13,72000000,1.85
-Andrew Adamson,205,93,48,436471036,Adventure|Animation|Comedy|Family|Fantasy|Romance,314630,Conrad Vernon,1,drag queen|physical appearance|princess|queen|sequel,483,English,USA,PG,150000000,1.85
-John Lasseter,256,117,769,244052771,Adventure|Animation|Comedy|Family|Sport,263853,George Carlin,0,car|desert|route 66|tow truck|truck,584,English,USA,G,120000000,2.35
-Garry Marshall,103,116,995,152149590,Comedy|Romance,74274,Hector Elizondo,2,bride|columnist|journalist|maryland|wedding,255,English,USA,PG,70000000,2.35
-Rob Cohen,191,132,212,141204016,Action|Adventure|Thriller,142569,Leila Arcieri,0,agent|nsa|nsa agent|prague|russian,737,English,USA,PG-13,70000000,2.35
-Paul Tibbitt,147,92,726,162495848,Adventure|Animation|Comedy|Family|Fantasy,34359,Eddie Deezen,0,book|magic|pirate|plankton|time machine,133,English,USA,PG,74000000,1.85
-Ron Howard,79,139,808,136448821,Crime|Thriller,98989,Rene Russo,1,bounty|fbi|millionaire|money|ransom,158,English,USA,R,80000000,1.85
-Quentin Tarantino,486,153,11000,120523073,Adventure|Drama|War,885175,Christoph Waltz,1,france|german|nazis|revenge|scalping,1527,English,USA,R,75000000,2.35
-Steven Spielberg,75,142,5000,119654900,Adventure|Comedy|Family|Fantasy,182802,Bob Hoskins,1,1990s|caught in a net|children|duel|hero,363,English,USA,PG,70000000,2.35
-Brett Ratner,245,101,467,72660029,Action|Adventure,115687,Ingrid Bolsø Berdal,0,army|greek mythology|hercules|king|mercenary,269,English,USA,PG-13,100000000,2.35
-Renny Harlin,142,124,576,117541000,Action|Thriller,269858,Franco Nero,0,airport|fuel|plane|police|terrorist,316,English,USA,R,70000000,2.35
-Clark Johnson,144,117,1000,116643346,Action|Adventure|Crime|Thriller,119807,LL Cool J,1,hostage|police|prison|swat team|training,340,English,USA,PG-13,80000000,2.35
-,39,45,160,,Adventure|Drama|Fantasy|Mystery|Thriller,49049,Lyndie Greenwood,0,apocalypse|death|husband wife relationship|mother son relationship|murder,110,English,USA,TV-14,,16.0
-Cameron Crowe,153,141,509,100614858,Fantasy|Mystery|Romance|Sci-Fi|Thriller,206776,Noah Taylor,1,death|dream|love|lynchian|reality,1248,English,USA,R,68000000,1.85
-M. Night Shyamalan,284,110,559,42272747,Drama|Fantasy|Mystery|Thriller,78635,Bob Balaban,1,apartment|bedtime story|eagle|stuttering|swimming pool,1040,English,USA,PG-13,70000000,1.85
-Paul W.S. Anderson,247,109,727,80281096,Action|Horror|Sci-Fi|Thriller,143628,Raoul Bova,0,alien|antarctica|predator|pyramid|satellite,1283,English,USA,PG-13,60000000,2.35
-Betty Thomas,107,88,1000,219613391,Animation|Comedy|Family|Fantasy|Music,31649,Jesse McCartney,0,adidas|chipmunk|hospital|school|waste container,98,English,USA,PG,75000000,1.85
-Randall Wallace,141,124,841,78120196,Action|Drama|History|War,103241,Chris Klein,0,air cavalry|battle|major|soldier|vietnamese,742,English,USA,R,75000000,2.35
-Antoine Fuqua,358,119,992,98895417,Action|Thriller,203154,Radha Mitchell,3,political thriller|politics|president|speaker of the house|u.s. president,698,English,USA,R,70000000,2.35
-Jonathan Frakes,160,103,748,70117571,Action|Adventure|Sci-Fi|Thriller,56741,Michael Dorn,0,alien|captain|commander|conspiracy|planet,515,English,USA,PG,58000000,2.35
-Jonathan Liebesman,355,116,464,83552429,Action|Sci-Fi,154955,Ramon Rodriguez,0,alien|extraterrestrial|invasion|marine|mission,800,English,USA,PG-13,70000000,2.35
-Tim Burton,235,125,883,66257002,Adventure|Drama|Fantasy,350698,Albert Finney,0,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,816,English,USA,PG-13,70000000,1.37
-Mike Nichols,59,125,184,65012000,Drama|Horror|Romance|Thriller,43559,Ron Rifkin,1,blood|publisher|publishing house|werewolf|wolf,137,English,USA,R,70000000,1.85
-Steven Spielberg,388,146,979,79883359,Drama|War,116159,Eddie Marsan,1,barbed wire|british|cavalry|horse|world war one,488,English,USA,PG-13,66000000,2.35
-George Clooney,371,118,559,78031620,Drama|War,102248,Bob Balaban,7,art|art expert|nazi stolen art|soldier|world war two,403,English,USA,PG-13,70000000,2.35
-James Cameron,82,171,638,54222000,Adventure|Drama|Sci-Fi|Thriller,131217,Mary Elizabeth Mastrantonio,0,alien|estranged couple|ocean|submarine|underwater,380,English,USA,PG-13,69500000,2.35
-Oliver Stone,297,136,17,52474616,Drama,84118,John Buffalo Mailer,2,corporate greed|crisis|economy|greed|mentor,245,English,USA,PG-13,70000000,2.35
-Gary Shore,261,92,423,55942830,Action|Drama|Fantasy|Horror|War,138582,Zach McGowan,1,death of wife|dracula|tarantula|turk|vampire,423,English,USA,PG-13,70000000,2.35
-Edward Zwick,120,116,774,40932372,Action|Thriller,58023,Mark Valley,0,abduction|martial law|military|new york city|terrorist,281,English,USA,R,70000000,2.35
-Matthew Vaughn,228,127,271,38345403,Adventure|Family|Fantasy|Romance,212085,Nathaniel Parker,8,king|magic|one word title|pirate|village,492,English,UK,PG-13,70000000,2.35
-Jean-Jacques Annaud,76,136,400,37901509,Adventure|Biography|Drama|History|War,96385,Victor Wong,1,austria|dalai lama|himalaya|mountain|tibet,119,English,USA,PG-13,70000000,2.35
-Ron Howard,185,111,244,48430355,Comedy|Drama,43709,Chelcie Ross,2,best friend|friend|investigation|secret|two word title,141,English,USA,PG-13,70000000,2.35
-Joel Schumacher,128,116,384,30157016,Action|Adventure|Comedy|Thriller,39659,Garcelle Beauvais,2,cia|cia agent|terrorist|twin|twin brother,189,English,USA,PG-13,70000000,2.35
-Andrzej Bartkowiak,237,113,452,28031250,Action|Adventure|Horror|Sci-Fi,88146,Dexter Fletcher,0,commando unit|extra chromosome|first person shooter|special forces|teleportation,814,English,UK,R,60000000,2.35
-Betty Thomas,105,97,150,33105600,Action|Adventure|Comedy|Thriller,41663,Tate Taylor,1,boxer|espionage|spy|stealth|top secret,141,English,USA,PG-13,70000000,1.37
-Måns Mårlind,242,88,324,62321039,Action|Fantasy|Horror,117096,Sandrine Holt,1,battle|cryogenics|detective|scientist|vampire,271,English,USA,R,70000000,2.35
-Adam Shankman,360,136,66,38509342,Comedy|Drama|Musical|Romance,61995,Celina Beach,7,concert|love|music industry|panties|pole dancer,356,English,USA,PG-13,75000000,2.35
-Gregory Hoblit,112,125,407,19076815,Drama|War,43651,Rory Cochrane,0,colonel|honor|lieutenant|pilot|racism,196,English,USA,R,60000000,2.35
-Gary McKendry,189,116,748,25093607,Action|Crime|Thriller,105556,Ben Mendelsohn,2,australia|death|mentor|revenge|secret society,157,English,UK,R,35000000,2.35
-John McTiernan,151,98,390,18990542,Action|Sci-Fi|Sport,22264,Andrew Bryniarski,3,ball|blood|skating|song|year 2005,289,English,USA,R,70000000,2.35
-Wych Kaosayananda,92,91,298,14294842,Action|Crime|Sci-Fi|Thriller,16761,Gregg Henry,1,blood splatter|camera shot from inside human body|combat|die hard scenario|fbi,277,English,USA,R,70000000,2.35
-Mikael Salomon,79,97,695,19819494,Action|Crime|Drama|Thriller,26893,Randy Quaid,0,dam|flood|money|police|sheriff,126,English,USA,R,70000000,2.35
-Bobby Farrelly,81,95,443,13596911,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,25572,David Hyde Pierce,0,blood|body|egg|virus|white blood cell,123,English,USA,PG,70000000,2.35
-Will Finn,51,88,854,8460990,Adventure|Animation|Family|Fantasy|Musical,5116,Jim Belushi,1,jester|kansas|oz|princess|tornado,54,English,USA,PG,70000000,
-Michael Mann,261,133,301,7097125,Action|Crime|Drama|Mystery|Thriller,38983,Brandon Molale,1,chinese|computer|cybercrime|hacker|one word title,207,English,USA,R,70000000,2.35
-Kerry Conran,197,106,582,37760080,Action|Adventure|Mystery|Sci-Fi|Thriller,72868,Bai Ling,2,captain|pilot|reporter|robot|scientist,618,English,USA,PG,70000000,1.85
-Michael Caton-Jones,159,116,246,5851188,Crime|Mystery|Thriller,31124,Neil Maskell,1,drugs|murder|psychiatrist|scotland yard|sex,313,English,UK,R,70000000,2.35
-Mikael Håfström,286,115,585,25121291,Action|Crime|Mystery|Sci-Fi|Thriller,177653,Matt Gerald,1,cia agent|escape|muslim|prison|ship,279,English,USA,R,50000000,2.35
-Renny Harlin,156,99,182,18821279,Action|Adventure|Fantasy,44891,Gaia Weiss,0,ancient greece|forbidden love|hercules|king|slavery,202,English,USA,PG-13,70000000,2.35
-Phil Alden Robinson,176,124,497,118471320,Action|Drama|Thriller,86504,Philip Baker Hall,0,analyst|cia|nuclear bomb|nuclear weapons|russia,568,English,USA,PG-13,68000000,2.35
-David Slade,293,124,10000,300523113,Adventure|Drama|Fantasy|Romance,184637,Anna Kendrick,3,friendship|graduation|revenge|vampire|werewolf,498,English,USA,PG-13,68000000,2.35
-Frank Oz,141,124,580,71069884,Crime|Drama|Thriller,101899,Gary Farmer,0,partner|running|scepter|surveillance|thief,445,English,USA,R,68000000,2.35
-Pierre Coffin,304,87,975,251501645,Animation|Comedy|Family,385943,Jack McBrayer,0,girl|minion|moon|pyramid|white picket fence,296,English,USA,PG,69000000,1.85
-Joseph Ruben,40,105,97,35324232,Action|Comedy|Crime|Drama|Thriller,32224,Aida Turturro,1,bare breasts|breast|loan shark|subway|train,62,English,USA,R,68000000,2.35
-Seth MacFarlane,280,125,3000,81257500,Comedy,117739,Seth MacFarlane,0,baby|f word|fight|lawyer|marriage,229,English,USA,R,68000000,2.35
-Alejandro Amenábar,180,141,334,617840,Adventure|Drama|History|Romance,52496,Rupert Evans,2,christian|love|philosophy|prefect|slave,172,English,Spain,R,70000000,2.35
-Kinka Usher,125,121,776,29655590,Action|Comedy|Fantasy|Sci-Fi,53970,Eddie Izzard,4,bowling|rajah|sphinx|spleen|superhero,435,English,USA,PG-13,65000000,1.85
-Bobby Farrelly,237,111,681,45045037,Comedy|Romance,103230,Stephen Merchant,3,drugged food|female frontal nudity|male frontal nudity|male nudity|marriage,143,English,USA,R,36000000,2.35
-Michael Mann,209,157,680,28965197,Biography|Drama|Thriller,133526,Debi Mazar,1,cbs|cbs news|research|tobacco|whistleblower,521,English,USA,R,68000000,2.35
-Craig Gillespie,178,117,531,27550735,Action|Drama|History|Thriller,27481,Graham McTavish,0,1950s|coast guard|oil tanker|sinking ship|survival,113,English,USA,PG-13,,2.35
-Ridley Scott,238,128,135,39380442,Action|Drama|Thriller,174248,Michael Gaston,1,cia|jordan|middle east|spy|terrorist,263,English,USA,R,70000000,2.35
-Jay Roach,190,114,982,72980108,Comedy,80338,Bruce Greenwood,2,dinner|diorama|idiot|irs|mouse,264,English,USA,PG-13,,1.85
-Timur Bekmambetov,393,105,911,37516013,Action|Fantasy|Horror,128629,Benjamin Walker,0,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,348,English,USA,R,69000000,2.35
-Jon Amiel,138,113,232,87704396,Action|Crime|Romance|Thriller,88132,Maury Chaykin,1,art thief|insurance|mask|master thief|reference to iron maiden,274,English,USA,PG-13,66000000,2.35
-,4,30,359,,Comedy,15114,Nancy Travis,1,family relationships|husband wife relationship|live studio audience|sitcom|three word title,87,English,USA,TV-PG,,16.0
-Rob Bowman,142,121,745,83892374,Drama|Mystery|Sci-Fi|Thriller,85720,Jeffrey DeMunn,0,agent|alien|bomb|fbi|government,297,English,USA,PG-13,66000000,2.35
-Doug Lefler,90,102,112,5932060,Action|Adventure|Fantasy|War,29285,Owen Teale,0,5th century|boy|capri|roman legion|soldier,174,English,UK,PG-13,35000000,2.35
-Steven Spielberg,219,169,13000,216119491,Action|Drama|War,881236,Matt Damon,2,army|invasion|killed in action|normandy|soldier,2277,English,USA,R,70000000,1.85
-Scott Waugh,327,132,464,43568507,Action|Crime|Drama|Thriller,136954,Ramon Rodriguez,1,cross country|custom car|illegal street racing|police officer crushed|street racing,346,English,USA,PG-13,66000000,2.35
-Nancy Meyers,149,127,912,182805123,Comedy|Fantasy|Romance,158864,Loretta Devine,1,advertising|battle of the sexes|ex husband ex wife relationship|pantyhose|telepathy,395,English,USA,PG-13,70000000,1.37
-Chris Wedge,193,103,835,176387405,Adventure|Animation|Comedy|Family,328159,Denis Leary,0,baby|ice|ice age|sleeping|sloth,467,English,USA,PG,59000000,1.85
-Lawrence Kasdan,175,136,354,33685268,Drama|Horror|Sci-Fi|Thriller,75573,Reece Thompson,1,alien|friend|maine|military|woods,662,English,USA,R,68000000,2.35
-Steven Spielberg,538,150,655,182204440,Biography|Drama|History|War,197412,Bruce McGill,0,cultural conflict|politics|president|slavery|u.s. president,720,English,USA,PG-13,65000000,2.35
-Lana Wachowski,313,136,99,171383253,Action|Sci-Fi,1217752,Gloria Foster,3,artificial reality|computer|matrix|questioning reality|simulated reality,3646,English,USA,R,63000000,2.35
-Ron Howard,159,140,552,172071312,Adventure|Drama|History,208817,Kathleen Quinlan,0,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,296,English,USA,PG,62000000,2.35
-Paul Verhoeven,196,113,217,119412921,Action|Sci-Fi,240241,Marshall Bell,0,ambiguous ending|false memory|implanted memory|memory|space colony,391,English,USA,R,65000000,1.85
-Michael Lembeck,80,104,775,139225854,Comedy|Family|Fantasy,34561,Eric Lloyd,0,christmas|magic|santa claus|son|toy,116,English,USA,G,60000000,1.85
-Tom Hooper,488,158,11000,148775460,Drama|Musical|Romance,243834,Anne Hathaway,1,barricade|innkeeper|parole|rebellion|student,845,English,USA,PG-13,61000000,1.85
-Nora Ephron,153,119,744,115731542,Comedy|Drama|Romance,151812,Dave Chappelle,2,bookstore|competing businesses|instant messaging|new york city|shop owner,556,English,USA,PG,65000000,1.85
-Adam McKay,173,106,105,100468793,Comedy,212499,Andrea Savage,2,dream|friendship|karaoke|love|slacker,277,English,USA,R,65000000,2.35
-Martin Campbell,156,136,94,93771072,Action|Adventure|Comedy|Romance|Thriller|Western,135404,Stuart Wilson,0,19th century|california|revenge|training|zorro,318,English,USA,PG-13,65000000,2.35
-Todd Phillips,307,95,490,100448498,Comedy|Drama,272789,Matt Walsh,3,actor|aspiring actor|birth|misadventure|suitcase,285,English,USA,R,65000000,2.35
-Angelina Jolie Pitt,322,137,465,115603980,Biography|Drama|Sport|War,103589,Alex Russell,0,emaciation|male nudity|plane crash|prisoner of war|torture,351,English,USA,PG-13,65000000,2.35
-Clint Eastwood,169,130,416,90454043,Action|Adventure|Thriller,60165,William Devane,1,nasa|old age|satellite|space|space shuttle,326,English,USA,PG-13,65000000,2.35
-Renny Harlin,74,124,369,84049211,Action|Adventure|Thriller,96096,Janine Turner,1,money|mountain|rocky mountains|snow|suitcase,172,English,USA,R,70000000,2.35
-John Woo,72,108,461,70450000,Action|Crime|Thriller,77390,Bob Gunton,2,captain|desert|major|park ranger|utah,189,English,USA,R,50000000,2.35
-Jon Turteltaub,86,104,577,69688384,Comedy|Family|Fantasy,34473,Daniel von Bargen,1,altering history|cartoon on tv|childhood|image consultant|one two combo,139,English,USA,PG,60000000,1.85
-Oliver Stone,242,129,625,70236496,Drama|History|Thriller,67395,Armando Riesco,0,based on true story|police|rescue|rubble|trapped,564,English,USA,PG-13,63000000,1.85
-Mike Newell,141,117,403,63695760,Drama,61490,Marian Seldes,1,art|college|school|student|wellesley college,264,English,USA,PG-13,65000000,1.85
-Larry Charles,313,99,174,59617068,Comedy|Romance,213863,Horatio Sanz,0,dictator|hotel|oil|overalls|sunglasses,310,English,USA,R,65000000,2.35
-Stanley Kubrick,280,159,521,55637680,Drama|Mystery|Thriller,227071,Sydney Pollack,1,doctor|orgy|party|pianist|sexual fantasy,1500,English,UK,R,65000000,1.66
-Will Gluck,176,118,929,85911262,Comedy|Drama|Family|Musical,24735,David Zayas,6,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek,213,English,USA,PG,65000000,2.39
-Glenn Ficarra,279,105,523,53846915,Comedy|Crime|Drama|Romance,149337,Gerald McRaney,0,con artist|con man|deception|rivalry|seduction,221,English,USA,R,50100000,1.85
-McG,241,103,520,54758461,Action|Comedy|Romance,147641,Warren Christie,3,best friend|cia|cia agent|dating|undercover,238,English,USA,PG-13,65000000,2.35
-David S. Goyer,185,122,957,52397389,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,132954,John Michael Higgins,0,blade|blood|dracula|vampire hunter|vampire slayer,514,English,USA,R,65000000,2.35
-John Milius,97,114,919,,Action|Drama|War,41776,William Smith,0,guerrilla|high school|invasion|soviet|wolverine,383,English,USA,PG-13,16900000,1.85
-Mike Nichols,117,143,210,38966057,Comedy|Drama,23940,Paul Guilfoyle,0,campaigning|candidate|election|governor|president,157,English,France,R,65000000,2.35
-Paul W.S. Anderson,239,96,974,42345531,Action|Horror|Sci-Fi|Thriller,104831,Bingbing Li,0,corporation|fight|rescue|umbrella|zombie,423,English,Germany,R,65000000,2.35
-Paul W.S. Anderson,230,111,805,36064910,Action|Sci-Fi|Thriller,166610,Joan Allen,4,armored car|car|murder|prison|warden,211,English,USA,R,45000000,2.35
-Renny Harlin,94,121,263,33328051,Action|Crime|Drama|Mystery|Thriller,60508,Yvonne Zima,2,amnesia|chase|foot chase|strong female character|vomiting,285,English,USA,R,65000000,2.35
-Taylor Hackford,134,135,184,32598931,Action|Drama|Thriller,49300,Michael Kitchen,1,jungle|pipeline|prisoner|ransom|south america,265,English,USA,R,65000000,2.35
-Jon Favreau,136,101,539,28045540,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,67707,Jonah Bobo,0,2000s|coke|meeting future self|reference to spongebob squarepants|sony,202,English,USA,PG,65000000,1.85
-David Fincher,315,151,637,37023395,Drama,1347461,Eugenie Bondurant,2,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,2968,English,USA,R,63000000,2.35
-McG,96,131,383,43532294,Drama|Sport,46951,Brian Geraghty,0,coach|football|football team|marshall university|university,175,English,USA,PG,65000000,2.35
-,14,60,575,,Crime|Drama|Mystery,8739,Frances O'Connor,0,france|journalist|limp|police detective|reporter,28,English,UK,,,
-Michael Lehmann,60,100,554,17218080,Action|Adventure|Comedy,43376,Richard E. Grant,0,blackmail|burglar|critically bashed|leonardo da vinci|prison,249,English,USA,R,70000000,1.85
-Nora Ephron,60,105,506,10014234,Comedy|Crime,8560,Richard Schiff,1,celebrity|lottery|murder|snowmobile|weatherman,69,English,France,R,65000000,1.85
-Stuart Beattie,308,92,568,19059018,Action|Fantasy|Sci-Fi|Thriller,65709,Miranda Otto,0,army|creature|demon|frankenstein|gargoyle,194,English,Australia,PG-13,65000000,2.35
-Roman Polanski,127,130,25,1987287,Crime|Drama,25474,Tony Noble,0,boy|character name in title|orphan|pickpocket|workhouse,138,English,UK,PG-13,50000000,2.35
-Rob Bowman,196,100,1000,24407944,Action|Crime|Fantasy|Thriller,71202,Goran Visnjic,0,assassin|battle|heroine|martial arts|spin off,380,English,Canada,PG-13,43000000,2.35
-Frank Miller,339,102,6000,13750556,Action|Crime|Thriller,111102,Eva Green,3,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,239,English,USA,R,65000000,1.85
-Sydney Pollack,96,133,970,31054924,Drama|Mystery|Romance,17025,Bill Cobbs,1,death|plane crash|police|police sergeant|politician,290,English,USA,R,64000000,1.85
-Baltasar Kormákur,361,121,221,43247140,Adventure|Biography|Drama|History|Sport|Thriller,134625,Tom Goodman-Hill,0,blizzard|mount everest|mountain|mountain climbing|snow,265,English,UK,PG-13,55000000,2.35
-Tom Tykwer,226,147,16,2208939,Crime|Drama|Fantasy,190490,Simon Chandler,0,18th century|perfume|scent|sense of smell|smell,482,English,Germany,R,50000000,2.35
-Jay Roach,194,94,481,213079163,Action|Comedy|Crime,162909,Robert Wagner,2,fem bot|prison|seductive fembot|spy|time travel,795,English,USA,PG-13,63000000,2.35
-David Bowers,138,94,668,19548064,Action|Animation|Comedy|Family|Sci-Fi,25681,Dee Bradley Baker,1,betrayal|futuristic|gladiator|robot|scientist,77,English,Hong Kong,PG,65000000,2.35
-Steven Spielberg,308,127,191,356784000,Adventure|Sci-Fi|Thriller,613473,Bob Peck,0,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,895,English,USA,PG-13,63000000,1.85
-Lawrence Kasdan,40,212,812,25052000,Adventure|Biography|Crime|Drama|Western,35314,Isabella Rossellini,0,historically inaccurate|name calling|penis slur|vomiting|wyatt earp,145,English,USA,PG-13,63000000,2.35
-Phillip Noyce,42,141,672,122012710,Action|Crime|Drama|Thriller,69663,Raymond Cruz,1,cia|colombia|colombian drug cartel|drugs|president,133,English,USA,PG-13,62000000,2.35
-Daniel Lee,68,103,7,72413,Action|Adventure|Drama|History,11584,Sung-jun Yoo,3,child fugitive|final battle|martial art|silk road|sword,86,Mandarin,China,R,65000000,2.35
-Keenen Ivory Wayans,78,98,723,58255287,Comedy|Crime,39471,John Witherspoon,1,diamond|infant|parody|spoof|sports violence,187,English,USA,PG-13,64000000,1.85
-Jonathan Mostow,178,116,563,77086030,Action|War,65297,David Keith,0,battle|historically inaccurate|submarine movie|u boat|world war two,602,English,France,PG-13,62000000,2.35
-Rob Reiner,75,114,452,65000000,Comedy|Drama|Romance,43027,Wendie Malick,0,lobbyist|president|senator|state dinner|widower,214,English,USA,PG-13,62000000,2.35
-Marco Schnabel,150,87,645,32178777,Comedy|Romance|Sport,43300,Verne Troyer,6,bloopers during credits|bucket of popcorn|chastity belt|guru|toronto maple leafs,250,English,USA,PG-13,62000000,2.35
-Demian Lichtenstein,113,125,867,15738632,Action|Comedy|Crime|Thriller,38076,Ice-T,2,casino|elvis impersonator|gun|heist|rascal,399,English,USA,R,42000000,2.35
-Quentin Tarantino,596,187,1000,54116191,Crime|Drama|Mystery|Thriller|Western,272839,Zoë Bell,1,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,1018,English,USA,R,44000000,2.76
-Josh Gordon,191,93,970,118153533,Comedy|Sport,129995,Jon Heder,2,competition|fight|ice|jock strap|nintendo game boy advance,246,English,USA,PG-13,61000000,1.85
-Tim Hill,156,95,439,108012170,Adventure|Animation|Comedy|Family|Fantasy,24089,Chelsea Handler,0,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker,82,English,USA,PG,63000000,1.85
-Zack Snyder,460,117,447,210592590,Action|Drama|Fantasy|War,607235,Vincent Regan,0,battle|epic|greece|spartan|warrior,2073,English,USA,R,65000000,2.35
-Jay Roach,141,106,708,279167575,Comedy|Romance,211296,Teri Polo,6,bare butt|defecation|father in law son in law relationship|nurse|sexual innuendo in title,428,English,USA,PG-13,80000000,1.85
-David Frankel,180,115,664,143151473,Comedy|Drama|Family,116681,Haley Bennett,0,box office hit|dog|dog movie|florida|pet name in title,320,English,USA,PG,60000000,2.35
-Frank Darabont,186,189,693,136801374,Crime|Drama|Fantasy|Mystery,782610,Michael Jeter,0,1930s|death row inmate|healing|prison guard|southern u.s.,1377,English,USA,R,60000000,1.85
-Walt Becker,177,100,311,168213584,Action|Adventure|Comedy,99989,Drew Sidora,3,biker gang|friend|motorcycle|new mexico|road trip,255,English,USA,PG-13,,2.35
-Mark Dindal,161,81,397,135381507,Adventure|Animation|Comedy|Family|Sci-Fi,63912,Amy Sedaris,0,alien invasion|chicken|fish|friend|panic,251,English,USA,G,150000000,1.85
-David Fincher,568,149,625,167735396,Crime|Drama|Mystery|Thriller,569841,Emily Ratajkowski,0,based on novel|disappearance|missing person|missing wife|murder suspect,1127,English,USA,R,61000000,2.35
-Doug Liman,249,119,73,121468960,Action|Mystery|Thriller,407601,Nicky Naudé,1,amnesia|assassin|money|political thriller|three word title,849,English,USA,PG-13,60000000,2.35
-Martin Campbell,137,130,345,106635996,Action|Adventure|Thriller,199025,Tchéky Karyo,2,agent|cossack|official james bond series|russia|russian,416,English,UK,PG-13,58000000,2.35
-Simon West,113,116,475,102678089,Drama|Mystery|Thriller,42705,Clarence Williams III,0,army cid|cover up|military|murder|woman in military,274,English,USA,R,95000000,2.35
-Peter Weir,213,103,576,125603360,Comedy|Drama|Sci-Fi,667983,Peter Krause,1,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,877,English,USA,PG,60000000,1.85
-Brenda Chapman,120,99,145,101217900,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,91093,Eden Riegel,2,ancient egypt|hebrew|nudity|pharaoh|title directed by female,353,English,USA,PG,70000000,1.85
-Steve Carr,81,92,522,104148781,Comedy|Family,49486,Jeff Garlin,1,bloopers during credits|breakfast cereal|department store ride|face painting|sponge bob square pants slippers,116,English,USA,PG,60000000,1.85
-Baltasar Kormákur,265,109,459,75573300,Action|Comedy|Crime|Drama|Thriller,156898,Fred Ward,1,close up of breasts|female nudity|fugitive|money|undercover,172,English,USA,R,61000000,2.35
-Lawrence Guterman,105,87,405,93375151,Action|Comedy|Family|Fantasy,46031,Miriam Margolyes,0,cartoon on tv|cat|dog|scientist|secret agent,235,English,USA,PG,60000000,1.85
-F. Gary Gray,155,111,82,106126012,Action|Crime|Thriller,285623,Jimmy Shubert,6,gold|heist|revenge|traffic jam|venice italy,497,English,USA,PG-13,60000000,2.35
-Marc Lawrence,118,101,268,93307796,Comedy|Romance,85673,Dana Ivey,2,developer|divorce|lawyer|love|new york city,269,English,USA,PG-13,60000000,1.85
-Eric Darnell,131,83,754,90646554,Adventure|Animation|Comedy|Family,124641,Anne Bancroft,0,ant|friend|princess|soldier|worker,289,English,USA,PG,105000000,1.85
-Peter Billingsley,166,113,721,109176215,Comedy,83506,Tasha Smith,6,couple|island|marriage|tropical|voyeurism,144,English,USA,PG-13,60000000,1.85
-Tony Scott,60,107,695,82670733,Action|Drama|Sport,60476,Randy Quaid,0,driver|hot shot|racing|stock car driver|team,97,English,USA,PG-13,60000000,2.35
-Adam Shankman,77,94,2000,82569532,Adventure|Comedy|Family,42737,Alyson Stoner,6,children|competition|rival|second part|vacation,128,English,USA,PG,60000000,2.35
-Wes Ball,249,132,240,81687587,Action|Sci-Fi|Thriller,138246,Rosa Salazar,0,desert|disease|escape|resistance|virus,360,English,USA,PG-13,61000000,2.35
-Ryan Murphy,213,140,745,80574010,Drama|Romance,63493,Billy Crudup,1,divorce|emotional balance|female protagonist|indonesia|inner peace,302,English,USA,PG-13,60000000,1.85
-Brett Ratner,121,125,627,75764085,Comedy|Drama|Fantasy|Romance,85844,Amber Valletta,1,bowling|christmas|parallel universe|salesman|unfaithfulness,322,English,USA,PG-13,60000000,2.35
-Robert Schwentke,315,111,357,90356857,Action|Comedy|Crime|Thriller,238916,Jaqueline Fleming,4,cia|female assassin|interrogation|office cubicle|spy,328,English,USA,PG-13,58000000,2.35
-Oliver Stone,171,156,1000,75530832,Drama|Sport,97047,LL Cool J,5,breasts|coach|football|in medias res|vomiting,452,English,USA,R,55000000,2.35
-Robert Redford,96,170,380,75370763,Drama|Romance|Western,32353,Jessalyn Gilsig,0,grace|groom|horse|montana|western u.s.,263,English,USA,PG-13,60000000,1.85
-Michael Mann,299,120,680,100003492,Crime|Drama|Thriller,293662,Debi Mazar,0,city by night|contract killer|driving at night|los angeles california|taxi,836,English,USA,R,65000000,2.35
-Chuck Russell,167,100,416,90341670,Action|Adventure|Fantasy|Thriller,102129,Bernard Hill,4,desert|king|showdown|sorceress|warrior,432,English,USA,PG-13,60000000,2.35
-Jay Russell,125,115,579,74540762,Action|Drama|Thriller,48753,Jacinda Barrett,2,death of husband|fire|firefighter|funeral|main character dies,323,English,USA,PG-13,55000000,1.85
-Christopher McQuarrie,387,130,1000,80033643,Action|Crime|Mystery|Thriller,226570,David Oyelowo,2,coma|mysterious villain|police chase|shooting range|sniper,448,English,USA,PG-13,60000000,2.35
-Renny Harlin,199,105,811,73648142,Action|Sci-Fi|Thriller,99043,Saffron Burrows,1,alzheimer's disease|experiment|human versus shark|research|underwater headquarters,643,English,USA,R,60000000,2.35
-Kenny Ortega,136,111,6,71844424,Documentary|Music,33158,Judith Hill,0,2000s|box office hit|comeback|rehearsal|year 2009,223,English,USA,PG,60000000,1.78
-Steven Soderbergh,436,106,175,75638743,Drama|Thriller,180479,Griffin Kane,4,contagion|cure|infection|panic|virus,411,English,USA,PG-13,60000000,1.85
-David McNally,73,89,226,66734992,Action|Adventure|Comedy|Crime,23476,Bill Hunter,0,australia|body paint|kangaroo|mob|money,181,English,USA,PG,60000000,2.35
+movie_facebook_likes
+12000
+83000
+101000
+681
+0
+0
+58000
+0
+40000
+74000
+12000
+1000
+0
+0
+14000
+14000
+13000
+28000
+0
+55000
+11000
+54000
+0
+0
+0
+13000
+0
+0
+0
+0
+663
+2000
+35000
+0
+16000
+0
+55000
+0
+12000
+0
+0
+0
+0
+25000
+29000
+49000
+12000
+0
+14000
+0
+17000
+263
+0
+0
+0
+11000
+3000
+16000
+0
+0
+0
+694
+0
+0
+0
+0
+42000
+0
+26000
+0
+0
+0
+390
+20000
+445
+16000
+0
+301
+702
+24000
+0
+39000
+0
+0
+470
+3000
+394
+279
+0
+299
+0
+8000
+0
+0
+680
+15000
+0
+416
+0
+0
+309
+0
+0
+555
+604
+54000
+754
+15000
+835
+630
+39000
+849
+0
+0
+579
+612
+0
+11000
+0
+866
+328
+401
+10000
+892
+158
+565
+15000
+0
+211
+0
+823
+0
+12000
+0
+0
+0
+265
+58000
+0
+89
+15000
+21000
+13000
+0
+14000
+25000
+14000
+177
+0
+12000
+0
+0
+9000
+478
+478
+0
+13000
+33000
+0
+0
+0
+0
+989
+8000
+689
+168
+0
+352
+0
+12000
+911
+23000
+39000
+389
+474
+0
+27000
+366
+0
+14000
+70000
+29000
+14000
+0
+0
+83000
+13000
+0
+15000
+0
+19000
+0
+0
+35000
+240
+0
+0
+12000
+0
+852
+0
+11000
+591
+846
+23000
+17000
+133
+279
+638
+24000
+12000
+0
+12000
+2000
+0
+38000
+0
+0
+31000
+36000
+0
+0
+17000
+0
+0
+25000
+919
+0
+11000
+0
+0
+0
+10000
+0
+0
+0
+0
+0
+41000
+0
+39000
+0
+18000
+0
+0
+913
+0
+0
+0
+0
+11000
+0
+0
+52000
+0
+13000
+265
+0
+0
+0
+21000
+0
+0
+0
+12000
+16000
+5000
+0
+0
+0
+0
+12000
+0
+11000
+0
+0
+0
+949
+0
+0
+23000
+13000
+538
+0
+0
+0
+0
+20000
+0
+0
+17000
+0
+0
+0
+0
+0
+452
+0
+0
+433
+0
+0
+39000
+471
+10000
+704
+0
+494
+24000
+0
+9000
+20000
+892
+6000
+561
+675
+0
+262
+633
+29000
+677
+0
+26
+38000
+0
+0
+23000
+120
+0
+0
+23000
+1000
+314
+0
+13000
+0
+0
+742
+1000

@@ -1,361 +1,130 @@
-num_critic_for_reviews,gross,facenumber_in_poster,content_rating,budget,aspect_ratio
-15,,0,,,
-70,3500000,2,R,2700000,1.85
-79,676698,0,R,18000000,1.85
-103,3419967,0,R,,2.35
-97,,1,R,18000000,2.35
-108,145118,0,Not Rated,,2.35
-59,,0,Not Rated,18000000,2.35
-10,229311,2,R,11350000,2.35
-184,,1,Unrated,3500000,1.85
-23,,1,R,18000000,
-112,63260,0,R,14000000,2.35
-45,,1,R,11000000,2.35
-59,,1,PG-13,17900000,2.35
-195,,2,R,14000000,2.35
-256,121463226,2,R,20000000,1.85
-44,90485233,0,PG-13,,1.85
-59,,2,R,18000000,2.35
-97,58006147,2,PG-13,23000000,1.85
-142,51053787,1,PG,17500000,1.85
-187,23472900,1,PG-13,17500000,2.35
-193,39687528,1,R,24000000,2.35
-40,7017178,5,PG,17500000,2.35
-46,,4,R,18000000,2.35
-38,325491,0,R,17500000,1.85
-239,96471845,0,PG-13,17000000,1.85
-250,85200000,1,R,18500000,1.85
-82,72000000,1,Approved,17000000,2.2
-140,72219395,1,R,17000000,2.35
-129,82389560,1,R,17000000,1.85
-285,71502303,0,R,12000000,1.85
-91,19179969,2,R,17500000,2.35
-318,47000000,0,R,300000,2.35
-283,84961,4,PG-13,31000000,2.35
-52,37566230,1,PG,17000000,1.85
-56,70492685,5,R,17000000,2.35
-186,35635046,0,R,17000000,2.35
-178,45670855,0,R,20000000,1.85
-140,37939782,0,R,17000000,1.85
-469,172051787,0,PG,170000000,2.35
-63,30324946,2,PG-13,17000000,1.85
-148,27854896,1,PG-13,17000000,2.35
-265,41777564,0,R,15000000,2.35
-75,22734486,1,PG-13,17000000,2.35
-113,44469602,0,PG,17000000,2.35
-62,24708699,7,PG-13,,2.35
-54,21160089,0,PG-13,,2.35
-223,64998368,4,PG-13,17000000,1.85
-50,19693891,2,PG-13,34000000,1.85
-125,16311763,1,R,17000000,1.85
-81,12693621,0,PG-13,17000000,2.35
-37,15655665,2,PG-13,4000000,1.33
-44,11634458,0,G,17000000,1.85
-197,27154426,1,R,17000000,2.35
-15,,3,Unrated,9000000,2.2
-543,54239856,0,R,17000000,2.35
-112,8662318,1,PG-13,17000000,1.85
-153,7156725,6,PG-13,19000000,1.85
-94,15681020,6,PG,17000000,2.35
-62,7070459,0,PG-13,,1.85
-157,6855137,2,R,17000000,2.35
-35,2694071,3,PG,,2.35
-21,2315683,0,PG-13,17000000,1.85
-236,39825798,3,PG-13,16000000,1.85
-50,2000000,0,PG,17000000,2.35
-106,1569918,1,R,17000000,2.35
-106,106869,1,R,17000000,
-173,273420,6,R,17000000,2.35
-41,,0,PG,11000000,
-41,,0,PG,17000000,2.35
-145,4930798,1,PG-13,17000000,2.35
-31,59847242,1,PG-13,16500000,1.85
-105,220914,2,R,16800000,1.85
-236,39825798,3,PG-13,16000000,1.85
-114,43848100,2,R,15000000,1.85
-69,42700000,2,PG,16500000,1.85
-150,18663911,1,PG,16500000,2.35
-72,11702090,2,PG-13,16500000,2.35
-158,13005485,0,R,15000000,1.85
-96,95860116,0,PG,16400000,1.85
-84,127175354,2,PG-13,16000000,1.85
-114,92823600,0,R,16000000,1.85
-79,54000000,0,R,16000000,1.85
-103,68525609,5,R,15600000,1.85
-67,52885587,0,R,16000000,1.85
-576,44667095,0,PG-13,15000000,1.33
-178,42638165,1,PG-13,16000000,2.35
-487,45507053,2,PG-13,16000000,1.85
-196,39511038,0,R,16000000,1.85
-24,6462576,0,PG-13,18500000,2.35
-56,40363530,2,PG,16000000,1.85
-406,37623143,0,R,13500000,1.85
-3,,0,,,16.0
-51,33357476,0,PG,35000000,1.85
-41,28734552,2,R,16000000,1.85
-138,37300107,1,PG-13,16000000,2.35
-78,27087695,0,PG-13,17700000,1.85
-40,30102717,2,R,15000000,1.85
-285,23618786,1,R,8000000,2.35
-124,26896744,4,PG-13,16500000,1.85
-275,23213577,0,PG-13,15500000,1.85
-34,,1,,25000000,2.35
-81,55461307,9,R,20000000,
-67,20627372,3,PG-13,16000000,1.85
-103,16346122,0,PG-13,16000000,1.85
-300,16204793,1,R,16000000,1.85
-84,15427192,0,PG-13,16000000,1.85
-64,14792779,0,PG,16000000,1.85
-169,13998282,1,PG-13,16000000,2.35
-158,19057024,0,PG-13,16000000,1.85
-46,14108518,1,PG-13,16000000,1.85
-15,13854000,0,PG-13,20000000,1.85
-68,77324422,2,PG-13,26000000,1.85
-111,15500000,0,R,16000000,2.35
-21,11540112,1,PG-13,,1.85
-42,,7,PG,16000000,2.35
-65,4734235,0,R,15000000,1.85
-109,4839383,0,PG-13,16000000,1.85
-42,4193025,0,R,15000000,2.35
-112,5900000,1,R,16000000,1.85
-146,2849142,1,R,16000000,2.35
-36,1686429,1,PG-13,16000000,1.85
-230,1984743,3,R,16000000,2.35
-64,1666262,0,PG-13,16000000,1.66
-393,2319187,0,R,20000000,2.35
-75,13922211,9,R,16000000,1.85
-78,,2,,11000000,2.35
-67,23091,1,R,15000000,2.35
-216,336467,0,Not Rated,13000000,2.35
-54,2964,2,PG-13,16000000,1.78
-84,,0,G,16000000,1.85
-69,,0,R,16000000,2.35
-208,2428883,1,R,16000000,2.35
-32,13571817,3,PG-13,15600000,1.85
-20,,0,TV-MA,34000000,16.0
-78,1554566,1,R,,1.66
-21,508867,0,PG,,2.35
-40,1181197,0,R,15500000,1.85
-40,81525,1,R,15300000,2.35
-251,7774730,0,R,15500000,1.85
-94,234760500,1,R,14000000,1.85
-102,285761243,5,PG,18000000,1.85
-21,167780960,4,PG,11000000,1.85
-94,177200000,1,PG,22000000,2.35
-173,176781728,2,PG,15000000,1.33
-287,128067808,3,PG-13,15000000,2.35
-176,130058047,0,R,15000000,2.35
-479,138795342,0,R,15000000,1.85
-27,111936400,1,PG,15000000,1.85
-20,,0,TV-14,,16.0
-60,317040,1,PG-13,15500000,2.35
-70,94175854,0,PG-13,15000000,1.85
-43,,2,R,,2.35
-1,,2,PG-13,100000000,2.35
-454,91121452,1,PG-13,14000000,2.35
-25,69800000,1,R,10000000,1.85
-46,79900000,0,PG,,1.85
-111,64001297,1,PG,15000000,1.85
-393,71588220,1,PG-13,20000000,1.85
-318,47000000,0,R,300000,2.35
-55,61400000,1,R,15000000,1.85
-157,101978840,0,R,15000000,1.85
-280,56437947,0,PG-13,9800000,1.85
-109,73326666,3,PG,15000000,1.85
-41,55184721,8,PG-13,15000000,1.85
-27,50003300,4,PG,15000000,1.85
-462,54322273,0,PG-13,17000000,2.35
-152,47860214,0,PG-13,15000000,2.35
-69,47811275,1,PG,15000000,1.85
-140,,2,R,15000000,2.35
-130,43022524,0,R,15000000,1.85
-66,42672630,1,PG,17000000,2.35
-238,42919096,1,PG-13,15000000,2.35
-198,42592530,0,PG-13,15000000,2.35
-154,40064955,1,R,15000000,1.85
-19,39100956,0,R,,1.85
-131,44886089,3,R,10000000,1.85
-97,37882551,0,R,16000000,1.85
-355,40983001,2,R,7000000,1.85
-138,20991497,1,PG-13,37000000,1.85
-102,35007180,0,PG-13,15000000,1.85
-419,35887263,0,PG-13,15000000,2.35
-37,34308901,3,PG-13,16000000,2.35
-78,33771174,2,PG-13,15000000,1.85
-181,6000000,8,PG,15000000,2.2
-220,33386128,0,R,15000000,1.85
-349,37877959,1,R,15000000,2.35
-241,32721635,0,R,15000000,1.85
-103,31585300,0,PG-13,15000000,1.85
-151,30259652,5,R,15000000,2.35
-344,163192114,0,PG-13,125000000,2.35
-185,30857814,0,PG,16000000,1.85
-112,30226144,1,PG-13,15000000,2.35
-676,35054909,0,R,15000000,2.35
-74,29302097,8,PG,15000000,1.85
-65,29106737,0,R,15000000,1.85
-274,28637507,1,R,15000000,1.85
-50,30127963,0,PG,15000000,1.85
-96,32645546,5,PG,14000000,1.85
-68,27441122,0,PG-13,15000000,1.85
-111,28014536,1,R,15000000,1.85
-128,33860010,3,PG-13,15000000,1.85
-160,26421314,0,R,15000000,1.85
-93,24881000,0,R,15000000,1.85
-278,23089926,3,R,15000000,1.85
-81,26161406,2,G,15000000,2.35
-58,22954968,1,PG,11500000,2.35
-153,26384919,15,R,15000000,2.35
-25,22189039,0,R,15000000,1.85
-46,20998709,0,PG,15000000,2.35
-161,20801344,0,R,15000000,2.35
-108,21468807,2,R,14000000,2.35
-69,19158074,2,PG,15000000,2.35
-78,18843314,1,PG-13,20000000,1.85
-129,20566327,2,R,15000000,2.35
-135,20218921,4,PG-13,15000000,2.35
-96,17411331,3,R,15000000,1.85
-417,21383298,3,R,15000000,2.35
-172,24984868,2,R,15000000,2.35
-88,16459004,1,R,15000000,2.35
-388,15700000,0,R,15000000,1.85
-45,15100000,1,R,15000000,2.35
-414,14938570,1,R,15000000,2.35
-291,17237244,3,R,15000000,2.35
-97,14249005,1,R,15000000,1.85
-37,12701880,0,G,15000000,1.85
-68,10353690,0,G,,1.78
-90,12801190,1,R,15000000,2.35
-81,12549485,4,R,15000000,2.35
-221,13766014,0,PG-13,15000000,2.35
-230,13034417,1,PG-13,15000000,2.35
-57,11632420,1,R,,2.35
-119,12212417,3,R,15000000,2.35
-97,11614236,2,PG-13,15000000,1.37
-119,13337299,7,PG-13,20000000,2.35
-42,10763469,0,PG,15000000,1.85
-24,11144518,0,G,15000000,1.85
-208,15608545,3,R,15000000,2.35
-42,10443316,2,PG-13,15000000,1.85
-44,10494147,1,PG-13,15000000,1.85
-230,9929000,0,R,15000000,1.85
-46,10411980,0,PG,15000000,2.35
-18,,1,TV-14,,
-249,17439163,1,R,15000000,1.85
-197,9396487,0,R,15000000,2.35
-71,9059588,1,R,15000000,2.35
-190,9172810,0,R,16000000,2.35
-50,8735529,4,PG-13,15000000,1.85
-63,8586376,4,R,20000000,1.85
-104,8378141,5,PG,15000000,2.35
-,,1,Unrated,,1.33
-49,8080116,0,PG,15000000,1.85
-300,7757130,1,R,15000000,2.35
-43,9123834,6,PG-13,15000000,2.35
-132,6409206,4,PG-13,15000000,1.85
-97,6373693,1,PG-13,15000000,1.85
-242,7556708,1,R,15000000,1.85
-218,5306447,1,PG-13,15000000,1.85
-49,5217498,4,PG-13,15000000,1.85
-172,5023275,2,R,15000000,2.35
-68,4956401,2,PG-13,15000000,1.85
-223,4235837,2,R,15000000,2.35
-59,4002955,0,R,20000000,1.85
-252,7219578,1,R,15000000,1.85
-106,3525161,0,PG-13,,2.35
-223,3247816,0,R,22000000,1.85
-328,2412045,0,R,15000000,2.35
-9,,3,,,1.78
-150,2203641,0,R,15000000,2.35
-21,1953732,0,R,15000000,2.35
-28,1954202,0,PG-13,15000000,2.35
-250,1294640,0,R,15000000,1.85
-17,,0,,,2.35
-95,819852,0,PG-13,,2.35
-260,26435,1,Not Rated,6000000,1.33
-141,1197786,2,R,12000000,2.35
-52,529766,2,R,7000000,1.85
-205,613556,1,Not Rated,15000000,1.37
-109,353743,1,R,15000000,2.35
-103,502028,0,Unrated,,1.85
-110,102055,0,R,300000000,2.35
-195,122288,0,R,,2.35
-14,,0,R,9000000,2.35
-177,73548,0,R,15000000,2.35
-17,,2,R,15000000,
-62,28870,5,R,15000000,2.35
-19,22723,1,PG-13,25000000,2.35
-50,20380,1,R,15000000,1.85
-25,,1,R,,2.35
-39,,0,Not Rated,20000000,
-136,,0,R,7000000,2.35
-26,,0,Not Rated,15000000,1.78
-4,,0,,15000000,
-53,,4,R,15000000,2.35
-22,,1,PG-13,15000000,
-147,70906973,1,PG,14600000,1.85
-222,66009973,3,R,14800000,2.35
-106,46338728,2,PG-13,14500000,2.35
-136,7691700,2,PG-13,10000000,2.35
-5,,2,R,14500000,
-131,101157447,1,R,14400000,2.35
-140,74205,1,Not Rated,14200000,2.35
-418,141319195,0,R,15000000,2.35
-94,156645693,0,R,14000000,1.85
-82,178406268,2,R,14000000,1.85
-,,2,,,1.33
-32,109306210,1,PG,15800000,2.35
-22,,0,R,15000000,2.35
-72,70001698,0,R,14000000,2.35
-39,68856263,1,PG,15000000,1.85
-264,51527787,0,R,15000000,1.85
-264,49122319,0,PG-13,14000000,2.35
-145,,1,R,14000000,2.35
-86,61356221,0,PG-13,14000000,2.35
-112,46800000,2,PG,14000000,2.35
-17,,0,,,
-101,38048637,4,R,14000000,2.35
-51,34700000,2,R,14000000,1.85
-42,35010192,1,PG-13,,2.35
-10,34793160,1,PG,14000000,1.85
-43,30628981,1,PG-13,14000000,1.85
-331,29959436,1,PG-13,13000000,2.35
-38,25571351,0,G,14000000,1.85
-12,27515786,0,R,14000000,1.85
-40,25482931,2,R,14000000,2.35
-34,19900000,1,R,20000000,1.85
-82,,7,R,14000000,1.85
-125,16298046,0,PG-13,14000000,2.35
-56,15549702,2,PG-13,14000000,1.85
-160,15483540,4,R,14000000,2.35
-71,20246959,2,PG-13,14000000,2.35
-37,15062898,0,R,14000000,1.85
-62,14348123,6,PG,12000000,1.85
-73,15171475,0,R,8500000,1.85
-59,,0,PG,14000000,1.66
-25,13640000,0,PG-13,14000000,1.85
-97,12550242,3,R,,1.85
-205,12610731,1,R,11000000,1.85
-69,47811275,1,PG,15000000,1.85
-195,11204499,0,R,14000000,2.35
-61,10397365,5,PG-13,14000000,2.35
-77,9402410,1,PG-13,14000000,2.35
-259,5990075,1,PG-13,,1.85
-251,5459824,0,R,26000000,2.35
-63,5108820,5,R,24000000,2.35
-47,4741987,1,R,14000000,1.85
-108,4291965,3,PG-13,14000000,2.35
-64,3100650,4,PG-13,14000000,1.85
-20,2474000,1,PG-13,14000000,1.85
-135,2656324,4,PG-13,,2.35
-2,1000000,0,PG,14000000,2.35
-262,3958500,0,R,8200000,2.35
-129,403649,0,PG,,2.35
-69,274299,2,Unrated,103000000,1.85
-50,,2,R,12000000,2.35
-57,183088,0,R,15000000,1.85
-116,46495,1,R,14000000,1.85
-45,,7,R,,1.85
-87,1752214,0,PG,14000000,1.85
-357,83025853,0,R,14000000,1.85
-348,190871240,0,PG-13,125000000,2.35
+director_facebook_likes,actor_1_facebook_likes,genres,movie_title,actor_3_name,plot_keywords,movie_imdb_link,num_user_for_reviews,language,country,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
+0,826,Crime|Drama,Wall Street ,James Karen,1980s|argument|critique of capitalism|f word|fired from the job,http://www.imdb.com/title/tt0094291/?ref_=fn_tt_tt_1,219,English,USA,1987,508,7.4,1.85,0
+0,25000,Drama|Romance,Sense and Sensibility ,Tom Wilkinson,1810s|female protagonist|horseback riding|inheritance|three word title,http://www.imdb.com/title/tt0114388/?ref_=fn_tt_tt_1,196,English,USA,1995,14000,7.7,1.85,0
+11,11000,Biography|Drama|Romance,Becoming Jane ,Laurence Fox,country estate|jane austen|lady|love|writing,http://www.imdb.com/title/tt0416508/?ref_=fn_tt_tt_1,151,English,UK,2007,838,7.1,2.35,0
+18,714,Comedy|Romance,Sydney White ,Samm Levine,college|college girl|female protagonist|sorority|sorority house,http://www.imdb.com/title/tt0815244/?ref_=fn_tt_tt_1,50,English,USA,2007,701,6.3,2.35,0
+26,638,Drama,House of Sand and Fog ,Ron Eldard,auction|home|house|iranian|marriage,http://www.imdb.com/title/tt0315983/?ref_=fn_tt_tt_1,469,English,USA,2003,624,7.6,1.85,0
+608,49000,Comedy|Drama,Dead Poets Society ,Kurtwood Smith,education|english teacher|poet|professor|student,http://www.imdb.com/title/tt0097165/?ref_=fn_tt_tt_1,491,English,USA,1989,1000,8.0,1.85,23000
+137,879,Comedy,Dumb & Dumber ,Teri Garr,briefcase full of money|character repeating someone else's dialogue|character says i love you|friendship|reference to cinderella,http://www.imdb.com/title/tt0109686/?ref_=fn_tt_tt_1,438,English,USA,1994,854,7.3,1.85,0
+0,227,Comedy|Drama|Romance,When Harry Met Sally... ,Harley Jane Kozak,friendship|love|male female friendship|new york|sex,http://www.imdb.com/title/tt0098635/?ref_=fn_tt_tt_1,273,English,USA,1989,73,7.6,1.85,0
+0,844,Drama,The Verdict ,Jack Warden,archdiocese|court|hospital|lawyer|malpractice,http://www.imdb.com/title/tt0084855/?ref_=fn_tt_tt_1,154,English,USA,1982,617,7.8,1.85,0
+480,1000,Comedy,Road Trip ,Paulo Costanzo,blonde|college|friend|highway travel|road trip,http://www.imdb.com/title/tt0215129/?ref_=fn_tt_tt_1,302,English,USA,2000,490,6.5,1.85,0
+48,23000,Comedy|Drama|Romance|Sport,Varsity Blues ,Mark Walters,coach|coyote|popularity|quarterback|texas,http://www.imdb.com/title/tt0139699/?ref_=fn_tt_tt_1,267,English,USA,1999,255,6.4,1.85,0
+405,996,Comedy|Drama|Romance,The Artist ,Beth Grant,1920s|jack russell terrier|modern silent movie|movie star|movie studio,http://www.imdb.com/title/tt1655442/?ref_=fn_tt_tt_1,583,English,France,2011,897,8.0,1.33,30000
+687,10000,Drama|Fantasy|Horror|Mystery|Thriller,The Unborn ,Rachel Brosnahan,babysitting|experiment|nightmare|possession|twin,http://www.imdb.com/title/tt1139668/?ref_=fn_tt_tt_1,230,English,USA,2009,787,4.8,2.35,0
+0,13000,Adventure|Comedy|Drama|Romance,Moonrise Kingdom ,Bob Balaban,1960s|boy scouts|boy scouts camp|coming of age|young love,http://www.imdb.com/title/tt1748122/?ref_=fn_tt_tt_1,377,English,USA,2012,13000,7.8,1.85,71000
+473,20000,Horror,The Texas Chainsaw Massacre: The Beginning ,Lew Temple,cannibal|car accident|leatherface|psychopath|slaughterhouse,http://www.imdb.com/title/tt0420294/?ref_=fn_tt_tt_1,366,English,USA,2006,4000,5.9,1.85,0
+19,241,Drama,The Young Messiah ,Finn Ireland,based on novel,http://www.imdb.com/title/tt1002563/?ref_=fn_tt_tt_1,30,English,USA,2016,118,5.4,2.35,0
+11,911,Comedy|Family,The Master of Disguise ,James Brolin,disguise|mask|master of disguise|restaurant|waiter,http://www.imdb.com/title/tt0295427/?ref_=fn_tt_tt_1,307,English,USA,2002,521,3.3,1.85,1000
+0,634,Drama|Fantasy|War,Pan's Labyrinth ,Sergi López,fairy|fairy tale|faun|princess|spain,http://www.imdb.com/title/tt0457430/?ref_=fn_tt_tt_1,1083,Spanish,Spain,2006,269,8.2,1.85,27000
+,1000,Drama|Fantasy|Mystery|Thriller,The Messengers             ,Riley Smith,,http://www.imdb.com/title/tt3513704/?ref_=fn_tt_tt_1,57,English,USA,,921,6.6,16.0,0
+14,1000,Action|Comedy|Crime|Family,See Spot Run ,Paul Sorvino,boy|fbi|mailman|van|witness protection,http://www.imdb.com/title/tt0250720/?ref_=fn_tt_tt_1,53,English,USA,2001,1000,5.4,1.85,393
+309,939,Crime|Drama|Romance|Thriller,Baby Boy ,Angell Conwell,cartoon on tv|family relationships|physical abuse|single parent|two word title,http://www.imdb.com/title/tt0255819/?ref_=fn_tt_tt_1,81,English,USA,2001,881,6.4,1.85,1000
+26,3000,Drama|Horror|Thriller,The Roommate ,Frances Fisher,animal abuse(non graphic)|cat killer|college|dead cat|death of cat,http://www.imdb.com/title/tt1265990/?ref_=fn_tt_tt_1,115,English,USA,2011,1000,4.8,2.35,0
+29,861,Adventure|Comedy|Drama,Joe Dirt ,Fred Ward,first part|grand canyon|highway travel|indian|janitor,http://www.imdb.com/title/tt0245686/?ref_=fn_tt_tt_1,205,English,USA,2001,593,5.9,1.85,0
+23,633,Action|Crime,Double Impact ,Kamel Krifa,boat|hong kong|murder|tunnel|twins,http://www.imdb.com/title/tt0101764/?ref_=fn_tt_tt_1,72,English,USA,1991,67,5.5,1.85,0
+1000,175,Action|Comedy|Mystery,Hot Fuzz ,Billie Whitelaw,accident|conspiracy|police|police officer|village,http://www.imdb.com/title/tt0425112/?ref_=fn_tt_tt_1,687,English,UK,2007,115,7.9,2.35,17000
+15,851,Comedy|Drama,The Women ,Debra Messing,beauty salon|divorce|fashion|new york|perfume,http://www.imdb.com/title/tt0430770/?ref_=fn_tt_tt_1,125,English,USA,2008,680,4.9,1.85,0
+11000,19000,Drama|Romance,Vicky Cristina Barcelona ,Christopher Evan Welch,art|artist|painter|sex|summer,http://www.imdb.com/title/tt0497465/?ref_=fn_tt_tt_1,365,English,Spain,2008,581,7.2,1.85,14000
+5,908,Action|Adventure|Drama|Romance|War,Arn: The Knight Templar ,Vincent Perez,first part|holy land|knight templar|monastery|sword and shield,http://www.imdb.com/title/tt0837106/?ref_=fn_tt_tt_1,54,Swedish,Sweden,2007,690,6.6,2.35,0
+24,15000,Comedy,Bad Moms ,Jada Pinkett Smith,lesbian kiss|mom|pta|reference to mad max|scene during end credits,http://www.imdb.com/title/tt4651520/?ref_=fn_tt_tt_1,46,English,USA,2016,1000,6.7,,18000
+7,3000,Comedy|Drama|Romance,Boys and Girls ,Tsianina Joelson,best friend|break up|friendship|graduation|male in underwear,http://www.imdb.com/title/tt0204175/?ref_=fn_tt_tt_1,134,English,USA,2000,240,5.3,1.85,487
+7,835,Drama,White Oleander ,Marc Donato,california|foster home|love|oleander|prison,http://www.imdb.com/title/tt0283139/?ref_=fn_tt_tt_1,171,English,USA,2002,787,7.2,1.85,0
+45,24000,Comedy|Fantasy|Horror,Jennifer's Body ,Cynthia Stevenson,cannibalism|cheerleader|condom|hook for hand|satanic ritual,http://www.imdb.com/title/tt1131734/?ref_=fn_tt_tt_1,294,English,USA,2009,396,5.1,1.85,6000
+22,8000,Comedy|Crime|Mystery,Drowning Mona ,Tracey Walter,crying woman|plot|suspect|waitress|younger man older woman relationship,http://www.imdb.com/title/tt0186045/?ref_=fn_tt_tt_1,148,English,USA,2000,2000,5.6,1.85,492
+11000,854,Comedy,Radio Days ,Julie Kavner,beach|cigarette girl|radio|woman holding a baby|working class,http://www.imdb.com/title/tt0093818/?ref_=fn_tt_tt_1,91,English,USA,1987,410,7.6,1.85,0
+179,12000,Action|Drama|Fantasy|Mystery|Thriller,Left Behind ,Quinton Aaron,bible quote|chaos|faith|riot|shrine,http://www.imdb.com/title/tt2467046/?ref_=fn_tt_tt_1,374,English,USA,2014,1000,3.1,2.35,31000
+47,21000,Drama|Romance,Remember Me ,Ruby Jerins,binge drinking|new york|new york city|september 11 2001|suicide,http://www.imdb.com/title/tt1403981/?ref_=fn_tt_tt_1,361,English,USA,2010,541,7.2,1.85,24000
+6,812,Comedy|Drama|Romance,How to Deal ,Trent Ford,best friend|high school|mother|sister|wedding,http://www.imdb.com/title/tt0319524/?ref_=fn_tt_tt_1,95,English,USA,2003,326,5.7,1.85,371
+121,11000,Comedy|Romance|Sci-Fi,My Stepmother Is an Alien ,Tony Jay,alien|earth|female alien|mission|secret,http://www.imdb.com/title/tt0095687/?ref_=fn_tt_tt_1,55,English,USA,1988,3000,5.2,1.85,818
+438,18000,Drama,Philadelphia ,Jason Robards,aids|city name in title|gay|homophobia|lawyer,http://www.imdb.com/title/tt0107818/?ref_=fn_tt_tt_1,261,English,USA,1993,15000,7.7,1.85,0
+9,599,Mystery|Sci-Fi|Thriller,The Thirteenth Floor ,Brad William Henke,amnesia|barricade|letter|time|virtual reality,http://www.imdb.com/title/tt0139809/?ref_=fn_tt_tt_1,302,English,Germany,1999,380,7.0,2.35,0
+3,1000,Comedy,The Cookout ,Jenifer Lewis,flatulence|interracial marriage|marriage,http://www.imdb.com/title/tt0380277/?ref_=fn_tt_tt_1,20,English,USA,2004,584,3.6,1.85,177
+38,940,Action|Drama|Sci-Fi|Thriller,Meteor ,Brian Keith,asteroid|meteor|nasa|nuclear weapon|satellite,http://www.imdb.com/title/tt0079550/?ref_=fn_tt_tt_1,90,English,USA,1979,416,4.9,2.35,392
+28,555,Comedy|Drama|Music,Duets ,Huey Lewis,convict|karaoke|middle america|salesman|singer,http://www.imdb.com/title/tt0134630/?ref_=fn_tt_tt_1,123,English,USA,2000,403,6.0,1.85,573
+11000,11000,Comedy|Romance,Hollywood Ending ,Treat Williams,blind|director|psychosomatic blindness|self deprecating|studio,http://www.imdb.com/title/tt0278823/?ref_=fn_tt_tt_1,148,English,USA,2002,650,6.6,1.85,762
+89,1000,Comedy|Music,Detroit Rock City ,Shannon Tweed,band|concert|high school|kiss|teenager,http://www.imdb.com/title/tt0165710/?ref_=fn_tt_tt_1,194,English,USA,1999,852,6.8,2.35,0
+85,1000,Action|Adventure|Fantasy,Highlander ,Celia Imrie,combat|head cut off|immortal|scotland|swordsman,http://www.imdb.com/title/tt0091203/?ref_=fn_tt_tt_1,316,English,UK,1986,309,7.2,1.85,0
+369,1000,Drama,Things We Lost in the Fire ,Robin Weigert,best friend|dinner|garage|narcotics anonymous|recovery,http://www.imdb.com/title/tt0469623/?ref_=fn_tt_tt_1,88,English,USA,2007,418,7.2,2.35,0
+34,503,Action|Crime|Sci-Fi,Steel ,Hill Harper,fight|gang|junkyard|military|soldier,http://www.imdb.com/title/tt0120207/?ref_=fn_tt_tt_1,62,English,USA,1997,489,2.8,1.85,0
+115,10000,Drama|Romance,The Immigrant ,Angela Sarafyan,immigrant|immigration|magician|money|prostitution,http://www.imdb.com/title/tt1951181/?ref_=fn_tt_tt_1,70,English,USA,2013,316,6.6,2.35,0
+133,898,Drama|History|Romance|War,The White Countess ,Lynn Redgrave,countess|diplomat|japanese|russian|shanghai,http://www.imdb.com/title/tt0384686/?ref_=fn_tt_tt_1,78,English,UK,2005,708,6.7,1.66,356
+0,3000,Crime|Drama|Mystery|Thriller,Trance ,Tuppence Middleton,amnesia|criminal|heist|hypnotherapy|lost painting,http://www.imdb.com/title/tt1924429/?ref_=fn_tt_tt_1,212,English,UK,2013,1000,7.0,2.35,23000
+29,939,Comedy,Soul Plane ,Tom Arnold,airline|airplane|bathroom|sex|toilet,http://www.imdb.com/title/tt0367085/?ref_=fn_tt_tt_1,150,English,USA,2004,881,4.4,1.85,0
+172,172,Comedy|Romance,Welcome to the Sticks ,Michel Galabru,alcohol|alcoholic drink|drunken man|france|provence,http://www.imdb.com/title/tt1064932/?ref_=fn_tt_tt_1,49,French,France,2008,55,7.1,2.35,3000
+6,10000,Drama|Romance|War,Good ,Steven Mackintosh,censorship|children|corpse|heil hitler|suffering,http://www.imdb.com/title/tt0436364/?ref_=fn_tt_tt_1,42,English,UK,2008,304,6.2,2.35,921
+929,488,Drama|Fantasy,Enter the Void ,Olly Alexander,drug deal|drugs|explicit sex|love|stripper,http://www.imdb.com/title/tt1191111/?ref_=fn_tt_tt_1,192,English,France,2009,289,7.3,2.35,23000
+143,1000,Comedy|Horror|Romance,Vamps ,Ivan Sergei,murder|new york city|one word title|vampire|vampire slayer,http://www.imdb.com/title/tt1545106/?ref_=fn_tt_tt_1,42,English,USA,2012,945,5.1,1.78,0
+529,1000,Drama|Family,Hachi: A Dog's Tale ,Joan Allen,dog|human animal relationship|japanese|loyalty|waiting,http://www.imdb.com/title/tt1028532/?ref_=fn_tt_tt_1,304,English,USA,2009,884,8.1,1.85,115000
+22,5000,Crime|Drama|Thriller,Zulu ,Conrad Kemp,apartheid|corpse|male nudity|murder|police officer,http://www.imdb.com/title/tt2249221/?ref_=fn_tt_tt_1,43,English,France,2013,170,6.7,2.35,0
+0,883,Drama|Western,The Homesman ,Miranda Otto,abusive marriage|pastor|prison wagon|roast pig|suicide by hanging,http://www.imdb.com/title/tt2398231/?ref_=fn_tt_tt_1,132,English,USA,2014,596,6.6,2.35,0
+10,890,Comedy|Drama|Romance|Sport,Juwanna Mann ,Kevin Pollak,basketball|dodge viper|hit in the crotch|male nudity|the star spangled banner,http://www.imdb.com/title/tt0247444/?ref_=fn_tt_tt_1,40,English,USA,2002,578,4.5,1.85,939
+,422,Comedy|Crime|Drama,Lilyhammer             ,Tommy Karlsen,mafia|mob|norway|steve|van,http://www.imdb.com/title/tt1958961/?ref_=fn_tt_tt_1,79,English,Norway,,57,8.1,16.0,16000
+460,232,Drama|War,Ararat ,Charles Aznavour,armenian|armenian genocide|customs agent|genocide|prayer,http://www.imdb.com/title/tt0273435/?ref_=fn_tt_tt_1,180,English,Canada,2002,150,6.6,1.66,824
+4,844,Drama|Sport,Madison ,William Shockley,boat racing|hydroplane|loyalty|one word title|scolding,http://www.imdb.com/title/tt0206113/?ref_=fn_tt_tt_1,26,English,USA,2001,626,6.5,2.35,282
+7,1000,Drama|Mystery|Thriller,Slow Burn ,Fisher Stevens,district attorney|interview|murder|prosecutor|reporter,http://www.imdb.com/title/tt0376196/?ref_=fn_tt_tt_1,24,English,USA,2005,1000,5.9,1.85,191
+7,235,Action|Comedy|Crime|Drama|Thriller,Wasabi ,Michel Muller,french|inheritance|japan|letter|police detective hero,http://www.imdb.com/title/tt0281364/?ref_=fn_tt_tt_1,91,French,France,2001,46,6.6,2.35,0
+571,499,Comedy|Horror|Sci-Fi,Slither ,Tania Saulnier,alien|b movie|sex|slug|small town,http://www.imdb.com/title/tt0439815/?ref_=fn_tt_tt_1,352,English,Canada,2006,298,6.5,1.85,0
+102,901,Action|Comedy|Crime,Beverly Hills Cop ,James Russo,drug dealer|drugs|murder|police brutality|police shootout,http://www.imdb.com/title/tt0086960/?ref_=fn_tt_tt_1,175,English,USA,1984,605,7.3,1.85,0
+0,3000,Comedy|Family,Home Alone ,Catherine O'Hara,airport|child protagonist|child swearing|christmas|home alone,http://www.imdb.com/title/tt0099785/?ref_=fn_tt_tt_1,305,English,USA,1990,1000,7.5,1.85,20000
+12000,19000,Comedy|Drama|Family,3 Men and a Baby ,Steve Guttenberg,1980s|baby|heroin|package|questioned by police,http://www.imdb.com/title/tt0094137/?ref_=fn_tt_tt_1,42,English,USA,1987,875,5.9,1.85,3000
+521,13000,Comedy|Drama|Romance,Tootsie ,Teri Garr,actor|actress|friend|love|reputation,http://www.imdb.com/title/tt0084805/?ref_=fn_tt_tt_1,194,English,USA,1982,521,7.4,2.35,0
+12000,10000,Action|Drama|Romance,Top Gun ,Adrian Pasdar,flying|gay subtext|machismo|male objectification|pilot,http://www.imdb.com/title/tt0092099/?ref_=fn_tt_tt_1,388,English,USA,1986,1000,6.9,1.33,19000
+0,103,Action|Drama|Romance,"Crouching Tiger, Hidden Dragon ",Sihung Lung,bare midriff|china|magical realism|martial arts|sword,http://www.imdb.com/title/tt0190332/?ref_=fn_tt_tt_1,1641,Mandarin,Taiwan,2000,21,7.9,2.35,0
+0,18000,Drama,American Beauty ,Ara Celi,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,http://www.imdb.com/title/tt0169547/?ref_=fn_tt_tt_1,2715,English,USA,1999,828,8.4,2.35,22000
+0,14000,Biography|Drama|History|Romance,The King's Speech ,Derek Jacobi,king|king george vi|speech|speech therapist|throne,http://www.imdb.com/title/tt1504320/?ref_=fn_tt_tt_1,636,English,UK,2010,1000,8.0,1.85,64000
+425,742,Comedy|Crime,Twins ,Hugh O'Brian,bare chested male|brother|catholic orphanage|long lost siblings|twins,http://www.imdb.com/title/tt0096320/?ref_=fn_tt_tt_1,79,English,USA,1988,384,6.0,1.85,0
+,460,Crime|Drama|Horror|Mystery|Thriller,Scream: The TV Series             ,Jason Wiles,generation y|millennial generation|murder|teenage girl|throat slitting,http://www.imdb.com/title/tt3921180/?ref_=fn_tt_tt_1,68,English,USA,,292,7.3,16.0,0
+4,17000,Drama|Romance,The Yellow Handkerchief ,William Hurt,louisiana|overalls|road trip|southern u.s.|teenage boy,http://www.imdb.com/title/tt0954990/?ref_=fn_tt_tt_1,36,English,USA,2008,13000,6.8,2.35,1000
+14000,852,Drama,The Color Purple ,Dana Ivey,book strap|girl|racial discrimination|racial tension|stereotype,http://www.imdb.com/title/tt0088939/?ref_=fn_tt_tt_1,199,English,USA,1985,581,7.8,1.85,6000
+2,94,Action|Comedy|Drama|Thriller,Tidal Wave ,Kyung-gu Sol,korea|lifeguard|single father|tears|tsunami,http://www.imdb.com/title/tt1153040/?ref_=fn_tt_tt_1,25,Korean,South Korea,2009,80,5.7,2.35,558
+335,11000,Adventure|Drama|History,Ben-Hur ,Moises Arias,chariot race|epic|false accusation|jerusalem|slave,http://www.imdb.com/title/tt2638144/?ref_=fn_tt_tt_1,1,English,USA,2016,744,6.1,2.35,0
+77,19000,Biography|Drama|Thriller|War,The Imitation Game ,Allen Leech,crossword puzzle|cryptography|enigma code|gay lead character|world war two,http://www.imdb.com/title/tt2084970/?ref_=fn_tt_tt_1,608,English,UK,2014,393,8.1,2.35,165000
+6,1000,Comedy|War,Private Benjamin ,Alan Oppenheimer,camera shot of feet|female stockinged feet|loss of husband|pantyhose|suntan pantyhose,http://www.imdb.com/title/tt0081375/?ref_=fn_tt_tt_1,60,English,USA,1980,745,6.1,1.85,855
+150,874,Biography|Drama|Music|Musical,Coal Miner's Daughter ,Levon Helm,country music|kissing while having sex|poverty|singer|title based on song,http://www.imdb.com/title/tt0080549/?ref_=fn_tt_tt_1,84,English,USA,1980,816,7.5,1.85,0
+87,17000,Comedy|Family,Diary of a Wimpy Kid ,Rachael Harris,cheese|diary|friend|middle school|school,http://www.imdb.com/title/tt1196141/?ref_=fn_tt_tt_1,103,English,USA,2010,975,6.2,1.85,0
+127,1000,Fantasy|Horror,Mama ,Isabelle Nélisse,aunt|children|death of sister|forest|hiding in a closet,http://www.imdb.com/title/tt2023587/?ref_=fn_tt_tt_1,304,English,Canada,2013,340,6.2,1.85,57000
+0,2000,Horror|Thriller,Halloween ,P.J. Soles,halloween|masked killer|michael myers|slasher|trick or treat,http://www.imdb.com/title/tt0077651/?ref_=fn_tt_tt_1,1191,English,USA,1978,742,7.9,2.35,12000
+11000,816,Adventure|Comedy,National Lampoon's Vacation ,Jane Krakowski,amusement park|dog|family vacation|national lampoon series|vacation,http://www.imdb.com/title/tt0085995/?ref_=fn_tt_tt_1,183,English,USA,1983,695,7.4,1.85,0
+79,925,Comedy,Bad Grandpa ,Grasie Mercedes,child beauty pageant|grandson|hidden camera|jackass|road trip,http://www.imdb.com/title/tt3063516/?ref_=fn_tt_tt_1,162,English,USA,2013,38,6.6,1.85,26000
+350,326,Biography|Drama,The Queen ,Alex Jennings,monarchy|prime minister|princess diana|queen|speech,http://www.imdb.com/title/tt0436697/?ref_=fn_tt_tt_1,421,English,UK,2006,48,7.3,1.85,0
+13000,925,Comedy|Fantasy,Beetlejuice ,Glenn Shadix,attic|ghost|surrealism|teenage girl|yuppie,http://www.imdb.com/title/tt0094721/?ref_=fn_tt_tt_1,306,English,USA,1988,692,7.5,1.85,15000
+0,2000,Comedy|Drama,Why Did I Get Married? ,Lamman Rucker,marriage|overweight|psychologist|secret|work,http://www.imdb.com/title/tt0906108/?ref_=fn_tt_tt_1,100,English,USA,2007,721,5.6,1.85,1000
+44,23000,Drama|Family|Romance,Little Women ,Eric Stoltz,civil war|female protagonist|post civil war|reference to friedrich schiller|u.s. civil war,http://www.imdb.com/title/tt0110367/?ref_=fn_tt_tt_1,132,English,USA,1994,4000,7.3,1.85,0
+43,11000,Drama|Fantasy|Horror|Thriller,The Woman in Black ,Jessica Raine,afterlife|baby boy|bird in a cage|ghost|reunited family,http://www.imdb.com/title/tt1596365/?ref_=fn_tt_tt_1,509,English,UK,2012,326,6.4,2.35,29000
+165,1000,Horror|Thriller,When a Stranger Calls ,Brian Geraghty,babysitting|cell phone|high school|nightmare|teenager,http://www.imdb.com/title/tt0455857/?ref_=fn_tt_tt_1,468,English,USA,2006,431,5.0,2.35,0
+189,934,Adventure|Comedy|Family,Big Fat Liar ,Lee Majors,brunette|film producer|liar|prank|stunt,http://www.imdb.com/title/tt0265298/?ref_=fn_tt_tt_1,99,English,USA,2002,927,5.4,1.85,896
+517,22000,Drama|War,The Deer Hunter ,John Savage,escape|friend|party|pittsburgh steelers|vietnam,http://www.imdb.com/title/tt0077416/?ref_=fn_tt_tt_1,1026,English,UK,1978,11000,8.2,2.35,11000
+272,22000,Comedy|Drama,Wag the Dog ,John Michael Higgins,death|election|hollywood|president|scandal,http://www.imdb.com/title/tt0120885/?ref_=fn_tt_tt_1,218,English,USA,1997,4000,7.1,1.85,12000
+13,925,Adventure|Comedy|Family|Music|Romance,The Lizzie McGuire Movie ,Alex Borstein,best friend|roma|singer|spaghetti|teenager,http://www.imdb.com/title/tt0306841/?ref_=fn_tt_tt_1,172,English,USA,2003,738,5.3,2.35,0
+29,12000,Action|Drama|Thriller,Snitch ,Nadine Velazquez,cigarette smoking|dea|drugs|inspired by true events|undercover,http://www.imdb.com/title/tt0882977/?ref_=fn_tt_tt_1,122,English,USA,2013,1000,6.5,2.35,12000
+66,3000,Comedy|Fantasy|Horror,Krampus ,Allison Tolman,christmas|german|holiday|krampus|santa claus,http://www.imdb.com/title/tt3850590/?ref_=fn_tt_tt_1,181,English,USA,2015,658,6.2,2.35,27000
+0,4000,Horror|Mystery|Sci-Fi,The Faculty ,Clea DuVall,alien|high school|ohio|photographer|water,http://www.imdb.com/title/tt0133751/?ref_=fn_tt_tt_1,502,English,USA,1998,4000,6.4,1.85,0
+13,90,Biography|Drama|Music,What's Love Got to Do with It ,Dororthy Thorton,abusive husband|love|singer|tina turner|violence,http://www.imdb.com/title/tt0108551/?ref_=fn_tt_tt_1,59,English,USA,1993,22,7.2,1.85,0
+446,22000,Crime|Drama|Thriller,Cop Land ,Janeane Garofalo,corruption|faked death|falling off a roof|internal affairs|nypd,http://www.imdb.com/title/tt0118887/?ref_=fn_tt_tt_1,207,English,USA,1997,13000,6.9,1.85,2000
+11,11000,Comedy,Not Another Teen Movie ,Mia Kirshner,cheerleader|foreign exchange student|incestuous desire|incestuous kiss|prom,http://www.imdb.com/title/tt0277371/?ref_=fn_tt_tt_1,393,English,USA,2001,983,5.7,1.85,0
+453,15000,Crime|Drama|Thriller,End of Watch ,America Ferrera,lapd|police|police officer|south central los angeles|street gang,http://www.imdb.com/title/tt1855199/?ref_=fn_tt_tt_1,336,English,USA,2012,10000,7.7,1.85,38000
+488,15000,Comedy|Drama|Romance,Aloha ,Bill Murray,box office flop|critically bashed|hawaii|one word title|written by director,http://www.imdb.com/title/tt1243974/?ref_=fn_tt_tt_1,172,English,USA,2015,14000,5.4,1.85,11000
+357,23000,Action|Crime|Drama|Thriller,The Skulls ,William Petersen,college|friend|ivy league|secret society|suicide,http://www.imdb.com/title/tt0192614/?ref_=fn_tt_tt_1,193,English,USA,2000,1000,5.6,1.85,0
+120,13000,Biography|Drama|Romance,The Theory of Everything ,Simon McBurney,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist,http://www.imdb.com/title/tt2980516/?ref_=fn_tt_tt_1,388,English,UK,2014,876,7.7,2.35,90000
+14,833,Comedy|Crime,Malibu's Most Wanted ,Blair Underwood,los angeles california|person in car trunk|racial impersonation|south asian|street gang,http://www.imdb.com/title/tt0328099/?ref_=fn_tt_tt_1,87,English,USA,2003,807,5.1,2.35,0
+18,20000,Comedy|Drama|Romance,Where the Heart Is ,Stockard Channing,birth|oklahoma|photographer|tennessee|wal mart,http://www.imdb.com/title/tt0198021/?ref_=fn_tt_tt_1,240,English,USA,2000,1000,6.8,1.85,0
+767,607,Adventure|Biography|Drama|History|War,Lawrence of Arabia ,Jack Hawkins,arab|british military|desert|ottoman empire|t.e. lawrence,http://www.imdb.com/title/tt0056172/?ref_=fn_tt_tt_1,559,English,UK,1962,202,8.4,2.2,11000
+0,908,Horror,Halloween II ,Margot Kidder,halloween|hospital|michael myers|rampage|vomiting,http://www.imdb.com/title/tt1311067/?ref_=fn_tt_tt_1,491,English,USA,2009,764,4.9,1.85,3000
+212,2000,Adventure|Biography|Drama,Wild ,Gaby Hoffmann,female protagonist|grief|hiking|loss of mother|mother daughter relationship,http://www.imdb.com/title/tt2305051/?ref_=fn_tt_tt_1,252,English,USA,2014,820,7.1,2.35,38000
+29,956,Crime|Horror|Thriller,The Last House on the Left ,Martha MacIsaac,kidnapping|lake|microwave oven|psychopath|woods,http://www.imdb.com/title/tt0844708/?ref_=fn_tt_tt_1,279,English,USA,2009,878,6.6,1.85,0
+6,1000,Comedy|Romance,The Wedding Date ,Holland Taylor,chick flick|escort|male escort|wedding|wedding date,http://www.imdb.com/title/tt0372532/?ref_=fn_tt_tt_1,250,English,USA,2005,650,6.1,1.85,0
+28,2000,Comedy|Horror|Thriller,Halloween: Resurrection ,Bianca Kajlich,cult film|halloween|killer|michael myers|serial killer,http://www.imdb.com/title/tt0220506/?ref_=fn_tt_tt_1,614,English,USA,2002,864,4.1,2.35,0
+255,14000,Action|Adventure|Fantasy,Clash of the Titans ,Alexa Davalos,famous line|hand to hand combat|kraken|rape|zeus,http://www.imdb.com/title/tt0800320/?ref_=fn_tt_tt_1,637,English,USA,2010,1000,5.8,2.35,15000
+0,18000,Adventure|Family|Fantasy|Romance,The Princess Bride ,André the Giant,fairy tale|giant|pirate|princess|true love,http://www.imdb.com/title/tt0093779/?ref_=fn_tt_tt_1,718,English,USA,1987,636,8.1,1.85,33000
+18000,18000,Biography|Drama,The Great Debaters ,John Heard,college|debate|student|texas|wiley college,http://www.imdb.com/title/tt0427309/?ref_=fn_tt_tt_1,118,English,USA,2007,2000,7.6,2.35,0
+0,33000,Crime|Drama,Drive ,Russ Tamblyn,kissing in an elevator|mythical hero|neo noir|protective male|silent protagonist,http://www.imdb.com/title/tt0780504/?ref_=fn_tt_tt_1,1264,English,USA,2011,745,7.8,2.35,81000
+10,811,Comedy|Family|Music|Romance,Confessions of a Teenage Drama Queen ,Glenne Headly,band|friend|new york city|suburb|teenager,http://www.imdb.com/title/tt0361467/?ref_=fn_tt_tt_1,105,English,Germany,2004,636,4.6,1.85,810
+13,818,Comedy|Drama|Romance,The Object of My Affection ,Kali Rocha,baby|dancing|gay|name calling|penis slur,http://www.imdb.com/title/tt0120772/?ref_=fn_tt_tt_1,132,English,USA,1998,511,6.0,1.85,849
+35,10000,Drama|Horror|Sci-Fi,28 Weeks Later ,Catherine McCormack,paris france|rage|sniper|u.s. army|zombie apocalypse,http://www.imdb.com/title/tt0463854/?ref_=fn_tt_tt_1,713,English,UK,2007,1000,7.0,1.85,0
+49,116,Drama|Family|Sport,When the Game Stands Tall ,Ser'Darius Blain,coach|high school football,http://www.imdb.com/title/tt2247476/?ref_=fn_tt_tt_1,64,English,USA,2014,110,6.7,1.85,0
+61,907,Comedy|Drama|Family,Because of Winn-Dixie ,Eva Marie Saint,10 year old|dog|florida|girl|supermarket,http://www.imdb.com/title/tt0317132/?ref_=fn_tt_tt_1,88,English,USA,2005,807,6.4,1.85,1000
+107,1000,Drama|Romance|Sport,Love & Basketball ,Omar Epps,basketball movie|female basketball player|high school|nba|title directed by female,http://www.imdb.com/title/tt0199725/?ref_=fn_tt_tt_1,116,English,USA,2000,886,7.2,1.85,0
+5,893,Action|Comedy|Crime|Romance|Thriller,Grosse Pointe Blank ,Mitchell Ryan,assassin|high school|high school reunion|reunion|suburb,http://www.imdb.com/title/tt0119229/?ref_=fn_tt_tt_1,296,English,USA,1997,822,7.4,1.85,0
+3,14000,Comedy|Romance,All About Steve ,Beth Grant,blind date|crossword puzzle|eccentric|fall|mine shaft,http://www.imdb.com/title/tt0881891/?ref_=fn_tt_tt_1,143,English,USA,2009,982,4.8,1.85,0
+31,193,Adventure|Fantasy|Horror|Mystery|Thriller,Book of Shadows: Blair Witch 2 ,Kurt Loder,convenience store|digit in title|punctuation in title|violence|witch,http://www.imdb.com/title/tt0229260/?ref_=fn_tt_tt_1,457,English,USA,2000,184,4.0,1.85,949

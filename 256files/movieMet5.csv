@@ -1,396 +1,487 @@
-num_critic_for_reviews,duration,actor_3_facebook_likes,genres,actor_1_name,movie_title,num_user_for_reviews,movie_facebook_likes
-144,99,495,Comedy|Family|Fantasy|Romance,Adam Sandler,Bedtime Stories ,116,0
-226,117,818,Crime|Drama|Thriller,Tom Hanks,Road to Perdition ,1009,0
-204,117,503,Comedy|Romance,Adam Sandler,Just Go with It ,203,19000
-95,54,0,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Elden Henson,Daredevil             ,394,55000
-139,123,744,Action|Crime|Thriller,Steve Buscemi,Con Air ,339,0
-215,118,915,Action|Mystery|Thriller,Rosario Dawson,Eagle Eye ,318,0
-198,154,16000,Adventure|Drama|History|Romance|War,Philip Seymour Hoffman,Cold Mountain ,674,0
-325,118,10000,Action|Adventure|Drama|Thriller,Denzel Washington,The Book of Eli ,560,20000
-53,90,159,Comedy|Family|Sci-Fi,Robin Williams,Flubber ,64,0
-167,113,913,Fantasy|Horror|Mystery|Thriller,Liam Neeson,The Haunting ,805,0
-46,88,366,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Bill Murray,Space Jam ,123,0
-147,93,38,Adventure|Comedy|Crime|Family|Mystery,Roger Rees,The Pink Panther ,424,0
-276,104,71,Drama|Sci-Fi|Thriller,Keanu Reeves,The Day the Earth Stood Still ,698,0
-80,135,67,Action|Crime|Mystery|Romance|Thriller,Julia Roberts,Conspiracy Theory ,162,0
-406,134,697,Action|Drama|War,Brad Pitt,Fury ,701,82000
-97,98,397,Action|Adventure|Comedy|Romance,Harrison Ford,Six Days Seven Nights ,164,0
-143,80,375,Adventure|Animation|Comedy|Family,Justin Timberlake,Yogi Bear ,100,0
-106,83,495,Adventure|Animation|Family|Western,Matt Damon,Spirit: Stallion of the Cimarron ,216,4000
-178,102,269,Comedy|Family|Romance,Rosario Dawson,Zookeeper ,127,0
-102,130,427,Action|Adventure|Family|Sci-Fi|Thriller,Gary Oldman,Lost in Space ,370,0
-209,129,502,Drama|Mystery|Sci-Fi|Thriller,Denzel Washington,The Manchurian Candidate ,363,0
-19,117,87,Drama|Romance,Vanessa Redgrave,Déjà Vu ,40,91
-152,89,859,Animation|Comedy|Family|Fantasy,Steve Buscemi,Hotel Transylvania 2 ,97,16000
-31,25,474,Comedy|Family|Fantasy,Elizabeth Montgomery,Bewitched             ,71,0
-129,74,62,Animation|Family|Fantasy|Music,Quincy Jones,Fantasia 2000 ,186,607
-124,96,102,Action|Adventure|Sci-Fi,Mark Addy,The Time Machine ,615,3000
-35,114,372,Action|Adventure|Family|Fantasy|Thriller,Charlize Theron,Mighty Joe Young ,88,0
-166,99,820,Action|Crime|Thriller,Hugh Jackman,Swordfish ,543,0
-137,129,163,Action|Adventure|Western,Michael Emerson,The Legend of Zorro ,244,951
-121,113,129,Drama|Fantasy|Romance,Robin Williams,What Dreams May Come ,619,32000
-87,90,658,Comedy|Fantasy,Adam Sandler,Little Nicky ,237,0
-233,118,871,Action|Adventure|Comedy|Fantasy|Thriller,Matt Damon,The Brothers Grimm ,492,0
-132,106,733,Action|Comedy|Sci-Fi,Natalie Portman,Mars Attacks! ,405,0
-63,81,8,Drama|Horror|Mystery|Sci-Fi,Nissim Renard,Evolution ,3,257
-95,117,904,Action|Adventure|Drama|Thriller,Anthony Hopkins,The Edge ,182,0
-258,89,1000,Action|Sci-Fi|Thriller,Bruce Willis,Surrogates ,252,0
-162,145,183,Drama|History|Thriller,Bruce Greenwood,Thirteen Days ,315,0
-61,114,366,Action|Adventure|Drama|Thriller,Sylvester Stallone,Daylight ,101,0
-113,87,210,Adventure|Animation|Family,Charlie Rowe,Walking with Dinosaurs 3D ,66,0
-174,119,41,Action|Adventure|Sci-Fi,Richard Tyson,Battlefield Earth ,1308,0
-101,91,695,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Brendan Fraser,Looney Tunes: Back in Action ,160,665
-205,118,30,Drama|Musical|Romance,Fergie,Nine ,232,0
-123,116,982,Action|Adventure|Sci-Fi,Paul Walker,Timeline ,457,0
-79,177,582,Action|Adventure|Drama|Sci-Fi,Olivia Williams,The Postman ,376,0
-61,97,231,Adventure|Comedy|Drama|Family|Fantasy,Adam Goldberg,Babe: Pig in the City ,216,964
-202,106,612,Action|Adventure|Fantasy,Vin Diesel,The Last Witch Hunter ,117,21000
-145,106,0,Action|Sci-Fi|Thriller,Bob Neill,Red Planet ,348,995
-101,94,14,Adventure|Animation|Family|Fantasy,Mia Farrow,Arthur and the Invisibles ,64,941
-113,104,7,Documentary|Drama,Pedro Armendáriz Jr.,Oceans ,42,0
-113,102,212,Action|Adventure|Horror|Sci-Fi|Thriller,David Oyelowo,A Sound of Thunder ,301,785
-272,105,74,Action|Adventure|Drama|History|Romance,Sasha Roiz,Pompeii ,308,20000
-3,89,20,Animation|Family,Sariann Monaco,Top Cat Begins ,1,138
-205,135,535,Biography|Drama,Adam Goldberg,A Beautiful Mind ,1171,29000
-186,73,847,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,The Lion King ,656,17000
-178,94,722,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Josh Hutcherson,Journey 2: The Mysterious Island ,133,0
-169,95,18,Animation|Comedy|Family|Fantasy|Sci-Fi,Will Forte,Cloudy with a Chance of Meatballs 2 ,85,15000
-210,124,876,Crime|Drama|Thriller,Philip Seymour Hoffman,Red Dragon ,764,0
-140,136,1000,Action|Adventure|Western,J.K. Simmons,Hidalgo ,345,0
-156,91,553,Comedy,Al Pacino,Jack and Jill ,264,0
-150,107,771,Action|Crime|Thriller,Paul Walker,2 Fast 2 Furious ,370,0
-119,108,6000,Adventure|Animation|Drama|Family|Fantasy,Jeff Bridges,The Little Prince ,64,31000
-232,99,327,Sci-Fi|Thriller,Roger Rees,The Invasion ,273,0
-49,92,924,Adventure|Animation|Comedy|Family|Fantasy,Robert De Niro,The Adventures of Rocky & Bullwinkle ,197,413
-165,87,745,Animation|Comedy|Family,Steve Coogan,The Secret Life of Pets ,155,36000
-202,110,845,Action|Adventure|Fantasy|Sci-Fi,Jason Flemyng,The League of Extraordinary Gentlemen ,786,0
-306,98,1000,Animation|Comedy|Family|Sci-Fi,Steve Carell,Despicable Me 2 ,284,56000
-185,154,933,Action|Adventure|Sci-Fi,Will Smith,Independence Day ,856,16000
-177,129,227,Action|Adventure|Sci-Fi,Ariana Richards,The Lost World: Jurassic Park ,552,0
-181,86,179,Adventure|Animation|Comedy|Family,Jada Pinkett Smith,Madagascar ,385,0
-372,109,18,Drama|Sci-Fi|Thriller,Charlie Hunnam,Children of Men ,1206,17000
-290,104,505,Action|Adventure|Sci-Fi,Hugh Jackman,X-Men ,1401,0
-316,110,988,Action|Crime|Fantasy|Thriller,Angelina Jolie Pitt,Wanted ,713,0
-122,136,904,Action|Adventure|Thriller,Nicolas Cage,The Rock ,415,51000
-164,115,241,Action|Adventure|Animation|Comedy|Family|Fantasy,Denis Leary,Ice Age: The Meltdown ,253,0
-147,99,328,Comedy|Romance,Adam Sandler,50 First Dates ,456,11000
-219,117,260,Comedy|Drama|Family|Music|Musical|Romance,Jerry Stiller,Hairspray ,401,0
-167,125,394,Horror|Mystery|Thriller,James D'Arcy,Exorcist: The Beginning ,308,893
-70,110,692,Action|Adventure|Comedy|Family|Sci-Fi,Matthew Broderick,Inspector Gadget ,231,509
-384,125,963,Crime|Mystery|Thriller,Morgan Freeman,Now You See Me ,629,105000
-179,102,4000,Comedy,Steve Buscemi,Grown Ups ,311,12000
-151,128,232,Comedy|Drama,Tom Hanks,The Terminal ,596,16000
-12,43,218,Drama|Fantasy|Horror|Thriller,Harold Perrineau,Constantine             ,94,10000
-107,100,446,Comedy|Family,Don Cheadle,Hotel for Dogs ,57,1000
-134,124,748,Action|Adventure|Drama|Thriller,Nicholas Lea,Vertical Limit ,379,0
-269,102,15000,Biography|Comedy|Drama|History,Philip Seymour Hoffman,Charlie Wilson's War ,289,0
-143,90,11000,Adventure|Animation|Comedy|Family,Robert De Niro,Shark Tale ,288,0
-241,130,525,Drama|Music|Musical,Loretta Devine,Dreamgirls ,503,0
-12,45,0,Crime|Drama|Mystery,Adam Arkin,Life             ,67,0
-161,118,680,Comedy|Crime|Music,Dwayne Johnson,Be Cool ,323,0
-298,163,412,Drama|History|Thriller,Ayelet Zurer,Munich ,824,0
-89,142,787,Action|Drama|Thriller|War,Bruce Willis,Tears of the Sun ,394,0
-140,100,925,Action|Comedy|Romance|Thriller,Tom Selleck,Killers ,120,0
-362,116,104,Action|Adventure|Comedy,Henry Cavill,The Man from U.N.C.L.E. ,360,43000
-124,131,138,Comedy|Drama|Romance,Adam Sandler,Spanglish ,342,0
-190,91,925,Animation|Comedy|Family|Fantasy|Mystery,Steve Buscemi,Monster House ,229,0
-132,123,193,Comedy|Crime|Drama|Romance,Bruce Willis,Bandits ,261,0
-53,134,249,Action|Adventure|Romance|Thriller,Julia Ormond,First Knight ,180,0
-91,148,99,Drama|History|Romance,Bai Ling,Anna and the King ,217,0
-284,110,222,Action|Drama|Fantasy|Romance,Henry Cavill,Immortals ,405,30000
-152,113,759,Action|Crime|Drama|Mystery|Thriller,Jimmy Bennett,Hostage ,288,0
-131,94,886,Action|Adventure|Animation|Family|Sci-Fi,Matt Damon,Titan A.E. ,377,0
-132,116,541,Action|Comedy|Crime|Thriller,Harrison Ford,Hollywood Homicide ,254,648
-67,99,533,Action|Drama|Sci-Fi,Connie Nielsen,Soldier ,373,0
-130,84,394,Drama|Horror|Sci-Fi|Thriller,Christopher Meloni,Carriers ,119,0
-74,93,637,Animation|Comedy|Fantasy,Brendan Fraser,Monkeybone ,171,683
-114,113,568,Action|Adventure|Drama|Thriller,Dennis Quaid,Flight of the Phoenix ,222,1000
-294,106,963,Drama|Mystery|Sci-Fi|Thriller,Robin Wright,Unbreakable ,1344,0
-308,91,1000,Action|Animation|Comedy|Family|Sci-Fi,Steve Carell,Minions ,275,70000
-435,128,826,Action|Fantasy,Jon Hamm,Sucker Punch ,918,42000
-117,98,697,Crime|Mystery|Thriller,Nicolas Cage,Snake Eyes ,241,880
-108,134,215,Drama|Mystery|Sci-Fi|Thriller,Peter Coyote,Sphere ,274,0
-141,97,415,Action|Animation|Comedy|Family,Peter Dinklage,The Angry Birds Movie ,126,14000
-176,112,715,Action|Adventure|Comedy|Romance|Thriller,Matthew McConaughey,Fool's Gold ,138,0
-230,153,130,Comedy|Drama,Adam Sandler,Funny People ,301,0
-234,110,461,Action|Drama|Thriller,Jennifer Garner,The Kingdom ,289,0
-164,122,989,Action|Comedy|Sport,Will Ferrell,Talladega Nights: The Ballad of Ricky Bobby ,437,0
-91,87,574,Comedy|Family|Fantasy,Raven-Symoné,Dr. Dolittle 2 ,79,266
-132,178,403,Biography|Drama|History|War,Mhairi Calvey,Braveheart ,1065,17000
-262,125,210,Action|Drama|War,Jake Gyllenhaal,Jarhead ,657,0
-299,87,433,Adventure|Animation|Comedy,Albert Brooks,The Simpsons Movie ,763,0
-128,152,745,Drama|Romance,Martin Landau,The Majestic ,376,0
-109,116,462,Action|Drama|Sport,Sylvester Stallone,Driven ,346,886
-88,109,8,Adventure|Drama|Family,David Gant,Two Brothers ,124,2000
-261,108,882,Drama|Mystery|Romance|Thriller,Bryce Dallas Howard,The Village ,2003,0
-73,85,595,Comedy|Family|Fantasy,Oliver Platt,Doctor Dolittle ,98,694
-208,106,242,Drama|Sci-Fi|Thriller,Rory Culkin,Signs ,2335,0
-205,93,48,Adventure|Animation|Comedy|Family|Fantasy|Romance,Rupert Everett,Shrek 2 ,483,0
-256,117,769,Adventure|Animation|Comedy|Family|Sport,John Ratzenberger,Cars ,584,0
-103,116,995,Comedy|Romance,Julia Roberts,Runaway Bride ,255,0
-191,132,212,Action|Adventure|Thriller,Vin Diesel,xXx ,737,10000
-147,92,726,Adventure|Animation|Comedy|Family|Fantasy,Tim Conway,The SpongeBob Movie: Sponge Out of Water ,133,16000
-79,139,808,Crime|Thriller,Lili Taylor,Ransom ,158,1000
-486,153,11000,Adventure|Drama|War,Michael Fassbender,Inglourious Basterds ,1527,42000
-75,142,5000,Adventure|Comedy|Family|Fantasy,Robin Williams,Hook ,363,13000
-245,101,467,Action|Adventure,Dwayne Johnson,Hercules ,269,21000
-142,124,576,Action|Thriller,Bruce Willis,Die Hard 2 ,316,0
-144,117,1000,Action|Adventure|Crime|Thriller,Jeremy Renner,S.W.A.T. ,340,0
-39,45,160,Adventure|Drama|Fantasy|Mystery|Thriller,Nicole Beharie,Sleepy Hollow             ,110,14000
-153,141,509,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Tom Cruise,Vanilla Sky ,1248,0
-284,110,559,Drama|Fantasy|Mystery|Thriller,Bryce Dallas Howard,Lady in the Water ,1040,0
-247,109,727,Action|Horror|Sci-Fi|Thriller,Sanaa Lathan,AVP: Alien vs. Predator ,1283,0
-107,88,1000,Animation|Comedy|Family|Fantasy|Music,Amy Poehler,Alvin and the Chipmunks: The Squeakquel ,98,2000
-141,124,841,Action|Drama|History|War,Jon Hamm,We Were Soldiers ,742,5000
-358,119,992,Action|Thriller,Gerard Butler,Olympus Has Fallen ,698,45000
-160,103,748,Action|Adventure|Sci-Fi|Thriller,LeVar Burton,Star Trek: Insurrection ,515,1000
-355,116,464,Action|Sci-Fi,Noel Fisher,Battle Los Angeles ,800,25000
-235,125,883,Adventure|Drama|Fantasy,Steve Buscemi,Big Fish ,816,26000
-59,125,184,Drama|Horror|Romance|Thriller,David Hyde Pierce,Wolf ,137,0
-388,146,979,Drama|War,Jeremy Irvine,War Horse ,488,28000
-371,118,559,Drama|War,Bill Murray,The Monuments Men ,403,34000
-82,171,638,Adventure|Drama|Sci-Fi|Thriller,Michael Biehn,The Abyss ,380,0
-297,136,17,Drama,Frank Langella,Wall Street: Money Never Sleeps ,245,13000
-261,92,423,Action|Drama|Fantasy|Horror|War,Dominic Cooper,Dracula Untold ,423,37000
-120,116,774,Action|Thriller,Denzel Washington,The Siege ,281,0
-228,127,271,Adventure|Family|Fantasy|Romance,Henry Cavill,Stardust ,492,15000
-76,136,400,Adventure|Biography|Drama|History|War,Brad Pitt,Seven Years in Tibet ,119,0
-185,111,244,Comedy|Drama,Channing Tatum,The Dilemma ,141,0
-128,116,384,Action|Adventure|Comedy|Thriller,Anthony Hopkins,Bad Company ,189,792
-237,113,452,Action|Adventure|Horror|Sci-Fi,Dwayne Johnson,Doom ,814,0
-105,97,150,Action|Adventure|Comedy|Thriller,Gary Cole,I Spy ,141,531
-242,88,324,Action|Fantasy|Horror,Theo James,Underworld: Awakening ,271,24000
-360,136,66,Comedy|Drama|Musical|Romance,James Martin Kelly,Rock of Ages ,356,33000
-112,125,407,Drama|War,Bruce Willis,Hart's War ,196,997
-189,116,748,Action|Crime|Thriller,Jason Statham,Killer Elite ,157,17000
-151,98,390,Action|Sci-Fi|Sport,LL Cool J,Rollerball ,289,584
-92,91,298,Action|Crime|Sci-Fi|Thriller,Talisa Soto,Ballistic: Ecks vs. Sever ,277,391
-79,97,695,Action|Crime|Drama|Thriller,Morgan Freeman,Hard Rain ,126,815
-81,95,443,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Ron Howard,Osmosis Jones ,123,2000
-51,88,854,Adventure|Animation|Family|Fantasy|Musical,Lea Michele,Legends of Oz: Dorothy's Return ,54,5000
-261,133,301,Action|Crime|Drama|Mystery|Thriller,Chris Hemsworth,Blackhat ,207,11000
-197,106,582,Action|Adventure|Mystery|Sci-Fi|Thriller,Angelina Jolie Pitt,Sky Captain and the World of Tomorrow ,618,0
-159,116,246,Crime|Mystery|Thriller,Charlotte Rampling,Basic Instinct 2 ,313,764
-286,115,585,Action|Crime|Mystery|Sci-Fi|Thriller,Sylvester Stallone,Escape Plan ,279,34000
-156,99,182,Action|Adventure|Fantasy,Roxanne McKee,The Legend of Hercules ,202,12000
-176,124,497,Action|Drama|Thriller,Morgan Freeman,The Sum of All Fears ,568,0
-293,124,10000,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: Eclipse ,498,29000
-141,124,580,Crime|Drama|Thriller,Robert De Niro,The Score ,445,0
-304,87,975,Animation|Comedy|Family,Steve Carell,Despicable Me ,296,31000
-40,105,97,Action|Comedy|Crime|Drama|Thriller,Vincent Pastore,Money Train ,62,617
-280,125,3000,Comedy,Liam Neeson,Ted 2 ,229,30000
-180,141,334,Adventure|Drama|History|Romance,Max Minghella,Agora ,172,29000
-125,121,776,Action|Comedy|Fantasy|Sci-Fi,Janeane Garofalo,Mystery Men ,435,0
-237,111,681,Comedy|Romance,Jenna Fischer,Hall Pass ,143,10000
-209,157,680,Biography|Drama|Thriller,Al Pacino,The Insider ,521,0
-178,117,531,Action|Drama|History|Thriller,Michael Raymond-James,The Finest Hours ,113,12000
-238,128,135,Action|Drama|Thriller,Leonardo DiCaprio,Body of Lies ,263,0
-190,114,982,Comedy,Steve Carell,Dinner for Schmucks ,264,0
-393,105,911,Action|Fantasy|Horror,Rufus Sewell,Abraham Lincoln: Vampire Hunter ,348,98000
-138,113,232,Action|Crime|Romance|Thriller,Will Patton,Entrapment ,274,0
-4,30,359,Comedy,Hector Elizondo,Last Man Standing             ,87,0
-142,121,745,Drama|Mystery|Sci-Fi|Thriller,Martin Landau,The X Files ,297,0
-90,102,112,Action|Adventure|Fantasy|War,Colin Firth,The Last Legion ,174,0
-219,169,13000,Action|Drama|War,Tom Hanks,Saving Private Ryan ,2277,22000
-327,132,464,Action|Crime|Drama|Thriller,Rami Malek,Need for Speed ,346,32000
-149,127,912,Comedy|Fantasy|Romance,Judy Greer,What Women Want ,395,0
-193,103,835,Adventure|Animation|Comedy|Family,Goran Visnjic,Ice Age ,467,3000
-175,136,354,Drama|Horror|Sci-Fi|Thriller,Morgan Freeman,Dreamcatcher ,662,4000
-538,150,655,Biography|Drama|History|War,Joseph Gordon-Levitt,Lincoln ,720,71000
-313,136,99,Action|Sci-Fi,Keanu Reeves,The Matrix ,3646,25000
-159,140,552,Adventure|Drama|History,Tom Hanks,Apollo 13 ,296,5000
-196,113,217,Action|Sci-Fi,Ronny Cox,Total Recall ,391,0
-80,104,775,Comedy|Family|Fantasy,Judge Reinhold,The Santa Clause 2 ,116,1000
-488,158,11000,Drama|Musical|Romance,Hugh Jackman,Les Misérables ,845,144000
-153,119,744,Comedy|Drama|Romance,Tom Hanks,You've Got Mail ,556,0
-173,106,105,Comedy,Will Ferrell,Step Brothers ,277,0
-156,136,94,Action|Adventure|Comedy|Romance|Thriller|Western,Anthony Hopkins,The Mask of Zorro ,318,0
-307,95,490,Comedy|Drama,Robert Downey Jr.,Due Date ,285,25000
-322,137,465,Biography|Drama|Sport|War,Finn Wittrock,Unbroken ,351,35000
-169,130,416,Action|Adventure|Thriller,Clint Eastwood,Space Cowboys ,326,0
-74,124,369,Action|Adventure|Thriller,Sylvester Stallone,Cliffhanger ,172,0
-72,108,461,Action|Crime|Thriller,Delroy Lindo,Broken Arrow ,189,0
-86,104,577,Comedy|Family|Fantasy,Bruce Willis,The Kid ,139,0
-242,129,625,Drama|History|Thriller,Nicolas Cage,World Trade Center ,564,0
-141,117,403,Drama,Julia Roberts,Mona Lisa Smile ,264,0
-313,99,174,Comedy|Romance,Sayed Badreya,The Dictator ,310,59000
-280,159,521,Drama|Mystery|Thriller,Tom Cruise,Eyes Wide Shut ,1500,10000
-176,118,929,Comedy|Drama|Family|Musical,Quvenzhané Wallis,Annie ,213,16000
-279,105,523,Comedy|Crime|Drama|Romance,Will Smith,Focus ,221,23000
-241,103,520,Action|Comedy|Romance,Tom Hardy,This Means War ,238,18000
-185,122,957,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Ryan Reynolds,Blade: Trinity ,514,0
-97,114,919,Action|Drama|War,Lea Thompson,Red Dawn ,383,0
-117,143,210,Comedy|Drama,Maura Tierney,Primary Colors ,157,688
-239,96,974,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Resident Evil: Retribution ,423,32000
-230,111,805,Action|Sci-Fi|Thriller,Jason Statham,Death Race ,211,0
-94,121,263,Action|Crime|Drama|Mystery|Thriller,Melina Kanakaredes,The Long Kiss Goodnight ,285,4000
-134,135,184,Action|Drama|Thriller,Pamela Reed,Proof of Life ,265,892
-136,101,539,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Kristen Stewart,Zathura: A Space Adventure ,202,0
-315,151,637,Drama,Brad Pitt,Fight Club ,2968,48000
-96,131,383,Drama|Sport,Matthew McConaughey,We Are Marshall ,175,0
-14,60,575,Crime|Drama|Mystery,Jason Flemyng,The Missing             ,28,0
-60,100,554,Action|Adventure|Comedy,Bruce Willis,Hudson Hawk ,249,0
-60,105,506,Comedy|Crime,Michael Rapaport,Lucky Numbers ,69,177
-308,92,568,Action|Fantasy|Sci-Fi|Thriller,Caitlin Stasey,I, Frankenstein ,194,15000
-127,130,25,Crime|Drama,Ian McNeice,Oliver Twist ,138,0
-196,100,1000,Action|Crime|Fantasy|Thriller,Jennifer Garner,Elektra ,380,0
-339,102,6000,Action|Crime|Thriller,Joseph Gordon-Levitt,Sin City: A Dame to Kill For ,239,32000
-96,133,970,Drama|Mystery|Romance,Harrison Ford,Random Hearts ,290,295
-361,121,221,Adventure|Biography|Drama|History|Sport|Thriller,Michael Kelly,Everest ,265,40000
-226,147,16,Crime|Drama|Fantasy,Michael Smiley,Perfume: The Story of a Murderer ,482,26000
-194,94,481,Action|Comedy|Crime,Verne Troyer,Austin Powers in Goldmember ,795,0
-138,94,668,Action|Animation|Comedy|Family|Sci-Fi,Nicolas Cage,Astro Boy ,77,0
-308,127,191,Adventure|Sci-Fi|Thriller,Wayne Knight,Jurassic Park ,895,19000
-40,212,812,Adventure|Biography|Crime|Drama|Western,Dennis Quaid,Wyatt Earp ,145,0
-42,141,672,Action|Crime|Drama|Thriller,Harrison Ford,Clear and Present Danger ,133,0
-68,103,7,Action|Adventure|Drama|History,Si Won Choi,Dragon Blade ,86,0
-78,98,723,Comedy|Crime,Chazz Palminteri,Littleman ,187,0
-178,116,563,Action|War,Matthew McConaughey,U-571 ,602,0
-75,114,452,Comedy|Drama|Romance,Shawna Waldron,The American President ,214,0
-150,87,645,Comedy|Romance|Sport,Justin Timberlake,The Love Guru ,250,0
-113,125,867,Action|Comedy|Crime|Thriller,Jon Lovitz,3000 Miles to Graceland ,399,0
-596,187,1000,Crime|Drama|Mystery|Thriller|Western,Craig Stark,The Hateful Eight ,1018,114000
-191,93,970,Comedy|Sport,Will Ferrell,Blades of Glory ,246,0
-156,95,439,Adventure|Animation|Comedy|Family|Fantasy,Gary Cole,Hop ,82,0
-460,117,447,Action|Drama|Fantasy|War,Gerard Butler,300 ,2073,13000
-141,106,708,Comedy|Romance,Robert De Niro,Meet the Fockers ,428,0
-180,115,664,Comedy|Drama|Family,Eric Dane,Marley & Me ,320,11000
-186,189,693,Crime|Drama|Fantasy|Mystery,Tom Hanks,The Green Mile ,1377,30000
-177,100,311,Action|Adventure|Comedy,Jill Hennessy,Wild Hogs ,255,0
-161,81,397,Adventure|Animation|Comedy|Family|Sci-Fi,Catherine O'Hara,Chicken Little ,251,912
-568,149,625,Crime|Drama|Mystery|Thriller,Patrick Fugit,Gone Girl ,1127,146000
-249,119,73,Action|Mystery|Thriller,Matt Damon,The Bourne Identity ,849,0
-137,130,345,Action|Adventure|Thriller,Izabella Scorupco,GoldenEye ,416,0
-113,116,475,Drama|Mystery|Thriller,Daniel von Bargen,The General's Daughter ,274,885
-213,103,576,Comedy|Drama|Sci-Fi,Natascha McElhone,The Truman Show ,877,18000
-120,99,145,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,Martin Short,The Prince of Egypt ,353,0
-81,92,522,Comedy|Family,Anjelica Huston,Daddy Day Care ,116,886
-265,109,459,Action|Comedy|Crime|Drama|Thriller,Denzel Washington,2 Guns ,172,22000
-105,87,405,Action|Comedy|Family|Fantasy,Carol Ann Susi,Cats & Dogs ,235,0
-155,111,82,Action|Crime|Thriller,Jason Statham,The Italian Job ,497,0
-118,101,268,Comedy|Romance,Dorian Missick,Two Weeks Notice ,269,0
-131,83,754,Adventure|Animation|Comedy|Family,Sylvester Stallone,Antz ,289,0
-166,113,721,Comedy,Jon Favreau,Couples Retreat ,144,0
-60,107,695,Action|Drama|Sport,Tom Cruise,Days of Thunder ,97,0
-77,94,2000,Adventure|Comedy|Family,Taylor Lautner,Cheaper by the Dozen 2 ,128,781
-249,132,240,Action|Sci-Fi|Thriller,Ki Hong Lee,The Scorch Trials ,360,24000
-213,140,745,Drama|Romance,James Franco,Eat Pray Love ,302,26000
-121,125,627,Comedy|Drama|Fantasy|Romance,Nicolas Cage,The Family Man ,322,0
-315,111,357,Action|Comedy|Crime|Thriller,Bruce Willis,RED ,328,32000
-171,156,1000,Drama|Sport,Al Pacino,Any Given Sunday ,452,0
-96,170,380,Drama|Romance|Western,Scarlett Johansson,The Horse Whisperer ,263,0
-299,120,680,Crime|Drama|Thriller,Tom Cruise,Collateral ,836,0
-167,100,416,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,The Scorpion King ,432,0
-125,115,579,Action|Drama|Thriller,Billy Burke,Ladder 49 ,323,0
-387,130,1000,Action|Crime|Mystery|Thriller,Tom Cruise,Jack Reacher ,448,38000
-199,105,811,Action|Sci-Fi|Thriller,LL Cool J,Deep Blue Sea ,643,0
-136,111,6,Documentary|Music,Misha Gabriel Hamilton,This Is It ,223,0
-436,106,175,Drama|Thriller,Matt Damon,Contagion ,411,42000
-73,89,226,Action|Adventure|Comedy|Crime,Estella Warren,Kangaroo Jack ,181,858
-310,100,57,Animation|Family|Fantasy,Jennifer Saunders,Coraline ,279,10000
-323,91,751,Sci-Fi|Thriller,Zooey Deschanel,The Happening ,1264,6000
-171,146,451,Action|Crime|Drama|Thriller,Denzel Washington,Man on Fire ,690,14000
-76,98,722,Comedy|Family|Fantasy,Robert Downey Jr.,The Shaggy Dog ,83,747
-173,101,767,Comedy|Crime,Snoop Dogg,Starsky & Hutch ,308,0
-81,94,626,Comedy|Family,Jim Belushi,Jingle All the Way ,162,0
-242,132,160,Action|Fantasy|Horror|Sci-Fi,James Babson,Hellboy ,597,0
-110,115,521,Drama,Robert Duvall,A Civil Action ,181,1000
-328,92,586,Adventure|Animation|Comedy|Family|Fantasy,Anna Kendrick,ParaNorman ,176,12000
-83,124,460,Action|Adventure|Crime|Thriller,J.K. Simmons,The Jackal ,227,0
-196,119,716,Action|Mystery|Sci-Fi|Thriller,Ivana Milicevic,Paycheck ,347,0
-34,124,672,Drama|Romance,Joe Mantegna,Up Close & Personal ,54,829
-118,93,903,Adventure|Animation|Comedy|Family|Fantasy,Emma Watson,The Tale of Despereaux ,106,0
-8,22,402,Comedy|Romance,Bianca Kajlich,Rules of Engagement             ,41,0
-81,98,107,Action|Comedy|Sci-Fi,Romany Malco,The Tuxedo ,207,797
-47,92,488,Action|Thriller,Peter Greene,Under Siege 2: Dark Territory ,126,1000
-313,105,288,Action|Drama|Thriller,Colm Feore,Jack Ryan: Shadow Recruit ,289,17000
-315,124,14000,Biography|Comedy|Drama,Jennifer Lawrence,Joy ,256,24000
-225,99,864,Action|Crime|Drama|Thriller,Gerard Butler,London Has Fallen ,323,28000
-223,116,672,Action|Horror|Sci-Fi,Gary Dourdan,Alien: Resurrection ,656,0
-198,124,295,Action|Crime|Drama|Mystery|Thriller,Tate Donovan,Shooter ,338,0
-219,96,642,Adventure|Animation|Comedy|Family|Fantasy,Isaac Hempstead Wright,The Boxtrolls ,122,11000
-92,104,944,Comedy|Drama|Fantasy|Romance,Goran Visnjic,Practical Magic ,257,0
-435,100,2000,Action|Adventure|Animation|Comedy|Family|Fantasy,Morgan Freeman,The Lego Movie ,471,64000
-111,115,642,Action|Comedy|Crime,Eileen Brennan,Miss Congeniality 2: Armed and Fabulous ,156,621
-138,101,11000,Action|Adventure|Fantasy|Sci-Fi|Thriller,Christian Bale,Reign of Fire ,569,0
-415,113,300,Action|Crime|Drama|Thriller,Ryan Gosling,Gangster Squad ,264,40000
-170,100,485,Adventure|Comedy,Olivia Wilde,Year One ,203,0
-306,134,204,Biography|Drama|History|Sport,Matt Damon,Invictus ,259,23000
-252,127,379,Crime|Drama|Mystery|Thriller,Robin Wright,State of Play ,235,0
-211,125,896,Comedy|Crime|Romance|Thriller,Julia Roberts,Duplicity ,184,0
-49,94,230,Comedy|Family|Sci-Fi,Steven Anthony Lawrence,My Favorite Martian ,73,448
-161,107,206,Action|Crime|Thriller,Blair Brown,The Sentinel ,213,690
-156,91,480,Adventure|Animation|Comedy|Family|Sci-Fi,Dwayne Johnson,Planet 51 ,72,0
-172,116,906,Action|Adventure|Sci-Fi|Thriller,Tom Hardy,Star Trek: Nemesis ,842,0
-161,100,210,Comedy|Crime|Romance,Cedric the Entertainer,Intolerable Cruelty ,322,0
-239,111,461,Drama|Sport,Clint Eastwood,Trouble with the Curve ,150,11000
-258,117,896,Crime|Drama|Mystery|Thriller,Bojana Novakovic,Edge of Darkness ,256,0
-95,110,308,Horror|Mystery|Sci-Fi|Thriller,John Kapelos,The Relic ,165,956
-105,96,236,Comedy|Crime,Robert De Niro,Analyze That ,138,846
-198,101,1000,Action|Crime|Drama|Mystery|Thriller,Robert De Niro,Righteous Kill ,248,0
-79,111,652,Action|Crime|Drama|Thriller,Bruce Willis,Mercury Rising ,127,0
-210,117,569,Biography|Drama|Music,Robert Downey Jr.,The Soloist ,143,0
-125,126,9000,Drama|Fantasy|Sport,Matt Damon,The Legend of Bagger Vance ,267,0
-149,152,947,Adventure|Comedy|Drama|Music,Philip Seymour Hoffman,Almost Famous ,822,15000
-77,86,265,Animation|Comedy|Family|Fantasy,Bill Murray,Garfield 2 ,74,470
-77,101,218,Action|Adventure|Crime|Thriller,Sunny Mabrey,xXx: State of the Union ,213,0
-225,87,77,Action|Fantasy|Horror|Sci-Fi|Thriller,Josh Wingate,Priest ,233,20000
-98,85,82,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,Brad Pitt,Sinbad: Legend of the Seven Seas ,91,880
-172,130,552,Horror|Sci-Fi|Thriller,Sean Pertwee,Event Horizon ,857,10000
-703,173,19000,Action|Adventure|Sci-Fi,Chris Hemsworth,The Avengers ,1722,123000
-117,104,256,Drama|Fantasy|Mystery|Romance|Thriller,Joe Morton,Dragonfly ,243,0
-240,121,854,Crime|Drama|Mystery|Thriller,Scarlett Johansson,The Black Dahlia ,644,0
-123,140,579,Action|Adventure|Drama|History|Romance|War,James Franco,Flyboys ,247,2000
-110,131,507,Action|Drama|Thriller,Clifton Collins Jr.,The Last Castle ,281,0
-100,91,68,Horror|Sci-Fi|Thriller,Robert Forster,Supernova ,282,589
-189,118,778,Drama|Fantasy|Mystery|Romance,Matt Bomer,Winter's Tale ,126,17000
-212,130,1000,Fantasy|Horror|Mystery|Romance,Aidan Turner,The Mortal Instruments: City of Bones ,457,44000
-127,90,196,Adventure|Comedy|Family|Romance|Sci-Fi,Marc Blucas,Meet Dave ,109,791
-196,103,87,Drama|Horror|Thriller,Dougray Scott,Dark Water ,411,0
-115,122,1000,Comedy|Drama,Matthew McConaughey,Edtv ,195,641
-161,106,466,Adventure|Family|Fantasy,Brendan Fraser,Inkheart ,110,0
-223,103,437,Action|Crime|Fantasy|Thriller,Scarlett Johansson,The Spirit ,290,2000
-181,107,280,Action|Comedy|Mystery|Romance,Johnny Depp,Mortdecai ,188,12000
-140,156,102,Action|Adventure|Fantasy|Thriller,Jason Statham,In the Name of the King: A Dungeon Siege Tale ,368,0
-54,127,617,Adventure|Drama|Romance|War,Angelina Jolie Pitt,Beyond Borders ,156,0
-14,119,22,Action|Adventure|Fantasy,Li Gong,Xi you ji zhi: Sun Wukong san da Baigu Jing ,9,426
-81,132,242,Action|Drama|War,James Franco,The Great Raid ,183,0
-579,108,361,Action|Adventure|Comedy|Romance|Sci-Fi,Ryan Reynolds,Deadpool ,1058,117000
-56,114,440,Comedy|Drama,Kelly Preston,Holy Man ,88,296
-490,133,318,Action|Biography|Drama|History|Thriller|War,Bradley Cooper,American Sniper ,916,112000
-218,103,543,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,Goosebumps ,154,35000
-20,22,271,Comedy|Family|Fantasy,Nate Richert,Sabrina, the Teenage Witch             ,94,990
-142,95,512,Comedy|Fantasy|Romance,Jon Heder,Just Like Heaven ,263,0
-57,90,809,Comedy|Family|Romance|Sci-Fi,Taylor Negron,The Flintstones in Viva Rock Vegas ,85,500
-84,87,349,Action|Adventure|Thriller|War,Sylvester Stallone,Rambo III ,171,2000
-186,114,110,Comedy|Drama|Romance|Sport,Robert Baker,Leatherheads ,120,472
-53,119,11000,Comedy|Western,Taylor Lautner,The Ridiculous 6 ,143,0
-133,103,727,Comedy|Drama|Romance,Michael Kelly,Did You Hear About the Morgans? ,121,0
-246,125,839,Comedy,Josh Gad,The Internship ,281,22000
-253,97,529,Action|Adventure|Horror|Sci-Fi,Milla Jovovich,Resident Evil: Afterlife ,410,19000
-144,125,519,Action|Adventure|Drama|History|War,David Oyelowo,Red Tails ,273,0
-46,30,479,Comedy|Romance,Chris Noth,Sex and the City             ,238,0
-117,136,9000,Drama|Mystery|Thriller,Keanu Reeves,The Devil's Advocate ,431,11000
-157,116,622,Comedy,Adam Sandler,That's My Boy ,198,12000
-60,103,40,Action|Adventure|Fantasy,Dennis Quaid,DragonHeart ,139,0
-117,97,455,Action|Comedy|Crime|Drama,Salma Hayek,After the Sunset ,147,782
-287,96,1000,Action|Fantasy|Thriller,Nicolas Cage,Ghost Rider: Spirit of Vengeance ,331,18000
-96,131,58,Drama|Music|Romance|War,Christian Bale,Captain Corelli's Mandolin ,220,0
-26,22,676,Comedy|Romance,Barry Corbin,Anger Management             ,54,0
-125,95,650,Action|Comedy|Drama|Family|Thriller,Vin Diesel,The Pacifier ,225,0
-117,86,348,Action|Crime,Dwayne Johnson,Walking Tall ,221,0
-149,142,194,Comedy|Drama,Tom Hanks,Forrest Gump ,1398,59000
-131,92,639,Animation|Comedy|Family|Fantasy|Music,Jesse McCartney,Alvin and the Chipmunks ,146,0
-150,108,708,Comedy,Robert De Niro,Meet the Parents ,507,0
-92,84,752,Adventure|Animation|Drama|Family|History|Musical|Romance,Christian Bale,Pocahontas ,216,0
-169,188,467,Action|Adventure|Drama|Romance|Sci-Fi,Marlon Brando,Superman ,497,0
-57,95,744,Comedy|Romance|Sci-Fi,Jada Pinkett Smith,The Nutty Professor ,99,960
-171,118,681,Comedy|Romance,Will Smith,Hitch ,372,0
-53,92,458,Action|Adventure|Comedy|Family|Romance,Brendan Fraser,George of the Jungle ,103,5000
-153,74,729,Comedy|Romance,Alyson Hannigan,American Wedding ,332,0
-491,134,186,Biography|Drama|Thriller,Tom Hanks,Captain Phillips ,527,65000
-247,101,7000,Comedy|Crime|Romance|Thriller,Mila Kunis,Date Night ,207,0
-26,100,394,Comedy|Family|Fantasy,Eric Idle,Casper ,92,0
-292,132,683,Action|Crime|Thriller,Denzel Washington,The Equalizer ,436,56000
-114,105,708,Comedy|Drama|Romance,Bob Hoskins,Maid in Manhattan ,242,0
-82,123,665,Action|Drama|Thriller|War,Denzel Washington,Crimson Tide ,194,0
+num_critic_for_reviews,duration,actor_3_facebook_likes,actor_1_name,num_user_for_reviews
+56,90,636,Carmen Electra,123
+160,108,690,Chris Hemsworth,215
+71,103,625,America Ferrera,20
+37,96,654,Alyson Hannigan,106
+62,117,55,Lily Tomlin,157
+73,93,514,Joe Mantegna,122
+59,136,213,Robert De Niro,75
+25,115,534,Alfre Woodard,39
+97,94,458,Steve Buscemi,55
+205,85,489,Peter Mensah,673
+69,88,799,Frankie Muniz,99
+195,112,383,Anthony Hopkins,270
+61,86,169,Monica Potter,104
+77,86,635,Thomas McDonell,32
+259,112,177,Emmanuelle Seigner,175
+251,137,280,Kate Winslet,320
+63,90,191,Norman Reedus,112
+47,107,113,Viggo Mortensen,114
+108,98,15,Derek Luke,59
+64,84,102,Melissa Sagemiller,181
+20,139,5,Seth Gilliam,27
+135,97,548,Colin Firth,79
+2,127,324,Christopher Lee,8
+262,150,43,Lesley Manville,165
+129,104,59,Mathieu Amalric,31
+69,132,284,Sebastian Koch,55
+50,117,21,Woo-sung Jung,34
+57,115,322,John Heard,36
+116,186,338,Matt Damon,119
+45,90,378,Steve Howey,66
+87,90,767,Madeline Carroll,104
+357,134,11000,Jake Gyllenhaal,2254
+348,101,429,Noel Fisher,491
+88,97,201,Donald Faison,248
+181,107,135,Dennis Quaid,378
+107,99,390,Adam Scott,96
+53,55,2,Krystyna Janda,37
+132,124,170,Kate Winslet,314
+401,110,816,Abbie Cornish,284
+58,105,400,Colm Feore,59
+1,41,2,Jacek Koman,2
+192,178,471,Thomas Kretschmann,564
+157,125,93,Belén Rueda,140
+454,108,21,Scarlett Johansson,616
+62,121,227,Robin Williams,131
+4,100,385,Jason Mewes,17
+84,115,41,Usher Raymond,233
+669,108,1000,Natalie Portman,1140
+492,117,1000,Gary Oldman,630
+149,220,3000,Robert De Niro,650
+101,112,237,Sean Patrick Thomas,320
+102,99,54,Tuesday Knight,260
+63,109,579,Jennifer Garner,55
+106,83,612,Jennifer Garner,469
+50,107,316,Jack Palance,120
+275,102,360,Bill Murray,171
+90,100,460,Joe Lo Truglio,42
+133,97,835,Joseph Gordon-Levitt,549
+49,92,301,Zooey Deschanel,159
+19,84,182,Jon Lovitz,72
+186,86,2,Óscar Jaenada,139
+185,120,829,Logan Lerman,1100
+42,89,329,Chris Elliott,91
+37,117,912,Mekhi Phifer,32
+45,97,782,Kathleen Turner,168
+57,91,459,Bokeem Woodbine,168
+25,100,388,Gregory Smith,42
+59,72,435,Jenny Agutter,166
+58,84,334,Leslie Bibb,84
+330,126,745,Toby Jones,1066
+489,108,123,Elina Alminas,611
+242,112,213,Willie Garson,840
+40,90,405,Mo'Nique,31
+112,91,140,Teo Halm,149
+84,135,525,Kirsten Dunst,169
+251,141,78,Yuki Matsuzaki,316
+113,104,844,J.K. Simmons,128
+23,84,744,LL Cool J,20
+421,118,491,Joan Allen,351
+32,82,294,Don Rickles,117
+52,95,650,Kathleen Turner,107
+81,94,4000,Ryan Reynolds,210
+,88,75,Michael Nyqvist,
+39,99,730,Rosario Dawson,39
+63,121,812,Salma Hayek,181
+47,84,690,Jake Gyllenhaal,181
+111,93,258,Mark Gatiss,159
+168,93,499,Justin Chon,84
+165,120,280,Steve Buscemi,123
+104,112,548,Harry Lennix,59
+150,107,252,Tina Fey,87
+61,112,8,Emir Kusturica,69
+226,96,73,Liam Neeson,166
+21,91,150,Chazz Palminteri,19
+217,105,1000,Natalie Portman,201
+94,125,968,Peter Dinklage,108
+364,102,850,Logan Lerman,457
+19,87,147,Burt Young,23
+129,118,442,Toby Jones,102
+71,115,887,Milla Jovovich,92
+93,91,794,Djimon Hounsou,53
+399,88,304,John Boyega,297
+110,127,116,Jelena Jovanova,180
+285,94,383,Michael Imperioli,266
+2,115,29,Liam Neeson,1
+61,90,234,Steve Irwin,106
+242,102,113,Dameon Clarke,162
+62,100,91,Rae Dawn Chong,96
+121,117,543,Denzel Washington,159
+83,109,355,Gabriel Millman,139
+122,121,975,Brad Pitt,460
+88,111,1000,Eva Green,35
+120,100,99,Kevin Spacey,365
+225,109,204,Liam Aiken,176
+130,93,697,Ed Begley Jr.,106
+167,101,472,Julian Morris,126
+7,101,135,David Niven,44
+226,106,552,Ryan Gosling,299
+185,94,18,Richard Johnson,398
+177,140,322,Catherine Deneuve,690
+28,132,241,Tom Wilkinson,50
+48,99,599,Isabella Rossellini,48
+116,90,506,Jenna Fischer,60
+391,105,844,Robert De Niro,392
+117,108,168,Kevin Spacey,51
+24,69,191,Judith Barsi,133
+86,148,489,Min-sik Choi,224
+41,118,655,Clifton Collins Jr.,33
+304,132,259,Ellen Burstyn,1058
+385,130,366,Roy Scheider,962
+145,95,1000,Alyson Hannigan,789
+99,80,186,Mackenzie Foy,32
+29,94,148,Victor Wong,69
+77,122,807,Chris Brown,62
+91,102,436,Sean Patrick Thomas,156
+148,116,664,Leonard Nimoy,359
+61,78,567,Sean Young,242
+84,114,793,Matthew Broderick,152
+83,112,733,Harrison Ford,175
+216,110,11,Alex Veadov,349
+107,104,920,Channing Tatum,271
+63,81,616,Bruce Willis,154
+140,154,889,Robert De Niro,462
+153,102,816,Danneel Ackles,165
+414,89,371,Michael Kelly,471
+16,132,122,Miriam Margolyes,68
+139,103,504,Shelley Duvall,177
+111,93,135,Britney Spears,578
+229,93,281,Dax Flame,261
+112,172,78,George C. Scott,258
+207,96,933,Robin Williams,605
+198,89,1000,Andrew Fiscella,369
+172,92,451,Chloë Grace Moretz,156
+45,97,826,Vanessa Williams,49
+34,93,722,Hector Elizondo,102
+75,89,84,Steven Mackintosh,147
+400,144,834,Eva Green,2301
+128,123,898,Salma Hayek,271
+68,93,8,Lexie Contursi,50
+326,133,733,Shailene Woodley,548
+128,121,599,Matt Damon,290
+161,102,555,Rosario Dawson,93
+70,102,79,Talia Shire,75
+164,99,282,Illeana Douglas,374
+68,55,898,Peter Mensah,302
+354,98,322,Steve Coogan,233
+125,118,805,Alicia Witt,219
+55,125,801,Laurence Olivier,123
+66,104,717,Tammin Sursok,150
+191,109,376,Nat Wolff,160
+33,86,581,Michael Imperioli,18
+433,115,622,Devin Ratray,274
+66,92,580,CCH Pounder,104
+37,91,611,Noel Fisher,69
+325,94,390,Charlize Theron,203
+170,93,501,Jason Statham,444
+11,93,324,Bernie Mac,15
+24,100,604,Holly Hunter,88
+70,100,696,Common,36
+232,113,471,Anne Hathaway,281
+34,122,85,Anjelica Huston,48
+160,100,1000,Scarlett Johansson,296
+96,293,18,Jürgen Prochnow,426
+106,137,877,Dennis Quaid,267
+53,93,503,Heather Matarazzo,105
+274,123,171,Tom Hughes,391
+248,119,4,Takeshi Kaneshiro,420
+288,107,360,Nate Parker,145
+177,106,265,Gary Weeks,177
+81,109,192,Cedric the Entertainer,90
+29,81,654,Sarah Silverman,69
+58,95,968,Christopher Lambert,68
+144,86,783,John Michael Higgins,150
+114,113,99,Melanie Griffith,161
+132,122,316,Jill Clayburgh,188
+60,90,251,Anika Noni Rose,304
+30,108,599,Michael Imperioli,33
+138,113,48,Jennifer Jason Leigh,354
+190,110,103,Isabella Rossellini,98
+61,109,794,Bob Hoskins,99
+363,110,74,Doona Bae,279
+2,100,212,Robert Duvall,10
+131,101,611,Jeremy Davies,316
+146,97,442,Robert Downey Jr.,124
+280,172,70,Toni Servillo,124
+78,104,77,Kieran Culkin,122
+469,99,520,Mia Wasikowska,235
+194,129,576,Li Gong,210
+121,91,18,David Richmond-Peck,50
+38,100,393,Eamonn Walker,43
+123,111,289,Tony Curran,57
+81,114,403,Omar Epps,133
+72,86,146,Michael Jeter,90
+25,107,745,Kyra Sedgwick,12
+78,90,350,Eva Amurri Martino,78
+57,103,820,Dianne Wiest,25
+69,120,289,Zack Ward,75
+73,134,0,Marcell Nagy,45
+42,110,865,Bruce Willis,133
+101,95,3,Honglei Sun,20
+82,95,280,David Hewlett,124
+149,132,3,Ye Liu,62
+165,94,183,Jim Parsons,214
+5,89,188,Jon Heder,12
+44,138,16,Takuya Kimura,49
+74,113,18,Richard Coyle,61
+156,99,42,Rachael Carpani,293
+1,111,247,Christopher Lambert,10
+82,99,79,Jacob Vargas,153
+151,104,1000,Jason Statham,726
+3,89,84,Gary Daniels,7
+98,103,426,Miko Hughes,248
+25,134,4,Tatsuo Matsumura,40
+35,100,388,Paddy Considine,27
+6,130,2,Wei Tang,6
+183,106,233,Phoebe Cates,245
+282,125,504,Harrison Ford,1470
+158,109,411,Robert De Niro,166
+89,200,382,Julie Christie,255
+101,114,14,Wagner Moura,26
+128,112,632,Lucas Grabeel,171
+410,116,141,Christian Bale,389
+104,92,218,Bam Margera,196
+54,120,633,Fred Gwynne,201
+141,107,602,Chloë Grace Moretz,132
+30,92,32,Zoe Ventoura,33
+57,107,808,Corbin Bernsen,97
+56,100,621,Lily Cole,102
+216,81,328,Radha Mitchell,629
+80,101,488,Lauren German,962
+77,122,191,Lois Smith,190
+101,97,637,Sarah Michelle Gellar,749
+156,92,647,Costas Mandylor,194
+48,92,842,Madeline Kahn,131
+109,110,549,Nate Parker,56
+62,86,532,Vincent Pastore,100
+33,91,298,Steven Bauer,80
+20,145,279,Sylvester Stallone,35
+52,100,225,Louise Fletcher,64
+351,111,54,Julie Walters,212
+124,184,111,Ryan O'Neal,369
+37,89,651,Lee Majors,90
+58,84,553,Will Ferrell,79
+175,98,123,Luke Newberry,126
+75,95,443,Shannon Elizabeth,121
+161,100,303,Matthew McConaughey,463
+203,109,553,Ryan Reynolds,147
+188,118,812,Liam Neeson,204
+221,88,795,Patricia Tallman,604
+66,86,424,Jaime King,107
+80,118,472,Johnny Depp,292
+25,125,109,Henry Ian Cusick,74
+169,125,579,Eddie Marsan,165
+70,94,183,Michael McKean,128
+15,113,787,Anjelica Huston,19
+535,104,272,Justin Timberlake,313
+92,95,697,Mekhi Phifer,153
+14,102,40,Milla Jovovich,39
+13,124,104,Frank Finlay,36
+87,105,776,Kate Winslet,69
+78,104,22,Phyllida Law,86
+223,120,723,Heather O'Rourke,321
+136,111,405,Sam Riley,59
+160,95,357,Julie Benz,262
+28,96,199,John Cassavetes,12
+54,97,19,Nora Dunn,111
+75,118,48,John Howard,115
+20,193,860,Shah Rukh Khan,264
+105,97,327,Minnie Driver,132
+120,98,507,Romola Garai,160
+108,103,132,Lena Olin,349
+285,161,73,Keir Dullea,1736
+215,120,548,Henry Thomas,515
+81,97,499,Kristen Stewart,74
+17,97,194,William Hurt,28
+5,99,327,Ricky Schroder,31
+3,24,44,Antonia Thomas,18
+10,144,119,Arjun Rampal,43
+43,111,258,Jon Gries,111
+43,145,280,Santiago Cabrera,57
+94,106,24,Karin Viard,27
+161,126,893,Robin Williams,682
+38,106,571,Al Pacino,50
+210,121,482,Costas Mandylor,614
+52,117,901,Bill Murray,134
+139,98,229,Kirsten Dunst,385
+165,109,393,Frank Grillo,94
+96,95,1000,Paul Walker,389
+323,109,736,Mo'Nique,275
+190,96,448,Costas Mandylor,319
+173,101,368,Deborah Kara Unger,403
+46,107,685,Boris Kodjoe,137
+59,119,638,Tom Cruise,115
+53,178,196,Richard Burton,192
+22,100,577,Lane Smith,46
+203,98,634,Sarah Michelle Gellar,911
+77,92,491,Adam Sandler,289
+190,90,270,Eileen Brennan,985
+81,90,730,Keanu Reeves,181
+56,153,139,Oliver Reed,138
+264,124,186,Tom Wilkinson,266
+44,82,345,Diedrich Bader,38
+117,107,60,Tina Turner,193
+124,75,581,Bill Duke,437
+159,97,130,Lauren Cohan,155
+273,80,816,Bojana Novakovic,319
+26,85,615,John Witherspoon,66
+242,97,482,Lin Shaye,183
+55,109,619,Mike Starr,109
+151,104,1000,Jason Statham,726
+48,140,120,Jeff Fahey,96
+166,90,617,Ari Graynor,129
+206,130,769,Matt Damon,1015
+92,98,73,Erika Christensen,147
+78,101,257,Albert Brooks,121
+83,114,466,Ben Gazzara,201
+8,100,534,Jada Pinkett Smith,26
+86,85,782,Erika Christensen,217
+85,103,534,Dane Cook,151
+76,100,678,Ethan Embry,247
+60,114,699,Tom Cruise,308
+78,102,190,Bryce Dallas Howard,6
+112,103,275,Tom Skerritt,182
+189,97,220,Laila Haley,126
+82,116,706,Omari Hardwick,48
+120,96,448,Marley Shelton,371
+183,98,242,Milla Jovovich,330
+211,105,718,Meryl Streep,280
+14,123,338,Khandi Alexander,35
+54,107,53,Billy Drago,90
+55,112,826,Jurnee Smollett-Bell,75
+179,93,766,Bill Murray,640
+221,97,861,David Zayas,944
+158,122,111,Tina Desai,100
+73,101,558,Julia Ormond,24
+65,100,804,Ben Feldman,104
+23,129,203,Denzel Washington,30
+63,81,39,Steve Oedekerk,518
+132,96,536,Reba McEntire,248
+191,84,648,Kevin Zegers,540
+52,100,695,Dennis Quaid,78
+91,110,45,Byron Mann,131
+368,130,820,Matthew McConaughey,261
+89,84,307,Wendi McLendon-Covey,73
+83,106,547,Harry Styles,68
+83,89,503,Rob Riggle,59
+33,76,636,Jennifer Jason Leigh,43
+386,99,918,Eddie Redmayne,216
+191,96,442,Adam Scott,234
+16,104,582,Leonard Roberts,28
+297,108,458,Busy Philipps,279
+47,108,30,Chase Ellison,148
+63,87,869,Mila Kunis,180
+144,89,759,Gary Cole,621
+77,97,551,Kirsten Dunst,321
+325,106,309,Christoph Waltz,147
+100,100,711,Jon Favreau,481
+52,89,2000,Steve Carell,75
+98,114,298,Melanie Griffith,178
+163,95,472,Jasper Cole,125
+137,97,250,Sophie Okonedo,203
+180,94,3000,Hugh Jackman,352
+321,103,3000,Johnny Depp,374
+100,95,655,Stephen Root,53
+265,101,172,Steve Carell,221
+212,87,727,Kurtwood Smith,85
+68,40,476,Michaela Conlin,173
+162,101,602,Ethan Suplee,1420
+147,82,444,Daniel Sharman,99
+33,74,719,Nathan Lane,26
+94,130,2,Johannes Silberschneider,247
+143,112,201,Sissy Spacek,414
+38,96,934,Norman Reedus,92
+126,89,322,Beth Grant,119
+168,100,231,Dylan Moran,143
+19,78,378,Bernadette Peters,31
+91,121,664,Jennifer Ehle,57
+46,85,401,Jerry Stiller,79
+198,120,294,Christian Bale,205
+139,106,970,Al Pacino,100
+182,83,581,Judy Greer,112
+181,120,72,Flavio Parenti,114
+23,111,699,Robert Picardo,122
+30,100,541,Gary Oldman,88
+111,89,132,Peter Fonda,240
+287,115,911,Don Cheadle,1624
+96,135,553,Eric Stoltz,181
+27,92,311,Cliff Robertson,37
+44,120,400,Scott Mechlowicz,175
+49,97,269,Don Johnson,64
+57,135,851,Gillian White,186
+185,93,4,Eoin Macken,127
+2,118,249,Frank Langella,21
+270,97,64,Naomi Watts,96
+94,98,221,Demián Bichir,81
+157,98,258,Miranda Richardson,213
+49,101,826,Liam Neeson,91
+80,132,1000,Charlie Hunnam,103
+221,106,683,Chris Evans,144
+53,55,2,Krystyna Janda,37
+20,168,45,Naseeruddin Shah,110
+90,87,503,Alicia Witt,150
+376,98,251,Matthew McConaughey,216
+144,96,688,Demi Moore,88
+82,104,232,Philip Seymour Hoffman,83
+51,93,622,Jenna Fischer,46
+192,95,20,Natalie Portman,117
+36,119,54,Beverly D'Angelo,40
+71,89,119,Bruce Greenwood,215
+79,107,91,Bashar Rahal,112
+246,85,51,Wei Zhao,243
+115,93,0,Vincent Gallo,226
+34,101,28,Isabelle Huppert,21
+129,103,241,Numan Acar,37
+22,101,34,Olivier Martinez,14
+196,123,131,Gerard Butler,118
+73,111,83,Kip Pardue,56
+43,86,428,Minnie Driver,44
+129,99,334,Robin Williams,129
+200,90,345,Danny Dyer,194
+79,82,885,Joe Mantegna,119
+112,110,146,Kristen Stewart,56
+17,83,421,Christopher Lee,103
+20,128,553,Ricky Schroder,3
+12,125,36,Jorge Luis Moreno,3
+59,97,499,Chris Noth,18
+29,86,385,Eric Idle,85
+23,91,875,Jeff Bridges,11
+22,90,617,Adrian Martinez,20
+43,90,495,Stephanie Szostak,23
+16,94,422,Madison Pettis,4
+84,112,51,Nicholas Hamilton,57
+4,85,240,Mike Epps,10
+20,93,611,Drew Fuller,34
+71,104,102,Jim Carter,94
+102,94,72,Damian Walshe-Howling,89
+27,85,742,Zooey Deschanel,68
+62,99,126,Teryl Rothery,82
+5,91,111,Shane Pollard,11
+76,117,415,Jim Sturgess,38
+8,85,196,Drake Bell,2
+75,106,520,Veronica Ferres,31
+66,81,5,Ingvar Eggert Sigurðsson,7
+31,100,95,Sendhil Ramamurthy,16
+32,90,711,Ray Winstone,60
+17,116,46,Jimi Mistry,27
+4,84,482,Elaine Hendrix,3
+152,135,7,Kang-ho Song,74
+129,84,899,Boris Kodjoe,75
+15,89,499,Tyler Mane,27
+248,107,452,Kristen Stewart,220
+52,144,195,Danny Pino,165
+55,98,525,John Witherspoon,84
+30,94,262,Hayden Christensen,42
+130,117,244,Donald Pleasence,267
+29,102,1000,Mem Ferda,12
+447,127,319,Isabelle Huppert,190
+66,98,770,Tom Skerritt,114
+18,88,200,Daniella Alonso,26
+61,197,760,Jonathan Winters,344
+232,121,82,Carmen Maura,228
+62,90,123,John Vernon,147
+106,89,327,Jizelle Jade,54
+56,104,1000,Robert Downey Jr.,88
+48,94,129,Scott Glenn,38
+41,90,303,Bárbara Mori,106

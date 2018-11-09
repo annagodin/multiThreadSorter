@@ -1,144 +1,451 @@
-num_critic_for_reviews,duration,director_facebook_likes,cast_total_facebook_likes,plot_keywords,num_user_for_reviews,budget,actor_2_facebook_likes,movie_facebook_likes
-362,107,563,43291,chameleon|lizard|sheriff|water|western town,337,135000000,1000,26000
-153,92,35,19963,little girl|park|spy|statue of liberty|television van,118,132000000,411,11000
-329,115,521,17369,action hero|cia|dark past|flashback|memory,820,110000000,897,0
-266,92,54,12754,kung fu|kung fu master|master|panda|snow leopard,360,130000000,967,6000
-517,117,235,5730,ant|chinatown san francisco|heist|sabotage|vault,549,130000000,2000,61000
-502,146,508,49355,president|snow|television|tour|uprising,706,130000000,14000,82000
-322,115,386,59177,battle|friend|super strength|vampire|vision,329,120000000,17000,65000
-165,94,12,17883,alien friendship|alien invasion|australia|flying car|mother daughter relationship,214,135000000,523,26000
-401,116,14000,12758,alien|fight|storm|survival|tripod,2741,132000000,1000,0
-94,147,0,12954,cuba|dea|drugs|money|undercover,511,130000000,898,0
-246,90,50,5046,betrayal|egg|friend|goose|hero,137,130000000,442,16000
-330,101,176,12406,cia|on the run|russian|russian spy|strong female lead,514,110000000,702,23000
-434,138,0,32355,ark|flood|noah's ark|water|wrath of god,1240,125000000,9000,71000
-440,107,14000,4631,captain|morocco|ship|tintin|treasure,447,135000000,871,44000
-274,142,0,33284,magic|muggle|serial killer|traitor|wizard,1504,130000000,10000,11000
-245,165,1000,921,australia|cattle|darwin|drover|japanese,450,130000000,284,0
-349,100,0,14168,box office flop|father son team|fear|race against time|real life father and son playing father and son,744,130000000,943,37000
-145,82,0,2945,egg|iguanodon|lemur|meteor|nesting grounds,241,127500000,558,0
-1,,0,11036,,2,,570,40
-154,98,189,53587,museum|museum of natural history manhattan new york city|night watchman|star died before release|tablet,126,127000000,3000,11000
-233,95,96,46120,battle|city|planet|prison|superhero,187,130000000,11000,13000
-258,159,0,13191,based on novel|birthday|evil wizard|quidditch|wizard,1571,125000000,687,16000
-208,96,124,31549,drug dealer|gold|partner|police|undead,210,130000000,12000,20000
-1,120,28,699,blood|godzilla|monster|sequel,13,,106,0
-271,143,563,48184,caribbean|curse|governor|pirate|undead,2113,140000000,5000,10000
-4,,0,14719,,2,,2000,25
-403,123,508,81385,based on young adult novel|manipulation|rebellion|symbol|uprising,591,125000000,22000,52000
-294,174,2000,16008,based on supposedly true story|holy grail|mary magdalene|opus dei|secret,1966,125000000,574,0
-159,101,107,1031,amazon|bird|father in law|jungle|no opening credits,99,103000000,237,0
-289,134,0,20952,mutant|prison|professor|school|x men,1055,110000000,505,0
-342,132,681,55345,drug lord|drugs|federal agent|heist|police,366,125000000,14000,54000
-382,129,0,22403,factory|gypsy|investigation|sherlock holmes|train,412,125000000,979,39000
-344,106,255,18003,famous line|hand to hand combat|kraken|rape|zeus,637,125000000,1000,15000
-196,113,719,1441,ambiguous ending|false memory|implanted memory|memory|space colony,391,65000000,308,0
-85,102,323,1815,arab|battle|combat|viking|warrior,546,85000000,372,0
-436,135,209,12175,assassin|cia|drone|pill|wolf,504,125000000,826,31000
-183,125,541,2699,butler|critically bashed|cure|freeze|gotham,1018,125000000,890,0
-175,110,2000,4146,box office hit|christmas|materialism|public humiliation|snowflake,482,123000000,722,0
-239,124,776,20553,climate|end of the world|global warming|natural disaster|weather,1159,125000000,2000,19000
-237,123,610,11930,cure|mission|terrorist|thief|virus,1426,125000000,794,0
-231,130,249,2684,death|fish|fishing|sea|storm,779,140000000,638,0
-262,92,167,15302,fantastic four|space|strong female character|strong female lead|superheroine,436,130000000,2000,0
-552,127,0,2121,animal|faith|india|journey|tiger,755,120000000,358,122000
-276,123,160,14017,blackheart|devil|father|ghost|mephistopheles,681,110000000,701,0
-267,123,521,13752,black ops|chase|cia|cia agent|repeated scene,297,120000000,365,31000
-102,107,368,4046,fbi|murder|ring|witness protection|witness protection program,554,120000000,1000,0
-775,124,0,24098,cave painting|medical scanner|planet|pregnant with an alien fetus|suspended animation,2326,130000000,9000,97000
-71,77,50,2682,anthropomorphic mouse|falcon|marshmallow|second part|soccer,69,120000000,799,459
-476,109,662,17689,christ figure|class differences|messiah|saviour|social commentary,814,115000000,2000,61000
-207,134,123,17159,bounty hunter|escape|necromonger|planet|warrior,666,105000000,850,0
-492,117,294,14161,law enforcement|police|robocop|robot|technology,630,100000000,2000,60000
-284,135,0,902,based on anime|based on cartoon|gadget car|racer|speed,414,120000000,107,0
-168,121,274,993,embarrassment|falling in love|love|love triangle|revelation,196,120000000,216,0
-283,117,446,12731,chase|fbi|garage|spy|surveillance,348,117000000,973,11000
-539,124,364,22004,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool,892,120000000,10000,71000
-359,140,0,44042,elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,3286,113000000,16000,10000
-284,142,0,42990,martial arts|murdered before giving protagonist information|part computer animation|prequel|prequel to cult film,3516,115000000,16000,0
-250,92,0,15013,friend|little girl|monster|rival|scream,593,115000000,1000,0
-440,138,446,23755,healing power|marvel comics|mecha|regeneration|self healing,533,120000000,992,68000
-320,136,0,37723,alien|character says i have a bad feeling about this|hand to hand combat|seven word title|wilhelm scream,3597,115000000,14000,13000
-257,98,16,43286,cave|caveman|journey|strict father|survival,195,135000000,15000,28000
-33,116,0,1609,1st century b.c.|lightsaber|local blockbuster|magical potion|potion,36,78000000,276,291
-152,153,610,15046,code|duty|steel helmet|u.s. marine|u.s. soldier,454,115000000,836,0
-231,120,19,46719,based on fairy tale|dark fantasy|fairy tale|second part|sequel,134,115000000,11000,16000
-348,101,473,2690,18 wheeler|mutant|ninja|sewer|turtle,491,125000000,809,62000
-738,91,0,87,box office hit|long take|sole survivor|space|space station,1885,100000000,23,147000
-93,108,79,1569,ash|escape|lava|mayor|volcano,277,116000000,293,0
-181,112,13,8306,based on comic book|brother brother relationship|rat|sequel|turtle,115,135000000,833,12000
-369,100,128,1261,box office flop|critically bashed|portal|teleportation|troubled production,695,120000000,360,41000
-179,108,189,55486,chaos|museum|museum of natural history|night watchman|watchman,444,110000000,3000,3000
-358,114,62,16718,disaster movie|earthquake|journey|natural disaster|san andreas fault,499,110000000,2000,52000
-160,119,55,2958,ex boyfriend ex girlfriend relationship|media tycoon|megalomaniac|official james bond series|world war three,328,110000000,766,0
-192,142,776,19454,american revolution|british|french|hero|standoff,1144,110000000,2000,4000
-198,125,0,19359,father daughter relationship|heist|pretending to be pregnant|sequel|thief,627,110000000,8000,0
-233,126,218,22722,assassin|marriage|secret agent|suburb|target,798,120000000,11000,0
-263,119,124,22622,action heroine|falling from height|mind control|trainhopping|truth serum,258,110000000,5000,27000
-267,170,17000,34582,1920s|aviation|fight|spruce goose|test flight,799,110000000,3000,0
-184,85,11,1173,bermuda triangle|box office hit|shipwrecked|travel|travel writer,121,112000000,392,0
-447,119,1000,13391,heir|kung fu|party|playboy|superhero,443,120000000,1000,14000
-29,60,,1655,1980s|cult tv|famous opening theme|good versus evil|hero for hire,97,,554,0
-366,102,263,10583,army|commander|female rear nudity|greek|navy,523,110000000,1000,71000
-172,103,67,692,blue|new york|new york city|no opening credits|smurf,153,110000000,113,31000
-104,76,6,13607,cattle|cow|dairy farm|farm|rustler,88,110000000,513,304
-181,120,124,12452,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead,144,110000000,5000,12000
-327,127,189,22254,arena|boxing|boxing movie|robot|robot battle,426,110000000,929,36000
-125,105,67,914,based on cartoon|box office hit|no opening credits|sequel|smurf,59,105000000,71,0
-79,121,101,2027,collision course|computer|cruise|diamonds|ship run aground,248,160000000,368,894
-326,114,151,12908,alien|future|manipulation|simulation|training,554,110000000,635,123000
-354,129,235,13961,fbi|hacker|independence day|police|terrorist,782,110000000,300,0
-297,171,0,22342,elf|hobbit|middle earth|quest|ring,5060,93000000,5000,21000
-188,120,153,3175,19th century|around the world|inventor|martial arts|train,191,110000000,1000,0
-174,165,0,14196,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,386,107000000,851,0
-109,82,34,2762,based on cult comic book|cat|home alone|imagination|talking cat,456,109000000,743,946
-225,115,295,12068,humanoid robot|man versus machine|prosthetic limb|robot as pathos|robot vs. robot,789,120000000,981,0
-239,194,0,19600,12th century|crusader|jerusalem|knight|medieval times,942,130000000,5000,0
-101,84,50,3382,box office hit|cat|first part|mouse|orphanage,179,133000000,886,0
-228,97,63,2480,amphibian|dream|frog|frog prince|waitress,214,105000000,578,5000
-568,151,0,14831,astronaut|international cooperation|left for dead|nasa|space habitat,1023,108000000,801,153000
-,22,0,5,,,,,0
-257,136,0,34839,clone|environment|escape|island|lottery,899,126000000,12000,0
-62,104,23,3133,anniversary|architect|cellist|friend|hardware store,89,90000000,631,53
-175,127,57,29069,auto theft|brother|car|theft|thief,498,90000000,11000,0
-265,171,0,6521,battlefield|blood|combat|gladiator|roman empire,2368,103000000,933,21000
-252,145,14000,12546,future|murder|neo noir|washington d.c.|year 2054,1331,102000000,798,0
-232,174,0,35672,bildungsroman|flying broom|invisibility cloak|monster|wizardry,858,100000000,10000,0
-400,144,258,9125,casino|espionage|free running|james bond|terrorist,2301,150000000,1000,0
-230,119,13000,2776,astronaut|cage|planet|wilhelm scream|year 2029,1368,100000000,658,0
-210,153,0,2829,future|liquid metal|multiple cameos|sexy woman|time travel,983,102000000,604,13000
-357,140,0,64599,1930s|bank|celebrity criminal|fbi|public enemy number one,585,100000000,23000,0
-300,176,0,20354,death|heroin|popcorn|smuggling|vietnam,458,100000000,782,0
-94,141,0,4528,espionage|secret agent|secret mission|spy|spy film,351,115000000,1000,0
-267,106,12000,19906,hijack|hostage|ransom|subway|train,285,100000000,464,0
-180,98,80,24082,birthday|critically bashed|male nurse|nurse|suspicion,152,100000000,713,0
-265,116,285,20233,capitalist|detective|investigation|new york city|police,316,100000000,8000,16000
-81,115,55,3454,assassination attempt|corporate crime|rogue agent|witness|witness protection program,131,100000000,773,0
-765,165,16000,40978,dynamite|historically inaccurate|ku klux klan|n word|slavery,1193,100000000,11000,199000
-80,91,21,4842,15th century|cathedral|gypsy|paris|victor hugo,230,100000000,700,0
-141,78,10,2039,antidote|disney|emperor|first part|llama,297,100000000,452,0
-383,103,165,57881,church|hostage|mine|plutonium|revenge,474,92000000,13000,108000
-193,131,226,13679,declaration of independence|secret society|treasure|treasure hunt|treasure hunter,692,100000000,625,0
-170,104,14,4487,dragon|dragon rider|fictional war|sword and fantasy|teenage hero,1690,100000000,762,0
-333,101,0,1738,based on children's book|creature|igloo|imagination|king,388,100000000,468,11000
-256,111,456,21393,1940s|child hero|fantasy world|orphan|reference to peter pan,186,150000000,548,24000
-203,102,77,14552,father daughter relationship|forest|miniature person|shrinking|sword and fantasy,113,100000000,151,17000
-321,103,207,55175,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,374,100000000,11000,25000
-174,121,0,3903,atheist|ex cop|female masturbation|female nudity|lucifer,524,83000000,1000,2000
-166,143,380,33160,diamond|elephant|fisherman|rebel|sierra leone,657,100000000,3000,14000
-606,240,17000,46057,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,1138,100000000,11000,138000
-144,121,541,2880,love|necktie|partner|rock music|tuxedo,539,100000000,710,0
-192,129,719,2031,alien|federation|future|military|planet,1049,105000000,475,0
-511,172,670,22686,composer|future|letter|nonlinear timeline|nursing home,828,102000000,5000,124000
-188,101,0,4286,barn owl|escape|owl|ruler|soldier,160,80000000,653,16000
-212,87,26,3144,based on cult comic book|bechdel test passed|cat|detective|radical transformation,660,100000000,825,0
-245,101,420,16235,army|greek mythology|hercules|king|mercenary,269,100000000,3000,21000
-127,95,63,26940,alien|cyborg|pirate|planet|treasure,217,140000000,770,0
-167,102,52,10552,human versus dinosaur|lizard|primate|time travel|tyrannosaurus rex,224,100000000,735,0
-320,131,385,52610,battle|fight|mission|pg 13 sequel to r rated franchise|rescue,351,90000000,13000,56000
-163,114,19,3962,athlete|extreme sports|fbi|fbi agent|heist,163,105000000,897,37000
-78,94,6,1195,baby|cartoon on tv|cartoonist|dog|mask,239,84000000,294,881
-289,122,2000,28328,emaciation|ship|starvation|vomiting|whale,161,100000000,911,27000
-66,95,31,6161,casino|future|laser gun|moon|nightclub,164,100000000,695,416
-266,115,521,13761,cia|iraq|iraqi|political military conspiracy|weapon of mass destruction,261,100000000,537,0
-208,88,20,309,dog|girl|imagination|peanuts|red hair,155,99000000,42,33000
+director_name,director_facebook_likes,actor_2_name,cast_total_facebook_likes,content_rating,movie_facebook_likes
+Peter Cattaneo,11,Bradley Cooper,33153,PG-13,0
+Vicky Jenson,96,Zach Gilford,25637,PG-13,0
+Gus Van Sant,835,Hal Holbrook,14544,R,10000
+Woody Allen,11000,Michael McKean,2717,PG-13,10000
+Mary Lambert,52,Susan Ward,2312,PG-13,157
+Tommy Lee Jones,0,Dwight Yoakam,1627,R,0
+Peter Kassovitz,0,Mark Margolis,51657,PG-13,0
+Shane Black,1000,Corbin Bernsen,23932,R,0
+Rodman Flender,6,Fred Willard,3654,R,0
+David Lynch,0,Robert Forster,8484,R,16000
+Katja von Garnier,18,Agnes Bruckner,1675,PG-13,0
+Woody Allen,11000,Naomi Watts,19310,R,0
+Mark Romanek,132,Charlie Rowe,12867,R,33000
+,,Tom Hollander,3809,,733
+Brad Anderson,122,Eduardo Noriega,1252,R,0
+Michael Chapman,70,Pamela Reed,1351,R,843
+Antonio Banderas,0,Elizabeth Perkins,4834,PG-13,391
+Michael Haneke,0,Siobhan Fallon Hogan,6748,R,0
+Khalil Sullins,5,Kalim Chandler,527,,708
+Atom Egoyan,460,Elaine Cassidy,5426,PG-13,284
+Fritz Lang,756,Gustav Fröhlich,203,Not Rated,12000
+Pierre Morel,180,Cyril Raffaelli,962,R,0
+Gary Fleder,39,Bill Cobbs,14889,R,0
+Hsiao-Hsien Hou,141,Chen Chang,1172,Not Rated,0
+Gregor Jordan,34,Scott Glenn,3578,R,664
+Andrey Zvyagintsev,445,Vladimir Garin,48,Unrated,0
+Tony Jaa,0,Petchtai Wongkamlao,134,R,0
+Neil Marshall,197,JJ Feild,15293,R,0
+Russell Mulcahy,85,Gina Bellman,1432,R,154
+Ryûhei Kitamura,129,Brooke Shields,18639,R,0
+Darrell Roodt,36,Wendy Crewson,801,R,705
+Dito Montiel,68,Al Pacino,32814,R,0
+Stefan Ruzowitzky,24,Udo Kier,1732,PG-13,193
+Jake Paltrow,17,Gael Le Cornec,1245,R,445
+Juraj Jakubisko,15,Hans Matheson,2528,R,0
+Anthony Silverston,0,Steve Buscemi,29488,Not Rated,0
+Gabe Ibáñez,19,Robert Forster,2829,R,13000
+Gerry Lively,93,Lucy Gaskell,363,Not Rated,473
+Daniele Luchetti,6,Rodrigo De la Serna,192,,18
+Tung-Shing Yee,3,Daniel Wu,996,R,821
+Julien Temple,67,Dexter Fletcher,1585,PG-13,277
+Harold Ramis,11000,Chris Elliott,15500,PG,38000
+Gregory Jacobs,13,Channing Tatum,38963,R,41000
+Baz Luhrmann,1000,Harold Perrineau,33791,PG-13,10000
+Gilles Paquet-Brenner,15,Aidan Quinn,2140,PG-13,0
+Peter Cousens,5,David Rasche,994,R,998
+Clint Eastwood,16000,Morgan Freeman,28544,R,10000
+Lars von Trier,3000,Jeremy Davies,4211,Not Rated,1000
+Danny Boyle,0,Saurabh Shukla,820,R,13000
+Adrian Lyne,213,Lois Smith,1639,R,3000
+Garry Marshall,0,Hector Elizondo,11135,R,11000
+John Blanchard,0,Andrea Martin,1125,,0
+John Cornell,5,Linda Kozlowski,717,PG,489
+Vidhu Vinod Chopra,34,Chris Marquette,2055,R,0
+Oliver Stone,0,Tom Berenger,12098,R,4000
+Jon Turteltaub,226,Leon,2496,PG,0
+Patrick Lussier,71,Jaime King,14159,R,0
+Ole Bornedal,30,Madison Davenport,2348,PG-13,17000
+Ted Kotcheff,270,Brian Dennehy,15192,R,0
+Sylvain White,41,Laz Alonso,3544,PG-13,0
+Lewis Gilbert,43,Desmond Llewelyn,1326,PG,0
+,,Steve Gonsalves,552,,373
+Jamie Blanks,9,Loretta Devine,3500,R,0
+Stephen Frears,350,Peter Capaldi,35501,R,0
+Tyler Perry,0,Phylicia Rashad,2226,PG-13,0
+Randal Kleiser,116,Klaus Maria Brandauer,552,PG,0
+Bruce McCulloch,54,Elaine Hendrix,10792,PG-13,2000
+Phyllida Lloyd,58,Jim Broadbent,12894,PG-13,18000
+Mike Nawrocki,12,Mike Nawrocki,49,G,184
+John Singleton,309,Khandi Alexander,1620,R,0
+Kevin Bray,10,Roger Guenveur Smith,1421,R,530
+Wes Craven,0,W. Earl Brown,2348,R,1000
+John Boorman,128,Richard Burton,2704,R,889
+Courtney Solomon,31,James D'Arcy,1608,PG-13,0
+David Zucker,119,Tyler Labine,3007,PG-13,411
+David Twohy,123,Milla Jovovich,41359,R,4000
+Rick Famuyiwa,44,Lance Gross,3299,PG-13,1000
+Alan Cohn,0,Linda Cardellini,6861,R,645
+Franco Zeffirelli,160,Joan Plowright,1148,PG,970
+Tom Holland,85,Bethany Joy Lenz,2777,R,0
+Martin Scorsese,17000,Liza Minnelli,23378,PG,932
+Spike Lee,0,Delroy Lindo,3267,PG-13,905
+Chris Rock,0,Eliza Coupe,13446,R,488
+James Isaac,52,Kane Hodder,3050,R,0
+Shawn Levy,189,Donald Faison,3707,PG,896
+Emilio Estevez,0,Nick Cannon,13528,R,0
+Mark Waters,70,Ivana Milicevic,2165,PG-13,613
+Josh Schwartz,90,Jackson Nicoll,3715,PG-13,0
+Julian Schnabel,232,Mathieu Amalric,1372,PG-13,13000
+Todd Field,143,Noah Emmerich,15337,R,5000
+Davis Guggenheim,49,Sharon Lawrence,12776,R,853
+Tony Goldwyn,956,Julie Kavner,10368,R,860
+Phillip Noyce,176,Terry Pheto,678,PG-13,447
+Stephen Carpenter,12,Angela Featherstone,417,PG-13,231
+James Ivory,133,Todd Boyce,446,PG-13,127
+Stephan Elliott,11,Kristin Scott Thomas,16431,PG-13,2000
+James Fargo,109,Joseph Cotten,17250,PG,76
+Mike Leigh,608,Ruth Sheen,390,R,0
+Alain Resnais,752,Sara Forestier,799,PG,512
+Costa-Gavras,333,Mathieu Kassovitz,1429,Unrated,0
+Chao-Bin Su,2,Shawn Yue,243,R,1000
+Neil Burger,168,Katherine LaNasa,2243,R,702
+Kenneth Lonergan,50,Kieran Culkin,14638,R,0
+Bo Zenga,10,Kenan Thompson,2207,R,934
+Rob Reiner,0,Rebecca De Mornay,4377,PG,14000
+Ang Lee,0,Heath Ledger,39789,R,13000
+Jonathan Liebesman,473,Danny Woodburn,2690,PG-13,62000
+Amy Heckerling,143,Dan Hedaya,1724,PG-13,0
+Todd Haynes,162,Celia Weston,2447,PG-13,0
+Steve Pink,38,Gillian Jacobs,4702,R,0
+,,Olaf Lubaszenko,25,TV-MA,0
+Philip Kaufman,133,Stephen Marcus,14726,R,0
+Martin McDonagh,454,Gabourey Sidibe,4757,R,52000
+Kasi Lemmons,148,Tamara Tunie,1767,R,329
+,,Marian Dziedziel,74,,64
+Oliver Hirschbiegel,101,Bruno Ganz,2334,R,14000
+Alejandro Amenábar,448,Lola Dueñas,529,PG-13,0
+Jonathan Glazer,143,Paul Brannigan,19086,R,29000
+Barry Levinson,272,J.T. Walsh,50141,R,0
+Hyung-rae Shim,26,Stephanie Danielson,2895,PG-13,502
+Jon M. Chu,209,Sean Kingston,714,G,62000
+Darren Aronofsky,0,Mila Kunis,38072,R,106000
+José Padilha,294,Abbie Cornish,14160,PG-13,60000
+Francis Ford Coppola,0,Al Pacino,39960,R,14000
+Thomas Carter,49,Terry Kinney,1307,PG-13,0
+Renny Harlin,212,Rodney Eastman,450,R,0
+Patricia Riggen,36,Brighton Sharbino,7833,PG,16000
+Danny Leiner,8,Mary Lynn Rajskub,6454,PG-13,0
+Christopher Cain,58,Patrick Wayne,1747,R,0
+Theodore Melfi,51,Naomi Watts,20330,PG-13,33000
+Steve Pink,38,Regina Hall,2800,R,0
+Gil Junger,19,Heath Ledger,37907,PG-13,10000
+Ed Decter,13,Eddie Griffin,12687,PG-13,1000
+Gene Quintano,0,Lin Shaye,12322,PG-13,0
+Jaume Collet-Serra,174,Brett Cullen,971,PG-13,0
+Eric Bress,19,Eric Stoltz,12755,R,15000
+Chris Koch,13,Mark Webber,2241,PG,0
+Preston A. Whitmore II,17,Chris Brown,6554,PG-13,0
+Bob Clark,84,Dom DeLuise,2936,PG,0
+Kirk Wong,6,Elliott Gould,3353,R,934
+Bronwen Hughes,15,Eartha Kitt,2486,PG,833
+John Lafia,5,Beth Grant,2646,R,0
+Sam Miller,12,Kate del Castillo,2297,PG-13,0
+Frank Darabont,0,Alexa Davalos,5371,R,20000
+Alex Garland,232,Sonoya Mizuno,430,R,109000
+Spike Jonze,0,Orson Bean,1171,R,0
+Mark Brown,7,Vivica A. Fox,2815,R,593
+Dave Green,13,Ella Wahlestedt,1921,PG,0
+John Stockwell,134,Jay Hernandez,6214,PG-13,0
+Clint Eastwood,16000,Kazunari Ninomiya,751,R,5000
+Michael Polish,35,Virginia Madsen,27806,PG,862
+Daisy von Scherler Mayer,18,Jada Pinkett Smith,3352,R,204
+Lenny Abrahamson,412,Jacob Tremblay,2499,R,72000
+Bob Saget,799,Jack Warden,1805,PG-13,679
+John Waters,0,Sam Waterston,3092,R,3000
+Andrew Fleming,26,Will Ferrell,31005,PG-13,0
+Niels Arden Oplev,76,David Dencik,998,,22
+Craig Bolotin,7,Vanessa Williams,6485,R,251
+Mark Christopher,15,Ellen Albertini Dow,6910,R,0
+Blair Hayes,2,Geoffrey Arend,18864,PG-13,0
+Jez Butterworth,16,Mathieu Kassovitz,1775,R,618
+Jon Lucas,24,Josie Loren,2730,R,11000
+Olivier Assayas,107,Miranda Richardson,13208,R,0
+Rod Lurie,37,Kathryn Morris,2417,PG-13,689
+Paul Weitz,80,Sarita Choudhury,3004,PG-13,5000
+Patrice Leconte,83,Daniel Auteuil,2389,R,186
+Atom Egoyan,460,Meghan Heffern,14372,R,0
+Paul Mazursky,150,Ryan O'Neal,1679,R,69
+Jim Sheridan,260,Jake Gyllenhaal,39473,R,10000
+Sidney Lumet,0,Vin Diesel,37606,R,0
+Stephen Chbosky,139,Ezra Miller,13631,PG-13,131000
+Jon Hess,29,Ian Gomez,1139,R,107
+Douglas McGrath,41,Isabella Rossellini,3474,R,0
+Michael Winterbottom,187,Sarah Polley,17104,R,141
+Mark Neveldine,83,Alison Lohman,7875,PG-13,0
+Joe Cornish,115,Luke Treadaway,2011,R,18000
+Angelina Jolie Pitt,11000,Nikola Djuricko,796,R,0
+Brad Anderson,122,Tara Platt,2812,R,23000
+John H. Lee,32,Dean Dawson,14133,,139
+John Stainton,0,Aden Young,1483,PG,332
+Glenn Ficarra,43,Louis Herthum,931,R,11000
+Jean-Jacques Annaud,218,Everett McGill,931,R,0
+Denzel Washington,18000,Kevin Connolly,20456,PG-13,0
+Michael Hoffman,97,Embeth Davidtz,14347,PG-13,0
+Tony Scott,12000,Gary Oldman,23602,R,15000
+Benedek Fliegauf,28,Matt Smith,9244,Unrated,0
+James Foley,164,Al Pacino,32288,R,0
+Michael Winterbottom,187,Ned Beatty,1813,R,0
+Paul Schrader,261,Ruby Dee,3700,R,0
+Stewart Hendler,10,Margo Harshman,3142,R,0
+John Cromwell,19,Mary Astor,1166,Approved,337
+Craig Gillespie,44,Kelli Garner,34351,PG-13,19000
+Mark Herman,39,Sheila Hancock,156,PG-13,38000
+Lars von Trier,3000,Udo Kier,2894,R,0
+Gillian Armstrong,44,Richard Roxburgh,2004,R,329
+Abel Ferrara,220,Vincent Gallo,3337,R,344
+Brian Koppelman,34,David Costabile,2661,R,0
+Ethan Maniquis,20,Don Johnson,26233,R,44000
+George Hickenlooper,60,Eric Schweig,18739,R,0
+Don Bluth,383,Gabriel Damon,1833,G,5000
+Je-kyu Kang,16,Bin Won,1730,R,0
+William Dear,50,Cheech Marin,4270,PG,0
+William Friedkin,607,Linda Blair,2466,R,18000
+Steven Spielberg,14000,Robert Shaw,2047,PG,21000
+Paul Weitz,80,Shannon Elizabeth,8134,R,0
+Stéphane Aubier,2,Megan Mullally,6829,PG,0
+Michael Ritchie,23,Randall 'Tex' Cobb,1044,PG-13,0
+Tim Story,167,Romany Malco,5165,PG-13,0
+Tim Story,167,Jason George,2754,PG-13,770
+Nicholas Meyer,120,Kirstie Alley,16539,PG,0
+Tom Shadyac,293,Udo Kier,2462,PG-13,0
+John Badham,139,Barry Corbin,4537,PG,0
+Peter Weir,608,Viggo Mortensen,22479,R,0
+Mike McCoy,16,Jason Cottle,146,R,15000
+Anne Fletcher,98,Alyson Stoner,21380,PG-13,0
+Mike Judge,406,Demi Moore,17035,PG-13,0
+Quentin Tarantino,16000,Sid Haig,25522,R,0
+Jon Hurwitz,22,Eric Winter,4065,R,0
+Josh Trank,128,Alex Russell,2054,PG-13,32000
+Barbra Streisand,0,Amy Irving,914,PG,0
+Terry Gilliam,0,Michael Palin,2730,PG,0
+Tamra Davis,33,Katherine Boecher,1531,PG-13,0
+Nima Nourizadeh,166,Kirby Bliss Blanton,2043,R,29000
+Franklin J. Schaffner,76,Karl Malden,1306,GP,0
+Mark Romanek,132,Gary Cole,52138,R,0
+John Erick Dowdle,66,Jay Hernandez,140268,R,0
+David Moreau,0,Alessandro Nivola,18765,PG-13,0
+Christopher Erskin,4,Shannon Elizabeth,5006,PG-13,243
+Jesse Dylan,58,Fred Willard,6105,R,0
+Brian Henson,53,Jerry Nelson,534,G,0
+Martin Campbell,258,Tobias Menzies,9125,PG-13,0
+Julie Taymor,278,Roger Rees,7072,R,0
+Dan Cutforth,4,Ashley Ashida Dixon,52,PG,0
+Josh Boone,131,Sam Trammell,10565,PG-13,93000
+John Dahl,131,Martin Landau,14890,R,0
+Chris Rock,0,Romany Malco,5592,R,0
+John Frankenheimer,287,Richard Dysart,729,PG,902
+David Koepp,192,Kathryn Erbe,1254,R,0
+,,Kelvin Taylor,6091,TV-MA,31000
+Stephen Frears,350,Mare Winningham,2376,PG-13,37000
+Mike Binder,57,Erika Christensen,2944,R,549
+Franklin J. Schaffner,76,Anne Meara,4659,R,0
+Elizabeth Allen Rosenbaum,20,Joanna 'JoJo' Levesque,3963,PG,0
+Jake Schreier,14,Cara Delevingne,2753,PG-13,0
+Cheryl Dunye,17,Marsha Thomason,3646,PG-13,151
+Alexander Payne,729,Bruce Dern,3798,R,28000
+Ernest R. Dickerson,226,Jada Pinkett Smith,3931,R,0
+Tim Hill,25,Amber Valletta,4551,PG,371
+Jason Reitman,655,Patton Oswalt,10575,R,0
+Mark Neveldine,83,Edi Gathegi,28767,R,0
+Lionel C. Martin,3,Gilbert Gottfried,2939,R,439
+Richard LaGravenese,98,Eddie Cibrian,3250,R,242
+Sanaa Hamri,43,Laz Alonso,3906,PG,0
+Jonathan Demme,438,Rosemarie DeWitt,12274,R,0
+Bob Rafelson,30,Michael Lerner,1456,R,1000
+Peter Webber,73,Colin Firth,34700,PG-13,0
+Wolfgang Petersen,249,Martin Semmelrogge,469,R,11000
+John Lee Hancock,102,Marc Blucas,5780,PG-13,701
+Wallace Wolodarsky,32,Barry Watson,2393,R,507
+Richard Curtis,628,Tom Hollander,1595,R,105000
+Yimou Zhang,611,Andy Lau,1244,PG-13,0
+Nicholas Jarecki,27,Curtiss Cook,2440,R,0
+Dean Israelite,16,Jonny Weston,1819,PG-13,0
+Darnell Martin,67,Veronika Dash,1141,R,0
+Scott Alexander,25,Dave Chappelle,3848,PG-13,262
+Stuart Gordon,216,Kurtwood Smith,4755,R,1000
+Christopher Guest,378,Catherine O'Hara,3535,PG-13,650
+Woody Allen,11000,Aleksa Palladino,943,R,652
+Ryan Murphy,708,Joseph Cross,1291,R,0
+Robert Iscove,7,Kelly Clarkson,1445,PG,0
+Spike Lee,0,Debi Mazar,4497,R,251
+Jane Campion,319,Nick Damici,1171,R,656
+James Gray,115,Vinessa Shaw,1540,R,0
+Fred Schepisi,40,Ray Winstone,7166,R,305
+Joon-ho Bong,584,Kang-ho Song,1173,R,7000
+Roger Spottiswoode,55,Treat Williams,4277,PG,135
+Antonia Bird,61,Jeffrey Jones,2543,R,0
+Jon Poll,20,Megan Park,22577,R,0
+Paolo Sorrentino,667,Sabrina Ferilli,456,Not Rated,29000
+Peter Care,0,Michael Harding,1292,R,677
+Chan-wook Park,0,Alden Ehrenreich,5074,R,27000
+Kar-Wai Wong,0,Tony Chiu Wai Leung,2378,R,0
+Ira Sachs,60,Erin Boyes,141,PG-13,314
+Carroll Ballard,19,Hope Davis,1579,PG,0
+Neil Jordan,277,Stephen Rea,1554,PG-13,0
+Takeshi Kitano,0,Tatyana Ali,2126,R,0
+Anthony Russo,94,Isaiah Washington,1373,R,423
+Sidney Lumet,0,Anne Bancroft,3099,R,88
+Vadim Perelman,26,Lynn Cohen,2073,R,1000
+Lawrence Kasdan,759,Mark Duplass,3878,PG-13,0
+Marco Kreuzpaintner,7,Kate del Castillo,1952,R,0
+Lajos Koltai,45,Péter Fancsikai,11,R,607
+Alan Rudolph,18,Albert Finney,17417,R,458
+Yimou Zhang,611,Ni Yan,18,R,784
+Vincenzo Natali,165,Jeremy Northam,1501,R,0
+Chuan Lu,14,Yuanyuan Gao,91,R,0
+Tim Johnson,12,Matt Jones,17883,PG,26000
+Lijun Sun,0,Tom Arnold,1854,PG,211
+Takashi Yamazaki,7,Meisa Kuroki,164,TV-14,0
+Renny Harlin,212,Kenneth Cranham,708,R,0
+Christopher Smith,76,Michael Dorman,433,R,13000
+Timothy Hines,0,Kelly LeBrock,2059,R,26000
+Randall Wallace,130,Connor Corum,663,PG,23000
+Guy Ritchie,0,Brad Pitt,39175,R,27000
+David Winters,49,Matt Marr,895,PG,634
+Mary Lambert,52,Fred Gwynne,2987,R,0
+Akira Kurosawa,0,Tetsu Watanabe,30,,355
+Jamie Thraves,2,Caroline Dhavernas,1780,R,443
+Mabel Cheung,3,Ching Wan Lau,244,,4
+Joe Dante,287,Harry Carey Jr.,2053,PG,14000
+George Lucas,0,Peter Cushing,13485,PG,33000
+Dan Mazer,11,Zoey Deutch,24063,R,11000
+David Lean,767,Klaus Kinski,1966,PG-13,7000
+Stephen Daldry,335,Selton Mello,679,R,0
+Kenny Ortega,197,Matt Prokop,3507,G,0
+David O. Russell,737,Jack McGee,23811,R,36000
+Jeff Tremaine,79,Steve-O,1853,R,641
+Jonathan Lynn,36,Bruce McGill,3280,R,7000
+R.J. Cutler,15,Mireille Enos,20466,PG-13,15000
+Brian Trenchard-Smith,53,Damien Garvey,179,Not Rated,774
+David S. Ward,42,Tom Berenger,3435,R,0
+Oliver Parker,32,Rupert Everett,3135,PG-13,0
+Joel Schumacher,541,John Enos III,2562,R,0
+Adam Shankman,163,Peter Coyote,2436,PG,19000
+Tim Robbins,0,Celia Weston,903,R,0
+Roger Kumble,16,Sean Patrick Thomas,6223,R,0
+Kevin Greutert,52,Shawnee Smith,3101,R,0
+Mel Brooks,0,Sid Caesar,3931,R,0
+Gina Prince-Bythewood,107,Alicia Keys,3376,PG-13,0
+Rob Pritts,5,Vinessa Shaw,3850,PG-13,365
+Brian De Palma,0,Gabrielle Carteris,1852,R,541
+Norman Jewison,278,Peter Boyle,14735,PG,745
+Tobe Hooper,365,Bud Cort,1661,PG,902
+John Crowley,34,Fiona Glascott,995,PG-13,36000
+Stanley Kubrick,0,Steven Berkoff,1104,PG,0
+Brendan Malloy,2,Jason London,4291,PG-13,0
+Reginald Hudlin,71,John Witherspoon,10982,R,671
+Dustin Hoffman,0,Sheridan Smith,1114,PG-13,13000
+Gregory Poirier,5,Jake Busey,2729,R,449
+Bill Paxton,0,Powers Boothe,12237,R,5000
+Simon Curtis,64,Frances Fisher,17866,PG-13,34000
+Bill Condon,386,Oliver Platt,17490,R,0
+Sam Raimi,0,Bridget Fonda,3913,R,10000
+Dewey Nicks,4,Gedde Watanabe,2415,R,405
+Lasse Hallström,529,Leonardo DiCaprio,69746,PG-13,14000
+Philip Saville,10,Alan Van Sprang,1281,PG-13,0
+Mike Leigh,608,Sally Hawkins,3133,R,0
+Daisy von Scherler Mayer,18,Dash Mihok,1559,R,550
+Mira Nair,300,Chazz Palminteri,3072,R,174
+Ethan Coen,1000,Max Casella,4082,R,26000
+Tim Blake Nelson,596,Andrew Keegan,3300,R,0
+William A. Graham,8,Wayne Pygram,14281,PG-13,967
+Martin Ritt,58,Anthony Zerbe,800,PG,608
+John Turturro,0,Steve Buscemi,28004,R,0
+Agnieszka Holland,238,David Kennedy,150,PG-13,0
+Tobe Hooper,365,Zelda Rubinstein,3876,PG,11000
+Rowan Joffe,17,Sean Harris,3117,R,0
+David Hackl,43,Costas Mandylor,5286,R,0
+Giuliano Montaldo,4,Gena Rowlands,1827,GP,85
+Lisa Azuelos,15,Lina Esco,248,PG-13,18000
+Ray Lawrence,10,Deborra-Lee Furness,378,R,302
+Karan Johar,160,John Abraham,10822,R,659
+Oliver Parker,32,Rupert Everett,2640,PG-13,646
+Ruairi Robinson,7,Olivia Williams,2271,R,0
+Jaume Balagueró,57,Giancarlo Giannini,1228,PG-13,1000
+Stanley Kubrick,0,Gary Lockwood,727,G,24000
+Steven Spielberg,14000,Dee Wallace,2811,PG,34000
+Jon Kasdan,21,Elena Anaya,20312,PG-13,1000
+Léa Pool,4,Marc Donato,1554,PG,392
+Floyd Mutrux,11,Kelli Williams,2272,R,119
+,,Johnny Flynn,592,,0
+Sajid Khan,0,Boman Irani,1121,,250
+Christopher Cain,58,Taylor Handley,1526,R,411
+Dean Wright,0,Eduardo Verástegui,1807,R,0
+Eric Lartigau,7,Eric Elmosnino,175,,0
+Gus Van Sant,835,Matt Damon,63710,R,31000
+Shintaro Shimosawa,29,Anthony Hopkins,27660,R,0
+Darren Lynn Bousman,163,Shawnee Smith,3189,R,0
+Ivan Reitman,425,Harold Ramis,27378,R,0
+Peyton Reed,235,Lindsay Sloane,5270,PG-13,0
+James DeMonaco,65,Joseph Julian Soria,2480,R,0
+Robert Iscove,7,Clea DuVall,28734,PG-13,0
+Lee Daniels,304,Gabourey Sidibe,3276,R,12000
+Darren Lynn Bousman,163,Shawnee Smith,3492,R,0
+Geoffrey Sax,13,Keegan Connor Tracy,2013,PG-13,0
+Tyler Perry,0,Cicely Tyson,5264,PG-13,676
+Martin Scorsese,17000,Bill Cobbs,11895,R,0
+Ken Annakin,19,Richard Beymer,1554,G,0
+Stephen Herek,65,Shaun Weiss,3362,PG,0
+Takashi Shimizu,70,Clea DuVall,7461,PG-13,4000
+Dennis Dugan,221,Kevin Nealon,13162,PG-13,0
+Victor Salva,108,Patricia Belcher,1982,R,0
+Stephen Herek,65,George Carlin,20795,PG,0
+Carol Reed,82,Ron Moody,1593,G,0
+John Madden,108,Penelope Wilton,1898,PG-13,48000
+Chuck Sheetz,6,Andrew Lawrence,2197,G,227
+George Miller,750,Bruce Spence,1529,PG-13,0
+Mark L. Lester,73,Vernon Wells,3192,R,0
+William Brent Bell,19,Rupert Evans,4687,PG-13,20000
+John Erick Dowdle,66,Bokeem Woodbine,5628,PG-13,16000
+Marcus Raboy,7,Mike Epps,3712,R,981
+Leigh Whannell,482,Hayley Kiyoko,2426,PG-13,29000
+Michael Schultz,78,Vanity,3394,PG-13,0
+Guy Ritchie,0,Brad Pitt,39175,R,27000
+Brett Leonard,32,Austin O'Brien,1109,R,0
+Peter Sollett,6,Alexis Dziena,2807,PG-13,0
+Kevin Smith,0,Janeane Garofalo,16693,R,10000
+Bob Dolman,7,Eva Amurri Martino,1917,R,744
+Joe Dante,287,Al Leong,1954,PG,0
+Rowdy Herrington,9,Kevin Tighe,2484,R,0
+Keenen Ivory Wayans,322,Salli Richardson-Whitfield,3190,R,368
+John Polson,21,Shiri Appleby,3819,PG-13,720
+Greg Coolidge,27,Danny Woodburn,4441,PG-13,0
+Harry Elfont,4,Lauren Ambrose,4259,PG-13,0
+Francis Ford Coppola,0,William Smith,12097,PG-13,10000
+David Lowery,38,Oona Laurence,3691,PG,21000
+David Cronenberg,0,Herbert Lom,2013,R,0
+Ciarán Foy,11,James Ransone,2403,R,13000
+Salim Akil,70,Curtis Armstrong,5804,PG-13,0
+Jamie Blanks,9,Jessica Capshaw,2402,R,0
+Olatunde Osunsanmi,58,Will Patton,15251,PG-13,15000
+Robert Altman,500,Virginia Madsen,12946,PG-13,683
+Leon Ichaso,5,Clarence Williams III,2149,R,331
+Joseph Zito,17,Richard Lynch,857,R,0
+Malcolm D. Lee,92,Brandon T. Jackson,7552,PG-13,997
+Wes Anderson,0,Connie Nielsen,15716,R,5000
+Colin Strause,25,Donald Faison,3679,PG-13,13000
+John Madden,108,Celia Imrie,583,PG,21000
+Patricia Rozema,22,Jane Krakowski,3317,G,851
+Mark Rosman,15,Chris Noth,4789,PG,767
+Spike Lee,0,Nicholas Turturro,19065,R,720
+Steve Oedekerk,176,Simon Rhee,361,PG-13,0
+Ron Underwood,31,Ariana Richards,3119,PG-13,11000
+Rob Schmidt,36,Lindy Booth,3416,R,0
+Walter Hill,394,David Carradine,6296,R,680
+James Foley,164,Paul Ben-Victor,571,R,328
+Jeff Nichols,337,Tye Sheridan,13960,PG-13,27000
+Robert Ben Garant,134,Thomas Lennon,2737,R,441
+Morgan Spurlock,293,Zayn Malik,2787,PG,0
+Neal Brennan,23,Noureen DeWulf,3973,R,0
+Tuck Tucker,14,Vincent Schiavelli,3752,PG,227
+Simon Curtis,64,Toby Jones,17204,R,17000
+Richard Shepard,47,Philip Baker Hall,4053,R,808
+Theodore Witcher,28,Nia Long,3871,R,1000
+Joel Edgerton,0,Allison Tolman,3215,R,15000
+Jim Hanon,2,Chad Allen,1058,PG-13,1000
+Tommy O'Haver,13,Kirsten Dunst,22485,PG-13,0
+Mike Judge,406,Stephen Root,3462,R,16000
+Michael Patrick Jann,31,Kirstie Alley,6388,PG-13,0
+Tim Burton,13000,Danny Huston,12418,PG-13,20000

@@ -1,533 +1,70 @@
-director_name,num_critic_for_reviews,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,actor_1_name,num_voted_users,cast_total_facebook_likes,language,country,content_rating,budget,actor_2_facebook_likes,imdb_score,movie_facebook_likes
-Patrick Lussier,264,725,Jaime King,10000,Jensen Ackles,45603,14159,English,USA,R,15000000,960,5.5,0
-Ole Bornedal,264,309,Madison Davenport,941,Kyra Sedgwick,47169,2348,English,USA,PG-13,14000000,459,5.9,17000
-Ted Kotcheff,145,535,Brian Dennehy,13000,Sylvester Stallone,172493,15192,English,USA,R,14000000,954,7.7,0
-Sylvain White,86,748,Laz Alonso,997,Chris Brown,19505,3544,English,USA,PG-13,14000000,826,5.2,0
-Lewis Gilbert,112,238,Desmond Llewelyn,456,Caroline Munro,76477,1326,English,UK,PG,14000000,244,7.1,0
-,17,84,Steve Gonsalves,155,Amy Bruni,5563,552,English,USA,,,130,6.6,373
-Jamie Blanks,101,648,Loretta Devine,975,Alicia Witt,47814,3500,English,USA,R,14000000,912,5.5,0
-Stephen Frears,51,418,Peter Capaldi,18000,Keanu Reeves,52846,35501,English,USA,R,14000000,17000,7.7,0
-Tyler Perry,42,490,Phylicia Rashad,849,Eddie Cibrian,6352,2226,English,USA,PG-13,,597,5.4,0
-Randal Kleiser,10,25,Klaus Maria Brandauer,327,Seymour Cassel,15730,552,English,USA,PG,14000000,172,6.7,0
-Bruce McCulloch,43,636,Elaine Hendrix,8000,Will Ferrell,15047,10792,English,USA,PG-13,14000000,670,5.0,2000
-Phyllida Lloyd,331,583,Jim Broadbent,11000,Meryl Streep,82327,12894,English,UK,PG-13,13000000,1000,6.4,18000
-Mike Nawrocki,38,8,Mike Nawrocki,23,Phil Vischer,3135,49,English,USA,G,14000000,12,6.6,184
-John Singleton,12,279,Khandi Alexander,592,Janet Jackson,8904,1620,English,USA,R,14000000,556,5.9,0
-Kevin Bray,40,111,Roger Guenveur Smith,706,Mike Epps,9693,1421,English,USA,R,14000000,266,5.7,530
-Wes Craven,34,364,W. Earl Brown,723,John Witherspoon,17262,2348,English,USA,R,20000000,422,4.5,1000
-John Boorman,82,467,Richard Burton,931,Linda Blair,16294,2704,English,USA,R,14000000,726,3.7,889
-Courtney Solomon,125,50,James D'Arcy,874,Sissy Spacek,22207,1608,English,UK,PG-13,14000000,613,5.0,0
-David Zucker,56,636,Tyler Labine,869,Carmen Electra,24038,3007,English,USA,PG-13,14000000,779,4.6,411
-David Twohy,160,690,Milla Jovovich,26000,Chris Hemsworth,56338,41359,English,USA,R,14000000,14000,6.5,4000
-Rick Famuyiwa,71,625,Lance Gross,953,America Ferrera,5721,3299,English,USA,PG-13,14000000,849,4.9,1000
-Alan Cohn,37,654,Linda Cardellini,3000,Alyson Hannigan,11729,6861,English,USA,R,14000000,2000,6.0,645
-Franco Zeffirelli,62,55,Joan Plowright,718,Lily Tomlin,9323,1148,English,Italy,PG,12000000,330,6.9,970
-Tom Holland,73,514,Bethany Joy Lenz,1000,Joe Mantegna,19805,2777,English,USA,R,8500000,855,5.7,0
-Martin Scorsese,59,213,Liza Minnelli,22000,Robert De Niro,13548,23378,English,USA,PG,14000000,740,6.7,932
-Spike Lee,25,534,Delroy Lindo,1000,Alfre Woodard,6011,3267,English,USA,PG-13,14000000,848,6.9,905
-Chris Rock,97,458,Eliza Coupe,12000,Steve Buscemi,13866,13446,English,USA,R,,490,5.5,488
-James Isaac,205,489,Kane Hodder,1000,Peter Mensah,38985,3050,English,USA,R,11000000,935,4.4,0
-Shawn Levy,69,799,Donald Faison,934,Frankie Muniz,29008,3707,English,USA,PG,15000000,927,5.4,896
-Emilio Estevez,195,383,Nick Cannon,12000,Anthony Hopkins,38142,13528,English,USA,R,14000000,593,7.0,0
-Mark Waters,61,169,Ivana Milicevic,878,Monica Potter,11693,2165,English,USA,PG-13,14000000,834,5.4,613
-Josh Schwartz,77,635,Jackson Nicoll,962,Thomas McDonell,11233,3715,English,USA,PG-13,14000000,925,5.4,0
-Julian Schnabel,259,177,Mathieu Amalric,413,Emmanuelle Seigner,89906,1372,French,France,PG-13,,412,8.0,13000
-Todd Field,251,280,Noah Emmerich,14000,Kate Winslet,92781,15337,English,USA,R,26000000,617,7.6,5000
-Davis Guggenheim,63,191,Sharon Lawrence,12000,Norman Reedus,12519,12776,English,USA,R,24000000,215,5.9,853
-Tony Goldwyn,47,113,Julie Kavner,10000,Viggo Mortensen,6782,10368,English,USA,R,14000000,233,6.6,860
-Phillip Noyce,108,15,Terry Pheto,543,Derek Luke,9334,678,English,France,PG-13,14000000,113,6.7,447
-Stephen Carpenter,64,102,Angela Featherstone,159,Melissa Sagemiller,7277,417,English,USA,PG-13,14000000,102,3.9,231
-James Ivory,20,5,Todd Boyce,423,Seth Gilliam,2427,446,English,France,PG-13,14000000,15,5.7,127
-Stephan Elliott,135,548,Kristin Scott Thomas,14000,Colin Firth,16444,16431,English,UK,PG-13,,1000,6.7,2000
-James Fargo,2,324,Joseph Cotten,16000,Christopher Lee,524,17250,English,Iran,PG,14000000,469,6.5,76
-Mike Leigh,262,43,Ruth Sheen,149,Lesley Manville,17933,390,English,UK,R,8200000,44,6.8,0
-Alain Resnais,129,59,Sara Forestier,412,Mathieu Amalric,3174,799,French,France,PG,,74,6.3,512
-Costa-Gavras,69,284,Mathieu Kassovitz,380,Sebastian Koch,11077,1429,English,France,Unrated,103000000,326,7.3,0
-Chao-Bin Su,50,21,Shawn Yue,149,Woo-sung Jung,6069,243,Mandarin,China,R,12000000,32,6.9,1000
-Neil Burger,57,322,Katherine LaNasa,697,John Heard,11704,2243,English,USA,R,15000000,329,7.0,702
-Kenneth Lonergan,116,338,Kieran Culkin,13000,Matt Damon,12053,14638,English,USA,R,14000000,1000,6.5,0
-Bo Zenga,45,378,Kenan Thompson,826,Steve Howey,9928,2207,English,Canada,R,,521,3.6,934
-Rob Reiner,87,767,Rebecca De Mornay,1000,Madeline Carroll,60460,4377,English,USA,PG,14000000,872,7.7,14000
-Ang Lee,357,11000,Heath Ledger,15000,Jake Gyllenhaal,259837,39789,English,USA,R,14000000,13000,7.7,13000
-Jonathan Liebesman,348,429,Danny Woodburn,833,Noel Fisher,167089,2690,English,USA,PG-13,125000000,809,5.9,62000
-Amy Heckerling,88,201,Dan Hedaya,927,Donald Faison,123390,1724,English,USA,PG-13,12000000,281,6.8,0
-Todd Haynes,181,135,Celia Weston,2000,Dennis Quaid,36542,2447,English,USA,PG-13,13500000,258,7.4,0
-Steve Pink,107,390,Gillian Jacobs,3000,Adam Scott,28159,4702,English,USA,R,14000000,837,5.1,0
-,53,2,Olaf Lubaszenko,20,Krystyna Janda,12590,25,Polish,Poland,TV-MA,,3,9.1,0
-Philip Kaufman,132,170,Stephen Marcus,14000,Kate Winslet,44795,14726,English,UK,R,13500000,230,7.4,0
-Martin McDonagh,401,816,Gabourey Sidibe,2000,Abbie Cornish,185845,4757,English,UK,R,15000000,906,7.2,52000
-Kasi Lemmons,58,400,Tamara Tunie,539,Colm Feore,5602,1767,English,USA,R,,508,6.0,329
-,1,2,Marian Dziedziel,70,Jacek Koman,271,74,Polish,Poland,,,2,7.4,64
-Oliver Hirschbiegel,192,471,Bruno Ganz,918,Thomas Kretschmann,248354,2334,German,Germany,R,13500000,653,8.3,14000
-Alejandro Amenábar,157,93,Lola Dueñas,273,Belén Rueda,64556,529,Spanish,Spain,PG-13,10000000,114,8.1,0
-Jonathan Glazer,454,21,Paul Brannigan,19000,Scarlett Johansson,85022,19086,English,UK,R,,50,6.3,29000
-Barry Levinson,62,227,J.T. Walsh,49000,Robin Williams,98348,50141,English,USA,R,13000000,263,7.3,0
-Hyung-rae Shim,4,385,Stephanie Danielson,898,Jason Mewes,912,2895,English,South Korea,PG-13,13400000,391,3.6,502
-Jon M. Chu,84,41,Sean Kingston,569,Usher Raymond,74351,714,English,USA,G,13000000,69,1.6,62000
-Darren Aronofsky,669,1000,Mila Kunis,20000,Natalie Portman,551363,38072,English,USA,R,13000000,15000,8.0,106000
-José Padilha,492,1000,Abbie Cornish,10000,Gary Oldman,182910,14160,English,USA,PG-13,100000000,2000,6.2,60000
-Francis Ford Coppola,149,3000,Al Pacino,22000,Robert De Niro,790926,39960,English,USA,R,13000000,14000,9.0,14000
-Thomas Carter,101,237,Terry Kinney,656,Sean Patrick Thomas,47876,1307,English,USA,PG-13,13000000,363,6.1,0
-Renny Harlin,102,54,Rodney Eastman,130,Tuesday Knight,36108,450,English,USA,R,7000000,125,5.7,0
-Patricia Riggen,63,579,Brighton Sharbino,3000,Jennifer Garner,6276,7833,English,USA,PG,13000000,3000,6.8,16000
-Danny Leiner,106,612,Mary Lynn Rajskub,3000,Jennifer Garner,116625,6454,English,USA,PG-13,13000000,934,5.5,0
-Christopher Cain,50,316,Patrick Wayne,549,Jack Palance,42614,1747,English,USA,R,13000000,439,6.8,0
-Theodore Melfi,275,360,Naomi Watts,13000,Bill Murray,72803,20330,English,USA,PG-13,13000000,6000,7.3,33000
-Steve Pink,90,460,Regina Hall,833,Joe Lo Truglio,16979,2800,English,USA,R,12500000,807,6.1,0
-Gil Junger,133,835,Heath Ledger,23000,Joseph Gordon-Levitt,222099,37907,English,USA,PG-13,16000000,13000,7.2,10000
-Ed Decter,49,301,Eddie Griffin,11000,Zooey Deschanel,28805,12687,English,USA,PG-13,13000000,489,5.9,1000
-Gene Quintano,19,182,Lin Shaye,11000,Jon Lovitz,37611,12322,English,USA,PG-13,8200000,852,6.1,0
-Jaume Collet-Serra,186,2,Brett Cullen,619,Óscar Jaenada,12983,971,English,USA,PG-13,17000000,350,6.8,0
-Eric Bress,185,829,Eric Stoltz,8000,Logan Lerman,357579,12755,English,USA,R,13000000,902,7.7,15000
-Chris Koch,42,329,Mark Webber,571,Chris Elliott,9285,2241,English,USA,PG,13000000,442,4.9,0
-Preston A. Whitmore II,37,912,Chris Brown,1000,Mekhi Phifer,6528,6554,English,USA,PG-13,13000000,997,6.1,0
-Bob Clark,45,782,Dom DeLuise,899,Kathleen Turner,19547,2936,English,USA,PG,18000000,842,2.5,0
-Kirk Wong,57,459,Elliott Gould,904,Bokeem Woodbine,24834,3353,English,USA,R,13000000,471,6.1,934
-Bronwen Hughes,25,388,Eartha Kitt,694,Gregory Smith,7984,2486,English,USA,PG,13000000,558,5.9,833
-John Lafia,59,435,Beth Grant,659,Jenny Agutter,31371,2646,English,USA,R,13000000,628,5.7,0
-Sam Miller,58,334,Kate del Castillo,1000,Leslie Bibb,12676,2297,English,USA,PG-13,13200000,345,5.6,0
-Frank Darabont,330,745,Alexa Davalos,2000,Toby Jones,220475,5371,English,USA,R,18000000,850,7.2,20000
-Alex Garland,489,123,Sonoya Mizuno,149,Elina Alminas,289508,430,English,UK,R,15000000,145,7.7,109000
-Spike Jonze,242,213,Orson Bean,512,Willie Garson,254404,1171,English,USA,R,13000000,216,7.8,0
-Mark Brown,40,405,Vivica A. Fox,939,Mo'Nique,4339,2815,English,USA,R,6000000,890,6.1,593
-Dave Green,112,140,Ella Wahlestedt,803,Teo Halm,15664,1921,English,USA,PG,13000000,587,5.8,0
-John Stockwell,84,525,Jay Hernandez,4000,Kirsten Dunst,21406,6214,English,USA,PG-13,14000000,1000,6.5,0
-Clint Eastwood,251,78,Kazunari Ninomiya,378,Yuki Matsuzaki,132149,751,Japanese,USA,R,19000000,85,7.9,5000
-Michael Polish,113,844,Virginia Madsen,24000,J.K. Simmons,19707,27806,English,USA,PG,13000000,912,6.3,862
-Daisy von Scherler Mayer,23,744,Jada Pinkett Smith,1000,LL Cool J,1520,3352,English,USA,R,13000000,851,3.8,204
-Lenny Abrahamson,421,491,Jacob Tremblay,805,Joan Allen,161288,2499,English,Ireland,R,13000000,681,8.3,72000
-Bob Saget,32,294,Jack Warden,721,Don Rickles,20033,1805,English,Canada,PG-13,13000000,359,6.4,679
-John Waters,52,650,Sam Waterston,899,Kathleen Turner,21212,3092,English,USA,R,13000000,849,6.7,3000
-Andrew Fleming,81,4000,Will Ferrell,16000,Ryan Reynolds,16059,31005,English,France,PG-13,13000000,8000,6.1,0
-Niels Arden Oplev,,75,David Dencik,690,Michael Nyqvist,335,998,Swedish,Sweden,,,94,8.1,22
-Craig Bolotin,39,730,Vanessa Williams,3000,Rosario Dawson,3116,6485,English,USA,R,13000000,1000,6.0,251
-Mark Christopher,63,812,Ellen Albertini Dow,4000,Salma Hayek,27675,6910,English,USA,R,13000000,957,5.8,0
-Blair Hayes,47,690,Geoffrey Arend,15000,Jake Gyllenhaal,25541,18864,English,USA,PG-13,13000000,816,5.6,0
-Jez Butterworth,111,258,Mathieu Kassovitz,567,Mark Gatiss,21530,1775,English,UK,R,13000000,326,6.1,618
-Jon Lucas,168,499,Josie Loren,552,Justin Chon,60407,2730,English,USA,R,13000000,528,5.9,11000
-Olivier Assayas,165,280,Miranda Richardson,12000,Steve Buscemi,63084,13208,French,France,R,13000000,530,7.3,0
-Rod Lurie,104,548,Kathryn Morris,748,Harry Lennix,18442,2417,English,USA,PG-13,13000000,573,6.8,689
-Paul Weitz,150,252,Sarita Choudhury,2000,Tina Fey,28573,3004,English,USA,PG-13,13000000,257,5.7,5000
-Patrice Leconte,61,8,Daniel Auteuil,2000,Emir Kusturica,4767,2389,French,France,R,100000000,370,7.3,186
-Atom Egoyan,226,73,Meghan Heffern,14000,Liam Neeson,56264,14372,English,USA,R,11000000,153,6.3,0
-Paul Mazursky,21,150,Ryan O'Neal,979,Chazz Palminteri,1595,1679,English,USA,R,13000000,385,5.9,69
-Jim Sheridan,217,1000,Jake Gyllenhaal,20000,Natalie Portman,88037,39473,English,USA,R,26000000,15000,7.1,10000
-Sidney Lumet,94,968,Vin Diesel,22000,Peter Dinklage,28068,37606,English,Germany,R,13000000,14000,7.1,0
-Stephen Chbosky,364,850,Ezra Miller,8000,Logan Lerman,351274,13631,English,USA,PG-13,13000000,3000,8.0,131000
-Jon Hess,19,147,Ian Gomez,683,Burt Young,922,1139,English,USA,R,3000000,155,5.1,107
-Douglas McGrath,129,442,Isabella Rossellini,2000,Toby Jones,14143,3474,English,USA,R,13000000,812,7.1,0
-Michael Winterbottom,71,887,Sarah Polley,14000,Milla Jovovich,5254,17104,English,UK,R,20000000,900,6.5,141
-Mark Neveldine,93,794,Alison Lohman,3000,Djimon Hounsou,7199,7875,English,USA,PG-13,8495000,1000,4.5,0
-Joe Cornish,399,304,Luke Treadaway,1000,John Boyega,82331,2011,English,UK,R,13000000,305,6.6,18000
-Angelina Jolie Pitt,110,116,Nikola Djuricko,306,Jelena Jovanova,31414,796,Bosnian,USA,R,13000000,164,4.3,0
-Brad Anderson,285,383,Tara Platt,873,Michael Imperioli,88241,2812,English,USA,R,13000000,461,6.7,23000
-John H. Lee,2,29,Dean Dawson,14000,Liam Neeson,90,14133,English,South Korea,,12620000,81,6.8,139
-John Stainton,61,234,Aden Young,477,Steve Irwin,5663,1483,English,Australia,PG,13000000,238,5.4,332
-Glenn Ficarra,242,113,Louis Herthum,170,Dameon Clarke,77305,931,English,France,R,13000000,157,6.6,11000
-Jean-Jacques Annaud,62,91,Everett McGill,581,Rae Dawn Chong,16281,931,None,Canada,R,12500000,201,7.4,0
-Denzel Washington,121,543,Kevin Connolly,18000,Denzel Washington,26493,20456,English,USA,PG-13,12500000,638,7.3,0
-Michael Hoffman,83,355,Embeth Davidtz,13000,Gabriel Millman,14354,14347,English,USA,PG-13,12500000,795,6.9,0
-Tony Scott,122,975,Gary Oldman,11000,Brad Pitt,163492,23602,English,USA,R,13000000,10000,8.0,15000
-Benedek Fliegauf,88,1000,Matt Smith,6000,Eva Green,9957,9244,English,Germany,Unrated,3660000,2000,6.4,0
-James Foley,120,99,Al Pacino,18000,Kevin Spacey,75675,32288,English,USA,R,12500000,14000,7.8,0
-Michael Winterbottom,225,204,Ned Beatty,818,Liam Aiken,28483,1813,English,USA,R,13000000,467,6.1,0
-Paul Schrader,130,697,Ruby Dee,783,Ed Begley Jr.,14193,3700,English,USA,R,18000000,782,6.1,0
-Stewart Hendler,167,472,Margo Harshman,1000,Julian Morris,24012,3142,English,USA,R,16000000,668,5.1,0
-John Cromwell,7,135,Mary Astor,490,David Niven,3256,1166,English,USA,Approved,,185,7.8,337
-Craig Gillespie,226,552,Kelli Garner,33000,Ryan Gosling,114762,34351,English,USA,PG-13,12000000,730,7.4,19000
-Mark Herman,185,18,Sheila Hancock,77,Richard Johnson,132386,156,English,UK,PG-13,12500000,32,7.8,38000
-Lars von Trier,177,322,Udo Kier,963,Catherine Deneuve,79330,2894,English,Denmark,R,12800000,595,8.0,0
-Gillian Armstrong,28,241,Richard Roxburgh,1000,Tom Wilkinson,5648,2004,English,USA,R,16000000,653,6.7,329
-Abel Ferrara,48,599,Vincent Gallo,812,Isabella Rossellini,6921,3337,English,USA,R,12500000,787,6.6,344
-Brian Koppelman,116,506,David Costabile,966,Jenna Fischer,13371,2661,English,USA,R,15000000,681,6.4,0
-Ethan Maniquis,391,844,Don Johnson,22000,Robert De Niro,165792,26233,English,USA,R,10500000,982,6.7,44000
-George Hickenlooper,117,168,Eric Schweig,18000,Kevin Spacey,14757,18739,English,Canada,R,15000000,322,6.2,0
-Don Bluth,24,191,Gabriel Damon,912,Judith Barsi,61753,1833,English,USA,G,12500000,320,7.3,5000
-Je-kyu Kang,86,489,Bin Won,717,Min-sik Choi,31943,1730,Korean,South Korea,R,12800000,517,8.1,0
-William Dear,41,655,Cheech Marin,968,Clifton Collins Jr.,2676,4270,English,Canada,PG,12500000,844,7.0,0
-William Friedkin,304,259,Linda Blair,1000,Ellen Burstyn,284252,2466,English,USA,R,8000000,931,8.0,18000
-Steven Spielberg,385,366,Robert Shaw,813,Roy Scheider,412454,2047,English,USA,PG,8000000,559,8.0,21000
-Paul Weitz,145,1000,Shannon Elizabeth,3000,Alyson Hannigan,315549,8134,English,USA,R,11000000,1000,7.0,0
-Stéphane Aubier,99,186,Megan Mullally,6000,Mackenzie Foy,12029,6829,French,France,PG,9600000,637,7.9,0
-Michael Ritchie,29,148,Randall 'Tex' Cobb,400,Victor Wong,39798,1044,English,USA,PG-13,25000000,255,5.9,0
-Tim Story,77,807,Romany Malco,997,Chris Brown,34579,5165,English,USA,PG-13,12000000,966,6.6,0
-Tim Story,91,436,Jason George,656,Sean Patrick Thomas,22147,2754,English,USA,PG-13,12000000,528,6.3,770
-Nicholas Meyer,148,664,Kirstie Alley,12000,Leonard Nimoy,91414,16539,English,USA,PG,11000000,980,7.7,0
-Tom Shadyac,61,567,Udo Kier,759,Sean Young,216486,2462,English,USA,PG-13,12000000,595,6.9,0
-John Badham,84,793,Barry Corbin,2000,Matthew Broderick,71842,4537,English,USA,PG,12000000,883,7.1,0
-Peter Weir,83,733,Viggo Mortensen,11000,Harrison Ford,66966,22479,English,USA,R,12000000,10000,7.4,0
-Mike McCoy,216,11,Jason Cottle,93,Alex Veadov,57996,146,English,USA,R,12000000,17,6.5,15000
-Anne Fletcher,107,920,Alyson Stoner,17000,Channing Tatum,90938,21380,English,USA,PG-13,12000000,2000,6.5,0
-Mike Judge,63,616,Demi Moore,13000,Bruce Willis,42892,17035,English,USA,PG-13,12000000,2000,6.8,0
-Quentin Tarantino,140,889,Sid Haig,22000,Robert De Niro,239540,25522,English,USA,R,12000000,1000,7.5,0
-Jon Hurwitz,153,816,Eric Winter,1000,Danneel Ackles,113918,4065,English,USA,R,12000000,954,6.6,0
-Josh Trank,414,371,Alex Russell,963,Michael Kelly,204327,2054,English,USA,PG-13,12000000,465,7.1,32000
-Barbra Streisand,16,122,Amy Irving,405,Miriam Margolyes,9503,914,English,UK,PG,12000000,194,6.6,0
-Terry Gilliam,139,504,Michael Palin,629,Shelley Duvall,45890,2730,English,UK,PG,5000000,561,7.0,0
-Tamra Davis,111,135,Katherine Boecher,1000,Britney Spears,34219,1531,English,USA,PG-13,12000000,188,3.3,0
-Nima Nourizadeh,229,281,Kirby Bliss Blanton,971,Dax Flame,157051,2043,English,USA,R,12000000,329,6.7,29000
-Franklin J. Schaffner,112,78,Karl Malden,654,George C. Scott,76398,1306,English,USA,GP,12000000,416,8.0,0
-Mark Romanek,207,933,Gary Cole,49000,Robin Williams,97938,52138,English,USA,R,12000000,989,6.8,0
-John Erick Dowdle,198,1000,Jay Hernandez,137000,Andrew Fiscella,57446,140268,English,USA,R,12000000,1000,6.0,0
-David Moreau,172,451,Alessandro Nivola,17000,Chloë Grace Moretz,44130,18765,English,USA,PG-13,12000000,527,5.4,0
-Christopher Erskin,45,826,Shannon Elizabeth,1000,Vanessa Williams,5928,5006,English,USA,PG-13,12000000,1000,4.3,243
-Jesse Dylan,34,722,Fred Willard,995,Hector Elizondo,42644,6105,English,USA,R,12000000,729,6.2,0
-Brian Henson,75,84,Jerry Nelson,227,Steven Mackintosh,33850,534,English,USA,G,12000000,94,7.7,0
-Martin Campbell,400,834,Tobias Menzies,6000,Eva Green,470501,9125,English,UK,PG-13,150000000,1000,8.0,0
-Julie Taymor,128,898,Roger Rees,4000,Salma Hayek,61651,7072,English,USA,R,12000000,1000,7.4,0
-Dan Cutforth,68,8,Ashley Ashida Dixon,28,Lexie Contursi,12383,52,English,USA,PG,12000000,9,5.9,0
-Josh Boone,326,733,Sam Trammell,8000,Shailene Woodley,249688,10565,English,USA,PG-13,12000000,1000,7.8,93000
-John Dahl,128,599,Martin Landau,13000,Matt Damon,121676,14890,English,USA,R,12000000,940,7.4,0
-Chris Rock,161,555,Romany Malco,3000,Rosario Dawson,21672,5592,English,USA,R,12000000,966,6.5,0
-John Frankenheimer,70,79,Richard Dysart,452,Talia Shire,3000,729,English,USA,PG,12000000,122,5.4,902
-David Koepp,164,282,Kathryn Erbe,347,Illeana Douglas,62468,1254,English,USA,R,12000000,301,7.0,0
-,68,898,Kelvin Taylor,1000,Peter Mensah,173172,6091,English,USA,TV-MA,,939,8.6,31000
-Stephen Frears,354,322,Mare Winningham,1000,Steve Coogan,76094,2376,English,UK,PG-13,12000000,482,7.6,37000
-Mike Binder,125,805,Erika Christensen,975,Alicia Witt,19007,2944,English,USA,R,9000000,931,6.9,549
-Franklin J. Schaffner,55,801,Anne Meara,1000,Laurence Olivier,20660,4659,English,UK,R,12000000,837,7.0,0
-Elizabeth Allen Rosenbaum,66,717,Joanna 'JoJo' Levesque,836,Tammin Sursok,30462,3963,English,USA,PG,12000000,826,5.3,0
-Jake Schreier,191,376,Cara Delevingne,733,Nat Wolff,63390,2753,English,USA,PG-13,12000000,558,6.4,0
-Cheryl Dunye,33,581,Marsha Thomason,873,Michael Imperioli,3119,3646,English,USA,PG-13,,691,4.5,151
-Alexander Payne,433,622,Bruce Dern,1000,Devin Ratray,91082,3798,English,USA,R,12000000,844,7.8,28000
-Ernest R. Dickerson,66,580,Jada Pinkett Smith,1000,CCH Pounder,16646,3931,English,USA,R,13000000,851,6.7,0
-Tim Hill,37,611,Amber Valletta,833,Noel Fisher,5794,4551,English,USA,PG,12000000,626,5.3,371
-Jason Reitman,325,390,Patton Oswalt,9000,Charlize Theron,64682,10575,English,USA,R,12000000,786,6.3,0
-Mark Neveldine,170,501,Edi Gathegi,26000,Jason Statham,196422,28767,English,USA,R,12000000,725,7.0,0
-Lionel C. Martin,11,324,Gilbert Gottfried,1000,Bernie Mac,2301,2939,English,USA,R,,560,5.3,439
-Richard LaGravenese,24,604,Eddie Cibrian,1000,Holly Hunter,4052,3250,English,USA,R,12000000,849,6.6,242
-Sanaa Hamri,70,696,Laz Alonso,988,Common,10103,3906,English,USA,PG,,826,5.8,0
-Jonathan Demme,232,471,Rosemarie DeWitt,11000,Anne Hathaway,41226,12274,English,USA,R,,536,6.7,0
-Bob Rafelson,34,85,Michael Lerner,1000,Anjelica Huston,16764,1456,English,USA,R,12000000,230,6.6,1000
-Peter Webber,160,1000,Colin Firth,19000,Scarlett Johansson,60171,34700,English,UK,PG-13,,14000,7.0,0
-Wolfgang Petersen,96,18,Martin Semmelrogge,362,Jürgen Prochnow,168203,469,German,West Germany,R,14000000,21,8.4,11000
-John Lee Hancock,106,877,Marc Blucas,2000,Dennis Quaid,16832,5780,English,USA,PG-13,107000000,973,6.0,701
-Wallace Wolodarsky,53,503,Barry Watson,529,Heather Matarazzo,12007,2393,English,USA,R,12000000,526,5.4,507
-Richard Curtis,274,171,Tom Hollander,565,Tom Hughes,202341,1595,English,UK,R,12000000,555,7.8,105000
-Yimou Zhang,248,4,Andy Lau,755,Takeshi Kaneshiro,92295,1244,Mandarin,China,PG-13,100000000,483,7.6,0
-Nicholas Jarecki,288,360,Curtiss Cook,664,Nate Parker,41574,2440,English,USA,R,12000000,591,6.6,0
-Dean Israelite,177,265,Jonny Weston,452,Gary Weeks,57349,1819,English,USA,PG-13,12000000,328,6.4,0
-Darnell Martin,81,192,Veronika Dash,436,Cedric the Entertainer,15412,1141,English,USA,R,12000000,223,7.0,0
-Scott Alexander,29,654,Dave Chappelle,931,Sarah Silverman,6965,3848,English,USA,PG-13,10000000,744,5.7,262
-Stuart Gordon,58,968,Kurtwood Smith,1000,Christopher Lambert,23383,4755,English,Australia,R,8000000,1000,5.9,1000
-Christopher Guest,144,783,Catherine O'Hara,957,John Michael Higgins,12197,3535,English,USA,PG-13,12000000,925,6.3,650
-Woody Allen,114,99,Aleksa Palladino,537,Melanie Griffith,20576,943,English,USA,R,12000000,255,6.3,652
-Ryan Murphy,132,316,Joseph Cross,433,Jill Clayburgh,20000,1291,English,USA,R,12000000,398,6.2,0
-Robert Iscove,60,251,Kelly Clarkson,525,Anika Noni Rose,23606,1445,English,USA,PG,12000000,281,2.1,0
-Spike Lee,30,599,Debi Mazar,873,Michael Imperioli,4961,4497,English,USA,R,12000000,680,5.0,251
-Jane Campion,138,48,Nick Damici,1000,Jennifer Jason Leigh,18632,1171,English,Australia,R,12000000,65,5.3,656
-James Gray,190,103,Vinessa Shaw,812,Isabella Rossellini,29613,1540,English,USA,R,12000000,580,7.1,0
-Fred Schepisi,61,794,Ray Winstone,5000,Bob Hoskins,5016,7166,English,UK,R,12000000,1000,7.0,305
-Joon-ho Bong,363,74,Kang-ho Song,629,Doona Bae,68883,1173,Korean,South Korea,R,12215500000,398,7.0,7000
-Roger Spottiswoode,2,212,Treat Williams,3000,Robert Duvall,763,4277,English,USA,PG,12000000,642,5.7,135
-Antonia Bird,131,611,Jeffrey Jones,769,Jeremy Davies,29990,2543,English,Czech Republic,R,12000000,692,7.1,0
-Jon Poll,146,442,Megan Park,21000,Robert Downey Jr.,56654,22577,English,USA,R,12000000,569,7.0,0
-Paolo Sorrentino,280,70,Sabrina Ferilli,211,Toni Servillo,55516,456,Italian,Italy,Not Rated,9200000,98,7.7,29000
-Peter Care,78,77,Michael Harding,1000,Kieran Culkin,12047,1292,English,USA,R,12000000,165,7.1,677
-Chan-wook Park,469,520,Alden Ehrenreich,3000,Mia Wasikowska,84620,5074,English,UK,R,12000000,1000,6.8,27000
-Kar-Wai Wong,194,576,Tony Chiu Wai Leung,878,Li Gong,41496,2378,Cantonese,Hong Kong,R,12000000,643,7.5,0
-Ira Sachs,121,18,Erin Boyes,60,David Richmond-Peck,8014,141,English,USA,PG-13,12000000,46,6.3,314
-Carroll Ballard,38,393,Hope Davis,706,Eamonn Walker,6454,1579,English,USA,PG,12000000,442,7.3,0
-Neil Jordan,123,289,Stephen Rea,845,Tony Curran,16863,1554,English,Ireland,PG-13,12000000,327,6.8,0
-Takeshi Kitano,81,403,Tatyana Ali,865,Omar Epps,18520,2126,English,USA,R,10000000,685,7.2,0
-Anthony Russo,72,146,Isaiah Washington,693,Michael Jeter,12559,1373,English,USA,R,12000000,534,6.4,423
-Sidney Lumet,25,745,Anne Bancroft,941,Kyra Sedgwick,1427,3099,English,Australia,R,12000000,754,6.0,88
-Vadim Perelman,78,350,Lynn Cohen,797,Eva Amurri Martino,12125,2073,English,USA,R,8000000,474,6.4,1000
-Lawrence Kasdan,57,820,Mark Duplass,967,Dianne Wiest,2551,3878,English,USA,PG-13,,830,5.1,0
-Marco Kreuzpaintner,69,289,Kate del Castillo,662,Zack Ward,14831,1952,English,Germany,R,12000000,345,7.5,0
-Lajos Koltai,73,0,Péter Fancsikai,9,Marcell Nagy,5603,11,Hungarian,Hungary,R,2500000000,2,7.1,607
-Alan Rudolph,42,865,Albert Finney,13000,Bruce Willis,6884,17417,English,USA,R,12000000,883,4.6,458
-Yimou Zhang,101,3,Ni Yan,9,Honglei Sun,2410,18,Mandarin,China,R,,4,5.7,784
-Vincenzo Natali,82,280,Jeremy Northam,686,David Hewlett,27052,1501,English,USA,R,7500000,327,6.8,0
-Chuan Lu,149,3,Yuanyuan Gao,52,Ye Liu,8429,91,Mandarin,China,R,12000000,32,7.7,0
-Tim Johnson,165,183,Matt Jones,17000,Jim Parsons,70133,17883,English,USA,PG,135000000,523,6.7,26000
-Lijun Sun,5,188,Tom Arnold,970,Jon Heder,408,1854,Mandarin,China,PG,,618,3.2,211
-Takashi Yamazaki,44,16,Meisa Kuroki,84,Takuya Kimura,4899,164,Japanese,Japan,TV-14,12000000,33,6.1,0
-Renny Harlin,74,18,Kenneth Cranham,567,Richard Coyle,12128,708,English,Georgia,R,20000000,111,5.6,0
-Christopher Smith,156,42,Michael Dorman,181,Rachael Carpani,64423,433,English,UK,R,12000000,168,6.9,13000
-Timothy Hines,1,247,Kelly LeBrock,1000,Christopher Lambert,314,2059,English,USA,R,12000000,445,7.5,26000
-Randall Wallace,82,79,Connor Corum,399,Jacob Vargas,21034,663,English,USA,PG,12000000,116,5.8,23000
-Guy Ritchie,151,1000,Brad Pitt,26000,Jason Statham,600996,39175,English,UK,R,6000000,11000,8.3,27000
-David Winters,3,84,Matt Marr,551,Gary Daniels,105,895,English,USA,PG,12000000,85,2.8,634
-Mary Lambert,98,426,Fred Gwynne,969,Miko Hughes,63855,2987,English,USA,R,11500000,886,6.6,0
-Akira Kurosawa,25,4,Tetsu Watanabe,15,Tatsuo Matsumura,3466,30,Japanese,Japan,,11900000,6,7.5,355
-Jamie Thraves,35,388,Caroline Dhavernas,680,Paddy Considine,3737,1780,English,UK,R,11500000,544,6.0,443
-Mabel Cheung,6,2,Ching Wan Lau,215,Wei Tang,117,244,Chinese,China,,12000000,27,6.2,4
-Joe Dante,183,233,Harry Carey Jr.,767,Phoebe Cates,142293,2053,English,USA,PG,11000000,281,7.2,14000
-George Lucas,282,504,Peter Cushing,11000,Harrison Ford,911097,13485,English,USA,PG,11000000,1000,8.7,33000
-Dan Mazer,158,411,Zoey Deutch,22000,Robert De Niro,49671,24063,English,USA,R,11500000,851,6.0,11000
-David Lean,89,382,Klaus Kinski,597,Julie Christie,55816,1966,English,USA,PG-13,11000000,396,8.0,7000
-Stephen Daldry,101,14,Selton Mello,585,Wagner Moura,14437,679,Portuguese,UK,R,,68,7.2,0
-Kenny Ortega,128,632,Matt Prokop,755,Lucas Grabeel,43795,3507,English,USA,G,11000000,734,4.5,0
-David O. Russell,410,141,Jack McGee,23000,Christian Bale,275869,23811,English,USA,R,25000000,238,7.9,36000
-Jeff Tremaine,104,218,Steve-O,608,Bam Margera,56595,1853,English,USA,R,,362,7.1,641
-Jonathan Lynn,54,633,Bruce McGill,886,Fred Gwynne,82743,3280,English,USA,R,11000000,655,7.5,7000
-R.J. Cutler,141,602,Mireille Enos,17000,Chloë Grace Moretz,83893,20466,English,USA,PG-13,11000000,1000,6.8,15000
-Brian Trenchard-Smith,30,32,Damien Garvey,84,Zoe Ventoura,3104,179,English,Canada,Not Rated,12000000,37,4.3,774
-David S. Ward,57,808,Tom Berenger,1000,Corbin Bernsen,49007,3435,English,USA,R,11000000,854,7.2,0
-Oliver Parker,56,621,Rupert Everett,785,Lily Cole,18220,3135,English,UK,PG-13,13500000,692,5.8,0
-Joel Schumacher,216,328,John Enos III,991,Radha Mitchell,207934,2562,English,USA,R,13000000,465,7.1,0
-Adam Shankman,80,488,Peter Coyote,683,Lauren German,162701,2436,English,USA,PG,11000000,548,7.4,19000
-Tim Robbins,77,191,Celia Weston,276,Lois Smith,73193,903,English,UK,R,11000000,258,7.6,0
-Roger Kumble,101,637,Sean Patrick Thomas,4000,Sarah Michelle Gellar,149222,6223,English,USA,R,10500000,656,6.9,0
-Kevin Greutert,156,647,Shawnee Smith,723,Costas Mandylor,76207,3101,English,Canada,R,11000000,651,6.0,0
-Mel Brooks,48,842,Sid Caesar,1000,Madeline Kahn,36559,3931,English,USA,R,11000000,898,6.9,0
-Gina Prince-Bythewood,109,549,Alicia Keys,664,Nate Parker,19440,3376,English,USA,PG-13,11000000,551,7.3,0
-Rob Pritts,62,532,Vinessa Shaw,584,Vincent Pastore,10966,3850,English,USA,PG-13,11000000,580,4.6,365
-Brian De Palma,33,298,Gabrielle Carteris,636,Steven Bauer,9903,1852,English,USA,R,12000000,330,6.0,541
-Norman Jewison,20,279,Peter Boyle,13000,Sylvester Stallone,5561,14735,English,USA,PG,11000000,595,6.4,745
-Tobe Hooper,52,225,Bud Cort,425,Louise Fletcher,5187,1661,English,USA,PG,12000000,394,5.5,902
-John Crowley,351,54,Fiona Glascott,838,Julie Walters,73249,995,English,UK,PG-13,11000000,55,7.5,36000
-Stanley Kubrick,124,111,Steven Berkoff,385,Ryan O'Neal,101627,1104,English,UK,PG,11000000,293,8.1,0
-Brendan Malloy,37,651,Jason London,799,Lee Majors,14656,4291,English,USA,PG-13,11000000,711,6.3,0
-Reginald Hudlin,58,553,John Witherspoon,8000,Will Ferrell,10777,10982,English,USA,R,11000000,723,5.1,671
-Dustin Hoffman,175,123,Sheridan Smith,358,Luke Newberry,15684,1114,English,UK,PG-13,11000000,156,6.8,13000
-Gregory Poirier,75,443,Jake Busey,1000,Shannon Elizabeth,15427,2729,English,USA,R,11000000,660,5.3,449
-Bill Paxton,161,303,Powers Boothe,11000,Matthew McConaughey,59982,12237,English,USA,R,11000000,472,7.3,5000
-Simon Curtis,203,553,Frances Fisher,16000,Ryan Reynolds,33856,17866,English,UK,PG-13,11000000,638,7.3,34000
-Bill Condon,188,812,Oliver Platt,14000,Liam Neeson,42689,17490,English,USA,R,11000000,1000,7.1,0
-Sam Raimi,221,795,Bridget Fonda,901,Patricia Tallman,128850,3913,English,USA,R,13000000,888,7.6,10000
-Dewey Nicks,66,424,Gedde Watanabe,960,Jaime King,12437,2415,English,Canada,R,11000000,448,5.3,405
-Lasse Hallström,80,472,Leonardo DiCaprio,40000,Johnny Depp,171882,69746,English,USA,PG-13,11000000,29000,7.8,14000
-Philip Saville,25,109,Alan Van Sprang,866,Henry Ian Cusick,2164,1281,English,Canada,PG-13,17000000,147,7.7,0
-Mike Leigh,169,579,Sally Hawkins,979,Eddie Marsan,20307,3133,English,UK,R,11000000,594,7.7,0
-Daisy von Scherler Mayer,70,183,Dash Mihok,658,Michael McKean,13622,1559,English,UK,R,11000000,463,5.4,550
-Mira Nair,15,787,Chazz Palminteri,1000,Anjelica Huston,1761,3072,English,USA,R,11000000,979,6.2,174
-Ethan Coen,535,272,Max Casella,3000,Justin Timberlake,96233,4082,English,USA,R,11000000,275,7.4,26000
-Tim Blake Nelson,92,697,Andrew Keegan,1000,Mekhi Phifer,17333,3300,English,USA,R,5000000,835,6.2,0
-William A. Graham,14,40,Wayne Pygram,14000,Milla Jovovich,14129,14281,English,USA,PG-13,11000000,163,5.1,967
-Martin Ritt,13,104,Anthony Zerbe,338,Frank Finlay,2603,800,English,USA,PG,11000000,275,6.9,608
-John Turturro,87,776,Steve Buscemi,14000,Kate Winslet,10052,28004,English,USA,R,,12000,6.3,0
-Agnieszka Holland,78,22,David Kennedy,60,Phyllida Law,11132,150,English,USA,PG-13,11000000,35,6.8,0
-Tobe Hooper,223,723,Zelda Rubinstein,887,Heather O'Rourke,105448,3876,English,USA,PG,10700000,770,7.4,11000
-Rowan Joffe,136,405,Sean Harris,845,Sam Riley,5013,3117,English,UK,R,12000000,641,5.7,0
-David Hackl,160,357,Costas Mandylor,3000,Julie Benz,88529,5286,English,USA,R,10800000,723,5.8,0
-Giuliano Montaldo,28,199,Gena Rowlands,917,John Cassavetes,618,1827,English,Italy,GP,,545,6.2,85
-Lisa Azuelos,54,19,Lina Esco,142,Nora Dunn,45144,248,English,USA,PG-13,11000000,79,4.3,18000
-Ray Lawrence,75,48,Deborra-Lee Furness,172,John Howard,5772,378,English,Australia,R,15000000,71,6.4,302
-Karan Johar,20,860,John Abraham,8000,Shah Rukh Khan,13998,10822,Hindi,India,R,700000000,1000,6.0,659
-Oliver Parker,105,327,Rupert Everett,893,Minnie Driver,12980,2640,English,UK,PG-13,14000000,692,6.9,646
-Ruairi Robinson,120,507,Olivia Williams,805,Romola Garai,28570,2271,English,UK,R,7000000,766,5.5,0
-Jaume Balagueró,108,132,Giancarlo Giannini,541,Lena Olin,16747,1228,English,USA,PG-13,10600000,451,5.4,1000
-Stanley Kubrick,285,73,Gary Lockwood,273,Keir Dullea,427357,727,English,UK,G,12000000,117,8.3,24000
-Steven Spielberg,215,548,Dee Wallace,861,Henry Thomas,281842,2811,English,USA,PG,10500000,725,7.9,34000
-Jon Kasdan,81,499,Elena Anaya,17000,Kristen Stewart,27689,20312,English,USA,PG-13,10000000,1000,6.5,1000
-Léa Pool,17,194,Marc Donato,882,William Hurt,1337,1554,English,Canada,PG,12500000,450,6.3,392
-Floyd Mutrux,5,327,Kelli Williams,665,Ricky Schroder,859,2272,English,USA,R,10500000,446,6.4,119
-,3,44,Johnny Flynn,381,Antonia Thomas,2651,592,English,UK,,,102,7.9,0
-Sajid Khan,10,119,Boman Irani,564,Arjun Rampal,8598,1121,Hindi,India,,,154,5.3,250
-Christopher Cain,43,258,Taylor Handley,482,Jon Gries,2618,1526,,USA,R,11000000,362,5.8,411
-Dean Wright,43,280,Eduardo Verástegui,639,Santiago Cabrera,3665,1807,Spanish,Mexico,R,10818775,377,6.6,0
-Eric Lartigau,94,24,Eric Elmosnino,68,Karin Viard,15060,175,French,France,,11000000,29,7.4,0
-Gus Van Sant,161,893,Matt Damon,49000,Robin Williams,604904,63710,English,USA,R,10000000,13000,8.3,31000
-Shintaro Shimosawa,38,571,Anthony Hopkins,14000,Al Pacino,6935,27660,English,USA,R,11000000,12000,5.3,0
-Darren Lynn Bousman,210,482,Shawnee Smith,723,Costas Mandylor,142115,3189,English,USA,R,10000000,651,6.2,0
-Ivan Reitman,52,901,Harold Ramis,13000,Bill Murray,48629,27378,English,USA,R,10000000,11000,6.9,0
-Peyton Reed,139,229,Lindsay Sloane,4000,Kirsten Dunst,70141,5270,English,USA,PG-13,10000000,464,5.9,0
-James DeMonaco,165,393,Joseph Julian Soria,798,Frank Grillo,17596,2480,English,France,R,10000000,465,6.1,0
-Robert Iscove,96,1000,Clea DuVall,23000,Paul Walker,67115,28734,English,USA,PG-13,10000000,1000,5.8,0
-Lee Daniels,323,736,Gabourey Sidibe,939,Mo'Nique,86956,3276,English,USA,R,10000000,906,7.3,12000
-Darren Lynn Bousman,190,448,Shawnee Smith,723,Costas Mandylor,111087,3492,English,USA,R,10000000,651,5.9,0
-Geoffrey Sax,173,368,Keegan Connor Tracy,494,Deborah Kara Unger,41763,2013,English,UK,PG-13,10000000,392,5.5,0
-Tyler Perry,46,685,Cicely Tyson,1000,Boris Kodjoe,8962,5264,English,USA,PG-13,6000000,907,5.0,676
-Martin Scorsese,59,638,Bill Cobbs,10000,Tom Cruise,57831,11895,English,USA,R,13800000,970,7.0,0
-Ken Annakin,53,196,Richard Beymer,726,Richard Burton,43270,1554,English,USA,G,10000000,249,7.8,0
-Stephen Herek,22,577,Shaun Weiss,633,Lane Smith,44502,3362,English,USA,PG,10000000,613,6.4,0
-Takashi Shimizu,203,634,Clea DuVall,4000,Sarah Michelle Gellar,115050,7461,English,USA,PG-13,10000000,1000,5.9,4000
-Dennis Dugan,77,491,Kevin Nealon,11000,Adam Sandler,156143,13162,English,USA,PG-13,12000000,503,7.0,0
-Victor Salva,190,270,Patricia Belcher,1000,Eileen Brennan,86890,1982,English,Germany,R,10000000,322,6.1,0
-Stephen Herek,81,730,George Carlin,18000,Keanu Reeves,85362,20795,English,USA,PG,10000000,769,6.9,0
-Carol Reed,56,139,Ron Moody,695,Oliver Reed,25303,1593,English,UK,G,10000000,275,7.5,0
-John Madden,264,186,Penelope Wilton,1000,Tom Wilkinson,75306,1898,English,UK,PG-13,10000000,400,7.3,48000
-Chuck Sheetz,44,345,Andrew Lawrence,759,Diedrich Bader,6808,2197,English,USA,G,23000000,563,6.5,227
-George Miller,117,60,Bruce Spence,794,Tina Turner,101840,1529,English,Australia,PG-13,12305523,531,6.2,0
-Mark L. Lester,124,581,Vernon Wells,1000,Bill Duke,111649,3192,English,USA,R,10000000,745,6.7,0
-William Brent Bell,159,130,Rupert Evans,4000,Lauren Cohan,35654,4687,English,USA,PG-13,10000000,334,6.0,20000
-John Erick Dowdle,273,816,Bokeem Woodbine,2000,Bojana Novakovic,104089,5628,English,USA,PG-13,10000000,904,6.3,16000
-Marcus Raboy,26,615,Mike Epps,723,John Witherspoon,19284,3712,English,USA,R,20000000,706,5.8,981
-Leigh Whannell,242,482,Hayley Kiyoko,852,Lin Shaye,54190,2426,English,Canada,PG-13,10000000,542,6.1,29000
-Michael Schultz,55,619,Vanity,854,Mike Starr,9424,3394,English,USA,PG-13,10000000,841,6.9,0
-Guy Ritchie,151,1000,Brad Pitt,26000,Jason Statham,600996,39175,English,UK,R,6000000,11000,8.3,27000
-Brett Leonard,48,120,Austin O'Brien,535,Jeff Fahey,27800,1109,English,UK,R,10000000,211,5.4,0
-Peter Sollett,166,617,Alexis Dziena,904,Ari Graynor,74887,2807,English,USA,PG-13,9000000,715,6.7,0
-Kevin Smith,206,769,Janeane Garofalo,13000,Matt Damon,181737,16693,English,USA,R,10000000,1000,7.4,10000
-Bob Dolman,92,73,Eva Amurri Martino,931,Erika Christensen,12388,1917,English,USA,R,10000000,797,5.6,744
-Joe Dante,78,257,Al Leong,745,Albert Brooks,25613,1954,English,USA,PG,10000000,730,6.5,0
-Rowdy Herrington,83,466,Kevin Tighe,623,Ben Gazzara,42987,2484,English,USA,R,17000000,472,6.5,0
-Keenen Ivory Wayans,8,534,Salli Richardson-Whitfield,851,Jada Pinkett Smith,3924,3190,English,USA,R,10000000,543,5.8,368
-John Polson,86,782,Shiri Appleby,931,Erika Christensen,16300,3819,English,USA,PG-13,8500000,855,5.0,720
-Greg Coolidge,85,534,Danny Woodburn,1000,Dane Cook,37681,4441,English,USA,PG-13,12000000,809,5.5,0
-Harry Elfont,76,678,Lauren Ambrose,982,Ethan Embry,37885,4259,English,USA,PG-13,10000000,945,6.5,0
-Francis Ford Coppola,60,699,William Smith,10000,Tom Cruise,57363,12097,English,USA,PG-13,10000000,919,7.2,10000
-David Lowery,78,190,Oona Laurence,3000,Bryce Dallas Howard,408,3691,English,USA,PG,65000000,424,7.3,21000
-David Cronenberg,112,275,Herbert Lom,1000,Tom Skerritt,44804,2013,English,USA,R,10000000,278,7.2,0
-Ciarán Foy,189,220,James Ransone,1000,Laila Haley,25210,2403,English,USA,R,10000000,412,5.2,13000
-Salim Akil,82,706,Curtis Armstrong,1000,Omari Hardwick,5161,5804,English,USA,PG-13,17000000,876,5.7,0
-Jamie Blanks,120,448,Jessica Capshaw,690,Marley Shelton,20467,2402,English,USA,R,10000000,533,4.7,0
-Olatunde Osunsanmi,183,242,Will Patton,14000,Milla Jovovich,63108,15251,English,USA,PG-13,10000000,537,5.9,15000
-Robert Altman,211,718,Virginia Madsen,11000,Meryl Streep,19655,12946,English,USA,PG-13,10000000,912,6.8,683
-Leon Ichaso,14,338,Clarence Williams III,556,Khandi Alexander,3119,2149,English,USA,R,10000000,475,5.9,331
-Joseph Zito,54,53,Richard Lynch,371,Billy Drago,6143,857,English,USA,R,10000000,324,5.3,0
-Malcolm D. Lee,55,826,Brandon T. Jackson,2000,Jurnee Smollett-Bell,5585,7552,English,USA,PG-13,,918,6.0,997
-Wes Anderson,179,766,Connie Nielsen,13000,Bill Murray,134458,15716,English,USA,R,9000000,933,7.7,5000
-Colin Strause,221,861,Donald Faison,929,David Zayas,76199,3679,English,USA,PG-13,10000000,927,4.4,13000
-John Madden,158,111,Celia Imrie,220,Tina Desai,22369,583,English,UK,PG,10000000,186,6.6,21000
-Patricia Rozema,73,558,Jane Krakowski,918,Julia Ormond,4719,3317,English,USA,G,10000000,624,6.7,851
-Mark Rosman,65,804,Chris Noth,1000,Ben Feldman,23527,4789,English,USA,PG,25000000,962,5.5,767
-Spike Lee,23,203,Nicholas Turturro,18000,Denzel Washington,8295,19065,English,USA,R,10000000,269,6.5,720
-Steve Oedekerk,63,39,Simon Rhee,176,Steve Oedekerk,37901,361,English,USA,PG-13,10000000,67,6.2,0
-Ron Underwood,132,536,Ariana Richards,651,Reba McEntire,90070,3119,English,USA,PG-13,11000000,610,7.1,11000
-Rob Schmidt,191,648,Lindy Booth,2000,Kevin Zegers,87494,3416,English,USA,R,12600000,683,6.1,0
-Walter Hill,52,695,David Carradine,2000,Dennis Quaid,7322,6296,English,USA,R,10000000,926,7.1,680
-James Foley,91,45,Paul Ben-Victor,258,Byron Mann,15358,571,English,USA,R,30000000,218,6.0,328
-Jeff Nichols,368,820,Tye Sheridan,11000,Matthew McConaughey,135286,13960,English,USA,PG-13,10000000,1000,7.4,27000
-Robert Ben Garant,89,307,Thomas Lennon,655,Wendi McLendon-Covey,23928,2737,English,USA,R,10000000,651,5.9,441
-Morgan Spurlock,83,547,Zayn Malik,773,Harry Styles,22161,2787,English,USA,PG,10000000,734,4.1,0
-Neal Brennan,83,503,Noureen DeWulf,839,Rob Riggle,17790,3973,English,USA,R,,700,5.8,0
-Tuck Tucker,33,636,Vincent Schiavelli,1000,Jennifer Jason Leigh,4564,3752,English,USA,PG,3000000,811,5.9,227
-Simon Curtis,386,918,Toby Jones,13000,Eddie Redmayne,71679,17204,English,UK,R,6400000,2000,7.0,17000
-Richard Shepard,191,442,Philip Baker Hall,3000,Adam Scott,40514,4053,English,USA,R,10000000,497,6.8,808
-Theodore Witcher,16,582,Nia Long,962,Leonard Roberts,2801,3871,English,USA,R,10000000,826,7.4,1000
-Joel Edgerton,297,458,Allison Tolman,1000,Busy Philipps,79909,3215,English,USA,R,5000000,562,7.1,15000
-Jim Hanon,47,30,Chad Allen,772,Chase Ellison,4360,1058,English,USA,PG-13,10000000,232,7.0,1000
-Tommy O'Haver,63,869,Kirsten Dunst,15000,Mila Kunis,15617,22485,English,USA,PG-13,22000000,4000,5.8,0
-Mike Judge,144,759,Stephen Root,989,Gary Cole,200293,3462,English,USA,R,10000000,939,7.8,16000
-Michael Patrick Jann,77,551,Kirstie Alley,4000,Kirsten Dunst,27265,6388,English,Germany,PG-13,10000000,980,6.5,0
-Tim Burton,325,309,Danny Huston,11000,Christoph Waltz,55539,12418,English,USA,PG-13,10000000,430,7.0,20000
-Peter Berg,100,711,Daniel Stern,4000,Jon Favreau,39331,6046,English,USA,R,10000000,796,6.3,0
-Joe Nussbaum,52,2000,Alexa PenaVega,7000,Steve Carell,12706,13626,English,USA,PG,10000000,2000,5.3,0
-Brian De Palma,98,298,Dennis Franz,537,Melanie Griffith,20113,1856,English,USA,R,10000000,376,6.8,0
-Jorma Taccone,163,472,Will Forte,1000,Jasper Cole,35888,2618,English,USA,R,10000000,622,5.5,0
-Stephen Frears,137,250,Benedict Wong,460,Sophie Okonedo,34848,1334,English,UK,R,10000000,372,7.4,0
-Elizabeth Banks,180,3000,Kate Winslet,20000,Hugh Jackman,79146,41059,English,USA,R,6000000,14000,4.3,25000
-Florian Henckel von Donnersmarck,321,3000,Angelina Jolie Pitt,40000,Johnny Depp,176606,55175,English,USA,PG-13,100000000,11000,6.0,25000
-Jeff Lowell,100,655,William Morgan Sheppard,939,Stephen Root,21268,3651,English,USA,PG-13,10000000,702,5.2,518
-Lorene Scafaria,265,172,Mark Moses,7000,Steve Carell,87203,7747,English,USA,R,10000000,353,6.7,25000
-Miguel Arteta,212,727,Stephen Root,1000,Kurtwood Smith,32697,4769,English,USA,R,,939,6.3,0
-,68,476,T.J. Thyne,1000,Michaela Conlin,111506,2198,English,USA,TV-14,,722,7.9,0
-Tony Kaye,162,602,Beverly D'Angelo,1000,Ethan Suplee,782437,3858,English,USA,R,7500000,816,8.6,35000
-Marcus Dunstan,147,444,Johanna Braddy,1000,Daniel Sharman,36029,3818,English,USA,R,10000000,581,6.1,14000
-Timothy Björklund,33,719,Kelsey Grammer,886,Nathan Lane,1231,5139,English,USA,PG,10000000,808,5.8,49
-François Girard,94,2,Clotilde Mollet,24,Johannes Silberschneider,26832,29,French,Canada,R,10000000,3,7.7,0
-David Lynch,143,201,Richard Farnsworth,874,Sissy Spacek,63733,1351,English,France,G,10000000,262,8.0,0
-Scott Kalvert,38,934,James Franco,12000,Norman Reedus,6200,26961,English,USA,R,10000000,11000,5.6,398
-Jason Bateman,126,322,Philip Baker Hall,628,Beth Grant,38459,2061,English,USA,R,10000000,497,6.7,0
-David Schwimmer,168,231,Iddo Goldberg,427,Dylan Moran,58509,1022,English,UK,PG-13,,269,6.6,0
-Allan Arkush,19,378,Randy Quaid,753,Bernadette Peters,1040,2791,English,USA,PG,10000000,695,4.2,425
-Mike Binder,91,664,Gillian Jacobs,1000,Jennifer Ehle,8058,3745,English,USA,PG-13,9000000,837,6.6,0
-Eric Bross,46,401,Tamala Jones,719,Jerry Stiller,3662,2446,English,USA,PG,16000000,405,4.1,0
-Werner Herzog,198,294,Toby Huss,23000,Christian Bale,84641,24270,English,USA,PG-13,10000000,342,7.3,0
-Dan Fogelman,139,970,Jennifer Garner,14000,Al Pacino,20810,18712,English,USA,R,10000000,3000,7.1,0
-Jay Duplass,182,581,Evan Ross,2000,Judy Greer,56005,3374,English,USA,R,10000000,616,6.5,0
-Luca Guadagnino,181,72,Waris Ahluwalia,144,Flavio Parenti,14031,474,Italian,Italy,R,10000000,110,7.0,0
-John Putch,23,699,Diedrich Bader,823,Robert Picardo,5612,5262,English,USA,PG-13,10000000,759,5.5,0
-Peter Medak,30,541,Michael Wincott,10000,Gary Oldman,10735,13160,English,UK,R,11500000,721,6.6,561
-Steven Soderbergh,111,132,Lesley Ann Warren,402,Peter Fonda,24412,1335,English,USA,R,9000000,296,7.1,944
-Paul Haggis,287,911,Loretta Devine,3000,Don Cheadle,361169,5732,English,Germany,R,6500000,912,7.9,18000
-Terence Davies,96,553,Anthony LaPaglia,902,Eric Stoltz,6377,2735,English,UK,PG,10000000,576,7.1,345
-Harley Cokeliss,27,311,Tracey Walter,754,Cliff Robertson,1768,1891,English,USA,R,10000000,324,5.6,208
-Victor Salva,44,400,Tim DeKay,634,Scott Mechlowicz,20426,2673,English,Germany,PG-13,10000000,436,7.3,0
-Tom Brady,49,269,Kevin Nealon,982,Don Johnson,9541,2603,English,USA,R,10000000,503,3.3,0
-Spike Lee,57,851,Michael Rapaport,1000,Gillian White,8720,4266,English,USA,R,10000000,975,6.5,1000
-Jason Zada,185,4,Stephanie Vogt,533,Eoin Macken,20837,578,English,USA,PG-13,10000000,35,4.8,10000
-Franklin J. Schaffner,2,249,William Hootkins,902,Frank Langella,892,2079,English,USA,PG,14000000,488,5.2,106
-Noah Baumbach,270,64,Maria Dizzia,6000,Naomi Watts,30325,6322,English,USA,R,10000000,139,6.3,0
-Chris Weitz,94,221,Eddie 'Piolin' Sotelo,749,Demián Bichir,13174,2214,English,USA,PG-13,10000000,252,7.2,0
-David Cronenberg,157,258,John Neville,530,Miranda Richardson,30096,1381,English,Canada,R,8000000,387,6.8,0
-Eric Blakeney,49,826,Oliver Platt,14000,Liam Neeson,5936,17665,English,USA,R,10000000,1000,5.7,242
-Douglas McGrath,80,1000,Anne Hathaway,16000,Charlie Hunnam,9395,29177,English,UK,PG,10000000,11000,7.2,0
-Ariel Vromen,221,683,James Franco,11000,Chris Evans,55567,23187,English,USA,R,10000000,11000,6.9,20000
-,53,2,Olaf Lubaszenko,20,Krystyna Janda,12591,25,Polish,Poland,TV-MA,,3,9.1,0
-Rakesh Roshan,20,45,Rekha,307,Naseeruddin Shah,12411,616,Hindi,India,Not Rated,10000000,200,6.3,533
-John Waters,90,503,Melanie Griffith,975,Alicia Witt,11403,3059,English,France,R,10000000,537,6.2,795
-William Friedkin,376,251,Scott A. Martin,11000,Matthew McConaughey,59297,11853,English,USA,R,11000000,414,6.7,12000
-Derrick Borte,144,688,Gary Cole,2000,Demi Moore,33473,4607,English,USA,R,5000000,989,6.5,0
-Richard Kwietniowski,82,232,Minnie Driver,22000,Philip Seymour Hoffman,10585,23513,English,Canada,R,10000000,893,7.2,0
-Bob Odenkirk,51,622,Lee Majors,966,Jenna Fischer,9517,3307,English,USA,R,10000000,799,5.3,319
-Kar-Wai Wong,192,20,Norah Jones,20000,Natalie Portman,44208,20364,English,Hong Kong,PG-13,10000000,329,6.7,0
-John Turturro,36,54,Ben Gazzara,816,Beverly D'Angelo,1402,1585,English,Spain,R,,623,6.2,74
-Guy Ritchie,71,119,Jeanne Tripplehorn,990,Bruce Greenwood,13145,2006,English,UK,R,10000000,711,3.6,725
-Joshua Seftel,79,91,Sergej Trifunovic,603,Bashar Rahal,20008,988,English,USA,R,10000000,175,5.7,883
-Stephen Chow,246,51,Karen Mok,478,Wei Zhao,56923,700,Cantonese,Hong Kong,PG,10000000,83,7.3,0
-Vincent Gallo,115,0,Cheryl Tiegs,787,Vincent Gallo,11487,883,English,USA,Not Rated,10000000,96,5.0,952
-Claude Chabrol,34,28,François Cluzet,678,Isabelle Huppert,1649,1256,French,France,,60000000,541,6.6,33
-Jon Stewart,129,241,Claire Foy,374,Numan Acar,8307,1283,English,USA,R,5000000,362,6.6,5000
-Bigas Luna,22,34,Aitana Sánchez-Gijón,837,Olivier Martinez,1135,1019,French,France,,,130,6.8,85
-Ralph Fiennes,196,131,Ashraf Barhom,18000,Gerard Butler,27009,18652,English,UK,R,,451,6.2,12000
-Dan Harris,73,83,Ryan Donowho,374,Kip Pardue,8708,768,English,USA,R,4000000,181,7.3,345
-Mel Smith,43,428,Danny Dyer,893,Minnie Driver,3080,3049,English,UK,R,10000000,798,6.2,117
-Bobcat Goldthwait,129,334,Daryl Sabara,49000,Robin Williams,31964,50542,English,USA,R,,640,6.9,0
-Christopher Smith,200,345,Toby Stephens,798,Danny Dyer,31890,2217,English,UK,R,5000000,769,6.6,0
-Stuart Gordon,79,885,Dulé Hill,1000,Joe Mantegna,9971,5761,English,USA,R,10000000,922,6.3,661
-Jake Scott,112,146,Ally Sheedy,17000,Kristen Stewart,19979,18236,English,UK,R,,793,7.0,0
-Alan Metter,17,421,Michael Winslow,16000,Christopher Lee,24958,17469,English,USA,PG,6200000,542,3.3,321
-Jeb Stuart,20,553,Nate Parker,665,Ricky Schroder,465,4579,English,USA,PG-13,,664,6.7,503
-Rafa Lara,12,36,Andrés Montiel,78,Jorge Luis Moreno,683,221,Spanish,Mexico,R,10000000,61,6.2,874
-Michael Radford,59,499,Jared Gilman,962,Chris Noth,2041,3465,English,USA,PG-13,10000000,545,6.5,0
-Arthur Hiller,29,385,Harvey Weinstein,795,Eric Idle,2971,2655,English,USA,R,10000000,474,3.5,89
-Michael Meredith,23,875,Justin Timberlake,12000,Jeff Bridges,2941,16118,English,USA,PG-13,10000000,3000,5.5,370
-Julio DePietro,22,617,Scott Porter,806,Adrian Martinez,7759,3124,English,USA,R,8000000,690,5.9,1000
-Katherine Dieckmann,43,495,Minnie Driver,1000,Stephanie Szostak,3662,3146,English,USA,PG-13,5000000,893,4.7,546
-William Dear,16,422,Corbin Bleu,835,Madison Pettis,361,2519,English,Canada,PG,,632,4.2,58
-Kim Farrant,84,51,Reef Ireland,147,Nicholas Hamilton,5637,285,English,Australia,R,10000000,52,5.2,0
-Marcus Raboy,4,240,Tamala Jones,706,Mike Epps,1097,1936,English,USA,R,,405,5.2,402
-Scott Marshall,20,611,Drew Waters,906,Drew Fuller,4995,4725,English,USA,PG-13,10000000,848,3.9,160
-Álex de la Iglesia,71,102,Leonor Watling,439,Jim Carter,22753,940,English,Spain,R,10000000,161,6.1,0
-Andrew Traucki,102,72,Gyton Grantley,122,Damian Walshe-Howling,11950,375,English,Australia,R,,109,5.8,0
-Michael Clancy,27,742,Rip Torn,11000,Zooey Deschanel,7690,14656,English,USA,R,6500000,826,6.7,376
-Patrick Lussier,62,126,Craig Fairbrass,298,Teryl Rothery,11285,934,English,USA,PG-13,10000000,258,5.7,509
-Robert Adetuyi,5,111,Mishael Morgan,485,Shane Pollard,1642,964,English,Canada,PG-13,10000000,152,4.5,0
-Kari Skogland,76,415,Kevin Zegers,5000,Jim Sturgess,9585,7637,English,UK,R,6000000,2000,6.9,0
-Taedong Park,8,196,Tom Arnold,1000,Drake Bell,162,2259,English,South Korea,,10000000,618,4.8,186
-Paul Schrader,75,520,Ayelet Zurer,30000,Veronica Ferres,3075,31325,English,Germany,R,10000000,744,6.3,589
-Benedikt Erlingsson,66,5,Charlotte Bøving,63,Ingvar Eggert Sigurðsson,1920,81,Icelandic,Iceland,,10000000,10,6.9,1000
-Gurinder Chadha,31,95,Mark Addy,1000,Sendhil Ramamurthy,1250,2227,English,UK,PG-13,10000000,891,5.4,695
-Jason Connery,32,711,Henry Rollins,1000,Ray Winstone,5715,3937,English,USA,R,10000000,898,3.8,486
-Vic Sarin,17,46,Jesse Moss,183,Jimi Mistry,2223,428,English,Canada,R,10000000,136,7.0,746
-Jim Issa,4,482,Luke Perry,670,Elaine Hendrix,553,2739,English,USA,PG-13,10000000,608,5.2,119
-Jee-woon Kim,152,7,Woo-sung Jung,398,Kang-ho Song,26156,569,Korean,South Korea,R,10000000,149,7.3,0
-Douglas Aarniokoski,129,899,Katrina Bowden,1000,Boris Kodjoe,7286,4686,English,USA,R,10000000,948,4.6,0
-William Phillips,15,499,Callum Rennie,764,Tyler Mane,3015,2876,English,Canada,,10000000,716,6.5,850
-Greg Mottola,248,452,Martin Starr,17000,Kristen Stewart,131180,18983,English,USA,R,,985,6.8,0
-Andy Garcia,52,195,Victor Rivers,786,Danny Pino,8369,1674,English,USA,R,9600000,228,6.7,957
-Steve Carr,55,525,Mike Epps,723,John Witherspoon,27492,3939,English,USA,R,9500000,706,6.1,0
-Sarik Andreasyan,30,262,Jordana Brewster,4000,Hayden Christensen,12372,9432,English,Canada,R,10000000,4000,5.2,0
-Lewis Gilbert,130,244,Burt Kwouk,742,Donald Pleasence,75280,2127,English,UK,Approved,9500000,462,6.9,0
-Julian Gilbey,29,1000,Alfie Allen,31000,Mem Ferda,5865,35634,English,UK,R,10000000,1000,6.0,1000
-Michael Haneke,447,319,Emmanuelle Riva,678,Isabelle Huppert,70382,1557,French,France,PG-13,8900000,432,7.9,33000
-Gary Sherman,66,770,Heather O'Rourke,1000,Tom Skerritt,13190,3827,English,USA,PG-13,10500000,887,4.5,616
-Valeri Milev,18,200,Roger Cross,557,Daniella Alonso,1763,1702,English,USA,R,9500000,290,5.1,898
-Stanley Kramer,61,760,Sid Caesar,924,Jonathan Winters,29323,4109,English,USA,Approved,9400000,898,7.6,0
-Pedro Almodóvar,232,82,Lola Dueñas,148,Carmen Maura,76681,448,Spanish,Spain,R,,114,7.6,0
-Gerald Potterton,62,123,Joe Flaherty,187,John Vernon,23516,646,English,Canada,R,9300000,176,6.7,0
-Jared Hess,106,327,Michael Angarano,33000,Jizelle Jade,9006,34398,English,USA,PG-13,,947,6.1,0
-Richard Loncraine,56,1000,Jim Broadbent,21000,Robert Downey Jr.,11612,23962,English,UK,R,6000000,1000,7.5,0
-David Hackl,48,129,Michaela McManus,826,Scott Glenn,4486,1586,English,USA,R,10000000,476,5.3,0
-Anurag Basu,41,303,Steven Michael Quezada,594,Bárbara Mori,9673,1836,English,India,,600000000,412,6.0,0
-Lars von Trier,439,844,Kirsten Dunst,10000,Alexander Skarsgård,128729,15835,English,Denmark,R,7400000,4000,7.1,50000
-Kriv Stenders,54,110,Keisha Castle-Hughes,509,Noah Taylor,13003,1248,English,Australia,PG,8500000,446,7.5,10000
-Yash Chopra,50,1000,Katrina Kaif,8000,Shah Rukh Khan,42296,13762,Hindi,India,Not Rated,7217600,3000,6.9,12000
-Ridley Scott,392,513,Yaphet Kotto,1000,Tom Skerritt,563827,2524,English,UK,R,11000000,581,8.5,23000
-Tobe Hooper,277,177,Edwin Neal,383,Gunnar Hansen,96410,1094,English,USA,R,83532,371,7.5,0
-Floria Sigismondi,259,741,Scout Taylor-Compton,17000,Kristen Stewart,39260,21711,English,USA,R,10000000,908,6.6,0
-Norman Jewison,66,51,Paul Michael Glaser,402,Topol,29839,934,English,USA,G,9000000,343,8.0,0
-Terence Young,129,177,Earl Cameron,244,Desmond Llewelyn,82073,1164,English,UK,Approved,9000000,189,7.0,0
-Joseph Kahn,115,123,Shanley Caswell,14000,Josh Hutcherson,12520,15014,English,USA,R,10000000,383,5.8,0
-Ferzan Ozpetek,81,16,Alessandro Preziosi,580,Riccardo Scamarcio,8667,662,Italian,Italy,,,26,7.3,0
-F. Gary Gray,29,685,Jada Pinkett Smith,890,Vivica A. Fox,10139,3661,English,USA,R,9000000,851,6.8,0
-Malcolm D. Lee,32,862,Sanaa Lathan,1000,Harold Perrineau,6525,5420,English,USA,R,9000000,886,6.7,0
-Tom Holland,142,118,Alex Vincent,311,Catherine Hicks,62038,760,English,USA,R,9000000,189,6.5,0
-Michael Moore,263,184,Tucker Albrizzi,909,Michael Moore,66610,1633,English,USA,PG-13,9000000,203,8.0,0
-James DeMonaco,285,908,Zach Gilford,2000,Noel Gugliemi,92364,6807,English,USA,R,9000000,971,6.5,15000
-Kris Isacsson,64,407,Lauren German,3000,Rosario Dawson,12324,4409,English,USA,PG-13,9000000,683,4.9,580
-Danny Leiner,150,587,Fred Willard,982,Ethan Embry,155262,3114,English,USA,R,9000000,729,7.1,0
-Rod Lurie,136,883,Gary Oldman,12000,Jeff Bridges,20449,25660,English,USA,R,20000000,10000,7.0,1000
-Ben Younger,132,701,Nia Long,14000,Vin Diesel,41313,17336,English,USA,R,8000000,826,7.0,0
-John Landis,71,199,Denholm Elliott,392,Don Ameche,102895,845,English,USA,R,,249,7.5,0
-Glen Morgan,186,179,Crystal Lowe,607,Oliver Hudson,19918,1611,English,USA,R,9000000,318,4.5,0
-Daniel Taplitz,39,127,Tate Taylor,911,Jennifer Esposito,4247,1345,English,USA,PG-13,,150,5.5,266
-Kenneth Branagh,46,130,Derek Jacobi,591,Brian Blessed,23441,1341,English,UK,PG-13,9000000,520,7.7,0
-Tamara Jenkins,201,338,David Zayas,22000,Philip Seymour Hoffman,32188,23770,English,USA,R,,929,7.2,0
-Linda Mendoza,32,571,Freddy Rodríguez,591,Carlos Ponce,3419,2851,English,USA,PG,,579,4.8,419
-Christopher McQuarrie,117,35,Nicky Katt,187,Kristin Lehman,27536,358,English,USA,R,8500000,127,6.7,1000
-Burr Steers,136,471,Rory Culkin,1000,Kieran Culkin,29058,2478,English,USA,R,9000000,710,7.0,838
-Hart Bochner,15,219,Matt Ross,4000,Jon Favreau,10476,4908,English,USA,PG-13,8000000,248,6.5,0
+director_name,actor_3_facebook_likes,actor_1_facebook_likes,gross,movie_title,num_voted_users,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,movie_imdb_link,language,country,content_rating,movie_facebook_likes
+Mennan Yapo,107,826,47852604,Premonition ,62364,1825,Marc Macaulay,0,http://www.imdb.com/title/tt0477071/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Jun Falkenstein,16,304,45542421,The Tigger Movie ,13319,575,Ken Sansom,0,http://www.imdb.com/title/tt0220099/?ref_=fn_tt_tt_1,English,USA,G,347
+Jaume Collet-Serra,602,87000,41573740,Orphan ,141663,88953,Aryana Engineer,1,http://www.imdb.com/title/tt1148204/?ref_=fn_tt_tt_1,English,USA,R,20000
+Boaz Yakin,455,1000,42652003,Max ,18915,2851,Edgar Arreola,0,http://www.imdb.com/title/tt3369806/?ref_=fn_tt_tt_1,English,USA,PG,33000
+,295,607,,Meet the Browns             ,1922,1530,Denise Boutte,2,http://www.imdb.com/title/tt1319598/?ref_=fn_tt_tt_1,English,USA,,211
+Jason Friedberg,729,926,39737645,Epic Movie ,89687,4293,Fred Willard,11,http://www.imdb.com/title/tt0799949/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+John Milius,183,919,37567440,Conan the Barbarian ,113068,2024,Sandahl Bergman,0,http://www.imdb.com/title/tt0082198/?ref_=fn_tt_tt_1,English,USA,R,0
+Tom McCarthy,77,745,44988180,Spotlight ,195333,1058,Brian d'Arcy James,2,http://www.imdb.com/title/tt1895587/?ref_=fn_tt_tt_1,English,USA,R,80000
+Neil LaBute,332,1000,39263506,Lakeview Terrace ,40469,2382,Robert Pine,1,http://www.imdb.com/title/tt0947802/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Takashi Shimizu,464,4000,39143839,The Grudge 2 ,38658,5746,Matthew Knight,0,http://www.imdb.com/title/tt0433386/?ref_=fn_tt_tt_1,English,USA,PG-13,930
+Kevin Rodney Sullivan,232,508,37672350,How Stella Got Her Groove Back ,5427,1660,Barry Shabaka Henley,1,http://www.imdb.com/title/tt0120703/?ref_=fn_tt_tt_1,English,USA,R,0
+Peter Hewitt,636,18000,38037513,Bill & Ted's Bogus Journey ,49680,20188,Alex Winter,2,http://www.imdb.com/title/tt0101452/?ref_=fn_tt_tt_1,English,USA,PG,0
+Barry Levinson,1000,49000,37442180,Man of the Year ,28005,52571,Amy Poehler,1,http://www.imdb.com/title/tt0483726/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Gary Nelson,160,889,,The Black Hole ,18481,2110,Yvette Mimieux,0,http://www.imdb.com/title/tt0078869/?ref_=fn_tt_tt_1,English,USA,PG,4000
+Anton Corbijn,101,978,35596227,The American ,79461,1454,Filippo Timi,1,http://www.imdb.com/title/tt1440728/?ref_=fn_tt_tt_1,English,USA,R,10000
+Gregory Nava,399,565,35422828,Selena ,19126,1735,Jacob Vargas,1,http://www.imdb.com/title/tt0120094/?ref_=fn_tt_tt_1,English,USA,PG,0
+Jason Friedberg,354,759,36658108,Vampires Suck ,39095,2898,Anneliese van der Pol,7,http://www.imdb.com/title/tt1666186/?ref_=fn_tt_tt_1,English,USA,PG-13,16000
+Alejandro G. Iñárritu,51,11000,34300771,Babel ,243799,11248,Dermot Crowley,3,http://www.imdb.com/title/tt0449467/?ref_=fn_tt_tt_1,English,France,R,0
+Shawn Levy,949,2000,34290142,This Is Where I Leave You ,54242,4662,Jane Fonda,8,http://www.imdb.com/title/tt1371150/?ref_=fn_tt_tt_1,English,USA,R,14000
+John Patrick Shanley,652,22000,33422556,Doubt ,99236,33903,Carrie Preston,0,http://www.imdb.com/title/tt0918927/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Trey Parker,406,860,32774834,Team America: World Police ,136048,2609,Trey Parker,5,http://www.imdb.com/title/tt0372588/?ref_=fn_tt_tt_1,English,USA,R,0
+John Luessenhop,322,383,34334256,Texas Chainsaw 3D ,35131,1945,Shaun Sipos,0,http://www.imdb.com/title/tt1572315/?ref_=fn_tt_tt_1,English,USA,R,16000
+Jon Amiel,631,10000,32051917,Copycat ,42315,12338,Harry Connick Jr.,0,http://www.imdb.com/title/tt0112722/?ref_=fn_tt_tt_1,English,USA,R,0
+Malcolm D. Lee,636,31000,32014289,Scary Movie 5 ,50337,34319,Molly Shannon,8,http://www.imdb.com/title/tt0795461/?ref_=fn_tt_tt_1,English,USA,PG-13,13000
+Joshua Logan,417,16000,,Paint Your Wagon ,9352,17775,Ray Walston,3,http://www.imdb.com/title/tt0064782/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Gus Van Sant,755,11000,31838002,Milk ,136673,13189,Lucas Grabeel,1,http://www.imdb.com/title/tt1013753/?ref_=fn_tt_tt_1,English,USA,R,10000
+Kevin Reynolds,47,141,36874745,Risen ,12276,389,María Botto,2,http://www.imdb.com/title/tt3231054/?ref_=fn_tt_tt_1,English,USA,PG-13,21000
+Steve Beck,78,534,30079316,Ghost Ship ,75920,1083,Francesca Rettondini,0,http://www.imdb.com/title/tt0288477/?ref_=fn_tt_tt_1,English,USA,R,0
+Todd Strauss-Schulson,587,786,35033759,A Very Harold & Kumar 3D Christmas ,55008,2462,Paula Garcés,4,http://www.imdb.com/title/tt1268799/?ref_=fn_tt_tt_1,English,USA,R,21000
+John McNaughton,254,13000,29753944,Wild Things ,90677,14275,Jeff Perry,3,http://www.imdb.com/title/tt0120890/?ref_=fn_tt_tt_1,English,USA,R,0
+Nelson McCormick,429,812,29062561,The Stepfather ,23424,3292,Skyler Samuels,0,http://www.imdb.com/title/tt0814335/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+John Madden,22,1000,31146570,The Debt ,55441,1136,Romi Aboulafia,3,http://www.imdb.com/title/tt1226753/?ref_=fn_tt_tt_1,English,USA,R,0
+Stephen Frears,619,1000,27277055,High Fidelity ,143137,3141,Lisa Bonet,0,http://www.imdb.com/title/tt0146882/?ref_=fn_tt_tt_1,English,UK,R,10000
+Eric Valette,270,741,26876529,One Missed Call ,26624,1834,Margaret Cho,1,http://www.imdb.com/title/tt0479968/?ref_=fn_tt_tt_1,English,Japan,PG-13,0
+John Schlesinger,497,1000,53146000,Eye for an Eye ,9845,3174,Philip Baker Hall,1,http://www.imdb.com/title/tt0116260/?ref_=fn_tt_tt_1,English,USA,R,613
+Roger Donaldson,287,26000,30028592,The Bank Job ,152247,27755,Daniel Mays,0,http://www.imdb.com/title/tt0200465/?ref_=fn_tt_tt_1,English,UK,R,0
+Michel Gondry,1000,14000,34126138,Eternal Sunshine of the Spotless Mind ,666937,19364,Tom Wilkinson,1,http://www.imdb.com/title/tt0338013/?ref_=fn_tt_tt_1,English,USA,R,52000
+Andy Fickman,518,2000,25677801,You Again ,41273,4813,Christine Lakin,6,http://www.imdb.com/title/tt1414382/?ref_=fn_tt_tt_1,English,USA,PG,0
+David Ayer,2000,18000,26415649,Street Kings ,94892,33878,Noel Gugliemi,4,http://www.imdb.com/title/tt0421073/?ref_=fn_tt_tt_1,English,USA,R,0
+Edgar Wright,24,177,26003149,The World's End ,185587,278,Jasper Levine,6,http://www.imdb.com/title/tt1213663/?ref_=fn_tt_tt_1,English,UK,R,49000
+Andrew Fleming,650,720,25584685,Nancy Drew ,15877,3327,Tate Donovan,5,http://www.imdb.com/title/tt0479500/?ref_=fn_tt_tt_1,English,USA,PG,590
+Michael Spierig,16,125,29975979,Daybreakers ,105797,189,Tiffany Lamb,0,http://www.imdb.com/title/tt0433362/?ref_=fn_tt_tt_1,English,Australia,R,0
+Jim Field Smith,756,2000,31584722,She's Out of My League ,101730,5707,Geoff Stults,1,http://www.imdb.com/title/tt0815236/?ref_=fn_tt_tt_1,English,USA,R,0
+Thomas Bezucha,350,3000,23179303,Monte Carlo ,32951,4257,Brett Cullen,3,http://www.imdb.com/title/tt1067774/?ref_=fn_tt_tt_1,English,Hungary,PG,6000
+William Brent Bell,806,1000,23078294,Stay Alive ,25870,3590,Samaire Armstrong,0,http://www.imdb.com/title/tt0441796/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Simon Wincer,748,25000,21413105,Quigley Down Under ,15230,45841,Ben Mendelsohn,1,http://www.imdb.com/title/tt0102744/?ref_=fn_tt_tt_1,English,Australia,PG-13,0
+Anthony Bell,518,681,25077977,Alpha and Omega ,10986,2486,Christine Lakin,0,http://www.imdb.com/title/tt1213012/?ref_=fn_tt_tt_1,English,USA,PG,0
+Renny Harlin,637,960,23292105,The Covenant ,39541,3261,Toby Hemingway,0,http://www.imdb.com/title/tt0475944/?ref_=fn_tt_tt_1,English,USA,PG-13,3000
+Jessica Bendinger,733,12000,26870825,Stick It ,22604,14903,John Patrick Amedori,3,http://www.imdb.com/title/tt0430634/?ref_=fn_tt_tt_1,English,Germany,PG-13,0
+Robert Rodriguez,470,87000,20916309,Shorts ,5332,88422,Jake Short,4,http://www.imdb.com/title/tt1100119/?ref_=fn_tt_tt_1,English,USA,PG,431
+Gus Van Sant,458,1000,21200000,To Die For ,34774,3598,Holland Taylor,0,http://www.imdb.com/title/tt0114681/?ref_=fn_tt_tt_1,English,USA,R,1000
+Henry Joost,374,646,28876924,Nerve ,4303,1780,Emily Meade,0,http://www.imdb.com/title/tt3531824/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Ed Harris,107,10000,20207003,Appaloosa ,50198,10507,Tom Bower,0,http://www.imdb.com/title/tt0800308/?ref_=fn_tt_tt_1,English,USA,R,0
+John Carpenter,877,2000,20241395,Vampires ,42664,5123,Maximilian Schell,0,http://www.imdb.com/title/tt0120877/?ref_=fn_tt_tt_1,English,USA,R,0
+,,0,,Yu-Gi-Oh! Duel Monsters             ,12417,0,,0,http://www.imdb.com/title/tt0249327/?ref_=fn_tt_tt_1,Japanese,Japan,,124
+Alfred Hitchcock,285,606,32000000,Psycho ,422432,1885,John Gavin,2,http://www.imdb.com/title/tt0054215/?ref_=fn_tt_tt_1,English,USA,R,18000
+Howard Deutch,490,1000,19151864,My Best Friend's Girl ,36983,3301,Riki Lindhome,3,http://www.imdb.com/title/tt1046163/?ref_=fn_tt_tt_1,English,USA,R,0
+Shana Feste,942,15000,23393765,Endless Love ,31323,18760,Rhys Wakefield,0,http://www.imdb.com/title/tt2318092/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Garry Marshall,949,995,18882880,Georgia Rule ,20539,4039,Jane Fonda,3,http://www.imdb.com/title/tt0791304/?ref_=fn_tt_tt_1,English,USA,R,681
+Steve Rash,281,691,8500000,Under the Rainbow ,2061,1761,Billy Barty,0,http://www.imdb.com/title/tt0083254/?ref_=fn_tt_tt_1,English,USA,PG,501
+Richard Donner,83,2000,,Ladyhawke ,33597,2251,Leo McKern,2,http://www.imdb.com/title/tt0089457/?ref_=fn_tt_tt_1,English,USA,PG-13,0
+Mark Steven Johnson,271,1000,18252684,Simon Birch ,18366,1816,Dana Ivey,2,http://www.imdb.com/title/tt0124879/?ref_=fn_tt_tt_1,English,USA,PG,0
+Mike Binder,905,11000,19661987,Reign Over Me ,83786,17050,John de Lancie,2,http://www.imdb.com/title/tt0490204/?ref_=fn_tt_tt_1,English,USA,R,0
+Sean Penn,826,17000,18352454,Into the Wild ,426359,18752,Hal Holbrook,0,http://www.imdb.com/title/tt0758758/?ref_=fn_tt_tt_1,English,USA,R,76000
+Todd Phillips,579,970,17803796,School for Scoundrels ,26100,4374,Jacinda Barrett,1,http://www.imdb.com/title/tt0462519/?ref_=fn_tt_tt_1,English,USA,PG-13,484
+Michael J. Bassett,206,991,17529157,Silent Hill: Revelation 3D ,49888,2173,Martin Donovan,0,http://www.imdb.com/title/tt0938330/?ref_=fn_tt_tt_1,English,France,R,25000
+Robert Rodriguez,844,16000,25753840,From Dusk Till Dawn ,219091,23296,Cheech Marin,2,http://www.imdb.com/title/tt0116367/?ref_=fn_tt_tt_1,English,USA,R,12000
+Frank Nissen,253,304,18081626,Pooh's Heffalump Movie ,4180,861,John Fiedler,0,http://www.imdb.com/title/tt0407121/?ref_=fn_tt_tt_1,English,USA,G,264
+Jodie Foster,801,21000,17518220,Home for the Holidays ,9105,25263,Steve Guttenberg,1,http://www.imdb.com/title/tt0113321/?ref_=fn_tt_tt_1,English,USA,PG-13,0

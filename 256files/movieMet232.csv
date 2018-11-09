@@ -1,367 +1,207 @@
-num_critic_for_reviews,actor_3_facebook_likes,genres,actor_1_name,actor_3_name,plot_keywords,num_user_for_reviews,language,country,content_rating,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
-157,622,Comedy,Adam Sandler,Will Forte,argument|reference to vanilla ice|statutory rape|teacher student relationship|teacher student sex,198,English,USA,R,70000000,2012,3000,5.6,2.35,12000
-60,40,Action|Adventure|Fantasy,Dennis Quaid,Terry O'Neill,dragon|england|human dragon relationship|king|knight,139,English,USA,PG-13,57000000,1996,663,6.4,2.35,0
-117,455,Action|Comedy|Crime|Drama,Salma Hayek,Chris Penn,diamond|fbi|fbi agent|island|thief,147,English,USA,PG-13,58000000,2004,3000,6.3,2.35,782
-287,1000,Action|Fantasy|Thriller,Nicolas Cage,Christopher Lambert,deal with the devil|devil|eastern europe|ghost rider|monk,331,English,USA,PG-13,57000000,2011,1000,4.3,2.35,18000
-96,58,Drama|Music|Romance|War,Christian Bale,Mihalis Giannatos,captain|greek|island|italian|love,220,English,UK,R,57000000,2001,243,5.9,2.35,0
-26,676,Comedy|Romance,Barry Corbin,Brian Austin Green,anger management|argument|irony|sarcasm|therapist,54,English,USA,,,,701,6.7,16.0,0
-125,650,Action|Comedy|Drama|Family|Thriller,Vin Diesel,Tate Donovan,bodyguard|death of husband|male nanny|nanny|wrestling match,225,English,Canada,PG,56000000,2005,799,5.5,2.35,0
-117,348,Action|Crime,Dwayne Johnson,Michael Bowen,casino|football|sheriff|special forces|violence,221,English,USA,PG-13,56000000,2004,795,6.2,2.35,0
-149,194,Comedy|Drama,Tom Hanks,Sam Anderson,amputee|love|vietnam|vietnam war|war hero,1398,English,USA,PG-13,55000000,1994,294,8.8,2.35,59000
-131,639,Animation|Comedy|Family|Fantasy|Music,Jesse McCartney,Matthew Gray Gubler,based on cartoon|chipmunk|concert|fart joke|talking animal,146,English,USA,PG,60000000,2007,718,5.2,1.85,0
-150,708,Comedy,Robert De Niro,Teri Polo,cat|cia|jewish|male nurse|nurse,507,English,USA,PG-13,55000000,2000,713,7.0,1.85,0
-92,752,Adventure|Animation|Drama|Family|History|Musical|Romance,Christian Bale,Irene Bedard,actor playing multiple roles|love|one word title|unsubtitled foreign language|virginia,216,English,USA,G,55000000,1995,2000,6.6,1.78,0
-169,467,Action|Adventure|Drama|Romance|Sci-Fi,Marlon Brando,Ned Beatty,1970s|clark kent|planet|superhero|year 1978,497,English,USA,PG,55000000,1978,593,7.3,2.35,0
-57,744,Comedy|Romance|Sci-Fi,Jada Pinkett Smith,Dave Chappelle,face slap|formula|overweight|professor|teacher,99,English,USA,PG-13,54000000,1996,773,5.6,1.85,960
-171,681,Comedy|Romance,Will Smith,Kevin Sussman,advice|friendship|gossip|newspaper|quitting a job,372,English,USA,PG-13,70000000,2005,975,6.6,2.35,0
-53,458,Action|Adventure|Comedy|Family|Romance,Brendan Fraser,Holland Taylor,animal companion|heiress|hero|jungle|male objectification,103,English,USA,PG,55000000,1997,562,5.4,1.85,5000
-153,729,Comedy|Romance,Alyson Hannigan,Fred Willard,bachelor party|blow job|breasts|friend|wedding,332,English,USA,R,55000000,2003,864,6.3,2.35,0
-491,186,Biography|Drama|Thriller,Tom Hanks,Michael Chernus,hijacking|hostage|leader|ship|somalia,527,English,USA,PG-13,55000000,2013,535,7.9,2.35,65000
-247,7000,Comedy|Crime|Romance|Thriller,Mila Kunis,Steve Carell,city|new york city|night|reservation|restaurant,207,English,USA,PG-13,55000000,2010,11000,6.3,2.35,0
-26,394,Comedy|Family|Fantasy,Eric Idle,Cathy Moriarty,casper|friendly ghost|ghost|maine|mansion,92,English,USA,PG,50000000,1995,419,6.0,1.85,0
-292,683,Action|Crime|Thriller,Denzel Washington,James Wilcox,assassin|ex soldier|gangster|hanged man|mysterious past,436,English,USA,R,55000000,2014,17000,7.2,2.35,56000
-114,708,Comedy|Drama|Romance,Bob Hoskins,Natasha Richardson,hotel|maid|new york city|place name in title|the bronx,242,English,USA,PG-13,55000000,2002,827,5.1,2.35,0
-82,665,Action|Drama|Thriller|War,Denzel Washington,Ricky Schroder,alabama|mutiny|order|radio|submarine,194,English,USA,R,53000000,1995,10000,7.3,2.35,0
-201,168,Biography|Drama,Will Smith,James Karen,bus|intern|internship|salesman|stockbroker,611,English,USA,PG-13,55000000,2006,617,8.0,2.35,32000
-231,354,Drama|Mystery|Thriller,Erika Christensen,Haley Ramm,captain|flight|flight attendant|plane|search,600,English,USA,PG-13,55000000,2005,507,6.2,2.35,0
-55,383,Drama|Thriller,Demi Moore,Roma Maffia,computer|marriage|non statutory female on male rape|promotion|sexual harassment,95,English,USA,R,55000000,1994,812,6.0,2.35,0
-110,539,Drama|Fantasy|Romance,Nicolas Cage,Colm Feore,angel|doctor|fall|heart surgeon|hospital,322,English,Germany,PG-13,55000000,1998,702,6.7,2.35,0
-354,640,Action,David Carradine,Chiaki Kuriyama,bride|coma|japan|revenge|sword,2105,English,USA,R,30000000,2003,890,8.1,2.35,13000
-140,490,Comedy,Robert Downey Jr.,Jamie Kennedy,film within a film|filmmaking|guerrilla filmmaking|making of a movie|scientology parody,358,English,USA,PG-13,55000000,1999,860,6.4,1.37,0
-77,72,Action|Adventure|Drama|Sci-Fi,Christopher Judge,Gary Jones,2000s|21st century|alternate history|message from outer space|military,181,English,USA,TV-14,1400000,,440,8.4,1.33,0
-304,348,Action|Crime|Drama|Thriller,Vivica A. Fox,Michael Bowen,assassin|assassination|bride|death|vengeance,935,English,USA,R,30000000,2004,387,8.0,2.35,0
-45,403,Action|Comedy|Crime|Thriller,Sylvester Stallone,Brion James,1980s|80s action|escape|plea bargain|prison,149,English,USA,R,55000000,1989,549,6.3,2.35,0
-49,812,Comedy|Fantasy|Horror,Bruce Willis,Isabella Rossellini,plastic surgeon|rejuvenation|revenge|rival|rivalry,173,English,USA,PG-13,55000000,1992,11000,6.4,1.85,8000
-146,95,Action|Adventure|Comedy|Western,Xander Berkeley,Kate Luyben,19th century|chinese|princess|rescue|travel,293,English,USA,PG-13,55000000,2000,110,6.6,2.35,0
-60,263,Action|Adventure|Thriller,Oliver Platt,J.T. Walsh,bomb|hostage|military|plane|terrorist,144,English,USA,R,55000000,1996,780,6.4,2.35,0
-189,497,Comedy|Family|Fantasy,Madeline Carroll,Philip Baker Hall,father|penguin|snowglobe|son|winter,108,English,USA,PG,55000000,2011,549,6.0,1.85,14000
-206,947,Action|Adventure|Fantasy,Jet Li,Michael Angarano,monkey king|staff|teenager|urination|warrior,279,English,USA,PG-13,55000000,2008,962,6.6,2.35,0
-118,562,Adventure|Animation|Comedy|Family,Amy Poehler,Dan Fogler,chipmunk|hunting dog|sabotage|thanksgiving|turkey the bird,73,English,USA,PG,55000000,2013,591,5.9,1.85,0
-210,243,Action|Horror|Sci-Fi,Charles S. Dutton,Paul McGann,alien|crash|planet|prison|survivor,776,English,USA,R,50000000,1992,273,6.4,2.35,0
-76,34,Biography|Drama|History|Musical,Andrea Corr,Peter Polycarpou,actress|argentina|military|politics|singer,194,English,USA,PG,55000000,1996,40,6.3,2.35,0
-149,135,Action|Adventure|Crime|Thriller,Robert De Niro,Michael Lonsdale,case|ex kgb|ronin|russian|suitcase,572,English,UK,R,55000000,1998,2000,7.3,2.35,0
-62,163,Adventure|Drama|Horror|Thriller,Tom Wilkinson,Om Puri,bridge|engineer|hunter|lion|railway,155,English,USA,R,55000000,1996,416,6.8,2.35,0
-224,594,Animation|Comedy|Family|Fantasy,Julie Walters,Sally Hawkins,bear|ear wax cleaning|fake newsreel|paddington station london|taxidermist,174,English,UK,PG,55000000,2014,722,7.2,2.35,30000
-265,537,Action|Comedy|Sci-Fi,Will Forte,Rosemarie DeWitt,alien|escape|manager|neighborhood watch|ohio,207,English,USA,R,68000000,2012,591,5.7,2.35,15000
-135,215,Action|Crime|Drama|Thriller,Connie Nielsen,Rex Linn,capture|combat|fbi|hunter|special forces,321,English,USA,R,55000000,2003,518,6.0,1.85,0
-100,241,Drama|Thriller,Anthony Hopkins,John Ashton,africa|anthropologist|murder|poacher|psychiatrist,232,English,USA,R,55000000,1999,509,6.5,2.35,0
-123,327,Comedy,Matt Damon,Seymour Cassel,actor|conjoined twins|cook|internet|short order cook,154,English,USA,PG-13,55000000,2003,390,5.8,2.35,0
-164,490,Comedy|Sport,Will Ferrell,Matt Walsh,flint michigan|merger|michigan|nba|team,119,English,USA,R,55000000,2008,509,5.8,2.35,0
-238,591,Adventure|Animation|Comedy|Family,Salma Hayek,Brian Blessed,charles darwin|cutlass|pirate|queen victoria|scientist,101,English,UK,PG,55000000,2012,796,6.7,2.35,0
-264,539,Crime|Drama|Mystery|Thriller,Angelina Jolie Pitt,Colm Feore,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,387,English,USA,R,55000000,2008,963,7.8,2.35,14000
-47,581,Action|Drama|Sci-Fi|Thriller,Keanu Reeves,Kevin Dunn,cold fusion|die hard scenario|man with glasses|on the run|outrunning explosion,95,English,USA,PG-13,50000000,1996,11000,5.6,1.85,1000
-50,552,Action|Drama|Sport|Thriller,Robert De Niro,Ellen Barkin,baseball|fan|obsession|salesman|san francisco giants,89,English,USA,R,55000000,1996,617,5.8,2.35,0
-153,530,Drama|Musical|Romance|Thriller,Gerard Butler,Miranda Richardson,based on stage musical based on novel|disfigurement|mask|opera|singer,2047,English,UK,PG-13,70000000,2004,893,7.4,2.35,0
-202,877,Biography|Drama|History|War,Eddie Redmayne,Jordi Mollà,court|intrigue|queen|spain|virgin,216,English,UK,PG-13,55000000,2007,2000,6.9,1.85,0
-178,352,Action|Sci-Fi,Charlize Theron,Paterson Joseph,based on cult favorite|disease|female hero|female protagonist|future,532,English,USA,PG-13,62000000,2005,460,5.5,2.35,0
-84,67,Drama|History|War,Billy Campbell,John Castle,confederacy|hero|prequel|stonewall jackson|war hero,497,English,USA,PG-13,56000000,2003,640,6.3,2.35,953
-44,745,Action|Thriller,Hector Elizondo,Jeffrey DeMunn,airplane|christmas|marshal|pilot|u.s. marshal,84,English,USA,R,71000000,1997,879,4.7,2.35,316
-93,506,Comedy|Drama|Family|Fantasy,Stephen Root,Richard Schiff,blanket|competition|family relationships|feather|sleepover,39,English,USA,PG,55000000,2009,605,5.6,2.35,610
-277,518,Adventure|Comedy|Crime|Family|Musical,Ty Burrell,Hugh Bonneville,europe|frog|gulag|prison break|puppet,110,English,USA,PG,50000000,2014,2000,6.4,1.85,10000
-76,287,Action|Adventure|Comedy|Family|Sci-Fi,Sophia Myles,Brady Corbet,astronaut|island|lady penelope|rescue|the hood,229,English,UK,PG,57000000,2004,579,4.2,1.85,437
-197,676,Drama|Music|Musical|Romance,Eric Dane,David Walton,burlesque|dancer|iowa|small town girl|stage,222,English,USA,PG-13,55000000,2010,828,6.4,2.35,19000
-186,46,Drama|Mystery|Romance|War,Denis Lavant,Albert Dupontel,court martial|death|girl|no man's land|soldier,239,French,France,R,47000000,2004,52,7.7,2.35,0
-103,177,Crime|Drama|Romance,James Mason,Lois Maxwell,lolita|nymphet|older man young girl relationship|professor|writer,207,English,UK,Not Rated,2000000,1962,367,7.7,1.66,0
-66,534,Crime|Horror|Mystery|Thriller,Sylvester Stallone,Charles S. Dutton,drill in the eye|eye gouging|hanged woman|murder|peep hole,142,English,USA,R,55000000,2002,854,5.3,2.35,448
-224,845,Action|Horror|Sci-Fi|Thriller,Norman Reedus,Tony Curran,blade the character|cult film|mutation|vampire|warrior,559,English,USA,R,54000000,2002,919,6.7,1.85,0
-202,835,Drama|Romance,Will Smith,Madison Pettis,boyfriend girlfriend relationship|heart|main character dies|organ donor|redemption,599,English,USA,PG-13,55000000,2008,3000,7.7,2.35,26000
-279,565,Action|Thriller,Sylvester Stallone,Jon Seda,bar|bullet|corruption|detective|lawyer,131,English,USA,R,55000000,2012,11000,5.7,1.85,10000
-110,889,Crime|Drama,Al Pacino,Bridget Fonda,1970s|family relationships|mob hit|opera|repeating history,545,English,USA,R,54000000,1990,1000,7.6,1.85,0
-190,2000,Comedy|Drama|Romance,Orlando Bloom,Judy Greer,flight|flight attendant|kentucky|shoes|travel,495,English,USA,PG-13,57000000,2005,4000,6.4,1.85,0
-136,240,Comedy|Romance,Todd Stashwick,Amanda Detmer,best friend|foot fetish|houseguest|newlywed|wedding,195,English,USA,PG-13,54000000,2006,245,5.6,1.85,0
-121,420,Action|Adventure|Romance|Sci-Fi,Margot Kidder,Jackie Cooper,alien invasion|based on comic book|flying superhero|phantom zone|revenge,269,English,USA,PG,54000000,1980,467,6.8,2.35,0
-131,43,Comedy|Crime|Romance,Todd Giebenhain,David Backus,gangster|hospital|lesbian|mob|thug,418,English,USA,R,54000000,2003,62,2.4,2.35,2000
-127,581,Drama|Thriller,Kate Winslet,Kevin Dunn,governor|journalist|louisiana|mistress|politician,178,English,Germany,PG-13,55000000,2006,12000,6.2,1.85,0
-160,577,Action|Crime|Thriller,Christian Bale,Daniel von Bargen,blaxploitation|detective|drugs|shaft|trial,301,English,Germany,R,46000000,2000,1000,5.9,2.35,0
-78,753,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,Kirsten Dunst,Bernadette Peters,amnesia|reference to anastasia romanov|romanov|russia|russian revolution,191,English,USA,G,50000000,1997,808,7.1,2.35,0
-209,653,Drama|Musical|Romance,Jim Broadbent,Richard Roxburgh,death of main character|eiffel tower paris|jealousy|tragedy|two suitors,2319,English,USA,PG-13,52500000,2001,691,7.6,2.35,10000
-98,303,Crime|Mystery|Thriller,Steve Buscemi,Matt O'Leary,amateur detective|boat builder|boy|stepfather|witness,190,English,USA,PG-13,53000000,2001,708,5.5,2.35,361
-391,3000,Biography|Crime|Drama,Johnny Depp,Adam Scott,based on true story|boston massachusetts|fbi agent|gangster|true crime,289,English,USA,R,53000000,2015,19000,7.0,2.35,44000
-279,310,Drama|History|War,Paul Walker,Tom McCarthy,imperial japan|japan|japanese army|japanese soldier|world war two,415,English,USA,R,90000000,2006,638,7.1,2.35,0
-216,963,Crime|Drama|Thriller,Gerard Butler,Michael Kelly,attorney|deal|district attorney|investigation|justice,429,English,USA,R,50000000,2009,1000,7.4,2.35,21000
-250,1000,Action|Horror|Thriller,Quentin Tarantino,Zoë Bell,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,532,English,USA,R,53000000,2007,3000,7.6,2.35,0
-78,466,Drama|History|Horror,Oprah Winfrey,Hill Harper,farm|freedom|ohio|slavery|spirit,207,English,USA,R,55000000,1998,637,5.9,1.85,853
-106,681,Drama|Romance|Sport,Robert Downey Jr.,Kelvin Han Yee,losing|poker|poker player|reference to frederic chopin|reference to johannes brahms,63,English,USA,PG-13,55000000,2007,3000,5.9,2.35,672
-194,3000,Biography|Crime|Drama,Leonardo DiCaprio,Jennifer Garner,attorney|cat and mouse|fbi|pan am|pilot,667,English,USA,PG-13,52000000,2002,15000,8.0,1.85,15000
-558,304,Drama|History|Thriller,Jennifer Ehle,Parker Sawyers,al qaeda|cia|interrogation|lie|navy seal,640,English,USA,R,40000000,2012,1000,7.4,1.85,39000
-183,931,Comedy|Drama|Romance,Jon Favreau,Ann-Margret,art|break up|football video game|kitchen|talking to one's self in a mirror,483,English,USA,PG-13,52000000,2006,957,5.8,1.85,0
-238,838,Comedy|Family|Musical|Romance,Colin Firth,Julie Walters,bride|greece|island|mediterranean|wedding,611,English,USA,PG-13,52000000,2008,11000,6.3,2.35,10000
-186,11000,Comedy|Romance,Bradley Cooper,Anne Hathaway,flower|indian restaurant|tv station|valentine|valentine's day,211,English,USA,PG-13,52000000,2010,12000,5.7,1.85,9000
-144,379,Action|Adventure|Comedy,Alice Greczyn,Michael Weston,1969 dodge charger|bikini|farm|misogynist|tow truck,612,English,USA,PG-13,50000000,2005,534,5.1,2.35,0
-156,463,Drama|War,Nick Stahl,Dash Mihok,battle|hill|jungle|multiple perspectives|tropical island,1448,English,USA,R,52000000,1998,568,7.6,2.35,0
-215,634,Comedy|Fantasy,Ryan Reynolds,Mircea Monroe,best friend|fountain|law firm|lawyer|sex,149,English,USA,R,52000000,2011,10000,6.4,2.35,13000
-140,21,Biography|Comedy|Drama,Matt Price,Tom Dreesen,andy kaufman|comedian|eccentric|wrestler|wrestling,549,English,UK,R,52000000,1999,27,7.4,2.35,0
-133,574,Biography|Crime|Drama,Robert De Niro,Kevin Pollak,car bomb|card cheat|cash|casino|gambling syndicate,533,English,USA,R,52000000,1995,721,8.2,2.35,11000
-203,75,Action|Thriller,Kasia Smutniak,Rebecca Dayan,ambassador|cia|dinner|spy|terrorist,211,English,France,R,52000000,2010,135,6.5,2.35,0
-127,343,Action|Comedy|Fantasy,Jaime King,Victoria Smurfit,monastery|monk|scroll|tibetan|tibetan monk,180,English,USA,PG-13,52000000,2003,691,5.5,2.35,846
-155,79,Comedy,Robert Forster,Rob Moran,dissociative identity disorder|limousine|multiple personality|police|rhode island,481,English,USA,R,51000000,2000,624,6.5,1.85,0
-98,523,Animation|Comedy|Family,Rob Paulsen,Maurice LaMarche,cow|farmer|howl|howling at the moon|vegetarian,155,English,Germany,PG,51000000,2006,560,5.6,1.85,605
-71,728,Comedy|Family,Matthew Broderick,Alia Shawkat,christmas|december|holiday|massachusetts|neighbor,110,English,USA,PG,,2006,1000,4.9,1.85,1000
-299,12000,Adventure|Drama|Fantasy|Romance,Robert Pattinson,Taylor Lautner,forks washington|protecting a woman|title same as book|vampire|werewolf,919,English,USA,PG-13,50000000,2009,17000,4.6,2.35,13000
-212,21,Adventure|Animation|Comedy|Family|Fantasy,Kathleen Freeman,Bobby Block,donkey|fairy tale|ogre|princess|swamp,945,English,USA,PG,60000000,2001,50,7.9,1.85,0
-413,593,Romance|Sci-Fi|Thriller,Matt Damon,Jon Stewart,love at first sight|obscene finger gesture|rain|teleportation|three word title,407,English,USA,PG-13,50200000,2011,963,7.1,1.85,36000
-67,720,Action|Adventure|Drama|Romance,Alan Rickman,Michael Wincott,balladeer|crusades|england|king|modern minstrel,322,English,USA,PG-13,48000000,1991,11000,6.9,1.85,0
-109,597,Comedy|Drama|Romance|Sport,Tom Cruise,Bonnie Hunt,agent|career|client|fiance|sports agent,318,English,USA,R,50000000,1996,743,7.3,1.85,0
-457,1000,Comedy|Fantasy,Mila Kunis,Tom Skerritt,2010s|car accident|sex scene|teddy bear|testicle,623,English,USA,R,50000000,2012,3000,7.0,1.85,74000
-156,285,Comedy|Drama|Romance,Lupe Ontiveros,Shirley Knight,dog|friendship|neighbor|unlikely friendship|writer,470,English,USA,PG-13,50000000,1997,440,7.7,1.85,11000
-55,878,Biography|Comedy|Drama|Romance,Robin Williams,Monica Potter,doctor|hospital|mental institution|nurse|student,375,English,USA,PG-13,50000000,1998,22000,6.7,2.35,0
-272,7000,Comedy,Harrison Ford,Steve Carell,fame|father son relationship|interracial kiss|interracial relationship|interracial sex,346,English,USA,PG-13,50000000,2013,8000,6.3,2.35,41000
-117,828,Comedy|Romance,Steve Buscemi,Peter Gallagher,abbreviation in title|reporter|small town|sudden wealth|unknowing heir,309,English,USA,PG-13,50000000,2002,11000,5.8,1.85,0
-539,417,Mystery|Sci-Fi|Thriller,Joel Courtney,Zach Mills,deputy|group of friends|time|train|train crash,849,English,USA,PG-13,50000000,2011,560,7.1,2.35,37000
-169,658,Biography|Drama,Julia Roberts,Conchata Ferrell,contamination|corporate crime|environmental issue|female protagonist|working single mother,498,English,USA,R,52000000,2000,883,7.3,1.85,0
-140,651,Comedy|Romance,Matthew McConaughey,Thomas Lennon,advertising executive|diamond|magazine|party|wager,357,English,USA,PG-13,50000000,2003,1000,6.4,1.85,0
-330,584,Action|Comedy|Crime,Channing Tatum,Amber Stevens West,college|drugs|hidden camera|tattoo|undercover,322,English,USA,R,50000000,2014,920,7.1,2.35,24000
-120,4000,Drama|Fantasy|Horror,Brad Pitt,Kirsten Dunst,betrayal|dangerous friend|gothic|monster as victim|vampire,406,English,USA,R,60000000,1994,10000,7.6,1.85,11000
-190,1000,Comedy|Romance,Bradley Cooper,Danny Masterson,best friend|dvd|girlfriend|loan|self help,243,English,USA,PG-13,70000000,2008,11000,6.8,2.35,0
-177,569,Action|Comedy|Crime,Dwayne Johnson,Megan Park,accountant|blooper|espionage|facebook|high school reunion,110,English,USA,PG-13,50000000,2016,919,6.6,2.35,10000
-65,701,Comedy|Drama,Julia Roberts,Herbert Russell,attorney|cancer|custody|fashion photographer|photographer,252,English,USA,PG-13,50000000,1998,818,6.7,2.35,0
-145,322,Comedy|Family,Will Ferrell,Mark L. Young,biological father|dad|drinking|product placement|wilhelm scream,130,English,USA,PG-13,50000000,2015,2000,6.1,1.85,13000
-321,10000,Adventure|Comedy|Drama|Fantasy|Musical,Johnny Depp,Anna Kendrick,based on stage musical|cinderella|little red riding hood|singing|witch,779,English,USA,PG,50000000,2014,11000,6.0,2.39,90000
-230,277,Crime|Drama|Mystery|Thriller,Denzel Washington,Peter Gerety,bank|detective|negotiation|police|robber,646,English,USA,R,45000000,2006,412,7.6,2.35,0
-143,416,Action|Crime|Drama|Thriller,Bill Duke,William Devane,anti hero|criminal|greed|prostitute|tough guy,394,English,USA,R,50000000,1999,495,7.1,2.35,0
-55,293,Action|Adventure|Mystery|Sci-Fi,Dylan Walsh,Grant Heslov,captain|congo|expedition|laser|lost city,147,English,USA,PG-13,50000000,1995,387,5.0,1.85,0
-257,1000,Comedy|Drama|Family,Scarlett Johansson,Stephanie Szostak,blocked road|father son relationship|love at first sight|teenage boy|zookeeper,199,English,USA,PG,,2011,13000,7.1,1.85,22000
-279,329,Drama|Mystery|Sci-Fi|Thriller,Nicolas Cage,Chandler Canterbury,disaster|end of the world|number|student|time capsule,791,English,USA,PG-13,50000000,2009,748,6.2,2.35,0
-143,11000,Comedy|Romance,Bradley Cooper,Zooey Deschanel,friend|intervention|moving|secret|slacker,242,English,USA,PG-13,50000000,2006,11000,5.6,2.35,2000
-196,874,Horror|Mystery,Naomi Watts,Sissy Spacek,cartoon on tv|foreign language adaptation|second part|videotape|writer,560,English,USA,PG-13,,2005,989,5.4,1.85,0
-310,7000,Comedy|Drama|Romance,Ryan Gosling,Steve Carell,bar|divorce|friend|girl|male objectification,292,English,USA,PG-13,50000000,2011,15000,7.4,2.39,44000
-116,58,Animation|Comedy|Family|Fantasy,Bill Murray,Michael Monks,cat|dog|first part|lasagna|veterinarian,232,English,USA,PG,35000000,2004,258,5.0,1.85,795
-105,660,Comedy|Family,Jamie Lee Curtis,Jake Busey,act of kindness|christmas|christmas eve|neighbor|vacation,209,English,USA,PG,60000000,2004,843,5.2,2.35,0
-419,11000,Biography|Drama|Sport,Philip Seymour Hoffman,Brad Pitt,baseball|meeting|statistics|strategy|voice over,312,English,USA,PG-13,50000000,2011,18000,7.6,1.85,27000
-64,808,Action|Drama|Thriller,Kevin Spacey,Rene Russo,disease|epidemic|monkey|quarantine|virus,130,English,USA,R,50000000,1995,11000,6.6,1.85,0
-359,660,Action|Mystery|Thriller,Liam Neeson,Scoot McNairy,air marshal|death|passenger|terrorist|transatlantic flight,384,English,UK,PG-13,50000000,2014,664,7.0,2.35,24000
-166,433,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,Dwayne Johnson,Tom Everett Scott,alien|military|mountain|spacecraft|ufo,110,English,USA,PG,65000000,2009,536,5.7,2.35,0
-525,443,Action|Drama|Thriller,Natalie Portman,Rupert Graves,dystopia|freedom|government|revolution|terrorist,2042,English,USA,R,54000000,2005,979,8.2,2.35,48000
-165,55,Action|Adventure|Comedy,Fann Wong,Georgina Chapman,1880s|arrow|imperial seal|murder|revenge,192,English,USA,PG-13,50000000,2003,131,6.2,2.35,955
-2,132,Crime|Drama,Bernard Hill,Nicola Walker,,9,English,UK,,,,171,7.9,,0
-87,1000,Adventure|Animation|Comedy|Family,Will Ferrell,Alexander Gould,hat|monkey|museum|shrine|yellow,118,English,USA,G,50000000,2006,2000,6.6,1.85,624
-117,541,Adventure|Comedy|Family|Fantasy|Romance|Sport,Scoot McNairy,Cheryl Hines,automobile racing|car|mechanic|nascar|street racing,168,English,USA,G,50000000,2005,651,4.7,1.85,1000
-113,477,Crime|Drama|Mystery|Thriller,Oliver Platt,Conrad Goode,mental institution|post traumatic stress|psychiatrist|vomiting|voyeur,248,English,USA,R,50000000,2001,912,6.3,2.35,970
-349,467,Action|Fantasy|Horror,Jeremy Renner,Ingrid Bolsø Berdal,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power,304,English,Germany,R,50000000,2013,520,6.1,2.35,45000
-152,372,Drama|Thriller,Olivier Martinez,Chad Lowe,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,533,English,USA,R,50000000,2002,593,6.7,1.85,0
-288,144,Action|Adventure|Sci-Fi|Thriller,Alex Pettyfer,Reuben Langdon,based on young adult novel|good versus evil|guardian|human alien|ohio,329,English,USA,PG-13,60000000,2011,348,6.1,1.85,27000
-358,414,Drama|Thriller,Matt Damon,Kayvan Novak,cia|hezbollah|lebanon|oil|prince,625,English,USA,R,50000000,2005,903,7.0,2.35,0
-204,681,Action|Drama|Thriller|War,Toby Stephens,David Costabile,based on true story|cia agent|libya|mercenary|u.s. ambassador,219,English,USA,R,50000000,2016,726,7.4,2.35,44000
-156,679,Adventure|Animation|Comedy|Family|Fantasy|Romance,Channing Tatum,Ana de la Reguera,afterlife|bullfight|bullfighting|love triangle|mexico,102,English,USA,PG,50000000,2014,995,7.3,2.35,18000
-171,935,Crime|Thriller,Jimmy Bennett,Mary Lynn Rajskub,architect|bank|cayman islands|meeting|murder,306,English,USA,PG-13,50000000,2006,11000,5.8,2.35,773
-76,826,Action|Crime|Drama|Thriller,Clint Eastwood,Scott Glenn,death|death of wife|murder|thief|violence,142,English,USA,R,50000000,1997,1000,6.7,2.35,1000
-97,957,Action|Drama|War,Viggo Mortensen,John Michael Higgins,feminism|hit in the crotch|kicked in the crotch|kicked in the testicles|navy,142,English,USA,R,50000000,1997,2000,5.8,2.35,2000
-157,283,Drama|Mystery|Thriller,Deborah Kara Unger,Charles Martinet,birthday|falling through a glass roof|game|hitchcockian|suicide,506,English,USA,R,50000000,1997,294,7.8,2.35,25000
-267,368,Adventure|Horror|Mystery,Radha Mitchell,Alice Krige,gothic|police|police officer|silent hill|sleepwalking,1740,English,Canada,R,50000000,2006,495,6.6,2.35,0
-118,585,Comedy|Sport,Keanu Reeves,Faizon Love,coach|football player|misfits|strike|sumo wrestler,261,English,USA,PG-13,50000000,2000,4000,6.5,1.85,0
-291,1000,Comedy,Alyson Hannigan,Natasha Lyonne,bikini|female female kiss|high school reunion|outdoor sex|upskirt,181,English,USA,R,50000000,2012,1000,6.7,1.85,39000
-68,294,Action|Crime|Drama|Mystery|Thriller,Kevin Spacey,Siobhan Fallon Hogan,hostage|innocence|murder|negotiator|police,279,English,Germany,R,50000000,1998,822,7.3,2.35,3000
-228,159,Action|Thriller,Matt Walsh,Scott Lawrence,danger|graduation|storm|teenage boy|tornado,210,English,USA,PG-13,50000000,2014,298,5.8,1.85,15000
-36,174,Action|Comedy|Crime|Thriller,Louis Lombardi,Gilbert R. Hill,california|counterfeit|counterfeit money|money|theme park,114,English,USA,R,55000000,1994,289,5.5,1.85,669
-105,767,Comedy|Fantasy|Horror,Christopher Lee,Phoebe Cates,gremlin|horror host|hulk hogan|monster|skyscraper,148,English,USA,PG-13,50000000,1990,823,6.3,1.85,0
-276,3000,Crime|Drama,Robert Downey Jr.,Leighton Meester,courtroom|dysfunctional family|indiana|lawyer|trial,275,English,USA,R,50000000,2014,3000,7.4,2.35,47000
-93,258,Action|Thriller,Armin Mueller-Stahl,Marcel Iures,nuclear explosion|nuclear weapon|russia|train|train crash,156,English,USA,R,50000000,1997,273,5.9,2.35,0
-191,706,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Mike Epps,cover up|monster|strong female character|strong female lead|zombie apocalypse,672,English,Germany,R,45000000,2004,919,6.2,2.35,0
-143,186,Comedy|Drama|Romance,Colin Firth,Celia Imrie,american actress playing british character|intern|prison|six word title|thailand,259,English,UK,R,40000000,2004,1000,5.9,2.35,0
-124,323,Crime|Drama|Romance|Thriller,Denzel Washington,John Billingsley,cancer|florida|insurance|life insurance policy|small town,157,English,USA,R,50000000,2003,886,6.5,2.35,1000
-47,158,Action|Adventure|Thriller,Mike Starr,Sven-Ole Thorsen,environmental|murder|oil|oil spill|tribe,140,English,USA,R,50000000,1994,643,4.4,2.35,812
-66,717,Action|Adventure|Family|Fantasy,Taylor Lautner,Taylor Dooley,boy|bully|dream|dream sequence|planet,177,English,USA,PG,50000000,2005,722,3.5,1.85,0
-118,39,Adventure|Drama|Thriller,Leonardo DiCaprio,Peter Youngblood Hills,love|map|paradise|thailand|travel,548,English,USA,R,50000000,2000,414,6.6,2.35,0
-93,434,Comedy|Drama|Romance,Amber Valletta,Spencer Breslin,fashion show|female protagonist|love|pastor|queens new york city,106,English,USA,PG-13,50000000,2004,508,6.0,1.85,718
-235,72,Action|Crime|Thriller,Shô Kosugi,Rain,critically bashed|kung fu|martial artist|martial arts|ninja,194,English,USA,R,40000000,2009,119,6.4,2.35,0
-113,432,Drama|Romance|Sport,J.K. Simmons,Carmine Giovinazzo,baseball|baseball movie|detroit tigers|perfect game|pitcher,226,English,USA,PG-13,50000000,1999,743,6.5,2.35,0
-14,5,Crime|Drama|Mystery,David Jason,John Lyons,cult tv|death|detective inspector|four word title|internal affairs,33,English,UK,,,,7,7.8,1.33,361
-51,210,Comedy|Crime|Drama|Thriller,Demi Moore,Paul Guilfoyle,bouncer|breasts|congressman|private dancer|stripper,118,English,USA,R,40000000,1996,472,4.3,1.85,877
-98,1000,Comedy|Family,Emma Stone,Steve Coogan,dog|great dane|rivalry|talking animal|talking cat,65,English,USA,PG,50000000,2010,2000,4.2,2.35,0
-315,447,Drama|Fantasy,Matt Damon,Cécile De France,death|france|near death experience|tsunami|twin brother,323,English,USA,PG-13,50000000,2010,563,6.5,2.35,16000
-136,401,Crime|Mystery|Thriller,Ryan Gosling,Agnes Bruckner,disposing of a dead body|high school student|murder|sociopath|teenage boy,302,English,USA,R,50000000,2002,455,6.1,1.85,0
-61,282,Action|Crime|Thriller,Muse Watson,Kelly Rowan,assassin|floppy disk|modem|rival|russian,84,English,France,R,50000000,1995,13000,6.3,1.85,0
-209,163,Crime|Drama|Thriller,Li Gong,Richard Brake,aunt|cannibalism|faked death|medical student|revenge,392,English,UK,R,50000000,2007,184,6.2,2.35,3000
-99,323,Comedy|Drama|Romance,Bruce Willis,Rita Wilson,four word title|husband wife relationship|male rear nudity|marriage|summer camp,150,English,USA,R,50000000,1999,559,5.9,1.85,0
-298,201,Action|Adventure|Romance|Sci-Fi|Thriller,J.D. Evermore,Rachel Roberts,alien|alien creature|body snatching|desert|parasite,347,English,USA,PG-13,40000000,2013,329,5.9,2.35,43000
-131,511,Action|Crime|Drama|Mystery|Thriller,Connie Nielsen,Tim Daly,2000s|army|military crime|necklace yanked off|panama,286,English,Germany,R,50000000,2003,631,6.5,2.35,0
-146,581,Action|Crime|Drama|Mystery|Thriller,Clint Eastwood,Rick Hoffman,boat|heart transplant|murder|serial killer|sister,260,English,USA,R,50000000,2002,1000,6.4,2.35,705
-245,294,Action|Crime|Drama|Mystery|Thriller,Naomi Watts,Armin Mueller-Stahl,bank|chase|district attorney|interpol|murder,190,English,USA,R,50000000,2009,450,6.5,2.35,0
-104,764,Action|Adventure|Sci-Fi|Thriller,Steve Buscemi,Michelle Forbes,escape|island|los angeles california|machismo|president's daughter,227,English,USA,R,50000000,1996,898,5.7,2.35,0
-4,398,Drama|Mystery|Thriller,Grey Damon,Aaron Hill,,22,English,USA,,,,512,7.5,16.0,915
-162,521,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Vin Diesel,M. Emmet Walsh,boy|friend|government agent|maine|robot,514,English,USA,PG,70000000,1999,631,8.0,2.35,0
-259,639,Adventure|Comedy|Drama,Bill Murray,Matthew Gray Gubler,expedition|oceanographer|sea|shark|team,632,English,USA,R,50000000,2004,1000,7.3,2.35,0
-79,303,Action|Biography|Drama|History|War,Matthew McConaughey,Jessica Collins,american civil war|civil war|u.s. civil war,47,English,USA,R,50000000,2016,552,6.7,1.85,10000
-141,256,Crime|Drama|Thriller,Kevin Spacey,Matt Craven,activist|death|death row|murder|texas,420,English,USA,R,50000000,2003,14000,7.5,2.35,0
-59,730,Action|Comedy,Christina Milian,Kelli Garner,cheerleader|cheerleading movie|neo noir|neo western|texas ranger,94,English,USA,PG-13,40000000,2005,923,5.4,2.35,779
-236,655,Action|Crime|Drama|Thriller,Liam Neeson,Bruce McGill,death|drug dealer|limousine|limousine driver|one night,205,English,USA,R,50000000,2015,988,6.6,2.35,15000
-356,509,Crime|Mystery|Thriller,Viggo Mortensen,Raza Jaffrey,male pubic hair|pubic hair|russian|sex scene|turkish bath,398,English,USA,R,25000000,2007,6000,7.7,1.85,0
-120,795,Action|Adventure|Crime|Thriller,Paul Walker,Ashley Scott,bahamas|blood splatter|cocaine|hairy chest|shark,208,English,USA,PG-13,50000000,2005,1000,5.8,2.35,0
-111,15,Adventure|Biography|Drama|History|War,Paul Brooke,Rab Affleck,cathedral|dauphin|france|trial|wartime rape,390,English,France,R,390000000,1999,40,6.4,2.35,0
-208,11000,Adventure|Comedy|Fantasy,Natalie Portman,James Franco,knight|prince|quest|rescue|thong bikini,274,English,USA,R,49900000,2011,11000,5.6,2.35,18000
-174,692,Drama|Mystery|Thriller,Naomi Watts,Sarah Gadon,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train,137,English,USA,PG-13,55000000,2011,694,6.0,2.35,0
-59,317,Crime|Drama|Thriller,Mia Kirshner,William Atherton,hostage|museum|natural history museum|news reporter|reporter,73,English,USA,PG-13,50000000,1997,713,6.2,2.35,697
-22,479,Adventure|Comedy|Crime|Drama|Family,Joe Mantegna,Cynthia Nixon,baby|baby boy|kidnapping|kidnapping a child|taxi,78,English,USA,PG,50000000,1994,619,5.9,1.85,0
-34,2000,Drama|Romance,Gary Oldman,Demi Moore,17th century|adultery|letter|pubic hair|swimming,90,English,USA,R,50000000,1995,3000,5.1,2.35,943
-214,405,Biography|Drama|Thriller,Naomi Watts,Brooke Smith,bush administration|cia|interview|iraq|new york times,127,English,USA,PG-13,22000000,2010,3000,6.8,2.35,9000
-28,600,Action|Drama|Sci-Fi,Julie Benz,Grant Bowler,alien|alien invasion|planet invasion|post apocalypse|year 2046,149,English,USA,TV-MA,,,845,7.0,1.78,0
-186,897,Action|Biography|Crime|Drama|Thriller,Ian Ziering,Edgar Ramírez,bounty hunter|fbi|female bounty hunter|female nudity|reality show,374,English,France,R,50000000,2005,940,6.0,2.35,0
-50,602,Crime|Drama|Thriller,Michael Biehn,Linda Fiorentino,blackmail|investigation|murder|panties pulled down|prostitution,70,English,USA,R,50000000,1995,979,5.1,1.85,422
-180,1000,Action|Sci-Fi|Thriller,Gerard Butler,Alison Lohman,battle|convict|death|mind control|role playing,245,English,USA,R,50000000,2009,8000,5.8,1.85,0
-231,592,Drama|Fantasy|Romance,Alden Ehrenreich,Pruitt Taylor Vince,dream|escape|magic|magic spell|small town,258,English,USA,PG-13,60000000,2013,852,6.2,2.35,14000
-105,809,Comedy|Crime|Drama|Thriller,Robin Williams,Danny Woodburn,children|children's tv show|money|revenge|scandal,341,English,UK,R,55000000,2002,811,6.4,1.85,0
-226,1000,Comedy,Milla Jovovich,Justin Theroux,chosen one|fashion|fashion model|model|retired,150,English,USA,PG-13,50000000,2016,8000,4.8,2.35,28000
-75,338,Comedy|Crime,Morgan Freeman,Willie Nelson,breasts|consensual sex|female nudity|judge|surfer,93,English,USA,PG-13,50000000,2004,387,4.9,2.35,288
-82,591,Comedy|Sci-Fi,Judy Greer,Garry Shandling,alien|baby|banker|pregnancy|question in title,91,English,USA,R,50000000,2000,602,5.6,1.85,255
-296,982,Action|Fantasy|Thriller,Nicolas Cage,Katy Mixon,baby|cult|oklahoma|sex scene|waitress,211,English,USA,R,50000000,2011,2000,5.5,1.85,15000
-103,77,Action|Crime|Drama|Mystery|Thriller,Chris Klein,Josie Ho,chun li|crime fighter|gangster|mobster|rescue,179,English,Canada,PG-13,18000000,2009,342,3.7,2.35,0
-98,848,Action|Sci-Fi|Thriller,Jason Statham,Delroy Lindo,fight|multiverse|police|police officer|prison,294,English,USA,PG-13,49000000,2001,5000,5.9,2.35,0
-30,184,Drama|Romance|Sci-Fi,Tobias Menzies,Stephen Walters,based on novel|clan|scotland|scottish highlands|year 1743,148,English,USA,TV-MA,,,531,8.5,16.0,31000
-48,380,Action|Adventure|Comedy|Crime|Music|Mystery,Lauren Holly,David Patrick Kelly,detective|groupie|murder|music industry|rock n roll,113,English,USA,R,40000000,1990,560,6.3,2.35,2000
-195,830,Comedy|Drama|Music,Philip Seymour Hoffman,Tom Sturridge,inspired by radio program|inspired by true events|pirate broadcasting|pirate radio|pirate radio station,209,English,UK,R,,2009,882,7.4,2.35,21000
-223,215,Crime|Drama|Thriller,Michael O'Neill,James Lew,cocaine|drug smuggling|interlinked stories|judge|mexico,867,English,USA,R,48000000,2000,399,7.6,1.85,0
-149,440,Action|Adventure|Fantasy,Harrison Ford,Alison Doody,castle|diary|holy grail|map|nazi,477,English,USA,PG-13,48000000,1989,844,8.3,2.35,0
-324,0,Drama|Romance,Kelly Macdonald,Matthew Macfadyen,dance|infidelity|marriage|russia|russian,226,English,UK,R,,2012,35,6.6,2.35,36000
-371,502,Action|Crime|Drama|Sci-Fi|Thriller,Hugh Jackman,Jose Pablo Cantillo,artificial intelligence|consciousness|future|mind uploading|robot,627,English,USA,R,49000000,2015,2000,6.9,2.35,67000
-75,308,Crime|Drama|Mystery|Thriller,Denzel Washington,Leland Orser,new york city|police|quadriplegic|serial killer|suicide,397,English,USA,R,48000000,1999,11000,6.7,2.35,0
-233,237,Crime|Drama|Thriller,Kristen Stewart,Mel Rodriguez,brownstone|burglar|money|panic|panic room,850,English,USA,R,48000000,2002,324,6.8,2.35,0
-32,235,Horror|Thriller,P.J. Soles,Steve Bacic,bare breasts|genital dismemberment|mulching someone|tooth fairy|woodchipper,32,English,USA,,1500000,2006,555,4.6,1.78,352
-150,393,Action|Adventure|Comedy|Drama|War,Judy Greer,Mykelti Williamson,gold|gulf war|iraq|kuwait|map,560,English,USA,R,48000000,1999,490,7.1,2.35,3000
-172,194,Crime|Drama|Thriller,Tom Hardy,Michael Nardone,child murderer|murder|sex|soviet union|woman slaps a man,185,English,Czech Republic,R,50000000,2015,254,6.4,2.35,18000
-103,261,Adventure|Comedy,Corinna Harney,Vince Vieluf,casino|locker|money|museum|race,497,English,Canada,PG-13,48000000,2001,629,6.4,2.35,0
-140,1000,Drama|Mystery|Sci-Fi,Kevin Spacey,Alfre Woodard,extraterrestrial|hospital|patient|planet|science,537,English,USA,PG-13,48000000,2001,12000,7.4,2.35,0
-125,821,Comedy|Fantasy|Romance,Hugh Jackman,Bradley Whitford,bridge|brooklyn bridge|falling down an elevator shaft|time travel|time travel romance,316,English,USA,PG-13,48000000,2001,1000,6.4,1.85,0
-125,484,Comedy|Fantasy|Romance,Brendan Fraser,Brian Doyle-Murray,contract|devil|dream|soul|wish,254,English,USA,PG-13,48000000,2000,575,6.0,2.35,0
-36,886,Crime|Drama|Music,Nicolas Cage,Fred Gwynne,brothers hugging|jazz|jealousy|nudity|parole violation,84,English,USA,R,58000000,1984,5000,6.5,1.85,828
-295,600,Adventure|Crime|Drama|Western,Christian Bale,Gretchen Mol,outlaw|rancher|small western town|stagecoach|train,560,English,USA,R,55000000,2007,8000,7.8,2.35,0
-222,482,Action|Thriller,Liam Neeson,Jon Gries,betrayal|death|final showdown|murder|on the run,323,English,France,PG-13,48000000,2014,794,6.0,2.35,38000
-158,23,Crime|Drama|Romance|Thriller,Don Cheadle,Keith Hudson,heist|neo noir|one last job|opposites attract|u.s. marshal,307,English,USA,R,48000000,1998,745,7.0,1.85,0
-72,302,Comedy|Drama|Thriller,Matthew Broderick,Andy Dick,cable guy|foreplay|friend|kissing|television,345,English,USA,PG-13,47000000,1996,1000,6.0,2.35,0
-34,59,Drama|Romance|War,Nandita Das,Eric Peterson,friend|hindu|india|muslim|sikh,55,Hindi,India,Unrated,,1998,102,7.8,,522
-72,327,Action|Comedy|Crime|Music|Romance|Thriller,Charlie Korsmo,Seymour Cassel,crime boss|detective|dick tracy|gangster|orphan,164,English,USA,PG,100000000,1990,631,6.1,1.85,2000
-152,835,Crime|Romance|Thriller,Mark Margolis,Denis Leary,art|insurance investigator|martinique|painting|trust,419,English,USA,R,48000000,1999,977,6.8,2.35,0
-89,807,Biography|Comedy|Drama,Rosie Perez,Alissa Dean,boy|college|heroin|working class|writer,210,English,USA,PG-13,48000000,2001,811,6.4,1.85,0
-145,535,Action|Adventure|Drama,Sylvester Stallone,Chris Mulkey,1980s|colonel|deputy|rambo|sheriff,376,English,USA,R,14000000,1982,954,7.7,2.35,0
-144,12,Drama|Mystery|Sci-Fi,Donatas Banionis,Natalya Bondarchuk,hallucination|ocean|psychologist|scientist|space station,236,Russian,Soviet Union,PG,1000000,1972,29,8.1,2.35,0
-93,677,Adventure|Animation|Comedy|Family|Fantasy,Sarah Michelle Gellar,Rob Paulsen,apostrophe in title|cinderella|first of series|punctuation in title|three word title,71,English,USA,PG,47000000,2006,769,4.5,1.85,261
-46,77,Drama|Horror|Romance|Thriller,Julia Roberts,George Cole,19th century|butler|housemaid|laboratory|servant,97,English,USA,R,47000000,1996,115,5.8,1.85,616
-84,692,Comedy|Romance,Julia Roberts,Rupert Everett,best friend|chick flick|male female friendship|promise|wedding,169,English,USA,PG-13,46000000,1997,1000,6.3,2.35,0
-142,135,Comedy|Romance,Julia Roberts,Larry King,actor|love|movie star|press|publicist,343,English,USA,PG-13,48000000,2001,973,5.7,2.35,881
-185,319,Drama|Mystery|Thriller,Al Pacino,Crystal Lowe,detective|insomnia|murder|partner|police,651,English,USA,R,46000000,2002,509,7.2,2.35,0
-143,906,Action|Adventure|Drama|Sci-Fi|Thriller,LeVar Burton,Jonathan Frakes,21st century|borg|borg sphere|captain|sphere,286,English,USA,PG-13,45000000,1996,1000,7.6,2.35,3000
-178,364,Action|Drama|Fantasy|Thriller|Western,Michael Fassbender,Julia Jones,confederate|death|independence day|military|terrorist,176,English,USA,PG-13,47000000,2010,541,4.7,2.35,0
-65,826,Action|Drama|Mystery|Thriller|War,Denzel Washington,Scott Glenn,bravery|honor|medal of honor|military life|unreliable flashback,107,English,USA,R,46000000,1996,13000,6.6,1.85,975
-73,255,Comedy|Fantasy|Romance,Maura Tierney,Randall 'Tex' Cobb,birthday|birthday wish|father disappoints child|lie|workaholic,243,English,USA,PG-13,45000000,1997,418,6.8,1.85,0
-72,345,Biography|Crime|Drama|Thriller,Joseph Gilgun,Olympia Dukakis,,29,English,UK,R,25000000,2016,423,7.3,2.35,0
-10,522,Drama|History|War,Laurence Olivier,Jacqueline Bisset,1950s|douglas macarthur|general|inchon|invasion,16,English,South Korea,PG,48000000,1981,623,2.7,2.35,115
-35,628,Comedy|Family|Fantasy,Jonathan Winters,Harvey Korman,1000000 b.c.|box office hit|lawn mowing|product placement|stone age,85,English,USA,PG,45000000,1994,664,4.8,1.33,0
-358,558,Action|Crime|Thriller,Liam Neeson,D.B. Sweeney,albanian|revenge|revenge motive|teenage daughter|vacation,461,English,France,PG-13,45000000,2012,935,6.3,2.35,63000
-151,750,Comedy,Regina Hall,Jenny McCarthy,crop circle|farm|orchestral music score|reference to michael jackson|videotape,347,English,USA,PG-13,48000000,2003,780,5.5,1.85,0
-140,213,Action|Comedy|Crime|Romance,Candice Bergen,Heather Burns,beauty pageant|fbi|female agent|pageant|undercover,370,English,USA,PG-13,45000000,2000,337,6.2,1.85,0
-201,311,Action|Adventure|Family|Fantasy|Sci-Fi,Josh Hutcherson,Anita Briem,cave|lost world|missing brother|mountain|venus flytrap,212,English,USA,PG,45000000,2008,3000,5.8,1.85,0
-77,995,Comedy|Family|Romance,Anne Hathaway,Hector Elizondo,coronation|horse|princess|queen|side saddle,152,English,USA,G,40000000,2004,1000,5.7,1.85,1000
-43,956,Crime|Drama|Mystery|Thriller,Denzel Washington,Tony Goldwyn,college professor|fbi|president|professor|supreme court,89,English,USA,PG-13,45000000,1993,8000,6.5,2.35,0
-39,551,Crime|Drama|Mystery|Thriller,Bradley Whitford,Brad Renfro,boy|brother|lawyer|mafia|senator,94,English,USA,PG-13,45000000,1994,577,6.7,2.35,1000
-207,760,Adventure|Comedy|Drama,Morgan Freeman,Sean Hayes,billionaire|friend|hospital|list|mechanic,310,English,USA,PG-13,45000000,2007,2000,7.4,1.85,22000
-47,308,Action|Thriller,Harrison Ford,Patrick Bergin,analyst|cia|ira|terrorist|terrorist attack,137,English,USA,R,45000000,1992,530,6.9,2.35,0
-132,586,Comedy|Romance,Adam Scott,Elaine Stritch,breakdown|fight|mother in law|scheme|wedding,228,English,Germany,PG-13,60000000,2005,949,5.5,2.35,0
-454,1000,Crime|Drama|Mystery|Thriller,Hugh Jackman,Dylan Minnette,child abduction|detective|investigation|police|sex offender,620,English,USA,R,46000000,2013,15000,8.1,1.85,86000
-109,854,Crime|Drama|Thriller,Denzel Washington,Tom Berenger,lapd|narc|narcotics|title spoken by character|training,633,English,USA,R,45000000,2001,881,7.7,2.35,0
-213,436,Adventure|Comedy|Sci-Fi,Alan Rickman,Robin Sachs,alien|alien race|convention|fan|general,609,English,USA,PG,45000000,1999,724,7.3,2.35,19000
-127,179,Comedy,Natasha Lyonne,Andy Richter,blow job|demon|exorcism|priest|professor,548,English,USA,R,45000000,2001,422,5.2,1.85,0
-398,84,Adventure|Comedy|Family|Musical,Bill Cobbs,Steve Whitmire,bel air california|book|friends who live together|the muppets|tribute band,252,English,USA,PG,45000000,2011,91,7.1,1.85,26000
-184,595,Action|Horror,Sanaa Lathan,Udo Kier,1990s|blade|blood|vampire|vampire hunter,582,English,USA,R,45000000,1998,650,7.1,2.35,0
-127,730,Drama|Sport,Channing Tatum,Robert Ri'chard,basketball|basketball coach|coach|contract|high school,209,English,USA,PG-13,30000000,2005,807,7.2,2.35,0
-167,67,Drama|Thriller,Sydney Pollack,Bruce Altman,car accident|feud|lawyer|revenge|road rage,350,English,USA,R,45000000,2002,108,6.5,2.35,0
-119,514,Action|Adventure|Horror|Thriller,Frank Welker,Kari Wuhrer,amazon|anaconda|boat|jungle|snake,271,English,USA,PG-13,45000000,1997,902,4.6,2.35,0
-155,560,Comedy|Drama|Music|Romance,Adam Garcia,Izabella Miko,girl in panties|lift skirt|sexual attraction|short shorts|songwriter,379,English,USA,PG-13,45000000,2000,625,5.6,2.35,0
-218,548,Comedy|Drama|Romance,Colin Firth,Kris Marshall,aging rocker|christmas|love at first sight|minister|prime minister,1004,English,UK,R,45000000,2003,14000,7.7,2.35,52000
-117,1000,Adventure|Animation|Comedy|Family|Fantasy,Kevin Spacey,John Ratzenberger,ant|circus|grasshopper|misunderstanding|overhearing,317,English,USA,G,120000000,1998,1000,7.2,2.35,0
-208,140,Horror|Mystery|Thriller,Johnny Depp,Ian Richardson,freemason|jack the ripper|opium|prostitute|victorian era,541,English,USA,R,35000000,2001,1000,6.8,2.35,0
-38,20,Action|Crime|Drama|Romance|Thriller,Sylvester Stallone,Emilio Estefan Jr.,bomb|cia|explosive|explosives expert|miami florida,116,English,Peru,R,45000000,1994,279,5.4,1.85,0
-48,808,Comedy|Drama|Romance|Sport,Don Johnson,Rene Russo,driving range|golf|golfer|tournament|winnebago,73,English,USA,R,45000000,1996,843,6.3,2.35,1000
-8,559,Comedy|Family,Lucille Ball,Tim Matheson,nurse|parent|sibling|widow|widower,61,English,USA,Unrated,2500000,1968,584,7.2,1.85,0
-94,3000,Comedy|Family|Romance|Sport,Josh Hutcherson,Robert Duvall,book|child|slapstick comedy|soccer|suburb,118,English,USA,PG,45000000,2005,8000,5.6,2.35,743
-276,651,Adventure|Comedy|Sci-Fi,Zooey Deschanel,Thomas Lennon,alien|friend|galaxy|hyperspace|spaceship,1053,English,USA,PG,50000000,2005,2000,6.8,2.35,10000
-59,631,Comedy|Family|Fantasy|Romance,Dania Ramirez,Alice Greczyn,animated sequence|junkyard|love|party|television,91,English,USA,PG,26000000,2004,641,4.3,2.35,531
-216,443,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,James Tumminia,clone|convoy|crow|desert|satellite,348,English,France,R,45000000,2007,706,6.3,2.35,0
-173,734,Comedy|Romance,Bella Thorne,Joel McHale,blind date|children|date|daughter|son,184,English,USA,PG-13,40000000,2014,11000,6.5,1.85,12000
-99,501,Adventure|Comedy|Drama,LL Cool J,Timothy Hutton,chef|congressman|cook|hotel|senator,116,English,USA,PG-13,45000000,2006,976,6.4,2.35,0
-42,132,Action|Adventure|Crime|Thriller,Meryl Streep,William Lucking,criminal|rafting|river|robber|white water rafting,69,English,USA,PG-13,45000000,1994,894,6.3,2.35,0
-25,563,Drama|Family|Fantasy,Steve Coogan,David Keith,best friend|birthday|boy|friend|magic,47,English,USA,PG,45000000,1995,845,5.9,1.85,0
-339,404,Crime|Drama|Thriller,Demián Bichir,Gary Stretch,arms tied overhead|damsel in distress|dea|marijuana|southern california,269,English,USA,R,45000000,2012,463,6.5,2.35,28000
-127,167,Action|Crime|Thriller,Richard Burgi,Will Beinbrink,cell phone|distress signal|family in danger|police|stealing a car,355,English,USA,PG-13,25000000,2004,216,6.5,2.35,2000
-122,252,Action|Adventure|Comedy,Kevin McNally,Ben Miller,british|crown jewels|explosion|funeral|spy,285,English,UK,PG,35000000,2003,304,6.1,1.85,2000
-105,8000,Adventure|Animation|Comedy|Family|Fantasy,Nicolas Cage,Julia Roberts,ant|miniaturization|punishment|shrinking|sudden change in size,70,English,USA,PG,50000000,2006,11000,5.9,1.85,593
-144,202,Action|Adventure|Sci-Fi,Virginia Madsen,José Ferrer,desert planet|dune|giant worm|space travel|spice,569,English,USA,PG-13,40000000,1984,362,6.6,2.35,11000
-156,107,Drama|Fantasy|Musical|Romance,Jim Sturgess,Robert Clohessy,anti war|liverpool|love|protest|song,524,English,USA,PG-13,45000000,2007,117,7.4,2.35,14000
-323,10000,Drama|Romance,Leonardo DiCaprio,Joe Komara,based on novel|children|connecticut|suburb|work,414,English,USA,R,35000000,2008,14000,7.3,2.35,0
-199,795,Action|Crime|Drama|Thriller,Bruce Willis,Sasha Roiz,alcoholic|courthouse|detective|jail|witness,305,English,Germany,PG-13,52000000,2006,929,6.6,2.35,0
-164,510,Action|Adventure|Sci-Fi|Thriller,Vin Diesel,David Belle,box office flop|convent|mercenary|new york|pregnant,214,English,France,PG-13,70000000,2008,844,5.6,2.35,0
-39,322,Action|Comedy|Crime|Drama|Thriller,Alexa PenaVega,Keenen Ivory Wayans,detective|heavy rain|murder|partner|serial killer,80,English,USA,R,45000000,1996,461,5.3,1.85,451
-43,451,Comedy|Romance|Sci-Fi,John de Lancie,Obba Babatundé,clone|cloning|construction|same actor playing two characters simultaneously on screen|year 1996,81,English,USA,PG-13,45000000,1996,484,6.0,2.35,0
-82,553,Adventure|Comedy|Family|Fantasy|Sci-Fi,Malese Jow,Tim Meadows,alien|attic|boyfriend|mind control|nintendo ds,55,English,USA,PG,45000000,2009,701,5.4,1.85,916
-150,19,Crime|Drama|Mystery|Thriller,Costas Mandylor,Nels Lennarson,nevada|pledge|police|porcupine|search,531,English,USA,R,45000000,2001,44,6.8,2.35,0
-168,2000,Comedy|Musical,Jon Lovitz,Matthew Broderick,accountant|money|opening night|scheme|swedish,409,English,USA,PG-13,45000000,2005,8000,6.4,2.35,0
-432,20,Action|Sci-Fi,Wood Harris,Rakie Ayola,brutality|dark humor|female antagonist|female warrior|post apocalypse,588,English,UK,R,35000000,2012,107,7.1,2.35,46000
-60,579,Action|Adventure|Comedy|Fantasy,Cary-Hiroyuki Tagawa,Kristy Swanson,ghost|new york city|phantom|skull|superhero,148,English,Australia,PG,45000000,1996,642,4.9,2.35,0
-85,820,Drama|Romance|Western,Matt Damon,Sam Shepard,1940s|cowboy|mexico|railway station|texas,183,English,USA,PG-13,57000000,2000,861,5.8,2.35,652
-83,805,Biography|Drama|History,Anthony Hopkins,Joan Allen,courtship|election|paranoia|president|quaker,161,English,USA,R,50000000,1995,5000,7.1,2.35,915
-343,501,Mystery|Thriller,Jim Belushi,Timothy Hutton,british prime minister|death|island|memoir|writer,349,English,France,PG-13,45000000,2010,766,7.2,2.35,15000
-106,855,Action|Adventure|Horror|Sci-Fi,Djimon Hounsou,Wes Studi,creature feature|hijacker|ocean|ship|shot in the leg,273,English,USA,R,45000000,1998,1000,6.0,2.35,0
-158,826,Action|Crime|Drama|Thriller|War,Joseph Gordon-Levitt,Laz Alonso,boy|german soldier|partisan|trapped|village,182,English,USA,R,45000000,2008,1000,6.0,2.35,0
-189,10,Drama|Romance,Li Gong,Man Li,china|chrysanthemum|emperor|empress|prince,229,Mandarin,China,R,45000000,2006,52,7.0,2.35,0
-125,61,Action|Crime|Thriller,Nicolas Cage,James With,deaf|hitman|nightclub|pickpocket|rules of profession,154,English,USA,R,40000000,2008,68,5.4,1.85,0
-87,865,Comedy|Crime|Thriller,Zooey Deschanel,Omar Epps,airport|fbi agent|person in a car trunk|suitcase|suitcase bomb,186,English,USA,PG-13,40000000,2002,1000,6.5,1.85,892
-115,50,Drama|Romance,Marcela Mar,Unax Ugalde,19th century|colombia|love|marriage|widow,115,English,USA,R,45000000,2007,202,6.4,2.35,0
-23,114,Drama|Fantasy|Horror|Mystery,Pierre Perrier,Céline Sallette,france|living dead|serial killer|small town|supernatural,47,French,France,TV-MA,,,116,8.3,16.0,17000
-24,269,Action|Thriller,Sam Waterston,Nicholas Turturro,american president|assassin|conspiracy|president|white house,41,English,USA,R,45000000,1997,623,4.9,2.35,68
-152,104,Action|Adventure|Comedy|Crime,Daniel Kaluuya,Togo Igawa,assassin|chinese|conspiracy|gadget|premier,142,English,USA,PG,45000000,2011,141,6.3,2.35,17000
-12,500,Action|Animation|Comedy|Family|Fantasy,Jerry Stiller,Harvey Fierstein,femme fatale|food|pun|supermarket|troubled production,66,English,USA,PG,65000000,2012,611,1.7,,0
-656,650,Biography|Drama|History|Thriller,Clea DuVall,Tate Donovan,1970s|cia|f word|u.s. embassy|year 1979,695,English,USA,R,44500000,2012,660,7.7,2.35,89000
-119,812,Action|Adventure|Crime|Drama|Mystery|Thriller,Harrison Ford,Sela Ward,hospital|on the run|one armed man|surgeon|u.s. marshal,270,English,USA,PG-13,44000000,1993,1000,7.8,1.85,0
-161,789,Action|Comedy|Romance,Gerard Butler,Peter Greene,bounty hunter|death|murder|police officer|reporter,135,English,USA,PG-13,40000000,2010,1000,5.5,2.35,0
-73,893,Crime|Drama|Thriller,Robert De Niro,Minnie Driver,boy|guard|kicked in the crotch|prank|sexual abuse,259,English,USA,R,44000000,1996,11000,7.5,2.35,0
-96,668,Action|Adventure|Thriller|War,Sylvester Stallone,Martin Kove,1980s|mission|prison|rambo|vietnam,217,English,USA,R,44000000,1985,738,6.4,2.35,0
-28,643,Drama|Thriller,Joseph Gordon-Levitt,Anne Heche,breasts|mafia|sex scene|temple|woods,62,English,USA,R,44000000,1996,2000,5.6,2.35,353
-105,40,Animation|Family|Fantasy|Musical,Mel Blanc,Cliff Edwards,boy|conscience|fairy|jiminy cricket|pinocchio,147,English,USA,Approved,2600000,1940,48,7.5,1.37,0
-102,678,Adventure|Drama|Western,Jeff Bridges,Isabelle Huppert,1890s|hired gun|immigrant|johnson county war|sheriff,189,English,USA,R,44000000,1980,849,6.8,2.35,1000
-206,520,Action|Adventure|Fantasy|Sci-Fi|Thriller,Sophia Myles,Derek Jacobi,death|feud|forbidden love|vampire|werewolf,502,English,USA,R,50000000,2006,845,6.8,2.35,0
-159,287,Drama|Horror|Sci-Fi|Thriller,Daniel Radcliffe,Daniel Mays,assistant|experiment|frankenstein|medical student|scientist,91,English,USA,PG-13,40000000,2015,1000,6.0,2.35,11000
-137,225,Drama,F. Murray Abraham,Michael Nouri,basketball|mentor|new york|school|writing,297,English,USA,PG-13,43000000,2000,370,7.3,2.35,0
-116,664,Comedy|Drama,Steve Buscemi,Elizabeth Perkins,12 step program|box office hit|car accident|vomiting|wedding,194,English,USA,PG-13,43000000,2000,10000,6.0,1.37,0
-177,5000,Action|Crime|Drama|Thriller,Morgan Freeman,Bob Hoskins,collar|dog|fight|fighting|piano,303,English,France,R,45000000,2005,5000,7.0,2.35,0
-99,16,Comedy|Romance,Judith Chapman,Chelsea Bond,female removes her clothes|roommate|voyeur|voyeurism|wedding,403,English,USA,R,43000000,2002,28,5.1,1.85,0
-56,957,Drama|Mystery|Thriller,Tom Cruise,Wilford Brimley,bar|fbi|law|law firm|lawyer,142,English,USA,R,42000000,1993,1000,6.8,1.85,0
-117,135,Drama|Fantasy|Romance,Augustus Prew,Valerie Tian,brother brother relationship|death of brother|ghost|seeing dead people|talking with the dead,75,English,USA,PG-13,44000000,2010,268,6.5,2.35,0
-252,350,Action|Crime|Thriller,Jason Statham,Mini Anden,apprentice|disobeying orders|gas station|hitman|nightclub,181,English,USA,R,40000000,2011,956,6.6,2.35,16000
-375,839,Action|Comedy|Crime,Channing Tatum,Rob Riggle,narcotics|parody|police|remake|undercover cop,345,English,USA,R,42000000,2012,971,7.2,2.35,39000
-150,427,Comedy|Drama|Romance,Julia Roberts,Dylan Moran,actress|bookstore|friend|kiss|love,602,English,UK,PG-13,42000000,1999,437,7.0,2.35,11000
-187,206,Adventure|Animation|Comedy|Drama|Family,Imelda Staunton,Julia Sawalha,chicken|escape|farm|freedom|rooster,358,English,UK,G,45000000,2000,530,7.0,1.85,0
-108,650,Comedy|Romance,Philip Seymour Hoffman,Debra Messing,bride|friend|honeymoon|insurance|insurance company,268,English,USA,PG-13,42000000,2004,923,5.9,1.85,0
-21,547,Comedy|Drama|Romance,John Witherspoon,Geoffrey Holder,advertising|battle of the sexes|dating|one word title|womanizer,41,English,USA,R,40000000,1992,558,5.4,1.85,0
-270,749,Action|Comedy|Crime,Michael Rapaport,Demián Bichir,drug lord|fbi|fbi agent|hospital|shot in the crotch,380,English,USA,R,43000000,2013,815,6.6,2.35,24000
-72,595,Biography|Drama|History|Romance,Martin Landau,Roddy McDowall,cleopatra|egypt|epic|queen|roman empire,192,English,UK,Approved,31115000,1963,726,7.0,2.2,0
-154,491,Action|Comedy|Sport,Salma Hayek,Charice,claim in title|high school|mixed martial arts|ultimate fighting championship|underdog,112,English,USA,PG,42000000,2012,828,6.5,1.85,17000
-114,505,Crime|Drama|Mystery|Thriller,Morgan Freeman,Bruce Davison,defense lawyer|lawyer|marine|murder|villager,175,English,USA,PG-13,42000000,2002,3000,6.3,2.35,893
-27,292,Comedy|Drama|Romance,Jeff Bridges,Mimi Rogers,columbia university|lecture|marriage|professor|sex,71,English,USA,PG-13,42000000,1996,592,6.5,1.85,0
-166,395,Drama|Horror|Mystery|Thriller,Debra Messing,David Eigenberg,car accident|death of wife|mothman|point pleasant west virginia|urban legend,460,English,USA,PG-13,32000000,2002,537,6.5,2.35,0
-288,412,Comedy,Bono,Slash,austrian|fame|fashion|gay lead character|mockumentary,396,English,USA,R,42000000,2009,442,5.8,1.85,0
-117,275,Action|Adventure|Thriller,Robert Davi,Anthony Zerbe,drug cartel|drug lord|james bond 007|personal vendetta|vengeance,317,English,UK,PG-13,32000000,1989,349,6.6,2.35,0
-291,913,Fantasy|Horror|Mystery|Thriller,Gary Oldman,Virginia Madsen,death|forest|love|werewolf|werewolf bite,283,English,USA,PG-13,42000000,2011,2000,5.4,2.35,20000
-151,808,Action|Crime|Drama|Thriller,Robert De Niro,Kelsey Grammer,criminal|detective|fire|homicide|media,265,English,USA,R,42000000,2001,9000,6.1,2.35,748
-36,687,Adventure|Comedy|Family|Fantasy|Sci-Fi,Bob Hoskins,Fiona Shaw,based on video game|dinosaur|king|mario|plumber,290,English,UK,PG,42000000,1993,922,4.0,1.85,0
-168,16,Crime|Drama|Thriller,Nicolas Cage,Jared Burke,1980s|arms dealer|immorality|ukrainian|warlord,437,English,USA,R,50000000,2005,43,7.6,2.35,10000
-283,576,Action|Adventure|History,Jet Li,Maggie Cheung,china|flying|king|palace|sword,841,Mandarin,China,PG-13,31000000,2002,643,7.9,2.35,0
-127,497,Action|Comedy|Crime|Romance|Thriller,Fisher Stevens,Patrick Fischler,bail bond|bounty hunter|jeans|shot in the butt|title directed by female,169,English,USA,PG-13,40000000,2012,786,5.3,2.35,19000
-293,365,Comedy,James Franco,Anders Holm,assassination attempt|communist dictatorship|dictator|exploding helicopter|finger bitten off,835,English,USA,R,44000000,2014,392,6.6,2.35,50000
-95,433,Action|Fantasy|Western,Tony Cox,Jed Brophy,bullet time|explosion|knife throwing|throwing a knife|violence,102,English,New Zealand,R,45000000,2010,489,6.3,2.35,0
-4,253,Comedy|War,Tim Conway,Bob Hastings,american soldier|naval uniform|navy|patrol boat|uniform,18,English,USA,TV-G,,,284,7.5,4.0,455
-213,52,Action|Comedy|Crime,Omar Sy,André Dussollier,bullet|contortionist|gag humor|human cannonball|revenge,71,French,France,R,27000000,2009,172,7.2,2.35,0
-119,196,Drama|Music,Mekhi Phifer,Evan Jones,competition|contest|friend|self expression|white rapper,564,English,USA,R,41000000,2002,418,7.0,2.35,0
-9,6,Adventure|Animation|Comedy|Family,Jamel Debbouze,Mélissa Theuriau,ape|computer animation|evolution|first person title|reference to louis de funes,5,French,France,,,2015,152,4.9,,161
-167,996,Action|Adventure|Romance,Heath Ledger,Bérénice Bejo,chaucer|jousting|knight|medieval times|tournament,658,English,USA,PG-13,65000000,2001,3000,6.9,2.35,0
-98,96,Action|Comedy|Fantasy,Julian Sands,Anthony Chau-Sang Wong,hong kong|interpol|medallion|ship|tough cop,132,English,Hong Kong,PG-13,41000000,2003,312,5.2,2.35,505
-234,766,Drama|Mystery|Thriller,Bruce Willis,Olivia Williams,able to see the dead|ghost|plot twist|psychic|surprise ending,2073,English,USA,PG-13,40000000,1999,3000,8.1,1.85,14000
-258,54,Action|Crime|Thriller,Robert Clohessy,J. Smith-Cameron,detective|diamond|hotel|police|rooftop,153,English,USA,PG-13,42000000,2012,81,6.6,2.35,11000
-108,296,Comedy,Joel McHale,JoBeth Williams,alaska|birding|competition|migration|storm,125,English,USA,PG,41000000,2011,574,6.2,2.35,11000
-81,225,Action|Drama|Family|Sport,Martin Kove,William Bassett,apartment|bully|fight|karate|master,235,English,USA,PG,8000000,1984,641,7.2,1.85,0
-538,14000,Crime|Drama,Jennifer Lawrence,Bradley Cooper,based on true story|con artist|drunk wife|fbi investigation|scam,751,English,USA,R,40000000,2013,23000,7.3,2.35,63000
-224,723,Comedy|Drama|Romance,Ryan Reynolds,Craig T. Nelson,alaska|deportation|father son relationship|male objectification|sitka alaska,273,English,USA,PG-13,40000000,2009,896,6.7,2.35,10000
-129,298,Crime|Mystery|Thriller,Bruce Greenwood,Bruce Campbell,blood|murder|sex scene|wrongful arrest|wrongful conviction,336,English,USA,R,70000000,1999,489,6.4,2.35,0
-125,690,Adventure|Comedy|Sci-Fi,Lea Thompson,Thomas F. Wilson,alternate timeline|same actor playing two characters simultaneously on screen|second part|year 2015|younger version of character,327,English,USA,PG,40000000,1989,869,7.8,1.85,12000
-433,903,Action|Sci-Fi|Thriller,Scarlett Johansson,Amr Waked,brain capacity|drugs|fictional drug|one woman army|tough girl,918,English,France,R,40000000,2014,11000,6.4,2.35,83000
-362,716,Drama|Romance,Jennifer Ehle,Callum Rennie,female frontal nudity|female nudity|perversion|sex scene|spanking,1360,English,USA,R,40000000,2015,935,4.1,2.35,101000
-93,2000,Action|Adventure|Comedy|Family|Sci-Fi,Sylvester Stallone,Alexa PenaVega,mission|spy|surfing|trapped|virtual reality,188,English,USA,PG,38000000,2003,4000,4.1,1.85,681
-71,1000,Crime|Drama|Thriller,Kevin Spacey,Oliver Platt,african american|court|law|mississippi|trial,236,English,USA,R,40000000,1996,11000,7.4,2.35,0
-104,597,Comedy|Family,Tom Welling,Bonnie Hunt,9 year old|house|illinois|new job|vomiting,288,English,USA,PG,40000000,2003,2000,5.8,1.85,0
+duration,actor_1_facebook_likes,gross,actor_1_name,actor_3_name,facenumber_in_poster,plot_keywords,language,country,actor_2_facebook_likes,aspect_ratio,movie_facebook_likes
+116,11000,30013346,Harrison Ford,Lena Olin,2,audition|kissing while having sex|machismo|murder|sex,English,USA,982,2.35,648
+99,933,14567883,Connie Nielsen,Jason Scott Lee,1,crash survivor|planet|sergeant|soldier|survivor,English,UK,722,2.35,0
+84,3000,90820,Christopher Meloni,Lou Taylor Pucci,0,beach|disease|latex gloves|pandemic|virus,English,USA,552,2.35,0
+93,3000,5409517,Brendan Fraser,Megan Mullally,0,carnival|coma|death|monkey|nightmare,English,USA,889,1.85,683
+113,2000,21009180,Dennis Quaid,Miranda Otto,4,captain|desert|rescue|stranded|survivor,English,USA,845,2.35,1000
+106,18000,94999143,Robin Wright,Michael Kelly,0,child with gun|comic book|invulnerability|superhero|train crash,English,USA,13000,2.35,0
+91,7000,336029560,Steve Carell,Steve Coogan,0,antarctica|minion|queen|super villain|villain,English,USA,4000,1.85,70000
+128,4000,36381716,Jon Hamm,Scott Glenn,4,alternate reality|escape|girl gang|prostitution|samurai,English,USA,2000,2.35,42000
+98,12000,55585389,Nicolas Cage,John Heard,1,assassination|boxing|casino|conspiracy|long take,English,USA,854,2.35,880
+134,548,36976367,Peter Coyote,Huey Lewis,3,manifestation|ocean|spacecraft|spaceship|sphere,English,USA,270,2.35,0
+97,22000,107225164,Peter Dinklage,Keegan-Michael Key,0,butt|downward duck|fish|kingfisher|pig,English,USA,1000,1.85,14000
+112,11000,70224196,Matthew McConaughey,Alexis Dziena,0,debt|rapper|treasure|treasure hunter|yacht,English,USA,1000,2.35,0
+153,11000,51814190,Adam Sandler,Maude Apatow,1,breasts|comedian|craigslist|infidelity|stand up comedian,English,USA,561,1.85,0
+110,3000,47456450,Jennifer Garner,Tim McGraw,1,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,English,USA,638,2.35,0
+122,8000,148213377,Will Ferrell,Gary Cole,5,car racing|french|friend|nascar|racing,English,USA,1000,2.35,0
+87,1000,112950721,Raven-Symoné,Kevin Pollak,0,bear|doctor|false accusation|man with glasses|second part,English,USA,692,2.35,266
+178,906,75600000,Mhairi Calvey,James Robinson,1,14th century|legend|revolt|scotland|tyranny,English,USA,466,2.35,17000
+125,15000,62647540,Jake Gyllenhaal,James Morrison,0,american abroad|gulf war|u.s. military|u.s. soldier|usmc,English,Germany,383,2.35,0
+87,745,183132370,Albert Brooks,Marcia Wallace,0,alaska|dome|lake|pig|the simpsons,English,USA,440,2.35,0
+152,940,27796042,Martin Landau,Jeffrey DeMunn,1,amnesia|california|communist|small town|writer,English,USA,826,1.85,0
+116,13000,32616869,Sylvester Stallone,Cristián de la Fuente,0,car race|german|race car|race car driver|rookie,English,USA,658,2.35,886
+109,21,18947630,David Gant,Oanh Nguyen,0,circus|death of protagonist|jungle|killing an animal|tiger,English,France,17,2.35,2000
+108,3000,114195633,Bryce Dallas Howard,William Hurt,0,creature|pact|plot twist|village|woods,English,USA,2000,1.85,0
+85,1000,144156464,Oliver Platt,Peter Boyle,0,box office hit|doctor|dog|first part|tiger,English,USA,1000,1.85,694
+106,710,227965690,Rory Culkin,Cherry Jones,0,crop circle|faith|farm|glass of water|loss of faith,English,USA,529,1.85,0
+93,692,436471036,Rupert Everett,Conrad Vernon,1,drag queen|physical appearance|princess|queen|sequel,English,USA,309,1.85,0
+117,1000,244052771,John Ratzenberger,George Carlin,0,car|desert|route 66|tow truck|truck,English,USA,843,2.35,0
+116,8000,152149590,Julia Roberts,Hector Elizondo,2,bride|columnist|journalist|maryland|wedding,English,USA,3000,2.35,0
+132,14000,141204016,Vin Diesel,Leila Arcieri,0,agent|nsa|nsa agent|prague|russian,English,USA,223,2.35,10000
+92,870,162495848,Tim Conway,Eddie Deezen,0,book|magic|pirate|plankton|time machine,English,USA,861,1.85,16000
+139,960,136448821,Lili Taylor,Rene Russo,1,bounty|fbi|millionaire|money|ransom,English,USA,848,1.85,1000
+153,13000,120523073,Michael Fassbender,Christoph Waltz,1,france|german|nazis|revenge|scalping,English,USA,11000,2.35,42000
+142,49000,119654900,Robin Williams,Bob Hoskins,1,1990s|caught in a net|children|duel|hero,English,USA,8000,2.35,13000
+101,12000,72660029,Dwayne Johnson,Ingrid Bolsø Berdal,0,army|greek mythology|hercules|king|mercenary,English,USA,3000,2.35,21000
+124,13000,117541000,Bruce Willis,Franco Nero,0,airport|fuel|plane|police|terrorist,English,USA,982,2.35,0
+117,10000,116643346,Jeremy Renner,LL Cool J,1,hostage|police|prison|swat team|training,English,USA,1000,2.35,0
+45,898,,Nicole Beharie,Lyndie Greenwood,0,apocalypse|death|husband wife relationship|mother son relationship|murder,English,USA,372,16.0,14000
+141,10000,100614858,Tom Cruise,Noah Taylor,1,death|dream|love|lynchian|reality,English,USA,834,1.85,0
+110,3000,42272747,Bryce Dallas Howard,Bob Balaban,1,apartment|bedtime story|eagle|stuttering|swimming pool,English,USA,579,1.85,0
+109,886,80281096,Sanaa Lathan,Raoul Bova,0,alien|antarctica|predator|pyramid|satellite,English,USA,766,2.35,0
+88,1000,219613391,Amy Poehler,Jesse McCartney,0,adidas|chipmunk|hospital|school|waste container,English,USA,1000,1.85,2000
+124,4000,78120196,Jon Hamm,Chris Klein,0,air cavalry|battle|major|soldier|vietnamese,English,USA,973,2.35,5000
+119,18000,98895417,Gerard Butler,Radha Mitchell,3,political thriller|politics|president|speaker of the house|u.s. president,English,USA,11000,2.35,45000
+103,1000,70117571,LeVar Burton,Michael Dorn,0,alien|captain|commander|conspiracy|planet,English,USA,906,2.35,1000
+116,833,83552429,Noel Fisher,Ramon Rodriguez,0,alien|extraterrestrial|invasion|marine|mission,English,USA,697,2.35,25000
+125,12000,66257002,Steve Buscemi,Albert Finney,0,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,English,USA,1000,1.37,26000
+125,443,65012000,David Hyde Pierce,Ron Rifkin,1,blood|publisher|publishing house|werewolf|wolf,English,USA,277,1.85,0
+146,25000,79883359,Jeremy Irvine,Eddie Marsan,1,barbed wire|british|cavalry|horse|world war one,English,USA,19000,2.35,28000
+118,13000,78031620,Bill Murray,Bob Balaban,7,art|art expert|nazi stolen art|soldier|world war two,English,USA,13000,2.35,34000
+171,2000,54222000,Michael Biehn,Mary Elizabeth Mastrantonio,0,alien|estranged couple|ocean|submarine|underwater,English,USA,650,2.35,0
+136,903,52474616,Frank Langella,John Buffalo Mailer,2,corporate greed|crisis|economy|greed|mentor,English,USA,592,2.35,13000
+92,3000,55942830,Dominic Cooper,Zach McGowan,1,death of wife|dracula|tarantula|turk|vampire,English,USA,692,2.35,37000
+116,18000,40932372,Denzel Washington,Mark Valley,0,abduction|martial law|military|new york city|terrorist,English,USA,13000,2.35,0
+127,15000,38345403,Henry Cavill,Nathaniel Parker,8,king|magic|one word title|pirate|village,English,UK,588,2.35,15000
+136,11000,37901509,Brad Pitt,Victor Wong,1,austria|dalai lama|himalaya|mountain|tibet,English,USA,691,2.35,0
+111,17000,48430355,Channing Tatum,Chelcie Ross,2,best friend|friend|investigation|secret|two word title,English,USA,1000,2.35,0
+116,12000,30157016,Anthony Hopkins,Garcelle Beauvais,2,cia|cia agent|terrorist|twin|twin brother,English,USA,405,2.35,792
+113,12000,28031250,Dwayne Johnson,Dexter Fletcher,0,commando unit|extra chromosome|first person shooter|special forces|teleportation,English,UK,585,2.35,0
+97,989,33105600,Gary Cole,Tate Taylor,1,boxer|espionage|spy|stealth|top secret,English,USA,229,1.37,531
+88,5000,62321039,Theo James,Sandrine Holt,1,battle|cryogenics|detective|scientist|vampire,English,USA,327,2.35,24000
+136,394,38509342,James Martin Kelly,Celina Beach,7,concert|love|music industry|panties|pole dancer,English,USA,217,2.35,33000
+125,13000,19076815,Bruce Willis,Rory Cochrane,0,colonel|honor|lieutenant|pilot|racism,English,USA,787,2.35,997
+116,26000,25093607,Jason Statham,Ben Mendelsohn,2,australia|death|mentor|revenge|secret society,English,UK,22000,2.35,17000
+98,1000,18990542,LL Cool J,Andrew Bryniarski,3,ball|blood|skating|song|year 2005,English,USA,841,2.35,584
+91,349,14294842,Talisa Soto,Gregg Henry,1,blood splatter|camera shot from inside human body|combat|die hard scenario|fbi,English,USA,324,2.35,391
+97,11000,19819494,Morgan Freeman,Randy Quaid,0,dam|flood|money|police|sheriff,English,USA,893,2.35,815
+95,2000,13596911,Ron Howard,David Hyde Pierce,0,blood|body|egg|virus|white blood cell,English,USA,509,2.35,2000
+88,2000,8460990,Lea Michele,Jim Belushi,1,jester|kansas|oz|princess|tornado,English,USA,1000,,5000
+133,26000,7097125,Chris Hemsworth,Brandon Molale,1,chinese|computer|cybercrime|hacker|one word title,English,USA,326,2.35,11000
+106,11000,37760080,Angelina Jolie Pitt,Bai Ling,2,captain|pilot|reporter|robot|scientist,English,USA,1000,1.85,0
+116,844,5851188,Charlotte Rampling,Neil Maskell,1,drugs|murder|psychiatrist|scotland yard|sex,English,UK,729,2.35,764
+115,13000,25121291,Sylvester Stallone,Matt Gerald,1,cia agent|escape|muslim|prison|ship,English,USA,1000,2.35,34000
+99,576,18821279,Roxanne McKee,Gaia Weiss,0,ancient greece|forbidden love|hercules|king|slavery,English,USA,358,2.35,12000
+124,11000,118471320,Morgan Freeman,Philip Baker Hall,0,analyst|cia|nuclear bomb|nuclear weapons|russia,English,USA,655,2.35,0
+124,21000,300523113,Robert Pattinson,Anna Kendrick,3,friendship|graduation|revenge|vampire|werewolf,English,USA,17000,2.35,29000
+124,22000,71069884,Robert De Niro,Gary Farmer,0,partner|running|scepter|surveillance|thief,English,USA,10000,2.35,0
+87,7000,251501645,Steve Carell,Jack McBrayer,0,girl|minion|moon|pyramid|white picket fence,English,USA,2000,1.85,31000
+105,584,35324232,Vincent Pastore,Aida Turturro,1,bare breasts|breast|loan shark|subway|train,English,USA,220,2.35,617
+125,14000,81257500,Liam Neeson,Seth MacFarlane,0,baby|f word|fight|lawyer|marriage,English,USA,11000,2.35,30000
+141,614,617840,Max Minghella,Rupert Evans,2,christian|love|philosophy|prefect|slave,English,Spain,451,2.35,29000
+121,1000,29655590,Janeane Garofalo,Eddie Izzard,4,bowling|rajah|sphinx|spleen|superhero,English,USA,855,1.85,0
+111,966,45045037,Jenna Fischer,Stephen Merchant,3,drugged food|female frontal nudity|male frontal nudity|male nudity|marriage,English,USA,919,2.35,10000
+157,14000,28965197,Al Pacino,Debi Mazar,1,cbs|cbs news|research|tobacco|whistleblower,English,USA,826,2.35,0
+117,788,27550735,Michael Raymond-James,Graham McTavish,0,1950s|coast guard|oil tanker|sinking ship|survival,English,USA,562,2.35,12000
+128,29000,39380442,Leonardo DiCaprio,Michael Gaston,1,cia|jordan|middle east|spy|terrorist,English,USA,149,2.35,0
+114,7000,72980108,Steve Carell,Bruce Greenwood,2,dinner|diorama|idiot|irs|mouse,English,USA,1000,1.85,0
+105,3000,37516013,Rufus Sewell,Benjamin Walker,0,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,English,USA,3000,2.35,98000
+113,537,87704396,Will Patton,Maury Chaykin,1,art thief|insurance|mask|master thief|reference to iron maiden,English,USA,427,2.35,0
+30,995,,Hector Elizondo,Nancy Travis,1,family relationships|husband wife relationship|live studio audience|sitcom|three word title,English,USA,363,16.0,0
+121,940,83892374,Martin Landau,Jeffrey DeMunn,0,agent|alien|bomb|fbi|government,English,USA,826,2.35,0
+102,14000,5932060,Colin Firth,Owen Teale,0,5th century|boy|capri|roman legion|soldier,English,UK,394,2.35,0
+169,15000,216119491,Tom Hanks,Matt Damon,2,army|invasion|killed in action|normandy|soldier,English,USA,14000,1.85,22000
+132,3000,43568507,Rami Malek,Ramon Rodriguez,1,cross country|custom car|illegal street racing|police officer crushed|street racing,English,USA,3000,2.35,32000
+127,2000,182805123,Judy Greer,Loretta Devine,1,advertising|battle of the sexes|ex husband ex wife relationship|pantyhose|telepathy,English,USA,955,1.37,0
+103,1000,176387405,Goran Visnjic,Denis Leary,0,baby|ice|ice age|sleeping|sloth,English,USA,939,1.85,3000
+136,11000,33685268,Morgan Freeman,Reece Thompson,1,alien|friend|maine|military|woods,English,USA,599,2.35,4000
+150,23000,182204440,Joseph Gordon-Levitt,Bruce McGill,0,cultural conflict|politics|president|slavery|u.s. president,English,USA,826,2.35,71000
+136,18000,171383253,Keanu Reeves,Gloria Foster,3,artificial reality|computer|matrix|questioning reality|simulated reality,English,USA,145,2.35,25000
+140,15000,172071312,Tom Hanks,Kathleen Quinlan,0,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,English,USA,968,2.35,5000
+113,605,119412921,Ronny Cox,Marshall Bell,0,ambiguous ending|false memory|implanted memory|memory|space colony,English,USA,308,1.85,0
+104,901,139225854,Judge Reinhold,Eric Lloyd,0,christmas|magic|santa claus|son|toy,English,USA,857,1.85,1000
+158,20000,148775460,Hugh Jackman,Anne Hathaway,1,barricade|innkeeper|parole|rebellion|student,English,USA,13000,1.85,144000
+119,15000,115731542,Tom Hanks,Dave Chappelle,2,bookstore|competing businesses|instant messaging|new york city|shop owner,English,USA,793,1.85,0
+106,8000,100468793,Will Ferrell,Andrea Savage,2,dream|friendship|karaoke|love|slacker,English,USA,3000,2.35,0
+136,12000,93771072,Anthony Hopkins,Stuart Wilson,0,19th century|california|revenge|training|zorro,English,USA,174,2.35,0
+95,21000,100448498,Robert Downey Jr.,Matt Walsh,3,actor|aspiring actor|birth|misadventure|suitcase,English,USA,561,2.35,25000
+137,769,115603980,Finn Wittrock,Alex Russell,0,emaciation|male nudity|plane crash|prisoner of war|torture,English,USA,698,2.35,35000
+130,16000,90454043,Clint Eastwood,William Devane,1,nasa|old age|satellite|space|space shuttle,English,USA,495,2.35,0
+124,13000,84049211,Sylvester Stallone,Janine Turner,1,money|mountain|rocky mountains|snow|suitcase,English,USA,730,2.35,0
+108,848,70450000,Delroy Lindo,Bob Gunton,2,captain|desert|major|park ranger|utah,English,USA,517,2.35,0
+104,13000,69688384,Bruce Willis,Daniel von Bargen,1,altering history|cartoon on tv|childhood|image consultant|one two combo,English,USA,718,1.85,0
+129,12000,70236496,Nicolas Cage,Armando Riesco,0,based on true story|police|rescue|rubble|trapped,English,USA,1000,1.85,0
+117,8000,63695760,Julia Roberts,Marian Seldes,1,art|college|school|student|wellesley college,English,USA,4000,1.85,0
+99,600,59617068,Sayed Badreya,Horatio Sanz,0,dictator|hotel|oil|overalls|sunglasses,English,USA,346,2.35,59000
+159,10000,55637680,Tom Cruise,Sydney Pollack,1,doctor|orgy|party|pianist|sexual fantasy,English,UK,580,1.66,10000
+118,2000,85911262,Quvenzhané Wallis,David Zayas,6,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek,English,USA,1000,2.39,16000
+105,10000,53846915,Will Smith,Gerald McRaney,0,con artist|con man|deception|rivalry|seduction,English,USA,806,1.85,23000
+103,27000,54758461,Tom Hardy,Warren Christie,3,best friend|cia|cia agent|dating|undercover,English,USA,1000,2.35,18000
+122,16000,52397389,Ryan Reynolds,John Michael Higgins,0,blade|blood|dracula|vampire hunter|vampire slayer,English,USA,1000,2.35,0
+114,1000,,Lea Thompson,William Smith,0,guerrilla|high school|invasion|soviet|wolverine,English,USA,1000,1.85,0
+143,509,38966057,Maura Tierney,Paul Guilfoyle,0,campaigning|candidate|election|governor|president,English,France,317,2.35,688
+96,14000,42345531,Milla Jovovich,Bingbing Li,0,corporation|fight|rescue|umbrella|zombie,English,Germany,1000,2.35,32000
+111,26000,36064910,Jason Statham,Joan Allen,4,armored car|car|murder|prison|warden,English,USA,872,2.35,0
+121,394,33328051,Melina Kanakaredes,Yvonne Zima,2,amnesia|chase|foot chase|strong female character|vomiting,English,USA,380,2.35,4000
+135,324,32598931,Pamela Reed,Michael Kitchen,1,jungle|pipeline|prisoner|ransom|south america,English,USA,192,2.35,892
+101,17000,28045540,Kristen Stewart,Jonah Bobo,0,2000s|coke|meeting future self|reference to spongebob squarepants|sony,English,USA,14000,1.85,0
+151,11000,37023395,Brad Pitt,Eugenie Bondurant,2,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,English,USA,783,2.35,48000
+131,11000,43532294,Matthew McConaughey,Brian Geraghty,0,coach|football|football team|marshall university|university,English,USA,529,2.35,0
+60,1000,,Jason Flemyng,Frances O'Connor,0,france|journalist|limp|police detective|reporter,English,UK,773,,0
+100,13000,17218080,Bruce Willis,Richard E. Grant,0,blackmail|burglar|critically bashed|leonardo da vinci|prison,English,USA,773,1.85,0
+105,975,10014234,Michael Rapaport,Richard Schiff,1,celebrity|lottery|murder|snowmobile|weatherman,English,France,909,1.85,177
+92,623,19059018,Caitlin Stasey,Miranda Otto,0,army|creature|demon|frankenstein|gargoyle,English,Australia,593,2.35,15000
+130,268,1987287,Ian McNeice,Tony Noble,0,boy|character name in title|orphan|pickpocket|workhouse,English,UK,85,2.35,0
+100,3000,24407944,Jennifer Garner,Goran Visnjic,0,assassin|battle|heroine|martial arts|spin off,English,Canada,1000,2.35,0
+102,23000,13750556,Joseph Gordon-Levitt,Eva Green,3,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,English,USA,13000,1.85,32000
+133,11000,31054924,Harrison Ford,Bill Cobbs,1,death|plane crash|police|police sergeant|politician,English,USA,1000,1.85,295
+121,963,43247140,Michael Kelly,Tom Goodman-Hill,0,blizzard|mount everest|mountain|mountain climbing|snow,English,UK,580,2.35,40000
+147,177,2208939,Michael Smiley,Simon Chandler,0,18th century|perfume|scent|sense of smell|smell,English,Germany,27,2.35,26000
+94,645,213079163,Verne Troyer,Robert Wagner,2,fem bot|prison|seductive fembot|spy|time travel,English,USA,522,2.35,0
+94,12000,19548064,Nicolas Cage,Dee Bradley Baker,1,betrayal|futuristic|gladiator|robot|scientist,English,Hong Kong,9000,2.35,0
+127,967,356784000,Wayne Knight,Bob Peck,0,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,English,USA,610,1.85,19000
+212,2000,25052000,Dennis Quaid,Isabella Rossellini,0,historically inaccurate|name calling|penis slur|vomiting|wyatt earp,English,USA,925,2.35,0
+141,11000,122012710,Harrison Ford,Raymond Cruz,1,cia|colombia|colombian drug cartel|drugs|president,English,USA,913,2.35,0
+103,21,72413,Si Won Choi,Sung-jun Yoo,3,child fugitive|final battle|martial art|silk road|sword,Mandarin,China,18,2.35,0
+98,979,58255287,Chazz Palminteri,John Witherspoon,1,diamond|infant|parody|spoof|sports violence,English,USA,862,1.85,0
+116,11000,77086030,Matthew McConaughey,David Keith,0,battle|historically inaccurate|submarine movie|u boat|world war two,English,France,919,2.35,0
+114,524,65000000,Shawna Waldron,Wendie Malick,0,lobbyist|president|senator|state dinner|widower,English,USA,517,2.35,0
+87,3000,32178777,Justin Timberlake,Verne Troyer,6,bloopers during credits|bucket of popcorn|chastity belt|guru|toronto maple leafs,English,USA,966,2.35,0
+125,11000,15738632,Jon Lovitz,Ice-T,2,casino|elvis impersonator|gun|heist|rascal,English,USA,904,2.35,0
+187,46000,54116191,Craig Stark,Zoë Bell,1,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,English,USA,1000,2.76,114000
+93,8000,118153533,Will Ferrell,Jon Heder,2,competition|fight|ice|jock strap|nintendo game boy advance,English,USA,1000,1.85,0
+95,989,108012170,Gary Cole,Chelsea Handler,0,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker,English,USA,664,1.85,0
+117,18000,210592590,Gerard Butler,Vincent Regan,0,battle|epic|greece|spartan|warrior,English,USA,13000,2.35,13000
+106,22000,279167575,Robert De Niro,Teri Polo,6,bare butt|defecation|father in law son in law relationship|nurse|sexual innuendo in title,English,USA,713,1.85,0
+115,2000,143151473,Eric Dane,Haley Bennett,0,box office hit|dog|dog movie|florida|pet name in title,English,USA,899,2.35,11000
+189,15000,136801374,Tom Hanks,Michael Jeter,0,1930s|death row inmate|healing|prison guard|southern u.s.,English,USA,745,1.85,30000
+100,419,168213584,Jill Hennessy,Drew Sidora,3,biker gang|friend|motorcycle|new mexico|road trip,English,USA,330,2.35,0
+81,925,135381507,Catherine O'Hara,Amy Sedaris,0,alien invasion|chicken|fish|friend|panic,English,USA,729,1.85,912
+149,835,167735396,Patrick Fugit,Emily Ratajkowski,0,based on novel|disappearance|missing person|missing wife|murder suspect,English,USA,812,2.35,146000
+119,13000,121468960,Matt Damon,Nicky Naudé,1,amnesia|assassin|money|political thriller|three word title,English,USA,147,2.35,0
+130,394,106635996,Izabella Scorupco,Tchéky Karyo,2,agent|cossack|official james bond series|russia|russian,English,UK,387,2.35,0
+116,577,102678089,Daniel von Bargen,Clarence Williams III,0,army cid|cover up|military|murder|woman in military,English,USA,501,2.35,885
+103,2000,125603360,Natascha McElhone,Peter Krause,1,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,English,USA,617,1.85,18000
+99,770,101217900,Martin Short,Eden Riegel,2,ancient egypt|hebrew|nudity|pharaoh|title directed by female,English,USA,263,1.85,0
+92,1000,104148781,Anjelica Huston,Jeff Garlin,1,bloopers during credits|breakfast cereal|department store ride|face painting|sponge bob square pants slippers,English,USA,955,1.85,886
+109,18000,75573300,Denzel Washington,Fred Ward,1,close up of breasts|female nudity|fugitive|money|undercover,English,USA,497,2.35,22000
+87,3000,93375151,Carol Ann Susi,Miriam Margolyes,0,cartoon on tv|cat|dog|scientist|secret agent,English,USA,664,1.85,0
+111,26000,106126012,Jason Statham,Jimmy Shubert,6,gold|heist|revenge|traffic jam|venice italy,English,USA,9000,2.35,0
+101,1000,93307796,Dorian Missick,Dana Ivey,2,developer|divorce|lawyer|love|new york city,English,USA,976,1.85,0
+83,13000,90646554,Sylvester Stallone,Anne Bancroft,0,ant|friend|princess|soldier|worker,English,USA,11000,1.85,0
+113,4000,109176215,Jon Favreau,Tasha Smith,6,couple|island|marriage|tropical|voyeurism,English,USA,722,1.85,0
+107,10000,82670733,Tom Cruise,Randy Quaid,0,driver|hot shot|racing|stock car driver|team,English,USA,3000,2.35,0
+94,12000,82569532,Taylor Lautner,Alyson Stoner,6,children|competition|rival|second part|vacation,English,USA,3000,2.35,781
+132,988,81687587,Ki Hong Lee,Rosa Salazar,0,desert|disease|escape|resistance|virus,English,USA,960,2.35,24000
+140,11000,80574010,James Franco,Billy Crudup,1,divorce|emotional balance|female protagonist|indonesia|inner peace,English,USA,8000,1.85,26000
+125,12000,75764085,Nicolas Cage,Amber Valletta,1,bowling|christmas|parallel universe|salesman|unfaithfulness,English,USA,3000,2.35,0
+111,13000,90356857,Bruce Willis,Jaqueline Fleming,4,cia|female assassin|interrogation|office cubicle|spy,English,USA,11000,2.35,32000
+156,14000,75530832,Al Pacino,LL Cool J,5,breasts|coach|football|in medias res|vomiting,English,USA,2000,2.35,0
+170,19000,75370763,Scarlett Johansson,Jessalyn Gilsig,0,grace|groom|horse|montana|western u.s.,English,USA,1000,1.85,0
+120,10000,100003492,Tom Cruise,Debi Mazar,0,city by night|contract killer|driving at night|los angeles california|taxi,English,USA,851,2.35,0
+100,12000,90341670,Dwayne Johnson,Bernard Hill,4,desert|king|showdown|sorceress|warrior,English,USA,1000,2.35,0
+115,2000,74540762,Billy Burke,Jacinda Barrett,2,death of husband|fire|firefighter|funeral|main character dies,English,USA,1000,1.85,0
+130,10000,80033643,Tom Cruise,David Oyelowo,2,coma|mysterious villain|police chase|shooting range|sniper,English,USA,3000,2.35,38000
+105,1000,73648142,LL Cool J,Saffron Burrows,1,alzheimer's disease|experiment|human versus shark|research|underwater headquarters,English,USA,975,2.35,0
+111,433,71844424,Misha Gabriel Hamilton,Judith Hill,0,2000s|box office hit|comeback|rehearsal|year 2009,English,USA,208,1.78,0
+106,13000,75638743,Matt Damon,Griffin Kane,4,contagion|cure|infection|panic|virus,English,USA,240,1.85,42000
+89,658,66734992,Estella Warren,Bill Hunter,0,australia|body paint|kangaroo|mob|money,English,USA,257,2.35,858
+100,309,75280058,Jennifer Saunders,John Hodgman,1,dream|new home|parallel worlds|scissors|secret door,English,USA,229,1.85,10000
+91,11000,64505912,Zooey Deschanel,Kristen Connolly,0,bee|nature|park|school|teacher,English,USA,946,1.85,6000
+146,18000,77862546,Denzel Washington,Giancarlo Giannini,2,bodyguard|journalist|kidnapping|mexico|police corruption,English,USA,992,2.35,14000
+98,21000,61112916,Robert Downey Jr.,Kristin Davis,0,animal as human|dog movie|elevator|human becoming an animal|sheepdog,English,USA,936,2.35,747
+101,881,88200225,Snoop Dogg,Fred Williamson,5,cocaine|cop|criminal|partner|police,English,USA,869,2.35,0
+94,854,60573641,Jim Belushi,Jake Lloyd,1,action figure|christmas|hero|karate|toy,English,USA,628,1.85,0
+132,366,59035104,James Babson,Brian Steele,1,assassin|demon|hero|nazi|superhero,English,USA,334,1.85,0
+115,3000,56702901,Robert Duvall,Sydney Pollack,1,1980s|law firm|lawsuit|lawyer|toxic waste,English,USA,552,2.35,1000
+92,10000,55994557,Anna Kendrick,Elaine Stritch,0,curse|ghost|outcast|witch|zombie,English,USA,884,2.35,12000
+124,24000,54910560,J.K. Simmons,Sophie Okonedo,0,assassin|fbi|ira|jackal|russian,English,USA,13000,2.35,0
+119,834,53789313,Ivana Milicevic,Callum Rennie,0,anti hero|babe scientist|engineer|memory|money,English,USA,780,2.35,0
+124,1000,51045801,Joe Mantegna,Raymond Cruz,2,journalism|news anchor|newscast|newscaster|tv journalism,English,USA,944,1.85,829
+93,9000,50818750,Emma Watson,Frank Langella,0,book|darkness|dungeon|princess|rat,English,UK,2000,2.35,0
+22,732,,Bianca Kajlich,Adhir Kalyan,3,fiance|fiancee|magazine editor|naivety|womanizer,English,USA,607,1.78,0
+98,966,50189179,Romany Malco,Ritchie Coster,2,chauffeur|hospital|secret agent|spying|tuxedo,English,USA,680,1.85,797
+92,789,50024083,Peter Greene,Patrick Kilpatrick,1,colorado|niece|satellite|terrorist|train,English,USA,520,1.85,1000
+105,539,50549107,Colm Feore,Gemma Chan,3,covert analyst|marine|russian|spy|stock market,English,USA,394,2.35,17000
+124,34000,56443482,Jennifer Lawrence,Bradley Cooper,3,based on real person|female inventor|mop|sales pitch|woman holding a shotgun,English,USA,22000,1.85,24000
+99,18000,62401264,Gerard Butler,Julian Kostov,3,british|funeral|good versus evil|mole|sequel,English,UK,992,2.35,28000

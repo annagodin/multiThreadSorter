@@ -1,554 +1,129 @@
-actor_3_name,country,imdb_score,aspect_ratio
-Claudia Ferri,Canada,6.7,1.85
-Franky G,USA,6.6,1.85
-Danny Aiello,USA,7.9,1.85
-Joey Lauren Adams,USA,4.9,2.35
-Jean-Pierre Darroussin,Finland,7.2,1.85
-Jo Prestia,France,7.4,2.35
-Shinobu Terajima,Japan,6.1,1.85
-Madhavan,India,8.4,2.35
-David Dastmalchian,USA,6.2,2.35
-Mike Eshaq,USA,5.3,1.85
-Ron Silver,USA,5.0,1.85
-Shane Meadows,UK,7.7,1.85
-Julie R. Ølgaard,Norway,7.6,2.39
-Bronagh Gallagher,UK,6.3,2.35
-Gordon Pinsent,Canada,7.6,1.85
-Colin Farrell,Norway,5.6,
-George Voskovec,USA,7.3,1.85
-Prateik,India,6.2,
-Leigh Whannell,USA,6.6,2.35
-Shawnee Smith,USA,6.6,1.85
-Sumalee Montano,USA,7.3,2.35
-Chris Pontius,USA,6.6,1.85
-Gabriel Bateman,USA,6.9,2.35
-Christopher Nicholas Smith,USA,5.8,1.85
-Daren Kagasoff,USA,4.4,2.35
-Jennifer Rubin,USA,6.6,1.85
-Wendell Pierce,USA,7.1,2.35
-Hugo Stiglitz,Mexico,7.6,1.85
-Alisha Boe,USA,4.6,1.85
-Victor Mature,USA,6.8,2.2
-Catherine Schell,UK,7.1,2.35
-Yaphet Kotto,USA,4.9,1.85
-Pruitt Taylor Vince,USA,7.3,1.85
-Paul Lukas,USA,7.2,1.37
-Molly Ephraim,USA,5.0,1.78
-Dexter Fletcher,USA,8.2,2.35
-Denis O'Hare,USA,8.0,2.35
-Donald Glover,USA,5.2,2.35
-Jorja Fox,USA,8.5,2.35
-Garrett Ryan,USA,6.5,2.35
-Brian O'Halloran,USA,7.4,1.85
-Jamie Draven,UK,7.7,1.85
-Jim Rash,USA,7.4,1.85
-Helen Martin,USA,5.1,1.85
-Tom Burlinson,Australia,7.3,2.35
-Alice Playten,USA,5.0,1.33
-June Carter Cash,USA,7.2,1.85
-Diana Scarwid,USA,6.7,1.85
-Steve Coogan,USA,6.4,1.85
-David Kross,Canada,7.1,2.35
-Chrystale Wilson,USA,5.6,1.85
-John Heard,USA,6.2,1.85
-Perdita Weeks,USA,6.1,1.85
-Sharon Leal,USA,5.2,1.85
-Diahann Carroll,USA,7.3,1.85
-Seth Gilliam,USA,7.5,1.85
-Jean Simmons,USA,6.6,2.55
-Persis Khambatta,USA,6.4,1.85
-Scott Reeves,USA,4.5,1.85
-Lainie Kazan,USA,6.6,1.85
-Rachel Korine,USA,5.3,2.35
-Mitchell Ryan,USA,4.9,1.85
-María Aura,Mexico,7.7,1.85
-Rafe Spall,UK,8.0,2.35
-Haley Bennett,USA,3.8,1.85
-Miriam Colon,USA,7.6,2.35
-Ellie Cornell,USA,5.9,1.85
-Clayton Rohner,USA,6.2,2.35
-Ellen Barkin,USA,7.2,1.85
-Robert Beltran,USA,6.3,1.85
-Andrew Airlie,USA,5.2,1.33
-Paul Dooley,USA,6.9,2.35
-Sahajak Boonthanakit,USA,6.8,1.85
-Rip Torn,USA,6.2,1.85
-Finlay Currie,USA,6.2,2.2
-Russell Peters,USA,3.5,
-Wood Harris,USA,6.1,1.85
-Adolphe Menjou,USA,6.6,1.37
-Lauren London,USA,4.5,
-Mona Marshall,USA,5.9,1.85
-Eva Amurri Martino,USA,6.9,1.85
-Marina Hands,Canada,7.7,2.35
-Nicol Williamson,USA,6.6,1.85
-Izabella Miko,USA,5.3,1.85
-Franco Nero,UK,6.3,2.35
-Michael Richards,USA,7.0,1.85
-Shirley Jones,USA,7.0,2.35
-Jessica Walter,USA,6.6,1.85
-Jack Elam,Italy,8.6,2.35
-Jonathan Silverman,USA,6.4,1.85
-Benedict Wong,UK,7.9,2.35
-Carter Jenkins,USA,5.4,1.85
-Chloe Hollings,UK,6.9,1.78
-Simon Baker,Canada,7.7,2.35
-Olivier Rabourdin,France,7.2,2.35
-Greg Collins,USA,6.8,2.35
-Bess Armstrong,USA,6.2,
-Liz Mullane,New Zealand,7.4,2.35
-Cynthia Barrett,USA,4.6,2.35
-Stephen Root,USA,6.4,2.35
-Angela Featherstone,USA,7.0,1.85
-Reg E. Cathey,Spain,7.7,2.35
-David Clennon,USA,6.8,1.85
-Robert Pralgo,USA,7.0,2.35
-Tammy Blanchard,USA,7.0,1.85
-Marilyn Manson,USA,6.3,1.85
-Joe Cole,USA,7.1,2.35
-Winter Ave Zoli,USA,5.6,2.35
-Kristoffer Polaha,USA,4.4,
-Lumi Cavazos,USA,7.1,1.85
-Faye Dunaway,USA,6.1,2.35
-Darshan Jariwala,India,7.4,2.35
-Ken Davis,USA,7.5,2.35
-Jim Byrnes,Canada,7.2,1.85
-Chelan Simmons,Canada,7.6,2.35
-Martin Landau,USA,7.3,1.85
-Laraine Day,USA,6.2,1.37
-Sara Gilbert,USA,6.2,1.85
-Corey Sevier,Canada,4.6,1.85
-Olivia DeJonge,USA,6.2,1.85
-Kel O'Neill,USA,6.2,1.85
-Alice Evans,Germany,3.3,2.35
-Bokeem Woodbine,USA,7.5,1.78
-Jelena Nik,USA,4.2,
-Marta Etura,Spain,7.2,2.35
-Georgia Groome,UK,6.2,2.35
-Shenae Grimes-Beech,USA,6.1,1.78
-Jim Belushi,USA,4.2,1.85
-Katie Leclerc,USA,4.5,
-Timothy Omundson,USA,8.4,1.78
-David Adam Flannery,USA,7.5,
-Danny Aiello,USA,6.7,
-Cheryl Hines,USA,5.1,
-Nicholas Gonzalez,USA,5.5,1.78
-Tomiwa Edun,Bahamas,4.4,2.35
-Lisa Kay,UK,4.4,
-Hal Holbrook,USA,6.8,2.35
-Costas Mandylor,USA,6.7,
-Martin Kove,USA,8.6,
-Natasha Lyonne,USA,4.8,
-Ed Quinn,USA,3.4,
-Milan Lasica,Czech Republic,7.4,1.85
-Birol Ünel,Germany,7.3,1.85
-J.T. Walsh,USA,8.0,1.85
-Joseph Mawle,UK,6.5,2.35
-Rick Hoffman,USA,5.9,2.35
-Dylan Moran,UK,6.8,2.35
-Robert Longstreet,USA,7.4,2.35
-Katherine Helmond,USA,6.7,1.85
-Tamsin Egerton,UK,6.8,1.85
-Dagmara Dominczyk,USA,5.4,
-Jim Siedow,USA,5.5,1.85
-Jason Robards,USA,7.4,2.35
-Yayaying Rhatha Phongam,Denmark,5.7,1.85
-Emmanuelle Bercot,France,5.4,
-Camryn Manheim,USA,3.2,
-Dileep Raj,India,7.1,
-Jack McElhone,UK,7.8,1.85
-Stephen McHattie,Canada,5.3,2.35
-Zinedine Soualem,France,7.2,1.85
-Kim Ly,Mexico,6.2,
-Stephen Dillane,Spain,5.9,1.85
-Paul Glover,New Zealand,7.3,1.85
-Michael Winslow,USA,6.7,1.85
-Leo McKern,USA,5.7,1.85
-Simon Callow,UK,7.1,1.66
-Vincent Schiavelli,USA,7.2,1.85
-James Robertson Justice,USA,7.4,1.66
-Aaron Stanford,USA,7.7,2.35
-KaDee Strickland,USA,7.7,16.0
-Peter Spellos,USA,7.4,1.85
-Louise Lasser,USA,8.4,1.37
-Frank McHugh,USA,7.1,1.37
-Miguel Ángel Solá,Spain,7.2,2.0
-Juan Fernández,UK,7.5,1.85
-Patricia Heaton,USA,5.4,2.35
-James Duval,USA,8.1,2.35
-Joaquín Cosio,Mexico,6.0,2.35
-Hans Kesting,Netherlands,7.8,1.85
-Debbie Harry,USA,6.8,1.85
-Charlotte Rampling,USA,6.5,1.85
-Hye-jeong Kang,South Korea,7.7,2.35
-Marie Féret,France,6.4,1.85
-Danny Dyer,UK,6.5,1.85
-Josie Ho,Hong Kong,7.3,2.35
-Stephen Rea,Spain,6.6,2.35
-Lyubov Agapova,Sweden,7.9,1.85
-Chandler Canterbury,USA,5.9,2.35
-Dimple Kapadia,India,4.7,
-Louise Fletcher,USA,8.7,1.85
-Braeden Lemasters,USA,5.9,1.78
-Bernadette Peters,USA,6.7,1.85
-Purab Kohli,India,8.5,2.35
-Megan Follows,Canada,8.4,1.33
-Lateef Crowder,USA,5.8,
-Alan Ford,UK,6.1,2.35
-Amanda Redman,UK,7.3,2.35
-Matias Varela,Sweden,6.7,2.35
-Tammy Davis,New Zealand,7.6,2.35
-Paresh Rawal,India,7.2,2.35
-Anna Katharina Schwabroh,Switzerland,6.2,2.35
-Nonso Anozie,USA,5.8,2.35
-Olesya Rulin,USA,5.2,1.33
-Ellen Barkin,USA,8.1,16.0
-Danny Webb,UK,7.1,1.85
-Zhanna Friske,Russia,6.5,1.85
-Stephen Rea,UK,7.3,2.35
-Tony Ganios,Canada,6.2,1.85
-Kathleen Munroe,USA,5.0,2.35
-S. William Hinzman,USA,8.0,1.85
-Catherine Lambert,USA,7.8,1.85
-Shelley Duvall,USA,8.1,1.37
-Cornel Wilde,USA,6.7,1.37
-Ben Mendelsohn,UK,6.1,2.35
-Marcus Lyle Brown,USA,7.1,2.35
-David A Cole,USA,5.6,2.35
-Julian Sands,USA,7.6,1.66
-Lochlyn Munro,USA,4.3,1.78
-Beverly Randolph,USA,7.3,1.85
-David Wayne,USA,7.3,2.35
-Adam Hicks,USA,4.6,2.35
-Sidney James,USA,6.8,2.35
-Bokeem Woodbine,USA,7.5,1.78
-Yaya DaCosta,USA,7.1,1.85
-George 'Buck' Flower,USA,7.3,2.35
-Gordon Jackson,USA,8.3,2.35
-Armin Shimerman,USA,5.4,1.85
-Ashley Bell,France,4.0,2.35
-Libby Villari,USA,8.0,1.85
-Geoff Bell,UK,6.7,1.85
-Erick Avari,USA,5.7,2.35
-DJ Pooh,USA,4.6,1.85
-Faizon Love,USA,4.0,1.85
-Shawn Hatosy,USA,7.0,2.35
-Thelma Ritter,USA,7.4,1.66
-Rory Culkin,USA,5.9,1.85
-Peter Appel,USA,4.6,1.85
-Zena Grey,USA,4.8,2.35
-Fernando Cayo,Spain,7.5,2.35
-Gabriel Iglesias,USA,4.7,1.85
-Clifton Collins Jr.,USA,6.7,1.85
-Philippe Noiret,USA,6.3,1.85
-Amy Hill,USA,6.0,1.85
-Lili Taylor,USA,6.7,1.85
-Lesley Ann Warren,USA,7.1,1.85
-Benjamin Fletcher,USA,2.7,1.85
-Bill Johnson,USA,7.3,1.85
-Larry Miller,USA,7.6,1.85
-Bridgette Wilson-Sampras,USA,5.8,1.85
-Jayne Eastwood,USA,6.5,2.55
-Nancy O'Dell,USA,6.6,2.35
-Stephen Root,USA,6.2,1.85
-Rob Brydon,UK,6.9,1.85
-Puti Sri Candra Dewi,USA,8.5,2.35
-Richard Lynch,USA,4.8,1.85
-Rita Wilson,USA,6.6,2.35
-Elena Satine,USA,5.7,2.35
-Ernie Reyes Jr.,USA,7.0,1.85
-Julian Sands,USA,5.4,1.78
-Denis Lavant,France,7.1,1.85
-Ronnie Gene Blevins,USA,6.9,2.35
-Ralph Ineson,UK,6.6,2.35
-Hal Landon Jr.,USA,5.9,1.85
-Beth Broderick,Australia,6.3,1.85
-Mary McCormack,UK,6.3,1.85
-Arcelia Ramírez,Mexico,7.7,2.35
-Zoe Levin,USA,7.0,2.35
-Pauline McLynn,USA,6.3,1.85
-Rob Jarvis,UK,5.9,
-Ben Mendelsohn,Australia,6.2,2.35
-Olivia d'Abo,USA,5.0,2.35
-Aida Folch,Spain,7.7,1.85
-Nick Damici,USA,6.5,2.35
-Brandon Mychal Smith,USA,6.1,1.33
-Gretchen Mol,USA,5.8,1.85
-Jesuíta Barbosa,Brazil,6.1,2.35
-Demi Moore,USA,6.0,2.35
-Sean Harris,UK,6.3,2.35
-Marie-Josée Croze,Canada,6.3,2.35
-Eugenia Khirivskaya,Russia,7.5,
-Howard Caine,USA,7.6,2.35
-Fadia Nadda,Canada,5.2,2.35
-James Hall,USA,7.8,1.2
-Peter Jacobson,USA,6.6,1.85
-Kira McLean,USA,4.7,2.35
-Victoria Thaine,Australia,6.7,2.35
-Black Thomas,USA,4.2,
-Brooke D'Orsay,USA,6.3,1.78
-Diana Vickers,South Africa,4.7,
-Moises Arias,USA,6.0,2.35
-Paul Scofield,UK,7.9,1.66
-William Holden,USA,8.1,1.85
-Thomas Mitchell,USA,8.2,1.37
-Marama Corlett,UK,6.0,2.35
-Warren Oates,USA,6.8,2.35
-Nicholas Gonzalez,USA,7.3,1.85
-Betty Hutton,USA,7.0,1.37
-Alex Macqueen,UK,7.3,1.85
-Fernanda Torres,Brazil,7.5,2.35
-Charlotte Sullivan,Canada,6.8,2.35
-Ellen Ross,USA,7.1,1.37
-Stephen Henderson,Iceland,6.9,2.35
-James Corden,UK,6.9,1.85
-Aidan Quinn,UK,6.9,2.35
-Mike Farrell,USA,8.4,4.0
-John McGiver,USA,7.9,1.85
-Lesley Sharp,UK,7.2,1.85
-Barbara Billingsley,USA,7.8,1.85
-Jon Osbeck,USA,3.5,1.33
-Tony Cox,USA,7.3,1.85
-Khandi Alexander,USA,7.5,1.85
-Malik Yoba,USA,7.8,16.0
-Dorothy Lamour,USA,6.0,1.85
-L.Q. Jones,USA,7.3,1.85
-Will Geer,USA,8.0,2.35
-Beatrice Straight,USA,7.6,1.78
-Shelley Winters,USA,7.0,2.35
-Clive Swift,UK,7.5,1.85
-Ralph Ineson,USA,6.8,1.66
-Anthony Johnson,USA,3.9,1.85
-Michael McGlone,USA,6.1,1.85
-Kevin J. O'Connor,USA,7.5,2.35
-Guillermo Francella,Argentina,8.2,2.35
-Joseph Pilato,USA,7.2,1.85
-Derek Magyar,USA,4.8,1.85
-Kassie Wesley DePaiva,USA,7.8,1.85
-Robert Vaughn,USA,5.2,1.85
-Cassandra Scerbo,USA,3.3,1.78
-Damián Delgado,Mexico,6.8,1.85
-Glenn Erland Tosterud,Norway,7.0,1.85
-Kevin Sussman,USA,6.5,1.85
-Rosemarie DeWitt,USA,5.7,2.35
-Dallas Roberts,USA,6.4,1.85
-Scoot McNairy,USA,5.3,2.35
-Lara Jean Chorostecki,Canada,4.7,1.85
-Blaine Anderson,USA,6.1,1.85
-Robert Townsend,USA,5.5,1.37
-Genevieve O'Reilly,UK,7.3,
-Jere Burns,USA,4.8,2.35
-Grey Griffin,USA,8.4,
-Peter Agnefjall,USA,7.0,
-Ralitsa Paskaleva,Canada,3.3,1.78
-Lew Temple,USA,5.4,1.85
-Rita Wilson,,4.8,2.35
-Glen Murphy,UK,3.1,2.35
-Dick Van Patten,USA,6.7,1.85
-Romane Bohringer,France,7.6,1.85
-Ashley Williams,USA,7.1,1.85
-Edward Conna,USA,6.1,2.35
-Jonah Bobo,USA,6.5,1.66
-Chris Mulkey,USA,8.5,2.4
-Alexandre Rodrigues,Brazil,8.7,1.85
-Shaun Parkes,UK,7.1,1.85
-Luis Antonio,USA,6.6,
-Piper Laurie,USA,6.7,1.85
-Hana Shuan,Denmark,8.3,2.35
-Scott Schwartz,USA,8.1,1.85
-Eduardo Verástegui,USA,7.4,1.85
-Timothy Van Patten,Canada,6.6,1.85
-Josh Hopkins,USA,4.5,16.0
-Miriam Margolyes,USA,6.4,
-Angélica Sancio,France,7.5,2.35
-Charles Grodin,USA,8.0,1.85
-Vera Miles,USA,8.1,1.85
-Amy Irving,USA,7.2,2.35
-Yenny Paola Vega,Colombia,7.5,1.85
-Mary Page Keller,USA,7.2,1.85
-Henry Rollins,USA,6.4,2.35
-Tim Matheson,USA,7.6,1.85
-Lois Maxwell,UK,7.8,1.37
-Caleb Landry Jones,Canada,5.7,1.85
-Thomas Mitchell,USA,8.6,1.37
-Ewen Bremner,UK,8.2,1.85
-Steve Harvey,USA,6.6,1.85
-Micah Sloat,USA,5.7,1.85
-Fionnula Flanagan,UK,7.4,2.35
-Bill Clinton,Germany,8.0,1.85
-Ni Yan,China,7.3,2.35
-Marshall Bell,USA,5.4,1.85
-Denholm Elliott,UK,7.4,1.66
-Chris Mulkey,USA,5.7,2.35
-James Ransone,USA,6.8,2.35
-Dayna Devon,USA,5.4,1.85
-Jack Carson,USA,8.1,1.85
-Victor Buono,USA,6.1,2.35
-Michael Jeter,USA,5.1,1.85
-Lisa Ortiz,Japan,5.6,1.85
-Vincent Guastaferro,USA,5.9,1.85
-Jack Hawkins,UK,8.2,2.35
-Tonya Lee Williams,USA,5.3,1.85
-William Devane,USA,6.8,1.85
-David White,USA,8.3,2.35
-Erin Gray,USA,4.3,1.85
-David Opatoshu,USA,6.7,1.85
-Lauryn Hill,USA,7.2,1.85
-Ben Mendelsohn,UK,6.9,1.66
-Bobby Brown,USA,6.6,
-Mike Epps,USA,5.9,1.85
-Edward Andrews,USA,7.9,1.66
-Spencer Tracy,USA,8.3,1.75
-Countess Vaughn,USA,5.2,1.85
-Breckin Meyer,USA,7.8,1.33
-Harry Carey Jr.,USA,7.8,1.37
-Joyful Drake,USA,3.0,1.85
-Athina Rachel Tsangari,USA,7.9,1.85
-Kim Darby,USA,3.2,1.85
-James Le Gros,USA,6.5,1.85
-Clifton Powell,USA,6.9,
-George Lopez,USA,7.0,1.85
-Luke Ford,Australia,7.4,
-Seema Biswas,Canada,7.8,2.35
-Om Puri,UK,6.9,1.85
-David Heyman,USA,4.4,1.85
-Rekha,USA,6.0,1.85
-Ann Morgan Guilbert,USA,6.6,2.35
-Julie Dawn Cole,USA,7.8,1.33
-Paula Marshall,USA,5.3,1.66
-Dyan Cannon,USA,5.3,1.85
-Richard Libertini,USA,8.0,1.85
-Amy Irving,USA,7.1,1.85
-Jeff Conaway,USA,5.4,1.85
-Courtney Love,USA,6.9,1.85
-Vanessa Ray,USA,7.4,1.85
-Rapulana Seiphemo,UK,7.3,2.35
-Dylan Baker,USA,7.8,1.85
-Robert Noble,USA,6.6,1.85
-Michael Parks,USA,5.4,2.35
-Hye-jeong Kang,South Korea,8.4,2.35
-Christopher Schmidt,USA,6.3,1.78
-Molly Dunsworth,Canada,6.1,2.35
-Erick Elias,Mexico,5.0,
-Robert Peters,USA,6.9,1.85
-Brianna Brown,USA,7.2,
-Jason Maza,UK,7.3,1.33
-Zach Woods,USA,5.7,1.85
-Megalyn Echikunwoke,USA,5.0,1.78
-Andrew Rannells,USA,5.3,2.35
-Zach Grenier,USA,7.9,16.0
-Lindsey Haun,USA,5.0,
-Bob Ross,USA,5.3,1.78
-Griffin Cleveland,USA,6.0,2.35
-Tim Healy,UK,7.6,1.33
-Robert Stadlober,Germany,7.4,1.85
-Brendan Fehr,USA,5.9,
-Noah Segan,USA,4.1,2.35
-Peter Onorati,USA,6.7,1.85
-Rosanna Arquette,Germany,5.8,2.35
-Jim Norton,Ireland,6.2,1.85
-Aaron Yoo,USA,5.3,
-David Douglas,USA,3.3,1.78
-Anne Hathaway,USA,6.5,1.85
-Talia Shire,USA,6.2,1.85
-Chris Kattan,USA,5.9,
-Emily Nelson,Brazil,5.5,2.35
-Jack McBrayer,USA,5.5,1.85
-Olivia Alexander,USA,2.6,1.85
-Jillian Murray,USA,5.8,1.85
-Carroll O'Connor,USA,7.4,2.35
-Salvatore Santone,Italy,5.1,
-Jason Priestley,USA,5.2,2.35
-John Robinson,USA,4.8,
-Brett Wagner,USA,3.9,
-Fabio Testi,Italy,6.2,1.85
-Lily James,USA,7.0,2.35
-Frank Vincent,USA,6.2,1.78
-Shea Whigham,USA,5.9,1.85
-Othon Bastos,Brazil,8.0,2.35
-Thomas Mitchell,USA,7.3,2.35
-Scott Evans,USA,4.9,
-Brenda Vaccaro,USA,6.5,1.85
-Mia Barron,USA,4.3,
-Tempestt Bledsoe,USA,6.4,
-Billie Whitelaw,UK,7.6,2.35
-Oana Pellea,France,6.8,2.35
-Kelly Paterniti,Australia,6.1,1.85
-Allegra Carpenter,USA,4.0,2.35
-Elise Neal,USA,7.4,1.85
-George Raft,USA,8.3,1.66
-William Butler,USA,5.3,1.85
-Billie Burke,USA,8.1,1.37
-Teri Garr,USA,8.0,1.85
-Joe Dinicol,USA,5.7,1.85
-Jimmy Shergill,India,8.2,2.35
-Vanessa Zima,USA,7.1,1.66
-Hoyt Axton,USA,7.4,1.85
-Diljit Dosanjh,Canada,6.6,
-Casper Christensen,Denmark,5.7,1.85
-Jack Warden,USA,6.9,1.85
-Henri Garcin,Netherlands,7.0,1.85
-Irene Dunne,USA,7.0,1.37
-Harvey Korman,USA,7.8,2.35
-Kimberly Beck,USA,5.9,1.85
-Agata Kulesza,Poland,7.4,1.33
-Simon Callow,UK,7.8,1.66
-Seymour Cassel,USA,6.0,
-Clea DuVall,USA,5.3,1.85
-Laird John Hamilton,USA,7.9,
-Bárbara Goenaga,Spain,7.2,1.85
-Zheng Xu,China,7.4,2.35
-Beth Broderick,USA,5.3,1.85
-Cyd Charisse,USA,8.3,1.37
-Amy Badberg,Australia,7.6,
-J.B. Smoove,USA,5.1,1.85
-Dinesh D'Souza,USA,5.1,1.85
-Margot Kidder,USA,4.9,1.85
-Ethan Embry,USA,6.9,1.37
-Nancy Kyes,USA,4.6,2.35
-Sal Mineo,USA,6.3,2.35
-Whit Bissell,USA,7.9,2.35
-Dana Hanna,USA,6.7,1.85
-Flea,USA,7.1,1.78
-Jill Flint,USA,7.6,2.35
-Dominik Castell,USA,8.1,1.85
-Jean Pierre Bergeron,Canada,6.6,1.85
-Mark Webber,USA,7.0,2.35
-Jessica Hecht,USA,7.6,1.85
-Tannishtha Chatterjee,UK,6.7,2.35
-Ana Gasteyer,USA,7.1,2.35
-Amanda Plummer,Spain,7.6,1.85
-Dayo Okeniyi,USA,7.1,2.35
-Michael Bower,USA,7.1,
-Steve Burg,USA,7.7,1.78
-George W. Bush,USA,7.6,1.85
-Tom Bower,USA,6.6,1.85
-Joel David Moore,USA,6.7,2.35
-George Harris,USA,5.7,1.85
-Gavin Newsom,USA,7.1,1.78
-Shriya Saran,UK,6.2,2.35
-Sebastian Blomberg,Germany,6.1,2.35
-Tenoch Huerta,USA,5.9,1.85
-Paul T. Taylor,USA,6.8,1.85
-Lochlyn Munro,USA,5.8,
-David Masterson,Germany,5.0,2.35
-Mark Webber,USA,6.3,
-Andre Braugher,USA,6.8,1.85
-Justine Waddell,Poland,5.1,2.35
-David Herman,USA,6.6,1.85
-Kris Sommerville,UK,5.0,
-Jack O'Connell,UK,7.7,1.85
-Bianca Brigitte VanDamme,UK,3.1,2.35
-Red Skelton,USA,6.5,1.37
-Rene Rosado,USA,3.9,1.85
-Alexandra Holden,USA,6.8,1.85
-Howard Keel,USA,7.0,1.33
-Luke Perry,USA,5.9,2.35
-Christopher Heyerdahl,USA,5.8,
-Mindy Sterling,USA,7.3,
-,USA,7.8,1.37
-Tony Lo Bianco,USA,7.8,1.85
-Ivette Alvarez,USA,6.9,
-Catherine Parks,USA,5.7,2.35
-Dominick Brascia,USA,4.7,1.85
-A.J. Buckley,USA,5.9,1.85
+num_critic_for_reviews,actor_1_name,num_user_for_reviews,country,budget,title_year,imdb_score
+16,Aidan Quinn,29,USA,6000000,2010,5.7
+60,Benoît Magimel,36,France,,2003,6.6
+63,Jennifer Ehle,50,USA,6000000,2009,6.7
+56,Bingbing Li,22,China,6000000,2011,6.1
+36,Tim Blake Nelson,29,USA,6000000,2006,6.2
+47,James Nesbitt,34,UK,6000000,2001,6.2
+38,Meryl Streep,44,USA,7840000,1977,7.4
+26,Matthew McConaughey,37,USA,6000000,2008,4.7
+47,Noam Chomsky,29,USA,,2006,8.3
+68,Henry Thomas,133,USA,6000000,2003,7.2
+19,Catherine Bell,38,USA,8600000,1994,5.8
+39,Pruitt Taylor Vince,17,USA,,2009,5.9
+162,Charlie Hunnam,86,USA,12000000,2012,6.3
+37,Connie Nielsen,19,Canada,6000000,2009,7.2
+26,Drew Waters,39,USA,6000000,2011,5.4
+10,Romola Garai,50,UK,,,8.2
+179,Debbie Harry,228,Canada,5952000,1983,7.3
+88,Romain Duris,149,France,5300000,2002,7.3
+43,Anne Hathaway,21,USA,6000000,2014,5.8
+136,Ryan Gosling,302,USA,50000000,2002,6.1
+111,Yorick van Wageningen,37,Netherlands,4000000,2008,7.1
+13,Billy Burke,11,USA,6000000,2012,6.5
+64,Jeanne Moreau,124,France,6700000,1964,7.9
+6,Mira Sorvino,8,USA,,2012,5.4
+112,Jon Foo,214,Thailand,200000000,2005,7.1
+12,Sean Pertwee,21,UK,,1998,6.4
+15,Simon Bird,42,UK,,,8.4
+161,Archie Panjabi,438,UK,3500159,2002,6.7
+68,Miguel Ferrer,81,USA,5600000,2002,6.9
+25,Wesley Jonathan,36,USA,5600000,2006,2.1
+23,Asin,31,India,,2012,4.3
+222,Jonathan D. Mellor,148,Spain,5600000,2009,6.6
+9,Kayla Jackson,6,USA,,2010,3.4
+119,Eileen Brennan,252,USA,5500000,1973,8.3
+90,Alice Krige,213,UK,5500000,1981,7.2
+62,Cicely Tyson,202,USA,5500000,2005,5.6
+71,Noah Taylor,104,Australia,5500000,1996,7.7
+364,Joseph Gordon-Levitt,314,USA,3000000,2013,6.6
+72,Clint Eastwood,169,USA,5500000,1973,7.6
+122,Scarlett Johansson,488,USA,7000000,2001,7.4
+100,Kate Winslet,144,UK,5500000,2001,7.1
+24,Stephen Macht,44,USA,,1980,3.4
+112,Jean-Baptiste Maunier,110,France,5500000,2004,7.9
+67,Paul Sorvino,67,Canada,5000000,2003,6.7
+91,Alexis Dziena,153,USA,5000000,2003,6.6
+103,Ruby Dee,418,USA,6500000,1989,7.9
+27,Sarah Michelle Gellar,69,USA,5500000,2001,4.9
+205,Jean-Pierre Léaud,41,Finland,3850000,2011,7.2
+192,Philippe Nahon,664,France,,2002,7.4
+72,Lindsay Kay Hayward,12,Japan,5500000,2013,6.1
+33,Anupam Kher,321,India,,2006,8.4
+22,Kim Shaw,8,USA,,2014,6.2
+48,Jim Gaffigan,31,USA,9000000,2011,5.3
+65,Jon Hamm,117,USA,5250000,2007,5.0
+29,Bob Hoskins,47,UK,,1999,7.7
+284,Aksel Hennie,121,Norway,30300000,2011,7.6
+187,Russell Tovey,70,UK,4000000,2012,6.3
+47,Campbell Scott,52,Canada,6000000,2004,7.6
+88,Samantha Morton,14,Norway,5500000,2014,5.6
+41,Teresa Wright,249,USA,5100000,1980,7.3
+24,Abhishek Bachchan,27,India,,2011,6.2
+318,Lin Shaye,269,USA,5000000,2013,6.6
+250,Emmanuelle Vaugier,864,USA,4000000,2005,6.6
+411,Bradley Cooper,440,USA,15000000,2016,7.3
+106,Bam Margera,327,USA,5000000,2002,6.6
+159,Billy Burke,95,USA,4900000,2016,6.9
+251,Johanna Braddy,314,USA,5000000,2011,5.8
+183,Lin Shaye,159,USA,5000000,2014,4.4
+131,John Saxon,311,USA,4500000,1987,6.6
+297,Busy Philipps,279,USA,5000000,2015,7.1
+41,Eugenio Derbez,81,Mexico,5000000,2013,7.6
+248,Matt Shively,247,USA,5000000,2012,4.6
+42,Richard Burton,69,USA,5000000,1953,6.8
+33,Burt Kwouk,73,UK,5000000,1975,7.1
+91,Johnny Depp,252,USA,8500000,1991,4.9
+185,Charlize Theron,533,USA,4500000,2003,7.3
+69,James Mason,108,USA,5000000,1954,7.2
+220,Richard Cabral,155,USA,5000000,2014,5.0
+117,Anthony Hopkins,356,USA,5000000,1980,8.2
+471,Matthew McConaughey,340,USA,5000000,2013,8.0
+152,Olivia Wilde,126,USA,3300000,2015,5.2
+274,Callum Rennie,2067,USA,9000000,2000,8.5
+336,James Lafferty,339,USA,5000000,2013,6.5
+174,Ethan Suplee,472,USA,5000000,2006,7.4
+151,Julie Walters,433,UK,5000000,2000,7.7
+276,Steve Carell,216,USA,5000000,2013,7.4
+12,William Schallert,11,USA,5000000,1991,5.1
+18,Tony Bonner,56,Australia,3500000,1982,7.3
+28,Frank Welker,18,USA,5000000,1999,5.0
+95,John Beasley,157,USA,5000000,1997,7.2
+74,Faye Dunaway,161,USA,5000000,1981,6.7
+179,Zooey Deschanel,115,USA,5000000,2011,6.4
+125,William Hurt,49,Canada,,2016,7.1
+22,Bernie Mac,26,USA,4500000,1998,5.6
+92,Mekhi Phifer,153,USA,5000000,2001,6.2
+196,Ben Feldman,211,USA,5000000,2014,6.1
+9,Boris Kodjoe,33,USA,5000000,2014,5.2
+31,Jurnee Smollett-Bell,209,USA,6000000,1997,7.3
+309,Kristen Stewart,195,USA,5000000,2014,7.5
+15,Gene Tierney,67,USA,5000000,1954,6.6
+36,Sylvester Stallone,107,USA,5000000,1981,6.4
+129,Kane Hodder,291,USA,5000000,1989,4.5
+168,Nia Vardalos,756,USA,5000000,2002,6.6
+444,James Franco,561,USA,5000000,2012,5.3
+123,Donald Pleasence,335,USA,5000000,1995,4.9
+173,Maribel Verdú,385,Mexico,2000000,2001,7.7
+246,Peter Serafinowicz,859,UK,4000000,2004,8.0
+74,Jessica Lowndes,113,USA,5000000,2008,3.8
+68,Matthew McConaughey,173,USA,5000000,1996,7.6
+144,Donald Pleasence,374,USA,5000000,1988,5.9
+96,Thomas F. Wilson,125,USA,5000000,1986,6.2
+42,Steve Guttenberg,87,USA,5000000,1982,7.2
+29,David Carradine,65,USA,5000000,1983,6.3
+228,Warren Christie,323,USA,5000000,2011,5.2
+195,Clifton Collins Jr.,134,USA,8000000,2008,6.9
+203,Sterling Jerins,214,USA,5000000,2015,6.8
+44,Vanna Bonta,87,USA,8000000,1982,6.2
+14,Gina Lollobrigida,33,USA,5000000,1959,6.2
+59,Fred Willard,53,USA,5000000,2016,3.5
+45,Eddie Cibrian,21,USA,8000000,2009,6.1
+42,Gary Cooper,46,USA,800000,1932,6.6
+12,Donald Faison,9,USA,5000000,2016,4.5
+29,Lara Jill Miller,65,USA,5000000,2000,5.9
+121,Macaulay Culkin,324,USA,5000000,2004,6.9
+135,Marie-Josée Croze,166,Canada,6000000,2003,7.7
+27,Robert Shaw,90,USA,5000000,1976,6.6
+56,Brendan Fehr,131,USA,5000000,2001,5.3
+22,Harrison Ford,80,UK,5000000,1978,6.3

@@ -1,88 +1,284 @@
-num_critic_for_reviews,duration,genres,num_voted_users,movie_imdb_link,num_user_for_reviews,content_rating,title_year,aspect_ratio
-73,119,Comedy|Drama|Family|Romance,22304,http://www.imdb.com/title/tt1018785/?ref_=fn_tt_tt_1,33,PG-13,2008,1.85
-98,118,Comedy|Music,6476,http://www.imdb.com/title/tt1710396/?ref_=fn_tt_tt_1,71,PG-13,2012,2.35
-158,101,Comedy|Drama|Romance,144021,http://www.imdb.com/title/tt0276751/?ref_=fn_tt_tt_1,391,PG-13,2002,2.35
-152,82,Action|Comedy|Horror,42761,http://www.imdb.com/title/tt0139414/?ref_=fn_tt_tt_1,366,R,1999,2.35
-202,110,Crime|Drama|Mystery|Thriller,262153,http://www.imdb.com/title/tt0425210/?ref_=fn_tt_tt_1,507,R,2006,2.35
-80,193,Adventure|Drama|History,45271,http://www.imdb.com/title/tt0086197/?ref_=fn_tt_tt_1,170,PG,1983,1.85
-288,130,Drama|History|Thriller,34488,http://www.imdb.com/title/tt1521197/?ref_=fn_tt_tt_1,136,PG-13,2011,2.35
-99,94,Adventure|Drama|Family|Fantasy,99557,http://www.imdb.com/title/tt0088323/?ref_=fn_tt_tt_1,284,PG,1984,2.35
-222,111,Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller,156929,http://www.imdb.com/title/tt0118929/?ref_=fn_tt_tt_1,624,R,1998,2.35
-194,110,Biography|Drama|History|Romance,61777,http://www.imdb.com/title/tt0864761/?ref_=fn_tt_tt_1,140,PG-13,2008,2.35
-15,30,Comedy|Family,3446,http://www.imdb.com/title/tt0042114/?ref_=fn_tt_tt_1,31,,,1.33
-56,109,Adventure|Family|Fantasy|Horror|Mystery,19568,http://www.imdb.com/title/tt0089908/?ref_=fn_tt_tt_1,208,PG,1985,1.85
-63,123,Action|Crime|Drama|History|Western,8309,http://www.imdb.com/title/tt0120769/?ref_=fn_tt_tt_1,39,PG-13,1998,2.35
-167,109,Horror|Mystery|Thriller,60555,http://www.imdb.com/title/tt0795351/?ref_=fn_tt_tt_1,174,R,2009,2.35
-101,99,Crime|Drama|Mystery|Thriller,16555,http://www.imdb.com/title/tt0324127/?ref_=fn_tt_tt_1,139,R,2004,1.33
-118,106,Comedy|Drama|Family,17436,http://www.imdb.com/title/tt0415965/?ref_=fn_tt_tt_1,71,PG,2007,1.85
-76,89,Action|Adventure|Comedy|Family|Sci-Fi,15866,http://www.imdb.com/title/tt1517489/?ref_=fn_tt_tt_1,83,PG,2011,1.85
-268,98,Crime|Drama|Thriller,19611,http://www.imdb.com/title/tt2241351/?ref_=fn_tt_tt_1,103,R,2016,2.35
-95,93,Action|Comedy|Crime|Thriller,42876,http://www.imdb.com/title/tt0227984/?ref_=fn_tt_tt_1,167,R,2001,2.35
-78,112,Comedy|Crime|Drama,14612,http://www.imdb.com/title/tt0155711/?ref_=fn_tt_tt_1,105,R,1999,1.85
-127,101,Crime|Horror|Mystery|Thriller,49405,http://www.imdb.com/title/tt0297284/?ref_=fn_tt_tt_1,226,R,2004,2.35
-137,104,Comedy|Drama,23767,http://www.imdb.com/title/tt0486674/?ref_=fn_tt_tt_1,111,R,2008,2.35
-54,120,Drama|Thriller,4257,http://www.imdb.com/title/tt0340376/?ref_=fn_tt_tt_1,52,R,2003,1.85
-38,135,Drama|Musical|Romance,926,http://www.imdb.com/title/tt0475331/?ref_=fn_tt_tt_1,19,,2006,2.35
-167,91,Action|Comedy|Crime,84209,http://www.imdb.com/title/tt1114740/?ref_=fn_tt_tt_1,201,PG,2009,1.85
-129,97,Comedy|Family|Fantasy|Music|Romance,96693,http://www.imdb.com/title/tt0322330/?ref_=fn_tt_tt_1,271,PG,2003,1.85
-217,133,Comedy|Romance,313797,http://www.imdb.com/title/tt0405422/?ref_=fn_tt_tt_1,546,R,2005,1.85
-134,123,Comedy|Drama|Romance,175524,http://www.imdb.com/title/tt0138097/?ref_=fn_tt_tt_1,752,R,1998,2.35
-253,114,Crime|Drama|Mystery|Thriller,87950,http://www.imdb.com/title/tt0365907/?ref_=fn_tt_tt_1,207,R,2014,2.35
-46,111,Action|Comedy|Crime,107801,http://www.imdb.com/title/tt0099938/?ref_=fn_tt_tt_1,109,PG-13,1990,1.85
-232,117,Action|Comedy|Crime,255257,http://www.imdb.com/title/tt0910936/?ref_=fn_tt_tt_1,374,R,2008,2.35
-92,121,Comedy|Drama|Romance,57958,http://www.imdb.com/title/tt0120631/?ref_=fn_tt_tt_1,345,PG-13,1998,2.35
-153,139,Drama|Romance|Western,54096,http://www.imdb.com/title/tt0316356/?ref_=fn_tt_tt_1,494,R,2003,2.35
-49,115,Drama|Horror|Sci-Fi|Thriller,62037,http://www.imdb.com/title/tt0099582/?ref_=fn_tt_tt_1,148,R,1990,2.35
-79,22,Comedy,133415,http://www.imdb.com/title/tt0472954/?ref_=fn_tt_tt_1,151,TV-MA,,1.33
-56,175,Drama|History|War,40277,http://www.imdb.com/title/tt0075784/?ref_=fn_tt_tt_1,210,PG,1977,2.35
-224,85,Mystery|Thriller,94108,http://www.imdb.com/title/tt0421239/?ref_=fn_tt_tt_1,673,PG-13,2005,2.35
-175,90,Horror|Thriller,120786,http://www.imdb.com/title/tt0309593/?ref_=fn_tt_tt_1,472,R,2003,1.85
-197,107,Adventure|Comedy|Crime|Music,225102,http://www.imdb.com/title/tt0190590/?ref_=fn_tt_tt_1,862,PG-13,2000,2.35
-226,100,Action|Fantasy|Horror,80870,http://www.imdb.com/title/tt1038686/?ref_=fn_tt_tt_1,315,R,2010,2.35
-335,129,Comedy|Crime|Drama,161168,http://www.imdb.com/title/tt1980209/?ref_=fn_tt_tt_1,287,R,2013,2.35
-157,109,Comedy|Drama|Romance,48973,http://www.imdb.com/title/tt0385267/?ref_=fn_tt_tt_1,214,PG-13,2004,1.85
-69,94,Action|Adventure|Comedy|Sci-Fi|Thriller,11212,http://www.imdb.com/title/tt0157472/?ref_=fn_tt_tt_1,94,PG,2002,1.85
-46,133,Action|Crime|Drama|Western,28247,http://www.imdb.com/title/tt0090022/?ref_=fn_tt_tt_1,149,PG-13,1985,2.35
-217,105,Drama|Thriller,88035,http://www.imdb.com/title/tt0765010/?ref_=fn_tt_tt_1,201,R,2009,2.35
-55,100,Action|Adventure|Comedy|Family|Romance|Sci-Fi,11092,http://www.imdb.com/title/tt0358349/?ref_=fn_tt_tt_1,44,PG,2004,2.35
-200,113,Comedy|Romance,66579,http://www.imdb.com/title/tt1598822/?ref_=fn_tt_tt_1,134,PG-13,2011,1.85
-93,118,Drama|Mystery|Romance|Thriller,44913,http://www.imdb.com/title/tt0218922/?ref_=fn_tt_tt_1,181,R,2001,2.35
-265,110,Crime|Mystery|Thriller,72886,http://www.imdb.com/title/tt1486192/?ref_=fn_tt_tt_1,190,R,2012,2.35
-82,110,Comedy|Romance,10667,http://www.imdb.com/title/tt0361925/?ref_=fn_tt_tt_1,95,PG-13,2004,1.85
-32,99,Action|Fantasy|Romance|Sci-Fi,16194,http://www.imdb.com/title/tt0110027/?ref_=fn_tt_tt_1,79,PG-13,1994,2.35
-42,101,Crime|Drama|Thriller,7772,http://www.imdb.com/title/tt0115710/?ref_=fn_tt_tt_1,55,R,1996,1.85
-22,100,Fantasy|Horror,8118,http://www.imdb.com/title/tt0119227/?ref_=fn_tt_tt_1,69,R,1997,1.85
-116,103,Comedy|Crime|Mystery|Romance,31798,http://www.imdb.com/title/tt0256524/?ref_=fn_tt_tt_1,178,PG-13,2001,1.37
-56,100,Comedy|Romance,5006,http://www.imdb.com/title/tt1137470/?ref_=fn_tt_tt_1,28,PG-13,2015,1.85
-23,95,Adventure|Family,8008,http://www.imdb.com/title/tt0116322/?ref_=fn_tt_tt_1,26,PG,1996,2.35
-178,117,Action|Mystery|Sci-Fi|Thriller,57674,http://www.imdb.com/title/tt2140379/?ref_=fn_tt_tt_1,126,PG-13,2015,2.35
-226,129,Drama|Mystery|Romance|Thriller,111351,http://www.imdb.com/title/tt0387131/?ref_=fn_tt_tt_1,568,R,2005,1.85
-406,120,Drama,179235,http://www.imdb.com/title/tt0335345/?ref_=fn_tt_tt_1,2814,R,2004,2.35
-57,125,Comedy|Drama|Family|Romance,181380,http://www.imdb.com/title/tt0107614/?ref_=fn_tt_tt_1,223,PG-13,1993,2.35
-100,133,Drama,383784,http://www.imdb.com/title/tt0095953/?ref_=fn_tt_tt_1,331,R,1988,1.85
-366,116,Drama,561773,http://www.imdb.com/title/tt1205489/?ref_=fn_tt_tt_1,871,R,2008,2.35
-242,129,Biography|Drama|History,40941,http://www.imdb.com/title/tt1175491/?ref_=fn_tt_tt_1,320,PG-13,2008,2.35
-309,93,Action|Thriller,483756,http://www.imdb.com/title/tt0936501/?ref_=fn_tt_tt_1,974,PG-13,2008,2.35
-85,118,Drama|Romance,43084,http://www.imdb.com/title/tt1972779/?ref_=fn_tt_tt_1,99,PG-13,2014,2.35
-48,129,Action|Drama|Music|Romance,89972,http://www.imdb.com/title/tt0103855/?ref_=fn_tt_tt_1,126,R,1992,1.85
-174,185,Biography|Drama|History,865020,http://www.imdb.com/title/tt0108052/?ref_=fn_tt_tt_1,1273,R,1993,1.85
-373,146,Drama,318955,http://www.imdb.com/title/tt1454029/?ref_=fn_tt_tt_1,460,PG-13,2011,1.85
-224,128,Biography|Drama|Thriller,29282,http://www.imdb.com/title/tt1837703/?ref_=fn_tt_tt_1,105,R,2013,2.35
-94,93,Adventure|Comedy|Family|Fantasy|Horror|Mystery,33180,http://www.imdb.com/title/tt0331632/?ref_=fn_tt_tt_1,149,PG,2004,1.85
-25,107,Adventure|Fantasy|Mystery|Thriller,3170,http://www.imdb.com/title/tt1224378/?ref_=fn_tt_tt_1,18,,2014,1.85
-273,97,Action|Horror|Thriller,89101,http://www.imdb.com/title/tt0329101/?ref_=fn_tt_tt_1,885,R,2003,2.35
-78,101,Drama,2863,http://www.imdb.com/title/tt2967008/?ref_=fn_tt_tt_1,25,Not Rated,2014,2.35
-66,82,Action|Adventure|Animation|Comedy|Family|Sci-Fi,23943,http://www.imdb.com/title/tt0268397/?ref_=fn_tt_tt_1,118,G,2001,1.85
-459,85,Action|Adventure|Horror|Sci-Fi,296787,http://www.imdb.com/title/tt1060277/?ref_=fn_tt_tt_1,2192,PG-13,2008,1.85
-68,88,Action|Adventure|Comedy|Family|Sci-Fi,42765,http://www.imdb.com/title/tt0103060/?ref_=fn_tt_tt_1,93,PG,1991,1.85
-123,119,Crime|Drama|Thriller,219008,http://www.imdb.com/title/tt0094226/?ref_=fn_tt_tt_1,418,R,1987,2.35
-488,122,Crime|Drama|Thriller,612060,http://www.imdb.com/title/tt0477348/?ref_=fn_tt_tt_1,1518,R,2007,2.35
-146,99,Action|Comedy|Crime|Romance,75903,http://www.imdb.com/title/tt1408253/?ref_=fn_tt_tt_1,109,PG-13,2014,2.35
-168,97,Comedy|Drama|Romance,171568,http://www.imdb.com/title/tt0243155/?ref_=fn_tt_tt_1,571,R,2001,2.35
-152,121,Drama|Romance,150308,http://www.imdb.com/title/tt0241303/?ref_=fn_tt_tt_1,498,PG-13,2000,1.85
-133,95,Comedy,46417,http://www.imdb.com/title/tt0333780/?ref_=fn_tt_tt_1,297,PG-13,2003,1.85
-139,105,Comedy|Family,21176,http://www.imdb.com/title/tt1047540/?ref_=fn_tt_tt_1,107,PG,2012,1.85
-245,108,Comedy|Romance,168717,http://www.imdb.com/title/tt1411238/?ref_=fn_tt_tt_1,178,R,2011,2.35
-84,134,Action|Biography|Drama|History|Romance|Western,95241,http://www.imdb.com/title/tt0108358/?ref_=fn_tt_tt_1,439,R,1993,2.35
-70,115,Action|Crime|Thriller,57040,http://www.imdb.com/title/tt0165929/?ref_=fn_tt_tt_1,365,R,2000,2.35
-154,107,Fantasy|Horror|Mystery,80958,http://www.imdb.com/title/tt0075005/?ref_=fn_tt_tt_1,310,R,1976,2.35
+duration,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,gross,genres,actor_1_name,cast_total_facebook_likes,country,content_rating,title_year
+77,37,795,3000,9694105,Comedy|Family|Romance,Brendan Fraser,5568,USA,PG,1999
+96,11,150,805,16027866,Action|Crime|Thriller,Ed Skrein,1411,France,PG-13,2015
+114,2,567,40000,4829497,Drama|Romance,Johnny Depp,42484,UK,R,2004
+145,719,104,2000,4398392,Drama|Thriller|War,Michiel Huisman,2590,Netherlands,R,2006
+116,13,140,203,1050445,Drama|History|Music|Romance|War,Gary Lewis,773,France,PG-13,2005
+100,21,552,14000,13746550,Action|Comedy|Romance,Bradley Cooper,15922,USA,R,2012
+104,144,290,939,20668843,Comedy|Crime|Thriller,Stephen Root,2453,USA,PG-13,2008
+92,17,231,14000,2963012,Drama|Mystery|Thriller,Colin Firth,14617,UK,R,2014
+92,607,35,813,,Adventure|Drama|Thriller,Roy Scheider,1011,USA,PG,1977
+105,43,827,22000,1796024,Drama|Thriller,Robert De Niro,37766,USA,R,2010
+120,2,80,809,634277,Comedy|History,Romain Duris,1651,France,PG-13,2007
+116,108,120,23000,11326836,Crime|Drama|Thriller,Christian Bale,24134,USA,R,2013
+119,209,521,1000,49024969,Crime|Drama|Mystery|Thriller,Tom Wilkinson,3284,USA,R,2007
+101,88,812,957,22294341,Adventure|Comedy,Wilford Brimley,4629,USA,PG-13,1996
+117,89,442,12000,24362501,Crime|Drama|Thriller,Jeff Bridges,13576,USA,R,1999
+106,195,0,20,,Adventure|Animation|Family|Sport,Pablo Rago,30,Spain,PG,2013
+112,11000,159,385,16684352,Comedy|Romance,Ornella Muti,1205,USA,R,2012
+136,16000,216,16000,46700000,Action|Adventure|Thriller,Clint Eastwood,16805,USA,PG,1982
+81,406,406,893,52008288,Animation|Comedy|Fantasy|Musical,Minnie Driver,3003,USA,R,1999
+87,0,548,22000,8579684,Comedy,Peter Dinklage,24324,USA,R,2007
+96,8,199,533,42660000,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Paige Turco,1254,USA,PG,1993
+106,48,39,18000,40219708,Drama|Sport,Keanu Reeves,18630,USA,PG-13,2001
+122,737,14000,34000,132088910,Comedy|Drama|Romance,Jennifer Lawrence,72115,USA,R,2012
+123,98,579,2000,36581633,Biography|Crime|Drama,Hunter Parrish,3994,Germany,PG-13,2007
+133,0,637,1000,37721949,Drama,Omari Hardwick,6035,USA,R,2010
+92,255,447,26000,25296447,Action|Crime|Thriller,Jason Statham,27572,France,PG-13,2002
+110,65,149,3000,24848292,Action|Drama|Sport,Djimon Hounsou,4089,USA,PG-13,2008
+104,52,484,711,17757087,Horror|Sci-Fi|Thriller,Jason London,3162,USA,R,1999
+60,,,98,,Game-Show|Reality-TV|Romance,Chris Harrison,98,USA,,
+98,0,374,925,9430988,Comedy|Drama|Romance,Catherine O'Hara,1997,USA,R,2009
+120,0,886,1000,16284360,Comedy|Drama,Madeline Carroll,6212,USA,PG-13,2008
+112,52,347,15000,6830957,Drama|Romance,Jake Gyllenhaal,16692,USA,PG-13,2002
+127,140,10000,19000,24104113,Drama|Mystery|Thriller,Benedict Cumberbatch,46241,France,R,2011
+102,18,186,670,15593,Comedy|Drama|Romance,Elaine Hendrix,1562,USA,PG-13,1999
+91,0,220,34000,958319,Drama,Jennifer Lawrence,34705,USA,PG-13,2011
+114,19,842,1000,69700000,Comedy|Musical,Dolly Parton,3688,USA,R,1982
+115,0,716,1000,2840417,Horror|Sci-Fi|Thriller,Jennifer Jason Leigh,2990,Canada,R,1999
+115,14000,488,11000,242374454,Action|Adventure,Harrison Ford,12906,USA,PG,1981
+120,0,1000,3000,173585516,Adventure|Comedy|Family,Macaulay Culkin,7860,USA,PG,1992
+135,14000,252,559,128300000,Drama|Sci-Fi,Bob Balaban,1591,USA,PG,1977
+90,2,807,16000,20259297,Drama|Horror|Sci-Fi|Thriller,Ian Somerhalder,19952,USA,PG-13,2006
+100,12000,605,936,153665036,Action|Comedy|Crime|Thriller,Dean Stockwell,4121,USA,R,1987
+105,163,338,1000,132541238,Comedy,Angus T. Jones,2505,USA,PG-13,2003
+138,438,173,12000,130727000,Crime|Drama|Horror|Thriller,Anthony Hopkins,13184,USA,R,1991
+94,122,617,1000,121697350,Comedy|Music,Tia Carrere,4263,USA,PG-13,1992
+101,79,218,608,117224271,Action|Comedy|Documentary,Bam Margera,1787,USA,R,2010
+131,82,85,813,102922376,Adventure|Horror|Thriller,Roy Scheider,1520,USA,PG,1978
+91,67,597,2000,94497271,Adventure|Comedy|Drama|Family|Romance,Jamie Lee Curtis,4729,USA,PG,2008
+112,0,697,6000,137387272,Horror|Mystery|Thriller,Mackenzie Foy,9049,USA,R,2013
+95,32,563,826,82301521,Adventure|Comedy|Family|Romance,Nia Long,3558,USA,PG,2005
+100,265,265,989,84518155,Comedy,Gary Cole,2654,USA,R,2014
+105,154,501,884,80050171,Drama|Mystery|Thriller,Sarah Roemer,2287,USA,PG-13,2007
+108,0,487,2000,81257845,Comedy|Music,Miranda Cosgrove,4403,USA,PG-13,2003
+101,545,545,1000,70360285,Action|Adventure|Fantasy|Sci-Fi|Thriller,Christopher Lambert,3816,USA,PG-13,1995
+114,118,40,489,12831121,Drama|Mystery|Romance|Thriller,Jessica Paré,679,USA,PG-13,2004
+109,322,861,1000,69148997,Comedy|Crime,Busy Philipps,6313,USA,PG-13,2004
+115,729,552,8000,82624961,Comedy|Drama,Shailene Woodley,9578,USA,R,2011
+117,99,165,596,67325559,Adventure|Comedy|Drama|Family|Mystery,Tim Blake Nelson,1293,USA,PG,2003
+107,30,318,742,62933793,Drama|Family|Music|Romance,Kelly Preston,2341,USA,PG,2010
+134,0,500,2000,56667870,Biography|Drama|History,Quvenzhané Wallis,4251,USA,R,2013
+118,30,284,962,56398162,Comedy|Drama|Music|Romance,Leonard Roberts,2390,USA,PG-13,2002
+121,0,721,2000,60072596,Comedy|Drama|Romance,Michael Jai White,6657,USA,PG-13,2010
+105,13000,658,40000,56362352,Fantasy|Romance,Johnny Depp,42330,USA,PG-13,1990
+110,17,418,11000,56154094,Drama|Romance,Sam Claflin,21852,UK,PG-13,2016
+114,0,582,982,65623128,Comedy|Crime|Drama,John Amos,2753,USA,PG-13,2012
+104,607,109,813,,Action|Crime|Drama|Thriller,Roy Scheider,1196,USA,R,1971
+100,24,851,15000,55461307,Comedy,Mila Kunis,18786,USA,R,2016
+85,64,729,3000,48546578,Comedy|Romance,Alyson Hannigan,6539,USA,PG-13,2006
+72,2,434,1000,48423368,Adventure|Animation|Family|Fantasy,Roger Rees,3402,USA,G,2002
+128,151,852,1000,52066000,Biography|Drama|History,David Oyelowo,3869,UK,PG-13,2014
+72,0,384,3000,47887943,Adventure|Animation|Family|Musical,Haley Joel Osment,4480,USA,G,2003
+89,19,349,526,46363118,Drama|Horror|Mystery|Thriller,Barry Watson,1383,USA,PG-13,2005
+96,9,107,826,47852604,Drama|Mystery|Thriller,Nia Long,1825,USA,PG-13,2007
+77,25,16,304,45542421,Animation|Comedy|Drama|Family|Musical,Kath Soucie,575,USA,G,2000
+123,174,602,87000,41573740,Horror|Mystery|Thriller,Jimmy Bennett,88953,USA,R,2009
+111,132,455,1000,42652003,Adventure|Family,Jay Hernandez,2851,USA,PG,2015
+30,,295,607,,Comedy,Lamman Rucker,1530,USA,,
+93,82,729,926,39737645,Adventure|Comedy,David Carradine,4293,USA,PG-13,2007
+129,468,183,919,37567440,Adventure|Fantasy,William Smith,2024,USA,R,1982
+128,310,77,745,44988180,Biography|Crime|Drama|History,Billy Crudup,1058,USA,R,2015
+110,119,332,1000,39263506,Crime|Drama|Thriller,Jay Hernandez,2382,USA,PG-13,2008
+137,70,464,4000,39143839,Horror|Thriller,Sarah Michelle Gellar,5746,USA,PG-13,2006
+124,8,232,508,37672350,Comedy|Drama|Romance,Richard Lawson,1660,USA,R,1998
+93,12,636,18000,38037513,Adventure|Comedy|Fantasy|Music|Sci-Fi,Keanu Reeves,20188,USA,PG,1991
+115,272,1000,49000,37442180,Comedy|Drama|Romance|Thriller,Robin Williams,52571,USA,PG-13,2006
+98,20,160,889,,Action|Sci-Fi,Robert Forster,2110,USA,PG,1979
+105,210,101,978,35596227,Crime|Drama|Thriller,Violante Placido,1454,USA,R,2010
+127,16,399,565,35422828,Biography|Drama|Music,Jon Seda,1735,USA,PG,1997
+82,82,354,759,36658108,Comedy,Diedrich Bader,2898,USA,PG-13,2010
+143,0,51,11000,34300771,Drama,Brad Pitt,11248,France,R,2006
+103,189,949,2000,34290142,Comedy|Drama,Tina Fey,4662,USA,R,2014
+104,53,652,22000,33422556,Drama|Mystery,Philip Seymour Hoffman,33903,USA,PG-13,2008
+98,406,406,860,32774834,Action|Comedy,Jeremy Shada,2609,USA,R,2004
+92,34,322,383,34334256,Horror|Thriller,Gunnar Hansen,1945,USA,R,2013
+123,36,631,10000,32051917,Crime|Drama|Mystery|Thriller,William McNamara,12338,USA,R,1995
+88,92,636,31000,32014289,Comedy,Marisa Saks,34319,USA,PG-13,2013
+158,32,417,16000,,Comedy|Drama|Musical|Romance|Western,Clint Eastwood,17775,USA,PG-13,1969
+128,835,755,11000,31838002,Biography|Drama|History,James Franco,13189,USA,R,2008
+107,58,47,141,36874745,Action|Adventure|Drama|Mystery,Peter Firth,389,USA,PG-13,2016
+91,17,78,534,30079316,Horror,Isaiah Washington,1083,USA,R,2002
+90,12,587,786,35033759,Adventure|Comedy,Patton Oswalt,2462,USA,R,2011
+115,39,254,13000,29753944,Crime|Drama|Mystery|Thriller,Bill Murray,14275,USA,R,1998
+101,29,429,812,29062561,Crime|Thriller,Sela Ward,3292,USA,PG-13,2009
+113,108,22,1000,31146570,Drama|Thriller,Tom Wilkinson,1136,USA,R,2010
+113,350,619,1000,27277055,Comedy|Drama|Music|Romance,Drake Bell,3141,UK,R,2000
+87,2,270,741,26876529,Horror|Mystery,Johnny Lewis,1834,Japan,PG-13,2008
+101,154,497,1000,53146000,Crime|Drama|Thriller,Joe Mantegna,3174,USA,R,1996
+111,79,287,26000,30028592,Crime|Drama|Romance|Thriller,Jason Statham,27755,UK,R,2008
+108,1000,1000,14000,34126138,Drama|Fantasy|Romance|Sci-Fi,Kate Winslet,19364,USA,R,2004
+105,99,518,2000,25677801,Comedy|Family|Romance,Jamie Lee Curtis,4813,USA,PG,2010
+109,453,2000,18000,26415649,Action|Crime|Drama|Thriller,Keanu Reeves,33878,USA,R,2008
+109,1000,24,177,26003149,Action|Comedy|Sci-Fi,Michael Smiley,278,UK,R,2013
+99,26,650,720,25584685,Comedy|Crime|Family|Mystery|Romance|Thriller,Kay Panabaker,3327,USA,PG,2007
+98,35,16,125,29975979,Action|Horror|Sci-Fi|Thriller,Jay Laga'aia,189,Australia,R,2009
+104,14,756,2000,31584722,Comedy|Romance,Mike Vogel,5707,USA,R,2010
+109,15,350,3000,23179303,Adventure|Comedy|Family|Romance,Leighton Meester,4257,Hungary,PG,2011
+75,19,806,1000,23078294,Horror|Thriller,Adam Goldberg,3590,USA,PG-13,2006
+119,23,748,25000,21413105,Action|Adventure|Drama|Romance|Western,Alan Rickman,45841,Australia,PG-13,1990
+90,0,518,681,25077977,Adventure|Animation|Comedy|Family|Romance,Kevin Sussman,2486,USA,PG,2010
+97,212,637,960,23292105,Action|Fantasy|Horror|Thriller,Laura Ramsey,3261,USA,PG-13,2006
+103,31,733,12000,26870825,Comedy|Drama|Sport,Jeff Bridges,14903,Germany,PG-13,2006
+89,0,470,87000,20916309,Comedy|Family|Fantasy,Jimmy Bennett,88422,USA,PG,2009
+106,835,458,1000,21200000,Comedy|Crime|Drama,Kurtwood Smith,3598,USA,R,1995
+96,24,374,646,28876924,Adventure|Crime|Mystery|Sci-Fi|Thriller,Samira Wiley,1780,USA,PG-13,2016
+115,0,107,10000,20207003,Crime|Drama|Western,Viggo Mortensen,10507,USA,R,2008
+104,0,877,2000,20241395,Action|Horror|Thriller,Sheryl Lee,5123,USA,R,1998
+24,,,0,,Action|Adventure|Animation|Family|Fantasy,Pablo Sevilla,0,Japan,,
+108,13000,285,606,32000000,Horror|Mystery|Thriller,Janet Leigh,1885,USA,R,1960
+112,41,490,1000,19151864,Comedy|Romance,Dane Cook,3301,USA,R,2008
+104,19,942,15000,23393765,Drama|Romance,Alex Pettyfer,18760,USA,PG-13,2014
+113,0,949,995,18882880,Comedy|Drama,Hector Elizondo,4039,USA,R,2007
+98,15,281,691,8500000,Comedy,Mako,1761,USA,PG,1981
+121,503,83,2000,,Adventure|Comedy|Drama|Fantasy,Matthew Broderick,2251,USA,PG-13,1985
+114,160,271,1000,18252684,Comedy|Drama|Family,Oliver Platt,1816,USA,PG,1998
+124,57,905,11000,19661987,Drama,Adam Sandler,17050,USA,R,2007
+148,0,826,17000,18352454,Adventure|Biography|Drama,Kristen Stewart,18752,USA,R,2007
+108,480,579,970,17803796,Comedy,Jon Heder,4374,USA,PG-13,2006
+95,83,206,991,17529157,Adventure|Drama|Horror|Mystery|Thriller,Radha Mitchell,2173,France,R,2012
+108,0,844,16000,25753840,Crime|Fantasy|Horror,Quentin Tarantino,23296,USA,R,1996
+68,0,253,304,18081626,Animation|Family|Fantasy|Mystery,Kath Soucie,861,USA,G,2005
+103,0,801,21000,17518220,Comedy|Drama|Romance,Robert Downey Jr.,25263,USA,PG-13,1995
+99,0,59,264,17104669,Action|Comedy|Crime|Fantasy,Shengyi Huang,537,Hong Kong,R,2004
+30,,215,909,,Comedy,Leah Remini,1557,USA,,
+88,0,939,3000,16988996,Comedy|Family|Music|Musical,Haley Joel Osment,8189,USA,G,2002
+128,395,161,283,15797907,Drama,Mustafa Haidari,904,USA,PG-13,2007
+124,0,430,6000,16248701,Drama,Naomi Watts,7567,USA,R,2003
+84,2,472,787,15712072,Action|Crime|Drama|Thriller,Cole Hauser,2915,USA,PG-13,2004
+122,308,10000,17000,191449475,Drama|Fantasy|Romance,Kristen Stewart,44061,USA,PG-13,2008
+101,13,499,651,15408822,Comedy|Romance,Thomas Lennon,2698,USA,PG-13,2003
+98,143,153,302,15464026,Comedy|Romance,Andy Dick,1189,USA,PG-13,2000
+105,909,173,1000,14359793,Crime|Documentary|News,Ronald Reagan,2327,USA,R,2009
+225,126,202,940,8000000,Biography|Drama|History,Martin Landau,1934,USA,G,1965
+111,53,233,8000,,Crime|Drama|Mystery|Thriller,Julia Roberts,9941,USA,PG-13,2015
+88,82,329,869,14174654,Comedy,Carmen Electra,2857,USA,PG-13,2008
+88,190,163,137000,15988876,Action|Crime|Thriller,Andrew Fiscella,137712,USA,PG-13,2009
+94,36,507,13000,13801755,Action|Comedy|Crime|Thriller,Bill Murray,15183,USA,PG,1997
+117,20,783,11000,13987482,Comedy|Romance,Chris Evans,15713,USA,R,2011
+95,4,80,788,14291570,Action|Adventure|Sci-Fi|Thriller,Joseph Gilgun,1414,France,PG-13,2012
+99,272,62,1000,12181484,Comedy,Amy Poehler,1189,USA,PG-13,2004
+96,83,926,26000,13630226,Action|Crime|Sci-Fi|Thriller,Jason Statham,30541,USA,R,2009
+98,11000,967,1000,13383737,Comedy|Crime,Jim Broadbent,4302,USA,R,1994
+123,6,85,541,13391174,Biography|Drama|History,James Callis,908,USA,PG,2006
+101,176,83,3000,12987647,Drama|Mystery|Romance|Thriller|War,Brendan Fraser,3431,UK,R,2002
+102,563,385,12000,12469811,Comedy|Drama,Nicolas Cage,13156,USA,R,2005
+94,394,565,922,12398628,Action|Crime|Drama|Sport,Fisher Stevens,2880,USA,R,2002
+102,192,31,346,13214030,Comedy|Drama|Fantasy|Romance,Aasif Mandvi,500,USA,PG-13,2008
+108,212,347,969,12232937,Action|Crime|Thriller,Taylor Cole,2799,USA,PG-13,2009
+116,198,884,17000,12134420,Drama|Fantasy|Horror|Mystery,Chloë Grace Moretz,20258,UK,R,2010
+93,18,181,400,11784000,Action|Comedy|Family,Victor Wong,1151,USA,PG,1994
+102,1000,270,734,11169531,Comedy,Quinton Aaron,1778,UK,PG-13,2008
+103,350,99,5000,11034436,Comedy|Drama|Music|War,Bob Hoskins,5637,UK,R,2005
+115,214,968,14000,12626905,Action|Crime|Drama|Thriller,Kate Winslet,27214,USA,R,2016
+96,11000,223,11000,10569071,Comedy,Woody Allen,11867,USA,R,1997
+98,4,677,2000,10544143,Comedy|Romance,Matthew Perry,4843,Australia,PG-13,1999
+101,53,580,14000,13650738,Comedy|Drama,Bradley Cooper,16926,USA,R,2015
+106,277,383,22000,10555348,Comedy|Crime,Robert De Niro,24887,USA,PG-13,1989
+101,11000,2,1000,9714482,Comedy|Musical|Romance,Natasha Lyonne,1614,USA,R,1996
+87,0,548,22000,8579684,Comedy,Peter Dinklage,24324,USA,R,2007
+111,0,725,856,9525276,Action|Crime|Thriller,Aisha Tyler,3309,USA,R,2007
+99,52,148,22000,8855646,Adventure|Drama,Robert De Niro,23409,USA,PG-13,2009
+88,84,177,650,9109322,Comedy|Family|Sci-Fi,Scott Baio,1343,Germany,PG,2004
+83,10,69,688,8326035,Action|Comedy|Crime,Miguel Ferrer,1019,Germany,PG-13,2005
+91,10,436,716,8104069,Action|Comedy|Crime,Callum Rennie,2700,USA,PG-13,2007
+108,54,463,786,8054280,Comedy|Crime|Music,Debbie Reynolds,2730,USA,PG-13,2004
+154,189,388,683,,Comedy|Drama|Music|Musical|Romance,Sammy Davis Jr.,2172,USA,G,1969
+148,0,175,204,8093318,Comedy|Crime|Drama|Mystery|Romance,Martin Dew,707,USA,R,2014
+77,3,593,787,7382993,Adventure|Animation|Comedy|Family|Fantasy,Jimmy Fallon,2185,USA,G,2006
+110,9,826,997,8888355,Drama|Music,Chris Brown,3177,USA,PG-13,2013
+42,,376,1000,,Crime|Drama|Mystery|Thriller,LeVar Burton,2240,USA,TV-14,
+83,119,633,885,7001720,Comedy|Fantasy,Chriss Anglin,2907,USA,PG-13,2008
+107,0,99,2000,7268659,Action|Comedy|Crime|Thriller,Alexa PenaVega,2848,Russia,R,2013
+100,17,86,669,6852144,Drama|Horror|Sci-Fi|Thriller,Laura Harring,1267,Canada,PG-13,2003
+87,29,522,1000,6563357,Adventure|Comedy,Kevin Alejandro,4218,USA,R,2008
+154,608,149,1000,6201757,Biography|Comedy|Drama|History|Music|Musical,Jim Broadbent,1690,UK,R,1999
+106,38,975,1000,6420319,Drama|War,Tom Wilkinson,5705,Mexico,PG-13,2015
+99,0,691,13000,5702083,Biography|Drama|Thriller,Michael Fassbender,23755,UK,R,2011
+100,0,407,21000,5480996,Animation|Drama|Mystery|Sci-Fi|Thriller,Robert Downey Jr.,39507,USA,R,2006
+116,150,956,18000,6002756,Biography|Drama|Sport,Gerard Butler,21200,USA,PG,2012
+94,892,81,310,5132655,Horror|Sci-Fi,Catherine Lough Haggquist,838,Canada,R,2005
+111,650,181,690,5205343,Comedy|Drama|Family|Music|Romance,Scott Porter,1573,USA,PG,2009
+100,143,430,829,5005883,Drama|Mystery|Romance|Thriller,Cameron Bright,2295,USA,R,2004
+125,78,745,1000,5749134,Action|Crime|Drama|Thriller,David Oyelowo,3979,USA,R,2014
+114,329,544,1000,,Drama|History|Romance|War,Landon Liboiron,3493,Canada,R,2008
+119,18,9,20,4234040,Biography|Drama,Dylan Authors,64,USA,PG-13,2008
+135,162,228,23000,4001121,Biography|Drama|Music,Christian Bale,36398,USA,R,2007
+93,19,619,15000,3749061,Action|Thriller,Henry Cavill,30134,USA,PG-13,2012
+114,0,446,975,3519627,Adventure|Comedy|Drama|Romance,Zachary Gordon,3014,USA,PG-13,2008
+124,0,631,22000,3081925,Comedy|Drama|Romance,Philip Seymour Hoffman,24732,USA,R,2008
+134,6000,745,893,2298191,Adventure|Animation|Fantasy,Minnie Driver,2710,Japan,PG-13,1997
+114,22,413,572,2353728,Comedy|Drama|Mystery|Romance|Thriller|War,Isabelle Adjani,1776,France,PG-13,2003
+124,42,161,801,2000000,Biography|Comedy|Musical,Steve Guttenberg,1462,USA,PG,1980
+104,214,430,1000,1900725,Crime|Drama|Western,Ray Winstone,2129,Australia,R,2005
+118,14,400,2000,2246000,Biography|Drama|Sport,Donny Boaz,3384,USA,PG,2015
+80,121,587,836,1646664,Comedy|Music,Damon Wayans,2467,USA,R,2003
+107,110,722,23000,1190018,Action|Drama|Sci-Fi|Thriller,Christian Bale,25088,USA,R,2002
+125,55,2,991,1027749,Drama|War,Radha Mitchell,1003,Australia,R,2008
+115,115,977,9000,882710,Crime|Drama|Romance|Thriller,Charlize Theron,11433,USA,R,2000
+88,12,231,979,1064277,Adventure|Family|Fantasy|Musical,Chazz Palminteri,1978,USA,G,2012
+122,11000,188,11000,531009,Drama|Romance,Brad Pitt,22319,USA,R,2015
+103,78,101,488,410388,Action|Adventure|Animation|Family|Sci-Fi|Thriller,William Hootkins,991,Japan,PG-13,2004
+101,25,407,18000,375474,Drama|History|Sport,Gerard Butler,20354,USA,PG,2005
+101,46,902,33000,578382,Crime|Drama|Mystery|Romance|Thriller,Ryan Gosling,39515,USA,R,2010
+107,58,324,699,305070,Action|Adventure|Drama|History|Romance,Esai Morales,1592,USA,R,1994
+86,0,3,46,206678,Comedy|Family|Sci-Fi,Jiao Xu,82,Hong Kong,PG,2008
+118,8,11,106,146072,Comedy|Family|Fantasy|Sci-Fi,Christian Clavier,182,France,,1998
+107,14,311,403,1183354,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,Marco St. John,1577,USA,PG-13,2010
+100,3,442,14000,121972,Crime|Drama|Mystery,Al Pacino,15612,USA,R,2002
+30,,9,310,,Drama|Family,Peter Vaughan,344,UK,,
+110,278,181,3000,263365,Comedy|Drama|Fantasy|Romance,Djimon Hounsou,3785,USA,PG-13,2010
+106,448,648,9000,54734,Crime|Drama|Mystery|Thriller,Emma Watson,10982,Spain,R,2015
+7,23,51,344,,Romance|Short,Necar Zadegan,726,USA,,2007
+102,10,60,483,,Action|Drama|History|War,Andy Lau,1113,China,R,2008
+98,5,716,18000,,Crime|Drama|Thriller,Gerard Butler,20472,UK,R,2007
+83,0,700,12000,,Adventure|Animation|Comedy|Family,Leonard Nimoy,15680,South Africa,G,2012
+153,0,7,109,,Biography|Drama|History,Mani Bharathi,164,India,,2014
+98,2,53,729,,Animation,Joey D. Vieira,1092,USA,PG,2014
+105,23,897,22000,,Action|Biography|Drama|Sport,Robert De Niro,27425,Panama,R,2016
+96,160,889,14000,,Action|Crime|Thriller,Milla Jovovich,17957,USA,PG-13,2015
+105,17,897,12000,,Crime|Drama|Mystery|Thriller,Nicolas Cage,16355,USA,R,2013
+125,43,7,2000,8047690,Drama|Romance,Toby Jones,2608,China,PG-13,2006
+184,34,155,486,476270,Action|Biography|Crime|Drama,Moritz Bleibtreu,1601,Germany,R,2008
+236,0,232,933,184208848,Adventure|Drama|Western,Mary McDonnell,2398,USA,PG-13,1990
+97,52,384,3000,100292856,Comedy,Justin Timberlake,5547,USA,R,2011
+113,17,551,14000,58571513,Crime|Drama|Mystery|Thriller,Al Pacino,15914,USA,R,1989
+95,15,528,1000,51431160,Comedy|Family|Romance,Dan Byrd,3092,USA,PG,2004
+103,0,157,611,103001286,Horror|Mystery,David Arquette,1212,USA,R,1996
+91,17,670,1000,41867960,Horror,Shannon Elizabeth,3023,USA,R,2001
+146,0,413,888,,Drama|Horror,Scatman Crothers,2560,USA,R,1980
+116,0,459,1000,210609762,Adventure|Comedy|Sci-Fi,Lea Thompson,3230,USA,PG,1985
+93,37,545,885,40846082,Horror|Mystery|Thriller,Jeffrey Combs,2872,USA,R,1999
+113,0,256,607,51697449,Comedy|Drama,Eric Mendenhall,1465,USA,PG-13,2009
+90,97,319,731,,Action|Drama,Kari J. Kramer,2374,USA,,2016
+101,8,110,544,27758465,Comedy|Drama|Romance,Caroline Dhavernas,1292,USA,PG-13,2010
+95,189,306,500,56127162,Comedy|Romance,Taran Killam,2020,USA,PG-13,2003
+109,93,521,31000,1357042,Biography|Drama|Thriller,Mem Ferda,35561,Belgium,R,2011
+43,,211,341,,Comedy|Drama|Reality-TV|Romance,Nicole 'Snooki' Polizzi,1462,,TV-14,
+85,2,402,1000,15911333,Adventure|Comedy|Drama|Family|Fantasy,Mara Wilson,2429,UK,G,2000
+101,42,219,991,39103378,Horror|Thriller,Radha Mitchell,2609,USA,R,2010
+125,6000,7,17,10049886,Adventure|Animation|Family|Fantasy,Bunta Sugawara,44,Japan,PG,2001
+118,0,30,483,,Action|Crime|Thriller,Andy Lau,635,China,,2013
+132,79,1000,14000,8600000,Action|Adventure|Drama|History|Romance,Liam Neeson,28094,UK,PG,1984
+131,33,326,876,21483154,Drama|War,Emily Watson,1985,USA,PG-13,2013
+129,51,630,948,8396942,Adventure|Comedy|Romance,Katrina Bowden,4324,USA,R,2008
+100,14,356,3000,12561,Comedy|Romance,Adam Scott,4094,USA,PG,2010
+172,75,102,617,,Drama|History|War,James Mason,1131,USA,Approved,1964
+97,31,562,2000,6923891,Comedy|Drama|Romance,Topher Grace,5519,USA,R,2011
+121,33,505,1000,5308553,Drama,Holly Hunter,3260,USA,PG,2012
+92,22,0,2,2119994,Family|Fantasy|Music,Darci Kistler,2,USA,G,1993
+116,500,530,12000,1292527,Crime|Drama|Music|Thriller,Steve Buscemi,14579,France,R,1996
+110,44,85,8000,560512,Drama,Logan Lerman,8972,USA,R,2016
+90,15,16000,87000,64255243,Drama|Horror|Mystery|Thriller,Jimmy Bennett,120797,USA,R,2005
+81,0,836,12000,22245861,Comedy|Drama,Nicolas Cage,25489,USA,R,2002
+97,0,233,654,20433940,Horror,Tony Nappo,1876,Canada,R,2005
+107,15,27,82,,Action,Louis Koo,151,China,PG-13,2013
+118,0,551,40000,10562387,Adventure|Comedy|Drama,Johnny Depp,43105,USA,R,1998
+100,0,985,3000,18439082,Comedy|Fantasy|Romance,Jennifer Garner,7252,USA,PG-13,2009
+97,89,329,920,150056505,Comedy,Craig Roberts,2771,USA,R,2014
+114,55,360,789,119938730,Action|Comedy|Crime|Fantasy,Peter Greene,2085,USA,PG-13,1994
+130,545,697,15000,114968774,Comedy|Drama|Family|Fantasy|Romance,Tom Hanks,28018,USA,PG,1988
+82,119,6,332,128505958,Comedy,Luenell,505,USA,R,2006
+96,126,584,2000,95001351,Comedy|Romance,Linda Cardellini,4380,USA,PG-13,2001
+105,12000,643,12000,76400000,Action|Adventure|Sci-Fi,Leonard Nimoy,14762,USA,PG,1984
+122,301,457,1000,75072454,Drama|Horror|Thriller,Tom Wilkinson,2759,USA,PG-13,2005

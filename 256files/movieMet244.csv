@@ -1,404 +1,442 @@
-director_name,num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,genres,num_voted_users,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,num_user_for_reviews,country,content_rating,budget,title_year,actor_2_facebook_likes,aspect_ratio
-Terrence Malick,156,0,463,Drama|War,138941,1937,Dash Mihok,0,1448,USA,R,52000000,1998,568,2.35
-David Dobkin,215,71,634,Comedy|Fantasy,136680,28045,Mircea Monroe,2,149,USA,R,52000000,2011,10000,2.35
-Milos Forman,140,869,21,Biography|Comedy|Drama,100743,209,Tom Dreesen,1,549,UK,R,52000000,1999,27,2.35
-Martin Scorsese,133,17000,574,Biography|Crime|Drama,333542,24183,Kevin Pollak,2,533,USA,R,52000000,1995,721,2.35
-Pierre Morel,203,180,75,Action|Thriller,97775,488,Rebecca Dayan,1,211,France,R,52000000,2010,135,2.35
-Paul Hunter,127,13,343,Action|Comedy|Fantasy,42324,2422,Victoria Smurfit,3,180,USA,PG-13,52000000,2003,691,2.35
-Bobby Farrelly,155,101,79,Comedy,185878,1711,Rob Moran,1,481,USA,R,51000000,2000,624,1.85
-Steve Oedekerk,98,176,523,Animation|Comedy|Family,21396,2055,Maurice LaMarche,1,155,Germany,PG,51000000,2006,560,1.85
-John Whitesell,71,14,728,Comedy|Family,15740,5468,Alia Shawkat,0,110,USA,PG,,2006,1000,1.85
-Chris Weitz,299,129,12000,Adventure|Drama|Fantasy|Romance,220758,64040,Taylor Lautner,2,919,USA,PG-13,50000000,2009,17000,2.35
-Andrew Adamson,212,80,21,Adventure|Animation|Comedy|Family|Fantasy,467113,275,Bobby Block,1,945,USA,PG,60000000,2001,50,1.85
-George Nolfi,413,53,593,Romance|Sci-Fi|Thriller,200035,14607,Jon Stewart,2,407,USA,PG-13,50200000,2011,963,1.85
-Kevin Reynolds,67,58,720,Action|Adventure|Drama|Romance,145257,38518,Michael Wincott,0,322,USA,PG-13,48000000,1991,11000,1.85
-Cameron Crowe,109,488,597,Comedy|Drama|Romance|Sport,189923,12182,Bonnie Hunt,0,318,USA,R,50000000,1996,743,1.85
-Seth MacFarlane,457,3000,1000,Comedy|Fantasy,471644,21773,Tom Skerritt,1,623,USA,R,50000000,2012,3000,1.85
-James L. Brooks,156,274,285,Comedy|Drama|Romance,224671,1474,Shirley Knight,0,470,USA,PG-13,50000000,1997,440,1.85
-Tom Shadyac,55,293,878,Biography|Comedy|Drama|Romance,80580,74382,Monica Potter,1,375,USA,PG-13,50000000,1998,22000,2.35
-Adam McKay,272,285,7000,Comedy,131227,28176,Steve Carell,2,346,USA,PG-13,50000000,2013,8000,2.35
-Steven Brill,117,65,828,Comedy|Romance,110432,26826,Peter Gallagher,1,309,USA,PG-13,50000000,2002,11000,1.85
-J.J. Abrams,539,14000,417,Mystery|Sci-Fi|Thriller,287822,3388,Zach Mills,0,849,USA,PG-13,50000000,2011,560,2.35
-Steven Soderbergh,169,0,658,Biography|Drama,135246,10003,Conchata Ferrell,0,498,USA,R,52000000,2000,883,1.85
-Donald Petrie,140,80,651,Comedy|Romance,156717,14087,Thomas Lennon,2,357,USA,PG-13,50000000,2003,1000,1.85
-Phil Lord,330,97,584,Action|Comedy|Crime,258186,19428,Amber Stevens West,2,322,USA,R,50000000,2014,920,2.35
-Neil Jordan,120,277,4000,Drama|Fantasy|Horror,239752,25697,Kirsten Dunst,0,406,USA,R,60000000,1994,10000,1.85
-Peyton Reed,190,235,1000,Comedy|Romance,271691,29505,Danny Masterson,1,243,USA,PG-13,70000000,2008,11000,2.35
-Rawson Marshall Thurber,177,43,569,Action|Comedy|Crime,33354,14569,Megan Park,2,110,USA,PG-13,50000000,2016,919,2.35
-Chris Columbus,65,0,701,Comedy|Drama,46482,9988,Herbert Russell,2,252,USA,PG-13,50000000,1998,818,2.35
-Sean Anders,145,51,322,Comedy|Family,54010,10886,Mark L. Young,2,130,USA,PG-13,50000000,2015,2000,1.85
-Rob Marshall,321,252,10000,Adventure|Comedy|Drama|Fantasy|Musical,101178,62837,Anna Kendrick,1,779,USA,PG,50000000,2014,11000,2.39
-Spike Lee,230,0,277,Crime|Drama|Mystery|Thriller,273108,19148,Peter Gerety,2,646,USA,R,45000000,2006,412,2.35
-Brian Helgeland,143,241,416,Action|Crime|Drama|Thriller,111368,3148,William Devane,1,394,USA,R,50000000,1999,495,2.35
-Frank Marshall,55,155,293,Action|Adventure|Mystery|Sci-Fi,34471,1761,Grant Heslov,0,147,USA,PG-13,50000000,1995,387,1.85
-Cameron Crowe,257,488,1000,Comedy|Drama|Family,111003,36873,Stephanie Szostak,3,199,USA,PG,,2011,13000,1.85
-Alex Proyas,279,295,329,Drama|Mystery|Sci-Fi|Thriller,186879,13421,Chandler Canterbury,0,791,USA,PG-13,50000000,2009,748,2.35
-Tom Dey,143,9,11000,Comedy|Romance,58412,37967,Zooey Deschanel,2,242,USA,PG-13,50000000,2006,11000,2.35
-Hideo Nakata,196,62,874,Horror|Mystery,71153,10163,Sissy Spacek,0,560,USA,PG-13,,2005,989,1.85
-Glenn Ficarra,310,43,7000,Comedy|Drama|Romance,375456,57426,Steve Carell,7,292,USA,PG-13,50000000,2011,15000,2.39
-Peter Hewitt,116,12,58,Animation|Comedy|Family|Fantasy,58961,13430,Michael Monks,0,232,USA,PG,35000000,2004,258,1.85
-Joe Roth,105,148,660,Comedy|Family,27548,6729,Jake Busey,1,209,USA,PG,60000000,2004,843,2.35
-Bennett Miller,419,152,11000,Biography|Drama|Sport,283563,53094,Brad Pitt,1,312,USA,PG-13,50000000,2011,18000,1.85
-Wolfgang Petersen,64,249,808,Action|Drama|Thriller,91176,30383,Rene Russo,3,130,USA,R,50000000,1995,11000,1.85
-Jaume Collet-Serra,359,174,660,Action|Mystery|Thriller,200647,16967,Scoot McNairy,0,384,UK,PG-13,50000000,2014,664,2.35
-Andy Fickman,166,99,433,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,43328,14007,Tom Everett Scott,3,110,USA,PG,65000000,2009,536,2.35
-James McTeigue,525,160,443,Action|Drama|Thriller,791783,22417,Rupert Graves,1,2042,USA,R,54000000,2005,979,2.35
-David Dobkin,165,71,55,Action|Adventure|Comedy,81444,428,Georgina Chapman,2,192,USA,PG-13,50000000,2003,131,2.35
-,2,,132,Crime|Drama,1824,1816,Nicola Walker,2,9,UK,,,,171,
-Matthew O'Callaghan,87,5,1000,Adventure|Animation|Comedy|Family,12845,11124,Alexander Gould,0,118,USA,G,50000000,2006,2000,1.85
-Angela Robinson,117,23,541,Adventure|Comedy|Family|Fantasy|Romance|Sport,36431,2177,Cheryl Hines,1,168,USA,G,50000000,2005,651,1.85
-Gary Fleder,113,39,477,Crime|Drama|Mystery|Thriller,40362,3341,Conrad Goode,0,248,USA,R,50000000,2001,912,2.35
-Tommy Wirkola,349,75,467,Action|Fantasy|Horror,159868,11946,Ingrid Bolsø Berdal,2,304,Germany,R,50000000,2013,520,2.35
-Adrian Lyne,152,213,372,Drama|Thriller,63067,2583,Chad Lowe,0,533,USA,R,50000000,2002,593,1.85
-D.J. Caruso,288,154,144,Action|Adventure|Sci-Fi|Thriller,195043,15608,Reuben Langdon,1,329,USA,PG-13,60000000,2011,348,1.85
-Stephen Gaghan,358,79,414,Drama|Thriller,109188,14747,Kayvan Novak,0,625,USA,R,50000000,2005,903,2.35
-Michael Bay,204,0,681,Action|Drama|Thriller|War,47764,3580,David Costabile,0,219,USA,R,50000000,2016,726,2.35
-Jorge R. Gutiérrez,156,34,679,Adventure|Animation|Comedy|Family|Fantasy|Romance,45580,19513,Ana de la Reguera,1,102,USA,PG,50000000,2014,995,2.35
-Richard Loncraine,171,12,935,Crime|Thriller,50170,101383,Mary Lynn Rajskub,1,306,USA,PG-13,50000000,2006,11000,2.35
-Clint Eastwood,76,16000,826,Action|Crime|Drama|Thriller,39529,19139,Scott Glenn,0,142,USA,R,50000000,1997,1000,2.35
-Ridley Scott,97,0,957,Action|Drama|War,60326,15569,John Michael Higgins,1,142,USA,R,50000000,1997,2000,2.35
-David Fincher,157,21000,283,Drama|Mystery|Thriller,261069,1397,Charles Martinet,1,506,USA,R,50000000,1997,294,2.35
-Christophe Gans,267,50,368,Adventure|Horror|Mystery,172792,1933,Alice Krige,0,1740,Canada,R,50000000,2006,495,2.35
-Howard Deutch,118,41,585,Comedy|Sport,48322,24024,Faizon Love,1,261,USA,PG-13,50000000,2000,4000,1.85
-Jon Hurwitz,291,22,1000,Comedy,172112,8398,Natasha Lyonne,7,181,USA,R,50000000,2012,1000,1.85
-F. Gary Gray,68,473,294,Action|Crime|Drama|Mystery|Thriller,107227,20152,Siobhan Fallon Hogan,2,279,Germany,R,50000000,1998,822,2.35
-Steven Quale,228,77,159,Action|Thriller,54101,1367,Scott Lawrence,0,210,USA,PG-13,50000000,2014,298,1.85
-John Landis,36,644,174,Action|Comedy|Crime|Thriller,60293,1093,Gilbert R. Hill,1,114,USA,R,55000000,1994,289,1.85
-Joe Dante,105,287,767,Comedy|Fantasy|Horror,68428,19610,Phoebe Cates,0,148,USA,PG-13,50000000,1990,823,1.85
-David Dobkin,276,71,3000,Crime|Drama,136973,30183,Leighton Meester,1,275,USA,R,50000000,2014,3000,2.35
-Mimi Leder,93,75,258,Action|Thriller,46451,1289,Marcel Iures,2,156,USA,R,50000000,1997,273,2.35
-Alexander Witt,191,38,706,Action|Horror|Sci-Fi|Thriller,151580,16791,Mike Epps,1,672,Germany,R,45000000,2004,919,2.35
-Beeban Kidron,143,17,186,Comedy|Drama|Romance,74315,15634,Celia Imrie,1,259,UK,R,40000000,2004,1000,2.35
-Carl Franklin,124,73,323,Crime|Drama|Romance|Thriller,45895,19739,John Billingsley,3,157,USA,R,50000000,2003,886,2.35
-Steven Seagal,47,0,158,Action|Adventure|Thriller,17997,1860,Sven-Ole Thorsen,1,140,USA,R,50000000,1994,643,2.35
-Robert Rodriguez,66,0,717,Action|Adventure|Family|Fantasy,20310,14899,Taylor Dooley,1,177,USA,PG,50000000,2005,722,1.85
-Danny Boyle,118,0,39,Adventure|Drama|Thriller,176169,29461,Peter Youngblood Hills,0,548,USA,R,50000000,2000,414,2.35
-Garry Marshall,93,0,434,Comedy|Drama|Romance,30890,2052,Spencer Breslin,1,106,USA,PG-13,50000000,2004,508,1.85
-James McTeigue,235,160,72,Action|Crime|Thriller,58349,701,Rain,0,194,USA,R,40000000,2009,119,2.35
-Sam Raimi,113,0,432,Drama|Romance|Sport,26034,25469,Carmine Giovinazzo,0,226,USA,PG-13,50000000,1999,743,2.35
-,14,,5,Crime|Drama|Mystery,4438,344,John Lyons,1,33,UK,,,,7,1.33
-Andrew Bergman,51,31,210,Comedy|Crime|Drama|Thriller,34896,3016,Paul Guilfoyle,1,118,USA,R,40000000,1996,472,1.85
-Tom Dey,98,9,1000,Comedy|Family,11257,20061,Steve Coogan,0,65,USA,PG,50000000,2010,2000,2.35
-Clint Eastwood,315,16000,447,Drama|Fantasy,80140,14344,Cécile De France,0,323,USA,PG-13,50000000,2010,563,2.35
-Barbet Schroeder,136,58,401,Crime|Mystery|Thriller,43574,34606,Agnes Bruckner,0,302,USA,R,50000000,2002,455,1.85
-Richard Donner,61,503,282,Action|Crime|Thriller,62981,58528,Kelly Rowan,0,84,France,R,50000000,1995,13000,1.85
-Peter Webber,209,73,163,Crime|Drama|Thriller,86374,1344,Richard Brake,0,392,UK,R,50000000,2007,184,2.35
-Rob Reiner,99,0,323,Comedy|Drama|Romance,18404,14706,Rita Wilson,1,150,USA,R,50000000,1999,559,1.85
-Andrew Niccol,298,487,201,Action|Adventure|Romance|Sci-Fi|Thriller,92461,1300,Rachel Roberts,3,347,USA,PG-13,40000000,2013,329,2.35
-John McTiernan,131,323,511,Action|Crime|Drama|Mystery|Thriller,49926,3357,Tim Daly,0,286,Germany,R,50000000,2003,631,2.35
-Clint Eastwood,146,16000,581,Action|Crime|Drama|Mystery|Thriller,34356,18635,Rick Hoffman,1,260,USA,R,50000000,2002,1000,2.35
-Tom Tykwer,245,670,294,Action|Crime|Drama|Mystery|Thriller,80196,7654,Armin Mueller-Stahl,0,190,USA,R,50000000,2009,450,2.35
-John Carpenter,104,0,764,Action|Adventure|Sci-Fi|Thriller,54021,15935,Michelle Forbes,0,227,USA,R,50000000,1996,898,2.35
-,4,,398,Drama|Mystery|Thriller,7945,2758,Aaron Hill,2,22,USA,,,,512,16.0
-Brad Bird,162,663,521,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,128455,16358,M. Emmet Walsh,1,514,USA,PG,70000000,1999,631,2.35
-Wes Anderson,259,0,639,Adventure|Comedy|Drama,139535,15757,Matthew Gray Gubler,8,632,USA,R,50000000,2004,1000,2.35
-Gary Ross,79,378,303,Action|Biography|Drama|History|War,3077,12786,Jessica Collins,1,47,USA,R,50000000,2016,552,1.85
-Alan Parker,141,317,256,Crime|Drama|Thriller,88270,32637,Matt Craven,0,420,USA,R,50000000,2003,14000,2.35
-Stephen Herek,59,65,730,Action|Comedy,19829,6171,Kelli Garner,5,94,USA,PG-13,40000000,2005,923,2.35
-Jaume Collet-Serra,236,174,655,Action|Crime|Drama|Thriller,76010,16992,Bruce McGill,2,205,USA,R,50000000,2015,988,2.35
-David Cronenberg,356,0,509,Crime|Mystery|Thriller,189249,17211,Raza Jaffrey,1,398,USA,R,25000000,2007,6000,1.85
-John Stockwell,120,134,795,Action|Adventure|Crime|Thriller,63599,25049,Ashley Scott,3,208,USA,PG-13,50000000,2005,1000,2.35
-Luc Besson,111,0,15,Adventure|Biography|Drama|History|War,55889,144,Rab Affleck,0,390,France,R,390000000,1999,40,2.35
-David Gordon Green,208,234,11000,Adventure|Comedy|Fantasy,85237,45202,James Franco,3,274,USA,R,49900000,2011,11000,2.35
-Jim Sheridan,174,260,692,Drama|Mystery|Thriller,46239,8018,Sarah Gadon,0,137,USA,PG-13,55000000,2011,694,2.35
-Costa-Gavras,59,333,317,Crime|Drama|Thriller,16562,2606,William Atherton,2,73,USA,PG-13,50000000,1997,713,2.35
-Patrick Read Johnson,22,32,479,Adventure|Comedy|Crime|Drama|Family,33186,2949,Cynthia Nixon,1,78,USA,PG,50000000,1994,619,1.85
-Roland Joffé,34,596,2000,Drama|Romance,12037,15820,Demi Moore,1,90,USA,R,50000000,1995,3000,2.35
-Doug Liman,214,218,405,Biography|Drama|Thriller,38513,10191,Brooke Smith,2,127,USA,PG-13,22000000,2010,3000,2.35
-,28,,600,Action|Drama|Sci-Fi,33535,5381,Grant Bowler,3,149,USA,TV-MA,,,845,1.78
-Tony Scott,186,12000,897,Action|Biography|Crime|Drama|Thriller,58015,5702,Edgar Ramírez,0,374,France,R,50000000,2005,940,2.35
-William Friedkin,50,607,602,Crime|Drama|Thriller,9227,5461,Linda Fiorentino,0,70,USA,R,50000000,1995,979,1.85
-Mark Neveldine,180,83,1000,Action|Sci-Fi|Thriller,113483,29926,Alison Lohman,1,245,USA,R,50000000,2009,8000,1.85
-Richard LaGravenese,231,98,592,Drama|Fantasy|Romance,67796,3580,Pruitt Taylor Vince,7,258,USA,PG-13,60000000,2013,852,2.35
-Danny DeVito,105,0,809,Comedy|Crime|Drama|Thriller,34730,52885,Danny Woodburn,2,341,UK,R,55000000,2002,811,1.85
-Ben Stiller,226,0,1000,Comedy,34964,24107,Justin Theroux,4,150,USA,PG-13,50000000,2016,8000,2.35
-George Armitage,75,5,338,Comedy|Crime,15880,11972,Willie Nelson,5,93,USA,PG-13,50000000,2004,387,2.35
-Mike Nichols,82,0,591,Comedy|Sci-Fi,8070,3954,Garry Shandling,0,91,USA,R,50000000,2000,602,1.85
-Patrick Lussier,296,71,982,Action|Fantasy|Thriller,81800,16481,Katy Mixon,1,211,USA,R,50000000,2011,2000,1.85
-Andrzej Bartkowiak,103,43,77,Action|Crime|Drama|Mystery|Thriller,19824,1385,Josie Ho,2,179,Canada,PG-13,18000000,2009,342,2.35
-James Wong,98,70,848,Action|Sci-Fi|Thriller,77684,32831,Delroy Lindo,1,294,USA,PG-13,49000000,2001,5000,2.35
-,30,,184,Drama|Romance|Sci-Fi,50391,1863,Stephen Walters,8,148,USA,TV-MA,,,531,16.0
-Renny Harlin,48,212,380,Action|Adventure|Comedy|Crime|Music|Mystery,14429,2795,David Patrick Kelly,5,113,USA,R,40000000,1990,560,2.35
-Richard Curtis,195,628,830,Comedy|Drama|Music,90932,24316,Tom Sturridge,2,209,UK,R,,2009,882,2.35
-Steven Soderbergh,223,0,215,Crime|Drama|Thriller,170684,1418,James Lew,0,867,USA,R,48000000,2000,399,1.85
-Steven Spielberg,149,14000,440,Action|Adventure|Fantasy,515306,12884,Alison Doody,5,477,USA,PG-13,48000000,1989,844,2.35
-Joe Wright,324,456,0,Drama|Romance,70886,2035,Matthew Macfadyen,1,226,UK,R,,2012,35,2.35
-Neill Blomkamp,371,662,502,Action|Crime|Drama|Sci-Fi|Thriller,172965,23051,Jose Pablo Cantillo,0,627,USA,R,49000000,2015,2000,2.35
-Phillip Noyce,75,176,308,Crime|Drama|Mystery|Thriller,120202,29748,Leland Orser,2,397,USA,R,48000000,1999,11000,2.35
-David Fincher,233,21000,237,Crime|Drama|Thriller,206104,18141,Mel Rodriguez,0,850,USA,R,48000000,2002,324,2.35
-Chuck Bowman,32,42,235,Horror|Thriller,1263,2353,Steve Bacic,0,32,USA,,1500000,2006,555,1.78
-David O. Russell,150,737,393,Action|Adventure|Comedy|Drama|War,137854,3743,Mykelti Williamson,1,560,USA,R,48000000,1999,490,2.35
-Daniel Espinosa,172,79,194,Crime|Drama|Thriller,40568,27666,Michael Nardone,3,185,Czech Republic,R,50000000,2015,254,2.35
-Jerry Zucker,103,109,261,Adventure|Comedy,93367,1823,Vince Vieluf,8,497,Canada,PG-13,48000000,2001,629,2.35
-Iain Softley,140,34,1000,Drama|Mystery|Sci-Fi,148490,33615,Alfre Woodard,1,537,USA,PG-13,48000000,2001,12000,2.35
-James Mangold,125,446,821,Comedy|Fantasy|Romance,64595,22209,Bradley Whitford,1,316,USA,PG-13,48000000,2001,1000,1.85
-Harold Ramis,125,11000,484,Comedy|Fantasy|Romance,81888,5390,Brian Doyle-Murray,2,254,USA,PG-13,48000000,2000,575,2.35
-Francis Ford Coppola,36,0,886,Crime|Drama|Music,12771,18793,Fred Gwynne,1,84,USA,R,58000000,1984,5000,1.85
-James Mangold,295,446,600,Adventure|Crime|Drama|Western,237872,33548,Gretchen Mol,1,560,USA,R,55000000,2007,8000,2.35
-Olivier Megaton,222,118,482,Action|Thriller,133436,16967,Jon Gries,0,323,France,PG-13,48000000,2014,794,2.35
-Steven Soderbergh,158,0,23,Crime|Drama|Romance|Thriller,71708,3768,Keith Hudson,1,307,USA,R,48000000,1998,745,1.85
-Ben Stiller,72,0,302,Comedy|Drama|Thriller,122347,3718,Andy Dick,1,345,USA,PG-13,47000000,1996,1000,2.35
-Deepa Mehta,34,375,59,Drama|Romance|War,5639,371,Eric Peterson,0,55,India,Unrated,,1998,102,
-Warren Beatty,72,631,327,Action|Comedy|Crime|Music|Romance|Thriller,47819,2096,Seymour Cassel,1,164,USA,PG,100000000,1990,631,1.85
-John McTiernan,152,323,835,Crime|Romance|Thriller,73068,4660,Denis Leary,0,419,USA,R,48000000,1999,977,2.35
-Penny Marshall,89,545,807,Biography|Comedy|Drama,22447,4796,Alissa Dean,1,210,USA,PG-13,48000000,2001,811,1.85
-Ted Kotcheff,145,270,535,Action|Adventure|Drama,172489,15192,Chris Mulkey,1,376,USA,R,14000000,1982,954,2.35
-Andrei Tarkovsky,144,0,12,Drama|Mystery|Sci-Fi,54057,95,Natalya Bondarchuk,0,236,Soviet Union,PG,1000000,1972,29,2.35
-Paul Bolger,93,0,677,Adventure|Animation|Comedy|Family|Fantasy,8693,6863,Rob Paulsen,3,71,USA,PG,47000000,2006,769,1.85
-Stephen Frears,46,350,77,Drama|Horror|Romance|Thriller,11913,8349,George Cole,1,97,USA,R,47000000,1996,115,1.85
-P.J. Hogan,84,29,692,Comedy|Romance,98199,12344,Rupert Everett,1,169,USA,PG-13,46000000,1997,1000,2.35
-Joe Roth,142,148,135,Comedy|Romance,47573,9176,Larry King,4,343,USA,PG-13,48000000,2001,973,2.35
-Christopher Nolan,185,22000,319,Drama|Mystery|Thriller,218771,15658,Crystal Lowe,0,651,USA,R,46000000,2002,509,2.35
-Jonathan Frakes,143,906,906,Action|Adventure|Drama|Sci-Fi|Thriller,97838,6315,Jonathan Frakes,2,286,USA,PG-13,45000000,1996,1000,2.35
-Jimmy Hayward,178,39,364,Action|Drama|Fantasy|Thriller|Western,45729,14619,Julia Jones,1,176,USA,PG-13,47000000,2010,541,2.35
-Edward Zwick,65,380,826,Action|Drama|Mystery|Thriller|War,40126,33233,Scott Glenn,1,107,USA,R,46000000,1996,13000,1.85
-Tom Shadyac,73,293,255,Comedy|Fantasy|Romance,220392,2070,Randall 'Tex' Cobb,1,243,USA,PG-13,45000000,1997,418,1.85
-Brad Furman,72,65,345,Biography|Crime|Drama|Thriller,2581,2104,Olympia Dukakis,1,29,UK,R,25000000,2016,423,2.35
-Terence Young,10,92,522,Drama|History|War,491,2704,Jacqueline Bisset,1,16,South Korea,PG,48000000,1981,623,2.35
-Brian Levant,35,32,628,Comedy|Family|Fantasy,60884,3244,Harvey Korman,2,85,USA,PG,45000000,1994,664,1.33
-Olivier Megaton,358,118,558,Action|Crime|Thriller,238671,16410,D.B. Sweeney,0,461,France,PG-13,45000000,2012,935,2.35
-David Zucker,151,119,750,Comedy,111526,3629,Jenny McCarthy,7,347,USA,PG-13,48000000,2003,780,1.85
-Donald Petrie,140,80,213,Action|Comedy|Crime|Romance,137377,1574,Heather Burns,1,370,USA,PG-13,45000000,2000,337,1.85
-Eric Brevig,201,40,311,Action|Adventure|Family|Fantasy|Sci-Fi,85323,17925,Anita Briem,0,212,USA,PG,45000000,2008,3000,1.85
-Garry Marshall,77,0,995,Comedy|Family|Romance,53687,15362,Hector Elizondo,2,152,USA,G,40000000,2004,1000,1.85
-Alan J. Pakula,43,79,956,Crime|Drama|Mystery|Thriller,59569,30063,Tony Goldwyn,0,89,USA,PG-13,45000000,1993,8000,2.35
-Joel Schumacher,39,541,551,Crime|Drama|Mystery|Thriller,45798,4043,Brad Renfro,3,94,USA,PG-13,45000000,1994,577,2.35
-Rob Reiner,207,0,760,Adventure|Comedy|Drama,184795,14868,Sean Hayes,1,310,USA,PG-13,45000000,2007,2000,1.85
-Phillip Noyce,47,176,308,Action|Thriller,81442,12757,Patrick Bergin,1,137,USA,R,45000000,1992,530,2.35
-Robert Luketic,132,126,586,Comedy|Romance,43358,6292,Elaine Stritch,0,228,Germany,PG-13,60000000,2005,949,2.35
-Denis Villeneuve,454,777,1000,Crime|Drama|Mystery|Thriller,383591,37321,Dylan Minnette,2,620,USA,R,46000000,2013,15000,1.85
-Antoine Fuqua,109,845,854,Crime|Drama|Thriller,305929,22370,Tom Berenger,2,633,USA,R,45000000,2001,881,2.35
-Dean Parisot,213,23,436,Adventure|Comedy|Sci-Fi,123558,26998,Robin Sachs,3,609,USA,PG,45000000,1999,724,2.35
-Keenen Ivory Wayans,127,322,179,Comedy,119590,1645,Andy Richter,7,548,USA,R,45000000,2001,422,1.85
-James Bobin,398,33,84,Adventure|Comedy|Family|Musical,75176,1336,Steve Whitmire,3,252,USA,PG,45000000,2011,91,1.85
-Stephen Norrington,184,45,595,Action|Horror,191437,3174,Udo Kier,1,582,USA,R,45000000,1998,650,2.35
-Thomas Carter,127,49,730,Drama|Sport,92702,20299,Robert Ri'chard,0,209,USA,PG-13,30000000,2005,807,2.35
-Roger Michell,167,50,67,Drama|Thriller,57281,758,Bruce Altman,0,350,USA,R,45000000,2002,108,2.35
-Luis Llosa,119,49,514,Action|Adventure|Horror|Thriller,73539,3717,Kari Wuhrer,0,271,USA,PG-13,45000000,1997,902,2.35
-David McNally,155,18,560,Comedy|Drama|Music|Romance,90539,3106,Izabella Miko,5,379,USA,PG-13,45000000,2000,625,2.35
-Richard Curtis,218,628,548,Comedy|Drama|Romance,318634,28886,Kris Marshall,9,1004,UK,R,45000000,2003,14000,2.35
-John Lasseter,117,487,1000,Adventure|Animation|Comedy|Family|Fantasy,211226,24205,John Ratzenberger,0,317,USA,G,120000000,1998,1000,2.35
-Albert Hughes,208,117,140,Horror|Mystery|Thriller,124765,41636,Ian Richardson,1,541,USA,R,35000000,2001,1000,2.35
-Luis Llosa,38,49,20,Action|Crime|Drama|Romance|Thriller,50148,13331,Emilio Estefan Jr.,2,116,Peru,R,45000000,1994,279,1.85
-Ron Shelton,48,41,808,Comedy|Drama|Romance|Sport,37911,3648,Rene Russo,0,73,USA,R,45000000,1996,843,2.35
-Melville Shavelson,8,5,559,Comedy|Family,5888,7493,Tim Matheson,0,61,USA,Unrated,2500000,1968,584,1.85
-Jesse Dylan,94,58,3000,Comedy|Family|Romance|Sport,30255,27351,Robert Duvall,1,118,USA,PG,45000000,2005,8000,2.35
-Garth Jennings,276,37,651,Adventure|Comedy|Sci-Fi,155745,14073,Thomas Lennon,0,1053,USA,PG,50000000,2005,2000,2.35
-Joel Zwick,59,38,631,Comedy|Family|Fantasy|Romance,9380,4604,Alice Greczyn,1,91,USA,PG,26000000,2004,641,2.35
-Russell Mulcahy,216,85,443,Action|Horror|Sci-Fi|Thriller,149549,16225,James Tumminia,1,348,France,R,45000000,2007,706,2.35
-Frank Coraci,173,153,734,Comedy|Romance,87165,49743,Joel McHale,0,184,USA,PG-13,40000000,2014,11000,1.85
-Wayne Wang,99,61,501,Adventure|Comedy|Drama,21215,3757,Timothy Hutton,1,116,USA,PG-13,45000000,2006,976,2.35
-Curtis Hanson,42,161,132,Action|Adventure|Crime|Thriller,32544,12161,William Lucking,1,69,USA,PG-13,45000000,1994,894,2.35
-Frank Oz,25,0,563,Drama|Family|Fantasy,20688,2965,David Keith,1,47,USA,PG,45000000,1995,845,1.85
-Oliver Stone,339,0,404,Crime|Drama|Thriller,104301,1948,Gary Stretch,4,269,USA,R,45000000,2012,463,2.35
-David R. Ellis,127,160,167,Action|Crime|Thriller,79141,1102,Will Beinbrink,1,355,USA,PG-13,25000000,2004,216,2.35
-Peter Howitt,122,29,252,Action|Adventure|Comedy,114692,1461,Ben Miller,1,285,UK,PG,35000000,2003,304,1.85
-John A. Davis,105,8,8000,Adventure|Animation|Comedy|Family|Fantasy,30055,33822,Julia Roberts,1,70,USA,PG,50000000,2006,11000,1.85
-David Lynch,144,0,202,Action|Adventure|Sci-Fi,97087,2449,José Ferrer,3,569,USA,PG-13,40000000,1984,362,2.35
-Julie Taymor,156,278,107,Drama|Fantasy|Musical|Romance,91860,5405,Robert Clohessy,0,524,USA,PG-13,45000000,2007,117,2.35
-Sam Mendes,323,0,10000,Drama|Romance,152591,53895,Joe Komara,0,414,USA,R,35000000,2008,14000,2.35
-Richard Donner,199,503,795,Action|Crime|Drama|Thriller,112769,15053,Sasha Roiz,2,305,Germany,PG-13,52000000,2006,929,2.35
-Mathieu Kassovitz,164,326,510,Action|Adventure|Sci-Fi|Thriller,81523,15990,David Belle,0,214,France,PG-13,70000000,2008,844,2.35
-John Gray,39,29,322,Action|Comedy|Crime|Drama|Thriller,15455,3855,Keenen Ivory Wayans,1,80,USA,R,45000000,1996,461,1.85
-Harold Ramis,43,11000,451,Comedy|Romance|Sci-Fi,24757,2348,Obba Babatundé,0,81,USA,PG-13,45000000,1996,484,2.35
-John Schultz,82,13,553,Adventure|Comedy|Family|Fantasy|Sci-Fi,16580,3423,Tim Meadows,3,55,USA,PG,45000000,2009,701,1.85
-Sean Penn,150,0,19,Crime|Drama|Mystery|Thriller,42621,793,Nels Lennarson,0,531,USA,R,45000000,2001,44,2.35
-Susan Stroman,168,38,2000,Comedy|Musical,35140,24351,Matthew Broderick,3,409,USA,PG-13,45000000,2005,8000,2.35
-Pete Travis,432,38,20,Action|Sci-Fi,203461,578,Rakie Ayola,0,588,UK,R,35000000,2012,107,2.35
-Simon Wincer,60,23,579,Action|Adventure|Comedy|Fantasy,27648,3855,Kristy Swanson,0,148,Australia,PG,45000000,1996,642,2.35
-Billy Bob Thornton,85,0,820,Drama|Romance|Western,11388,15006,Sam Shepard,2,183,USA,PG-13,57000000,2000,861,2.35
-Oliver Stone,83,0,805,Biography|Drama|History,23996,21130,Joan Allen,0,161,USA,R,50000000,1995,5000,2.35
-Roman Polanski,343,2000,501,Mystery|Thriller,132423,2507,Timothy Hutton,2,349,France,PG-13,45000000,2010,766,2.35
-Stephen Sommers,106,208,855,Action|Adventure|Horror|Sci-Fi,26551,6558,Wes Studi,0,273,USA,R,45000000,1998,1000,2.35
-Spike Lee,158,0,826,Action|Crime|Drama|Thriller|War,15697,26982,Laz Alonso,0,182,USA,R,45000000,2008,1000,2.35
-Yimou Zhang,189,611,10,Drama|Romance,36455,949,Man Li,2,229,China,R,45000000,2006,52,2.35
-Danny Pang,125,15,61,Action|Crime|Thriller,48245,12166,James With,1,154,USA,R,40000000,2008,68,1.85
-Barry Sonnenfeld,87,188,865,Comedy|Crime|Thriller,17307,13917,Omar Epps,2,186,USA,PG-13,40000000,2002,1000,1.85
-Mike Newell,115,179,50,Drama|Romance,19114,538,Unax Ugalde,0,115,USA,R,45000000,2007,202,2.35
-,23,,114,Drama|Fantasy|Horror|Mystery,15762,654,Céline Sallette,9,47,France,TV-MA,,,116,16.0
-George P. Cosmatos,24,170,269,Action|Thriller,3803,2457,Nicholas Turturro,2,41,USA,R,45000000,1997,623,2.35
-Oliver Parker,152,32,104,Action|Adventure|Comedy|Crime,89568,661,Togo Igawa,1,142,USA,PG,45000000,2011,141,2.35
-Lawrence Kasanoff,12,11,500,Action|Animation|Comedy|Family|Fantasy,4377,3090,Harvey Fierstein,0,66,USA,PG,65000000,2012,611,
-Ben Affleck,656,0,650,Biography|Drama|History|Thriller,452465,3133,Tate Donovan,1,695,USA,R,44500000,2012,660,2.35
-Andrew Davis,119,99,812,Action|Adventure|Crime|Drama|Mystery|Thriller,213668,13357,Sela Ward,1,270,USA,PG-13,44000000,1993,1000,1.85
-Andy Tennant,161,72,789,Action|Comedy|Romance,96565,21554,Peter Greene,1,135,USA,PG-13,40000000,2010,1000,2.35
-Barry Levinson,73,272,893,Crime|Drama|Thriller,154487,37076,Minnie Driver,3,259,USA,R,44000000,1996,11000,2.35
-George P. Cosmatos,96,170,668,Action|Adventure|Thriller|War,117606,15662,Martin Kove,0,217,USA,R,44000000,1985,738,2.35
-Brian Gibson,28,13,643,Drama|Thriller,13995,26907,Anne Heche,1,62,USA,R,44000000,1996,2000,2.35
-Norman Ferguson,105,3,40,Animation|Family|Fantasy|Musical,90360,1178,Cliff Edwards,0,147,USA,Approved,2600000,1940,48,1.37
-Michael Cimino,102,517,678,Adventure|Drama|Western,9830,14255,Isabelle Huppert,0,189,USA,R,44000000,1980,849,2.35
-Len Wiseman,206,235,520,Action|Adventure|Fantasy|Sci-Fi|Thriller,156225,2998,Derek Jacobi,1,502,USA,R,50000000,2006,845,2.35
-Paul McGuigan,159,118,287,Drama|Horror|Sci-Fi|Thriller,28618,12876,Daniel Mays,2,91,USA,PG-13,40000000,2015,1000,2.35
-Gus Van Sant,137,835,225,Drama,73006,1801,Michael Nouri,1,297,USA,PG-13,43000000,2000,370,2.35
-Betty Thomas,116,84,664,Comedy|Drama,34597,23864,Elizabeth Perkins,1,194,USA,PG-13,43000000,2000,10000,1.37
-Louis Leterrier,177,255,5000,Action|Crime|Drama|Thriller,85198,22383,Bob Hoskins,1,303,France,R,45000000,2005,5000,2.35
-Roger Kumble,99,16,16,Comedy|Romance,46158,132,Chelsea Bond,3,403,USA,R,43000000,2002,28,1.85
-Sydney Pollack,56,521,957,Drama|Mystery|Thriller,88844,14244,Wilford Brimley,0,142,USA,R,42000000,1993,1000,1.85
-Burr Steers,117,23,135,Drama|Fantasy|Romance,47364,1066,Valerie Tian,1,75,USA,PG-13,44000000,2010,268,2.35
-Simon West,252,165,350,Action|Crime|Thriller,117999,27834,Mini Anden,0,181,USA,R,40000000,2011,956,2.35
-Phil Lord,375,97,839,Action|Comedy|Crime,408302,19968,Rob Riggle,2,345,USA,R,42000000,2012,971,2.35
-Roger Michell,150,50,427,Comedy|Drama|Romance,203269,9255,Dylan Moran,1,602,UK,PG-13,42000000,1999,437,2.35
-Peter Lord,187,91,206,Adventure|Animation|Comedy|Drama|Family,140499,1817,Julia Sawalha,0,358,UK,G,45000000,2000,530,1.85
-John Hamburg,108,29,650,Comedy|Romance,106909,24534,Debra Messing,1,268,USA,PG-13,42000000,2004,923,1.85
-Reginald Hudlin,21,71,547,Comedy|Drama|Romance,20183,3841,Geoffrey Holder,1,41,USA,R,40000000,1992,558,1.85
-Paul Feig,270,176,749,Action|Comedy|Crime,133177,4825,Demián Bichir,7,380,USA,R,43000000,2013,815,2.35
-Joseph L. Mankiewicz,72,311,595,Biography|Drama|History|Romance,21554,2957,Roddy McDowall,2,192,UK,Approved,31115000,1963,726,2.2
-Frank Coraci,154,153,491,Action|Comedy|Sport,74169,6727,Charice,2,112,USA,PG,42000000,2012,828,1.85
-Carl Franklin,114,73,505,Crime|Drama|Mystery|Thriller,30077,15571,Bruce Davison,1,175,USA,PG-13,42000000,2002,3000,2.35
-Barbra Streisand,27,0,292,Comedy|Drama|Romance,11453,13716,Mimi Rogers,0,71,USA,PG-13,42000000,1996,592,1.85
-Mark Pellington,166,89,395,Drama|Horror|Mystery|Thriller,63677,1651,David Eigenberg,0,460,USA,PG-13,32000000,2002,537,2.35
-Larry Charles,288,119,412,Comedy,119622,2134,Slash,1,396,USA,R,42000000,2009,442,1.85
-John Glen,117,46,275,Action|Adventure|Thriller,74009,2371,Anthony Zerbe,0,317,UK,PG-13,32000000,1989,349,2.35
-Catherine Hardwicke,291,308,913,Fantasy|Horror|Mystery|Thriller,91151,15369,Virginia Madsen,2,283,USA,PG-13,42000000,2011,2000,2.35
-John Herzfeld,151,17,808,Action|Crime|Drama|Thriller,42547,33585,Kelsey Grammer,1,265,USA,R,42000000,2001,9000,2.35
-Annabel Jankel,36,5,687,Adventure|Comedy|Family|Fantasy|Sci-Fi,38203,7723,Fiona Shaw,0,290,UK,PG,42000000,1993,922,1.85
-Andrew Niccol,168,487,16,Crime|Drama|Thriller,248123,12076,Jared Burke,2,437,USA,R,50000000,2005,43,2.35
-Yimou Zhang,283,611,576,Action|Adventure|History,149414,6229,Maggie Cheung,4,841,China,PG-13,31000000,2002,643,2.35
-Julie Anne Robinson,127,30,497,Action|Comedy|Crime|Romance|Thriller,34203,3301,Patrick Fischler,1,169,USA,PG-13,40000000,2012,786,2.35
-Evan Goldberg,293,133,365,Comedy,247020,12239,Anders Holm,4,835,USA,R,44000000,2014,392,2.35
-Sngmoo Lee,95,19,433,Action|Fantasy|Western,22309,2056,Jed Brophy,1,102,New Zealand,R,45000000,2010,489,2.35
-,4,,253,Comedy|War,1558,1610,Bob Hastings,1,18,USA,TV-G,,,284,4.0
-Jean-Pierre Jeunet,213,0,52,Action|Comedy|Crime,24657,1342,André Dussollier,4,71,France,R,27000000,2009,172,2.35
-Curtis Hanson,119,161,196,Drama|Music,187181,1954,Evan Jones,0,564,USA,R,41000000,2002,418,2.35
-Jamel Debbouze,9,326,6,Adventure|Animation|Comedy|Family,590,488,Mélissa Theuriau,0,5,France,,,2015,152,
-Brian Helgeland,167,241,996,Action|Adventure|Romance,137003,18761,Bérénice Bejo,1,658,USA,PG-13,65000000,2001,3000,2.35
-Gordon Chan,98,4,96,Action|Comedy|Fantasy,29861,1134,Anthony Chau-Sang Wong,1,132,Hong Kong,PG-13,41000000,2003,312,2.35
-M. Night Shyamalan,234,0,766,Drama|Mystery|Thriller,704766,17540,Olivia Williams,0,2073,USA,PG-13,40000000,1999,3000,1.85
-Asger Leth,258,20,54,Action|Crime|Thriller,125198,362,J. Smith-Cameron,6,153,USA,PG-13,42000000,2012,81,2.35
-David Frankel,108,64,296,Comedy,34809,2085,JoBeth Williams,0,125,USA,PG,41000000,2011,574,2.35
-John G. Avildsen,81,80,225,Action|Drama|Family|Sport,126907,2004,William Bassett,0,235,USA,PG,8000000,1984,641,1.85
-David O. Russell,538,737,14000,Crime|Drama,358416,83012,Bradley Cooper,5,751,USA,R,40000000,2013,23000,2.35
-Anne Fletcher,224,98,723,Comedy|Drama|Romance,227824,18656,Craig T. Nelson,1,273,USA,PG-13,40000000,2009,896,2.35
-Bruce Beresford,129,78,298,Crime|Mystery|Thriller,56646,2129,Bruce Campbell,0,336,USA,R,70000000,1999,489,2.35
-Robert Zemeckis,125,0,690,Adventure|Comedy|Sci-Fi,340085,3660,Thomas F. Wilson,0,327,USA,PG,40000000,1989,869,1.85
-Luc Besson,433,0,903,Action|Sci-Fi|Thriller,327367,32325,Amr Waked,0,918,France,R,40000000,2014,11000,2.35
-Sam Taylor-Johnson,362,456,716,Drama|Romance,220020,4585,Callum Rennie,0,1360,USA,R,40000000,2015,935,2.35
-Robert Rodriguez,93,0,2000,Action|Adventure|Comedy|Family|Sci-Fi,40227,22935,Alexa PenaVega,3,188,USA,PG,38000000,2003,4000,1.85
-Joel Schumacher,71,541,1000,Crime|Drama|Thriller,99558,31349,Oliver Platt,3,236,USA,R,40000000,1996,11000,2.35
-Shawn Levy,104,189,597,Comedy|Family,75152,7014,Bonnie Hunt,15,288,USA,PG,40000000,2003,2000,1.85
-Peter Berg,319,532,127,Action|Biography|Drama|Thriller|War,203963,1261,Dan Bilzerian,0,420,USA,R,40000000,2013,449,2.35
-Penny Marshall,41,545,251,Comedy|Drama|Sport,71754,16751,Rosie O'Donnell,3,166,USA,PG,40000000,1992,923,2.35
-James Wan,300,0,336,Horror|Mystery|Thriller,64989,2676,Robin Atkin Downes,0,279,USA,R,40000000,2016,575,2.35
-David Fincher,556,21000,81,Biography|Drama,479453,10555,Marcella Lentz-Pope,0,696,USA,PG-13,40000000,2010,349,2.35
-Ken Kwapis,161,42,49,Comedy|Drama|Romance,132048,318,Sachiko Ishida,7,203,USA,PG-13,40000000,2009,50,2.35
-David Zucker,151,119,807,Comedy,93748,5855,Regina Hall,8,410,USA,PG-13,45000000,2006,869,1.85
-Wes Craven,212,0,71,Horror|Mystery,98535,600,Nancy O'Dell,4,734,USA,R,40000000,2000,157,2.35
-Robert Zemeckis,111,0,690,Adventure|Comedy|Sci-Fi|Western,283480,3986,Thomas F. Wilson,0,263,USA,PG,40000000,1990,869,1.37
-Etan Cohen,173,164,723,Comedy|Crime,85629,12556,Craig T. Nelson,2,144,USA,R,40000000,2015,2000,1.85
-Francis Ford Coppola,181,0,10000,Fantasy|Horror|Romance,143835,42220,Gary Oldman,0,654,USA,R,40000000,1992,12000,1.85
-Nora Ephron,252,0,923,Biography|Drama|Romance,79264,13321,Vanessa Ferlito,2,277,USA,PG-13,40000000,2009,935,1.85
-Brian Helgeland,216,241,898,Biography|Drama|Sport,66511,16911,Nicole Beharie,0,200,USA,PG-13,40000000,2013,3000,2.35
-Anthony Minghella,203,333,1000,Crime|Drama|Thriller,137891,36810,Jack Davenport,1,696,USA,R,40000000,1999,13000,1.85
-Bobby Farrelly,218,101,839,Comedy,97045,16179,Rob Riggle,1,285,USA,PG-13,35000000,2014,899,1.85
-Frank Marshall,118,155,249,Adventure|Drama|Family,48806,24300,Wendy Crewson,1,263,USA,PG,40000000,2006,984,2.35
-Nancy Meyers,241,278,808,Comedy|Drama,130661,36010,Rene Russo,2,304,USA,PG-13,35000000,2015,11000,1.85
-Tim Story,119,167,655,Action|Comedy,28621,5178,Bruce McGill,0,58,USA,PG-13,40000000,2016,874,2.35
-Michael Mann,89,0,322,Action|Adventure|Drama|Romance|War,113068,2144,Eric Schweig,1,382,USA,R,40000000,1992,363,2.35
-Taylor Hackford,209,138,748,Biography|Drama|Music,110394,5074,Harry Lennix,0,433,USA,PG-13,40000000,2004,876,1.85
-Frank Miller,374,436,175,Crime|Thriller,656640,3924,Jason Douglas,1,1732,USA,R,40000000,2005,472,1.85
-Pete Travis,235,38,882,Crime|Drama|Mystery|Thriller,127528,6775,William Hurt,4,422,USA,PG-13,40000000,2008,897,2.35
-John Hamburg,215,29,257,Comedy|Romance,166194,28928,Jane Curtin,2,215,USA,R,40000000,2009,4000,1.85
-Bobby Farrelly,109,101,398,Comedy|Drama|Fantasy|Romance,109445,2842,Susan Ward,2,426,USA,PG-13,40000000,2001,655,1.85
-Oliver Stone,125,0,4,Drama|History|Thriller,113472,698,Cheryl Penland,1,442,France,R,40000000,1991,256,2.35
-John Whitesell,65,14,633,Comedy|Crime,31968,19334,Marisol Nichols,0,82,USA,PG-13,40000000,2006,826,1.85
-Gore Verbinski,125,563,8000,Adventure|Comedy|Crime|Romance,87351,43917,Julia Roberts,0,344,USA,R,34000000,2001,11000,2.35
-Angelina Jolie Pitt,322,11000,465,Biography|Drama|Sport|War,103589,2938,Alex Russell,0,351,USA,PG-13,65000000,2014,698,2.35
-Burr Steers,191,23,651,Comedy|Drama|Family|Fantasy|Romance,146899,7009,Thomas Lennon,1,185,USA,PG-13,20000000,2009,2000,2.35
-Nick Cassavetes,191,415,119,Comedy|Romance,104481,2357,David Thornton,2,189,USA,PG-13,40000000,2014,971,2.35
-David R. Ellis,221,160,748,Horror,75345,303717,Shantel VanSanten,0,290,USA,R,40000000,2009,137000,2.35
-Steven Spielberg,459,14000,423,Drama|History|Thriller,178118,16944,Amy Ryan,0,355,USA,PG-13,40000000,2015,535,2.35
-John Moore,131,212,389,Action|Drama|Thriller|War,86902,2544,Sam Jaeger,2,411,USA,PG-13,40000000,2001,563,2.35
-Nicholas Stoller,222,89,177,Comedy|Music,147317,2091,Lino Facioli,2,197,USA,R,,2010,719,1.85
-Peter Chelsom,118,23,418,Comedy|Drama|Romance,35508,2325,Omar Benson Miller,2,211,USA,PG-13,50000000,2004,593,1.85
-Joe Dante,100,287,823,Action|Adventure|Comedy|Family|Sci-Fi,77415,8610,Robert Picardo,0,139,USA,PG-13,40000000,1998,835,2.35
-Mark A.Z. Dippé,70,20,968,Action|Horror,52805,7039,Miko Hughes,0,209,USA,R,40000000,1997,2000,1.85
-Kevin Reynolds,138,58,720,Action|Adventure|Drama|Romance|Thriller,104991,17152,Michael Wincott,1,544,UK,PG-13,35000000,2002,1000,1.85
-Brad Furman,274,65,638,Crime|Drama|Thriller,173848,13943,Frances Fisher,1,203,USA,R,40000000,2011,980,2.35
-Jaume Collet-Serra,349,174,767,Action|Mystery|Thriller,210542,17152,Aidan Quinn,3,332,UK,PG-13,30000000,2011,903,2.35
-Christopher Nolan,341,22000,19000,Drama|Mystery|Sci-Fi|Thriller,844052,63986,Scarlett Johansson,1,1100,USA,PG-13,40000000,2006,20000,2.35
-Sean Anders,196,51,465,Comedy|Crime,114294,30571,Lindsay Sloane,7,187,USA,R,42000000,2014,11000,2.35
-Cal Brunker,83,7,91,Adventure|Animation|Comedy|Family|Sci-Fi,20615,3361,Jonathan Morgan Heit,2,44,USA,PG,40000000,2013,190,2.35
-Mel Gibson,283,0,19,Action|Adventure|Drama|Thriller,236000,848,Jonathan Brewer,0,1043,USA,R,40000000,2006,78,1.85
-John Glen,105,46,162,Action|Adventure|Thriller,69457,1233,Art Malik,1,271,UK,PG,30000000,1987,244,2.35
-Nimród Antal,351,190,520,Action|Adventure|Sci-Fi|Thriller,171418,4243,Derek Mears,0,619,USA,R,40000000,2010,1000,2.35
-Ivan Reitman,16,425,204,Comedy|Crime|Romance,7900,2179,Roscoe Lee Browne,3,34,USA,PG,40000000,1986,568,2.35
-David Koepp,195,192,501,Mystery|Thriller,147504,41293,Timothy Hutton,1,531,USA,PG-13,40000000,2004,534,2.35
-Alejandro Agresti,175,18,211,Drama|Fantasy|Romance,114321,18693,Ebon Moss-Bachrach,0,548,USA,PG,40000000,2006,426,2.35
-Iain Softley,193,34,280,Horror|Mystery|Thriller,87447,1274,Joy Bryant,0,371,USA,PG-13,43000000,2005,351,2.35
-Peter Hedges,169,54,988,Comedy|Drama|Family|Fantasy,37398,9069,Common,0,110,USA,PG,25000000,2012,2000,1.85
-Paul Weiland,128,10,681,Comedy|Romance,54421,4298,Kevin Sussman,2,101,USA,PG-13,40000000,2008,689,2.35
-Clint Eastwood,249,16000,235,Biography|Drama|Music|Musical,25465,2281,Scott Vance,1,190,USA,R,40000000,2014,413,2.35
-Francis Ford Coppola,91,0,913,Crime|Drama|Thriller,46221,16762,Virginia Madsen,1,141,USA,PG-13,40000000,1997,936,2.35
-Mathieu Kassovitz,207,326,416,Horror|Mystery|Thriller,89557,22318,Bernard Hill,1,376,USA,R,40000000,2003,534,1.85
-Steven Spielberg,77,14000,11000,Drama|History,56509,37570,Matthew McConaughey,2,227,USA,R,36000000,1997,11000,1.85
-John McTiernan,25,323,0,Adventure|Drama|Romance,17443,519,Sean Connery,2,56,USA,PG-13,40000000,1992,47,2.35
-Colin Strause,211,25,473,Action|Horror|Sci-Fi|Thriller,92789,4324,Ian Whyte,0,998,USA,R,40000000,2007,741,2.35
-Donald Petrie,19,80,287,Comedy|Family,49612,4634,Jonathan Hyde,1,39,USA,PG,40000000,1994,450,1.85
-Joan Chen,101,643,586,Drama|Romance,20201,26938,Elaine Stritch,2,180,USA,PG-13,40000000,2000,1000,1.85
-Marc Lawrence,175,30,664,Comedy|Music|Romance,81334,2787,Haley Bennett,4,291,USA,PG-13,,2007,690,1.85
-Greg Mottola,342,99,57,Adventure|Comedy|Sci-Fi,192462,390,Jeremy Owen,0,334,USA,R,40000000,2011,61,2.35
-Anne Fletcher,147,98,78,Comedy|Drama,30394,1070,Julene Renee,1,103,USA,PG-13,40000000,2012,358,2.35
-Wes Craven,420,0,687,Horror|Mystery,104119,4486,Shenae Grimes-Beech,0,518,USA,R,40000000,2011,741,2.35
-Joel Schumacher,138,541,173,Mystery|Thriller,104564,12970,Anthony Heald,1,587,Germany,R,40000000,1999,638,2.35
-Oliver Stone,82,0,552,Biography|Drama|Music|Musical,68159,3044,Kathleen Quinlan,1,209,USA,R,38000000,1991,576,2.35
-Jake Kasdan,201,52,214,Comedy,84382,1488,Nat Faxon,2,158,USA,R,40000000,2014,392,1.85
-Diane Keaton,82,0,235,Comedy|Drama,10132,1238,Jesse James,3,130,Germany,PG-13,60000000,2000,258,1.85
-Steven Quale,277,77,495,Horror,83788,3074,Courtney B. Vance,0,227,USA,R,40000000,2011,682,2.35
-Kelly Makin,90,6,584,Comedy|Crime|Romance,29968,2913,Vincent Pastore,1,117,UK,PG-13,40000000,1999,683,1.85
-Mimi Leder,157,75,754,Drama,95860,23920,Angie Dickinson,2,660,USA,PG-13,40000000,2000,3000,1.85
-Bobby Farrelly,124,101,223,Comedy|Drama|Romance|Sport,36223,1827,Ione Skye,1,208,USA,PG-13,30000000,2005,299,2.35
-,3,,12,Animation|Comedy|Family,8495,108,Daniel Brochu,0,43,Canada,TV-Y,,,21,1.33
-Steven Brill,146,65,490,Comedy|Drama,50199,3239,Matt Walsh,1,101,USA,PG-13,40000000,2008,613,2.35
-Seth MacFarlane,303,3000,3000,Comedy|Western,136093,28927,Seth MacFarlane,3,416,USA,R,40000000,2014,9000,2.35
-Russell Mulcahy,70,85,510,Action|Adventure|Crime|Fantasy|Mystery|Thriller,18723,2711,John Kapelos,0,146,USA,PG-13,25000000,1994,595,1.85
-Stephen Daldry,283,335,64,Adventure|Drama|Mystery,81298,15595,Stephen Henderson,1,341,USA,PG-13,40000000,2011,467,2.35
-Roger Michell,212,50,58,Comedy|Drama|Romance,58871,621,Vanessa Aspillaga,0,156,USA,PG-13,40000000,2010,117,2.35
-Jim Sheridan,98,260,441,Biography|Crime|Drama|Music,35834,3969,Marc John Jefferies,0,284,USA,R,40000000,2005,1000,2.35
-Christian Duguay,110,18,249,Action|Adventure|Crime|Thriller,25346,3753,Anne Archer,0,167,USA,R,40000000,2000,1000,2.35
-Chris Columbus,146,0,715,Drama|Musical|Romance,41685,5917,Jesse L. Martin,1,754,USA,PG-13,40000000,2005,1000,2.35
-Chuck Russell,100,55,294,Crime|Drama|Horror|Thriller,12093,4565,Angela Bettis,0,188,USA,R,40000000,2000,941,2.35
-Sam Weisman,62,39,210,Comedy,10446,1335,Carlease Burke,2,105,USA,PG-13,40000000,1999,322,1.85
-John Frankenheimer,70,287,44,Horror|Sci-Fi|Thriller,26051,10469,Marco Hofschneider,2,164,USA,PG-13,40000000,1996,368,2.35
-Peter Hyams,107,0,327,Action|Adventure|Romance,12856,2888,Stephen Rea,0,291,Germany,PG-13,40000000,2001,931,2.35
-Justin Chadwick,169,56,19000,Biography|Drama|History|Romance,84357,77823,Benedict Cumberbatch,3,252,UK,PG-13,35000000,2008,19000,1.85
-Pat O'Connor,94,7,903,Drama|Romance,70292,29484,Frank Langella,1,274,USA,PG-13,40000000,2001,9000,1.85
-Stephen Hopkins,190,81,135,Horror|Thriller,37412,960,William Ragsdale,0,178,USA,R,40000000,2007,253,2.35
-Martin Scorsese,112,17000,354,Crime|Drama|Romance|Thriller,67797,23737,David Proval,0,223,USA,R,500000,1973,926,1.85
-Penny Marshall,12,545,353,Comedy|Drama,13830,3126,Lillo Brancato,1,61,USA,PG-13,40000000,1994,754,1.85
-Olivier Megaton,201,118,674,Action|Crime|Drama|Thriller,76498,3432,Jesse Borrego,0,203,France,PG-13,40000000,2011,738,2.35
-Frederik Du Chau,34,7,795,Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical,11156,14275,Eric Idle,0,67,USA,G,40000000,1998,908,1.85
-Michael Caton-Jones,104,105,616,Crime|Drama|Mystery|Thriller,21319,34377,John Doman,1,166,USA,R,60000000,2002,11000,2.35
-Irwin Winkler,55,34,685,Drama|Romance,11232,3821,Steven Weber,1,106,USA,PG-13,60000000,1999,886,1.85
-Joseph Kahn,86,33,1000,Action|Comedy|Crime,23747,5039,Christina Milian,0,207,USA,PG-13,40000000,2004,1000,2.35
-Harold Becker,50,17,889,Drama|Thriller,16741,17877,Bridget Fonda,2,60,USA,R,40000000,1996,940,1.85
-Paul Verhoeven,181,719,683,Drama,49874,18913,Robert Davi,0,450,France,NC-17,45000000,1995,893,2.35
-Sofia Coppola,260,0,826,Biography|Drama|History|Romance,79892,7243,Rip Torn,1,619,USA,PG-13,40000000,2006,887,1.85
-Barbet Schroeder,40,58,497,Action|Crime|Thriller,14226,14008,Philip Baker Hall,3,60,USA,R,40000000,1995,975,1.85
-Stephen Kay,102,19,351,Action|Crime|Drama|Thriller,27305,14463,Lauren Lee Smith,1,284,USA,R,40000000,2000,530,2.35
-J.A. Bayona,371,171,284,Drama|Thriller,145270,7099,Oaklee Pendergast,0,322,Spain,PG-13,45000000,2012,382,2.35
-Elaine May,49,124,572,Action|Adventure|Comedy|Music|Thriller,8692,3374,Isabelle Adjani,2,126,USA,PG-13,51000000,1987,631,1.85
-Wes Anderson,335,0,563,Adventure|Animation|Comedy|Crime|Family,139114,24770,Helen McCrory,0,245,USA,PG,40000000,2009,11000,1.85
-Stephen Herek,86,65,311,Comedy|Romance,19364,12566,James Gammon,2,128,USA,PG-13,40000000,2002,944,2.35
-John Carpenter,40,0,402,Comedy|Romance|Sci-Fi|Thriller,17365,2125,Patricia Heaton,2,66,USA,PG-13,40000000,1992,658,2.35
-Jean-Pierre Jeunet,242,0,54,Comedy|Romance,534262,809,Isabelle Nanty,0,1314,France,R,77000000,2001,326,2.35
-Dennie Gordon,70,29,762,Comedy|Crime|Family|Romance,17722,3974,Riley Smith,1,111,USA,PG,30000000,2004,799,1.85
-Charles Shyer,135,14,624,Comedy|Drama|Romance,43442,3639,Jane Krakowski,4,146,UK,R,60000000,2004,826,1.85
-Ken Kwapis,125,42,171,Biography|Drama|Romance,15231,1702,Andrew Daly,3,66,USA,PG,40000000,2012,596,2.35
-Ulu Grosbard,54,22,613,Drama,10413,4327,Jonathan Jackson,1,111,USA,PG-13,40000000,1999,642,1.85
-William Malone,104,37,595,Crime|Horror|Thriller,17309,4262,Udo Kier,1,388,UK,R,42000000,2002,886,2.35
-Paul Weitz,157,80,835,Action|Adventure|Fantasy|Thriller,35990,20503,Patrick Fugit,3,157,USA,PG-13,40000000,2009,4000,2.35
-Paul McGuigan,159,118,287,Drama|Horror|Sci-Fi|Thriller,28618,12876,Daniel Mays,2,91,USA,PG-13,40000000,2015,1000,2.35
-Danny DeVito,78,0,500,Comedy,46205,3096,Harvey Fierstein,0,147,USA,PG-13,40000000,2003,627,1.85
-Malcolm D. Lee,88,92,706,Comedy|Drama|Music,7794,4103,Mike Epps,2,25,USA,R,,2008,760,2.35
-Jerry Jameson,32,5,249,Action|Adventure|Drama|Thriller,2933,1883,Anne Archer,0,70,UK,PG,36000000,1980,372,2.35
-Mic Rodgers,75,7,485,Action|Sci-Fi,24216,4024,Xander Berkeley,0,162,USA,R,24000000,1999,577,1.85
-Christian Alvart,219,22,61,Action|Horror|Mystery|Sci-Fi|Thriller,121432,14127,Eddie Rouse,0,310,Germany,R,33000000,2009,2000,2.35
-Gary Fleder,83,39,259,Drama|Mystery|Sci-Fi|Thriller,19986,2664,Tim Guinee,4,207,USA,R,40000000,2001,1000,1.85
-Christian Duguay,53,18,443,Action|Adventure|Thriller,4821,4123,Rupert Graves,0,82,UK,PG-13,40000000,2002,545,2.35
-Jean-Marie Poiré,61,8,219,Comedy|Fantasy|Sci-Fi,15130,1149,John Aylward,3,98,France,PG-13,40000000,2001,248,2.35
-Danny Boyle,308,0,167,Adventure|Sci-Fi|Thriller,190132,11623,Troy Garity,0,801,UK,R,26000000,2007,372,2.35
-Brian Robbins,70,48,39,Comedy|Drama,30842,222,Greg Collins,8,93,USA,PG-13,40000000,2012,46,2.35
-Marc F. Adler,41,0,379,Adventure|Animation|Comedy|Fantasy|Romance,2458,2449,Kelly Ripa,1,26,USA,PG,40000000,2008,754,1.85
-Pierre Morel,224,180,87,Action|Crime|Drama|Mystery|Thriller,28429,1686,Jasmine Trinca,0,110,USA,R,40000000,2015,535,2.35
-Geoffrey Sax,66,13,173,Action|Adventure|Family|Thriller,20201,15638,Ashley Walters,3,187,Germany,PG,40000000,2006,460,2.35
-D.J. Caruso,253,154,502,Drama|Mystery|Thriller,186982,2288,Jose Pablo Cantillo,0,491,USA,PG-13,20000000,2007,617,1.85
+director_name,num_critic_for_reviews,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,movie_imdb_link,num_user_for_reviews,imdb_score
+Troy Duffy,91,968,Julie Benz,12000,17524,Clifton Collins Jr.,0,http://www.imdb.com/title/tt1300851/?ref_=fn_tt_tt_1,188,6.3
+James Ivory,55,86,Omar Metwally,471,858,Diego Velazquez,1,http://www.imdb.com/title/tt0896923/?ref_=fn_tt_tt_1,25,6.4
+Nicole Holofcener,231,216,Ben Falcone,434,1183,Michaela Watkins,2,http://www.imdb.com/title/tt2390361/?ref_=fn_tt_tt_1,142,7.1
+Will Gluck,262,424,Dan Byrd,15000,16982,Fred Armisen,1,http://www.imdb.com/title/tt1282140/?ref_=fn_tt_tt_1,264,7.1
+Matty Rich,7,582,Joe Morton,851,3293,Larenz Tate,0,http://www.imdb.com/title/tt0110137/?ref_=fn_tt_tt_1,11,6.5
+E. Elias Merhige,196,306,Udo Kier,776,1761,Catherine McCormack,1,http://www.imdb.com/title/tt0189998/?ref_=fn_tt_tt_1,339,6.9
+Joe Nussbaum,83,741,Thomas McDonell,1000,5190,Aimee Teegarden,0,http://www.imdb.com/title/tt1604171/?ref_=fn_tt_tt_1,32,5.4
+Matt Reeves,18,636,Michael Rapaport,1000,3502,Carol Kane,2,http://www.imdb.com/title/tt0117283/?ref_=fn_tt_tt_1,55,4.9
+Steve Rash,11,660,Nia Long,883,3291,Jake Busey,2,http://www.imdb.com/title/tt0165831/?ref_=fn_tt_tt_1,34,5.1
+Fina Torres,72,417,John de Lancie,1000,2687,Mark Feuerstein,0,http://www.imdb.com/title/tt0206420/?ref_=fn_tt_tt_1,86,5.3
+James Ivory,51,136,Vanessa Redgrave,12000,13180,Samuel West,3,http://www.imdb.com/title/tt0104454/?ref_=fn_tt_tt_1,86,7.5
+,18,648,Joseph Gilgun,3000,6034,Ruth Negga,0,http://www.imdb.com/title/tt5016504/?ref_=fn_tt_tt_1,85,8.3
+Duke Johnson,328,0,Tom Noonan,1000,1442,David Thewlis,0,http://www.imdb.com/title/tt2401878/?ref_=fn_tt_tt_1,140,7.3
+Mike Leigh,248,386,Imelda Staunton,1000,2265,Phil Davis,0,http://www.imdb.com/title/tt1431181/?ref_=fn_tt_tt_1,141,7.3
+François Ozon,128,569,Isabelle Huppert,963,3543,Emmanuelle Béart,1,http://www.imdb.com/title/tt0283832/?ref_=fn_tt_tt_1,162,7.1
+Mark L. Lester,45,112,Tia Carrere,1000,2404,Vernee Watson,2,http://www.imdb.com/title/tt0102915/?ref_=fn_tt_tt_1,102,6.0
+David Dobkin,49,168,Vince Vieluf,1000,1795,Kevin Rahm,1,http://www.imdb.com/title/tt0118863/?ref_=fn_tt_tt_1,109,6.6
+Anna Boden,163,472,Jeremy Davies,943,2786,Jim Gaffigan,3,http://www.imdb.com/title/tt0804497/?ref_=fn_tt_tt_1,150,7.2
+Nigel Cole,163,594,Robbie Kay,5000,7692,Sally Hawkins,6,http://www.imdb.com/title/tt1371155/?ref_=fn_tt_tt_1,73,7.2
+Anand Tucker,90,291,Jim Broadbent,14000,15848,Gina McKee,2,http://www.imdb.com/title/tt0829098/?ref_=fn_tt_tt_1,34,6.9
+Steve James,23,200,Laurel Holloman,1000,1610,Amy Locane,2,http://www.imdb.com/title/tt0119937/?ref_=fn_tt_tt_1,37,6.8
+Michael Winner,17,249,Marina Sirtis,977,2413,John Gielgud,0,http://www.imdb.com/title/tt0086582/?ref_=fn_tt_tt_1,15,4.0
+Tomm Moore,118,4,Mick Lally,61,75,Evan McGuire,0,http://www.imdb.com/title/tt0485601/?ref_=fn_tt_tt_1,71,7.7
+John Carney,283,7,Karen Pittman,480,517,Mary Catherine Garrison,1,http://www.imdb.com/title/tt1980929/?ref_=fn_tt_tt_1,182,7.4
+David Jacobson,74,710,Bruce Dern,2000,3921,Rory Culkin,2,http://www.imdb.com/title/tt0398027/?ref_=fn_tt_tt_1,110,6.5
+Michael Corrente,41,209,Tony Devon,480,1234,Alexa Havins,3,http://www.imdb.com/title/tt0283503/?ref_=fn_tt_tt_1,48,6.4
+Edward Hall,17,844,Hayley Atwell,3000,6343,Charlotte Rampling,2,http://www.imdb.com/title/tt2241676/?ref_=fn_tt_tt_1,12,7.2
+Keith Gordon,66,1000,Robin Wright,21000,41645,Alfre Woodard,2,http://www.imdb.com/title/tt0314676/?ref_=fn_tt_tt_1,79,5.6
+David Leland,36,227,Catherine McCormack,735,1378,Steven Mackintosh,3,http://www.imdb.com/title/tt0119494/?ref_=fn_tt_tt_1,27,6.3
+Andrew Currie,140,33,Henry Czerny,553,786,Kesun Loder,1,http://www.imdb.com/title/tt0457572/?ref_=fn_tt_tt_1,98,6.8
+Andrew Wilson,32,399,Eddie Griffin,8000,9608,Jacob Vargas,4,http://www.imdb.com/title/tt0373445/?ref_=fn_tt_tt_1,27,5.5
+Jonathan Lynn,68,405,Rupert Everett,10000,11770,Geoff Bell,4,http://www.imdb.com/title/tt1235189/?ref_=fn_tt_tt_1,86,6.9
+Marc Schölermann,79,448,Larry Drake,905,3185,Johnny Whitworth,0,http://www.imdb.com/title/tt0964539/?ref_=fn_tt_tt_1,107,6.0
+,9,427,Jack O'Connell,27000,29196,Kevin McNally,2,http://www.imdb.com/title/tt1238834/?ref_=fn_tt_tt_1,33,7.7
+Robert Moresco,26,463,Brad Renfro,954,2512,Dash Mihok,5,http://www.imdb.com/title/tt0360323/?ref_=fn_tt_tt_1,34,6.4
+Thomas Vinterberg,100,488,Chris Owen,947,2572,William Hootkins,0,http://www.imdb.com/title/tt0342272/?ref_=fn_tt_tt_1,58,6.6
+Claudia Llosa,56,47,Zen McGrath,144,326,William Shimell,1,http://www.imdb.com/title/tt2494384/?ref_=fn_tt_tt_1,11,5.3
+Katsuhiro Ôtomo,150,4,Takeshi Kusao,6,28,Tesshô Genda,0,http://www.imdb.com/title/tt0094625/?ref_=fn_tt_tt_1,430,8.1
+John Herzfeld,30,1000,Olivia Wilde,23000,37457,Jason Flemyng,2,http://www.imdb.com/title/tt0473188/?ref_=fn_tt_tt_1,31,5.9
+Charles Binamé,20,23,Roy Dupuis,413,733,Julie LeBreton,0,http://www.imdb.com/title/tt0460505/?ref_=fn_tt_tt_1,31,7.7
+Keith Parmer,21,600,Josh Henderson,31000,33858,Grant Bowler,6,http://www.imdb.com/title/tt2112277/?ref_=fn_tt_tt_1,24,4.6
+Dennie Gordon,11,11,Ruby Lin,163,219,Jack Kao,2,http://www.imdb.com/title/tt2102502/?ref_=fn_tt_tt_1,2,5.1
+Ol Parker,85,112,Ben Miles,186,619,Darren Boyd,0,http://www.imdb.com/title/tt0421994/?ref_=fn_tt_tt_1,149,6.9
+Bruce Beresford,5,189,Lucy Fry,502,1546,Natalie Coughlin,0,http://www.imdb.com/title/tt4196848/?ref_=fn_tt_tt_1,5,8.0
+François Ozon,160,15,Ludivine Sagnier,844,1389,Jean-Claude Lecas,0,http://www.imdb.com/title/tt0324133/?ref_=fn_tt_tt_1,288,6.8
+James Nunn,25,376,Mark Wingett,1000,2284,Kacey Clarke,2,http://www.imdb.com/title/tt2628316/?ref_=fn_tt_tt_1,13,5.4
+David Webb Peoples,21,26,Joan Chen,848,1526,Anna Katarina,2,http://www.imdb.com/title/tt0094764/?ref_=fn_tt_tt_1,43,6.5
+Michael Winnick,15,391,Helena Mattsson,981,2741,Craig Sheffer,0,http://www.imdb.com/title/tt4060866/?ref_=fn_tt_tt_1,14,4.2
+Bruce Beresford,61,325,Jessica Tandy,11000,12619,Patti LuPone,1,http://www.imdb.com/title/tt0097239/?ref_=fn_tt_tt_1,134,7.4
+George Tillman Jr.,34,890,Mekhi Phifer,1000,4737,Vivica A. Fox,6,http://www.imdb.com/title/tt0120169/?ref_=fn_tt_tt_1,30,6.9
+Stanley Tong,62,36,Anita Mui,186,407,Garvin Cross,1,http://www.imdb.com/title/tt0113326/?ref_=fn_tt_tt_1,81,6.7
+David Oelhoffen,102,40,Reda Kateb,10000,10218,Ángela Molina,0,http://www.imdb.com/title/tt2936180/?ref_=fn_tt_tt_1,19,7.3
+Jason Reitman,239,88,Cameron Bright,24000,25092,Todd Louiso,0,http://www.imdb.com/title/tt0427944/?ref_=fn_tt_tt_1,323,7.6
+Eli Roth,252,658,Lauren German,1000,4707,Stanislav Ianevski,0,http://www.imdb.com/title/tt0498353/?ref_=fn_tt_tt_1,384,5.4
+Lone Scherfig,278,221,Olivia Williams,3000,4198,Ellie Kendrick,0,http://www.imdb.com/title/tt1174732/?ref_=fn_tt_tt_1,237,7.3
+Anand Tucker,124,161,Bridgette Wilson-Sampras,827,1871,Clyde Kusatsu,3,http://www.imdb.com/title/tt0338427/?ref_=fn_tt_tt_1,268,6.4
+Tony Richardson,9,518,Beau Bridges,584,2024,Nastassja Kinski,0,http://www.imdb.com/title/tt0087428/?ref_=fn_tt_tt_1,61,6.0
+Joe Carnahan,127,147,Chi McBride,673,1442,Alan Van Sprang,1,http://www.imdb.com/title/tt0272207/?ref_=fn_tt_tt_1,214,7.2
+Paul Gross,9,280,Paul Gross,611,1834,Kari Matchett,3,http://www.imdb.com/title/tt0263734/?ref_=fn_tt_tt_1,83,6.0
+Charles Robert Carner,35,742,Jenny McCarthy,834,4091,Richard Bull,2,http://www.imdb.com/title/tt1001562/?ref_=fn_tt_tt_1,20,3.1
+Russell Holt,6,249,Brenda Strong,373,1233,Tiffany Dupont,1,http://www.imdb.com/title/tt0410454/?ref_=fn_tt_tt_1,33,6.9
+Mike Judge,192,968,Mila Kunis,24000,41867,Clifton Collins Jr.,6,http://www.imdb.com/title/tt1225822/?ref_=fn_tt_tt_1,106,6.2
+Larry Charles,51,844,Cheech Marin,12000,15396,Bruce Dern,0,http://www.imdb.com/title/tt0319829/?ref_=fn_tt_tt_1,95,5.5
+Claude Miller,38,59,Edouard Baer,71,262,Roschdy Zem,0,http://www.imdb.com/title/tt0269329/?ref_=fn_tt_tt_1,26,6.9
+Michael Winterbottom,133,158,Om Puri,631,1176,Natalie Mendoza,0,http://www.imdb.com/title/tt0345061/?ref_=fn_tt_tt_1,150,6.3
+Sacha Bennett,4,447,Jenny Agutter,5000,7206,Vincent Regan,3,http://www.imdb.com/title/tt1772422/?ref_=fn_tt_tt_1,3,4.8
+Paul Haggis,287,911,Loretta Devine,3000,5732,Jennifer Esposito,0,http://www.imdb.com/title/tt0375679/?ref_=fn_tt_tt_1,1624,7.9
+Rodrigo García,222,373,Michael McElhatton,3000,4370,Mark Williams,3,http://www.imdb.com/title/tt1602098/?ref_=fn_tt_tt_1,98,6.7
+Jeta Amata,6,36,Nathin Butler,262,409,Razaaq Adoti,3,http://www.imdb.com/title/tt2147225/?ref_=fn_tt_tt_1,4,5.6
+Siddharth Anand,16,60,Mary Goggin,532,902,Vic Aviles,3,http://www.imdb.com/title/tt0833553/?ref_=fn_tt_tt_1,37,5.4
+Vincent Paronnaud,242,106,Gena Rowlands,963,1754,Danielle Darrieux,0,http://www.imdb.com/title/tt0808417/?ref_=fn_tt_tt_1,158,8.0
+Joe Dante,147,664,Teri Polo,844,4099,Haley Bennett,2,http://www.imdb.com/title/tt1085779/?ref_=fn_tt_tt_1,69,5.7
+Dennis Gansel,93,93,Elyas M'Barek,287,635,Jennifer Ulrich,0,http://www.imdb.com/title/tt1063669/?ref_=fn_tt_tt_1,96,7.6
+Nicolas Winding Refn,253,500,Bella Heathcote,18000,19879,Charles Baker,2,http://www.imdb.com/title/tt1974419/?ref_=fn_tt_tt_1,73,7.0
+Daniel Barber,224,641,Jack O'Connell,788,2486,Sean Harris,1,http://www.imdb.com/title/tt1289406/?ref_=fn_tt_tt_1,224,7.2
+Sam Raimi,392,4000,James Franco,24000,46055,Kirsten Dunst,0,http://www.imdb.com/title/tt0413300/?ref_=fn_tt_tt_1,1902,6.2
+Robert Marcarelli,39,440,William Hootkins,488,2428,Ayla Kell,0,http://www.imdb.com/title/tt0203408/?ref_=fn_tt_tt_1,206,3.5
+Jason Reitman,387,973,Jennifer Garner,24000,28817,Rainn Wilson,0,http://www.imdb.com/title/tt0467406/?ref_=fn_tt_tt_1,881,7.5
+Ernie Barbarash,36,96,Aki Aleong,294,835,Brahim Achabbakhe,0,http://www.imdb.com/title/tt3488328/?ref_=fn_tt_tt_1,29,5.1
+Guy Hamilton,120,175,Lois Maxwell,244,1105,Jill St. John,2,http://www.imdb.com/title/tt0066995/?ref_=fn_tt_tt_1,276,6.7
+Francis Ford Coppola,208,3000,Marlon Brando,14000,28122,Robert Duvall,1,http://www.imdb.com/title/tt0068646/?ref_=fn_tt_tt_1,2238,9.2
+Adrian Lyne,51,92,Cynthia Rhodes,225,791,Lee Ving,0,http://www.imdb.com/title/tt0085549/?ref_=fn_tt_tt_1,128,6.1
+Marc Webb,331,11000,Chloë Grace Moretz,23000,54075,Zooey Deschanel,43,http://www.imdb.com/title/tt1022603/?ref_=fn_tt_tt_1,494,7.7
+Jane Campion,83,11,Ian Mune,1000,1051,Geneviève Lemon,1,http://www.imdb.com/title/tt0107822/?ref_=fn_tt_tt_1,241,7.6
+Steven Soderbergh,324,11000,Alex Pettyfer,17000,46646,Matthew McConaughey,1,http://www.imdb.com/title/tt1915581/?ref_=fn_tt_tt_1,281,6.1
+Jonathan Liebesman,140,82,Emma Caulfield,1000,2212,Angus Sampson,0,http://www.imdb.com/title/tt0282209/?ref_=fn_tt_tt_1,369,4.9
+Guy Hamilton,136,189,Geoffrey Holder,581,1865,Clifton James,3,http://www.imdb.com/title/tt0070328/?ref_=fn_tt_tt_1,251,6.8
+Jay Russell,79,430,Frankie Muniz,1000,2515,Cody Linley,0,http://www.imdb.com/title/tt0156812/?ref_=fn_tt_tt_1,149,7.0
+Adam Brooks,160,61,Sakina Jaffrey,16000,16289,Paulina Gerzon,5,http://www.imdb.com/title/tt0832266/?ref_=fn_tt_tt_1,168,7.2
+Salim Akil,52,826,Loretta Devine,1000,5959,Laz Alonso,8,http://www.imdb.com/title/tt1640484/?ref_=fn_tt_tt_1,59,5.7
+Baz Luhrmann,490,76,Elizabeth Debicki,29000,29769,Steve Bisley,4,http://www.imdb.com/title/tt1343092/?ref_=fn_tt_tt_1,753,7.3
+George Clooney,351,566,Tate Donovan,21000,22745,Alex Borstein,0,http://www.imdb.com/title/tt0433383/?ref_=fn_tt_tt_1,526,7.5
+Bennett Miller,271,27,Michael J. Burg,22000,22140,Kwesi Ameyaw,1,http://www.imdb.com/title/tt0379725/?ref_=fn_tt_tt_1,416,7.4
+Robert Rodriguez,93,4000,Steve Buscemi,16000,33758,Salma Hayek,0,http://www.imdb.com/title/tt0112851/?ref_=fn_tt_tt_1,202,7.2
+Michael Winterbottom,71,887,Sarah Polley,14000,17104,Shirley Henderson,4,http://www.imdb.com/title/tt0218378/?ref_=fn_tt_tt_1,92,6.5
+,54,1000,Adam Goldberg,4000,19949,Oliver Platt,0,http://www.imdb.com/title/tt2802850/?ref_=fn_tt_tt_1,173,9.0
+Michael Anderson,112,440,Jenny Agutter,1000,2951,Peter Ustinov,1,http://www.imdb.com/title/tt0074812/?ref_=fn_tt_tt_1,242,6.8
+Guy Hamilton,118,244,Hervé Villechaize,16000,17611,Desmond Llewelyn,3,http://www.imdb.com/title/tt0071807/?ref_=fn_tt_tt_1,258,6.8
+Craig R. Baxley,35,794,Vanity,1000,5282,Carl Weathers,2,http://www.imdb.com/title/tt0094612/?ref_=fn_tt_tt_1,65,5.2
+Neil Marshall,342,159,Shauna Macdonald,513,1379,Craig Conway,0,http://www.imdb.com/title/tt0435625/?ref_=fn_tt_tt_1,1100,7.2
+Don Kempf,14,69,Michael Jordan,13000,13448,Bob Costas,0,http://www.imdb.com/title/tt0245280/?ref_=fn_tt_tt_1,13,7.5
+Matt Bettinelli-Olpin,137,270,Allison Miller,971,2517,Vanessa Ray,0,http://www.imdb.com/title/tt2752758/?ref_=fn_tt_tt_1,120,4.0
+David O. Russell,50,380,Mary Tyler Moore,718,2240,David Patrick Kelly,3,http://www.imdb.com/title/tt0116324/?ref_=fn_tt_tt_1,105,6.8
+Rob Zombie,261,597,Ken Foree,1000,3544,Lew Temple,0,http://www.imdb.com/title/tt0395584/?ref_=fn_tt_tt_1,687,6.9
+,96,970,Alyson Hannigan,4000,7970,Emma Caulfield,0,http://www.imdb.com/title/tt0118276/?ref_=fn_tt_tt_1,665,8.2
+Rick Famuyiwa,180,190,Rick Fox,637,1342,Kiersey Clemons,3,http://www.imdb.com/title/tt3850214/?ref_=fn_tt_tt_1,89,7.3
+Michael Rymer,28,826,Omar Epps,1000,4837,Nia Long,1,http://www.imdb.com/title/tt0160401/?ref_=fn_tt_tt_1,29,6.1
+Sam Mendes,750,393,Helen McCrory,883,2039,Rory Kinnear,0,http://www.imdb.com/title/tt1074638/?ref_=fn_tt_tt_1,1498,7.8
+Rob Zombie,202,303,Matthew McGrory,1000,2444,Erin Daniels,0,http://www.imdb.com/title/tt0251736/?ref_=fn_tt_tt_1,922,6.0
+Sharron Miller,8,23,Elizabeth MacRae,246,345,Charles Aidman,0,http://www.imdb.com/title/tt0072626/?ref_=fn_tt_tt_1,21,4.1
+Ethan Coen,341,98,Fred Melamed,816,1120,Peter Breitmayer,1,http://www.imdb.com/title/tt1019452/?ref_=fn_tt_tt_1,324,7.0
+Aaron Schneider,160,970,Robert Duvall,13000,19330,Bill Cobbs,1,http://www.imdb.com/title/tt1194263/?ref_=fn_tt_tt_1,97,7.1
+Steve Miner,31,304,Richard E. Grant,687,1990,Lori Singer,0,http://www.imdb.com/title/tt0098622/?ref_=fn_tt_tt_1,79,6.2
+Gina Prince-Bythewood,71,658,Nate Parker,893,3110,Darryl Stephens,1,http://www.imdb.com/title/tt3125324/?ref_=fn_tt_tt_1,37,6.9
+Tom Ford,281,292,Teddy Sears,14000,14816,Keri Lynn Pratt,2,http://www.imdb.com/title/tt1315981/?ref_=fn_tt_tt_1,247,7.6
+Martin Scorsese,114,159,Barbara Hershey,883,1934,Roberts Blossom,0,http://www.imdb.com/title/tt0095497/?ref_=fn_tt_tt_1,308,7.6
+Michael Corrente,72,407,George Wendt,761,2018,Shawn Hatosy,3,http://www.imdb.com/title/tt0125971/?ref_=fn_tt_tt_1,100,6.4
+Gurinder Chadha,119,397,Martin Henderson,729,2321,Anupam Kher,1,http://www.imdb.com/title/tt0361411/?ref_=fn_tt_tt_1,276,6.2
+Phillip Noyce,74,46,David Gulpilil,116,312,Deborah Mailman,1,http://www.imdb.com/title/tt0252444/?ref_=fn_tt_tt_1,249,7.5
+Don Michael Paul,25,442,Faizon Love,692,3128,Lil' Wayne,0,http://www.imdb.com/title/tt0785077/?ref_=fn_tt_tt_1,46,2.0
+Tony Maylam,39,38,Alun Armstrong,206,493,Alastair Duncan,0,http://www.imdb.com/title/tt0105459/?ref_=fn_tt_tt_1,75,6.2
+,27,346,Xander Berkeley,787,2352,Aaron Stanford,1,http://www.imdb.com/title/tt1592154/?ref_=fn_tt_tt_1,83,7.7
+Mitch Davis,27,35,Nathaniel Lees,11000,11116,Miriama Smith,2,http://www.imdb.com/title/tt0250371/?ref_=fn_tt_tt_1,85,6.5
+,11,652,Ashley Scott,10000,12051,John Savage,1,http://www.imdb.com/title/tt0204993/?ref_=fn_tt_tt_1,160,7.4
+Yash Chopra,29,397,Preity Zinta,8000,9984,Anupam Kher,0,http://www.imdb.com/title/tt0420332/?ref_=fn_tt_tt_1,119,7.9
+David Mamet,158,501,Randy Couture,1000,2158,Jose Pablo Cantillo,0,http://www.imdb.com/title/tt1012804/?ref_=fn_tt_tt_1,119,6.8
+Jay Duplass,223,224,Tim Guinee,490,1136,Katie Aselton,2,http://www.imdb.com/title/tt1336617/?ref_=fn_tt_tt_1,126,6.3
+Kevin Brodie,25,359,Cheryl Ladd,655,1906,Jack Warden,0,http://www.imdb.com/title/tt0160216/?ref_=fn_tt_tt_1,20,6.3
+Paul Schrader,97,617,Michael McKean,783,2684,Kurt Fuller,3,http://www.imdb.com/title/tt0298744/?ref_=fn_tt_tt_1,147,6.6
+George Hickenlooper,117,628,Jimmy Fallon,4000,6526,Beth Grant,0,http://www.imdb.com/title/tt0432402/?ref_=fn_tt_tt_1,106,6.4
+Lynne Ramsay,389,77,Siobhan Fallon Hogan,3000,3547,Ashley Gerasimovich,0,http://www.imdb.com/title/tt1242460/?ref_=fn_tt_tt_1,301,7.5
+John Stephenson,9,149,Hans Matheson,2000,2909,Lesley Manville,0,http://www.imdb.com/title/tt2739338/?ref_=fn_tt_tt_1,34,5.8
+Tim Chambers,34,455,Marley Shelton,1000,2589,Jennifer Butler,2,http://www.imdb.com/title/tt1034324/?ref_=fn_tt_tt_1,12,6.5
+Curtis Hanson,7,172,Shelley Long,10000,11059,Rick Rossovich,0,http://www.imdb.com/title/tt0085868/?ref_=fn_tt_tt_1,16,4.8
+Rodrigo García,161,798,Jimmy Smits,6000,8876,Carla Gallo,6,http://www.imdb.com/title/tt1121977/?ref_=fn_tt_tt_1,65,7.2
+Dick Richards,6,375,Terence Hill,963,2209,Jack O'Halloran,1,http://www.imdb.com/title/tt0076175/?ref_=fn_tt_tt_1,26,6.3
+Jean-Marie Poiré,16,39,Isabelle Nanty,106,215,Valérie Lemercier,1,http://www.imdb.com/title/tt0108500/?ref_=fn_tt_tt_1,78,7.0
+Sofia Coppola,301,106,Chris Pontius,227,684,Erin Wasson,0,http://www.imdb.com/title/tt1421051/?ref_=fn_tt_tt_1,198,6.3
+Bob Gosse,52,184,Susie Abromeit,756,1417,Derek Wayne Johnson,1,http://www.imdb.com/title/tt1220628/?ref_=fn_tt_tt_1,72,5.3
+Alex Zamm,12,611,Raquel Welch,1000,5213,Larry Miller,1,http://www.imdb.com/title/tt0118836/?ref_=fn_tt_tt_1,62,2.3
+Spencer Susser,134,973,Natalie Portman,23000,44969,Rainn Wilson,0,http://www.imdb.com/title/tt1403177/?ref_=fn_tt_tt_1,99,7.1
+Richard Shepard,151,13,Mark Wingett,554,1105,Richard Graham,2,http://www.imdb.com/title/tt2402105/?ref_=fn_tt_tt_1,66,6.2
+Gus Van Sant,103,,Casey Affleck,13000,13000,,0,http://www.imdb.com/title/tt0302674/?ref_=fn_tt_tt_1,290,6.2
+Thaddeus O'Sullivan,39,52,Luke Newberry,766,1251,Eleanor Bron,3,http://www.imdb.com/title/tt0301390/?ref_=fn_tt_tt_1,25,6.7
+Peter Sollett,133,935,Josh Charles,7000,9660,Luke Grimes,0,http://www.imdb.com/title/tt1658801/?ref_=fn_tt_tt_1,25,6.5
+Shari Springer Berman,104,281,Marian Seldes,474,2029,Dan Hedaya,4,http://www.imdb.com/title/tt1361313/?ref_=fn_tt_tt_1,29,5.9
+Aleksey German,121,0,Yuriy Tsurilo,4,8,Valentin Golubenko,0,http://www.imdb.com/title/tt2328813/?ref_=fn_tt_tt_1,28,6.7
+Stephen Milburn Anderson,27,410,Mike Starr,26000,27756,Paul Sanchez,2,http://www.imdb.com/title/tt1106860/?ref_=fn_tt_tt_1,38,6.0
+Richard E. Grant,49,530,Julie Walters,876,2544,Miranda Richardson,3,http://www.imdb.com/title/tt0419256/?ref_=fn_tt_tt_1,50,6.9
+Troy Duffy,100,184,David Della Rocco,12000,12680,Bob Marley,2,http://www.imdb.com/title/tt0144117/?ref_=fn_tt_tt_1,876,7.9
+David Lam,12,4,Louis Koo,91,198,Stephen Au,1,http://www.imdb.com/title/tt3469440/?ref_=fn_tt_tt_1,1,5.3
+Francis Ford Coppola,112,507,Bruce Dern,1000,3150,Joanne Whalley,0,http://www.imdb.com/title/tt1756851/?ref_=fn_tt_tt_1,70,4.8
+Vladlen Barbe,10,26,Wendee Lee,99,218,Ivan Okhlobystin,1,http://www.imdb.com/title/tt2243621/?ref_=fn_tt_tt_1,9,5.3
+Richard Rich,2,29,Kate Higgins,122,236,Cindy Robinson,0,http://www.imdb.com/title/tt4061848/?ref_=fn_tt_tt_1,6,6.0
+Clint Eastwood,38,240,Chris Penn,16000,17209,Sydney Penny,0,http://www.imdb.com/title/tt0089767/?ref_=fn_tt_tt_1,138,7.3
+Robert C. Cooper,18,687,Christopher Judge,878,4334,Julian Sands,5,http://www.imdb.com/title/tt0942903/?ref_=fn_tt_tt_1,42,7.4
+Richard Linklater,152,787,Adam Goldberg,14000,18643,Cole Hauser,1,http://www.imdb.com/title/tt0106677/?ref_=fn_tt_tt_1,408,7.7
+Kenny Ortega,44,578,Corbin Bleu,755,3009,Olesya Rulin,5,http://www.imdb.com/title/tt0810900/?ref_=fn_tt_tt_1,162,4.8
+Kim Nguyen,6,63,Justin Edward Seale,149,414,John Ralston,0,http://www.imdb.com/title/tt4412528/?ref_=fn_tt_tt_1,6,7.2
+Jackie Earle Haley,46,493,Edi Gathegi,15000,17377,Travis Aaron Wade,3,http://www.imdb.com/title/tt3687310/?ref_=fn_tt_tt_1,38,5.8
+Max Färberböck,63,36,Johanna Wokalek,177,333,Maria Schrader,1,http://www.imdb.com/title/tt0130444/?ref_=fn_tt_tt_1,51,7.3
+Arie Posin,74,436,John Heard,710,2119,Tim DeKay,1,http://www.imdb.com/title/tt0406650/?ref_=fn_tt_tt_1,129,7.0
+Damian Nieman,25,83,Jason Cerbone,240,490,Mark De Alessandro,8,http://www.imdb.com/title/tt0323939/?ref_=fn_tt_tt_1,65,6.4
+Mark Tonderai,224,261,Nolan Gerard Funk,34000,35717,Gil Bellows,1,http://www.imdb.com/title/tt1582507/?ref_=fn_tt_tt_1,160,5.6
+Denis Villeneuve,226,58,Mélissa Désormeaux-Poulin,131,343,Ahmad Massad,0,http://www.imdb.com/title/tt1255953/?ref_=fn_tt_tt_1,156,8.2
+Gabriele Muccino,36,11,Silvio Muccino,60,132,Giulia Michelini,1,http://www.imdb.com/title/tt0323807/?ref_=fn_tt_tt_1,21,6.5
+Ian Fitzgibbon,54,415,Brendan Coyle,1000,2728,Michael McElhatton,8,http://www.imdb.com/title/tt1003034/?ref_=fn_tt_tt_1,31,6.4
+José Padilha,142,15,Fernanda Machado,585,666,André Ramiro,1,http://www.imdb.com/title/tt0861739/?ref_=fn_tt_tt_1,107,8.1
+John R. Leonetti,271,300,Annabelle Wallis,1000,2323,Gabriel Bateman,0,http://www.imdb.com/title/tt3322940/?ref_=fn_tt_tt_1,291,5.4
+Rachel Perkins,33,38,Magda Szubanski,46,225,Jessica Mauboy,7,http://www.imdb.com/title/tt1148165/?ref_=fn_tt_tt_1,31,6.3
+John Singleton,64,15,Lloyd Avery II,27,106,Na'Blonka Durden,2,http://www.imdb.com/title/tt0101507/?ref_=fn_tt_tt_1,183,7.8
+Luis Valdez,18,51,Rosanna DeSoto,699,936,Danielle von Zerneck,1,http://www.imdb.com/title/tt0093378/?ref_=fn_tt_tt_1,63,6.8
+Alan Alda,6,146,Len Cariou,804,1285,Sandy Dennis,2,http://www.imdb.com/title/tt0082405/?ref_=fn_tt_tt_1,33,7.2
+Brian De Palma,121,517,David Margulies,754,2442,Nancy Allen,0,http://www.imdb.com/title/tt0080661/?ref_=fn_tt_tt_1,201,7.1
+Stephen Sommers,14,689,Frances Conroy,876,4840,Anne Heche,0,http://www.imdb.com/title/tt0106223/?ref_=fn_tt_tt_1,54,6.2
+Doug Liman,137,376,Jay Mohr,900,2475,Scott Wolf,3,http://www.imdb.com/title/tt0139239/?ref_=fn_tt_tt_1,418,7.3
+Nicole Holofcener,111,180,Marin Hinkle,435,1140,Jake Cherry,2,http://www.imdb.com/title/tt0436331/?ref_=fn_tt_tt_1,166,5.9
+Robert Wise,57,45,Paula Kelly,116,394,Eric Christmas,0,http://www.imdb.com/title/tt0066769/?ref_=fn_tt_tt_1,171,7.2
+Louis Morneau,97,91,Bob Gunton,730,1405,Ned Bellamy,0,http://www.imdb.com/title/tt0200469/?ref_=fn_tt_tt_1,160,3.6
+Caroline Link,73,8,Juliane Köhler,56,105,Matthias Habich,0,http://www.imdb.com/title/tt0161860/?ref_=fn_tt_tt_1,84,7.7
+Steve McQueen,486,726,Nicole Beharie,13000,15230,James Badge Dale,0,http://www.imdb.com/title/tt1723811/?ref_=fn_tt_tt_1,375,7.3
+Matthew Vaughn,149,466,Sally Hawkins,27000,29277,Jamie Foreman,1,http://www.imdb.com/title/tt0375912/?ref_=fn_tt_tt_1,263,7.4
+Sterling Van Wagenen,4,266,Eric Johnson,1000,1942,Brenda Strong,2,http://www.imdb.com/title/tt0457530/?ref_=fn_tt_tt_1,21,6.6
+Zal Batmanglij,200,782,Julia Ormond,10000,13180,Jason Ritter,4,http://www.imdb.com/title/tt1869716/?ref_=fn_tt_tt_1,119,6.9
+Michael Mayer,84,874,Matt Frewer,18000,21107,Sissy Spacek,2,http://www.imdb.com/title/tt0359423/?ref_=fn_tt_tt_1,135,6.8
+Hans Petter Moland,28,0,Sara-Marie Maltha,844,846,Stellan Skarsgård,0,http://www.imdb.com/title/tt0168446/?ref_=fn_tt_tt_1,35,7.3
+Oren Moverman,217,706,Yaya DaCosta,12000,14462,Eamonn Walker,0,http://www.imdb.com/title/tt0790712/?ref_=fn_tt_tt_1,92,7.2
+Ian Sharp,12,368,Jed Brophy,1000,1904,Temuera Morrison,0,http://www.imdb.com/title/tt1414378/?ref_=fn_tt_tt_1,18,6.5
+Anton Corbijn,183,471,Samantha Morton,845,2614,Alexandra Maria Lara,1,http://www.imdb.com/title/tt0421082/?ref_=fn_tt_tt_1,143,7.7
+James Cameron,204,255,Brian Thompson,2000,3582,Paul Winfield,1,http://www.imdb.com/title/tt0088247/?ref_=fn_tt_tt_1,692,8.1
+Wolfgang Becker,153,43,Chulpan Khamatova,65,200,Burghart Klaußner,2,http://www.imdb.com/title/tt0301357/?ref_=fn_tt_tt_1,225,7.7
+Tom Hooper,145,27,Mark Bazeley,1000,1163,Maurice Roëves,2,http://www.imdb.com/title/tt1226271/?ref_=fn_tt_tt_1,75,7.6
+Dan O'Bannon,203,358,Clu Gulager,431,2020,Beverly Randolph,0,http://www.imdb.com/title/tt0089907/?ref_=fn_tt_tt_1,300,7.3
+,10,5,Fortunato Cerlino,18,39,Marco D'Amore,5,http://www.imdb.com/title/tt2049116/?ref_=fn_tt_tt_1,25,8.7
+Kevin Smith,93,781,Jason Mewes,1000,3254,Joey Lauren Adams,6,http://www.imdb.com/title/tt0113749/?ref_=fn_tt_tt_1,434,7.2
+Randal Kleiser,124,898,Stockard Channing,1000,5127,Sid Caesar,2,http://www.imdb.com/title/tt0077631/?ref_=fn_tt_tt_1,350,7.2
+Oliver Stone,120,576,Tom Berenger,40000,42028,Kevin Dillon,0,http://www.imdb.com/title/tt0091763/?ref_=fn_tt_tt_1,505,8.1
+Michael Moore,288,282,Stevie Wonder,503,1448,Ricky Martin,0,http://www.imdb.com/title/tt0361596/?ref_=fn_tt_tt_1,1416,7.5
+George Roy Hill,130,399,Ted Cassidy,640,2169,Kenneth Mars,1,http://www.imdb.com/title/tt0064115/?ref_=fn_tt_tt_1,309,8.1
+Robert Stevenson,145,266,Glynis Johns,382,2045,Elsa Lanchester,2,http://www.imdb.com/title/tt0058331/?ref_=fn_tt_tt_1,259,7.8
+Robert Redford,62,535,Elizabeth McGovern,2000,5122,Judd Hirsch,3,http://www.imdb.com/title/tt0081283/?ref_=fn_tt_tt_1,283,7.8
+Frank Coraci,188,447,Steve Coogan,1000,3175,Cécile De France,0,http://www.imdb.com/title/tt0327437/?ref_=fn_tt_tt_1,191,5.8
+Jerome Robbins,120,249,George Chakiris,804,1802,Richard Beymer,0,http://www.imdb.com/title/tt0055614/?ref_=fn_tt_tt_1,316,7.6
+Harold Ramis,71,484,Rodney Dangerfield,13000,14921,Brian Doyle-Murray,3,http://www.imdb.com/title/tt0080487/?ref_=fn_tt_tt_1,250,7.4
+Gary Hardwick,52,578,Tatyana Ali,3000,6419,Jenifer Lewis,4,http://www.imdb.com/title/tt0250274/?ref_=fn_tt_tt_1,43,6.3
+Rick Famuyiwa,18,328,Tamala Jones,865,2724,Richard T. Jones,0,http://www.imdb.com/title/tt0161100/?ref_=fn_tt_tt_1,50,6.9
+Bryan Singer,162,574,Chazz Palminteri,18000,20821,Kevin Pollak,4,http://www.imdb.com/title/tt0114814/?ref_=fn_tt_tt_1,1182,8.6
+Stephen Hopkins,88,92,Kelly Jo Minter,321,584,Matthew Borlenghi,0,http://www.imdb.com/title/tt0097981/?ref_=fn_tt_tt_1,227,5.1
+Walt Becker,96,583,Curtis Armstrong,16000,19341,Erik Estrada,0,http://www.imdb.com/title/tt0283111/?ref_=fn_tt_tt_1,258,6.4
+Darren Aronofsky,391,120,John D'Leo,1000,1582,Ajay Naidu,0,http://www.imdb.com/title/tt1125849/?ref_=fn_tt_tt_1,547,7.9
+King Vidor,32,332,Lillian Gish,469,2037,Jennifer Jones,0,http://www.imdb.com/title/tt0038499/?ref_=fn_tt_tt_1,87,6.9
+Christopher Guest,119,658,Catherine O'Hara,957,4611,Michael McKean,9,http://www.imdb.com/title/tt0218839/?ref_=fn_tt_tt_1,340,7.5
+John Carpenter,201,381,Adrienne Barbeau,742,2270,Tom Atkins,1,http://www.imdb.com/title/tt0082340/?ref_=fn_tt_tt_1,284,7.2
+Spike Lee,22,182,Ossie Davis,413,1284,Bill Nunn,4,http://www.imdb.com/title/tt0096054/?ref_=fn_tt_tt_1,38,5.8
+Fred Savage,52,405,Brian Doyle-Murray,555,1752,Tamala Jones,2,http://www.imdb.com/title/tt0462244/?ref_=fn_tt_tt_1,32,2.9
+Sammo Kam-Bo Hung,63,64,Richard Norton,472,773,Rachel Blakely,1,http://www.imdb.com/title/tt0117786/?ref_=fn_tt_tt_1,70,6.2
+Christopher Guest,97,345,Christopher Guest,658,1660,Laura Harris,0,http://www.imdb.com/title/tt0310281/?ref_=fn_tt_tt_1,272,7.3
+Donald Petrie,34,658,Lili Taylor,8000,10430,Conchata Ferrell,4,http://www.imdb.com/title/tt0095690/?ref_=fn_tt_tt_1,73,6.2
+,10,502,Tuppence Middleton,1000,4528,Lily James,1,http://www.imdb.com/title/tt3910804/?ref_=fn_tt_tt_1,44,8.2
+Peter Howitt,88,161,Kevin McNally,711,1462,John Lynch,1,http://www.imdb.com/title/tt0120148/?ref_=fn_tt_tt_1,278,6.8
+Rusty Cundieff,25,360,Clarence Williams III,1000,3221,David Alan Grier,0,http://www.imdb.com/title/tt0114609/?ref_=fn_tt_tt_1,52,6.1
+Kevin Macdonald,252,25,Simon McBurney,1000,1184,Abby Mukiibi Nkaaga,1,http://www.imdb.com/title/tt0455590/?ref_=fn_tt_tt_1,351,7.7
+Dominique Othenin-Girard,137,120,Tamara Glynn,742,1308,Troy Evans,1,http://www.imdb.com/title/tt0097474/?ref_=fn_tt_tt_1,287,5.2
+Richard Linklater,231,84,Brandon Smith,11000,11328,Rick Dial,1,http://www.imdb.com/title/tt1704573/?ref_=fn_tt_tt_1,136,6.8
+Jean-Jacques Mantello,9,,Daryl Hannah,844,844,,0,http://www.imdb.com/title/tt0996382/?ref_=fn_tt_tt_1,5,6.5
+Ed Harris,115,221,Bud Cort,697,1517,Amy Madigan,0,http://www.imdb.com/title/tt0183659/?ref_=fn_tt_tt_1,148,7.0
+Risa Bramon Garcia,67,612,Dave Chappelle,1000,2697,Gaby Hoffmann,5,http://www.imdb.com/title/tt0137338/?ref_=fn_tt_tt_1,182,5.9
+Brian Klugman,216,10000,Bradley Cooper,24000,51355,Olivia Wilde,1,http://www.imdb.com/title/tt1840417/?ref_=fn_tt_tt_1,130,7.1
+Matt Piedmont,133,546,Adrian Martinez,8000,10123,Luis E. Carazo,1,http://www.imdb.com/title/tt1702425/?ref_=fn_tt_tt_1,70,5.5
+Raymond De Felitta,149,130,Curtiss Cook,3000,3825,Dominik García-Lorido,6,http://www.imdb.com/title/tt1174730/?ref_=fn_tt_tt_1,101,7.4
+John Michael McDonagh,261,28,Fionnula Flanagan,3000,3569,Wale Ojo,0,http://www.imdb.com/title/tt1540133/?ref_=fn_tt_tt_1,131,7.3
+Deb Hagan,42,664,Alona Tal,1000,4484,Haley Bennett,0,http://www.imdb.com/title/tt0844671/?ref_=fn_tt_tt_1,78,4.6
+Sofia Coppola,152,826,Kathleen Turner,4000,7103,Scott Glenn,0,http://www.imdb.com/title/tt0159097/?ref_=fn_tt_tt_1,520,7.2
+Mark Herman,64,286,Annette Badland,1000,2103,Brenda Blethyn,4,http://www.imdb.com/title/tt0147004/?ref_=fn_tt_tt_1,160,7.0
+Zach Cregger,76,263,Windell Middlebrooks,373,1831,Raquel Alessi,2,http://www.imdb.com/title/tt1151922/?ref_=fn_tt_tt_1,73,5.1
+Zach Braff,149,379,Josh Gad,17000,18947,Michael Weston,4,http://www.imdb.com/title/tt2870708/?ref_=fn_tt_tt_1,93,6.7
+Mark Tarlov,35,353,Dylan Baker,4000,5668,Lawrence Gilliard Jr.,1,http://www.imdb.com/title/tt0145893/?ref_=fn_tt_tt_1,190,5.3
+,47,724,Jason Dohring,937,3318,Enrico Colantoni,1,http://www.imdb.com/title/tt0412253/?ref_=fn_tt_tt_1,315,8.4
+John Cameron Mitchell,108,179,Miriam Shor,263,993,Andrea Martin,0,http://www.imdb.com/title/tt0248845/?ref_=fn_tt_tt_1,231,7.8
+Sheldon Lettich,17,82,Ryan Bollman,97,382,Todd Susman,1,http://www.imdb.com/title/tt0107750/?ref_=fn_tt_tt_1,50,6.7
+Jon Knautz,12,34,Monda Scott,397,546,Alexis Kendra,0,http://www.imdb.com/title/tt3432552/?ref_=fn_tt_tt_1,5,5.4
+Billy Ray,129,491,Rosario Dawson,4000,8297,Cas Anvar,0,http://www.imdb.com/title/tt0323944/?ref_=fn_tt_tt_1,190,7.2
+David Atkins,84,15,Lynne Thigpen,244,489,Polly Noonan,3,http://www.imdb.com/title/tt0234354/?ref_=fn_tt_tt_1,105,5.8
+Patrick Stettner,61,152,Tony Devon,944,1407,Frederick Weller,2,http://www.imdb.com/title/tt0270259/?ref_=fn_tt_tt_1,78,6.4
+Sam Peckinpah,147,242,Warren Oates,682,2379,L.Q. Jones,1,http://www.imdb.com/title/tt0065214/?ref_=fn_tt_tt_1,287,8.0
+Jonathan Levine,147,362,Aaron Yoo,976,2748,Method Man,2,http://www.imdb.com/title/tt1082886/?ref_=fn_tt_tt_1,75,7.0
+Michael Crichton,23,20,Michael Elphick,187,297,Pamela Salem,2,http://www.imdb.com/title/tt0079240/?ref_=fn_tt_tt_1,50,7.0
+Lynne Ramsay,75,53,Bryan Dick,631,841,Paul Popplewell,0,http://www.imdb.com/title/tt0300214/?ref_=fn_tt_tt_1,111,6.7
+Sylvio Tabet,17,284,Kari Wuhrer,721,2000,Marc Singer,2,http://www.imdb.com/title/tt0101412/?ref_=fn_tt_tt_1,16,3.8
+Rick Bieber,16,316,Kendrick Cross,767,2370,Sammy Nagi Njuguna,2,http://www.imdb.com/title/tt1130964/?ref_=fn_tt_tt_1,29,5.7
+Claude Chabrol,60,27,Nathalie Baye,173,282,Mélanie Doutey,5,http://www.imdb.com/title/tt0322289/?ref_=fn_tt_tt_1,36,6.6
+Shana Feste,63,71,Zoë Kravitz,1000,2163,Cara Seymour,2,http://www.imdb.com/title/tt1226232/?ref_=fn_tt_tt_1,50,6.7
+Wayne Wang,56,451,Russell Wong,974,2430,Ji-hyun Jun,0,http://www.imdb.com/title/tt1541995/?ref_=fn_tt_tt_1,22,6.1
+Joey Lauren Adams,36,90,Diane Ladd,596,1081,Ritchie Montgomery,0,http://www.imdb.com/title/tt0457308/?ref_=fn_tt_tt_1,29,6.2
+Peter Cattaneo,47,419,Olivia Williams,773,2440,Peter McNamara,0,http://www.imdb.com/title/tt0246134/?ref_=fn_tt_tt_1,34,6.2
+Fred Zinnemann,38,898,Jane Fonda,11000,15604,Vanessa Redgrave,2,http://www.imdb.com/title/tt0076245/?ref_=fn_tt_tt_1,44,7.4
+S.R. Bindler,26,499,Scott Glenn,11000,14599,Sarah Wright,0,http://www.imdb.com/title/tt0976247/?ref_=fn_tt_tt_1,37,4.7
+Tony Kaye,47,0,Pat Buchanan,103,105,Bill Baird,0,http://www.imdb.com/title/tt0841119/?ref_=fn_tt_tt_1,29,8.3
+Greg Marcks,68,407,Barbara Hershey,861,2200,Shawn Hatosy,1,http://www.imdb.com/title/tt0331811/?ref_=fn_tt_tt_1,133,7.2
+Perry Lang,19,259,Kevin Tighe,636,2152,Tim Guinee,1,http://www.imdb.com/title/tt0110490/?ref_=fn_tt_tt_1,38,5.8
+Jake Goldberger,39,99,M. Emmet Walsh,592,1227,Robert Wahlberg,1,http://www.imdb.com/title/tt1281374/?ref_=fn_tt_tt_1,17,5.9
+Stefan Ruzowitzky,162,874,Olivia Wilde,16000,27575,Sissy Spacek,1,http://www.imdb.com/title/tt1667310/?ref_=fn_tt_tt_1,86,6.3
+Vic Sarin,37,130,Aidan Quinn,933,1940,John Bell,2,http://www.imdb.com/title/tt1014774/?ref_=fn_tt_tt_1,19,7.2
+William Kaufman,26,787,Sean Cook,848,3469,Cole Hauser,1,http://www.imdb.com/title/tt1575694/?ref_=fn_tt_tt_1,39,5.4
+,10,334,Blake Ritson,805,2563,Rupert Evans,1,http://www.imdb.com/title/tt1366312/?ref_=fn_tt_tt_1,50,8.2
+David Cronenberg,179,15,Leslie Carlson,391,477,Reiner Schwarz,0,http://www.imdb.com/title/tt0086541/?ref_=fn_tt_tt_1,228,7.3
+Cédric Klapisch,88,269,Cécile De France,809,1858,Iddo Goldberg,0,http://www.imdb.com/title/tt0283900/?ref_=fn_tt_tt_1,149,7.3
+Kate Barker-Froyland,43,444,Shawn Parsons,11000,12772,Li Jun Li,1,http://www.imdb.com/title/tt2182972/?ref_=fn_tt_tt_1,21,5.8
+Barbet Schroeder,136,400,Chris Penn,33000,34605,Agnes Bruckner,0,http://www.imdb.com/title/tt0264935/?ref_=fn_tt_tt_1,302,6.1
+Martin Koolhoven,111,19,Tygo Gernandt,163,219,Martijn Lakemeier,1,http://www.imdb.com/title/tt0795441/?ref_=fn_tt_tt_1,37,7.1
+Charles Matthau,13,1000,Michael Jai White,2000,6569,Bill Duke,0,http://www.imdb.com/title/tt0938305/?ref_=fn_tt_tt_1,11,6.5
+John Frankenheimer,64,28,Paul Scofield,343,502,Michel Simon,0,http://www.imdb.com/title/tt0059825/?ref_=fn_tt_tt_1,124,7.9
+Christopher M. Bessette,6,57,John Billingsley,978,1443,Trieu Tran,2,http://www.imdb.com/title/tt1772408/?ref_=fn_tt_tt_1,8,5.4
+Prachya Pinkaew,112,380,Nathan Jones,778,2205,Johnny Nguyen,0,http://www.imdb.com/title/tt0427954/?ref_=fn_tt_tt_1,214,7.1
+Gary Sinyor,12,136,Frank Finlay,722,1477,Samuel West,2,http://www.imdb.com/title/tt0120210/?ref_=fn_tt_tt_1,21,6.4
+,15,220,Belinda Stewart-Wilson,229,1239,James Buckley,0,http://www.imdb.com/title/tt1220617/?ref_=fn_tt_tt_1,42,8.4
+Gurinder Chadha,161,397,Parminder Nagra,883,2201,Anupam Kher,0,http://www.imdb.com/title/tt0286499/?ref_=fn_tt_tt_1,438,6.7
+John Sayles,68,501,Edie Falco,688,2584,Timothy Hutton,6,http://www.imdb.com/title/tt0286179/?ref_=fn_tt_tt_1,81,6.9
+Preston A. Whitmore II,25,255,Wayne Brady,592,2000,Eva Marcille,6,http://www.imdb.com/title/tt0473024/?ref_=fn_tt_tt_1,36,2.1
+Ashish R. Mohan,23,61,Mithun Chakraborty,634,1065,Johnny Lever,1,http://www.imdb.com/title/tt2166214/?ref_=fn_tt_tt_1,31,4.3
+Jaume Balagueró,222,6,Pablo Rosso,37,73,Andrea Ros,0,http://www.imdb.com/title/tt1245112/?ref_=fn_tt_tt_1,148,6.6
+Stewart Raffill,9,10,Alexis Biesiada,25,72,Kayla Raparelli,9,http://www.imdb.com/title/tt1303803/?ref_=fn_tt_tt_1,6,3.4
+George Roy Hill,119,417,Robert Shaw,1000,2387,Ray Walston,0,http://www.imdb.com/title/tt0070735/?ref_=fn_tt_tt_1,252,8.3
+Hugh Hudson,90,249,Ben Cross,368,1651,John Gielgud,0,http://www.imdb.com/title/tt0082158/?ref_=fn_tt_tt_1,213,7.2
+Darren Grant,62,476,Kimberly Elise,907,2723,Tamara Taylor,0,http://www.imdb.com/title/tt0422093/?ref_=fn_tt_tt_1,202,5.6
+Scott Hicks,71,35,Armin Mueller-Stahl,509,888,Nicholas Bell,0,http://www.imdb.com/title/tt0117631/?ref_=fn_tt_tt_1,104,7.7
+Joseph Gordon-Levitt,364,694,Scarlett Johansson,23000,44265,Tony Danza,1,http://www.imdb.com/title/tt2229499/?ref_=fn_tt_tt_1,314,6.6
+Clint Eastwood,72,258,Richard Bull,16000,17599,John Hillerman,0,http://www.imdb.com/title/tt0068699/?ref_=fn_tt_tt_1,169,7.6
+Terry Zwigoff,122,722,Steve Buscemi,19000,34106,T.J. Thyne,0,http://www.imdb.com/title/tt0162346/?ref_=fn_tt_tt_1,488,7.4
+Richard Eyre,100,548,Jim Broadbent,14000,16768,Kris Marshall,1,http://www.imdb.com/title/tt0280778/?ref_=fn_tt_tt_1,144,7.1
+William Sachs,24,60,Avery Schreiber,113,396,Angelo Rossitto,0,http://www.imdb.com/title/tt0080771/?ref_=fn_tt_tt_1,44,3.4
+Christophe Barratier,112,57,François Berléand,517,745,Gérard Jugnot,0,http://www.imdb.com/title/tt0372824/?ref_=fn_tt_tt_1,110,7.9
+Émile Gaudreault,67,71,Luke Kirby,636,1033,Claudia Ferri,0,http://www.imdb.com/title/tt0330602/?ref_=fn_tt_tt_1,67,6.7
+James Cox,91,93,Louis Lombardi,715,1315,Franky G,0,http://www.imdb.com/title/tt0335563/?ref_=fn_tt_tt_1,153,6.6
+Spike Lee,103,388,John Savage,782,2892,Danny Aiello,2,http://www.imdb.com/title/tt0097216/?ref_=fn_tt_tt_1,418,7.9
+James Toback,27,781,Eric Stoltz,4000,6776,Joey Lauren Adams,3,http://www.imdb.com/title/tt0242508/?ref_=fn_tt_tt_1,69,4.9
+Aki Kaurismäki,205,36,Kati Outinen,232,391,Jean-Pierre Darroussin,1,http://www.imdb.com/title/tt1508675/?ref_=fn_tt_tt_1,41,7.2
+Gaspar Noé,192,9,Albert Dupontel,56,118,Jo Prestia,0,http://www.imdb.com/title/tt0290673/?ref_=fn_tt_tt_1,664,7.4
+Hitoshi Matsumoto,72,16,Hitoshi Matsumoto,31,81,Shinobu Terajima,0,http://www.imdb.com/title/tt2914838/?ref_=fn_tt_tt_1,12,6.1
+Rakeysh Omprakash Mehra,33,199,Steven Mackintosh,397,1519,Madhavan,0,http://www.imdb.com/title/tt0405508/?ref_=fn_tt_tt_1,321,8.4
+Collin Schiffli,22,290,John Heard,934,2030,David Dastmalchian,0,http://www.imdb.com/title/tt3297554/?ref_=fn_tt_tt_1,8,6.2
+George Ratliff,48,38,Cree Kelly,472,561,Mike Eshaq,5,http://www.imdb.com/title/tt1251743/?ref_=fn_tt_tt_1,31,5.3
+David Wain,65,139,Ken Marino,4000,4883,Ron Silver,4,http://www.imdb.com/title/tt0811106/?ref_=fn_tt_tt_1,117,5.0
+Shane Meadows,29,222,Paddy Considine,5000,6111,Shane Meadows,2,http://www.imdb.com/title/tt0202559/?ref_=fn_tt_tt_1,47,7.7
+Morten Tyldum,284,27,Synnøve Macody Lund,286,385,Julie R. Ølgaard,3,http://www.imdb.com/title/tt1614989/?ref_=fn_tt_tt_1,121,7.6
+Jon Wright,187,114,Richard Coyle,796,1832,Bronagh Gallagher,0,http://www.imdb.com/title/tt1525366/?ref_=fn_tt_tt_1,70,6.3
+Michael McGowan,47,149,Adam Butcher,393,955,Gordon Pinsent,1,http://www.imdb.com/title/tt0384488/?ref_=fn_tt_tt_1,52,7.6
+Liv Ullmann,88,0,Jessica Chastain,631,631,Colin Farrell,2,http://www.imdb.com/title/tt2667960/?ref_=fn_tt_tt_1,14,5.6
+Jeannot Szwarc,41,32,Bill Erwin,208,454,George Voskovec,2,http://www.imdb.com/title/tt0081534/?ref_=fn_tt_tt_1,249,7.3
+Rohan Sippy,24,47,Bipasha Basu,374,787,Prateik,0,http://www.imdb.com/title/tt1618430/?ref_=fn_tt_tt_1,27,6.2
+James Wan,318,482,Barbara Hershey,852,2975,Leigh Whannell,0,http://www.imdb.com/title/tt2226417/?ref_=fn_tt_tt_1,269,6.6
+Darren Lynn Bousman,250,651,Tony Nappo,1000,4134,Shawnee Smith,0,http://www.imdb.com/title/tt0432348/?ref_=fn_tt_tt_1,864,6.6
+Dan Trachtenberg,411,82,John Gallagher Jr.,14000,14504,Sumalee Montano,0,http://www.imdb.com/title/tt1179933/?ref_=fn_tt_tt_1,440,7.3
+Jeff Tremaine,106,218,Steve-O,608,1770,Chris Pontius,0,http://www.imdb.com/title/tt0322802/?ref_=fn_tt_tt_1,327,6.6
+David F. Sandberg,159,300,Amiah Miller,2000,3344,Gabriel Bateman,0,http://www.imdb.com/title/tt4786282/?ref_=fn_tt_tt_1,95,6.9
+Henry Joost,251,434,Sprague Grayden,581,2371,Christopher Nicholas Smith,0,http://www.imdb.com/title/tt1778304/?ref_=fn_tt_tt_1,314,5.8
+Stiles White,183,704,Shelley Hennig,852,5056,Daren Kagasoff,0,http://www.imdb.com/title/tt1204977/?ref_=fn_tt_tt_1,159,4.4
+Chuck Russell,131,150,Heather Langenkamp,506,1584,Jennifer Rubin,0,http://www.imdb.com/title/tt0093629/?ref_=fn_tt_tt_1,311,6.6
+Joel Edgerton,297,458,Allison Tolman,1000,3215,Wendell Pierce,1,http://www.imdb.com/title/tt4178092/?ref_=fn_tt_tt_1,279,7.1
+Eugenio Derbez,41,83,Jessica Lindsey,399,688,Hugo Stiglitz,1,http://www.imdb.com/title/tt2378281/?ref_=fn_tt_tt_1,81,7.6
+Henry Joost,248,113,Brendon Eggertsen,235,799,Alisha Boe,0,http://www.imdb.com/title/tt2109184/?ref_=fn_tt_tt_1,247,4.6
+Henry Koster,42,275,Jean Simmons,726,1920,Victor Mature,1,http://www.imdb.com/title/tt0046247/?ref_=fn_tt_tt_1,69,6.8
+Blake Edwards,33,80,Herbert Lom,462,971,Catherine Schell,0,http://www.imdb.com/title/tt0072081/?ref_=fn_tt_tt_1,73,7.1
+Rachel Talalay,91,581,Tom Arnold,40000,42002,Yaphet Kotto,0,http://www.imdb.com/title/tt0101917/?ref_=fn_tt_tt_1,252,4.9
+Patty Jenkins,185,592,Bruce Dern,9000,11736,Pruitt Taylor Vince,2,http://www.imdb.com/title/tt0340855/?ref_=fn_tt_tt_1,533,7.3
+Richard Fleischer,69,51,Robert J. Wilke,617,799,Paul Lukas,0,http://www.imdb.com/title/tt0046672/?ref_=fn_tt_tt_1,108,7.2
+Christopher Landon,220,332,Gloria Sandoval,510,2161,Molly Ephraim,0,http://www.imdb.com/title/tt2473682/?ref_=fn_tt_tt_1,155,5.0
+David Lynch,117,452,Anne Bancroft,12000,13864,Dexter Fletcher,1,http://www.imdb.com/title/tt0080678/?ref_=fn_tt_tt_1,356,8.2
+Jean-Marc Vallée,471,896,Jennifer Garner,11000,17738,Denis O'Hare,0,http://www.imdb.com/title/tt0790636/?ref_=fn_tt_tt_1,340,8.0
+David Gelb,152,801,Mark Duplass,10000,11771,Donald Glover,0,http://www.imdb.com/title/tt2918436/?ref_=fn_tt_tt_1,126,5.2
+Christopher Nolan,274,379,Thomas Lennon,716,1997,Jorja Fox,0,http://www.imdb.com/title/tt0209144/?ref_=fn_tt_tt_1,2067,8.5
+Mike Flanagan,336,202,Rory Cochrane,972,2071,Garrett Ryan,0,http://www.imdb.com/title/tt2388715/?ref_=fn_tt_tt_1,339,6.5
+Kevin Smith,174,657,Jason Mewes,1000,2990,Brian O'Halloran,3,http://www.imdb.com/title/tt0424345/?ref_=fn_tt_tt_1,472,7.4
+Stephen Daldry,151,34,Gary Lewis,838,1122,Jamie Draven,0,http://www.imdb.com/title/tt0249462/?ref_=fn_tt_tt_1,433,7.7
+Nat Faxon,276,424,Liam James,7000,8375,Jim Rash,1,http://www.imdb.com/title/tt1727388/?ref_=fn_tt_tt_1,216,7.4
+George Jackson,12,287,Tisha Campbell-Martin,901,2523,Helen Martin,0,http://www.imdb.com/title/tt0102065/?ref_=fn_tt_tt_1,11,5.1
+George Miller,18,75,Jack Thompson,492,854,Tom Burlinson,0,http://www.imdb.com/title/tt0084296/?ref_=fn_tt_tt_1,56,7.3
+Maurice Joyce,28,73,Constance Shulman,2000,2908,Alice Playten,1,http://www.imdb.com/title/tt0187819/?ref_=fn_tt_tt_1,18,5.0
+Robert Duvall,95,77,Todd Allen,205,428,June Carter Cash,1,http://www.imdb.com/title/tt0118632/?ref_=fn_tt_tt_1,157,7.2
+Frank Perry,74,157,Xander Berkeley,977,2014,Diana Scarwid,1,http://www.imdb.com/title/tt0082766/?ref_=fn_tt_tt_1,161,6.7
+Jesse Peretz,179,1000,Adam Scott,11000,15710,Steve Coogan,1,http://www.imdb.com/title/tt1637706/?ref_=fn_tt_tt_1,115,6.4
+Stephen Hopkins,125,388,Tony Curran,882,2410,David Kross,0,http://www.imdb.com/title/tt3499096/?ref_=fn_tt_tt_1,49,7.1
+Ice Cube,22,498,Monica Calhoun,1000,2868,Chrystale Wilson,9,http://www.imdb.com/title/tt0119905/?ref_=fn_tt_tt_1,26,5.6
+Tim Blake Nelson,92,697,Andrew Keegan,1000,3300,John Heard,2,http://www.imdb.com/title/tt0184791/?ref_=fn_tt_tt_1,153,6.2
+John Erick Dowdle,196,161,Edwin Hodge,1000,1410,Perdita Weeks,0,http://www.imdb.com/title/tt2870612/?ref_=fn_tt_tt_1,211,6.1
+Bille Woodruff,9,467,Cameron Mills,1000,2840,Sharon Leal,0,http://www.imdb.com/title/tt2205401/?ref_=fn_tt_tt_1,33,5.2
+Kasi Lemmons,31,426,Lynn Whitfield,2000,3843,Diahann Carroll,2,http://www.imdb.com/title/tt0119080/?ref_=fn_tt_tt_1,209,7.3
+Richard Glatzer,309,423,Hunter Parrish,17000,19673,Seth Gilliam,1,http://www.imdb.com/title/tt3316960/?ref_=fn_tt_tt_1,195,7.5
+Michael Curtiz,15,422,Peter Ustinov,535,2112,Jean Simmons,0,http://www.imdb.com/title/tt0046949/?ref_=fn_tt_tt_1,67,6.6
+Bruce Malmuth,36,142,Lindsay Wagner,13000,14306,Persis Khambatta,2,http://www.imdb.com/title/tt0082817/?ref_=fn_tt_tt_1,107,6.4
+Rob Hedden,129,65,Peter Mark Richman,935,1327,Scott Reeves,0,http://www.imdb.com/title/tt0097388/?ref_=fn_tt_tt_1,291,4.5
+Joel Zwick,168,249,Louis Mandylor,567,1495,Lainie Kazan,3,http://www.imdb.com/title/tt0259446/?ref_=fn_tt_tt_1,756,6.6
+Harmony Korine,444,192,Heather Morris,11000,12306,Rachel Korine,4,http://www.imdb.com/title/tt2101441/?ref_=fn_tt_tt_1,561,5.3
+Joe Chappelle,123,141,Kim Darby,742,1227,Mitchell Ryan,0,http://www.imdb.com/title/tt0113253/?ref_=fn_tt_tt_1,335,4.9
+Alfonso Cuarón,173,19,Daniel Giménez Cacho,269,361,María Aura,1,http://www.imdb.com/title/tt0245574/?ref_=fn_tt_tt_1,385,7.7
+Edgar Wright,246,358,Dylan Moran,605,1686,Rafe Spall,6,http://www.imdb.com/title/tt0365748/?ref_=fn_tt_tt_1,859,8.0
+Mickey Liddell,74,664,Randy Wayne,1000,4856,Haley Bennett,5,http://www.imdb.com/title/tt1045655/?ref_=fn_tt_tt_1,113,3.8
+John Sayles,68,111,Clifton James,11000,11400,Miriam Colon,2,http://www.imdb.com/title/tt0116905/?ref_=fn_tt_tt_1,173,7.6
+Dwight H. Little,144,101,Kathleen Kinmont,742,1136,Ellie Cornell,0,http://www.imdb.com/title/tt0095271/?ref_=fn_tt_tt_1,374,5.9
+Fred Walton,96,85,Deborah Foreman,690,1160,Clayton Rohner,0,http://www.imdb.com/title/tt0090655/?ref_=fn_tt_tt_1,125,6.2
+Barry Levinson,42,551,Daniel Stern,801,2943,Ellen Barkin,6,http://www.imdb.com/title/tt0083833/?ref_=fn_tt_tt_1,87,7.2
+Steve Carver,29,268,William Sanderson,926,2383,Robert Beltran,0,http://www.imdb.com/title/tt0085862/?ref_=fn_tt_tt_1,65,6.3
+Gonzalo López-Gallego,228,205,Ryan Robbins,520,1520,Andrew Airlie,0,http://www.imdb.com/title/tt1772240/?ref_=fn_tt_tt_1,323,5.2
+Christine Jeffs,195,260,Mary Lynn Rajskub,968,2528,Paul Dooley,0,http://www.imdb.com/title/tt0862846/?ref_=fn_tt_tt_1,134,6.9
+John Erick Dowdle,203,13,Claire Geare,155,259,Sahajak Boonthanakit,0,http://www.imdb.com/title/tt1781922/?ref_=fn_tt_tt_1,214,6.8
+Don Coscarelli,44,826,John Amos,21000,23714,Rip Torn,0,http://www.imdb.com/title/tt0083630/?ref_=fn_tt_tt_1,87,6.2
+King Vidor,14,70,George Sanders,746,1332,Finlay Currie,2,http://www.imdb.com/title/tt0053290/?ref_=fn_tt_tt_1,33,6.2
+Michael Tiddes,59,355,Mike Epps,729,2848,Russell Peters,4,http://www.imdb.com/title/tt4667094/?ref_=fn_tt_tt_1,53,3.5
+Bill Duke,45,409,Jenifer Lewis,849,2269,Wood Harris,1,http://www.imdb.com/title/tt0795438/?ref_=fn_tt_tt_1,21,6.1
+Frank Borzage,42,99,Helen Hayes,998,1284,Adolphe Menjou,1,http://www.imdb.com/title/tt0022879/?ref_=fn_tt_tt_1,46,6.6
+Bille Woodruff,12,503,Brandy Norwood,927,3552,Lauren London,6,http://www.imdb.com/title/tt4871980/?ref_=fn_tt_tt_1,9,4.5
+Mamoru Hosoda,29,44,Colleen O'Shaughnessey,93,315,Mona Marshall,0,http://www.imdb.com/title/tt0259974/?ref_=fn_tt_tt_1,65,5.9
+Brian Dannelly,121,797,Patrick Fugit,3000,5668,Eva Amurri Martino,5,http://www.imdb.com/title/tt0332375/?ref_=fn_tt_tt_1,324,6.9
+Denys Arcand,135,21,Stéphane Rousseau,150,253,Marina Hands,2,http://www.imdb.com/title/tt0338135/?ref_=fn_tt_tt_1,166,7.7
+Richard Lester,27,136,Denholm Elliott,559,1199,Nicol Williamson,10,http://www.imdb.com/title/tt0075147/?ref_=fn_tt_tt_1,90,6.6
+J.S. Cardone,56,560,Kerr Smith,847,3004,Izabella Miko,4,http://www.imdb.com/title/tt0245120/?ref_=fn_tt_tt_1,131,5.3
+Guy Hamilton,22,576,Carl Weathers,11000,13591,Franco Nero,2,http://www.imdb.com/title/tt0077572/?ref_=fn_tt_tt_1,80,6.3
+Jay Levey,59,448,Gedde Watanabe,859,3942,Michael Richards,1,http://www.imdb.com/title/tt0098546/?ref_=fn_tt_tt_1,198,7.0
+Nicholaus Goossen,61,556,Joel David Moore,2000,5202,Shirley Jones,0,http://www.imdb.com/title/tt0456554/?ref_=fn_tt_tt_1,202,7.0
+Tamara Jenkins,60,572,Kevin Corrigan,1000,2691,Jessica Walter,0,http://www.imdb.com/title/tt0120831/?ref_=fn_tt_tt_1,79,6.6
+Sergio Leone,164,392,Woody Strode,973,2589,Jack Elam,1,http://www.imdb.com/title/tt0064116/?ref_=fn_tt_tt_1,565,8.6
+Jon Favreau,81,334,Faizon Love,4000,5245,Jonathan Silverman,2,http://www.imdb.com/title/tt0227005/?ref_=fn_tt_tt_1,165,6.4
+Duncan Jones,415,372,Matt Berry,18000,19404,Benedict Wong,0,http://www.imdb.com/title/tt1182345/?ref_=fn_tt_tt_1,485,7.9
+Scott Marshall,43,701,Jami Gertz,2000,5900,Carter Jenkins,0,http://www.imdb.com/title/tt0415949/?ref_=fn_tt_tt_1,41,5.4
+Ronan Chapalain,7,0,Guillaume Denaiffe,55,55,Chloe Hollings,0,http://www.imdb.com/title/tt1529567/?ref_=fn_tt_tt_1,4,6.9
+Atom Egoyan,120,395,Sarah Polley,990,2820,Simon Baker,0,http://www.imdb.com/title/tt0120255/?ref_=fn_tt_tt_1,196,7.7
+Xavier Beauvois,195,32,Michael Lonsdale,186,416,Olivier Rabourdin,0,http://www.imdb.com/title/tt1588337/?ref_=fn_tt_tt_1,89,7.2
+Randall Miller,109,39,Freddy Rodríguez,25000,25676,Greg Collins,0,http://www.imdb.com/title/tt0914797/?ref_=fn_tt_tt_1,89,6.8
+Jerry Belson,21,83,Tim Thomerson,922,1324,Bess Armstrong,0,http://www.imdb.com/title/tt0084171/?ref_=fn_tt_tt_1,32,6.2
+Peter Jackson,93,88,Jed Brophy,14000,14574,Liz Mullane,2,http://www.imdb.com/title/tt0110005/?ref_=fn_tt_tt_1,265,7.4
+Michael Polish,12,473,Bobby Batson,4000,6617,Cynthia Barrett,0,http://www.imdb.com/title/tt4337690/?ref_=fn_tt_tt_1,29,4.6
+Dan Rush,155,939,Scott Takeda,8000,10517,Stephen Root,1,http://www.imdb.com/title/tt1531663/?ref_=fn_tt_tt_1,86,6.4
+Jake Kasdan,81,102,Ryan O'Neal,624,1209,Angela Featherstone,2,http://www.imdb.com/title/tt0120906/?ref_=fn_tt_tt_1,151,7.0
+Brad Anderson,204,360,Jennifer Jason Leigh,23000,24994,Reg E. Cathey,0,http://www.imdb.com/title/tt0361862/?ref_=fn_tt_tt_1,458,7.7
+Paul Schrader,19,145,Jane Adams,722,1201,David Clennon,0,http://www.imdb.com/title/tt0102307/?ref_=fn_tt_tt_1,39,6.8
+Michael Cuesta,163,688,Paz Vega,10000,12897,Robert Pralgo,1,http://www.imdb.com/title/tt1216491/?ref_=fn_tt_tt_1,99,7.0
+John Cameron Mitchell,248,192,Jon Tenney,967,1582,Tammy Blanchard,0,http://www.imdb.com/title/tt0935075/?ref_=fn_tt_tt_1,144,7.0
+Fenton Bailey,39,600,Mia Kirshner,3000,5185,Marilyn Manson,1,http://www.imdb.com/title/tt0320244/?ref_=fn_tt_tt_1,158,6.3
+Jeremy Saulnier,322,233,Mark Webber,727,1836,Joe Cole,0,http://www.imdb.com/title/tt4062536/?ref_=fn_tt_tt_1,125,7.1
+Billy Kent,50,276,Tim Russ,740,1665,Winter Ave Zoli,0,http://www.imdb.com/title/tt0422861/?ref_=fn_tt_tt_1,56,5.6
+James Manera,12,361,Greg Germann,578,3382,Kristoffer Polaha,0,http://www.imdb.com/title/tt2800038/?ref_=fn_tt_tt_1,56,4.4
+Wes Anderson,83,65,Darryl Cox,387,648,Lumi Cavazos,0,http://www.imdb.com/title/tt0115734/?ref_=fn_tt_tt_1,184,7.1
+Kevin Spacey,37,977,Joe Mantegna,10000,13718,Faye Dunaway,3,http://www.imdb.com/title/tt0115495/?ref_=fn_tt_tt_1,69,6.1
+Feroz Abbas Khan,16,14,Bhoomika Chawla,75,172,Darshan Jariwala,0,http://www.imdb.com/title/tt0459293/?ref_=fn_tt_tt_1,25,7.4
+Errol Morris,121,0,Megan Ambuhl Graner,6,6,Ken Davis,0,http://www.imdb.com/title/tt0896866/?ref_=fn_tt_tt_1,22,7.5
+Dennis Hopper,24,51,Don Gordon,311,498,Jim Byrnes,1,http://www.imdb.com/title/tt0081291/?ref_=fn_tt_tt_1,27,7.2
+Eli Craig,324,440,Tyler Labine,948,2958,Chelan Simmons,1,http://www.imdb.com/title/tt1465522/?ref_=fn_tt_tt_1,200,7.6
+Nicholas Fackler,27,940,Ellen Burstyn,3000,4987,Martin Landau,0,http://www.imdb.com/title/tt1150947/?ref_=fn_tt_tt_1,15,7.3
+Richard Wallace,9,100,Paul Fix,197,538,Laraine Day,1,http://www.imdb.com/title/tt0039927/?ref_=fn_tt_tt_1,23,6.2
+Morgan J. Freeman,31,697,John Heard,1000,3207,Sara Gilbert,3,http://www.imdb.com/title/tt0126261/?ref_=fn_tt_tt_1,28,6.2
+Matthew Hastings,35,383,Marc Trottier,889,2984,Corey Sevier,0,http://www.imdb.com/title/tt0357585/?ref_=fn_tt_tt_1,66,4.6
+M. Night Shyamalan,371,99,Patch Darragh,432,1010,Olivia DeJonge,,http://www.imdb.com/title/tt3567288/?ref_=fn_tt_tt_1,455,6.2
+Brian De Palma,133,15,Daniel Stewart Sherman,343,408,Kel O'Neill,0,http://www.imdb.com/title/tt0937237/?ref_=fn_tt_tt_1,108,6.2
+Klaus Menzel,13,227,Jacqueline Bisset,811,1789,Alice Evans,0,http://www.imdb.com/title/tt0305632/?ref_=fn_tt_tt_1,44,3.3
+,9,904,Dylan Minnette,1000,5203,Bokeem Woodbine,1,http://www.imdb.com/title/tt0830900/?ref_=fn_tt_tt_1,47,7.5
+Oren Peli,56,14,Sandra Staggs,46,117,Jelena Nik,0,http://www.imdb.com/title/tt1519461/?ref_=fn_tt_tt_1,55,4.2
+Jaume Balagueró,191,78,Tony Corvillo,331,526,Marta Etura,0,http://www.imdb.com/title/tt1437358/?ref_=fn_tt_tt_1,48,7.2
+Paul Andrew Williams,80,141,Doug Bradley,570,1258,Georgia Groome,0,http://www.imdb.com/title/tt0465430/?ref_=fn_tt_tt_1,82,6.2
+Stephen Herek,19,686,Callum Blue,866,3724,Shenae Grimes-Beech,1,http://www.imdb.com/title/tt1079444/?ref_=fn_tt_tt_1,80,6.1
+Bob Saget,19,854,John Stamos,3000,10727,Jim Belushi,0,http://www.imdb.com/title/tt0488539/?ref_=fn_tt_tt_1,47,4.2
+Jim Amatulli,,483,Patricia Neal,695,3217,Katie Leclerc,6,http://www.imdb.com/title/tt1131732/?ref_=fn_tt_tt_1,2,4.5
+,38,816,Dulé Hill,1000,4092,Timothy Omundson,2,http://www.imdb.com/title/tt0491738/?ref_=fn_tt_tt_1,127,8.4
+William H. Macy,44,394,Felicity Huffman,745,1986,David Adam Flannery,1,http://www.imdb.com/title/tt1798243/?ref_=fn_tt_tt_1,60,7.5
+Barrett Esposito,3,388,Cyndi Lauper,979,2509,Danny Aiello,2,http://www.imdb.com/title/tt1460798/?ref_=fn_tt_tt_1,1,6.7
+Mitch Davis,6,541,Jon Heder,989,3514,Cheryl Hines,7,http://www.imdb.com/title/tt3703148/?ref_=fn_tt_tt_1,15,5.1
+Eric Bross,,601,Esai Morales,708,3059,Nicholas Gonzalez,1,http://www.imdb.com/title/tt2063015/?ref_=fn_tt_tt_1,3,5.5
+Paul Schrader,64,179,Irène Jacob,12000,12676,Tomiwa Edun,1,http://www.imdb.com/title/tt1274586/?ref_=fn_tt_tt_1,47,4.4
+Vicky Jewson,8,126,Sofia Black-D'Elia,1000,1681,Lisa Kay,3,http://www.imdb.com/title/tt1554921/?ref_=fn_tt_tt_1,3,4.4
+Peter Hyams,64,826,Sam Waterston,1000,5191,Hal Holbrook,0,http://www.imdb.com/title/tt0077294/?ref_=fn_tt_tt_1,153,6.8
+Marc Bennett,2,723,Natasha Henstridge,975,4991,Costas Mandylor,15,http://www.imdb.com/title/tt1717210/?ref_=fn_tt_tt_1,2,6.7
+Mike Mayhall,,668,Cody Howard,784,3021,Martin Kove,2,http://www.imdb.com/title/tt4453560/?ref_=fn_tt_tt_1,,8.6
+Kevin Smith,35,1000,Haley Joel Osment,40000,46115,Natasha Lyonne,7,http://www.imdb.com/title/tt3838992/?ref_=fn_tt_tt_1,4,4.8
+Stanton Barrett,21,538,Michael Dudikoff,741,2849,Ed Quinn,1,http://www.imdb.com/title/tt4511566/?ref_=fn_tt_tt_1,14,3.4
+Jirí Menzel,99,4,Ivan Barnev,61,92,Milan Lasica,1,http://www.imdb.com/title/tt0284363/?ref_=fn_tt_tt_1,27,7.4
+Fatih Akin,115,269,Moritz Bleibtreu,595,1519,Birol Ünel,3,http://www.imdb.com/title/tt1244668/?ref_=fn_tt_tt_1,26,7.3
+Billy Bob Thornton,104,263,Dwight Yoakam,3000,3967,J.T. Walsh,0,http://www.imdb.com/title/tt0117666/?ref_=fn_tt_tt_1,309,8.0
+Nick Murphy,195,537,Imelda Staunton,874,2363,Joseph Mawle,1,http://www.imdb.com/title/tt1687901/?ref_=fn_tt_tt_1,112,6.5
+Eli Roth,303,581,Takashi Miike,1000,2990,Rick Hoffman,0,http://www.imdb.com/title/tt0450278/?ref_=fn_tt_tt_1,1516,5.9
+Michael Winterbottom,122,427,Shirley Henderson,1000,3690,Dylan Moran,0,http://www.imdb.com/title/tt0423409/?ref_=fn_tt_tt_1,123,6.8
+Jeff Nichols,359,41,Shea Whigham,982,1520,Robert Longstreet,0,http://www.imdb.com/title/tt1675192/?ref_=fn_tt_tt_1,219,7.4
+Frank LaLoggia,130,339,Lukas Haas,968,2545,Katherine Helmond,0,http://www.imdb.com/title/tt0095484/?ref_=fn_tt_tt_1,69,6.7

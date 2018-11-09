@@ -1,92 +1,494 @@
-director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,gross,genres,actor_1_name,num_voted_users,facenumber_in_poster,language,country,content_rating,budget,actor_2_facebook_likes,imdb_score
-Doug Atchison,95,112,3,268,Sean Michael Afable,876,18811135,Drama,Curtis Armstrong,15337,0,English,USA,PG,,801,7.5
-Tamra Davis,40,82,33,475,Harland Williams,744,17278980,Comedy|Crime,Dave Chappelle,48225,0,English,USA,R,8000000,503,6.7
-Jonas Elmer,121,97,3,631,Frances Conroy,24000,16699684,Comedy|Romance,J.K. Simmons,17461,1,English,USA,PG,8000000,827,5.6
-Stephen Gaghan,358,128,79,414,Amr Waked,13000,50815288,Drama|Thriller,Matt Damon,109191,0,English,USA,R,50000000,903,7.0
-Mary Harron,288,102,126,517,Justin Theroux,23000,15047419,Crime|Drama,Christian Bale,357275,1,English,USA,R,7000000,1000,7.6
-Miguel Arteta,107,93,44,596,Zooey Deschanel,15000,14015786,Drama|Romance,Jake Gyllenhaal,37952,3,English,USA,R,5000000,11000,6.5
-Erik Canuel,28,116,31,50,Richard Howland,539,,Action|Comedy|Crime|Thriller,Colm Feore,8616,2,English,Canada,R,8000000,290,7.0
-Troy Duffy,91,138,78,968,Julie Benz,12000,10269307,Action|Crime|Thriller,Norman Reedus,53251,0,English,USA,R,8000000,3000,6.3
-James Ivory,55,117,133,86,Omar Metwally,471,,Drama|Romance,Alexandra Maria Lara,2311,1,English,USA,PG-13,8300000,277,6.4
-Nicole Holofcener,231,93,132,216,Ben Falcone,434,17536788,Comedy|Drama|Romance,Christopher Nicholas Smith,49240,2,English,USA,PG-13,8000000,265,7.1
-Will Gluck,262,92,87,424,Dan Byrd,15000,58401464,Comedy|Romance,Emma Stone,276746,1,English,USA,PG-13,8000000,1000,7.1
-Matty Rich,7,110,10,582,Joe Morton,851,8880705,Comedy|Drama|Romance,Jada Pinkett Smith,1103,0,English,USA,R,,780,6.5
-E. Elias Merhige,196,92,54,306,Udo Kier,776,8279017,Drama|Horror,Eddie Izzard,34191,1,English,UK,R,8000000,595,6.9
-Joe Nussbaum,83,104,18,741,Thomas McDonell,1000,10106233,Comedy|Drama,Cameron Monaghan,12702,0,English,USA,PG,8000000,962,5.4
-Matt Reeves,18,98,198,636,Michael Rapaport,1000,,Comedy|Romance,Mark Margolis,6124,2,English,USA,PG-13,8000000,975,4.9
-Steve Rash,11,89,15,660,Nia Long,883,4692814,Comedy,Barry Corbin,2870,2,English,USA,PG-13,8000000,826,5.1
-Fina Torres,72,92,26,417,John de Lancie,1000,5018450,Comedy|Fantasy|Romance,Harold Perrineau,8546,0,English,USA,R,8000000,905,5.3
-James Ivory,51,140,133,136,Vanessa Redgrave,12000,25967000,Drama|Romance,Anthony Hopkins,21254,3,English,UK,PG,,898,7.5
-,18,60,,648,Joseph Gilgun,3000,,Adventure|Drama|Fantasy|Mystery,Dominic Cooper,22848,0,English,,TV-MA,,788,8.3
-Duke Johnson,328,90,26,0,Tom Noonan,1000,3442820,Animation|Comedy|Drama|Romance,Jennifer Jason Leigh,31489,0,English,USA,R,8000000,442,7.3
-Mike Leigh,248,129,608,386,Imelda Staunton,1000,3205244,Comedy|Drama,Jim Broadbent,23629,0,English,UK,PG-13,10000000,579,7.3
-François Ozon,128,111,341,569,Isabelle Huppert,963,3076425,Comedy|Crime|Musical|Romance,Catherine Deneuve,23660,1,French,France,R,8000000,678,7.1
-Mark L. Lester,45,79,73,112,Tia Carrere,1000,2275557,Action|Comedy|Crime|Thriller,Cary-Hiroyuki Tagawa,12561,2,English,USA,R,8000000,1000,6.0
-David Dobkin,49,104,71,168,Vince Vieluf,1000,1789892,Comedy|Crime,Janeane Garofalo,9494,1,English,Germany,R,8000000,261,6.6
-Anna Boden,163,101,16,472,Jeremy Davies,943,6350058,Comedy|Drama|Romance,Zoë Kravitz,106098,3,English,USA,PG-13,8000000,769,7.2
-Nigel Cole,163,113,13,594,Robbie Kay,5000,1094798,Biography|Comedy|Drama|History,Bob Hoskins,11158,6,English,UK,R,7200000,629,7.2
-Anand Tucker,90,92,14,291,Jim Broadbent,14000,1071240,Biography|Drama,Colin Firth,3571,2,English,UK,PG-13,8000000,1000,6.9
-Steve James,23,106,23,200,Laurel Holloman,1000,532190,Biography|Drama|Romance|Sport,Kurtwood Smith,5673,2,English,USA,PG-13,8000000,273,6.8
-Michael Winner,17,98,136,249,Marina Sirtis,977,,Adventure|Drama,Faye Dunaway,802,0,English,UK,R,8000000,649,4.0
-Tomm Moore,118,75,45,4,Mick Lally,61,686383,Adventure|Animation|Family|Fantasy,Sean Lennon,22811,0,English,France,Not Rated,6500000,5,7.7
-John Carney,283,104,109,7,Karen Pittman,480,16168741,Drama|Music,James Corden,99430,1,English,USA,R,8000000,12,7.4
-David Jacobson,74,108,12,710,Bruce Dern,2000,568695,Drama|Romance|Thriller,Hunter Parrish,16617,2,English,USA,R,8000000,844,6.5
-Michael Corrente,41,99,30,209,Tony Devon,480,398420,Crime|Drama,Jerry Ferrara,5049,3,English,USA,R,8000000,257,6.4
-Edward Hall,17,180,0,844,Hayley Atwell,3000,,Drama|Romance,Rufus Sewell,2098,2,English,UK,,,2000,7.2
-Keith Gordon,66,109,200,1000,Robin Wright,21000,336456,Comedy|Crime|Musical|Mystery,Robert Downey Jr.,7116,2,English,USA,R,8000000,18000,5.6
-David Leland,36,111,2,227,Catherine McCormack,735,146083,Drama|Romance|War,Anna Friel,1591,3,English,UK,R,,306,6.3
-Andrew Currie,140,93,8,33,Henry Czerny,553,298110,Comedy|Drama|Horror|Sci-Fi,Alexia Fast,25055,1,English,Canada,R,8000000,177,6.8
-Andrew Wilson,32,99,387,399,Eddie Griffin,8000,127144,Comedy|Drama|Romance,Will Ferrell,5159,4,English,USA,PG-13,8000000,489,5.5
-Jonathan Lynn,68,98,36,405,Rupert Everett,10000,117190,Action|Comedy|Crime,Rupert Grint,29994,4,English,UK,PG-13,8000000,692,6.9
-Marc Schölermann,79,95,3,448,Larry Drake,905,108662,Crime|Horror|Thriller,John de Lancie,26849,0,English,USA,R,8000000,513,6.0
-,9,142,,427,Jack O'Connell,27000,,Drama|Romance,Tom Hardy,6053,2,English,UK,,,698,7.7
-Robert Moresco,26,107,53,463,Brad Renfro,954,53481,Crime|Drama|Thriller,Brian Dennehy,5557,5,English,USA,R,8000000,551,6.4
-Thomas Vinterberg,100,102,346,488,Chris Owen,947,23106,Comedy|Crime|Drama|Romance,Michael Angarano,9003,0,English,Italy,Unrated,50000000,526,6.6
-Claudia Llosa,56,97,43,47,Zen McGrath,144,52961,Drama,Ian Tracey,2103,1,English,Spain,R,8000000,63,5.3
-Katsuhiro Ôtomo,150,124,78,4,Takeshi Kusao,6,439162,Action|Animation|Sci-Fi,Mitsuo Iwata,106160,0,Japanese,Japan,R,1100000000,5,8.1
-John Herzfeld,30,97,17,1000,Olivia Wilde,23000,,Action|Crime|Thriller,Paul Walker,12078,2,English,USA,R,22000000,10000,5.9
-Charles Binamé,20,124,2,23,Roy Dupuis,413,,Biography|Drama|Sport,Stephen McHattie,4412,0,French,Canada,PG,8000000,265,7.7
-Keith Parmer,21,96,2,600,Josh Henderson,31000,,Action|Crime|Drama|Thriller,Rachel Ann Mullins,1965,6,English,USA,R,8000000,920,4.6
-Dennie Gordon,11,114,29,11,Ruby Lin,163,50000,Action|Adventure|Comedy|Romance,Leehom Wang,322,2,Chinese,China,,,20,5.1
-Ol Parker,85,90,21,112,Ben Miles,186,671240,Comedy|Drama|Romance,Celia Imrie,23023,0,English,UK,R,7900000,119,6.9
-Bruce Beresford,5,104,78,189,Lucy Fry,502,,Drama,Mckenna Grace,63,0,English,USA,PG-13,8000000,206,8.0
-François Ozon,160,102,341,15,Ludivine Sagnier,844,10105505,Crime|Drama|Mystery|Thriller,Charlotte Rampling,35065,0,English,France,R,,521,6.8
-James Nunn,25,93,16,376,Mark Wingett,1000,,Action|Drama,Spencer Wilding,3740,2,English,UK,R,,524,5.4
-David Webb Peoples,21,90,73,26,Joan Chen,848,882290,Action|Sci-Fi|Sport,Delroy Lindo,4792,2,English,Australia,R,10000000,643,6.5
-Michael Winnick,15,106,155,391,Helena Mattsson,981,,Action,Scott Takeda,662,0,English,USA,R,8000000,505,4.2
-Bruce Beresford,61,99,78,325,Jessica Tandy,11000,106593296,Comedy|Drama|Family,Morgan Freeman,72324,1,English,USA,PG,7500000,509,7.4
-George Tillman Jr.,34,115,88,890,Mekhi Phifer,1000,43490057,Comedy|Drama,Vanessa Williams,5275,6,English,USA,R,7500000,1000,6.9
-Stanley Tong,62,89,7,36,Anita Mui,186,32333860,Action|Comedy,Françoise Yip,29843,1,Cantonese,Hong Kong,R,7500000,147,6.7
-David Oelhoffen,102,101,2,40,Reda Kateb,10000,,Drama|War|Western,Viggo Mortensen,4035,0,French,France,,7700000,154,7.3
-Jason Reitman,239,92,655,88,Cameron Bright,24000,24792061,Comedy|Drama,J.K. Simmons,191998,0,English,USA,R,6500000,829,7.6
-Eli Roth,252,94,0,658,Lauren German,1000,17544812,Horror,Jay Hernandez,69989,0,English,USA,R,10000000,683,5.4
-Lone Scherfig,278,100,92,221,Olivia Williams,3000,12574715,Drama,Dominic Cooper,112138,0,English,UK,PG-13,4500000,766,7.3
-Anand Tucker,124,106,14,161,Bridgette Wilson-Sampras,827,10281585,Drama|Romance,Frances Conroy,21225,3,English,USA,R,,545,6.4
-Tony Richardson,9,109,62,518,Beau Bridges,584,5100000,Comedy|Drama|Romance,Joely Richardson,6595,0,English,UK,R,7500000,552,6.0
-Joe Carnahan,127,105,248,147,Chi McBride,673,10460089,Crime|Drama|Mystery|Thriller,Jason Patric,34098,1,English,USA,R,7500000,466,7.2
-Paul Gross,9,102,329,280,Paul Gross,611,4239767,Comedy|Drama|Romance|Sport,Molly Parker,3709,3,English,Canada,R,7500000,329,6.0
-Charles Robert Carner,35,97,18,742,Jenny McCarthy,834,4131640,Comedy|Crime,Ivana Milicevic,5463,2,English,USA,PG-13,7500000,749,3.1
-Russell Holt,6,118,0,249,Brenda Strong,373,3347439,Drama|Romance,Eric Johnson,833,1,English,USA,PG,7500000,266,6.9
-Mike Judge,192,92,406,968,Mila Kunis,24000,10814185,Comedy|Crime|Romance,J.K. Simmons,37530,6,English,USA,R,8000000,15000,6.2
-Larry Charles,51,112,119,844,Cheech Marin,12000,533344,Comedy|Drama|Music,Jeff Bridges,3972,0,English,USA,PG-13,,844,5.5
-Claude Miller,38,103,27,59,Edouard Baer,71,206400,Comedy|Crime|Drama|Romance|Thriller,Sandrine Kiberlain,1439,0,French,France,,50000000,59,6.9
-Michael Winterbottom,133,93,187,158,Om Puri,631,197148,Drama|Romance|Sci-Fi|Thriller,Samantha Morton,18109,0,English,UK,R,7500000,163,6.3
-Sacha Bennett,4,101,22,447,Jenny Agutter,5000,,Comedy,Bob Hoskins,243,3,English,UK,,7500000,659,4.8
-Paul Haggis,287,115,549,911,Loretta Devine,3000,54557348,Crime|Drama|Thriller,Don Cheadle,361169,0,English,Germany,R,6500000,912,7.9
-Rodrigo García,222,113,127,373,Michael McElhatton,3000,3014541,Drama,Mia Wasikowska,19616,3,English,UK,R,8000000,415,6.7
-Jeta Amata,6,95,20,36,Nathin Butler,262,,Action|Crime|Drama|Thriller,Akon,385,3,English,Nigeria,,7500000,65,5.6
-Siddharth Anand,16,153,5,60,Mary Goggin,532,872643,Comedy|Family|Romance,Saif Ali Khan,2909,3,Hindi,USA,,6000000,249,5.4
-Vincent Paronnaud,242,89,10,106,Gena Rowlands,963,4443403,Animation|Biography|Drama|War,Catherine Deneuve,70194,0,French,France,PG-13,7300000,545,8.0
-Joe Dante,147,92,287,664,Teri Polo,844,,Adventure|Fantasy|Thriller,Bruce Dern,19157,2,English,USA,PG-13,12000000,708,5.7
-Dennis Gansel,93,107,23,93,Elyas M'Barek,287,,Drama|Thriller,Max Riemelt,80639,0,German,Germany,,5000000,150,7.6
-Nicolas Winding Refn,253,118,0,500,Bella Heathcote,18000,1330827,Horror|Thriller,Keanu Reeves,9866,2,English,France,R,7000000,860,7.0
-Daniel Barber,224,97,12,641,Jack O'Connell,788,1818681,Action|Crime|Drama|Thriller,Joseph Gilgun,74435,1,English,UK,R,7300000,698,7.2
-Sam Raimi,392,156,0,4000,James Franco,24000,336530303,Action|Adventure|Romance,J.K. Simmons,383071,0,English,USA,PG-13,258000000,11000,6.2
-Robert Marcarelli,39,100,0,440,William Hootkins,488,12610552,Action|Adventure|Fantasy|Sci-Fi|Thriller,George Coe,4682,0,English,USA,PG-13,7500000,488,3.5
-Jason Reitman,387,96,655,973,Jennifer Garner,24000,143492840,Comedy|Drama|Romance,J.K. Simmons,414335,0,English,USA,PG-13,7500000,3000,7.5
-Ernie Barbarash,36,104,249,96,Aki Aleong,294,,Action|Thriller,Darren Shahlavi,4099,0,English,Canada,R,7500000,284,5.1
-Guy Hamilton,120,120,82,175,Lois Maxwell,244,43800000,Action|Adventure|Thriller,Desmond Llewelyn,74249,2,English,UK,GP,7200000,177,6.7
-Francis Ford Coppola,208,175,0,3000,Marlon Brando,14000,134821952,Crime|Drama,Al Pacino,1155770,1,English,USA,R,6000000,10000,9.2
-Adrian Lyne,51,95,213,92,Cynthia Rhodes,225,94900000,Drama|Music|Romance,Michael Nouri,35172,0,English,USA,R,4000000,174,6.1
-Marc Webb,331,95,464,11000,Chloë Grace Moretz,23000,32391374,Comedy|Drama|Romance,Joseph Gordon-Levitt,376600,43,English,USA,PG-13,7500000,17000,7.7
-Jane Campion,83,121,319,11,Ian Mune,1000,40158000,Drama|Music|Romance,Holly Hunter,63931,1,English,New Zealand,R,7000000,18,7.6
+actor_2_name,actor_1_name,movie_title,actor_3_name,facenumber_in_poster,movie_imdb_link
+Emma Watson,Anthony Hopkins,Noah ,Logan Lerman,2,http://www.imdb.com/title/tt1959490/?ref_=fn_tt_tt_1
+Mackenzie Crook,Toby Jones,The Adventures of Tintin ,Tony Curran,1,http://www.imdb.com/title/tt0983193/?ref_=fn_tt_tt_1
+Gary Oldman,Daniel Radcliffe,Harry Potter and the Prisoner of Azkaban ,Rupert Grint,3,http://www.imdb.com/title/tt0304141/?ref_=fn_tt_tt_1
+Bryan Brown,Essie Davis,Australia ,Eddie Baroo,0,http://www.imdb.com/title/tt0455824/?ref_=fn_tt_tt_1
+Zoë Kravitz,Will Smith,After Earth ,Glenn Morshower,0,http://www.imdb.com/title/tt1815862/?ref_=fn_tt_tt_1
+D.B. Sweeney,Alfre Woodard,Dinosaur ,Della Reese,1,http://www.imdb.com/title/tt0130623/?ref_=fn_tt_tt_1
+Dave Legeno,Rupert Grint,Harry Potter and the Deathly Hallows: Part II ,Ralph Ineson,1,http://www.imdb.com/title/tt1680310/?ref_=fn_tt_tt_1
+Rami Malek,Robin Williams,Night at the Museum: Secret of the Tomb ,Steve Coogan,7,http://www.imdb.com/title/tt2692250/?ref_=fn_tt_tt_1
+Brad Pitt,J.K. Simmons,Megamind ,Will Ferrell,3,http://www.imdb.com/title/tt1001526/?ref_=fn_tt_tt_1
+Fiona Shaw,Daniel Radcliffe,Harry Potter and the Sorcerer's Stone ,Verne Troyer,4,http://www.imdb.com/title/tt0241527/?ref_=fn_tt_tt_1
+Jeff Bridges,Ryan Reynolds,R.I.P.D. ,Stephanie Szostak,2,http://www.imdb.com/title/tt0790736/?ref_=fn_tt_tt_1
+Shin'ya Tsukamoto,Mark Chinnery,Godzilla Resurgence ,Atsuko Maeda,0,http://www.imdb.com/title/tt4262980/?ref_=fn_tt_tt_1
+Orlando Bloom,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl ,Jack Davenport,3,http://www.imdb.com/title/tt0325980/?ref_=fn_tt_tt_1
+Toby Jones,Rupert Grint,Harry Potter and the Deathly Hallows: Part I ,Alfred Enoch,1,http://www.imdb.com/title/tt1571403/?ref_=fn_tt_tt_1
+Philip Seymour Hoffman,Jennifer Lawrence,The Hunger Games: Mockingjay - Part 1 ,Josh Hutcherson,1,http://www.imdb.com/title/tt1951265/?ref_=fn_tt_tt_1
+Seth Gabel,Tom Hanks,The Da Vinci Code ,Jürgen Prochnow,2,http://www.imdb.com/title/tt0382625/?ref_=fn_tt_tt_1
+Rachel Crow,Miguel Ferrer,Rio 2 ,Jeffrey Garcia,0,http://www.imdb.com/title/tt2357291/?ref_=fn_tt_tt_1
+Bruce Davison,Hugh Jackman,X-Men 2 ,Aaron Stanford,4,http://www.imdb.com/title/tt0290334/?ref_=fn_tt_tt_1
+Vin Diesel,Paul Walker,Fast Five ,Dwayne Johnson,3,http://www.imdb.com/title/tt1596343/?ref_=fn_tt_tt_1
+Eddie Marsan,Robert Downey Jr.,Sherlock Holmes: A Game of Shadows ,Paul Anderson,2,http://www.imdb.com/title/tt1515091/?ref_=fn_tt_tt_1
+Jason Flemyng,Liam Neeson,Clash of the Titans ,Alexa Davalos,0,http://www.imdb.com/title/tt0800320/?ref_=fn_tt_tt_1
+Rachel Ticotin,Ronny Cox,Total Recall ,Marshall Bell,0,http://www.imdb.com/title/tt0100802/?ref_=fn_tt_tt_1
+Vladimir Kulich,Tony Curran,The 13th Warrior ,Clive Russell,1,http://www.imdb.com/title/tt0120657/?ref_=fn_tt_tt_1
+Scott Glenn,Jeremy Renner,The Bourne Legacy ,Stacy Keach,0,http://www.imdb.com/title/tt1194173/?ref_=fn_tt_tt_1
+Vivica A. Fox,Michael Gough,Batman & Robin ,John Glover,3,http://www.imdb.com/title/tt0118688/?ref_=fn_tt_tt_1
+T.J. Thyne,Clint Howard,How the Grinch Stole Christmas ,Molly Shannon,0,http://www.imdb.com/title/tt0170016/?ref_=fn_tt_tt_1
+Dennis Quaid,Jake Gyllenhaal,The Day After Tomorrow ,Sela Ward,0,http://www.imdb.com/title/tt0319262/?ref_=fn_tt_tt_1
+Dougray Scott,Tom Cruise,Mission: Impossible II ,Richard Roxburgh,0,http://www.imdb.com/title/tt0120755/?ref_=fn_tt_tt_1
+Mary Elizabeth Mastrantonio,Karen Allen,The Perfect Storm ,Bob Gunton,0,http://www.imdb.com/title/tt0177971/?ref_=fn_tt_tt_1
+Ioan Gruffudd,Chris Evans,Fantastic 4: Rise of the Silver Surfer ,Andre Braugher,3,http://www.imdb.com/title/tt0486576/?ref_=fn_tt_tt_1
+Rafe Spall,Suraj Sharma,Life of Pi ,Tabu,0,http://www.imdb.com/title/tt0454876/?ref_=fn_tt_tt_1
+Matt Long,Nicolas Cage,Ghost Rider ,Peter Fonda,1,http://www.imdb.com/title/tt0259324/?ref_=fn_tt_tt_1
+Riz Ahmed,Matt Damon,Jason Bourne ,Ato Essandoh,0,http://www.imdb.com/title/tt4196776/?ref_=fn_tt_tt_1
+Bernie Mac,Demi Moore,Charlie's Angels: Full Throttle ,Justin Theroux,0,http://www.imdb.com/title/tt0305357/?ref_=fn_tt_tt_1
+Charlize Theron,Michael Fassbender,Prometheus ,Sean Harris,0,http://www.imdb.com/title/tt1446714/?ref_=fn_tt_tt_1
+Brad Garrett,Nathan Lane,Stuart Little 2 ,Melanie Griffith,0,http://www.imdb.com/title/tt0243585/?ref_=fn_tt_tt_1
+Sharlto Copley,Matt Damon,Elysium ,Alice Braga,0,http://www.imdb.com/title/tt1535108/?ref_=fn_tt_tt_1
+Alexa Davalos,Vin Diesel,The Chronicles of Riddick ,Christina Cox,0,http://www.imdb.com/title/tt0296572/?ref_=fn_tt_tt_1
+Abbie Cornish,Gary Oldman,RoboCop ,Jennifer Ehle,0,http://www.imdb.com/title/tt1234721/?ref_=fn_tt_tt_1
+Kick Gurry,Scott Porter,Speed Racer ,Nicholas Elia,0,http://www.imdb.com/title/tt0811080/?ref_=fn_tt_tt_1
+Domenick Lombardozzi,Shelley Conn,How Do You Know ,Teyonah Parris,4,http://www.imdb.com/title/tt1341188/?ref_=fn_tt_tt_1
+Marc Blucas,Tom Cruise,Knight and Day ,Jordi Mollà,0,http://www.imdb.com/title/tt1013743/?ref_=fn_tt_tt_1
+Tom Cruise,Morgan Freeman,Oblivion ,Zoë Bell,0,http://www.imdb.com/title/tt1483013/?ref_=fn_tt_tt_1
+Christopher Lee,Natalie Portman,Star Wars: Episode III - Revenge of the Sith ,Hayden Christensen,4,http://www.imdb.com/title/tt0121766/?ref_=fn_tt_tt_1
+Christopher Lee,Natalie Portman,Star Wars: Episode II - Attack of the Clones ,Hayden Christensen,3,http://www.imdb.com/title/tt0121765/?ref_=fn_tt_tt_1
+John Ratzenberger,Steve Buscemi,"Monsters, Inc. ",James Coburn,0,http://www.imdb.com/title/tt0198781/?ref_=fn_tt_tt_1
+Tao Okamoto,Hugh Jackman,The Wolverine ,Rila Fukushima,1,http://www.imdb.com/title/tt1430132/?ref_=fn_tt_tt_1
+Liam Neeson,Natalie Portman,Star Wars: Episode I - The Phantom Menace ,Ian McDiarmid,1,http://www.imdb.com/title/tt0120915/?ref_=fn_tt_tt_1
+Emma Stone,Ryan Reynolds,The Croods ,Nicolas Cage,3,http://www.imdb.com/title/tt0481499/?ref_=fn_tt_tt_1
+Santiago Segura,Alain Delon,Asterix at the Olympic Games ,Vanessa Hessler,1,http://www.imdb.com/title/tt0463872/?ref_=fn_tt_tt_1
+Roger Willie,Nicolas Cage,Windtalkers ,Noah Emmerich,0,http://www.imdb.com/title/tt0245562/?ref_=fn_tt_tt_1
+Sam Claflin,Chris Hemsworth,The Huntsman: Winter's War ,Charlize Theron,2,http://www.imdb.com/title/tt2381991/?ref_=fn_tt_tt_1
+Danny Woodburn,Noel Fisher,Teenage Mutant Ninja Turtles ,Jeremy Howard,0,http://www.imdb.com/title/tt1291150/?ref_=fn_tt_tt_1
+Basher Savage,Phaldut Sharma,Gravity ,Amy Warren,0,http://www.imdb.com/title/tt1454468/?ref_=fn_tt_tt_1
+Grant Heslov,Jamie Renée Smith,Dante's Peak ,Tzi Ma,1,http://www.imdb.com/title/tt0118928/?ref_=fn_tt_tt_1
+Noel Fisher,Stephen Amell,Teenage Mutant Ninja Turtles: Out of the Shadows ,Brad Garrett,,http://www.imdb.com/title/tt3949660/?ref_=fn_tt_tt_1
+Reg E. Cathey,Tim Blake Nelson,Fantastic Four ,Tim Heidecker,3,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1
+Rami Malek,Robin Williams,Night at the Museum ,Steve Coogan,2,http://www.imdb.com/title/tt0477347/?ref_=fn_tt_tt_1
+Ioan Gruffudd,Dwayne Johnson,San Andreas ,Archie Panjabi,0,http://www.imdb.com/title/tt2126355/?ref_=fn_tt_tt_1
+Colin Salmon,Vincent Schiavelli,Tomorrow Never Dies ,Joe Don Baker,3,http://www.imdb.com/title/tt0120347/?ref_=fn_tt_tt_1
+Adam Baldwin,Heath Ledger,The Patriot ,Tom Wilkinson,1,http://www.imdb.com/title/tt0187393/?ref_=fn_tt_tt_1
+Julia Roberts,Brad Pitt,Ocean's Twelve ,Mini Anden,0,http://www.imdb.com/title/tt0349903/?ref_=fn_tt_tt_1
+Angelina Jolie Pitt,Brad Pitt,Mr. & Mrs. Smith ,Stephanie March,2,http://www.imdb.com/title/tt0356910/?ref_=fn_tt_tt_1
+Theo James,Kate Winslet,Insurgent ,Mekhi Phifer,0,http://www.imdb.com/title/tt2908446/?ref_=fn_tt_tt_1
+Adam Scott,Leonardo DiCaprio,The Aviator ,Frances Conroy,0,http://www.imdb.com/title/tt0338751/?ref_=fn_tt_tt_1
+Catherine Tate,James Corden,Gulliver's Travels ,Olly Alexander,1,http://www.imdb.com/title/tt1320261/?ref_=fn_tt_tt_1
+Tom Wilkinson,Christoph Waltz,The Green Hornet ,Chad L. Coleman,0,http://www.imdb.com/title/tt0990407/?ref_=fn_tt_tt_1
+Dirk Benedict,George Peppard,The A-Team             ,Dwight Schultz,4,http://www.imdb.com/title/tt0084967/?ref_=fn_tt_tt_1
+Sullivan Stapleton,Eva Green,300: Rise of an Empire ,Peter Mensah,0,http://www.imdb.com/title/tt1253863/?ref_=fn_tt_tt_1
+Tim Gunn,Mahadeo Shivraj,The Smurfs ,Madison McKinley,3,http://www.imdb.com/title/tt0472181/?ref_=fn_tt_tt_1
+Roseanne Barr,Steve Buscemi,Home on the Range ,G.W. Bailey,0,http://www.imdb.com/title/tt0299172/?ref_=fn_tt_tt_1
+Theo James,Naomi Watts,Allegiant ,Zoë Kravitz,3,http://www.imdb.com/title/tt3410834/?ref_=fn_tt_tt_1
+Torey Michael Adkins,Hugh Jackman,Real Steel ,Olga Fonda,1,http://www.imdb.com/title/tt0433035/?ref_=fn_tt_tt_1
+Nancy O'Dell,Jacob Tremblay,The Smurfs 2 ,Vanessa Matsui,3,http://www.imdb.com/title/tt2017020/?ref_=fn_tt_tt_1
+Temuera Morrison,Jason Patric,Speed 2: Cruise Control ,Lois Chiles,0,http://www.imdb.com/title/tt0120179/?ref_=fn_tt_tt_1
+Moises Arias,Harrison Ford,Ender's Game ,Aramis Knight,4,http://www.imdb.com/title/tt1731141/?ref_=fn_tt_tt_1
+Jonathan Sadowski,Bruce Willis,Live Free or Die Hard ,Cyril Raffaelli,1,http://www.imdb.com/title/tt0337978/?ref_=fn_tt_tt_1
+Orlando Bloom,Christopher Lee,The Lord of the Rings: The Fellowship of the Ring ,Billy Boyd,2,http://www.imdb.com/title/tt0120737/?ref_=fn_tt_tt_1
+Steve Coogan,Jim Broadbent,Around the World in 80 Days ,Cécile De France,0,http://www.imdb.com/title/tt0327437/?ref_=fn_tt_tt_1
+Jada Pinkett Smith,Will Smith,Ali ,Joe Morton,1,http://www.imdb.com/title/tt0248667/?ref_=fn_tt_tt_1
+Kelly Preston,Sean Hayes,The Cat in the Hat ,Spencer Breslin,1,http://www.imdb.com/title/tt0312528/?ref_=fn_tt_tt_1
+Bruce Greenwood,Will Smith,"I, Robot ",Chi McBride,1,http://www.imdb.com/title/tt0343818/?ref_=fn_tt_tt_1
+Orlando Bloom,Liam Neeson,Kingdom of Heaven ,Philip Glenister,1,http://www.imdb.com/title/tt0320661/?ref_=fn_tt_tt_1
+Nathan Lane,Chazz Palminteri,Stuart Little ,Jeffrey Jones,0,http://www.imdb.com/title/tt0164912/?ref_=fn_tt_tt_1
+Jenifer Lewis,Oprah Winfrey,The Princess and the Frog ,Anika Noni Rose,0,http://www.imdb.com/title/tt0780521/?ref_=fn_tt_tt_1
+Donald Glover,Matt Damon,The Martian ,Benedict Wong,1,http://www.imdb.com/title/tt3659388/?ref_=fn_tt_tt_1
+,Mathew Buck,"10,000 B.C.             ",,0,http://www.imdb.com/title/tt1869849/?ref_=fn_tt_tt_1
+Steve Buscemi,Scarlett Johansson,The Island ,Djimon Hounsou,1,http://www.imdb.com/title/tt0399201/?ref_=fn_tt_tt_1
+Warren Beatty,Del Zamora,Town & Country ,Garry Shandling,0,http://www.imdb.com/title/tt0141907/?ref_=fn_tt_tt_1
+Angelina Jolie Pitt,Nicolas Cage,Gone in Sixty Seconds ,Robert Duvall,1,http://www.imdb.com/title/tt0187078/?ref_=fn_tt_tt_1
+Connie Nielsen,Djimon Hounsou,Gladiator ,Oliver Reed,0,http://www.imdb.com/title/tt0172495/?ref_=fn_tt_tt_1
+Frank Grillo,Tom Cruise,Minority Report ,Jessica Capshaw,0,http://www.imdb.com/title/tt0181689/?ref_=fn_tt_tt_1
+Rupert Grint,Daniel Radcliffe,Harry Potter and the Chamber of Secrets ,Emma Watson,1,http://www.imdb.com/title/tt0295297/?ref_=fn_tt_tt_1
+Tobias Menzies,Eva Green,Casino Royale ,Ivana Milicevic,1,http://www.imdb.com/title/tt0381061/?ref_=fn_tt_tt_1
+Estella Warren,Cary-Hiroyuki Tagawa,Planet of the Apes ,Erick Avari,0,http://www.imdb.com/title/tt0133152/?ref_=fn_tt_tt_1
+Jenette Goldstein,Joe Morton,Terminator 2: Judgment Day ,S. Epatha Merkerson,0,http://www.imdb.com/title/tt0103064/?ref_=fn_tt_tt_1
+Christian Bale,Johnny Depp,Public Enemies ,Stephen Graham,1,http://www.imdb.com/title/tt1152836/?ref_=fn_tt_tt_1
+Ruby Dee,Denzel Washington,American Gangster ,RZA,0,http://www.imdb.com/title/tt0765429/?ref_=fn_tt_tt_1
+Tia Carrere,Jamie Lee Curtis,True Lies ,Tom Arnold,0,http://www.imdb.com/title/tt0111503/?ref_=fn_tt_tt_1
+Ramon Rodriguez,Denzel Washington,The Taking of Pelham 1 2 3 ,Michael Rispoli,1,http://www.imdb.com/title/tt1111422/?ref_=fn_tt_tt_1
+Blythe Danner,Robert De Niro,Little Fockers ,Teri Polo,10,http://www.imdb.com/title/tt0970866/?ref_=fn_tt_tt_1
+Will Ferrell,Dwayne Johnson,The Other Guys ,Derek Jeter,2,http://www.imdb.com/title/tt1386588/?ref_=fn_tt_tt_1
+James Coburn,Vanessa Williams,Eraser ,Roma Maffia,1,http://www.imdb.com/title/tt0116213/?ref_=fn_tt_tt_1
+Christoph Waltz,Leonardo DiCaprio,Django Unchained ,Ato Essandoh,1,http://www.imdb.com/title/tt1853728/?ref_=fn_tt_tt_1
+Jason Alexander,Demi Moore,The Hunchback of Notre Dame ,Bill Fagerbakke,0,http://www.imdb.com/title/tt0116583/?ref_=fn_tt_tt_1
+Wendie Malick,Eartha Kitt,The Emperor's New Groove ,John Fiedler,1,http://www.imdb.com/title/tt0120917/?ref_=fn_tt_tt_1
+Sylvester Stallone,Jason Statham,The Expendables 2 ,Bruce Willis,3,http://www.imdb.com/title/tt1764651/?ref_=fn_tt_tt_1
+Armando Riesco,Nicolas Cage,National Treasure ,Annie Parisse,0,http://www.imdb.com/title/tt0368891/?ref_=fn_tt_tt_1
+Ed Speleers,Djimon Hounsou,Eragon ,Gary Lewis,0,http://www.imdb.com/title/tt0449010/?ref_=fn_tt_tt_1
+Ryan Corr,Catherine O'Hara,Where the Wild Things Are ,Max Records,0,http://www.imdb.com/title/tt0386117/?ref_=fn_tt_tt_1
+Cara Delevingne,Hugh Jackman,Pan ,Nonso Anozie,4,http://www.imdb.com/title/tt3332064/?ref_=fn_tt_tt_1
+Emma Kenney,Josh Hutcherson,Epic ,Troy Evans,2,http://www.imdb.com/title/tt0848537/?ref_=fn_tt_tt_1
+Angelina Jolie Pitt,Johnny Depp,The Tourist ,Rufus Sewell,0,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1
+Mark Margolis,CCH Pounder,End of Days ,Udo Kier,0,http://www.imdb.com/title/tt0146675/?ref_=fn_tt_tt_1
+Djimon Hounsou,Leonardo DiCaprio,Blood Diamond ,Stephen Collins,0,http://www.imdb.com/title/tt0450259/?ref_=fn_tt_tt_1
+Matthew McConaughey,Leonardo DiCaprio,The Wolf of Wall Street ,Jon Favreau,3,http://www.imdb.com/title/tt0993846/?ref_=fn_tt_tt_1
+Rene Auberjonois,Michael Gough,Batman Forever ,Debi Mazar,4,http://www.imdb.com/title/tt0112462/?ref_=fn_tt_tt_1
+Patrick Muldoon,Jake Busey,Starship Troopers ,Seth Gilliam,0,http://www.imdb.com/title/tt0120201/?ref_=fn_tt_tt_1
+Jim Sturgess,Tom Hanks,Cloud Atlas ,Jim Broadbent,5,http://www.imdb.com/title/tt1371111/?ref_=fn_tt_tt_1
+Richard Roxburgh,Abbie Cornish,Legend of the Guardians: The Owls of Ga'Hoole ,Anthony LaPaglia,1,http://www.imdb.com/title/tt1219342/?ref_=fn_tt_tt_1
+Christopher Heyerdahl,Frances Conroy,Catwoman ,Alex Borstein,0,http://www.imdb.com/title/tt0327554/?ref_=fn_tt_tt_1
+Rufus Sewell,Dwayne Johnson,Hercules ,Ingrid Bolsø Berdal,0,http://www.imdb.com/title/tt1267297/?ref_=fn_tt_tt_1
+Martin Short,Joseph Gordon-Levitt,Treasure Planet ,Michael Wincott,0,http://www.imdb.com/title/tt0133240/?ref_=fn_tt_tt_1
+Anna Friel,Will Ferrell,Land of the Lost ,Bobb'e J. Thompson,1,http://www.imdb.com/title/tt0457400/?ref_=fn_tt_tt_1
+Sylvester Stallone,Jason Statham,The Expendables 3 ,Harrison Ford,15,http://www.imdb.com/title/tt2333784/?ref_=fn_tt_tt_1
+Edgar Ramírez,Ray Winstone,Point Break ,Delroy Lindo,1,http://www.imdb.com/title/tt2058673/?ref_=fn_tt_tt_1
+Traylor Howard,Jamie Kennedy,Son of the Mask ,Ben Stein,0,http://www.imdb.com/title/tt0362165/?ref_=fn_tt_tt_1
+Benjamin Walker,Chris Hemsworth,In the Heart of the Sea ,Frank Dillane,0,http://www.imdb.com/title/tt1390411/?ref_=fn_tt_tt_1
+Randy Quaid,Rosario Dawson,The Adventures of Pluto Nash ,Burt Young,1,http://www.imdb.com/title/tt0180052/?ref_=fn_tt_tt_1
+Sean Huze,Matt Damon,Green Zone ,Igal Naor,1,http://www.imdb.com/title/tt0947810/?ref_=fn_tt_tt_1
+Venus Schultheis,Francesca Capaldi,The Peanuts Movie ,Bill Melendez,0,http://www.imdb.com/title/tt2452042/?ref_=fn_tt_tt_1
+Felicity Huffman,Ben Gazzara,The Spanish Prisoner ,Campbell Scott,0,http://www.imdb.com/title/tt0120176/?ref_=fn_tt_tt_1
+Brendan Fraser,Dwayne Johnson,The Mummy Returns ,Patricia Velasquez,5,http://www.imdb.com/title/tt0209163/?ref_=fn_tt_tt_1
+Liam Neeson,Leonardo DiCaprio,Gangs of New York ,Jim Broadbent,3,http://www.imdb.com/title/tt0217505/?ref_=fn_tt_tt_1
+Ni Ni,Christian Bale,The Flowers of War ,Shigeo Kobayashi,2,http://www.imdb.com/title/tt1410063/?ref_=fn_tt_tt_1
+Zooey Deschanel,Jeff Bridges,Surf's Up ,Jon Heder,0,http://www.imdb.com/title/tt0423294/?ref_=fn_tt_tt_1
+Matthew Broderick,Jon Lovitz,The Stepford Wives ,Roger Bart,1,http://www.imdb.com/title/tt0327162/?ref_=fn_tt_tt_1
+Sam Shepard,Ioan Gruffudd,Black Hawk Down ,Ewen Bremner,0,http://www.imdb.com/title/tt0265086/?ref_=fn_tt_tt_1
+Thomas Middleditch,Will Ferrell,The Campaign ,Katherine LaNasa,0,http://www.imdb.com/title/tt1790886/?ref_=fn_tt_tt_1
+Bruce Willis,Milla Jovovich,The Fifth Element ,Gary Oldman,2,http://www.imdb.com/title/tt0119116/?ref_=fn_tt_tt_1
+Liza Minnelli,Chris Noth,Sex and the City 2 ,Kristin Davis,4,http://www.imdb.com/title/tt1261945/?ref_=fn_tt_tt_1
+Rosie Perez,Frank Welker,The Road to El Dorado ,Elton John,1,http://www.imdb.com/title/tt0138749/?ref_=fn_tt_tt_1
+Josh Gad,Peter Dinklage,Ice Age: Continental Drift ,Drake,0,http://www.imdb.com/title/tt1667889/?ref_=fn_tt_tt_1
+Derek Jacobi,Hayley Atwell,Cinderella ,Lily James,1,http://www.imdb.com/title/tt1661199/?ref_=fn_tt_tt_1
+AJ Michalka,Michael Imperioli,The Lovely Bones ,Tom McCarthy,1,http://www.imdb.com/title/tt0380510/?ref_=fn_tt_tt_1
+Stephen Root,Alexander Gould,Finding Nemo ,Brad Garrett,0,http://www.imdb.com/title/tt0266543/?ref_=fn_tt_tt_1
+Billy Boyd,Orlando Bloom,The Lord of the Rings: The Return of the King ,Bernard Hill,2,http://www.imdb.com/title/tt0167260/?ref_=fn_tt_tt_1
+Orlando Bloom,Christopher Lee,The Lord of the Rings: The Two Towers ,Billy Boyd,1,http://www.imdb.com/title/tt0167261/?ref_=fn_tt_tt_1
+Djimon Hounsou,Jeff Bridges,Seventh Son ,Olivia Williams,4,http://www.imdb.com/title/tt1121096/?ref_=fn_tt_tt_1
+Noah Taylor,Angelina Jolie Pitt,Lara Croft: Tomb Raider ,Chris Barrie,1,http://www.imdb.com/title/tt0146316/?ref_=fn_tt_tt_1
+Morgan Freeman,Johnny Depp,Transcendence ,Clifton Collins Jr.,1,http://www.imdb.com/title/tt2209764/?ref_=fn_tt_tt_1
+Trevor Morgan,Michael Jeter,Jurassic Park III ,Alessandro Nivola,0,http://www.imdb.com/title/tt0163025/?ref_=fn_tt_tt_1
+David Oyelowo,James Franco,Rise of the Planet of the Apes ,Tyler Labine,0,http://www.imdb.com/title/tt1318514/?ref_=fn_tt_tt_1
+Tod Fennell,Martin Short,The Spiderwick Chronicles ,Joan Plowright,0,http://www.imdb.com/title/tt0416236/?ref_=fn_tt_tt_1
+Cole Hauser,Bruce Willis,A Good Day to Die Hard ,Megalyn Echikunwoke,2,http://www.imdb.com/title/tt1606378/?ref_=fn_tt_tt_1
+Marc Blucas,Dennis Quaid,The Alamo ,Jordi Mollà,0,http://www.imdb.com/title/tt0318974/?ref_=fn_tt_tt_1
+Craig T. Nelson,Holly Hunter,The Incredibles ,Lou Romano,0,http://www.imdb.com/title/tt0317705/?ref_=fn_tt_tt_1
+Frank Langella,Christopher Masterson,Cutthroat Island ,Matthew Modine,3,http://www.imdb.com/title/tt0112760/?ref_=fn_tt_tt_1
+Rosario Dawson,Logan Lerman,Percy Jackson & the Olympians: The Lightning Thief ,Steve Coogan,0,http://www.imdb.com/title/tt0814255/?ref_=fn_tt_tt_1
+Rip Torn,Will Smith,Men in Black ,Linda Fiorentino,0,http://www.imdb.com/title/tt0119654/?ref_=fn_tt_tt_1
+John Ratzenberger,Tom Hanks,Toy Story 2 ,Wayne Knight,2,http://www.imdb.com/title/tt0120363/?ref_=fn_tt_tt_1
+Rosario Dawson,Denzel Washington,Unstoppable ,Ethan Suplee,1,http://www.imdb.com/title/tt0477080/?ref_=fn_tt_tt_1
+John Lone,Mei Melançon,Rush Hour 2 ,Harris Yulin,2,http://www.imdb.com/title/tt0266915/?ref_=fn_tt_tt_1
+Amber Valletta,Harrison Ford,What Lies Beneath ,Miranda Otto,0,http://www.imdb.com/title/tt0161081/?ref_=fn_tt_tt_1
+Bobb'e J. Thompson,Will Forte,Cloudy with a Chance of Meatballs ,Al Roker,1,http://www.imdb.com/title/tt0844471/?ref_=fn_tt_tt_1
+Maile Flanagan,Denis Leary,Ice Age: Dawn of the Dinosaurs ,Kelly Keaton,0,http://www.imdb.com/title/tt1080016/?ref_=fn_tt_tt_1
+Adrian Martinez,Adam Scott,The Secret Life of Walter Mitty ,Joey Slotnick,1,http://www.imdb.com/title/tt0359950/?ref_=fn_tt_tt_1
+LL Cool J,Bill Murray,Charlie's Angels ,Kelly Lynch,0,http://www.imdb.com/title/tt0160127/?ref_=fn_tt_tt_1
+Matt Damon,Leonardo DiCaprio,The Departed ,Ray Winstone,0,http://www.imdb.com/title/tt0407887/?ref_=fn_tt_tt_1
+Harvey Fierstein,Ming-Na Wen,Mulan ,June Foray,0,http://www.imdb.com/title/tt0120762/?ref_=fn_tt_tt_1
+Steve Coogan,Robert Downey Jr.,Tropic Thunder ,Brandon T. Jackson,3,http://www.imdb.com/title/tt0942385/?ref_=fn_tt_tt_1
+Goran Visnjic,Robin Wright,The Girl with the Dragon Tattoo ,Joely Richardson,1,http://www.imdb.com/title/tt1568346/?ref_=fn_tt_tt_1
+Aldis Hodge,Bruce Willis,Die Hard with a Vengeance ,Kevin Chamberlin,1,http://www.imdb.com/title/tt0112864/?ref_=fn_tt_tt_1
+Eddie Marsan,Robert Downey Jr.,Sherlock Holmes ,Robert Maillet,3,http://www.imdb.com/title/tt0988045/?ref_=fn_tt_tt_1
+Ayelet Zurer,Morgan Freeman,Ben-Hur ,Moises Arias,2,http://www.imdb.com/title/tt2638144/?ref_=fn_tt_tt_1
+Jim Varney,Leonard Nimoy,Atlantis: The Lost Empire ,Cree Summer,0,http://www.imdb.com/title/tt0230011/?ref_=fn_tt_tt_1
+Joshua Mikel,Bella Thorne,Alvin and the Chipmunks: The Road Chip ,Jesse McCartney,0,http://www.imdb.com/title/tt2974918/?ref_=fn_tt_tt_1
+Tom Wilkinson,Tom Cruise,Valkyrie ,Thomas Kretschmann,0,http://www.imdb.com/title/tt0985699/?ref_=fn_tt_tt_1
+Sayed Badreya,Adam Sandler,You Don't Mess with the Zohan ,Kevin Nealon,0,http://www.imdb.com/title/tt0960144/?ref_=fn_tt_tt_1
+Adam Sandler,Peter Dinklage,Pixels ,Josh Gad,0,http://www.imdb.com/title/tt2120120/?ref_=fn_tt_tt_1
+William Hurt,Haley Joel Osment,A.I. Artificial Intelligence ,Kevin Sussman,0,http://www.imdb.com/title/tt0212720/?ref_=fn_tt_tt_1
+Rachael Harris,Marsha Thomason,The Haunted Mansion ,Marc John Jefferies,0,http://www.imdb.com/title/tt0338094/?ref_=fn_tt_tt_1
+Tom Skerritt,Matthew McConaughey,Contact ,Larry King,2,http://www.imdb.com/title/tt0118884/?ref_=fn_tt_tt_1
+Kim Dickens,Greg Grunberg,Hollow Man ,Joey Slotnick,0,http://www.imdb.com/title/tt0164052/?ref_=fn_tt_tt_1
+George Harris,Curtiss Cook,The Interpreter ,Michael Wright,1,http://www.imdb.com/title/tt0373926/?ref_=fn_tt_tt_1
+Leven Rambin,Logan Lerman,Percy Jackson: Sea of Monsters ,Brandon T. Jackson,0,http://www.imdb.com/title/tt1854564/?ref_=fn_tt_tt_1
+Angelina Jolie Pitt,Gerard Butler,Lara Croft Tomb Raider: The Cradle of Life ,Djimon Hounsou,1,http://www.imdb.com/title/tt0325703/?ref_=fn_tt_tt_1
+Morgan Freeman,Daniel Radcliffe,Now You See Me 2 ,Sanaa Lathan,6,http://www.imdb.com/title/tt3110958/?ref_=fn_tt_tt_1
+Michael Byrne,Alun Armstrong,The Saint ,Velibor Topic,0,http://www.imdb.com/title/tt0120053/?ref_=fn_tt_tt_1
+Stephen Dillane,Brad Pitt,Spy Game ,Catherine McCormack,2,http://www.imdb.com/title/tt0266987/?ref_=fn_tt_tt_1
+Connie Nielsen,Don Cheadle,Mission to Mars ,Kim Delaney,0,http://www.imdb.com/title/tt0183523/?ref_=fn_tt_tt_1
+Wanda Sykes,Anne Hathaway,Rio ,Will.i.am,0,http://www.imdb.com/title/tt1436562/?ref_=fn_tt_tt_1
+Oliver Platt,Robin Williams,Bicentennial Man ,John Michael Higgins,0,http://www.imdb.com/title/tt0182789/?ref_=fn_tt_tt_1
+Anne Heche,Don Cheadle,Volcano ,Gaby Hoffmann,0,http://www.imdb.com/title/tt0120461/?ref_=fn_tt_tt_1
+Brad Pitt,Harrison Ford,The Devil's Own ,Natascha McElhone,0,http://www.imdb.com/title/tt0118972/?ref_=fn_tt_tt_1
+Christian Camargo,Liam Neeson,K-19: The Widowmaker ,Lex Shrapnel,1,http://www.imdb.com/title/tt0267626/?ref_=fn_tt_tt_1
+Reg E. Cathey,Tim Blake Nelson,Fantastic Four ,Tim Heidecker,3,http://www.imdb.com/title/tt1502712/?ref_=fn_tt_tt_1
+Mako,William Smith,Conan the Barbarian ,Sandahl Bergman,0,http://www.imdb.com/title/tt0082198/?ref_=fn_tt_tt_1
+Bruce McGill,Paddy Considine,Cinderella Man ,Rosemarie DeWitt,0,http://www.imdb.com/title/tt0352248/?ref_=fn_tt_tt_1
+Nathan Lane,Shirley Henderson,The Nutcracker in 3D ,Richard E. Grant,0,http://www.imdb.com/title/tt1041804/?ref_=fn_tt_tt_1
+Michael Angarano,Jeff Bridges,Seabiscuit ,Michael O'Neill,0,http://www.imdb.com/title/tt0329575/?ref_=fn_tt_tt_1
+Alan Ruck,Philip Seymour Hoffman,Twister ,Jami Gertz,0,http://www.imdb.com/title/tt0117998/?ref_=fn_tt_tt_1
+Vin Diesel,Paul Walker,The Fast and the Furious ,Jordana Brewster,2,http://www.imdb.com/title/tt0232500/?ref_=fn_tt_tt_1
+Paul Sanchez,Tom Hanks,Cast Away ,Nick Searcy,1,http://www.imdb.com/title/tt0162222/?ref_=fn_tt_tt_1
+Hugh Jackman,Robin Williams,Happy Feet ,Elizabeth Daily,0,http://www.imdb.com/title/tt0366548/?ref_=fn_tt_tt_1
+Joan Allen,Matt Damon,The Bourne Supremacy ,Oksana Akinshina,1,http://www.imdb.com/title/tt0372183/?ref_=fn_tt_tt_1
+Gary Oldman,Harrison Ford,Air Force One ,Dean Stockwell,1,http://www.imdb.com/title/tt0118571/?ref_=fn_tt_tt_1
+Bernie Mac,Brad Pitt,Ocean's Eleven ,Elliott Gould,4,http://www.imdb.com/title/tt0240772/?ref_=fn_tt_tt_1
+Logan Lerman,Milla Jovovich,The Three Musketeers ,Orlando Bloom,8,http://www.imdb.com/title/tt1509767/?ref_=fn_tt_tt_1
+Adam Sandler,Steve Buscemi,Hotel Transylvania ,Jon Lovitz,2,http://www.imdb.com/title/tt0837562/?ref_=fn_tt_tt_1
+Teala Dunn,Jeff Bennett,Enchanted ,Fred Tatasciore,2,http://www.imdb.com/title/tt0461770/?ref_=fn_tt_tt_1
+Scott Thompson,Caroline Dhavernas,Hannibal             ,Hettienne Park,1,http://www.imdb.com/title/tt2243973/?ref_=fn_tt_tt_1
+Ryan Reynolds,Denzel Washington,Safe House ,Sam Shepard,1,http://www.imdb.com/title/tt1599348/?ref_=fn_tt_tt_1
+Eric Idle,Ioan Gruffudd,102 Dalmatians ,Jim Carter,1,http://www.imdb.com/title/tt0211181/?ref_=fn_tt_tt_1
+Gabourey Sidibe,Matthew Broderick,Tower Heist ,Judd Hirsch,5,http://www.imdb.com/title/tt0471042/?ref_=fn_tt_tt_1
+Rufus Sewell,Kate Winslet,The Holiday ,Sarah Parish,3,http://www.imdb.com/title/tt0457939/?ref_=fn_tt_tt_1
+Jake Busey,Will Smith,Enemy of the State ,Lisa Bonet,4,http://www.imdb.com/title/tt0120660/?ref_=fn_tt_tt_1
+Hunter Parrish,Meryl Streep,It's Complicated ,Zoe Kazan,2,http://www.imdb.com/title/tt1230414/?ref_=fn_tt_tt_1
+Matt Damon,Al Pacino,Ocean's Thirteen ,Brad Pitt,3,http://www.imdb.com/title/tt0496806/?ref_=fn_tt_tt_1
+Debra Messing,Jon Favreau,Open Season ,Jane Krakowski,1,http://www.imdb.com/title/tt0400717/?ref_=fn_tt_tt_1
+Theo James,Kate Winslet,Divergent ,Mekhi Phifer,2,http://www.imdb.com/title/tt1840309/?ref_=fn_tt_tt_1
+Gabriel Thomson,Bob Hoskins,Enemy at the Gates ,Clemens Schick,1,http://www.imdb.com/title/tt0215750/?ref_=fn_tt_tt_1
+Rosario Dawson,Dwayne Johnson,The Rundown ,Ewen Bremner,1,http://www.imdb.com/title/tt0327850/?ref_=fn_tt_tt_1
+Tom Noonan,F. Murray Abraham,Last Action Hero ,Joan Plowright,1,http://www.imdb.com/title/tt0107362/?ref_=fn_tt_tt_1
+Mako,Li Gong,Memoirs of a Geisha ,Karl Yune,1,http://www.imdb.com/title/tt0397535/?ref_=fn_tt_tt_1
+Zachery Ty Bryan,Amber Stevens West,The Fast and the Furious: Tokyo Drift ,Nikki Griffin,5,http://www.imdb.com/title/tt0463985/?ref_=fn_tt_tt_1
+Imelda Staunton,Jim Broadbent,Arthur Christmas ,Michael Palin,1,http://www.imdb.com/title/tt1430607/?ref_=fn_tt_tt_1
+Brad Pitt,Anthony Hopkins,Meet Joe Black ,Jake Weber,0,http://www.imdb.com/title/tt0119643/?ref_=fn_tt_tt_1
+Rick Worthy,Raymond Cruz,Collateral Damage ,Jsu Garcia,1,http://www.imdb.com/title/tt0233469/?ref_=fn_tt_tt_1
+Ben Vereen,Roy Scheider,All That Jazz ,Max Wright,0,http://www.imdb.com/title/tt0078754/?ref_=fn_tt_tt_1
+Nathan Lane,Julia Roberts,Mirror Mirror ,Danny Woodburn,1,http://www.imdb.com/title/tt1667353/?ref_=fn_tt_tt_1
+Kieran Culkin,Anna Kendrick,Scott Pilgrim vs. the World ,Ellen Wong,0,http://www.imdb.com/title/tt0446029/?ref_=fn_tt_tt_1
+Tchéky Karyo,Glenn Morshower,The Core ,Rekha Sharma,0,http://www.imdb.com/title/tt0298814/?ref_=fn_tt_tt_1
+Janet Jackson,Larry Miller,Nutty Professor II: The Klumps ,Chris Elliott,1,http://www.imdb.com/title/tt0144528/?ref_=fn_tt_tt_1
+Linda Cardellini,Sarah Michelle Gellar,Scooby-Doo ,Miguel A. Núñez Jr.,3,http://www.imdb.com/title/tt0267913/?ref_=fn_tt_tt_1
+Jason Cope,Wood Harris,Dredd ,Rakie Ayola,0,http://www.imdb.com/title/tt1343727/?ref_=fn_tt_tt_1
+Cameron Monaghan,Adam Sandler,Click ,Julie Kavner,1,http://www.imdb.com/title/tt0389860/?ref_=fn_tt_tt_1
+Hal Holbrook,Ted Danson,Creepshow ,Adrienne Barbeau,0,http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1
+Sean Hayes,Jack McBrayer,Cats & Dogs: The Revenge of Kitty Galore ,Katt Williams,0,http://www.imdb.com/title/tt1287468/?ref_=fn_tt_tt_1
+Hayden Christensen,Kristen Stewart,Jumper ,Tom Hulce,0,http://www.imdb.com/title/tt0489099/?ref_=fn_tt_tt_1
+Iván Kamarás,Seth MacFarlane,Hellboy II: The Golden Army ,Brian Steele,0,http://www.imdb.com/title/tt0411477/?ref_=fn_tt_tt_1
+Jake Gyllenhaal,Robert Downey Jr.,Zodiac ,Anthony Edwards,0,http://www.imdb.com/title/tt0443706/?ref_=fn_tt_tt_1
+Michael Rapaport,Robert Duvall,The 6th Day ,Tony Goldwyn,1,http://www.imdb.com/title/tt0216216/?ref_=fn_tt_tt_1
+Steve Carell,Morgan Freeman,Bruce Almighty ,Lisa Ann Walter,1,http://www.imdb.com/title/tt0315327/?ref_=fn_tt_tt_1
+Sylvester Stallone,Jason Statham,The Expendables ,Jet Li,9,http://www.imdb.com/title/tt1320253/?ref_=fn_tt_tt_1
+Kristin Scott Thomas,Tom Cruise,Mission: Impossible ,Vanessa Redgrave,0,http://www.imdb.com/title/tt0117060/?ref_=fn_tt_tt_1
+Josh Hutcherson,Jennifer Lawrence,The Hunger Games ,Anthony Reynolds,0,http://www.imdb.com/title/tt1392170/?ref_=fn_tt_tt_1
+Mason Lee,Bradley Cooper,The Hangover Part II ,Mike Tyson,0,http://www.imdb.com/title/tt1411697/?ref_=fn_tt_tt_1
+Vincent Schiavelli,Michael Gough,Batman Returns ,Andrew Bryniarski,0,http://www.imdb.com/title/tt0103776/?ref_=fn_tt_tt_1
+Steve Carell,Bruce Willis,Over the Hedge ,Catherine O'Hara,1,http://www.imdb.com/title/tt0327084/?ref_=fn_tt_tt_1
+Jason Scott Lee,Tia Carrere,Lilo & Stitch ,David Ogden Stiers,0,http://www.imdb.com/title/tt0275847/?ref_=fn_tt_tt_1
+Julia Roberts,Steve Buscemi,Charlotte's Web ,Oprah Winfrey,0,http://www.imdb.com/title/tt0413895/?ref_=fn_tt_tt_1
+Jon Favreau,Morgan Freeman,Deep Impact ,Robert Duvall,0,http://www.imdb.com/title/tt0120647/?ref_=fn_tt_tt_1
+Anthony Hopkins,Bruce Willis,RED 2 ,Garrick Hagon,7,http://www.imdb.com/title/tt1821694/?ref_=fn_tt_tt_1
+Steve Reevis,Adam Sandler,The Longest Yard ,Dalip Singh,11,http://www.imdb.com/title/tt0398165/?ref_=fn_tt_tt_1
+Jesse McCartney,Amy Poehler,Alvin and the Chipmunks: Chipwrecked ,Lauren Gottlieb,0,http://www.imdb.com/title/tt1615918/?ref_=fn_tt_tt_1
+Adam Sandler,Steve Buscemi,Grown Ups 2 ,Jon Lovitz,4,http://www.imdb.com/title/tt2191701/?ref_=fn_tt_tt_1
+Dwayne Johnson,Bill Murray,Get Smart ,Anne Hathaway,1,http://www.imdb.com/title/tt0425061/?ref_=fn_tt_tt_1
+Jon Favreau,Keanu Reeves,Something's Gotta Give ,Paul Michael Glaser,1,http://www.imdb.com/title/tt0337741/?ref_=fn_tt_tt_1
+Joseph Sikora,Leonardo DiCaprio,Shutter Island ,Nellie Sciutto,0,http://www.imdb.com/title/tt1130884/?ref_=fn_tt_tt_1
+Robert Duvall,Jon Favreau,Four Christmases ,Katy Mixon,2,http://www.imdb.com/title/tt0369436/?ref_=fn_tt_tt_1
+Drew Carey,Jim Broadbent,Robots ,Paula Abdul,1,http://www.imdb.com/title/tt0358082/?ref_=fn_tt_tt_1
+CCH Pounder,Nicolas Cage,Face/Off ,Joan Allen,0,http://www.imdb.com/title/tt0119094/?ref_=fn_tt_tt_1
+Carmen Electra,Adam Sandler,Bedtime Stories ,Kathryn Joosten,0,http://www.imdb.com/title/tt0960731/?ref_=fn_tt_tt_1
+Jennifer Jason Leigh,Tom Hanks,Road to Perdition ,Liam Aiken,0,http://www.imdb.com/title/tt0257044/?ref_=fn_tt_tt_1
+Bailee Madison,Adam Sandler,Just Go with It ,Kevin Nealon,1,http://www.imdb.com/title/tt1564367/?ref_=fn_tt_tt_1
+Royce Johnson,Elden Henson,Daredevil             ,Charlie Cox,0,http://www.imdb.com/title/tt3322312/?ref_=fn_tt_tt_1
+Monica Potter,Steve Buscemi,Con Air ,Dave Chappelle,6,http://www.imdb.com/title/tt0118880/?ref_=fn_tt_tt_1
+Ethan Embry,Rosario Dawson,Eagle Eye ,Cameron Boyce,3,http://www.imdb.com/title/tt1059786/?ref_=fn_tt_tt_1
+Natalie Portman,Philip Seymour Hoffman,Cold Mountain ,Charlie Hunnam,3,http://www.imdb.com/title/tt0159365/?ref_=fn_tt_tt_1
+Mila Kunis,Denzel Washington,The Book of Eli ,Gary Oldman,0,http://www.imdb.com/title/tt1037705/?ref_=fn_tt_tt_1
+Jodi Benson,Robin Williams,Flubber ,Sam Lloyd,1,http://www.imdb.com/title/tt0119137/?ref_=fn_tt_tt_1
+Lili Taylor,Liam Neeson,The Haunting ,Virginia Madsen,0,http://www.imdb.com/title/tt0171363/?ref_=fn_tt_tt_1
+Wayne Knight,Bill Murray,Space Jam ,Michael Jordan,1,http://www.imdb.com/title/tt0117705/?ref_=fn_tt_tt_1
+Henry Czerny,Roger Rees,The Pink Panther ,William Abadie,0,http://www.imdb.com/title/tt0383216/?ref_=fn_tt_tt_1
+Jon Hamm,Keanu Reeves,The Day the Earth Stood Still ,Juan Riedinger,0,http://www.imdb.com/title/tt0970416/?ref_=fn_tt_tt_1
+Alex McArthur,Julia Roberts,Conspiracy Theory ,Michael Potts,1,http://www.imdb.com/title/tt0118883/?ref_=fn_tt_tt_1
+Logan Lerman,Brad Pitt,Fury ,Jim Parrack,4,http://www.imdb.com/title/tt2713180/?ref_=fn_tt_tt_1
+Anne Heche,Harrison Ford,Six Days Seven Nights ,Amy Sedaris,2,http://www.imdb.com/title/tt0120828/?ref_=fn_tt_tt_1
+Tom Cavanagh,Justin Timberlake,Yogi Bear ,Josh Robert Thompson,0,http://www.imdb.com/title/tt1302067/?ref_=fn_tt_tt_1
+Charles Napier,Matt Damon,Spirit: Stallion of the Cimarron ,Zahn McClarnon,0,http://www.imdb.com/title/tt0166813/?ref_=fn_tt_tt_1
+Leslie Bibb,Rosario Dawson,Zookeeper ,Nicholas Turturro,1,http://www.imdb.com/title/tt1222817/?ref_=fn_tt_tt_1
+William Hurt,Gary Oldman,Lost in Space ,June Lockhart,0,http://www.imdb.com/title/tt0120738/?ref_=fn_tt_tt_1
+Dorian Missick,Denzel Washington,The Manchurian Candidate ,Jose Pablo Cantillo,1,http://www.imdb.com/title/tt0368008/?ref_=fn_tt_tt_1
+Stephen Dillane,Vanessa Redgrave,Déjà Vu ,Michael Brandon,0,http://www.imdb.com/title/tt0119033/?ref_=fn_tt_tt_1
+Adam Sandler,Steve Buscemi,Hotel Transylvania 2 ,Fran Drescher,0,http://www.imdb.com/title/tt2510894/?ref_=fn_tt_tt_1
+Agnes Moorehead,Elizabeth Montgomery,Bewitched             ,Dick York,1,http://www.imdb.com/title/tt0057733/?ref_=fn_tt_tt_1
+Penn Jillette,Quincy Jones,Fantasia 2000 ,Russi Taylor,0,http://www.imdb.com/title/tt0120910/?ref_=fn_tt_tt_1
+Alan Young,Mark Addy,The Time Machine ,Josh Stamberg,0,http://www.imdb.com/title/tt0268695/?ref_=fn_tt_tt_1
+Mika Boorem,Charlize Theron,Mighty Joe Young ,David Paymer,0,http://www.imdb.com/title/tt0120751/?ref_=fn_tt_tt_1
+Don Cheadle,Hugh Jackman,Swordfish ,Sam Shepard,4,http://www.imdb.com/title/tt0244244/?ref_=fn_tt_tt_1
+Nick Chinlund,Michael Emerson,The Legend of Zorro ,Adrian Alonso,1,http://www.imdb.com/title/tt0386140/?ref_=fn_tt_tt_1
+Annabella Sciorra,Robin Williams,What Dreams May Come ,Rosalind Chao,1,http://www.imdb.com/title/tt0120889/?ref_=fn_tt_tt_1
+Jon Lovitz,Adam Sandler,Little Nicky ,Michael McKean,0,http://www.imdb.com/title/tt0185431/?ref_=fn_tt_tt_1
+Heath Ledger,Matt Damon,The Brothers Grimm ,Mackenzie Crook,2,http://www.imdb.com/title/tt0355295/?ref_=fn_tt_tt_1
+Martin Short,Natalie Portman,Mars Attacks! ,Lukas Haas,3,http://www.imdb.com/title/tt0116996/?ref_=fn_tt_tt_1
+Roxane Duran,Nissim Renard,Evolution ,Julie-Marie Parmentier,0,http://www.imdb.com/title/tt4291590/?ref_=fn_tt_tt_1
+Harold Perrineau,Anthony Hopkins,The Edge ,Bart the Bear,2,http://www.imdb.com/title/tt0119051/?ref_=fn_tt_tt_1
+Devin Ratray,Bruce Willis,Surrogates ,Boris Kodjoe,5,http://www.imdb.com/title/tt0986263/?ref_=fn_tt_tt_1
+Jon Foster,Bruce Greenwood,Thirteen Days ,Bruce Thomas,1,http://www.imdb.com/title/tt0146309/?ref_=fn_tt_tt_1
+Viggo Mortensen,Sylvester Stallone,Daylight ,Amy Brenneman,0,http://www.imdb.com/title/tt0116040/?ref_=fn_tt_tt_1
+Tiya Sircar,Charlie Rowe,Walking with Dinosaurs 3D ,Madison Rothschild,0,http://www.imdb.com/title/tt1762399/?ref_=fn_tt_tt_1
+Michael Byrne,Richard Tyson,Battlefield Earth ,John Topor,0,http://www.imdb.com/title/tt0185183/?ref_=fn_tt_tt_1
+Jenna Elfman,Brendan Fraser,Looney Tunes: Back in Action ,Heather Locklear,4,http://www.imdb.com/title/tt0318155/?ref_=fn_tt_tt_1
+Elio Germano,Fergie,Nine ,Andrea Di Stefano,4,http://www.imdb.com/title/tt0875034/?ref_=fn_tt_tt_1
+Gerard Butler,Paul Walker,Timeline ,Ethan Embry,0,http://www.imdb.com/title/tt0300556/?ref_=fn_tt_tt_1
+Brian Anthony Wilson,Olivia Williams,The Postman ,Larenz Tate,1,http://www.imdb.com/title/tt0119925/?ref_=fn_tt_tt_1
+Elizabeth Daily,Adam Goldberg,Babe: Pig in the City ,Glenne Headly,0,http://www.imdb.com/title/tt0120595/?ref_=fn_tt_tt_1
+Joseph Gilgun,Vin Diesel,The Last Witch Hunter ,Lotte Verbeek,0,http://www.imdb.com/title/tt1618442/?ref_=fn_tt_tt_1
+Val Kilmer,Bob Neill,Red Planet ,Tom Sizemore,1,http://www.imdb.com/title/tt0199753/?ref_=fn_tt_tt_1
+Adam LeFevre,Mia Farrow,Arthur and the Invisibles ,Penny Balfour,0,http://www.imdb.com/title/tt0344854/?ref_=fn_tt_tt_1
+Jacques Perrin,Pedro Armendáriz Jr.,Oceans ,Rie Miyazawa,0,http://www.imdb.com/title/tt0765128/?ref_=fn_tt_tt_1
+Catherine McCormack,David Oyelowo,A Sound of Thunder ,Jemima Rooper,0,http://www.imdb.com/title/tt0318081/?ref_=fn_tt_tt_1
+Currie Graham,Sasha Roiz,Pompeii ,Dylan Schombing,0,http://www.imdb.com/title/tt1921064/?ref_=fn_tt_tt_1
+David Hoffman,Sariann Monaco,Top Cat Begins ,Ben Diskin,0,http://www.imdb.com/title/tt4057916/?ref_=fn_tt_tt_1
+Austin Pendleton,Adam Goldberg,A Beautiful Mind ,Judd Hirsch,0,http://www.imdb.com/title/tt0268978/?ref_=fn_tt_tt_1
+Nathan Lane,Matthew Broderick,The Lion King ,Niketa Calame,0,http://www.imdb.com/title/tt0110357/?ref_=fn_tt_tt_1
+Dwayne Johnson,Josh Hutcherson,Journey 2: The Mysterious Island ,Kristin Davis,3,http://www.imdb.com/title/tt1397514/?ref_=fn_tt_tt_1
+Khamani Griffin,Will Forte,Cloudy with a Chance of Meatballs 2 ,Melissa Sturm,0,http://www.imdb.com/title/tt1985966/?ref_=fn_tt_tt_1
+Anthony Hopkins,Philip Seymour Hoffman,Red Dragon ,Emily Watson,0,http://www.imdb.com/title/tt0289765/?ref_=fn_tt_tt_1
+Viggo Mortensen,J.K. Simmons,Hidalgo ,Peter Mensah,1,http://www.imdb.com/title/tt0317648/?ref_=fn_tt_tt_1
+Adam Sandler,Al Pacino,Jack and Jill ,Tim Meadows,2,http://www.imdb.com/title/tt0810913/?ref_=fn_tt_tt_1
+Cole Hauser,Paul Walker,2 Fast 2 Furious ,Mo Gallini,5,http://www.imdb.com/title/tt0322259/?ref_=fn_tt_tt_1
+James Franco,Jeff Bridges,The Little Prince ,Mackenzie Foy,1,http://www.imdb.com/title/tt1754656/?ref_=fn_tt_tt_1
+Veronica Cartwright,Roger Rees,The Invasion ,Jeremy Northam,2,http://www.imdb.com/title/tt0427392/?ref_=fn_tt_tt_1
+Janeane Garofalo,Robert De Niro,The Adventures of Rocky & Bullwinkle ,Jonathan Winters,0,http://www.imdb.com/title/tt0131704/?ref_=fn_tt_tt_1
+Eric Stonestreet,Steve Coogan,The Secret Life of Pets ,Albert Brooks,0,http://www.imdb.com/title/tt2709768/?ref_=fn_tt_tt_1
+Max Ryan,Jason Flemyng,The League of Extraordinary Gentlemen ,Tony Curran,3,http://www.imdb.com/title/tt0311429/?ref_=fn_tt_tt_1
+Miranda Cosgrove,Steve Carell,Despicable Me 2 ,Steve Coogan,0,http://www.imdb.com/title/tt1690953/?ref_=fn_tt_tt_1
+Adam Baldwin,Will Smith,Independence Day ,Mary McDonnell,0,http://www.imdb.com/title/tt0116629/?ref_=fn_tt_tt_1
+Richard Schiff,Ariana Richards,The Lost World: Jurassic Park ,Vanessa Lee Chester,0,http://www.imdb.com/title/tt0119567/?ref_=fn_tt_tt_1
+Cedric the Entertainer,Jada Pinkett Smith,Madagascar ,Andy Richter,0,http://www.imdb.com/title/tt0351283/?ref_=fn_tt_tt_1
+Danny Huston,Charlie Hunnam,Children of Men ,Rita Davies,0,http://www.imdb.com/title/tt0206634/?ref_=fn_tt_tt_1
+Tyler Mane,Hugh Jackman,X-Men ,Bruce Davison,0,http://www.imdb.com/title/tt0120903/?ref_=fn_tt_tt_1
+Morgan Freeman,Angelina Jolie Pitt,Wanted ,Common,0,http://www.imdb.com/title/tt0493464/?ref_=fn_tt_tt_1
+Michael Biehn,Nicolas Cage,The Rock ,Bokeem Woodbine,1,http://www.imdb.com/title/tt0117500/?ref_=fn_tt_tt_1
+Ray Romano,Denis Leary,Ice Age: The Meltdown ,Jay Leno,0,http://www.imdb.com/title/tt0438097/?ref_=fn_tt_tt_1
+Peter Dante,Adam Sandler,50 First Dates ,Allen Covert,2,http://www.imdb.com/title/tt0343660/?ref_=fn_tt_tt_1
+Elijah Kelley,Jerry Stiller,Hairspray ,Paul Dooley,9,http://www.imdb.com/title/tt0427327/?ref_=fn_tt_tt_1
+Alan Ford,James D'Arcy,Exorcist: The Beginning ,Izabella Scorupco,0,http://www.imdb.com/title/tt0204313/?ref_=fn_tt_tt_1
+Rene Auberjonois,Matthew Broderick,Inspector Gadget ,Rupert Everett,0,http://www.imdb.com/title/tt0141369/?ref_=fn_tt_tt_1
+Common,Morgan Freeman,Now You See Me ,Michael Kelly,6,http://www.imdb.com/title/tt1670345/?ref_=fn_tt_tt_1
+Adam Sandler,Steve Buscemi,Grown Ups ,Salma Hayek,4,http://www.imdb.com/title/tt1375670/?ref_=fn_tt_tt_1
+Chi McBride,Tom Hanks,The Terminal ,Barry Shabaka Henley,0,http://www.imdb.com/title/tt0362227/?ref_=fn_tt_tt_1
+Matt Ryan,Harold Perrineau,Constantine             ,Charles Halford,1,http://www.imdb.com/title/tt3489184/?ref_=fn_tt_tt_1
+Kevin Dillon,Don Cheadle,Hotel for Dogs ,Yvette Nicole Brown,4,http://www.imdb.com/title/tt0785006/?ref_=fn_tt_tt_1
+Scott Glenn,Nicholas Lea,Vertical Limit ,Ben Mendelsohn,0,http://www.imdb.com/title/tt0190865/?ref_=fn_tt_tt_1
+Tom Hanks,Philip Seymour Hoffman,Charlie Wilson's War ,Jud Tylor,1,http://www.imdb.com/title/tt0472062/?ref_=fn_tt_tt_1
+Martin Scorsese,Robert De Niro,Shark Tale ,Angelina Jolie Pitt,0,http://www.imdb.com/title/tt0307453/?ref_=fn_tt_tt_1
+Jennifer Hudson,Loretta Devine,Dreamgirls ,Anika Noni Rose,0,http://www.imdb.com/title/tt0443489/?ref_=fn_tt_tt_1
+Brent Sexton,Adam Arkin,Life             ,Damian Lewis,1,http://www.imdb.com/title/tt0874936/?ref_=fn_tt_tt_1
+Christina Milian,Dwayne Johnson,Be Cool ,Debi Mazar,4,http://www.imdb.com/title/tt0377471/?ref_=fn_tt_tt_1
+Moritz Bleibtreu,Ayelet Zurer,Munich ,Mathieu Amalric,0,http://www.imdb.com/title/tt0408306/?ref_=fn_tt_tt_1
+Tom Skerritt,Bruce Willis,Tears of the Sun ,Cole Hauser,1,http://www.imdb.com/title/tt0314353/?ref_=fn_tt_tt_1
+Lisa Ann Walter,Tom Selleck,Killers ,Catherine O'Hara,2,http://www.imdb.com/title/tt1103153/?ref_=fn_tt_tt_1
+Elizabeth Debicki,Henry Cavill,The Man from U.N.C.L.E. ,Christian Berkel,2,http://www.imdb.com/title/tt1638355/?ref_=fn_tt_tt_1
+Paz Vega,Adam Sandler,Spanglish ,Sarah Steele,2,http://www.imdb.com/title/tt0371246/?ref_=fn_tt_tt_1
+Jon Heder,Steve Buscemi,Monster House ,Catherine O'Hara,0,http://www.imdb.com/title/tt0385880/?ref_=fn_tt_tt_1
+Brían F. O'Byrne,Bruce Willis,Bandits ,Azura Skye,2,http://www.imdb.com/title/tt0219965/?ref_=fn_tt_tt_1
+Ben Cross,Julia Ormond,First Knight ,John Gielgud,3,http://www.imdb.com/title/tt0113071/?ref_=fn_tt_tt_1
+Geoffrey Palmer,Bai Ling,Anna and the King ,Randall Duk Kim,2,http://www.imdb.com/title/tt0166485/?ref_=fn_tt_tt_1
+Daniel Sharman,Henry Cavill,Immortals ,Steve Byers,1,http://www.imdb.com/title/tt1253864/?ref_=fn_tt_tt_1
+Bruce Willis,Jimmy Bennett,Hostage ,Ransford Doherty,0,http://www.imdb.com/title/tt0340163/?ref_=fn_tt_tt_1
+Janeane Garofalo,Matt Damon,Titan A.E. ,Nathan Lane,0,http://www.imdb.com/title/tt0120913/?ref_=fn_tt_tt_1
+Bruce Greenwood,Harrison Ford,Hollywood Homicide ,Lena Olin,2,http://www.imdb.com/title/tt0329717/?ref_=fn_tt_tt_1
+Sean Pertwee,Connie Nielsen,Soldier ,Jason Scott Lee,1,http://www.imdb.com/title/tt0120157/?ref_=fn_tt_tt_1
+Kiernan Shipka,Christopher Meloni,Carriers ,Lou Taylor Pucci,0,http://www.imdb.com/title/tt0806203/?ref_=fn_tt_tt_1
+Bridget Fonda,Brendan Fraser,Monkeybone ,Megan Mullally,0,http://www.imdb.com/title/tt0166276/?ref_=fn_tt_tt_1
+Tony Curran,Dennis Quaid,Flight of the Phoenix ,Miranda Otto,4,http://www.imdb.com/title/tt0377062/?ref_=fn_tt_tt_1
+Bruce Willis,Robin Wright,Unbreakable ,Michael Kelly,0,http://www.imdb.com/title/tt0217869/?ref_=fn_tt_tt_1
+Jon Hamm,Steve Carell,Minions ,Steve Coogan,0,http://www.imdb.com/title/tt2293640/?ref_=fn_tt_tt_1
+Abbie Cornish,Jon Hamm,Sucker Punch ,Scott Glenn,4,http://www.imdb.com/title/tt0978764/?ref_=fn_tt_tt_1
+Mike Starr,Nicolas Cage,Snake Eyes ,John Heard,1,http://www.imdb.com/title/tt0120832/?ref_=fn_tt_tt_1
+James Pickens Jr.,Peter Coyote,Sphere ,Huey Lewis,3,http://www.imdb.com/title/tt0120184/?ref_=fn_tt_tt_1
+Josh Gad,Peter Dinklage,The Angry Birds Movie ,Keegan-Michael Key,0,http://www.imdb.com/title/tt1985949/?ref_=fn_tt_tt_1
+Ray Winstone,Matthew McConaughey,Fool's Gold ,Alexis Dziena,0,http://www.imdb.com/title/tt0770752/?ref_=fn_tt_tt_1
+RZA,Adam Sandler,Funny People ,Maude Apatow,1,http://www.imdb.com/title/tt1201167/?ref_=fn_tt_tt_1
+Frances Fisher,Jennifer Garner,The Kingdom ,Tim McGraw,1,http://www.imdb.com/title/tt0431197/?ref_=fn_tt_tt_1
+Leslie Bibb,Will Ferrell,Talladega Nights: The Ballad of Ricky Bobby ,Gary Cole,5,http://www.imdb.com/title/tt0415306/?ref_=fn_tt_tt_1
+Jeffrey Jones,Raven-Symoné,Dr. Dolittle 2 ,Kevin Pollak,0,http://www.imdb.com/title/tt0240462/?ref_=fn_tt_tt_1
+Patrick McGoohan,Mhairi Calvey,Braveheart ,James Robinson,1,http://www.imdb.com/title/tt0112573/?ref_=fn_tt_tt_1
+Brian Geraghty,Jake Gyllenhaal,Jarhead ,James Morrison,0,http://www.imdb.com/title/tt0418763/?ref_=fn_tt_tt_1
+Yeardley Smith,Albert Brooks,The Simpsons Movie ,Marcia Wallace,0,http://www.imdb.com/title/tt0462538/?ref_=fn_tt_tt_1
+Hal Holbrook,Martin Landau,The Majestic ,Jeffrey DeMunn,1,http://www.imdb.com/title/tt0268995/?ref_=fn_tt_tt_1
+Estella Warren,Sylvester Stallone,Driven ,Cristián de la Fuente,0,http://www.imdb.com/title/tt0132245/?ref_=fn_tt_tt_1
+Jean-Claude Dreyfus,David Gant,Two Brothers ,Oanh Nguyen,0,http://www.imdb.com/title/tt0338512/?ref_=fn_tt_tt_1
+Judy Greer,Bryce Dallas Howard,The Village ,William Hurt,0,http://www.imdb.com/title/tt0368447/?ref_=fn_tt_tt_1
+Raven-Symoné,Oliver Platt,Doctor Dolittle ,Peter Boyle,0,http://www.imdb.com/title/tt0118998/?ref_=fn_tt_tt_1
+Merritt Wever,Rory Culkin,Signs ,Cherry Jones,0,http://www.imdb.com/title/tt0286106/?ref_=fn_tt_tt_1
+Jennifer Saunders,Rupert Everett,Shrek 2 ,Conrad Vernon,1,http://www.imdb.com/title/tt0298148/?ref_=fn_tt_tt_1
+Cheech Marin,John Ratzenberger,Cars ,George Carlin,0,http://www.imdb.com/title/tt0317219/?ref_=fn_tt_tt_1
+Christopher Meloni,Julia Roberts,Runaway Bride ,Hector Elizondo,2,http://www.imdb.com/title/tt0163187/?ref_=fn_tt_tt_1
+Eve,Vin Diesel,xXx ,Leila Arcieri,0,http://www.imdb.com/title/tt0295701/?ref_=fn_tt_tt_1
+Billy West,Tim Conway,The SpongeBob Movie: Sponge Out of Water ,Eddie Deezen,0,http://www.imdb.com/title/tt2279373/?ref_=fn_tt_tt_1
+Delroy Lindo,Lili Taylor,Ransom ,Rene Russo,1,http://www.imdb.com/title/tt0117438/?ref_=fn_tt_tt_1
+Brad Pitt,Michael Fassbender,Inglourious Basterds ,Christoph Waltz,1,http://www.imdb.com/title/tt0361748/?ref_=fn_tt_tt_1
+Julia Roberts,Robin Williams,Hook ,Bob Hoskins,1,http://www.imdb.com/title/tt0102057/?ref_=fn_tt_tt_1
+Rufus Sewell,Dwayne Johnson,Hercules ,Ingrid Bolsø Berdal,0,http://www.imdb.com/title/tt1267297/?ref_=fn_tt_tt_1
+John Amos,Bruce Willis,Die Hard 2 ,Franco Nero,0,http://www.imdb.com/title/tt0099423/?ref_=fn_tt_tt_1
+Josh Charles,Jeremy Renner,S.W.A.T. ,LL Cool J,1,http://www.imdb.com/title/tt0257076/?ref_=fn_tt_tt_1
+Katia Winter,Nicole Beharie,Sleepy Hollow             ,Lyndie Greenwood,0,http://www.imdb.com/title/tt2647544/?ref_=fn_tt_tt_1
+Ivana Milicevic,Tom Cruise,Vanilla Sky ,Noah Taylor,1,http://www.imdb.com/title/tt0259711/?ref_=fn_tt_tt_1
+Freddy Rodríguez,Bryce Dallas Howard,Lady in the Water ,Bob Balaban,1,http://www.imdb.com/title/tt0452637/?ref_=fn_tt_tt_1
+Colin Salmon,Sanaa Lathan,AVP: Alien vs. Predator ,Raoul Bova,0,http://www.imdb.com/title/tt0370263/?ref_=fn_tt_tt_1
+Bridgit Mendler,Amy Poehler,Alvin and the Chipmunks: The Squeakquel ,Jesse McCartney,0,http://www.imdb.com/title/tt1231580/?ref_=fn_tt_tt_1
+Marc Blucas,Jon Hamm,We Were Soldiers ,Chris Klein,0,http://www.imdb.com/title/tt0277434/?ref_=fn_tt_tt_1
+Morgan Freeman,Gerard Butler,Olympus Has Fallen ,Radha Mitchell,3,http://www.imdb.com/title/tt2302755/?ref_=fn_tt_tt_1
+Jonathan Frakes,LeVar Burton,Star Trek: Insurrection ,Michael Dorn,0,http://www.imdb.com/title/tt0120844/?ref_=fn_tt_tt_1
+Jim Parrack,Noel Fisher,Battle Los Angeles ,Ramon Rodriguez,0,http://www.imdb.com/title/tt1217613/?ref_=fn_tt_tt_1
+Alison Lohman,Steve Buscemi,Big Fish ,Albert Finney,0,http://www.imdb.com/title/tt0319061/?ref_=fn_tt_tt_1
+Peter Gerety,David Hyde Pierce,Wolf ,Ron Rifkin,1,http://www.imdb.com/title/tt0111742/?ref_=fn_tt_tt_1
+Benedict Cumberbatch,Jeremy Irvine,War Horse ,Eddie Marsan,1,http://www.imdb.com/title/tt1568911/?ref_=fn_tt_tt_1
+Matt Damon,Bill Murray,The Monuments Men ,Bob Balaban,7,http://www.imdb.com/title/tt2177771/?ref_=fn_tt_tt_1
+Todd Graff,Michael Biehn,The Abyss ,Mary Elizabeth Mastrantonio,0,http://www.imdb.com/title/tt0096754/?ref_=fn_tt_tt_1
+Austin Pendleton,Frank Langella,Wall Street: Money Never Sleeps ,John Buffalo Mailer,2,http://www.imdb.com/title/tt1027718/?ref_=fn_tt_tt_1
+Sarah Gadon,Dominic Cooper,Dracula Untold ,Zach McGowan,1,http://www.imdb.com/title/tt0829150/?ref_=fn_tt_tt_1
+Bruce Willis,Denzel Washington,The Siege ,Mark Valley,0,http://www.imdb.com/title/tt0133952/?ref_=fn_tt_tt_1
+David Kelly,Henry Cavill,Stardust ,Nathaniel Parker,8,http://www.imdb.com/title/tt0486655/?ref_=fn_tt_tt_1
+Mako,Brad Pitt,Seven Years in Tibet ,Victor Wong,1,http://www.imdb.com/title/tt0120102/?ref_=fn_tt_tt_1
+Clint Howard,Channing Tatum,The Dilemma ,Chelcie Ross,2,http://www.imdb.com/title/tt1578275/?ref_=fn_tt_tt_1
+Brooke Smith,Anthony Hopkins,Bad Company ,Garcelle Beauvais,2,http://www.imdb.com/title/tt0280486/?ref_=fn_tt_tt_1
+Ben Daniels,Dwayne Johnson,Doom ,Dexter Fletcher,0,http://www.imdb.com/title/tt0419706/?ref_=fn_tt_tt_1
+Phill Lewis,Gary Cole,I Spy ,Tate Taylor,1,http://www.imdb.com/title/tt0297181/?ref_=fn_tt_tt_1
+Stephen Rea,Theo James,Underworld: Awakening ,Sandrine Holt,1,http://www.imdb.com/title/tt1496025/?ref_=fn_tt_tt_1
+Shane Hartline,James Martin Kelly,Rock of Ages ,Celina Beach,7,http://www.imdb.com/title/tt1336608/?ref_=fn_tt_tt_1
+Cole Hauser,Bruce Willis,Hart's War ,Rory Cochrane,0,http://www.imdb.com/title/tt0251114/?ref_=fn_tt_tt_1
+Robert De Niro,Jason Statham,Killer Elite ,Ben Mendelsohn,2,http://www.imdb.com/title/tt1448755/?ref_=fn_tt_tt_1
+Chris Klein,LL Cool J,Rollerball ,Andrew Bryniarski,3,http://www.imdb.com/title/tt0246894/?ref_=fn_tt_tt_1
+Sandrine Holt,Talisa Soto,Ballistic: Ecks vs. Sever ,Gregg Henry,1,http://www.imdb.com/title/tt0308208/?ref_=fn_tt_tt_1
+Minnie Driver,Morgan Freeman,Hard Rain ,Randy Quaid,0,http://www.imdb.com/title/tt0120696/?ref_=fn_tt_tt_1
+Brandy Norwood,Ron Howard,Osmosis Jones ,David Hyde Pierce,0,http://www.imdb.com/title/tt0181739/?ref_=fn_tt_tt_1
+Oliver Platt,Lea Michele,Legends of Oz: Dorothy's Return ,Jim Belushi,1,http://www.imdb.com/title/tt0884726/?ref_=fn_tt_tt_1
+Archie Kao,Chris Hemsworth,Blackhat ,Brandon Molale,1,http://www.imdb.com/title/tt2717822/?ref_=fn_tt_tt_1
+Laurence Olivier,Angelina Jolie Pitt,Sky Captain and the World of Tomorrow ,Bai Ling,2,http://www.imdb.com/title/tt0346156/?ref_=fn_tt_tt_1
+Indira Varma,Charlotte Rampling,Basic Instinct 2 ,Neil Maskell,1,http://www.imdb.com/title/tt0430912/?ref_=fn_tt_tt_1
+50 Cent,Sylvester Stallone,Escape Plan ,Matt Gerald,1,http://www.imdb.com/title/tt1211956/?ref_=fn_tt_tt_1
+Luke Newberry,Roxanne McKee,The Legend of Hercules ,Gaia Weiss,0,http://www.imdb.com/title/tt1043726/?ref_=fn_tt_tt_1
+Bruce McGill,Morgan Freeman,The Sum of All Fears ,Philip Baker Hall,0,http://www.imdb.com/title/tt0164184/?ref_=fn_tt_tt_1
+Kristen Stewart,Robert Pattinson,The Twilight Saga: Eclipse ,Anna Kendrick,3,http://www.imdb.com/title/tt1325004/?ref_=fn_tt_tt_1
+Marlon Brando,Robert De Niro,The Score ,Gary Farmer,0,http://www.imdb.com/title/tt0227445/?ref_=fn_tt_tt_1
+Miranda Cosgrove,Steve Carell,Despicable Me ,Jack McBrayer,0,http://www.imdb.com/title/tt1323594/?ref_=fn_tt_tt_1
+Robert Blake,Vincent Pastore,Money Train ,Aida Turturro,1,http://www.imdb.com/title/tt0113845/?ref_=fn_tt_tt_1
+Morgan Freeman,Liam Neeson,Ted 2 ,Seth MacFarlane,0,http://www.imdb.com/title/tt2637276/?ref_=fn_tt_tt_1
+Ashraf Barhom,Max Minghella,Agora ,Rupert Evans,2,http://www.imdb.com/title/tt1186830/?ref_=fn_tt_tt_1
+Wes Studi,Janeane Garofalo,Mystery Men ,Eddie Izzard,4,http://www.imdb.com/title/tt0132347/?ref_=fn_tt_tt_1
+Larry Joe Campbell,Jenna Fischer,Hall Pass ,Stephen Merchant,3,http://www.imdb.com/title/tt0480687/?ref_=fn_tt_tt_1
+Rip Torn,Al Pacino,The Insider ,Debi Mazar,1,http://www.imdb.com/title/tt0140352/?ref_=fn_tt_tt_1
+Abraham Benrubi,Michael Raymond-James,The Finest Hours ,Graham McTavish,0,http://www.imdb.com/title/tt2025690/?ref_=fn_tt_tt_1
+Simon McBurney,Leonardo DiCaprio,Body of Lies ,Michael Gaston,1,http://www.imdb.com/title/tt0758774/?ref_=fn_tt_tt_1
+Stephanie Szostak,Steve Carell,Dinner for Schmucks ,Bruce Greenwood,2,http://www.imdb.com/title/tt0427152/?ref_=fn_tt_tt_1
+Dominic Cooper,Rufus Sewell,Abraham Lincoln: Vampire Hunter ,Benjamin Walker,0,http://www.imdb.com/title/tt1611224/?ref_=fn_tt_tt_1
+Kevin McNally,Will Patton,Entrapment ,Maury Chaykin,1,http://www.imdb.com/title/tt0137494/?ref_=fn_tt_tt_1
+Kaitlyn Dever,Hector Elizondo,Last Man Standing             ,Nancy Travis,1,http://www.imdb.com/title/tt1828327/?ref_=fn_tt_tt_1
+Mitch Pileggi,Martin Landau,The X Files ,Jeffrey DeMunn,0,http://www.imdb.com/title/tt0120902/?ref_=fn_tt_tt_1
+Nonso Anozie,Colin Firth,The Last Legion ,Owen Teale,0,http://www.imdb.com/title/tt0462396/?ref_=fn_tt_tt_1
+Vin Diesel,Tom Hanks,Saving Private Ryan ,Matt Damon,2,http://www.imdb.com/title/tt0120815/?ref_=fn_tt_tt_1
+Dominic Cooper,Rami Malek,Need for Speed ,Ramon Rodriguez,1,http://www.imdb.com/title/tt2369135/?ref_=fn_tt_tt_1
+Lisa Edelstein,Judy Greer,What Women Want ,Loretta Devine,1,http://www.imdb.com/title/tt0207201/?ref_=fn_tt_tt_1
+Stephen Root,Goran Visnjic,Ice Age ,Denis Leary,0,http://www.imdb.com/title/tt0268380/?ref_=fn_tt_tt_1
+Michael O'Neill,Morgan Freeman,Dreamcatcher ,Reece Thompson,1,http://www.imdb.com/title/tt0285531/?ref_=fn_tt_tt_1
+Hal Holbrook,Joseph Gordon-Levitt,Lincoln ,Bruce McGill,0,http://www.imdb.com/title/tt0443272/?ref_=fn_tt_tt_1
+Marcus Chong,Keanu Reeves,The Matrix ,Gloria Foster,3,http://www.imdb.com/title/tt0133093/?ref_=fn_tt_tt_1
+Miko Hughes,Tom Hanks,Apollo 13 ,Kathleen Quinlan,0,http://www.imdb.com/title/tt0112384/?ref_=fn_tt_tt_1
+Rachel Ticotin,Ronny Cox,Total Recall ,Marshall Bell,0,http://www.imdb.com/title/tt0100802/?ref_=fn_tt_tt_1
+Aisha Tyler,Judge Reinhold,The Santa Clause 2 ,Eric Lloyd,0,http://www.imdb.com/title/tt0304669/?ref_=fn_tt_tt_1
+Eddie Redmayne,Hugh Jackman,Les Misérables ,Anne Hathaway,1,http://www.imdb.com/title/tt1707386/?ref_=fn_tt_tt_1
+Jean Stapleton,Tom Hanks,You've Got Mail ,Dave Chappelle,2,http://www.imdb.com/title/tt0128853/?ref_=fn_tt_tt_1
+Adam Scott,Will Ferrell,Step Brothers ,Andrea Savage,2,http://www.imdb.com/title/tt0838283/?ref_=fn_tt_tt_1
+Tony Amendola,Anthony Hopkins,The Mask of Zorro ,Stuart Wilson,0,http://www.imdb.com/title/tt0120746/?ref_=fn_tt_tt_1
+RZA,Robert Downey Jr.,Due Date ,Matt Walsh,3,http://www.imdb.com/title/tt1231583/?ref_=fn_tt_tt_1
+Jack O'Connell,Finn Wittrock,Unbroken ,Alex Russell,0,http://www.imdb.com/title/tt1809398/?ref_=fn_tt_tt_1
+Courtney B. Vance,Clint Eastwood,Space Cowboys ,William Devane,1,http://www.imdb.com/title/tt0186566/?ref_=fn_tt_tt_1
+Leon,Sylvester Stallone,Cliffhanger ,Janine Turner,1,http://www.imdb.com/title/tt0106582/?ref_=fn_tt_tt_1
+Samantha Mathis,Delroy Lindo,Broken Arrow ,Bob Gunton,2,http://www.imdb.com/title/tt0115759/?ref_=fn_tt_tt_1
+Lily Tomlin,Bruce Willis,The Kid ,Daniel von Bargen,1,http://www.imdb.com/title/tt0219854/?ref_=fn_tt_tt_1
+Jay Hernandez,Nicolas Cage,World Trade Center ,Armando Riesco,0,http://www.imdb.com/title/tt0469641/?ref_=fn_tt_tt_1
+Kirsten Dunst,Julia Roberts,Mona Lisa Smile ,Marian Seldes,1,http://www.imdb.com/title/tt0304415/?ref_=fn_tt_tt_1
+Aasif Mandvi,Sayed Badreya,The Dictator ,Horatio Sanz,0,http://www.imdb.com/title/tt1645170/?ref_=fn_tt_tt_1
+Vinessa Shaw,Tom Cruise,Eyes Wide Shut ,Sydney Pollack,1,http://www.imdb.com/title/tt0120663/?ref_=fn_tt_tt_1
+Dorian Missick,Quvenzhané Wallis,Annie ,David Zayas,6,http://www.imdb.com/title/tt1823664/?ref_=fn_tt_tt_1
+Adrian Martinez,Will Smith,Focus ,Gerald McRaney,0,http://www.imdb.com/title/tt2381941/?ref_=fn_tt_tt_1
+Abigail Spencer,Tom Hardy,This Means War ,Warren Christie,3,http://www.imdb.com/title/tt1596350/?ref_=fn_tt_tt_1
+Natasha Lyonne,Ryan Reynolds,Blade: Trinity ,John Michael Higgins,0,http://www.imdb.com/title/tt0359013/?ref_=fn_tt_tt_1
+Jennifer Grey,Lea Thompson,Red Dawn ,William Smith,0,http://www.imdb.com/title/tt0087985/?ref_=fn_tt_tt_1
+Adrian Lester,Maura Tierney,Primary Colors ,Paul Guilfoyle,0,http://www.imdb.com/title/tt0119942/?ref_=fn_tt_tt_1
+Boris Kodjoe,Milla Jovovich,Resident Evil: Retribution ,Bingbing Li,0,http://www.imdb.com/title/tt1855325/?ref_=fn_tt_tt_1
+Max Ryan,Jason Statham,Death Race ,Joan Allen,4,http://www.imdb.com/title/tt0452608/?ref_=fn_tt_tt_1
+Craig Bierko,Melina Kanakaredes,The Long Kiss Goodnight ,Yvonne Zima,2,http://www.imdb.com/title/tt0116908/?ref_=fn_tt_tt_1
+Alun Armstrong,Pamela Reed,Proof of Life ,Michael Kitchen,1,http://www.imdb.com/title/tt0228750/?ref_=fn_tt_tt_1
+Josh Hutcherson,Kristen Stewart,Zathura: A Space Adventure ,Jonah Bobo,0,http://www.imdb.com/title/tt0406375/?ref_=fn_tt_tt_1
+Meat Loaf,Brad Pitt,Fight Club ,Eugenie Bondurant,2,http://www.imdb.com/title/tt0137523/?ref_=fn_tt_tt_1
+Kimberly Williams-Paisley,Matthew McConaughey,We Are Marshall ,Brian Geraghty,0,http://www.imdb.com/title/tt0758794/?ref_=fn_tt_tt_1
+James Nesbitt,Jason Flemyng,The Missing             ,Frances O'Connor,0,http://www.imdb.com/title/tt3877200/?ref_=fn_tt_tt_1

@@ -1,41 +1,113 @@
-actor_2_facebook_likes
-371
-908
-343
-189
-383
-26
-851
-886
-189
-203
-971
-683
-729
-10000
-826
-249
-318
-150
-520
-929
-579
-127
-710
-248
-906
-170
-300
-616
-591
-1000
-776
-5
-892
-6
-602
-41
-44
-537
-62
-1000
+director_name,num_critic_for_reviews,actor_3_facebook_likes,gross,genres,movie_title,num_voted_users,facenumber_in_poster,country,content_rating,actor_2_facebook_likes
+Jake Kasdan,81,102,1980338,Comedy|Crime|Drama|Mystery|Thriller,Zero Effect ,12366,2,USA,R,385
+Brad Anderson,204,360,1082044,Drama|Thriller,The Machinist ,281649,0,Spain,R,1000
+Paul Schrader,19,145,1100000,Crime|Drama,Light Sleeper ,3665,0,USA,R,280
+Michael Cuesta,163,688,2445646,Biography|Crime|Drama|Mystery|Thriller,Kill the Messenger ,32382,1,USA,R,963
+John Cameron Mitchell,248,192,2221809,Drama,Rabbit Hole ,40618,0,USA,PG-13,289
+Fenton Bailey,39,600,296665,Biography|Crime|Drama|Thriller,Party Monster ,12675,1,USA,R,971
+Jeremy Saulnier,322,233,3219029,Crime|Horror|Music|Thriller,Green Room ,28845,0,USA,R,442
+Billy Kent,50,276,,Comedy|Drama|Romance,The Oh in Ohio ,5494,0,USA,R,625
+James Manera,12,361,830210,Drama|Mystery|Sci-Fi,Atlas Shrugged: Who Is John Galt? ,1900,0,USA,PG-13,435
+Wes Anderson,83,65,1040879,Comedy|Crime|Drama,Bottle Rocket ,54478,0,USA,R,96
+Kevin Spacey,37,977,326308,Crime|Drama|Thriller,Albino Alligator ,6632,3,USA,R,1000
+Feroz Abbas Khan,16,14,240425,Biography|Drama|History,"Gandhi, My Father ",1311,0,India,,45
+Errol Morris,121,0,228830,Crime|Documentary|War,Standard Operating Procedure ,3329,0,USA,R,0
+Dennis Hopper,24,51,,Drama,Out of the Blue ,1599,1,Canada,R,59
+Eli Craig,324,440,223615,Comedy|Horror,Tucker and Dale vs Evil ,127842,1,Canada,R,779
+Nicholas Fackler,27,940,124720,Drama|Romance,"Lovely, Still ",1560,0,USA,PG,1000
+Richard Wallace,9,100,,Adventure|Drama|Romance,Tycoon ,989,1,USA,Approved,116
+Morgan J. Freeman,31,697,99147,Drama,Desert Blue ,1884,3,USA,R,697
+Matthew Hastings,35,383,,Comedy|Horror|Sci-Fi,Decoys ,4041,0,Canada,R,680
+M. Night Shyamalan,371,99,65069140,Horror|Thriller,The Visit ,65299,,USA,PG-13,309
+Brian De Palma,133,15,65087,Crime|Thriller|War,Redacted ,8824,0,USA,R,29
+Klaus Menzel,13,227,16066,Mystery|Romance|Thriller,Fascination ,1207,0,Germany,R,522
+,9,904,,Drama|Fantasy,Saving Grace             ,3852,1,USA,TV-MA,1000
+Oren Peli,56,14,,Horror|Sci-Fi|Thriller,Area 51 ,7888,0,USA,R,21
+Jaume Balagueró,191,78,,Drama|Horror|Thriller,Sleep Tight ,23756,0,Spain,Not Rated,93
+Paul Andrew Williams,80,141,,Comedy|Crime|Horror|Thriller,The Cottage ,10056,0,UK,Unrated,337
+Stephen Herek,19,686,,Comedy|Drama|Fantasy,Dead Like Me: Life After Death ,10734,1,USA,R,738
+Bob Saget,19,854,,Animation|Comedy,Farce of the Penguins ,4322,0,USA,R,2000
+Jim Amatulli,,483,,Drama|Family|Music,Flying By ,215,6,USA,PG-13,617
+,38,816,,Comedy|Crime|Mystery,Psych             ,67315,2,USA,TV-PG,922
+William H. Macy,44,394,37440,Comedy|Drama|Music,Rudderless ,12672,1,USA,R,508
+Barrett Esposito,3,388,,Animation|Family,Henry & Me ,83,2,USA,PG,732
+Mitch Davis,6,541,,Comedy,Christmas Eve ,1091,7,USA,PG,970
+Eric Bross,,601,,Crime|Drama|Thriller,We Have Your Husband ,216,1,USA,TV-PG,699
+Paul Schrader,64,179,,Drama|Thriller,Dying of the Light ,6964,1,Bahamas,R,316
+Vicky Jewson,8,126,,Action|Drama|Thriller|War,Born of War ,237,3,UK,R,266
+Peter Hyams,64,826,,Action|Sci-Fi|Thriller,Capricorn One ,15988,0,USA,PG,849
+Marc Bennett,2,723,,Comedy|Drama,Should've Been Romeo ,38,15,USA,,900
+Mike Mayhall,,668,,Family,Running Forever ,8,2,USA,,763
+Kevin Smith,35,1000,,Comedy|Fantasy|Horror|Thriller,Yoga Hosers ,849,7,USA,PG-13,3000
+Stanton Barrett,21,538,,Action|Horror,Navy Seals vs. Zombies ,928,1,USA,,615
+Jirí Menzel,99,4,617228,Comedy|Drama|Romance|War,I Served the King of England ,6183,1,Czech Republic,R,12
+Fatih Akin,115,269,274385,Comedy|Drama,Soul Kitchen ,29203,3,Germany,,486
+Billy Bob Thornton,104,263,24475416,Drama,Sling Blade ,72443,0,USA,R,324
+Nick Murphy,195,537,,Horror|Thriller,The Awakening ,46347,1,UK,R,579
+Eli Roth,303,581,47277326,Horror,Hostel ,138814,0,USA,R,1000
+Michael Winterbottom,122,427,1247453,Comedy|Drama,Tristram Shandy: A Cock and Bull Story ,11202,0,UK,R,887
+Jeff Nichols,359,41,1729969,Drama|Thriller,Take Shelter ,68211,0,USA,R,463
+Frank LaLoggia,130,339,1705139,Fantasy|Horror|Mystery|Thriller,Lady in White ,4695,0,USA,R,733
+Jeremy Brock,64,621,238774,Comedy|Drama,Driving Lessons ,9611,0,UK,PG-13,838
+Scott Foley,13,316,,Comedy|Crime,Let's Kill Ward's Wife ,4247,2,USA,Unrated,833
+Tobe Hooper,159,14,8025872,Comedy|Horror,The Texas Chainsaw Massacre 2 ,19234,3,USA,X,28
+Sam Peckinpah,54,372,,Biography|Drama|Romance|Western,Pat Garrett & Billy the Kid ,13467,0,USA,R,476
+Nicolas Winding Refn,440,428,778565,Crime|Drama,Only God Forgives ,83234,1,Denmark,R,1000
+Christophe Ali,7,20,,Drama,Camping sauvage ,262,0,France,,40
+Gabriela Tagliavini,4,329,,Comedy,Without Men ,1427,6,USA,R,345
+Shekar,1,0,,Comedy|Romance,Barfi ,57,2,India,,0
+Shona Auerbach,96,16,1340891,Drama|Romance,Dear Frankie ,18940,0,UK,PG-13,66
+Leonard Farlinger,8,413,,Western,All Hat ,436,2,Canada,R,580
+Michel Leclerc,87,9,513836,Comedy|Drama|Romance,The Names of Love ,6304,1,France,R,52
+Analeine Cal y Mayor,10,140,,Comedy|Drama,Treading Water ,421,1,Mexico,,480
+Tom Kalin,121,577,434417,Drama,Savage Grace ,8867,1,Spain,Not Rated,1000
+Robert Sarkies,43,3,728,Crime|Drama,Out of the Blue ,2776,0,New Zealand,,10
+Hugh Wilson,45,542,81200000,Comedy,Police Academy ,87739,0,USA,R,760
+Randal Kleiser,36,83,,Adventure|Drama|Romance,The Blue Lagoon ,50125,0,USA,R,511
+Mike Newell,84,239,52700832,Comedy|Drama|Romance,Four Weddings and a Funeral ,107923,4,UK,R,398
+Amy Heckerling,118,811,,Comedy|Drama,Fast Times at Ridgemont High ,71217,1,USA,X,901
+John Huston,42,68,,Adventure|Drama,Moby Dick ,13474,0,USA,Unrated,169
+Spike Lee,202,346,13060843,Drama,25th Hour ,149528,0,USA,R,3000
+,5,298,,Crime|Drama,Secrets and Lies             ,6762,0,USA,,560
+Lana Wachowski,120,126,3798532,Crime|Drama|Romance|Thriller,Bound ,41138,0,USA,R,441
+Darren Aronofsky,234,167,3609278,Drama,Requiem for a Dream ,573541,0,USA,R,1000
+Walter Lang,17,37,,Musical|Romance,State Fair ,2756,2,USA,Approved,135
+Carlos Saura,35,4,1687311,Drama|Musical,Tango ,2412,3,Spain,PG-13,26
+Oliver Stone,48,491,,Drama|History|Thriller|War,Salvador ,15175,0,UK,R,652
+Andrew Erwin,49,402,10429707,Comedy,Moms' Night Out ,10483,,USA,PG,416
+Richard Kelly,283,701,727883,Drama|Sci-Fi|Thriller,Donnie Darko ,580999,1,USA,R,933
+Beto Gómez,16,122,1391770,Adventure|Comedy|Western,Saving Private Perez ,1592,6,Mexico,PG-13,154
+Mike van Diem,54,3,713413,Crime|Drama|Mystery,Character ,9171,1,Netherlands,R,20
+Jonas Åkerlund,92,391,410241,Comedy|Crime|Drama,Spun ,32357,0,USA,R,601
+Todd Solondz,159,844,278821,Comedy|Drama,Life During Wartime ,5465,1,USA,R,887
+Chan-wook Park,202,38,211667,Crime|Drama,Lady Vengeance ,53508,0,South Korea,R,126
+René Féret,50,9,706622,Biography|Drama|Music|Romance,Mozart's Sister ,1213,2,France,,12
+Barry Skolnick,54,798,92191,Comedy|Drama|Sport,Mean Machine ,29463,1,UK,R,1000
+Johnnie To,98,76,49413,Action|Crime|Thriller,Exiled ,6919,0,Hong Kong,R,96
+Mateo Gil,92,327,199652,Action|Adventure|Western,Blackthorn ,7390,0,Spain,R,356
+Lukas Moodysson,112,0,181655,Crime|Drama,Lilya 4-Ever ,35464,1,Sweden,R,2
+Agnieszka Wojtowicz-Vosloo,138,329,108229,Drama|Horror|Mystery|Thriller,After.Life ,30836,1,USA,R,1000
+Kabir Sadanand,9,62,,Drama|Thriller,Fugly ,781,4,India,,82
+Milos Forman,149,425,112000000,Drama,One Flew Over the Cuckoo's Nest ,680041,0,USA,R,721
+Peter DeLuise,5,212,,Comedy,R.L. Stine's Monsterville: The Cabinet of Souls ,917,3,USA,PG,570
+Mel Brooks,39,753,,Comedy|Romance,Silent Movie ,12666,0,USA,PG,842
+Raja Menon,39,12,,Action|Drama|History|Thriller|War,Airlift ,30977,1,India,,26
+,2,505,,Drama|Family,Anne of Green Gables             ,14251,0,Canada,TV-G,517
+Ernie Barbarash,29,261,8691,Action|Adventure,Falcon Rising ,4952,1,USA,R,298
+Nick Love,111,422,26345,Action|Crime|Drama,The Sweeney ,16445,4,UK,R,1000
+Jonathan Glazer,149,100,6940281,Crime|Thriller,Sexy Beast ,43135,6,UK,R,146
+Daniel Espinosa,90,93,188870,Action|Crime|Drama|Thriller,Easy Money ,13443,1,Sweden,R,254
+Niki Caro,149,8,20772796,Drama|Family,Whale Rider ,34232,1,New Zealand,PG-13,20
+R. Balki,12,106,199228,Comedy|Drama,Paa ,7295,0,India,,374
+Ivan Engler,64,7,,Mystery|Sci-Fi|Thriller,Cargo ,15780,0,Switzerland,,9
+Joe Wright,256,394,34964818,Adventure|Family|Fantasy,Pan ,39975,4,USA,PG,559
+Kenny Ortega,57,578,,Comedy|Drama|Family|Music|Musical|Romance,High School Musical ,59254,0,USA,TV-G,632
+,8,551,,Crime|Drama,Animal Kingdom             ,3673,0,USA,,557
+Richard Kwietniowski,50,130,2542264,Comedy|Drama,Love and Death on Long Island ,3407,1,UK,PG-13,232
+Timur Bekmambetov,232,16,1487477,Fantasy|Thriller,Night Watch ,47097,0,Russia,R,28
+Neil Jordan,63,327,62549000,Crime|Drama|Romance|Thriller,The Crying Game ,41361,0,UK,R,530
+Bob Clark,75,95,105500000,Comedy,Porky's ,31260,0,Canada,R,95
+George A. Romero,274,231,101055,Horror,Survival of the Dead ,17478,0,USA,R,529
+George A. Romero,284,56,,Drama|Horror|Mystery,Night of the Living Dead ,87978,5,USA,Unrated,108
+Sofia Coppola,265,11,44566004,Drama,Lost in Translation ,321283,0,USA,R,13000
+Woody Allen,154,629,39200000,Comedy|Romance,Annie Hall ,192940,0,USA,PG,636

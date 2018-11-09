@@ -1,259 +1,379 @@
-director_name,num_critic_for_reviews,duration,actor_2_name,actor_1_facebook_likes,gross,actor_1_name,num_voted_users,actor_3_name,facenumber_in_poster,movie_imdb_link,num_user_for_reviews,language,content_rating,budget,title_year,actor_2_facebook_likes
-Walter Hill,52,100,David Carradine,2000,,Dennis Quaid,7322,Randy Quaid,0,http://www.imdb.com/title/tt0081071/?ref_=fn_tt_tt_1,78,English,R,10000000,1980,926
-James Foley,91,110,Paul Ben-Victor,258,15156200,Byron Mann,15358,Kim Chan,2,http://www.imdb.com/title/tt0142192/?ref_=fn_tt_tt_1,131,English,R,30000000,1999,218
-Jeff Nichols,368,130,Tye Sheridan,11000,21589307,Matthew McConaughey,135286,Sam Shepard,1,http://www.imdb.com/title/tt1935179/?ref_=fn_tt_tt_1,261,English,PG-13,10000000,2012,1000
-Robert Ben Garant,89,84,Thomas Lennon,655,20339754,Wendi McLendon-Covey,23928,Carlos Alazraqui,2,http://www.imdb.com/title/tt0499554/?ref_=fn_tt_tt_1,73,English,R,10000000,2007,651
-Morgan Spurlock,83,106,Zayn Malik,773,28873374,Harry Styles,22161,Niall Horan,11,http://www.imdb.com/title/tt2515086/?ref_=fn_tt_tt_1,68,English,PG,10000000,2013,734
-Neal Brennan,83,89,Noureen DeWulf,839,15102127,Rob Riggle,17790,Charles Napier,5,http://www.imdb.com/title/tt1092633/?ref_=fn_tt_tt_1,59,English,R,,2009,700
-Tuck Tucker,33,76,Vincent Schiavelli,1000,13684949,Jennifer Jason Leigh,4564,Paul Sorvino,0,http://www.imdb.com/title/tt0314166/?ref_=fn_tt_tt_1,43,English,PG,3000000,2002,811
-Simon Curtis,386,99,Toby Jones,13000,14597405,Eddie Redmayne,71679,Julia Ormond,1,http://www.imdb.com/title/tt1655420/?ref_=fn_tt_tt_1,216,English,R,6400000,2011,2000
-Richard Shepard,191,96,Philip Baker Hall,3000,12570442,Adam Scott,40514,Hope Davis,0,http://www.imdb.com/title/tt0365485/?ref_=fn_tt_tt_1,234,English,R,10000000,2005,497
-Theodore Witcher,16,104,Nia Long,962,12514138,Leonard Roberts,2801,Larenz Tate,0,http://www.imdb.com/title/tt0119572/?ref_=fn_tt_tt_1,28,English,R,10000000,1997,826
-Joel Edgerton,297,108,Allison Tolman,1000,43771291,Busy Philipps,79909,Wendell Pierce,1,http://www.imdb.com/title/tt4178092/?ref_=fn_tt_tt_1,279,English,R,5000000,2015,562
-Jim Hanon,47,108,Chad Allen,772,11703287,Chase Ellison,4360,Jack Guzman,3,http://www.imdb.com/title/tt0399862/?ref_=fn_tt_tt_1,148,English,PG-13,10000000,2005,232
-Tommy O'Haver,63,87,Kirsten Dunst,15000,11560259,Mila Kunis,15617,Carmen Electra,1,http://www.imdb.com/title/tt0192071/?ref_=fn_tt_tt_1,180,English,PG-13,22000000,2001,4000
-Mike Judge,144,89,Stephen Root,989,10824921,Gary Cole,200293,Diedrich Bader,0,http://www.imdb.com/title/tt0151804/?ref_=fn_tt_tt_1,621,English,R,10000000,1999,939
-Michael Patrick Jann,77,97,Kirstie Alley,4000,10561238,Kirsten Dunst,27265,Ellen Barkin,0,http://www.imdb.com/title/tt0157503/?ref_=fn_tt_tt_1,321,English,PG-13,10000000,1999,980
-Tim Burton,325,106,Danny Huston,11000,14479776,Christoph Waltz,55539,Jon Polito,3,http://www.imdb.com/title/tt1126590/?ref_=fn_tt_tt_1,147,English,PG-13,10000000,2014,430
-Peter Berg,100,100,Daniel Stern,4000,9801782,Jon Favreau,39331,Jeanne Tripplehorn,0,http://www.imdb.com/title/tt0124198/?ref_=fn_tt_tt_1,481,English,R,10000000,1998,796
-Joe Nussbaum,52,89,Alexa PenaVega,7000,8070311,Steve Carell,12706,Hunter Parrish,9,http://www.imdb.com/title/tt0368975/?ref_=fn_tt_tt_1,75,English,PG,10000000,2004,2000
-Brian De Palma,98,114,Dennis Franz,537,,Melanie Griffith,20113,Gregg Henry,0,http://www.imdb.com/title/tt0086984/?ref_=fn_tt_tt_1,178,English,R,10000000,1984,376
-Jorma Taccone,163,95,Will Forte,1000,8460995,Jasper Cole,35888,Powers Boothe,3,http://www.imdb.com/title/tt1470023/?ref_=fn_tt_tt_1,125,English,R,10000000,2010,622
-Stephen Frears,137,97,Benedict Wong,460,8111360,Sophie Okonedo,34848,Sergi López,1,http://www.imdb.com/title/tt0301199/?ref_=fn_tt_tt_1,203,English,R,10000000,2002,372
-Elizabeth Banks,180,94,Kate Winslet,20000,8828771,Hugh Jackman,79146,Seth MacFarlane,10,http://www.imdb.com/title/tt1333125/?ref_=fn_tt_tt_1,352,English,R,6000000,2013,14000
-Florian Henckel von Donnersmarck,321,103,Angelina Jolie Pitt,40000,67631157,Johnny Depp,176606,Rufus Sewell,0,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1,374,English,PG-13,100000000,2010,11000
-Jeff Lowell,100,95,William Morgan Sheppard,939,7563670,Stephen Root,21268,Wendi McLendon-Covey,0,http://www.imdb.com/title/tt0785007/?ref_=fn_tt_tt_1,53,English,PG-13,10000000,2008,702
-Lorene Scafaria,265,101,Mark Moses,7000,6619173,Steve Carell,87203,Rob Huebel,2,http://www.imdb.com/title/tt1307068/?ref_=fn_tt_tt_1,221,English,R,10000000,2012,353
-Miguel Arteta,212,87,Stephen Root,1000,6857503,Kurtwood Smith,32697,Alia Shawkat,1,http://www.imdb.com/title/tt1477837/?ref_=fn_tt_tt_1,85,English,R,,2011,939
-,68,40,T.J. Thyne,1000,,Michaela Conlin,111506,Tamara Taylor,2,http://www.imdb.com/title/tt0460627/?ref_=fn_tt_tt_1,173,English,TV-14,,,722
-Tony Kaye,162,101,Beverly D'Angelo,1000,6712241,Ethan Suplee,782437,Stacy Keach,2,http://www.imdb.com/title/tt0120586/?ref_=fn_tt_tt_1,1420,English,R,7500000,1998,816
-Marcus Dunstan,147,82,Johanna Braddy,1000,6842058,Daniel Sharman,36029,Lee Tergesen,0,http://www.imdb.com/title/tt1748227/?ref_=fn_tt_tt_1,99,English,R,10000000,2012,581
-Timothy Björklund,33,74,Kelsey Grammer,886,6491350,Nathan Lane,1231,Jerry Stiller,0,http://www.imdb.com/title/tt0350194/?ref_=fn_tt_tt_1,26,English,PG,10000000,2004,808
-François Girard,94,130,Clotilde Mollet,24,9473382,Johannes Silberschneider,26832,Carlo Cecchi,3,http://www.imdb.com/title/tt0120802/?ref_=fn_tt_tt_1,247,French,R,10000000,1998,3
-David Lynch,143,112,Richard Farnsworth,874,6197866,Sissy Spacek,63733,Everett McGill,0,http://www.imdb.com/title/tt0166896/?ref_=fn_tt_tt_1,414,English,G,10000000,1999,262
-Scott Kalvert,38,96,James Franco,12000,6044618,Norman Reedus,6200,Frankie Muniz,1,http://www.imdb.com/title/tt0231448/?ref_=fn_tt_tt_1,92,English,R,10000000,2002,11000
-Jason Bateman,126,89,Philip Baker Hall,628,7764027,Beth Grant,38459,Patricia Belcher,0,http://www.imdb.com/title/tt2170299/?ref_=fn_tt_tt_1,119,English,R,10000000,2013,497
-David Schwimmer,168,100,Iddo Goldberg,427,5998971,Dylan Moran,58509,India de Beaufort,0,http://www.imdb.com/title/tt0425413/?ref_=fn_tt_tt_1,143,English,PG-13,,2007,269
-Allan Arkush,19,78,Randy Quaid,753,,Bernadette Peters,1040,Christopher Guest,0,http://www.imdb.com/title/tt0082507/?ref_=fn_tt_tt_1,31,English,PG,10000000,1981,695
-Mike Binder,91,121,Gillian Jacobs,1000,21569041,Jennifer Ehle,8058,Jillian Estell,2,http://www.imdb.com/title/tt2883434/?ref_=fn_tt_tt_1,57,English,PG-13,9000000,2014,837
-Eric Bross,46,85,Tamala Jones,719,4356743,Jerry Stiller,3662,Dave Foley,2,http://www.imdb.com/title/tt0279286/?ref_=fn_tt_tt_1,79,English,PG,16000000,2001,405
-Werner Herzog,198,120,Toby Huss,23000,5484375,Christian Bale,84641,François Chau,0,http://www.imdb.com/title/tt0462504/?ref_=fn_tt_tt_1,205,English,PG-13,10000000,2006,342
-Dan Fogelman,139,106,Jennifer Garner,14000,5348317,Al Pacino,20810,Melissa Benoist,0,http://www.imdb.com/title/tt1772288/?ref_=fn_tt_tt_1,100,English,R,10000000,2015,3000
-Jay Duplass,182,83,Evan Ross,2000,4244155,Judy Greer,56005,Rae Dawn Chong,5,http://www.imdb.com/title/tt1588334/?ref_=fn_tt_tt_1,112,English,R,10000000,2011,616
-Luca Guadagnino,181,120,Waris Ahluwalia,144,5004648,Flavio Parenti,14031,Alba Rohrwacher,1,http://www.imdb.com/title/tt1226236/?ref_=fn_tt_tt_1,114,Italian,R,10000000,2009,110
-John Putch,23,111,Diedrich Bader,823,3333823,Robert Picardo,5612,Esai Morales,0,http://www.imdb.com/title/tt1985017/?ref_=fn_tt_tt_1,122,English,PG-13,10000000,2012,759
-Peter Medak,30,100,Michael Wincott,10000,3275585,Gary Oldman,10735,Lena Olin,1,http://www.imdb.com/title/tt0107983/?ref_=fn_tt_tt_1,88,English,R,11500000,1993,721
-Steven Soderbergh,111,89,Lesley Ann Warren,402,3193102,Peter Fonda,24412,William Lucking,0,http://www.imdb.com/title/tt0165854/?ref_=fn_tt_tt_1,240,English,R,9000000,1999,296
-Paul Haggis,287,115,Loretta Devine,3000,54557348,Don Cheadle,361169,Jennifer Esposito,0,http://www.imdb.com/title/tt0375679/?ref_=fn_tt_tt_1,1624,English,R,6500000,2004,912
-Terence Davies,96,135,Anthony LaPaglia,902,3041803,Eric Stoltz,6377,Elizabeth McGovern,0,http://www.imdb.com/title/tt0200720/?ref_=fn_tt_tt_1,181,English,PG,10000000,2000,576
-Harley Cokeliss,27,92,Tracey Walter,754,3060858,Cliff Robertson,1768,Dennis Burkley,4,http://www.imdb.com/title/tt0093483/?ref_=fn_tt_tt_1,37,English,R,10000000,1987,324
-Victor Salva,44,120,Tim DeKay,634,1055654,Scott Mechlowicz,20426,Agnes Bruckner,1,http://www.imdb.com/title/tt0438315/?ref_=fn_tt_tt_1,175,English,PG-13,10000000,2006,436
-Tom Brady,49,97,Kevin Nealon,982,2331318,Don Johnson,9541,Nicholas Turturro,1,http://www.imdb.com/title/tt1411664/?ref_=fn_tt_tt_1,64,English,R,10000000,2011,503
-Spike Lee,57,135,Michael Rapaport,1000,2185266,Gillian White,8720,Jada Pinkett Smith,0,http://www.imdb.com/title/tt0215545/?ref_=fn_tt_tt_1,186,English,R,10000000,2000,975
-Jason Zada,185,93,Stephanie Vogt,533,26583369,Eoin Macken,20837,Gen Seto,1,http://www.imdb.com/title/tt3387542/?ref_=fn_tt_tt_1,127,English,PG-13,10000000,2016,35
-Franklin J. Schaffner,2,118,William Hootkins,902,800000,Frank Langella,892,John Gielgud,0,http://www.imdb.com/title/tt0083113/?ref_=fn_tt_tt_1,21,English,PG,14000000,1981,488
-Noah Baumbach,270,97,Maria Dizzia,6000,7574066,Naomi Watts,30325,Dree Hemingway,2,http://www.imdb.com/title/tt1791682/?ref_=fn_tt_tt_1,96,English,R,10000000,2014,139
-Chris Weitz,94,98,Eddie 'Piolin' Sotelo,749,1754319,Demián Bichir,13174,Robert Peters,0,http://www.imdb.com/title/tt1554091/?ref_=fn_tt_tt_1,81,English,PG-13,10000000,2011,252
-David Cronenberg,157,98,John Neville,530,1641788,Miranda Richardson,30096,Lynn Redgrave,0,http://www.imdb.com/title/tt0278731/?ref_=fn_tt_tt_1,213,English,R,8000000,2002,387
-Eric Blakeney,49,101,Oliver Platt,14000,1631839,Liam Neeson,5936,Mitch Pileggi,0,http://www.imdb.com/title/tt0171356/?ref_=fn_tt_tt_1,91,English,R,10000000,2000,1000
-Douglas McGrath,80,132,Anne Hathaway,16000,1309849,Charlie Hunnam,9395,Jim Broadbent,1,http://www.imdb.com/title/tt0309912/?ref_=fn_tt_tt_1,103,English,PG,10000000,2002,11000
-Ariel Vromen,221,106,James Franco,11000,1939441,Chris Evans,55567,Robert Davi,1,http://www.imdb.com/title/tt1491044/?ref_=fn_tt_tt_1,144,English,R,10000000,2012,11000
-,53,55,Olaf Lubaszenko,20,447093,Krystyna Janda,12591,Olgierd Lukaszewicz,0,http://www.imdb.com/title/tt0092337/?ref_=fn_tt_tt_1,37,Polish,TV-MA,,,3
-Rakesh Roshan,20,168,Rekha,307,,Naseeruddin Shah,12411,Sharat Saxena,0,http://www.imdb.com/title/tt0432637/?ref_=fn_tt_tt_1,110,Hindi,Not Rated,10000000,2006,200
-John Waters,90,87,Melanie Griffith,975,1276984,Alicia Witt,11403,Kevin Nealon,2,http://www.imdb.com/title/tt0173716/?ref_=fn_tt_tt_1,150,English,R,10000000,2000,537
-William Friedkin,376,98,Scott A. Martin,11000,1987762,Matthew McConaughey,59297,Carol Sutton,0,http://www.imdb.com/title/tt1726669/?ref_=fn_tt_tt_1,216,English,R,11000000,2011,414
-Derrick Borte,144,96,Gary Cole,2000,1474508,Demi Moore,33473,Robert Pralgo,4,http://www.imdb.com/title/tt1285309/?ref_=fn_tt_tt_1,88,English,R,5000000,2009,989
-Richard Kwietniowski,82,104,Minnie Driver,22000,1011054,Philip Seymour Hoffman,10585,Maury Chaykin,1,http://www.imdb.com/title/tt0285861/?ref_=fn_tt_tt_1,83,English,R,10000000,2003,893
-Bob Odenkirk,51,93,Lee Majors,966,900926,Jenna Fischer,9517,Will Forte,2,http://www.imdb.com/title/tt0784972/?ref_=fn_tt_tt_1,46,English,R,10000000,2007,799
-Kar-Wai Wong,192,95,Norah Jones,20000,866778,Natalie Portman,44208,Adriane Lenox,3,http://www.imdb.com/title/tt0765120/?ref_=fn_tt_tt_1,117,English,PG-13,10000000,2007,329
-John Turturro,36,119,Ben Gazzara,816,836641,Beverly D'Angelo,1402,George DiCenzo,0,http://www.imdb.com/title/tt0120709/?ref_=fn_tt_tt_1,40,English,R,,1998,623
-Guy Ritchie,71,89,Jeanne Tripplehorn,990,598645,Bruce Greenwood,13145,David Thornton,0,http://www.imdb.com/title/tt0291502/?ref_=fn_tt_tt_1,215,English,R,10000000,2002,711
-Joshua Seftel,79,107,Sergej Trifunovic,603,578527,Bashar Rahal,20008,Ned Bellamy,3,http://www.imdb.com/title/tt0884224/?ref_=fn_tt_tt_1,112,English,R,10000000,2008,175
-Stephen Chow,246,85,Karen Mok,478,488872,Wei Zhao,56923,Kwok-Kwan Chan,2,http://www.imdb.com/title/tt0286112/?ref_=fn_tt_tt_1,243,Cantonese,PG,10000000,2001,83
-Vincent Gallo,115,93,Cheryl Tiegs,787,365734,Vincent Gallo,11487,Anna Vareschi,0,http://www.imdb.com/title/tt0330099/?ref_=fn_tt_tt_1,226,English,Not Rated,10000000,2003,96
-Claude Chabrol,34,101,François Cluzet,678,231417,Isabelle Huppert,1649,Michel Serrault,0,http://www.imdb.com/title/tt0120018/?ref_=fn_tt_tt_1,21,French,,60000000,1997,541
-Jon Stewart,129,103,Claire Foy,374,3093491,Numan Acar,8307,Haluk Bilginer,0,http://www.imdb.com/title/tt2752688/?ref_=fn_tt_tt_1,37,English,R,5000000,2014,362
-Bigas Luna,22,101,Aitana Sánchez-Gijón,837,244465,Olivier Martinez,1135,Romane Bohringer,1,http://www.imdb.com/title/tt0129923/?ref_=fn_tt_tt_1,14,French,,,1997,130
-Ralph Fiennes,196,123,Ashraf Barhom,18000,756452,Gerard Butler,27009,Lubna Azabal,0,http://www.imdb.com/title/tt1372686/?ref_=fn_tt_tt_1,118,English,R,,2011,451
-Dan Harris,73,111,Ryan Donowho,374,228524,Kip Pardue,8708,Larry Fessenden,2,http://www.imdb.com/title/tt0373024/?ref_=fn_tt_tt_1,56,English,R,4000000,2004,181
-Mel Smith,43,86,Danny Dyer,893,226792,Minnie Driver,3080,Mary McCormack,2,http://www.imdb.com/title/tt0253126/?ref_=fn_tt_tt_1,44,English,R,10000000,2001,798
-Bobcat Goldthwait,129,99,Daryl Sabara,49000,221210,Robin Williams,31964,Henry Simmons,1,http://www.imdb.com/title/tt1262981/?ref_=fn_tt_tt_1,129,English,R,,2009,640
-Christopher Smith,200,90,Toby Stephens,798,136432,Danny Dyer,31890,Laura Harris,0,http://www.imdb.com/title/tt0464196/?ref_=fn_tt_tt_1,194,English,R,5000000,2006,769
-Stuart Gordon,79,82,Dulé Hill,1000,131617,Joe Mantegna,9971,Jeffrey Combs,1,http://www.imdb.com/title/tt0443496/?ref_=fn_tt_tt_1,119,English,R,10000000,2005,922
-Jake Scott,112,110,Ally Sheedy,17000,152857,Kristen Stewart,19979,Kerry Cahill,3,http://www.imdb.com/title/tt1183923/?ref_=fn_tt_tt_1,56,English,R,,2010,793
-Alan Metter,17,83,Michael Winslow,16000,126247,Christopher Lee,24958,G.W. Bailey,0,http://www.imdb.com/title/tt0110857/?ref_=fn_tt_tt_1,103,English,PG,6200000,1994,542
-Jeb Stuart,20,128,Nate Parker,665,82739,Ricky Schroder,465,Lee Norris,0,http://www.imdb.com/title/tt1210039/?ref_=fn_tt_tt_1,3,English,PG-13,,2010,664
-Rafa Lara,12,125,Andrés Montiel,78,169379,Jorge Luis Moreno,683,William Miller,1,http://www.imdb.com/title/tt2553908/?ref_=fn_tt_tt_1,3,Spanish,R,10000000,2013,61
-Michael Radford,59,97,Jared Gilman,962,,Chris Noth,2041,James Brolin,0,http://www.imdb.com/title/tt2113659/?ref_=fn_tt_tt_1,18,English,PG-13,10000000,2014,545
-Arthur Hiller,29,86,Harvey Weinstein,795,15447,Eric Idle,2971,Ryan O'Neal,0,http://www.imdb.com/title/tt0118577/?ref_=fn_tt_tt_1,85,English,R,10000000,1997,474
-Michael Meredith,23,91,Justin Timberlake,12000,19348,Jeff Bridges,2941,Ted Danson,2,http://www.imdb.com/title/tt1007018/?ref_=fn_tt_tt_1,11,English,PG-13,10000000,2009,3000
-Julio DePietro,22,90,Scott Porter,806,100503,Adrian Martinez,7759,Aaron Yoo,2,http://www.imdb.com/title/tt1247662/?ref_=fn_tt_tt_1,20,English,R,8000000,2009,690
-Katherine Dieckmann,43,90,Minnie Driver,1000,92900,Stephanie Szostak,3662,Anthony Edwards,1,http://www.imdb.com/title/tt1220220/?ref_=fn_tt_tt_1,23,English,PG-13,5000000,2009,893
-William Dear,16,94,Corbin Bleu,835,140987,Madison Pettis,361,Sandra Echeverría,3,http://www.imdb.com/title/tt1128071/?ref_=fn_tt_tt_1,4,English,PG,,2008,632
-Kim Farrant,84,112,Reef Ireland,147,,Nicholas Hamilton,5637,Sean Keenan,0,http://www.imdb.com/title/tt2325977/?ref_=fn_tt_tt_1,57,English,R,10000000,2015,52
-Marcus Raboy,4,85,Tamala Jones,706,,Mike Epps,1097,Glenn Plummer,2,http://www.imdb.com/title/tt1210071/?ref_=fn_tt_tt_1,10,English,R,,2009,405
-Scott Marshall,20,93,Drew Waters,906,5561,Drew Fuller,4995,Larry Miller,1,http://www.imdb.com/title/tt0887719/?ref_=fn_tt_tt_1,34,English,PG-13,10000000,2007,848
-Álex de la Iglesia,71,104,Leonor Watling,439,3607,Jim Carter,22753,Danny Sapani,4,http://www.imdb.com/title/tt0488604/?ref_=fn_tt_tt_1,94,English,R,10000000,2008,161
-Andrew Traucki,102,94,Gyton Grantley,122,,Damian Walshe-Howling,11950,Adrienne Pickering,0,http://www.imdb.com/title/tt1320291/?ref_=fn_tt_tt_1,89,English,R,,2010,109
-Michael Clancy,27,85,Rip Torn,11000,70527,Zooey Deschanel,7690,Kelly Preston,6,http://www.imdb.com/title/tt0349416/?ref_=fn_tt_tt_1,68,English,R,6500000,2004,826
-Patrick Lussier,62,99,Craig Fairbrass,298,,Teryl Rothery,11285,Adrian Holmes,0,http://www.imdb.com/title/tt0496436/?ref_=fn_tt_tt_1,82,English,PG-13,10000000,2007,258
-Robert Adetuyi,5,91,Mishael Morgan,485,,Shane Pollard,1642,Chase Armitage,0,http://www.imdb.com/title/tt1568139/?ref_=fn_tt_tt_1,11,English,PG-13,10000000,2011,152
-Kari Skogland,76,117,Kevin Zegers,5000,,Jim Sturgess,9585,Michael McElhatton,1,http://www.imdb.com/title/tt1097643/?ref_=fn_tt_tt_1,38,English,R,6000000,2008,2000
-Taedong Park,8,85,Tom Arnold,1000,,Drake Bell,162,Amanda Troop,0,http://www.imdb.com/title/tt2722786/?ref_=fn_tt_tt_1,2,English,,10000000,2014,618
-Paul Schrader,75,106,Ayelet Zurer,30000,,Veronica Ferres,3075,Derek Jacobi,2,http://www.imdb.com/title/tt0479341/?ref_=fn_tt_tt_1,31,English,R,10000000,2008,744
-Benedikt Erlingsson,66,81,Charlotte Bøving,63,11835,Ingvar Eggert Sigurðsson,1920,Sigríður María Egilsdóttir,0,http://www.imdb.com/title/tt3074732/?ref_=fn_tt_tt_1,7,Icelandic,,10000000,2013,10
-Gurinder Chadha,31,100,Mark Addy,1000,,Sendhil Ramamurthy,1250,Shabana Azmi,1,http://www.imdb.com/title/tt1319716/?ref_=fn_tt_tt_1,16,English,PG-13,10000000,2010,891
-Jason Connery,32,90,Henry Rollins,1000,,Ray Winstone,5715,Jason London,4,http://www.imdb.com/title/tt1147687/?ref_=fn_tt_tt_1,60,English,R,10000000,2009,898
-Vic Sarin,17,116,Jesse Moss,183,,Jimi Mistry,2223,John Light,2,http://www.imdb.com/title/tt0213985/?ref_=fn_tt_tt_1,27,English,R,10000000,2007,136
-Jim Issa,4,84,Luke Perry,670,,Elaine Hendrix,553,Jon Gries,5,http://www.imdb.com/title/tt1070781/?ref_=fn_tt_tt_1,3,English,PG-13,10000000,2010,608
-Jee-woon Kim,152,135,Woo-sung Jung,398,128486,Kang-ho Song,26156,Dal-su Oh,0,http://www.imdb.com/title/tt0901487/?ref_=fn_tt_tt_1,74,Korean,R,10000000,2008,149
-Douglas Aarniokoski,129,84,Katrina Bowden,1000,,Boris Kodjoe,7286,Kathleen Turner,0,http://www.imdb.com/title/tt1913166/?ref_=fn_tt_tt_1,75,English,R,10000000,2013,948
-William Phillips,15,89,Callum Rennie,764,,Tyler Mane,3015,Dustin Milligan,1,http://www.imdb.com/title/tt1376195/?ref_=fn_tt_tt_1,27,English,,10000000,2010,716
-Greg Mottola,248,107,Martin Starr,17000,16025394,Kristen Stewart,131180,Wendie Malick,6,http://www.imdb.com/title/tt1091722/?ref_=fn_tt_tt_1,220,English,R,,2009,985
-Andy Garcia,52,144,Victor Rivers,786,2483955,Danny Pino,8369,Enrique Murciano,0,http://www.imdb.com/title/tt0343996/?ref_=fn_tt_tt_1,165,English,R,9600000,2005,228
-Steve Carr,55,98,Mike Epps,723,57176582,John Witherspoon,27492,Rolando Molina,1,http://www.imdb.com/title/tt0195945/?ref_=fn_tt_tt_1,84,English,R,9500000,2000,706
-Sarik Andreasyan,30,94,Jordana Brewster,4000,,Hayden Christensen,12372,Akon,1,http://www.imdb.com/title/tt2923316/?ref_=fn_tt_tt_1,42,English,R,10000000,2014,4000
-Lewis Gilbert,130,117,Burt Kwouk,742,43100000,Donald Pleasence,75280,Desmond Llewelyn,0,http://www.imdb.com/title/tt0062512/?ref_=fn_tt_tt_1,267,English,Approved,9500000,1967,462
-Julian Gilbey,29,102,Alfie Allen,31000,,Mem Ferda,5865,Malese Jow,7,http://www.imdb.com/title/tt2556874/?ref_=fn_tt_tt_1,12,English,R,10000000,2014,1000
-Michael Haneke,447,127,Emmanuelle Riva,678,225377,Isabelle Huppert,70382,Jean-Louis Trintignant,1,http://www.imdb.com/title/tt1602620/?ref_=fn_tt_tt_1,190,French,PG-13,8900000,2012,432
-Gary Sherman,66,98,Heather O'Rourke,1000,14114488,Tom Skerritt,13190,Zelda Rubinstein,0,http://www.imdb.com/title/tt0095889/?ref_=fn_tt_tt_1,114,English,PG-13,10500000,1988,887
-Valeri Milev,18,88,Roger Cross,557,,Daniella Alonso,1763,Jesse Garcia,0,http://www.imdb.com/title/tt1612319/?ref_=fn_tt_tt_1,26,English,R,9500000,2015,290
-Stanley Kramer,61,197,Sid Caesar,924,46300000,Jonathan Winters,29323,Spencer Tracy,0,http://www.imdb.com/title/tt0057193/?ref_=fn_tt_tt_1,344,English,Approved,9400000,1963,898
-Pedro Almodóvar,232,121,Lola Dueñas,148,12899702,Carmen Maura,76681,Antonio de la Torre,1,http://www.imdb.com/title/tt0441909/?ref_=fn_tt_tt_1,228,Spanish,R,,2006,114
-Gerald Potterton,62,90,Joe Flaherty,187,,John Vernon,23516,Don Francks,0,http://www.imdb.com/title/tt0082509/?ref_=fn_tt_tt_1,147,English,R,9300000,1981,176
-Jared Hess,106,89,Michael Angarano,33000,113155,Jizelle Jade,9006,Héctor Jiménez,7,http://www.imdb.com/title/tt1161418/?ref_=fn_tt_tt_1,54,English,PG-13,,2009,947
-Richard Loncraine,56,104,Jim Broadbent,21000,2600000,Robert Downey Jr.,11612,Kristin Scott Thomas,3,http://www.imdb.com/title/tt0114279/?ref_=fn_tt_tt_1,88,English,R,6000000,1995,1000
-David Hackl,48,94,Michaela McManus,826,,Scott Glenn,4486,Luisa D'Oliveira,4,http://www.imdb.com/title/tt1694021/?ref_=fn_tt_tt_1,38,English,R,10000000,2015,476
-Anurag Basu,41,90,Steven Michael Quezada,594,1602466,Bárbara Mori,9673,Kabir Bedi,0,http://www.imdb.com/title/tt1198101/?ref_=fn_tt_tt_1,106,English,,600000000,2010,412
-Lars von Trier,439,130,Kirsten Dunst,10000,3029870,Alexander Skarsgård,128729,Charlotte Rampling,1,http://www.imdb.com/title/tt1527186/?ref_=fn_tt_tt_1,551,English,R,7400000,2011,4000
-Kriv Stenders,54,92,Keisha Castle-Hughes,509,,Noah Taylor,13003,Luke Ford,0,http://www.imdb.com/title/tt0803061/?ref_=fn_tt_tt_1,80,English,PG,8500000,2011,446
-Yash Chopra,50,176,Katrina Kaif,8000,3047539,Shah Rukh Khan,42296,Vic Waghorn,4,http://www.imdb.com/title/tt2176013/?ref_=fn_tt_tt_1,286,Hindi,Not Rated,7217600,2012,3000
-Ridley Scott,392,116,Yaphet Kotto,1000,78900000,Tom Skerritt,563827,Bolaji Badejo,0,http://www.imdb.com/title/tt0078748/?ref_=fn_tt_tt_1,1110,English,R,11000000,1979,581
-Tobe Hooper,277,88,Edwin Neal,383,30859000,Gunnar Hansen,96410,Marilyn Burns,0,http://www.imdb.com/title/tt0072271/?ref_=fn_tt_tt_1,826,English,R,83532,1974,371
-Floria Sigismondi,259,106,Scout Taylor-Compton,17000,3571735,Kristen Stewart,39260,Johnny Lewis,2,http://www.imdb.com/title/tt1017451/?ref_=fn_tt_tt_1,129,English,R,10000000,2010,908
-Norman Jewison,66,181,Paul Michael Glaser,402,50000000,Topol,29839,Rosalind Harris,0,http://www.imdb.com/title/tt0067093/?ref_=fn_tt_tt_1,150,English,G,9000000,1971,343
-Terence Young,129,130,Earl Cameron,244,63600000,Desmond Llewelyn,82073,Lois Maxwell,1,http://www.imdb.com/title/tt0059800/?ref_=fn_tt_tt_1,275,English,Approved,9000000,1965,189
-Joseph Kahn,115,93,Shanley Caswell,14000,,Josh Hutcherson,12520,Parker Bagley,2,http://www.imdb.com/title/tt1701990/?ref_=fn_tt_tt_1,76,English,R,10000000,2011,383
-Ferzan Ozpetek,81,110,Alessandro Preziosi,580,,Riccardo Scamarcio,8667,Lunetta Savino,9,http://www.imdb.com/title/tt1405810/?ref_=fn_tt_tt_1,29,Italian,,,2010,26
-F. Gary Gray,29,123,Jada Pinkett Smith,890,36049108,Vivica A. Fox,10139,Blair Underwood,4,http://www.imdb.com/title/tt0117603/?ref_=fn_tt_tt_1,70,English,R,9000000,1996,851
-Malcolm D. Lee,32,120,Sanaa Lathan,1000,34074895,Harold Perrineau,6525,Jarrod Bunch,6,http://www.imdb.com/title/tt0168501/?ref_=fn_tt_tt_1,79,English,R,9000000,1999,886
-Tom Holland,142,87,Alex Vincent,311,33244684,Catherine Hicks,62038,Dinah Manoff,0,http://www.imdb.com/title/tt0094862/?ref_=fn_tt_tt_1,281,English,R,9000000,1988,189
-Michael Moore,263,123,Tucker Albrizzi,909,24530513,Michael Moore,66610,Bill Clinton,1,http://www.imdb.com/title/tt0386032/?ref_=fn_tt_tt_1,429,English,PG-13,9000000,2007,203
-James DeMonaco,285,103,Zach Gilford,2000,71519230,Noel Gugliemi,92364,Roberta Valderrama,0,http://www.imdb.com/title/tt2975578/?ref_=fn_tt_tt_1,244,English,R,9000000,2014,971
-Kris Isacsson,64,91,Lauren German,3000,20035310,Rosario Dawson,12324,Shawn Hatosy,1,http://www.imdb.com/title/tt0186975/?ref_=fn_tt_tt_1,173,English,PG-13,9000000,2000,683
-Danny Leiner,150,88,Fred Willard,982,18225165,Ethan Embry,155262,Paula Garcés,2,http://www.imdb.com/title/tt0366551/?ref_=fn_tt_tt_1,316,English,R,9000000,2004,729
-Rod Lurie,136,126,Gary Oldman,12000,17804273,Jeff Bridges,20449,William Petersen,0,http://www.imdb.com/title/tt0208874/?ref_=fn_tt_tt_1,370,English,R,20000000,2000,10000
-Ben Younger,132,120,Nia Long,14000,16938179,Vin Diesel,41313,Herbert Russell,3,http://www.imdb.com/title/tt0181984/?ref_=fn_tt_tt_1,246,English,R,8000000,2000,826
-John Landis,71,116,Denholm Elliott,392,90400000,Don Ameche,102895,Ralph Bellamy,2,http://www.imdb.com/title/tt0086465/?ref_=fn_tt_tt_1,159,English,R,,1983,249
-Glen Morgan,186,94,Crystal Lowe,607,16235293,Oliver Hudson,19918,Andrea Martin,0,http://www.imdb.com/title/tt0454082/?ref_=fn_tt_tt_1,278,English,R,9000000,2006,318
-Daniel Taplitz,39,85,Tate Taylor,911,11827301,Jennifer Esposito,4247,Patrick Cranshaw,1,http://www.imdb.com/title/tt0349169/?ref_=fn_tt_tt_1,26,English,PG-13,,2004,150
-Kenneth Branagh,46,137,Derek Jacobi,591,10161099,Brian Blessed,23441,Danny Webb,1,http://www.imdb.com/title/tt0097499/?ref_=fn_tt_tt_1,108,English,PG-13,9000000,1989,520
-Tamara Jenkins,201,114,David Zayas,22000,6610326,Philip Seymour Hoffman,32188,Gbenga Akinnagbe,0,http://www.imdb.com/title/tt0775529/?ref_=fn_tt_tt_1,127,English,R,,2007,929
-Linda Mendoza,32,76,Freddy Rodríguez,591,6126237,Carlos Ponce,3419,Maria Conchita Alonso,3,http://www.imdb.com/title/tt0323572/?ref_=fn_tt_tt_1,41,English,PG,,2003,579
-Christopher McQuarrie,117,119,Nicky Katt,187,6047856,Kristin Lehman,27536,Dylan Kussman,4,http://www.imdb.com/title/tt0202677/?ref_=fn_tt_tt_1,327,English,R,8500000,2000,127
-Burr Steers,136,99,Rory Culkin,1000,4681503,Kieran Culkin,29058,Bill Irwin,1,http://www.imdb.com/title/tt0280760/?ref_=fn_tt_tt_1,238,English,R,9000000,2002,710
-Hart Bochner,15,79,Matt Ross,4000,4350774,Jon Favreau,10476,Chris Young,3,http://www.imdb.com/title/tt0110759/?ref_=fn_tt_tt_1,52,English,PG-13,8000000,1994,248
-Michael O. Sajbel,46,114,Drew Fuller,970,3420871,Bill Cobbs,14100,Mircea Monroe,2,http://www.imdb.com/title/tt0482629/?ref_=fn_tt_tt_1,81,English,PG,,2006,906
-,1,30,Katherine Kelly Lang,177,,Ronn Moss,5478,Hunter Tylo,0,http://www.imdb.com/title/tt0092325/?ref_=fn_tt_tt_1,54,English,TV-14,,,170
-Stewart Raffill,41,91,John Carradine,1000,,Anjelica Huston,7767,Robert Urich,4,http://www.imdb.com/title/tt0087451/?ref_=fn_tt_tt_1,56,English,PG,9000000,1984,300
-Davis Guggenheim,65,95,John Doman,702,2955039,Emma Bell,3624,Carly Schroeder,1,http://www.imdb.com/title/tt0441007/?ref_=fn_tt_tt_1,27,English,PG-13,9000000,2007,616
-Bart Freundlich,100,103,Garry Shandling,745,1530535,Billy Crudup,7833,Dagmara Dominczyk,3,http://www.imdb.com/title/tt0427968/?ref_=fn_tt_tt_1,63,English,R,9000000,2005,591
-Andrew Fleming,129,92,Amy Poehler,1000,4881867,Steve Coogan,15200,David Arquette,1,http://www.imdb.com/title/tt1104733/?ref_=fn_tt_tt_1,76,English,R,9000000,2008,1000
-Todd Haynes,103,124,Eddie Izzard,23000,1043487,Christian Bale,27766,Janet McTeer,3,http://www.imdb.com/title/tt0120879/?ref_=fn_tt_tt_1,314,English,R,,1998,776
-Hong-jin Na,77,156,Jun Kunimura,45,770629,Jung-min Hwang,2379,Woo-hee Chun,0,http://www.imdb.com/title/tt5215952/?ref_=fn_tt_tt_1,24,Korean,Not Rated,,2016,5
-Kevin Tancharoen,67,84,Heather Morris,2000,11860839,Lea Michele,5156,Kevin McHale,0,http://www.imdb.com/title/tt1922612/?ref_=fn_tt_tt_1,21,English,PG,9000000,2011,892
-Chatrichalerm Yukol,31,300,Chatchai Plengpanich,7,454255,Sarunyu Wongkrachang,1666,Mai Charoenpura,3,http://www.imdb.com/title/tt0290879/?ref_=fn_tt_tt_1,47,Thai,R,400000000,2001,6
-Dario Argento,76,120,Adrienne Barbeau,982,349618,John Amos,4302,Sally Kirkland,1,http://www.imdb.com/title/tt0100827/?ref_=fn_tt_tt_1,45,English,R,9000000,1990,602
-Eric Lavaine,17,98,Julie Engelbrecht,186,,Lambert Wilson,1673,Lionel Abelanski,1,http://www.imdb.com/title/tt3202120/?ref_=fn_tt_tt_1,1,French,,,2014,41
-Mike Leigh,81,121,Ruth Sheen,149,112935,Lesley Manville,8161,Gary McDonald,0,http://www.imdb.com/title/tt0286261/?ref_=fn_tt_tt_1,94,English,R,9000000,2002,44
-Marc Forby,26,97,Will Patton,679,883887,Q'orianka Kilcher,1201,Shaun Evans,3,http://www.imdb.com/title/tt1185344/?ref_=fn_tt_tt_1,14,English,PG,9000000,2009,537
-Peter Cattaneo,24,86,Vince Colosimo,185,13751,Jacqueline McKenzie,813,Peter Callan,0,http://www.imdb.com/title/tt0420835/?ref_=fn_tt_tt_1,6,English,PG,11400000,2006,62
-Scott Mann,44,93,Joshua Mikel,22000,,Robert De Niro,16198,D.B. Sweeney,1,http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,57,English,R,19000000,2015,1000
-Ole Christian Madsen,80,45,Thure Lindhardt,573,145109,Lars Mikkelsen,14247,Christian Berkel,1,http://www.imdb.com/title/tt0920458/?ref_=fn_tt_tt_1,44,Danish,Not Rated,45000000,2008,197
-Meiert Avis,41,97,Kip Pardue,922,1046166,Fisher Stevens,2599,Perrey Reeves,4,http://www.imdb.com/title/tt0434424/?ref_=fn_tt_tt_1,45,English,PG-13,9000000,2005,374
-Julian Jarrold,91,102,Warren Clarke,10000,,Andrew Garfield,9305,John Henshaw,0,http://www.imdb.com/title/tt1259574/?ref_=fn_tt_tt_1,44,English,Not Rated,,2009,281
-André Téchiné,66,105,Ronit Elkabetz,963,2874,Catherine Deneuve,1219,Émilie Dequenne,1,http://www.imdb.com/title/tt1183672/?ref_=fn_tt_tt_1,14,French,Unrated,,2009,168
-Emily Young,19,103,Erika Christensen,4000,,Sarah Michelle Gellar,10100,Jonathan Tucker,1,http://www.imdb.com/title/tt1068678/?ref_=fn_tt_tt_1,42,English,R,9000000,2009,931
-Peter Faiman,35,93,Linda Kozlowski,442,174635000,Paul Hogan,74743,David Gulpilil,1,http://www.imdb.com/title/tt0090555/?ref_=fn_tt_tt_1,93,English,PG-13,8800000,1986,162
-Martyn Pick,19,76,Steven Waddington,722,,Sean Pertwee,4990,Donald Sumpter,0,http://www.imdb.com/title/tt1679332/?ref_=fn_tt_tt_1,64,English,R,,2010,212
-Roland Suso Richter,33,90,Sarah Polley,1000,,Stephen Graham,9296,Stephen Rea,2,http://www.imdb.com/title/tt0325596/?ref_=fn_tt_tt_1,57,English,R,8800000,2004,900
-Jeremy Sims,17,122,Gyton Grantley,174,,Harrison Gilbertson,5741,Steve Le Marquand,12,http://www.imdb.com/title/tt1418646/?ref_=fn_tt_tt_1,39,English,R,9000000,2010,109
-Maïwenn,163,127,Maïwenn,580,171320,Riccardo Scamarcio,10796,Karin Viard,1,http://www.imdb.com/title/tt1661420/?ref_=fn_tt_tt_1,33,French,Not Rated,,2011,236
-Joby Harold,133,84,Fisher Stevens,4000,14373825,Hayden Christensen,63216,Denis O'Hare,0,http://www.imdb.com/title/tt0211933/?ref_=fn_tt_tt_1,196,English,R,8600000,2007,922
-,47,23,James Arnold Taylor,668,,Dee Bradley Baker,28190,Tom Kane,0,http://www.imdb.com/title/tt0458290/?ref_=fn_tt_tt_1,73,English,TV-PG,,,296
-Ekachai Uekrongtham,66,96,Mike Dopud,2000,162,Michael Jai White,5228,Celina Jade,5,http://www.imdb.com/title/tt1641841/?ref_=fn_tt_tt_1,38,English,R,9000000,2014,368
-Joel Schumacher,147,97,Jami Gertz,967,32222567,Dianne Wiest,92924,Jason Patric,3,http://www.imdb.com/title/tt0093437/?ref_=fn_tt_tt_1,339,English,R,,1987,847
-Scott Cooper,273,112,Beth Grant,12000,39462438,Jeff Bridges,67760,Debrianna Mansini,0,http://www.imdb.com/title/tt1263670/?ref_=fn_tt_tt_1,226,English,R,7000000,2009,628
-Mark Rydell,32,125,Frederic Forrest,563,29200000,David Keith,6142,Alan Bates,0,http://www.imdb.com/title/tt0079826/?ref_=fn_tt_tt_1,52,English,R,8500000,1979,236
-David E. Talbert,52,96,Christina Milian,3000,21564616,Djimon Hounsou,7098,Boris Kodjoe,9,http://www.imdb.com/title/tt1171222/?ref_=fn_tt_tt_1,41,English,PG-13,8500000,2013,1000
-Roger Vadim,107,98,David Hemmings,949,,Jane Fonda,24436,Milo O'Shea,2,http://www.imdb.com/title/tt0062711/?ref_=fn_tt_tt_1,186,English,PG,9000000,1968,178
-Nils Gaup,6,92,Louisa Milwood-Haigh,35,,Bjørn Sundquist,1984,Stian Smestad,2,http://www.imdb.com/title/tt0099816/?ref_=fn_tt_tt_1,14,English,PG,60000000,1990,6
-Alexander Payne,175,103,Chris Klein,2000,14879556,Matthew Broderick,73640,Molly Hagan,0,http://www.imdb.com/title/tt0126886/?ref_=fn_tt_tt_1,441,English,R,8000000,1999,841
-Mira Nair,167,122,Brooke Smith,579,13569248,Jacinda Barrett,16530,Tabu,1,http://www.imdb.com/title/tt0433416/?ref_=fn_tt_tt_1,117,English,PG-13,,2006,405
-Ari Sandel,132,101,Romany Malco,35000,34017854,Bella Thorne,51326,Skyler Samuels,4,http://www.imdb.com/title/tt1666801/?ref_=fn_tt_tt_1,116,English,PG-13,8500000,2015,966
-Vondie Curtis-Hall,66,104,Max Beesley,736,4273372,Mariah Carey,19412,Valarie Pettiford,1,http://www.imdb.com/title/tt0118589/?ref_=fn_tt_tt_1,308,English,PG-13,22000000,2001,218
-Tom Elkins,79,101,Cicely Tyson,1000,,Abigail Spencer,13167,Brad James,0,http://www.imdb.com/title/tt1457765/?ref_=fn_tt_tt_1,57,English,R,9000000,2013,907
-Woo-Suk Kang,15,135,Sung-kee Ahn,28,,Yu-mi Jeong,3290,Kyung-gu Sol,0,http://www.imdb.com/title/tt0387596/?ref_=fn_tt_tt_1,17,Korean,,8000000,2003,15
-Jane Campion,222,119,Paul Schneider,2000,4440055,Abbie Cornish,21360,Samuel Roukin,0,http://www.imdb.com/title/tt0810784/?ref_=fn_tt_tt_1,110,English,PG,8500000,2009,552
-Karan Johar,210,128,Jimmy Shergill,8000,4018695,Shah Rukh Khan,69759,Christopher B. Duncan,2,http://www.imdb.com/title/tt1188996/?ref_=fn_tt_tt_1,235,Hindi,PG-13,12000000,2010,327
-Herbert Ross,60,107,Chris Penn,967,80000000,Dianne Wiest,51459,Lori Singer,0,http://www.imdb.com/title/tt0087277/?ref_=fn_tt_tt_1,113,English,PG,8200000,1984,455
-J.C. Chandor,346,106,,0,6262942,Robert Redford,59545,,0,http://www.imdb.com/title/tt2017038/?ref_=fn_tt_tt_1,312,English,PG-13,9000000,2013,
-John Sayles,46,126,Casey Siemaszko,638,1997807,Mary Elizabeth Mastrantonio,5158,Vanessa Martinez,0,http://www.imdb.com/title/tt0164085/?ref_=fn_tt_tt_1,140,English,R,8000000,1999,107
-Vipul Amrutlal Shah,15,128,Clive Standen,3000,1207007,Katrina Kaif,13577,Riteish Deshmukh,2,http://www.imdb.com/title/tt0795434/?ref_=fn_tt_tt_1,47,Hindi,,,2007,687
-Ken Loach,169,127,Orla Fitzgerald,97,1829142,Padraic Delaney,36846,Martin Lucey,1,http://www.imdb.com/title/tt0460989/?ref_=fn_tt_tt_1,222,English,Not Rated,,2006,8
-Ayan Mukerji,25,160,Madhuri Dixit,964,3827466,Ranbir Kapoor,25122,Aditya Roy Kapoor,2,http://www.imdb.com/title/tt2178470/?ref_=fn_tt_tt_1,102,Hindi,Not Rated,,2013,551
-John G. Avildsen,81,126,William Zabka,668,90800000,Martin Kove,126916,William Bassett,0,http://www.imdb.com/title/tt0087538/?ref_=fn_tt_tt_1,235,English,PG,8000000,1984,641
-Mervyn LeRoy,54,171,Deborah Kerr,440,,Peter Ustinov,9808,Robert Taylor,0,http://www.imdb.com/title/tt0043949/?ref_=fn_tt_tt_1,90,English,Passed,7623000,1951,426
-Darren Lynn Bousman,147,150,Paris Hilton,2000,140244,Alexa PenaVega,20419,Paul Sorvino,1,http://www.imdb.com/title/tt0963194/?ref_=fn_tt_tt_1,259,English,R,8500000,2008,716
-Serdar Akar,16,122,Bergüzar Korel,205,,Necati Sasmaz,14486,Ghassan Massoud,3,http://www.imdb.com/title/tt0493264/?ref_=fn_tt_tt_1,159,Arabic,,8300000,2006,197
-Quentin Tarantino,215,178,Eric Stoltz,13000,107930000,Bruce Willis,1324680,Phil LaMarr,1,http://www.imdb.com/title/tt0110912/?ref_=fn_tt_tt_1,2195,English,R,8000000,1994,902
-James Frawley,63,95,Jim Henson,1000,76657000,Madeline Kahn,25498,Dom DeLuise,0,http://www.imdb.com/title/tt0079588/?ref_=fn_tt_tt_1,92,English,G,,1979,985
-Dan Gilroy,534,117,Michael Papajohn,15000,32279955,Jake Gyllenhaal,293304,James Huang,1,http://www.imdb.com/title/tt2872718/?ref_=fn_tt_tt_1,552,English,R,8500000,2014,241
-Jay Chandrasekhar,66,119,Lindsay Price,861,4992159,Brittany Daniel,23823,Jay Chandrasekhar,2,http://www.imdb.com/title/tt0331953/?ref_=fn_tt_tt_1,201,English,R,8550000,2004,499
-Robert Wise,119,174,Angela Cartwright,354,163214286,Eleanor Parker,148172,Nicholas Hammond,3,http://www.imdb.com/title/tt0059742/?ref_=fn_tt_tt_1,406,English,G,8200000,1965,209
-Ron Howard,43,111,Howard Morris,15000,69800000,Tom Hanks,54723,Patrick Cronin,2,http://www.imdb.com/title/tt0088161/?ref_=fn_tt_tt_1,99,English,PG,8000000,1984,161
-Jonathan Dayton,270,101,Steven Christopher Parker,7000,59889948,Steve Carell,355810,Jill Talley,1,http://www.imdb.com/title/tt0449059/?ref_=fn_tt_tt_1,889,English,R,8000000,2006,150
-Rob Reiner,99,89,Frances Lee McCain,217,52287414,Marshall Bell,271794,Casey Siemaszko,2,http://www.imdb.com/title/tt0092005/?ref_=fn_tt_tt_1,584,English,R,8000000,1986,107
-Danny Boyle,224,113,Megan Burns,133,45063889,Noah Huntley,297250,David Schneider,0,http://www.imdb.com/title/tt0289043/?ref_=fn_tt_tt_1,1441,English,R,8000000,2002,32
-Chris Stokes,58,95,Marques Houston,389,40066497,Jennifer Freeman,23671,Steve Harvey,0,http://www.imdb.com/title/tt0365957/?ref_=fn_tt_tt_1,247,English,PG-13,8000000,2004,363
-Don Siegel,53,112,Patrick McGoohan,16000,36500000,Clint Eastwood,87090,Fred Ward,0,http://www.imdb.com/title/tt0079116/?ref_=fn_tt_tt_1,142,English,PG,8000000,1979,466
-Rick Famuyiwa,37,109,Sanaa Lathan,1000,27362712,Boris Kodjoe,5971,Wendell Pierce,1,http://www.imdb.com/title/tt0297037/?ref_=fn_tt_tt_1,60,English,PG-13,8000000,2002,886
-Martin Lawrence,11,108,Lynn Whitfield,585,34746109,Faizon Love,3122,Della Reese,2,http://www.imdb.com/title/tt0117891/?ref_=fn_tt_tt_1,14,English,R,8000000,1996,434
-Jonathan Levine,327,100,Anna Kendrick,23000,34963967,Joseph Gordon-Levitt,270441,Bryce Dallas Howard,2,http://www.imdb.com/title/tt1306980/?ref_=fn_tt_tt_1,378,English,R,8000000,2011,10000
-Masayuki Ochiai,135,90,David Denman,449,25926543,James Kyson,26609,Daisy Betts,1,http://www.imdb.com/title/tt0482599/?ref_=fn_tt_tt_1,148,English,PG-13,8000000,2008,332
-George A. Romero,127,130,Hal Holbrook,875,,Ted Danson,29935,Adrienne Barbeau,0,http://www.imdb.com/title/tt0083767/?ref_=fn_tt_tt_1,211,English,R,8000000,1982,826
-Tom Gormican,164,94,Lola Glaudini,363,26049082,Mackenzie Davis,76791,Josh Pais,3,http://www.imdb.com/title/tt1800246/?ref_=fn_tt_tt_1,100,English,R,8000000,2014,342
-Ken Shapiro,14,93,Dabney Coleman,484,,Brian Doyle-Murray,3904,Mary Kay Place,1,http://www.imdb.com/title/tt0082763/?ref_=fn_tt_tt_1,48,English,PG,8000000,1981,345
-Justin Tipping,6,80,Natalie Stephany Aguilar,861,,Tina Gilton,59,Justin Hall,,http://www.imdb.com/title/tt4254584/?ref_=fn_tt_tt_1,6,English,R,,2016,163
-Kenneth Branagh,41,111,Denzel Washington,18000,22551000,Keanu Reeves,37269,Brian Blessed,0,http://www.imdb.com/title/tt0107616/?ref_=fn_tt_tt_1,165,English,PG-13,8000000,1993,18000
-Peter R. Hunt,143,142,George Lazenby,803,22800000,Telly Savalas,59941,Desmond Llewelyn,2,http://www.imdb.com/title/tt0064757/?ref_=fn_tt_tt_1,452,English,M,7000000,1969,314
-,9,60,Philip Winchester,666,,Nick Wechsler,5817,Jeff Marlow,2,http://www.imdb.com/title/tt4474310/?ref_=fn_tt_tt_1,25,English,TV-14,,,579
-Wes Craven,109,107,Heather Langenkamp,969,18090181,Miko Hughes,38191,Tracy Middendorf,0,http://www.imdb.com/title/tt0111686/?ref_=fn_tt_tt_1,271,English,R,8000000,1994,449
-John Schultz,59,91,Mark Webber,452,17843379,Stephen Collins,14904,Keri Lynn Pratt,2,http://www.imdb.com/title/tt0164114/?ref_=fn_tt_tt_1,147,English,PG-13,8000000,1999,442
-Doug Atchison,95,112,Sean Michael Afable,876,18811135,Curtis Armstrong,15337,Tzi Ma,0,http://www.imdb.com/title/tt0437800/?ref_=fn_tt_tt_1,172,English,PG,,2006,801
-Tamra Davis,40,82,Harland Williams,744,17278980,Dave Chappelle,48225,Clarence Williams III,0,http://www.imdb.com/title/tt0120693/?ref_=fn_tt_tt_1,164,English,R,8000000,1998,503
-Jonas Elmer,121,97,Frances Conroy,24000,16699684,J.K. Simmons,17461,Harry Connick Jr.,1,http://www.imdb.com/title/tt1095174/?ref_=fn_tt_tt_1,78,English,PG,8000000,2009,827
-Stephen Gaghan,358,128,Amr Waked,13000,50815288,Matt Damon,109191,Kayvan Novak,0,http://www.imdb.com/title/tt0365737/?ref_=fn_tt_tt_1,625,English,R,50000000,2005,903
-Mary Harron,288,102,Justin Theroux,23000,15047419,Christian Bale,357275,Samantha Mathis,1,http://www.imdb.com/title/tt0144084/?ref_=fn_tt_tt_1,1061,English,R,7000000,2000,1000
-Miguel Arteta,107,93,Zooey Deschanel,15000,14015786,Jake Gyllenhaal,37952,Tim Blake Nelson,3,http://www.imdb.com/title/tt0279113/?ref_=fn_tt_tt_1,298,English,R,5000000,2002,11000
-Erik Canuel,28,116,Richard Howland,539,,Colm Feore,8616,Sarain Boylan,2,http://www.imdb.com/title/tt0479647/?ref_=fn_tt_tt_1,90,English,R,8000000,2006,290
-Troy Duffy,91,138,Julie Benz,12000,10269307,Norman Reedus,53251,Clifton Collins Jr.,0,http://www.imdb.com/title/tt1300851/?ref_=fn_tt_tt_1,188,English,R,8000000,2009,3000
-James Ivory,55,117,Omar Metwally,471,,Alexandra Maria Lara,2311,Diego Velazquez,1,http://www.imdb.com/title/tt0896923/?ref_=fn_tt_tt_1,25,English,PG-13,8300000,2009,277
-Nicole Holofcener,231,93,Ben Falcone,434,17536788,Christopher Nicholas Smith,49240,Michaela Watkins,2,http://www.imdb.com/title/tt2390361/?ref_=fn_tt_tt_1,142,English,PG-13,8000000,2013,265
-Will Gluck,262,92,Dan Byrd,15000,58401464,Emma Stone,276746,Fred Armisen,1,http://www.imdb.com/title/tt1282140/?ref_=fn_tt_tt_1,264,English,PG-13,8000000,2010,1000
-Matty Rich,7,110,Joe Morton,851,8880705,Jada Pinkett Smith,1103,Larenz Tate,0,http://www.imdb.com/title/tt0110137/?ref_=fn_tt_tt_1,11,English,R,,1994,780
-E. Elias Merhige,196,92,Udo Kier,776,8279017,Eddie Izzard,34191,Catherine McCormack,1,http://www.imdb.com/title/tt0189998/?ref_=fn_tt_tt_1,339,English,R,8000000,2000,595
-Joe Nussbaum,83,104,Thomas McDonell,1000,10106233,Cameron Monaghan,12702,Aimee Teegarden,0,http://www.imdb.com/title/tt1604171/?ref_=fn_tt_tt_1,32,English,PG,8000000,2011,962
-Matt Reeves,18,98,Michael Rapaport,1000,,Mark Margolis,6124,Carol Kane,2,http://www.imdb.com/title/tt0117283/?ref_=fn_tt_tt_1,55,English,PG-13,8000000,1996,975
-Steve Rash,11,89,Nia Long,883,4692814,Barry Corbin,2870,Jake Busey,2,http://www.imdb.com/title/tt0165831/?ref_=fn_tt_tt_1,34,English,PG-13,8000000,1999,826
-Fina Torres,72,92,John de Lancie,1000,5018450,Harold Perrineau,8546,Mark Feuerstein,0,http://www.imdb.com/title/tt0206420/?ref_=fn_tt_tt_1,86,English,R,8000000,2000,905
-James Ivory,51,140,Vanessa Redgrave,12000,25967000,Anthony Hopkins,21254,Samuel West,3,http://www.imdb.com/title/tt0104454/?ref_=fn_tt_tt_1,86,English,PG,,1992,898
-,18,60,Joseph Gilgun,3000,,Dominic Cooper,22848,Ruth Negga,0,http://www.imdb.com/title/tt5016504/?ref_=fn_tt_tt_1,85,English,TV-MA,,,788
-Duke Johnson,328,90,Tom Noonan,1000,3442820,Jennifer Jason Leigh,31489,David Thewlis,0,http://www.imdb.com/title/tt2401878/?ref_=fn_tt_tt_1,140,English,R,8000000,2015,442
-Mike Leigh,248,129,Imelda Staunton,1000,3205244,Jim Broadbent,23629,Phil Davis,0,http://www.imdb.com/title/tt1431181/?ref_=fn_tt_tt_1,141,English,PG-13,10000000,2010,579
-François Ozon,128,111,Isabelle Huppert,963,3076425,Catherine Deneuve,23660,Emmanuelle Béart,1,http://www.imdb.com/title/tt0283832/?ref_=fn_tt_tt_1,162,French,R,8000000,2002,678
-Mark L. Lester,45,79,Tia Carrere,1000,2275557,Cary-Hiroyuki Tagawa,12561,Vernee Watson,2,http://www.imdb.com/title/tt0102915/?ref_=fn_tt_tt_1,102,English,R,8000000,1991,1000
-David Dobkin,49,104,Vince Vieluf,1000,1789892,Janeane Garofalo,9494,Kevin Rahm,1,http://www.imdb.com/title/tt0118863/?ref_=fn_tt_tt_1,109,English,R,8000000,1998,261
-Anna Boden,163,101,Jeremy Davies,943,6350058,Zoë Kravitz,106098,Jim Gaffigan,3,http://www.imdb.com/title/tt0804497/?ref_=fn_tt_tt_1,150,English,PG-13,8000000,2010,769
-Nigel Cole,163,113,Robbie Kay,5000,1094798,Bob Hoskins,11158,Sally Hawkins,6,http://www.imdb.com/title/tt1371155/?ref_=fn_tt_tt_1,73,English,R,7200000,2010,629
-Anand Tucker,90,92,Jim Broadbent,14000,1071240,Colin Firth,3571,Gina McKee,2,http://www.imdb.com/title/tt0829098/?ref_=fn_tt_tt_1,34,English,PG-13,8000000,2007,1000
+director_name,actor_2_name,actor_1_facebook_likes,gross,movie_title,actor_3_name,language,country,title_year,movie_facebook_likes
+Karim Aïnouz,Clemens Schick,585,20262,Futuro Beach ,Jesuíta Barbosa,Portuguese,Brazil,2014,278
+Sam Levinson,Ezra Miller,3000,,Another Happy Day ,Demi Moore,English,USA,2011,798
+Julian Gilbey,Eamonn Walker,762,,A Lonely Place to Die ,Sean Harris,English,UK,2011,0
+Vincenzo Natali,Angelo Tsarouchas,686,,Nothing ,Marie-Josée Croze,English,Canada,2003,688
+Aleksandr Veledinskiy,Elena Lyadova,114,,The Geographer Drank His Globe Away ,Eugenia Khirivskaya,Russian,Russia,2013,282
+Peter H. Hunt,Ken Howard,713,,1776 ,Howard Caine,English,USA,1972,0
+Ruba Nadda,Bonnie Lee Bouman,223,4063,Inescapable ,Fadia Nadda,English,Canada,2012,657
+Howard Hughes,Marian Marsh,431,,Hell's Angels ,James Hall,English,USA,1930,279
+Edward Burns,Rosemarie DeWitt,650,,Purple Violets ,Peter Jacobson,English,USA,2007,296
+Phil Joanou,Shannon Woodward,763,,The Veil ,Kira McLean,English,USA,2016,0
+Sean Byrne,Jessica McNamee,399,,The Loved Ones ,Victoria Thaine,English,Australia,2009,0
+Chris Stokes,Rachel Sterling,166,,No Vacancy ,Black Thomas,English,USA,2012,531
+Mark Griffiths,Gina Holden,637,,How to Fall in Love ,Brooke D'Orsay,English,USA,2012,170
+Bruce Macdonald,Cheryl Ladd,544,,The Perfect Wave ,Diana Vickers,English,South Africa,2014,365
+Timur Bekmambetov,Ayelet Zurer,11000,,Ben-Hur ,Moises Arias,English,USA,2016,0
+Fred Zinnemann,Susannah York,559,,A Man for All Seasons ,Paul Scofield,English,UK,1966,2000
+Sidney Lumet,Faye Dunaway,3000,,Network ,William Holden,English,USA,1976,17000
+Victor Fleming,George Reeves,503,198655278,Gone with the Wind ,Thomas Mitchell,English,USA,1939,16000
+Richard Raymond,Reece Ritchie,507,143653,Desert Dancer ,Marama Corlett,English,UK,2014,0
+Sam Peckinpah,Slim Pickens,773,14873,Major Dundee ,Warren Oates,English,USA,1965,251
+Alan Jacobs,Laz Alonso,881,,Down for Life ,Nicholas Gonzalez,English,USA,2009,237
+George Sidney,Howard Keel,277,8000000,Annie Get Your Gun ,Betty Hutton,English,USA,1950,456
+Christopher Morris,Riz Ahmed,414,304137,Four Lions ,Alex Macqueen,English,UK,2010,17000
+Andrucha Waddington,Seu Jorge,119,,House of Sand ,Fernanda Torres,Portuguese,Brazil,2005,385
+Peter Stebbings,Tony Nappo,963,37606,Defendor ,Charlotte Sullivan,English,Canada,2009,0
+Vincente Minnelli,Reginald Owen,89,2956000,The Pirate ,Ellen Ross,English,USA,1948,359
+Dagur Kári,Susan Blommaert,117,19959,The Good Heart ,Stephen Henderson,English,Iceland,2009,0
+Nicholas Hytner,Russell Tovey,3000,2706659,The History Boys ,James Corden,English,UK,2006,0
+Jaume Collet-Serra,Frank Langella,14000,61094903,Unknown ,Aidan Quinn,English,UK,2011,29000
+,Jamie Farr,443,,M*A*S*H             ,Mike Farrell,English,USA,,0
+John Schlesinger,Barnard Hughes,183,,Midnight Cowboy ,John McGiver,English,USA,1969,0
+Peter Cattaneo,Mark Addy,1000,45857453,The Full Monty ,Lesley Sharp,English,UK,1997,0
+Jim Abrahams,Lloyd Bridges,628,83400000,Airplane! ,Barbara Billingsley,English,USA,1980,16000
+Kevin Carraway,Max Ryan,2000,,Chain of Command ,Jon Osbeck,English,USA,2015,358
+F. Gary Gray,John Witherspoon,826,27900000,Friday ,Tony Cox,English,USA,1995,8000
+Albert Hughes,Larenz Tate,851,27900000,Menace II Society ,Khandi Alexander,English,USA,1993,0
+,Gabourey Sidibe,912,,Empire             ,Malik Yoba,English,USA,,14000
+Michael Gornick,Holt McCallany,3000,14000000,Creepshow 2 ,Dorothy Lamour,English,USA,1987,1000
+Sam Peckinpah,Jason Robards,575,,The Ballad of Cable Hogue ,L.Q. Jones,English,USA,1970,357
+Richard Brooks,Robert Blake,255,,In Cold Blood ,Will Geer,English,USA,1967,0
+Fred Zinnemann,Peter Finch,157,,The Nun's Story ,Beatrice Straight,English,USA,1959,930
+Jack Smight,Robert Wagner,606,,Harper ,Shelley Winters,English,USA,1966,470
+Alfred Hitchcock,Jean Marsh,195,,Frenzy ,Clive Swift,English,UK,1972,0
+Robert Eggers,Kate Dickie,648,25138292,The Witch ,Ralph Ineson,English,USA,2015,43000
+Michael Martin,Master P,625,10305534,I Got the Hook Up ,Anthony Johnson,English,USA,1998,280
+Edward Burns,Frank Vincent,385,9449219,She's the One ,Michael McGlone,English,USA,1996,453
+Bill Condon,Lynn Redgrave,3000,6390032,Gods and Monsters ,Kevin J. O'Connor,English,USA,1998,0
+Juan José Campanella,Soledad Villamil,827,20167424,The Secret in Their Eyes ,Guillermo Francella,Spanish,Argentina,2009,33000
+George A. Romero,John Amplas,1000,,Day of the Dead ,Joseph Pilato,English,USA,1985,3000
+Gideon Raff,Gloria Votsis,430,,Train ,Derek Magyar,English,USA,2008,804
+Sam Raimi,Dan Hicks,634,5923044,Evil Dead II ,Kassie Wesley DePaiva,English,USA,1987,0
+Louis C.K.,J.B. Smoove,560,3293258,Pootie Tang ,Robert Vaughn,English,USA,2001,0
+Anthony C. Ferrante,John Heard,984,,Sharknado ,Cassandra Scerbo,English,USA,2013,93000
+Salvador Carrasco,Zaide Silvia Gutiérrez,174,886410,La otra conquista ,Damián Delgado,Spanish,Mexico,1998,140
+André Øvredal,Johanna Mørck,29,252652,Trollhunter ,Glenn Erland Tosterud,Norwegian,Norway,2010,38000
+Robert Cary,Fred Willard,827,220234,Ira & Abby ,Kevin Sussman,English,USA,2006,360
+Akiva Schaffer,Nicholas Braun,622,34350553,The Watch ,Rosemarie DeWitt,English,USA,2012,15000
+Adam Rapp,Will Ferrell,11000,101228,Winter Passing ,Dallas Roberts,English,USA,2005,414
+Angela Robinson,Geoff Stults,4000,96793,D.E.B.S. ,Scoot McNairy,English,USA,2004,1000
+Warren P. Sonoda,Mykel Shannon Jenkins,426,123777,The Masked Saint ,Lara Jean Chorostecki,English,Canada,2016,0
+Amanda Gusack,Christian Campbell,368,,The Betrayed ,Blaine Anderson,English,USA,2008,127
+Avi Nesher,Elizabeth Berkley,922,,Taxman ,Robert Townsend,English,USA,1998,18
+,Ash Cook,773,,The Secret             ,Genevieve O'Reilly,English,UK,,405
+Charles Adelman,Kevin Pollak,708,,2:13 ,Jere Burns,English,USA,2009,211
+Jay Oliva,Mark Valley,2000,,"Batman: The Dark Knight Returns, Part 2 ",Grey Griffin,English,USA,2013,5000
+Charles Ferguson,Jerry Brown,21,29233,Time to Choose ,Peter Agnefjall,English,USA,2015,121
+Uwe Boll,Shelly Varod,603,,In the Name of the King: The Last Job ,Ralitsa Paskaleva,English,Canada,2014,721
+Mark Young,Jake Busey,2000,,Wicked Blood ,Lew Temple,English,USA,2014,482
+Daniel Petrie Jr.,Jeff Fahey,795,,Dawn Patrol ,Rita Wilson,English,,2014,570
+Antonio Simoncini,Joe Egan,1000,,Lords of London ,Glen Murphy,English,UK,2014,606
+Mel Brooks,Harvey Korman,1000,,High Anxiety ,Dick Van Patten,English,USA,1977,0
+Luc Jacquet,Sofie Gråbøl,11000,77413017,March of the Penguins ,Romane Bohringer,French,France,2005,0
+J.C. Chandor,Demi Moore,18000,5354039,Margin Call ,Ashley Williams,English,USA,2011,21000
+Eldar Rapaport,Adrian Gonzalez,141,,August ,Edward Conna,English,USA,2011,224
+Clark Gregg,Matt Gerald,1000,2926565,Choke ,Jonah Bobo,English,USA,2008,0
+Damien Chazelle,Melissa Benoist,24000,13092000,Whiplash ,Chris Mulkey,English,USA,2014,129000
+Fernando Meirelles,Seu Jorge,1000,7563397,City of God ,Alexandre Rodrigues,Portuguese,Brazil,2002,28000
+Justin Kerrigan,John Simm,798,104257,Human Traffic ,Shaun Parkes,English,UK,1999,0
+Nathan Frankowski,Rus Blackwell,632,,Day One ,Luis Antonio,English,USA,2012,0
+Karen Moncrieff,Bruce Davison,11000,17311,The Dead Girl ,Piper Laurie,English,USA,2006,799
+Thomas Vinterberg,Alexandra Rapaport,74,610968,The Hunt ,Hana Shuan,Danish,Denmark,2012,60000
+Bob Clark,Darren McGavin,662,,A Christmas Story ,Scott Schwartz,English,USA,1983,18000
+Alejandro Monteverde,Ramon Rodriguez,625,8108247,Bella ,Eduardo Verástegui,English,USA,2006,0
+Mark L. Lester,Perry King,595,,Class of 1984 ,Timothy Van Patten,English,Canada,1982,934
+Jennifer Finnigan,Kenan Thompson,756,,The Opposite Sex ,Josh Hopkins,English,USA,2014,0
+Eric Styles,Rupert Graves,631,7680,Dreaming of Joseph Lees ,Miriam Margolyes,English,USA,1999,100
+Laurent Cantet,Agame Malembo-Emene,15,3766595,The Class ,Angélica Sancio,French,France,2008,0
+Roman Polanski,Mia Farrow,917,,Rosemary's Baby ,Charles Grodin,English,USA,1968,13000
+John Ford,Woody Strode,756,,The Man Who Shot Liberty Valance ,Vera Miles,English,USA,1962,0
+Max Mayer,Terry Walters,828,2277396,Adam ,Amy Irving,English,USA,2009,0
+Joshua Marston,Wilson Guerrero,280,6517198,Maria Full of Grace ,Yenny Paola Vega,Spanish,Colombia,2004,0
+Mike Mills,Lou Taylor Pucci,1000,5776314,Beginners ,Mary Page Keller,English,USA,2010,15000
+John Gulager,Eric Dane,164000,,Feast ,Henry Rollins,English,USA,2005,0
+John Landis,Karen Allen,1000,141600000,Animal House ,Tim Matheson,English,USA,1978,0
+Guy Hamilton,Gert Fröbe,387,51100000,Goldfinger ,Lois Maxwell,English,UK,1964,0
+Brandon Cronenberg,Douglas Smith,691,,Antiviral ,Caleb Landry Jones,English,Canada,2012,0
+Frank Capra,Lionel Barrymore,488,,It's a Wonderful Life ,Thomas Mitchell,English,USA,1946,41000
+Danny Boyle,Shirley Henderson,2000,16501785,Trainspotting ,Ewen Bremner,English,UK,1996,21000
+Spike Lee,Cedric the Entertainer,1000,38168022,The Original Kings of Comedy ,Steve Harvey,English,USA,2000,290
+Tod Williams,Molly Ephraim,438,84749884,Paranormal Activity 2 ,Micah Sloat,English,USA,2010,14000
+Kirk Jones,David Kelly,773,24788807,Waking Ned Devine ,Fionnula Flanagan,English,UK,1998,0
+Michael Moore,Dick Clark,909,21244913,Bowling for Columbine ,Bill Clinton,English,Germany,2002,4000
+Yimou Zhang,Daoming Chen,878,377420,Coming Home ,Ni Yan,Mandarin,China,2014,0
+Jack Sholder,Robert Rusler,426,30000000,A Nightmare on Elm Street 2: Freddy's Revenge ,Marshall Bell,English,USA,1985,0
+James Ivory,Rupert Graves,687,20966644,A Room with a View ,Denholm Elliott,English,UK,1985,0
+James DeMonaco,Adelaide Kane,942,64423650,The Purge ,Chris Mulkey,English,USA,2013,31000
+Scott Derrickson,Victoria Leigh,1000,48056940,Sinister ,James Ransone,English,USA,2012,58000
+David Raynr,Mikki Padilla,71,19184015,Martin Lawrence Live: Runteldat ,Dayna Devon,English,USA,2002,63
+Richard Brooks,Judith Anderson,253,,Cat on a Hot Tin Roof ,Jack Carson,English,USA,1958,0
+Ted Post,Gregory Sierra,220,,Beneath the Planet of the Apes ,Victor Buono,English,USA,1970,0
+Charles Martin Smith,Bill Cobbs,2000,24629916,Air Bud ,Michael Jeter,English,USA,1997,902
+Kunihiko Yuyama,Eric Stuart,88,,Pokémon 3: The Movie ,Lisa Ortiz,Japanese,Japan,2000,38
+Tom McLoughlin,Ron Palillo,956,19472057,Jason Lives: Friday the 13th Part VI ,Vincent Guastaferro,English,USA,1986,0
+David Lean,Sessue Hayakawa,682,27200000,The Bridge on the River Kwai ,Jack Hawkins,English,UK,1957,0
+Patrick Read Johnson,Royal Dano,610,15369573,Spaced Invaders ,Tonya Lee Williams,English,USA,1990,710
+Alfred Hitchcock,Bruce Dern,897,,Family Plot ,William Devane,English,USA,1976,609
+Billy Wilder,Ray Walston,516,,The Apartment ,David White,English,USA,1960,0
+Adam Marcus,Leslie Jordan,935,15935068,Jason Goes to Hell: The Final Friday ,Erin Gray,English,USA,1993,949
+Alfred Hitchcock,Lila Kedrova,18,,Torn Curtain ,David Opatoshu,English,USA,1966,933
+Michel Gondry,Dave Chappelle,989,11694528,Dave Chappelle's Block Party ,Lauryn Hill,English,USA,2005,635
+John Maclean,Kodi Smit-McPhee,13000,229094,Slow West ,Ben Mendelsohn,English,UK,2015,0
+Michael Schultz,LisaGay Hamilton,685,,Krush Groove ,Bobby Brown,English,USA,1985,889
+Benny Boom,Donald Faison,1000,10017041,Next Day Air ,Mike Epps,English,USA,2009,545
+Richard Brooks,Jean Simmons,556,,Elmer Gantry ,Edward Andrews,English,USA,1960,808
+Stanley Kramer,Montgomery Clift,877,,Judgment at Nuremberg ,Spencer Tracy,English,USA,1961,0
+David Raynr,Deon Richmond,927,9016377,Trippin' ,Countess Vaughn,English,USA,1999,143
+,Seth Green,11,,Robot Chicken             ,Breckin Meyer,English,USA,,1000
+Howard Hawks,Walter Brennan,862,,Red River ,Harry Carey Jr.,English,USA,1948,0
+Nnegest Likké,Jimmy Jean-Louis,939,7059537,Phat Girlz ,Joyful Drake,English,USA,2006,837
+Richard Linklater,Ariane Labed,140,8114507,Before Midnight ,Athina Rachel Tsangari,English,USA,2013,62000
+Christopher Leitch,Robert Neary,641,7888703,Teen Wolf Too ,Kim Darby,English,USA,1987,491
+Don Coscarelli,A. Michael Baldwin,674,7282851,Phantasm II ,James Le Gros,English,USA,1988,812
+Michael Schultz,Kimberly Elise,912,6879730,Woman Thou Art Loosed ,Clifton Powell,English,USA,2004,187
+Patricia Cardoso,Lupe Ontiveros,953,5844929,Real Women Have Curves ,George Lopez,English,USA,2002,595
+,Jessica De Gouw,578,,Deadline Gallipoli             ,Luke Ford,English,Australia,,367
+Deepa Mehta,Lisa Ray,1000,3222857,Water ,Seema Biswas,Hindi,Canada,2005,0
+Damien O'Donnell,Jimi Mistry,883,4170647,East Is East ,Om Puri,English,UK,1999,1000
+Peter M. Cohen,Brian Van Holt,472,4142507,Whipped ,David Heyman,English,USA,2000,131
+Mira Nair,Sarita Choudhury,729,4109095,Kama Sutra: A Tale of Love ,Rekha,English,USA,1996,0
+Nicole Holofcener,Thomas Ian Nicholas,1000,4033268,Please Give ,Ann Morgan Guilbert,English,USA,2010,0
+Mel Stuart,Jack Albertson,240,,Willy Wonka & the Chocolate Factory ,Julie Dawn Cole,English,USA,1971,0
+Anthony Hickox,Zach Galligan,687,3902679,Warlock: The Armageddon ,Paula Marshall,English,USA,1993,217
+Tom Schulman,George Hamilton,578,3559990,8 Heads in a Duffel Bag ,Dyan Cannon,English,USA,1997,417
+Terrence Malick,Stuart Margolin,820,,Days of Heaven ,Richard Libertini,English,USA,1978,0
+Jill Sprecher,Rob McElhenney,11000,3287435,Thirteen Conversations About One Thing ,Amy Irving,English,USA,2001,430
+Darren Stein,Judy Greer,3000,3071947,Jawbreaker ,Jeff Conaway,English,USA,1999,0
+Julian Schnabel,Michael Wincott,10000,2961991,Basquiat ,Courtney Love,English,USA,1996,0
+Noah Baumbach,Grace Gummer,962,4063238,Frances Ha ,Vanessa Ray,English,USA,2012,11000
+Gavin Hood,Nambitha Mpumlwana,113,2912363,Tsotsi ,Rapulana Seiphemo,Zulu,UK,2005,0
+Todd Solondz,Jon Lovitz,22000,3000000,Happiness ,Dylan Baker,English,USA,1998,0
+George Gallo,Joe Howard,489,2223990,DysFunktional Family ,Robert Noble,English,USA,2003,26
+Kevin Smith,Haley Joel Osment,40000,1821983,Tusk ,Michael Parks,English,USA,2014,20000
+Chan-wook Park,Ji-tae Yu,717,2181290,Oldboy ,Hye-jeong Kang,Korean,South Korea,2003,43000
+David Nixon,Michael Bolten,439,2848578,Letters to God ,Christopher Schmidt,English,USA,2010,0
+Jason Eisener,Robb Wells,694,703002,Hobo with a Shotgun ,Molly Dunsworth,English,Canada,2011,37000
+Enrique Begne,Héctor Jiménez,574,3105269,Compadres ,Erick Elias,English,Mexico,2016,174
+Matthew Bright,Dan Hedaya,904,,Freeway ,Robert Peters,English,USA,1996,0
+Michael Landon Jr.,Kevin Gage,702,252726,Love's Abiding Joy ,Brianna Brown,,USA,2006,76
+Andrea Arnold,Harry Treadaway,13000,373060,Fish Tank ,Jason Maza,English,UK,2009,0
+Whit Stillman,Megalyn Echikunwoke,962,1007535,Damsels in Distress ,Zach Woods,English,USA,2011,0
+,Colm Feore,723,,Creature             ,Megalyn Echikunwoke,English,USA,,518
+Leslye Headland,Adam Scott,4000,418268,Bachelorette ,Andrew Rannells,English,USA,2012,0
+,Megan Hilty,786,,BrainDead             ,Zach Grenier,English,USA,,3000
+Bobby Roth,Aaron Ashmore,912,,Brave New Girl ,Lindsey Haun,English,USA,2004,47
+Tim Heidecker,William Atherton,536,200803,Tim and Eric's Billion Dollar Movie ,Bob Ross,English,USA,2012,0
+Rupert Wyatt,Cjon Saulsberry,3000,33631221,The Gambler ,Griffin Cleveland,English,USA,2014,0
+,Amanda Mealing,40,,The Grand             ,Tim Healy,English,UK,,450
+Marco Kreuzpaintner,Kostja Ullmann,289,95016,Summer Storm ,Robert Stadlober,German,Germany,2004,442
+Kate Connor,Eric Stoltz,1000,73678,Fort McCoy ,Brendan Fehr,English,USA,2011,348
+Deon Taylor,Betsy Russell,487,143000,Chain Letter ,Noah Segan,English,USA,2009,0
+Jason Alexander,Patti LuPone,599,39852,Just Looking ,Peter Onorati,English,USA,1999,117
+Xavier Gens,Lauren German,2000,22000,The Divide ,Rosanna Arquette,English,Germany,2011,0
+Conor McPherson,Iben Hjejle,767,128937,The Eclipse ,Jim Norton,English,Ireland,2009,580
+Will Canon,Scott Mechlowicz,798,,Demonic ,Aaron Yoo,English,USA,2015,0
+Philip Zlotorynski,Darren Keefe Reiher,231,,My Big Fat Independent Movie ,David Douglas,English,USA,2005,48
+Tim Burton,Alan Rickman,40000,334185206,Alice in Wonderland ,Anne Hathaway,English,USA,2010,24000
+Lance Kawas,Michael Rapaport,1000,,The Deported ,Talia Shire,English,USA,2009,54
+Francesca Gregorini,Amy Sedaris,433,5005,Tanner Hall ,Chris Kattan,English,USA,2009,448
+Marcio Garcia,Kristi Clainos,652,,Open Road ,Emily Nelson,English,Brazil,2013,433
+David Wain,Amy Poehler,3000,,They Came Together ,Jack McBrayer,English,USA,2014,0
+Craig Moss,Ashley Martin,319,,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,Olivia Alexander,English,USA,2013,2000
+Michael Jai White,Alex Meraz,2000,,Never Back Down 2: The Beatdown ,Jillian Murray,English,USA,2011,6000
+John Boorman,Angie Dickinson,756,,Point Blank ,Carroll O'Connor,English,USA,1967,3000
+Paolo Monico,Sarah Rafferty,1000,,Four Single Fathers ,Salvatore Santone,Italian,Italy,2009,32
+Youssef Delara,David Bianchi,2000,,Enter the Dangerous Mind ,Jason Priestley,English,USA,2013,406
+Darin Scott,Shantel VanSanten,1000,,Something Wicked ,John Robinson,English,USA,2014,395
+Christian Sesma,Brooke Newton,904,,AWOL-72 ,Brett Wagner,English,USA,2015,398
+Monte Hellman,Jack Taylor,201,,Iguana ,Fabio Testi,English,Italy,1988,37
+Kenneth Branagh,Derek Jacobi,2000,201148159,Cinderella ,Lily James,English,USA,2015,56000
+Brian Caunter,Stacy Keach,854,,Chicago Overcoat ,Frank Vincent,English,USA,2009,229
+Chris D'Arienzo,Cybill Shepherd,2000,,Barry Munday ,Shea Whigham,English,USA,2010,480
+Walter Salles,Matheus Nachtergaele,119,5595428,Central Station ,Othon Bastos,Portuguese,Brazil,1998,0
+Frank Capra,Glenn Ford,931,,Pocketful of Miracles ,Thomas Mitchell,English,USA,1961,612
+Isaac Florentine,Nick Chinlund,640,,Close Range ,Scott Evans,English,USA,2015,968
+Susan Seidelman,Michael Nouri,267,3123749,Boynton Beach Club ,Brenda Vaccaro,English,USA,2005,88
+Michael Polish,Patrick Bauchau,216,,Amnesiac ,Mia Barron,English,USA,2014,421
+Heidi Ewing,James Ransone,875,100675,Freakonomics ,Tempestt Bledsoe,English,USA,2010,0
+Richard Donner,Patrick Troughton,264,,The Omen ,Billie Whitelaw,English,UK,1976,7000
+Alexandre Aja,Maïwenn,447,3645438,High Tension ,Oana Pellea,French,France,2003,0
+Leon Ford,Patrick Brammall,130,,Griff the Invisible ,Kelly Paterniti,English,Australia,2010,0
+Hank Braxtan,Gregory Cruz,679,,Unnatural ,Allegra Carpenter,English,USA,2015,369
+Craig Brewer,Paula Jai Parker,275,22201636,Hustle & Flow ,Elise Neal,English,USA,2005,0
+Billy Wilder,Joe E. Brown,105,25000000,Some Like It Hot ,George Raft,English,USA,1959,10000
+John Carl Buechler,Terry Kiser,935,19170001,Friday the 13th Part VII: The New Blood ,William Butler,English,USA,1988,0
+Victor Fleming,Terry,695,22202612,The Wizard of Oz ,Billie Burke,English,USA,1939,14000
+Mel Brooks,Peter Boyle,1000,86300000,Young Frankenstein ,Teri Garr,English,USA,1974,14000
+George A. Romero,Shawn Roberts,569,952620,Diary of the Dead ,Joe Dinicol,English,USA,2007,0
+Rajkumar Hirani,Sanjay Dutt,464,,Lage Raho Munna Bhai ,Jimmy Shergill,Hindi,India,2006,349
+Victor Nunez,Patricia Richardson,402,9054736,Ulee's Gold ,Vanessa Zima,English,USA,1997,381
+Carroll Ballard,Kelly Reno,481,,The Black Stallion ,Hoyt Axton,English,USA,1979,0
+Rohit Jugraj,Neeru Bajwa,258,,Sardaar Ji ,Diljit Dosanjh,Panjabi,Canada,2015,50
+Thorbjørn Christoffersen,Frank Hvam,122,,Journey to Saturn ,Casper Christensen,Danish,Denmark,2008,77
+John Ford,Cesar Romero,756,,Donovan's Reef ,Jack Warden,English,USA,1963,573
+Alex van Warmerdam,Ariane Schluter,20,,The Dress ,Henri Garcin,Dutch,Netherlands,1996,121
+Victor Fleming,Esther Williams,760,,A Guy Named Joe ,Irene Dunne,English,USA,1943,116
+Mel Brooks,David Huddleston,1000,119500000,Blazing Saddles ,Harvey Korman,English,USA,1974,12000
+Joseph Zito,Tom Everett,158,32600000,Friday the 13th: The Final Chapter ,Kimberly Beck,English,USA,1984,0
+Pawel Pawlikowski,Agata Trzebuchowska,88,3826455,Ida ,Agata Kulesza,Polish,Poland,2013,17000
+James Ivory,Denholm Elliott,443,3130592,Maurice ,Simon Callow,English,UK,1987,963
+Frank Sebastiano,Laurie Metcalf,833,475000,Beer League ,Seymour Cassel,English,USA,2006,323
+Rand Ravich,Charlize Theron,40000,10654581,The Astronaut's Wife ,Clea DuVall,English,USA,1999,1000
+Stacy Peralta,Gabrielle Reece,52,2276368,Riding Giants ,Laird John Hamilton,English,USA,2004,0
+Nacho Vigalondo,Nacho Vigalondo,123,38108,Timecrimes ,Bárbara Goenaga,Spanish,Spain,2007,0
+Hao Ning,Bo Huang,11,,Silver Medallist ,Zheng Xu,Mandarin,China,2009,30
+Tony Giglio,Nick Searcy,331,,Timber Falls ,Beth Broderick,English,USA,2007,254
+Stanley Donen,Debbie Reynolds,804,,Singin' in the Rain ,Cyd Charisse,English,USA,1952,0
+Joe Cross,Joel Fuhrman,65,,"Fat, Sick & Nearly Dead ",Amy Badberg,English,Australia,2010,10000
+Michael Tiddes,Alanna Ubach,713,40041683,A Haunted House ,J.B. Smoove,English,USA,2013,0
+Dinesh D'Souza,Zackary Steven Graham,871,33349949,2016: Obama's America ,Dinesh D'Souza,English,USA,2012,0
+Rob Zombie,Tyler Mane,908,33386128,Halloween II ,Margot Kidder,English,USA,2009,3000
+Tom Hanks,Charlize Theron,15000,25809813,That Thing You Do! ,Ethan Embry,English,USA,1996,0
+Tommy Lee Wallace,Dan O'Herlihy,381,14400000,Halloween III: Season of the Witch ,Nancy Kyes,English,USA,1982,0
+Don Taylor,M. Emmet Walsh,595,,Escape from the Planet of the Apes ,Sal Mineo,English,USA,1971,819
+Martin Ritt,Melvyn Douglas,617,,Hud ,Whit Bissell,English,USA,1963,1000
+Leslie Small,La'Princess Jackson,1000,32230907,Kevin Hart: Let Me Explain ,Dana Hanna,English,USA,2013,0
+Gus Van Sant,Udo Kier,18000,6401336,My Own Private Idaho ,Flea,English,USA,1991,0
+Zach Braff,Michael Weston,625,26781723,Garden State ,Jill Flint,English,USA,2004,0
+Richard Linklater,Hans Weingartner,15,5400000,Before Sunrise ,Dominik Castell,English,USA,1995,22000
+Éric Tessier,Michel Côté,50,,Sur le seuil ,Jean Pierre Bergeron,French,Canada,2003,39
+Alison Maclean,Samantha Morton,745,1282084,Jesus' Son ,Mark Webber,English,USA,1999,500
+Alice Wu,Ato Essandoh,643,1186323,Saving Face ,Jessica Hecht,English,USA,2004,774
+Sarah Gavron,Christopher Simpson,56,1094998,Brick Lane ,Tannishtha Chatterjee,English,UK,2007,430
+Jake Schreier,Joshua Ormond,902,3325638,Robot & Frank ,Ana Gasteyer,English,USA,2012,13000
+Isabel Coixet,Julian Richings,900,395592,My Life Without Me ,Amanda Plummer,English,Spain,2003,0
+James Ponsoldt,Jennifer Jason Leigh,8000,6851969,The Spectacular Now ,Dayo Okeniyi,English,USA,2013,10000
+Randall Miller,Elden Henson,882,333658,Marilyn Hotchkiss' Ballroom Dancing and Charm School ,Michael Bower,English,USA,1990,16
+Larry Charles,Tal Bachman,334,12995673,Religulous ,Steve Burg,English,USA,2008,24000
+Joshua Tickell,Sheryl Crow,860,173783,Fuel ,George W. Bush,English,USA,2008,588
+Tim Boxell,Diana Scarwid,655,118666,Valley of the Heart's Delight ,Tom Bower,English,USA,2006,144
+Rawson Marshall Thurber,Stephen Root,989,114324072,Dodgeball: A True Underdog Story ,Joel David Moore,English,USA,2004,0
+Michael D. Sellers,Carly Schroeder,640,71904,Eye of the Dolphin ,George Harris,English,USA,2006,140
+Reed Cowan,Emily Pearson,191,99851,8: The Mormon Proposition ,Gavin Newsom,English,USA,2010,0
+James Dodson,Anupam Kher,611,115504,The Other End of the Line ,Shriya Saran,English,UK,2008,0
+Stefan Ruzowitzky,Rüdiger Vogler,127,5725,Anatomy ,Sebastian Blomberg,German,Germany,2000,560
+Alex Rivera,Jacob Vargas,426,75727,Sleep Dealer ,Tenoch Huerta,Spanish,USA,2008,0
+James Gunn,Rainn Wilson,2000,322157,Super ,Paul T. Taylor,English,USA,2010,19000
+John Murlowski,Piper Mackenzie Harris,794,,Christmas Mail ,Lochlyn Munro,English,USA,2010,190
+Benni Diez,Cecilia Pillado,968,,Stung ,David Masterson,English,Germany,2015,0
+Danny Perez,Emmanuel Kabongo,1000,,Antibirth ,Mark Webber,English,USA,2016,89
+Spike Lee,Harry Lennix,1000,5731103,Get on the Bus ,Andre Braugher,English,USA,1996,352
+Robby Henson,Max Ryan,973,978908,Thr3e ,Justine Waddell,English,Poland,2006,250
+Mike Judge,Patrick Fischler,586,438653,Idiocracy ,David Herman,English,USA,2006,79000
+Zackary Adler,Kevin Leslie,490,,The Rise of the Krays ,Kris Sommerville,English,UK,2015,0
+Shane Meadows,Joseph Gilgun,1000,327919,This Is England ,Jack O'Connell,English,UK,2006,11000
+Dominic Burns,Sean Pertwee,844,,Alien Uprising ,Bianca Brigitte VanDamme,English,UK,2012,0
+George Sidney,Basil Rathbone,675,,Bathing Beauty ,Red Skelton,English,USA,1944,144
+Carmen Marron,Aimee Garcia,847,178739,Go for It! ,Rene Rosado,English,USA,2011,566
+Tim McCanlies,Michael O'Neill,982,565592,"Dancer, Texas Pop. 81 ",Alexandra Holden,English,USA,1998,500
+George Sidney,Ava Gardner,960,,Show Boat ,Howard Keel,English,USA,1951,438
+Mario Van Peebles,Cinda McCain,1000,27012,Redemption Road ,Luke Perry,English,USA,2010,279
+Jason Stone,Ellen Burstyn,2000,,The Calling ,Christopher Heyerdahl,English,USA,2014,0
+Jerry Rees,Phil Hartman,11000,,The Brave Little Toaster ,Mindy Sterling,English,USA,1987,0
+James Algar,Deems Taylor,16,76400000,Fantasia ,,English,USA,1940,3000
+William Friedkin,Fernando Rey,813,,The French Connection ,Tony Lo Bianco,English,USA,1971,0
+Jaco Booyens,Sebastian Aguilar,210,,8 Days ,Ivette Alvarez,English,USA,2014,224
+Steve Miner,Dana Kimmell,72,36200000,Friday the 13th Part III ,Catherine Parks,English,USA,1982,0
+Danny Steinmann,Melanie Kinnaman,42,21300000,Friday the 13th: A New Beginning ,Dominick Brascia,English,USA,1985,1000
+Michael Landon Jr.,Louise Fletcher,861,379643,The Last Sin Eater ,A.J. Buckley,English,USA,2007,285
+Jon Gunn,Delroy Lindo,2000,12985267,Do You Believe? ,Madison Pettis,English,USA,2015,13000
+Hayley Cloake,Kayla Ewell,676,,Impact Point ,Linden Ashby,English,USA,2008,77
+Tay Garnett,Greer Garson,509,,The Valley of Decision ,Lionel Barrymore,English,USA,1945,68
+Shyam Madiraju,Ethan Peck,1000,,Eden ,Brad Schmidt,English,Spain,2015,452
+Harmage Singh Kalirai,Zohra Segal,114,,Chicken Tikka Masala ,Shobu Kapoor,English,UK,2005,172
+Rita Merson,James Wolk,3000,,Always Woodstock ,Jason Ritter,English,USA,2014,107
+Jon Knautz,Daniel Kash,371,,Jack Brooks: Monster Slayer ,Stefanie Drummond,English,Canada,2007,870
+William Wyler,Teresa Wright,749,23650000,The Best Years of Our Lives ,Dana Andrews,English,USA,1946,0
+Larry Clark,Nick Stahl,730,510092,Bully ,Brad Renfro,English,USA,2001,0
+Petter Næss,Per Christian Ellefsen,117,313436,Elling ,Sven Nordin,Norwegian,Norway,2001,0
+Robert Fontaine,Arturo Castro,128,3330,Mi America ,Brad Lee Wind,English,USA,2015,305
+Jaume Balagueró,Pablo Rosso,120,,[Rec] ,Carlos Lasarte,Spanish,Spain,2007,15000
+Patricia Cardoso,Martha Higareda,919,,Lies in Plain Sight ,Cheyenne Haynes,English,USA,2010,162
+Dan Perri,David Proval,749,,Sharkskin ,Carmen Argenziano,English,USA,2015,14
+Neil Mcenery-West,Michael Chapman,846,,Containment ,Louise Brealey,English,UK,2015,275
+Anthony O'Brien,Maria Doyle Kennedy,412,,The Timber ,Shaun O'Hagan,English,USA,2015,380
+Terence Young,Daniela Bianchi,559,24800000,From Russia with Love ,Lois Maxwell,English,UK,1963,0
+Michael Herz,Jessica Dublin,40,792966,The Toxic Avenger Part II ,Lisa Gaye,English,USA,1989,321
+,Alan Autry,480,,In the Heat of the Night             ,Crystal R. Fox,English,USA,,763
+Woody Allen,John Beck,11000,,Sleeper ,Mews Small,English,USA,1973,0
+David Robert Mitchell,Ruby Harris,314,14673301,It Follows ,Jake Weary,English,USA,2014,45000
+Woody Allen,John Carradine,11000,,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,Lynn Redgrave,English,USA,1972,0
+Robert Mulligan,Brock Peters,3000,,To Kill a Mockingbird ,William Windom,English,USA,1962,15000
+George Miller,Bruce Spence,745,9003011,Mad Max 2: The Road Warrior ,Kjell Nilsson,English,Australia,1981,0
+Chia-Liang Liu,Anita Mui,483,11546543,The Legend of Drunken Master ,Ho-Sung Pak,Cantonese,Hong Kong,1994,0
+Stanley Kubrick,Shelley Winters,618,,Lolita ,Lois Maxwell,English,UK,1962,0
+Kimberly Peirce,Brendan Sexton III,173,11533945,Boys Don't Cry ,Jeannetta Arnette,English,USA,1999,0
+Chris Kentis,Julia Taylor Ross,120,12555230,Silent House ,Adam Trese,English,France,2011,0
+Florian Henckel von Donnersmarck,Ulrich Mühe,380,11284657,The Lives of Others ,Martina Gedeck,German,Germany,2006,39000
+Alex Kendrick,Alex Kendrick,690,34522221,Courageous ,T.C. Stallings,English,USA,2011,10000
+Robert Rossen,Jackie Gleason,654,,The Hustler ,Murray Hamilton,English,USA,1961,0
+Jack Conway,Spencer Tracy,1000,,Boom Town ,Claudette Colbert,English,USA,1940,236
+Sylvain Chomet,Charles Linton,23,7002255,The Triplets of Belleville ,Béatrice Bonifassi,French,France,2003,0
+Chris Eyre,Irene Bedard,912,6719300,Smoke Signals ,Gary Farmer,English,Canada,1998,0
+Shari Springer Berman,James Urbaniak,14000,6003587,American Splendor ,Daniel Tay,English,USA,2003,0
+Richard Linklater,Albert Delpy,50,5792822,Before Sunset ,Marie Pillet,English,USA,2004,13000
+Alejandro G. Iñárritu,Jorge Salinas,85,5383834,Amores Perros ,Goya Toledo,Spanish,Mexico,2000,11000
+Catherine Hardwicke,Sarah Clarke,1000,4599680,Thirteen ,Kip Pardue,English,USA,2003,0
+Elia Kazan,Celeste Holm,936,,Gentleman's Agreement ,John Garfield,English,USA,1947,0
+Debra Granik,Shelley Waggener,34000,6531491,Winter's Bone ,Lauren Sweetser,English,USA,2010,20000
+Kevin Macdonald,Brendan Mackey,21,4581222,Touching the Void ,Joe Simpson,English,UK,2003,0
+Henry King,Don Ameche,480,,Alexander's Ragtime Band ,John Carradine,English,USA,1938,60
+Miranda July,Brad William Henke,538,3885134,Me and You and Everyone We Know ,Miranda July,English,USA,2005,0
+Charles Ferguson,George W. Bush,13000,4311834,Inside Job ,Barney Frank,English,USA,2010,63000
+Max Joseph,Emily Ratajkowski,804,3590010,We Are Your Friends ,Jonny Weston,English,UK,2015,0
+Jim Jarmusch,Gano Grills,251,3300230,Ghost Dog: The Way of the Samurai ,Richard Portnow,English,France,1999,0
+David Ayer,Christian Bale,24000,3335839,Harsh Times ,Noel Gugliemi,English,USA,2005,0
+Jerry Jameson,Leonor Varela,1000,2557668,Captive ,Sydelle Noel,English,USA,2015,0
+Steven Soderbergh,Enrico Colantoni,8000,2506446,Full Frontal ,Blair Underwood,English,USA,2002,134
+Kevin Tenney,Tawny Kitaen,265,7369373,Witchboard ,Rose Marie,English,UK,1986,0
+,Amy Sedaris,459,,Strangers with Candy             ,Maria Thayer,English,USA,,558
+Kenneth Branagh,Brian Blessed,597,4414535,Hamlet ,Richard Briers,English,UK,1996,0
+John Cameron Mitchell,Peter Stickles,71,1984378,Shortbus ,Raphael Barker,English,USA,2006,0
+Ari Folman,Ronny Dayag,56,2283276,Waltz with Bashir ,Zahava Solomon,Hebrew,Israel,2008,0
+Gary Rogers,Kirby Heyborne,178,1098224,"The Book of Mormon Movie, Volume 1: The Journey ",Bruce Newbold,English,USA,2003,32
+Charles Ferguson,Dick Cheney,393,1430185,No End in Sight ,Donald Rumsfeld,English,USA,2007,0
+Marielle Heller,David Fine,10000,1477002,The Diary of a Teenage Girl ,Austin Lyon,English,USA,2015,0
+,Jon Tenney,11000,,Get Real             ,Debrah Farentino,English,USA,,43
+David Sington,Buzz Aldrin,168,1134049,In the Shadow of the Moon ,Neil Armstrong,English,UK,2007,0
+Kelly Reichardt,Zoe Kazan,991,977600,Meek's Cutoff ,Shirley Henderson,English,USA,2010,0
+Fenton Bailey,Bill Maher,373,653621,Inside Deep Throat ,Linda Lovelace,English,USA,2005,592
+Bob Giraldi,Manny Perez,388,110000,Dinner Rush ,Ajay Naidu,English,USA,2000,495
+Jill Sprecher,Bob Balaban,584,444354,Clockwatchers ,Jamie Kennedy,English,UK,1997,166
+Huck Botko,Krysta Rodriguez,189,535249,The Virginity Hit ,Zack Pearlman,English,USA,2010,974
+Luc Besson,Isabelle Adjani,1000,,Subway ,Jean-Hugues Anglade,French,France,1985,739
+David Duchovny,Mark Margolis,49000,371081,House of D ,Frank Langella,English,USA,2004,857
+Mitchell Lichtenstein,Nathan Parsons,386,347578,Teeth ,John Hensley,English,USA,2007,17000
+Lance Mungia,Stephane Gauger,33,124494,Six-String Samurai ,Kim De Angelo,English,USA,1998,0
+Kundan Shah,Bobby Deol,353,,Hum To Mohabbat Karega ,Shakti Kapoor,Hindi,India,2000,10
+Michael Dowse,Neil Maskell,326,120620,It's All Gone Pete Tong ,Kate Magowan,English,UK,2004,0
+Hue Rhodes,Steve Buscemi,22000,100669,Saint John of Las Vegas ,Romany Malco,English,USA,2009,407
+Shane Meadows,Annette Badland,5000,,24 7: Twenty Four Seven ,Karl Collins,English,UK,1997,224
+Roland Emmerich,Caleb Landry Jones,25000,186354,Stonewall ,Matt Craven,English,USA,2015,0
+,Colin Ferguson,780,,Eureka             ,Salli Richardson-Whitfield,English,USA,,3000
+Jugal Hansraj,Sanjay Mishra,532,55202,Roadside Romeo ,Javed Jaffrey,Hindi,India,2008,39
+Danny Provenzano,Frank Vincent,584,,This Thing of Ours ,Chuck Zito,English,USA,2003,61
+Bill Muir,Jansen Panettiere,589,549632,The Lost Medallion: The Adventures of Billy Stone ,Tiya Sircar,English,Thailand,2013,715
+Richard LaGravenese,Jeremy Jordan,10000,137945,The Last Five Years ,Charly Bivona,English,USA,2014,0
+Noah Buschel,Amy Ryan,529,17580,The Missing Person ,Paul Adelstein,English,USA,2009,195
+Brian Yuzna,Kent McCord,787,,Return of the Living Dead III ,Sarah Douglas,English,USA,1993,810
+Hunter Richards,Chris Evans,26000,12667,London ,Dane Cook,English,UK,2005,0
+Laurie Collyer,Kate Burton,363,198407,Sherrybaby ,Michelle Hurst,English,USA,2006,474
+Bruce McCulloch,Megan Mullally,985,13973532,Stealing Harvard ,Chris Penn,English,USA,2002,215
+Aaron Hann,Michael McLafferty,160,,Circle ,Kaiwi Lyman-Mersereau,English,USA,2015,0
+James Watkins,Jack O'Connell,13000,5824,Eden Lake ,Lorraine Stanley,English,UK,2008,0
+Catherine Hardwicke,James Kyson,638,2843,Plush ,Marlene Forte,English,USA,2013,604
+Phil Claydon,James Corden,513,,Vampire Killers ,Silvia Colloca,English,UK,2009,0
+Ralph Ziman,Kenneth Nkosi,29,4958,Gangster's Paradise: Jerusalema ,Robert Hobbs,English,South Africa,2008,1000
+John Simpson,Lee Evans,766,,Freeze Frame ,Ian McNeice,English,UK,2004,205
+Colin Minihan,Sean Rogerson,253,,Grave Encounters ,Ashleigh Gryzko,English,Canada,2011,0
+Conor McMahon,Tommy Knight,121,,Stitches ,Jemma Curran,English,Ireland,2012,0
+Chris Shadley,William Lee Scott,413,,Nine Dead ,Marc Macaulay,English,USA,2010,0
+Simon Napier-Bell,Tim Rice,674,,"To Be Frank, Sinatra at 100 ",Louis Walsh,English,UK,2015,0
+Woody Allen,Charlotte Rae,11000,,Bananas ,Louise Lasser,English,USA,1971,0
+Simon Yin,Linus Roache,473,13220,Supercapitalist ,Kathy Uyen,English,USA,2012,115
+Jeff Crook,Mario Cimarro,601,,Rockaway ,Ricardo Chavira,English,USA,2007,44
+,Tim Daly,685,,Wings             ,Amy Yasbeck,English,USA,,1000
+Orson Welles,Everett Sloane,1000,7927,The Lady from Shanghai ,Ted de Corsia,English,USA,1947,0
+Dave Payne,Lew Temple,633,,No Man's Land: The Rise of Reeker ,Robert Pine,English,USA,2008,153
+James Cox,M.C. Gainey,15000,,Highway ,Mark Rolston,English,USA,2002,912

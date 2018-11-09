@@ -1,40 +1,258 @@
-actor_1_name,title_year
-Vivica A. Fox,2016
-Gerard Butler,2010
-Nick Stahl,2003
-Bradley Cooper,2014
-Matthew McConaughey,2014
-Leonardo DiCaprio,2010
-Mark Chinnery,2016
-Aidan Turner,2012
-Paul Walker,2001
-Brad Pitt,2008
-Jennifer Lawrence,2011
-Jennifer Lawrence,2015
-Nicolas Cage,2010
-Jimmy Bennett,2006
-Johnny Depp,2016
-Justin Timberlake,2007
-Dominic Cooper,2016
-J.K. Simmons,2015
-Bruce Spence,2010
-Jennifer Garner,2001
-Zack Ward,2007
-Anthony Hopkins,2004
-Robert Pattinson,2007
-Robert Pattinson,2005
-Will Smith,2008
-Will Smith,2007
-Johnny Depp,2005
-Janeane Garofalo,2007
-Christian Bale,2005
-Bernie Mac,2008
-Robin Williams,2009
-Hugh Jackman,2009
-Essie Davis,2003
-Josh Gad,2013
-Steve Bastoni,2003
-Chris Hemsworth,2013
-Tom Hardy,2015
-Tom Hanks,2009
-Chris Hemsworth,2011
+director_name,num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,movie_imdb_link,num_user_for_reviews,language,country,budget,title_year,aspect_ratio,movie_facebook_likes
+Vincenzo Natali,368,165,559,David Hewlett,Sarah Polley,Splice ,79517,2222,0,http://www.imdb.com/title/tt1017460/?ref_=fn_tt_tt_1,354,English,Canada,26000000,2009,1.85,12000
+Willard Huyck,81,8,322,Jeffrey Jones,Lea Thompson,Howard the Duck ,33669,3000,1,http://www.imdb.com/title/tt0091225/?ref_=fn_tt_tt_1,269,English,USA,35000000,1986,1.85,0
+Gavin O'Connor,154,149,798,Rick Gonzalez,Jennifer Ehle,Pride and Glory ,53053,5101,0,http://www.imdb.com/title/tt0482572/?ref_=fn_tt_tt_1,132,English,USA,30000000,2008,1.85,0
+Bruce Hunt,140,2,258,Cole Hauser,Eddie Cibrian,The Cave ,28606,2178,0,http://www.imdb.com/title/tt0402901/?ref_=fn_tt_tt_1,262,English,USA,30000000,2005,2.35,0
+Rob Reiner,73,0,130,Lobo Sebastian,David Paymer,Alex & Emma ,11520,977,2,http://www.imdb.com/title/tt0318283/?ref_=fn_tt_tt_1,105,English,USA,30000000,2003,1.85,625
+Paul McGuigan,98,118,40,Christopher Cousins,Jessica Paré,Wicker Park ,44979,679,0,http://www.imdb.com/title/tt0324554/?ref_=fn_tt_tt_1,298,English,USA,30000000,2004,2.35,0
+Craig Gillespie,358,44,133,Reid Ewing,Grace Phipps,Fright Night ,85024,1393,1,http://www.imdb.com/title/tt1438176/?ref_=fn_tt_tt_1,242,English,USA,30000000,2011,1.85,23000
+Terrence Malick,222,0,855,Michael Greyeyes,Christian Bale,The New World ,70771,27829,0,http://www.imdb.com/title/tt0402399/?ref_=fn_tt_tt_1,671,English,USA,30000000,2005,2.35,0
+Chris Roberts,85,38,362,David Suchet,Saffron Burrows,Wing Commander ,14747,2497,3,http://www.imdb.com/title/tt0131646/?ref_=fn_tt_tt_1,338,English,USA,30000000,1999,2.35,858
+Neil Jordan,62,277,210,Aidan Quinn,Robert Downey Jr.,In Dreams ,11003,22006,0,http://www.imdb.com/title/tt0120710/?ref_=fn_tt_tt_1,148,English,USA,30000000,1999,1.85,654
+James Wong,130,70,99,Texas Battle,Ian Whyte,Dragonball: Evolution ,56451,1100,0,http://www.imdb.com/title/tt1098327/?ref_=fn_tt_tt_1,524,English,USA,45000000,2009,2.35,0
+Jee-woon Kim,376,419,165,James Burnett,Zach Gilford,The Last Stand ,114241,1643,2,http://www.imdb.com/title/tt1549920/?ref_=fn_tt_tt_1,258,English,USA,45000000,2013,2.35,24000
+Nick Hamm,130,6,353,Cameron Bright,Robert De Niro,Godsend ,22449,23352,1,http://www.imdb.com/title/tt0335121/?ref_=fn_tt_tt_1,191,English,USA,25000000,2004,2.35,387
+Andy Cadiff,65,3,120,Stark Sands,Annabella Sciorra,Chasing Liberty ,30092,842,0,http://www.imdb.com/title/tt0360139/?ref_=fn_tt_tt_1,129,English,USA,23000000,2004,2.35,0
+Mike Disa,77,6,843,Phil LaMarr,Amy Poehler,Hoodwinked Too! Hood vs. Evil ,9682,5393,0,http://www.imdb.com/title/tt0844993/?ref_=fn_tt_tt_1,38,English,USA,30000000,2011,1.85,0
+Lasse Hallström,107,529,83,Camryn Manheim,Morgan Freeman,An Unfinished Life ,24033,11519,3,http://www.imdb.com/title/tt0350261/?ref_=fn_tt_tt_1,152,English,USA,30000000,2005,2.35,0
+Terry Gilliam,292,0,645,Lily Cole,Andrew Garfield,The Imaginarium of Doctor Parnassus ,126307,11769,1,http://www.imdb.com/title/tt1054606/?ref_=fn_tt_tt_1,210,English,UK,40000000,2009,1.85,19000
+Richard J. Lewis,193,12,329,Atom Egoyan,Mark Addy,Barney's Version ,21086,1873,2,http://www.imdb.com/title/tt1423894/?ref_=fn_tt_tt_1,87,English,Canada,,2010,2.35,0
+,16,,51,Ingvar Eggert Sigurðsson,Ólafur Darri Ólafsson,Trapped             ,2308,307,0,http://www.imdb.com/title/tt3561180/?ref_=fn_tt_tt_1,19,Icelandic,Iceland,,,16.0,0
+Brad Furman,184,65,681,John Heard,Justin Timberlake,Runner Runner ,52069,5706,3,http://www.imdb.com/title/tt2364841/?ref_=fn_tt_tt_1,95,English,USA,30000000,2013,2.35,0
+Peter Howitt,123,29,91,Richard Roundtree,Tyler Labine,Antitrust ,25558,1297,2,http://www.imdb.com/title/tt0218817/?ref_=fn_tt_tt_1,221,English,USA,30000000,2001,2.35,0
+Edward Zwick,60,380,2000,Morgan Freeman,Denzel Washington,Glory ,101888,32930,3,http://www.imdb.com/title/tt0097441/?ref_=fn_tt_tt_1,365,English,USA,18000000,1989,1.85,0
+Sergio Leone,111,0,642,Burt Young,Robert De Niro,Once Upon a Time in America ,221000,24719,8,http://www.imdb.com/title/tt0087843/?ref_=fn_tt_tt_1,495,English,Italy,30000000,1984,1.85,12000
+Niels Arden Oplev,217,76,174,Isabelle Huppert,Dominic Cooper,Dead Man Down ,54147,4253,2,http://www.imdb.com/title/tt2101341/?ref_=fn_tt_tt_1,127,English,USA,30000000,2013,2.35,0
+Michael Radford,117,53,548,Mackenzie Crook,Al Pacino,The Merchant of Venice ,29715,16252,3,http://www.imdb.com/title/tt0379889/?ref_=fn_tt_tt_1,161,English,USA,18000000,2004,2.35,0
+Neil Jordan,105,277,345,Saïd Taghmaoui,Emir Kusturica,The Good Thief ,9004,2759,0,http://www.imdb.com/title/tt0281820/?ref_=fn_tt_tt_1,103,English,France,25000000,2002,1.85,287
+Steve Boyum,41,9,826,Mike Vogel,Channing Tatum,Supercross ,3926,21519,1,http://www.imdb.com/title/tt0403016/?ref_=fn_tt_tt_1,38,English,USA,,2005,1.85,353
+Chris Noonan,124,108,135,Bill Paterson,Emily Watson,Miss Potter ,23864,1518,1,http://www.imdb.com/title/tt0482546/?ref_=fn_tt_tt_1,142,English,UK,30000000,2006,2.35,0
+Kaige Chen,90,45,107,Toby Leonard Moore,Dong-gun Jang,The Promise ,8215,949,0,http://www.imdb.com/title/tt0417976/?ref_=fn_tt_tt_1,132,Mandarin,China,60000000,2005,2.35,445
+Corey Yuen,110,23,748,Holly Valance,Steve Howey,DOA: Dead or Alive ,38503,4473,4,http://www.imdb.com/title/tt0398913/?ref_=fn_tt_tt_1,180,English,USA,21000000,2006,2.35,0
+Andrew Dominik,273,181,820,Jeremy Renner,Brad Pitt,The Assassination of Jesse James by the Coward Robert Ford ,136104,22516,0,http://www.imdb.com/title/tt0443680/?ref_=fn_tt_tt_1,415,English,USA,30000000,2007,2.35,0
+Li Zhang,63,0,187,Joan Chen,Bingbing Li,1911 ,4670,1887,0,http://www.imdb.com/title/tt1772230/?ref_=fn_tt_tt_1,27,Mandarin,China,18000000,2011,2.35,0
+Laurent Tirard,56,2,55,Sandrine Kiberlain,Louise Bourgoin,Little Nicholas ,9214,545,7,http://www.imdb.com/title/tt1264904/?ref_=fn_tt_tt_1,17,French,France,,2009,1.85,0
+Simon West,130,165,700,Michael Angarano,Jason Statham,Wild Card ,36487,29773,0,http://www.imdb.com/title/tt2231253/?ref_=fn_tt_tt_1,114,English,USA,30000000,2015,2.35,0
+Marc Forster,134,395,313,Madeline Carroll,Gerard Butler,Machine Gun Preacher ,52972,19620,1,http://www.imdb.com/title/tt1586752/?ref_=fn_tt_tt_1,124,English,USA,30000000,2011,2.35,21000
+Reinhard Klooss,36,7,480,Vanessa Redgrave,Jim Broadbent,Animals United ,4599,3095,0,http://www.imdb.com/title/tt1620449/?ref_=fn_tt_tt_1,44,German,Germany,,2010,2.39,885
+Bille August,46,55,11,Patrick Lyster,Terry Pheto,The Color of Freedom ,10175,143,1,http://www.imdb.com/title/tt0438859/?ref_=fn_tt_tt_1,23,English,Germany,30000000,2007,2.35,0
+Frédéric Auburtin,7,18,432,Thomas Kretschmann,Fisher Stevens,United Passions ,3279,2725,4,http://www.imdb.com/title/tt2814362/?ref_=fn_tt_tt_1,22,English,France,24000000,2014,2.35,0
+Olivier Dahan,132,61,520,Frank Langella,Paz Vega,Grace of Monaco ,12410,2806,3,http://www.imdb.com/title/tt2095649/?ref_=fn_tt_tt_1,62,English,Switzerland,30000000,2014,2.35,6000
+Maksim Fadeev,5,0,21,Fedor Bondarchuk,Konstantin Khabenskiy,A Warrior's Tail ,393,229,1,http://www.imdb.com/title/tt4075322/?ref_=fn_tt_tt_1,7,Russian,Russia,30000000,2015,,161
+Liliana Cavani,56,59,24,Dougray Scott,Ray Winstone,Ripley's Game ,14618,1831,0,http://www.imdb.com/title/tt0265651/?ref_=fn_tt_tt_1,108,English,Italy,30000000,2002,1.85,447
+Greg Tiernan,65,5,365,Salma Hayek,James Franco,Sausage Party ,3302,15795,0,http://www.imdb.com/title/tt1700841/?ref_=fn_tt_tt_1,14,English,USA,19000000,2016,1.85,13000
+Elizabeth Banks,221,0,751,Birgitte Hjort Sørensen,Anna Kendrick,Pitch Perfect 2 ,97697,13159,8,http://www.imdb.com/title/tt2848292/?ref_=fn_tt_tt_1,185,English,USA,29000000,2015,1.85,40000
+James Mangold,291,446,154,Dallas Roberts,Sandra Ellis Lafferty,Walk the Line ,188637,1383,0,http://www.imdb.com/title/tt0358273/?ref_=fn_tt_tt_1,815,English,USA,28000000,2005,2.39,11000
+,13,,442,Kirk Acevedo,Amanda Schull,12 Monkeys             ,20839,3309,0,http://www.imdb.com/title/tt3148266/?ref_=fn_tt_tt_1,56,English,USA,,,16.0,12000
+Edward Norton,148,0,754,Milos Forman,Lisa Edelstein,Keeping the Faith ,44816,5404,3,http://www.imdb.com/title/tt0171433/?ref_=fn_tt_tt_1,259,English,USA,30000000,2000,1.85,0
+Peter Hewitt,42,12,373,Bradley Pierce,Jim Broadbent,The Borrowers ,16222,2056,0,http://www.imdb.com/title/tt0118755/?ref_=fn_tt_tt_1,39,English,UK,29000000,1997,1.85,0
+Ron Howard,302,2000,1000,Clint Howard,Toby Jones,Frost/Nixon ,88682,6161,1,http://www.imdb.com/title/tt0870111/?ref_=fn_tt_tt_1,241,English,USA,35000000,2008,2.35,0
+George Clooney,181,0,89,David Julian Hirsh,Dick Clark,Confessions of a Dangerous Mind ,71596,810,0,http://www.imdb.com/title/tt0270288/?ref_=fn_tt_tt_1,276,English,USA,29000000,2002,2.35,3000
+Reginald Hudlin,64,71,584,Jerry Stiller,Matthew Perry,Serving Sara ,14315,4169,2,http://www.imdb.com/title/tt0261289/?ref_=fn_tt_tt_1,101,English,Germany,29000000,2002,1.85,201
+Ben Falcone,154,265,265,Tyler Labine,Peter Dinklage,The Boss ,16984,23562,1,http://www.imdb.com/title/tt2702724/?ref_=fn_tt_tt_1,96,English,USA,29000000,2016,1.85,0
+Richard Attenborough,17,0,400,Kevin McNally,Denzel Washington,Cry Freedom ,9913,18855,0,http://www.imdb.com/title/tt0092804/?ref_=fn_tt_tt_1,51,English,UK,29000000,1987,2.35,0
+Lawrence Kasdan,65,759,933,Alfre Woodard,Zooey Deschanel,Mumford ,8134,17873,4,http://www.imdb.com/title/tt0140397/?ref_=fn_tt_tt_1,123,English,USA,28000000,1999,2.35,209
+Don Mancini,148,64,363,Billy Boyd,Jason Flemyng,Seed of Chucky ,28632,2567,0,http://www.imdb.com/title/tt0387575/?ref_=fn_tt_tt_1,214,English,Romania,12000000,2004,1.85,0
+John Maybury,161,11,566,Jason Lewis,Jennifer Jason Leigh,The Jacket ,92850,5085,0,http://www.imdb.com/title/tt0366627/?ref_=fn_tt_tt_1,263,English,USA,29000000,2005,2.35,0
+Ron Clements,124,63,631,Frank Welker,Robin Williams,Aladdin ,260939,52970,0,http://www.imdb.com/title/tt0103639/?ref_=fn_tt_tt_1,244,English,USA,28000000,1992,1.33,0
+F. Gary Gray,349,473,303,Neil Brown Jr.,Aldis Hodge,Straight Outta Compton ,119928,2702,0,http://www.imdb.com/title/tt1398426/?ref_=fn_tt_tt_1,331,English,USA,28000000,2015,2.35,76000
+Steven Spielberg,148,14000,237,Amrish Puri,Harrison Ford,Indiana Jones and the Temple of Doom ,329969,11898,2,http://www.imdb.com/title/tt0087469/?ref_=fn_tt_tt_1,524,English,USA,28000000,1984,2.35,0
+Igor Kovalyov,45,5,368,Cree Summer,Elizabeth Daily,The Rugrats Movie ,14005,3438,0,http://www.imdb.com/title/tt0134067/?ref_=fn_tt_tt_1,67,English,USA,24000000,1998,1.85,418
+Lee Tamahori,133,93,878,Billy Burke,Morgan Freeman,Along Came a Spider ,59232,17109,0,http://www.imdb.com/title/tt0164334/?ref_=fn_tt_tt_1,317,English,USA,60000000,2001,2.35,0
+Stephen Frears,87,350,83,Nina Arianda,Meryl Streep,Florence Foster Jenkins ,2167,11534,3,http://www.imdb.com/title/tt4136084/?ref_=fn_tt_tt_1,32,English,UK,29000000,2016,2.35,0
+Robert Rodriguez,178,0,876,Salma Hayek,Johnny Depp,Once Upon a Time in Mexico ,130094,46186,1,http://www.imdb.com/title/tt0285823/?ref_=fn_tt_tt_1,471,English,USA,29000000,2003,1.78,0
+John McTiernan,233,323,541,Bruce Willis,Alan Rickman,Die Hard ,592582,40585,0,http://www.imdb.com/title/tt0095016/?ref_=fn_tt_tt_1,722,English,USA,28000000,1988,2.35,25000
+David Wain,173,136,526,Ken Marino,Joe Lo Truglio,Role Models ,195255,3400,1,http://www.imdb.com/title/tt0430922/?ref_=fn_tt_tt_1,170,English,Germany,28000000,2008,1.85,0
+Adam McKay,426,285,767,Christian Bale,Ryan Gosling,The Big Short ,182983,57308,4,http://www.imdb.com/title/tt1596363/?ref_=fn_tt_tt_1,374,English,USA,28000000,2015,2.35,99000
+Ang Lee,210,0,210,Kevin Chamberlin,Imelda Staunton,Taking Woodstock ,24663,1500,12,http://www.imdb.com/title/tt1127896/?ref_=fn_tt_tt_1,71,English,USA,30000000,2009,1.85,0
+Gavin O'Connor,129,149,250,Noah Emmerich,Eddie Cahill,Miracle ,36636,1845,0,http://www.imdb.com/title/tt0349825/?ref_=fn_tt_tt_1,289,English,USA,28000000,2004,2.4,0
+Zack Snyder,287,0,1000,Kevin Zegers,Ty Burrell,Dawn of the Dead ,194422,10438,0,http://www.imdb.com/title/tt0363547/?ref_=fn_tt_tt_1,1057,English,USA,26000000,2004,2.35,7000
+Adam Shankman,108,163,968,Judy Greer,Matthew McConaughey,The Wedding Planner ,61317,17533,2,http://www.imdb.com/title/tt0209475/?ref_=fn_tt_tt_1,229,English,Germany,35000000,2001,2.35,0
+Shinji Aramaki,62,21,47,Yû Aoi,Shun Oguri,Harlock: Space Pirate ,8227,386,0,http://www.imdb.com/title/tt2668134/?ref_=fn_tt_tt_1,28,Japanese,Japan,30000000,2013,2.35,0
+Wes Anderson,220,0,327,Anjelica Huston,Bill Murray,The Royal Tenenbaums ,209133,14609,1,http://www.imdb.com/title/tt0265666/?ref_=fn_tt_tt_1,962,English,USA,21000000,2001,2.35,0
+James Mangold,136,446,660,Rebecca De Mornay,Clea DuVall,Identity ,177828,3969,0,http://www.imdb.com/title/tt0309698/?ref_=fn_tt_tt_1,714,English,USA,30000000,2003,2.35,11000
+Jon Turteltaub,222,226,966,Morgan Freeman,Robert De Niro,Last Vegas ,106755,35694,2,http://www.imdb.com/title/tt1204975/?ref_=fn_tt_tt_1,173,English,USA,28000000,2013,2.35,27000
+John Glen,112,46,244,Topol,Julian Glover,For Your Eyes Only ,72085,2118,1,http://www.imdb.com/title/tt0082398/?ref_=fn_tt_tt_1,263,English,UK,28000000,1981,2.35,2000
+Peter Chelsom,122,23,6,David Sparrow,Lilli Lavine,Serendipity ,85423,37,0,http://www.imdb.com/title/tt0240890/?ref_=fn_tt_tt_1,374,English,USA,28000000,2001,1.85,12000
+Peter Hyams,62,0,186,Bruce McGill,Mia Sara,Timecop ,44394,2010,1,http://www.imdb.com/title/tt0111438/?ref_=fn_tt_tt_1,115,English,Canada,27000000,1994,2.35,0
+Ben Stiller,135,0,8000,Alexander Skarsgård,Milla Jovovich,Zoolander ,201084,34565,0,http://www.imdb.com/title/tt0196229/?ref_=fn_tt_tt_1,523,English,Germany,28000000,2001,2.35,0
+Lasse Hallström,184,529,325,Noah Lomax,David Lyons,Safe Haven ,78008,1554,0,http://www.imdb.com/title/tt1702439/?ref_=fn_tt_tt_1,160,English,USA,28000000,2013,2.35,23000
+Kenny Ortega,36,197,115,Omri Katz,Vinessa Shaw,Hocus Pocus ,60494,1275,0,http://www.imdb.com/title/tt0107120/?ref_=fn_tt_tt_1,132,English,USA,28000000,1993,1.85,16000
+Scott Hicks,171,96,559,Lily Rabe,Zoë Kravitz,No Reservations ,59068,3497,2,http://www.imdb.com/title/tt0481141/?ref_=fn_tt_tt_1,128,English,USA,28000000,2007,2.35,0
+Matthew Vaughn,447,905,385,Deborah Twiss,Elizabeth McGovern,Kick-Ass ,435864,2357,1,http://www.imdb.com/title/tt1250777/?ref_=fn_tt_tt_1,801,English,UK,30000000,2010,2.35,36000
+Ruben Fleischer,220,181,459,Dilshad Vadsaria,Bianca Kajlich,30 Minutes or Less ,77935,1987,3,http://www.imdb.com/title/tt1622547/?ref_=fn_tt_tt_1,122,English,Germany,28000000,2011,2.35,0
+Patrick Lussier,122,71,1000,Danny Masterson,Gerard Butler,Dracula 2000 ,27378,23344,0,http://www.imdb.com/title/tt0219653/?ref_=fn_tt_tt_1,365,English,USA,28000000,2000,2.35,0
+Miguel Arteta,119,44,3000,Steve Carell,Bella Thorne,"Alexander and the Terrible, Horrible, No Good, Very Bad Day ",29738,47677,6,http://www.imdb.com/title/tt1698641/?ref_=fn_tt_tt_1,85,English,USA,28000000,2014,2.39,12000
+Joe Wright,177,456,241,Brenda Blethyn,Talulah Riley,Pride & Prejudice ,193455,1083,2,http://www.imdb.com/title/tt0414387/?ref_=fn_tt_tt_1,1058,English,France,28000000,2005,2.35,17000
+Ridley Scott,302,0,521,Sean Young,Harrison Ford,Blade Runner ,461609,13877,2,http://www.imdb.com/title/tt0083658/?ref_=fn_tt_tt_1,1168,English,USA,28000000,1982,2.35,34000
+Michael Caton-Jones,44,105,902,Jason Flemyng,Liam Neeson,Rob Roy ,34427,16125,1,http://www.imdb.com/title/tt0114287/?ref_=fn_tt_tt_1,126,English,USA,28000000,1995,2.35,0
+McG,211,368,114,Richard Sammel,Connie Nielsen,3 Days to Kill ,69355,1286,0,http://www.imdb.com/title/tt2172934/?ref_=fn_tt_tt_1,211,English,USA,28000000,2014,2.35,10000
+James Gray,222,115,97,Oleg Taktarov,Robert Duvall,We Own the Night ,72693,3681,4,http://www.imdb.com/title/tt0498399/?ref_=fn_tt_tt_1,199,English,USA,21000000,2007,1.85,0
+Janusz Kaminski,100,710,258,Bob Clendenin,Philip Baker Hall,Lost Souls ,9338,1805,2,http://www.imdb.com/title/tt0160484/?ref_=fn_tt_tt_1,167,English,USA,28000000,2000,2.35,209
+Jacques Perrin,100,63,,Philippe Labro,Jacques Perrin,Winged Migration ,10369,66,0,http://www.imdb.com/title/tt0301727/?ref_=fn_tt_tt_1,153,English,France,160000000,2001,1.85,1000
+Donald Petrie,98,80,585,Carlos Ponce,Samaire Armstrong,Just My Luck ,44103,3211,3,http://www.imdb.com/title/tt0397078/?ref_=fn_tt_tt_1,149,English,USA,28000000,2006,1.85,0
+Jay Roach,74,116,385,Mary McCormack,Scott Grimes,"Mystery, Alaska ",22250,2171,0,http://www.imdb.com/title/tt0134618/?ref_=fn_tt_tt_1,123,English,Canada,28000000,1999,2.35,913
+Brian Levant,97,32,453,Amber Valletta,Madeline Carroll,The Spy Next Door ,29971,3436,4,http://www.imdb.com/title/tt1273678/?ref_=fn_tt_tt_1,71,English,USA,28000000,2010,1.85,0
+Michael Ritchie,21,23,899,Francis Capra,Mara Wilson,A Simple Wish ,4288,5535,3,http://www.imdb.com/title/tt0120133/?ref_=fn_tt_tt_1,21,English,USA,28000000,1997,1.85,517
+John Carpenter,156,0,900,Clea DuVall,Jason Statham,Ghosts of Mars ,43006,28867,5,http://www.imdb.com/title/tt0228333/?ref_=fn_tt_tt_1,460,English,USA,28000000,2001,2.35,0
+David Gordon Green,125,234,660,Zoe Kazan,Dominic Flores,Our Brand Is Crisis ,11476,3944,2,http://www.imdb.com/title/tt1018765/?ref_=fn_tt_tt_1,50,English,USA,28000000,2015,1.85,0
+Burr Steers,225,23,845,Bella Heathcote,Matt Smith,Pride and Prejudice and Zombies ,23775,4710,0,http://www.imdb.com/title/tt1374989/?ref_=fn_tt_tt_1,134,English,USA,28000000,2016,2.35,73000
+Martin Scorsese,85,17000,0,Tulku Jamyang Kunga Tenzin,Tenzin Thuthob Tsarong,Kundun ,21606,4,0,http://www.imdb.com/title/tt0119485/?ref_=fn_tt_tt_1,117,English,USA,28000000,1997,2.35,0
+Robert B. Weide,135,53,87,Katherine Parkinson,James Corden,How to Lose Friends & Alienate People ,61269,858,4,http://www.imdb.com/title/tt0455538/?ref_=fn_tt_tt_1,98,English,UK,27000000,2008,1.85,0
+Jeff Wadlow,350,65,405,Donald Faison,Chloë Grace Moretz,Kick-Ass 2 ,202967,19168,0,http://www.imdb.com/title/tt1650554/?ref_=fn_tt_tt_1,378,English,USA,28000000,2013,2.35,36000
+Agustín Díaz Yanes,31,13,278,Elena Anaya,Viggo Mortensen,Captain Alatriste: The Spanish Musketeer ,10266,11669,1,http://www.imdb.com/title/tt0395119/?ref_=fn_tt_tt_1,84,Spanish,Spain,24000000,2006,1.85,0
+Camille Delamarre,177,11,561,Robert Maillet,Paul Walker,Brick Mansions ,32103,25387,2,http://www.imdb.com/title/tt1430612/?ref_=fn_tt_tt_1,112,English,France,28000000,2014,2.35,0
+John Glen,106,46,293,Kabir Bedi,Louis Jourdan,Octopussy ,74374,1898,0,http://www.imdb.com/title/tt0086034/?ref_=fn_tt_tt_1,225,English,UK,27500000,1983,2.35,0
+Judd Apatow,251,0,529,Martin Starr,Harold Ramis,Knocked Up ,298590,12874,2,http://www.imdb.com/title/tt0478311/?ref_=fn_tt_tt_1,559,English,USA,30000000,2007,1.85,0
+Nick Cassavetes,148,415,228,Sofia Vassilieva,Jason Patric,My Sister's Keeper ,74476,1775,2,http://www.imdb.com/title/tt1078588/?ref_=fn_tt_tt_1,184,English,USA,30000000,2009,2.35,15000
+Malcolm D. Lee,76,92,436,Mike Epps,Mo'Nique,"Welcome Home, Roscoe Jenkins ",10791,3565,3,http://www.imdb.com/title/tt0494652/?ref_=fn_tt_tt_1,39,English,USA,35000000,2008,1.85,464
+David Lean,52,767,162,Judy Davis,Richard Wilson,A Passage to India ,12980,1334,0,http://www.imdb.com/title/tt0087892/?ref_=fn_tt_tt_1,89,English,UK,16000000,1984,1.85,845
+Richard Eyre,220,14,78,Andrew Simpson,Phil Davis,Notes on a Scandal ,64625,646,0,http://www.imdb.com/title/tt0465551/?ref_=fn_tt_tt_1,281,English,UK,15000000,2006,1.85,0
+Gavin Hood,131,151,11000,Jake Gyllenhaal,J.K. Simmons,Rendition ,47203,50950,2,http://www.imdb.com/title/tt0804522/?ref_=fn_tt_tt_1,197,English,USA,27500000,2007,2.35,0
+,7,,535,Mary Elizabeth Mastrantonio,Colin Salmon,Limitless             ,38177,2707,2,http://www.imdb.com/title/tt4422836/?ref_=fn_tt_tt_1,131,English,USA,,,16.0,11000
+Nicholas Meyer,112,120,664,Kurtwood Smith,Leonard Nimoy,Star Trek VI: The Undiscovered Country ,55513,16230,0,http://www.imdb.com/title/tt0102975/?ref_=fn_tt_tt_1,188,English,USA,30000000,1991,2.35,0
+Callie Khouri,93,144,477,Fionnula Flanagan,Ellen Burstyn,Divine Secrets of the Ya-Ya Sisterhood ,15352,3845,4,http://www.imdb.com/title/tt0279778/?ref_=fn_tt_tt_1,199,English,USA,27000000,2002,2.35,0
+Jon Favreau,370,4000,591,Bill Murray,Scarlett Johansson,The Jungle Book ,106221,32921,0,http://www.imdb.com/title/tt3040964/?ref_=fn_tt_tt_1,398,English,UK,175000000,2016,1.85,65000
+Gary Fleder,83,39,685,Tony Goldwyn,Morgan Freeman,Kiss the Girls ,50653,14322,1,http://www.imdb.com/title/tt0119468/?ref_=fn_tt_tt_1,143,English,USA,27000000,1997,2.35,0
+John Landis,125,644,326,Aretha Franklin,John Belushi,The Blues Brothers ,142448,2566,1,http://www.imdb.com/title/tt0080455/?ref_=fn_tt_tt_1,319,English,USA,27000000,1980,1.85,14000
+Sanaa Hamri,73,43,523,Blythe Danner,America Ferrera,The Sisterhood of the Traveling Pants 2 ,22304,3525,4,http://www.imdb.com/title/tt1018785/?ref_=fn_tt_tt_1,33,English,USA,,2008,1.85,894
+Todd Graff,98,650,715,Jeremy Jordan,Dolly Parton,Joyful Noise ,6476,3389,4,http://www.imdb.com/title/tt1710396/?ref_=fn_tt_tt_1,71,English,USA,25000000,2012,2.35,0
+Chris Weitz,158,129,3,Christopher Webster,Sharon Small,About a Boy ,144021,74,0,http://www.imdb.com/title/tt0276751/?ref_=fn_tt_tt_1,391,English,UK,30000000,2002,2.35,0
+Steve Miner,152,49,429,Bridget Fonda,Oliver Platt,Lake Placid ,42761,3313,0,http://www.imdb.com/title/tt0139414/?ref_=fn_tt_tt_1,366,English,USA,27000000,1999,2.35,2000
+Paul McGuigan,202,118,1000,Morgan Freeman,Bruce Willis,Lucky Number Slevin ,262153,26451,3,http://www.imdb.com/title/tt0425210/?ref_=fn_tt_tt_1,507,English,Germany,27000000,2006,2.35,10000
+Philip Kaufman,80,133,820,Scott Glenn,Dennis Quaid,The Right Stuff ,45271,6341,0,http://www.imdb.com/title/tt0086197/?ref_=fn_tt_tt_1,170,English,USA,27000000,1983,1.85,0
+Roland Emmerich,288,776,358,Joely Richardson,Vanessa Redgrave,Anonymous ,34488,2452,3,http://www.imdb.com/title/tt1521197/?ref_=fn_tt_tt_1,136,English,UK,30000000,2011,2.35,15000
+Wolfgang Petersen,99,249,271,Barret Oliver,Gerald McRaney,The NeverEnding Story ,99557,1560,1,http://www.imdb.com/title/tt0088323/?ref_=fn_tt_tt_1,284,English,West Germany,27000000,1984,2.35,21000
+Alex Proyas,222,295,531,William Hurt,Rufus Sewell,Dark City ,156929,4696,1,http://www.imdb.com/title/tt0118929/?ref_=fn_tt_tt_1,624,English,Australia,27000000,1998,2.35,14000
+Saul Dibb,194,10,844,Hayley Atwell,Dominic Cooper,The Duchess ,61777,6420,3,http://www.imdb.com/title/tt0864761/?ref_=fn_tt_tt_1,140,English,UK,13500000,2008,2.35,0
+,15,,94,Art Carney,Jackie Gleason,The Honeymooners             ,3446,812,4,http://www.imdb.com/title/tt0042114/?ref_=fn_tt_tt_1,31,English,USA,,,1.33,459
+Walter Murch,56,181,137,Jean Marsh,Piper Laurie,Return to Oz ,19568,960,0,http://www.imdb.com/title/tt0089908/?ref_=fn_tt_tt_1,208,English,UK,25000000,1985,1.85,0
+Richard Linklater,63,0,324,Lew Temple,Matthew McConaughey,The Newton Boys ,8309,11969,4,http://www.imdb.com/title/tt0120769/?ref_=fn_tt_tt_1,39,English,USA,27000000,1998,2.35,315
+Christian Alvart,167,22,355,Callum Rennie,Bradley Cooper,Case 39 ,60555,15790,1,http://www.imdb.com/title/tt0795351/?ref_=fn_tt_tt_1,174,English,USA,27000000,2009,2.35,0
+E. Elias Merhige,101,54,398,Kevin Chamberlin,Harry Lennix,Suspect Zero ,16555,1721,0,http://www.imdb.com/title/tt0324127/?ref_=fn_tt_tt_1,139,English,USA,27000000,2004,1.33,817
+Menno Meyjes,118,43,460,Richard Schiff,Oliver Platt,Martian Child ,17436,2495,0,http://www.imdb.com/title/tt0415965/?ref_=fn_tt_tt_1,71,English,USA,27000000,2007,1.85,0
+Robert Rodriguez,76,0,640,Joel McHale,Alexa PenaVega,Spy Kids: All the Time in the World in 4D ,15866,4311,5,http://www.imdb.com/title/tt1517489/?ref_=fn_tt_tt_1,83,English,USA,27000000,2011,1.85,0
+Jodie Foster,268,0,638,Jack O'Connell,Julia Roberts,Money Monster ,19611,10894,1,http://www.imdb.com/title/tt2241351/?ref_=fn_tt_tt_1,103,English,USA,27000000,2016,2.35,0
+Ronny Yu,95,31,57,Junix Inocian,Meat Loaf,Formula 51 ,42876,1044,2,http://www.imdb.com/title/tt0227984/?ref_=fn_tt_tt_1,167,English,UK,28000000,2001,2.35,0
+Joel Schumacher,78,541,638,Philip Seymour Hoffman,Robert De Niro,Flawless ,14612,46022,1,http://www.imdb.com/title/tt0155711/?ref_=fn_tt_tt_1,105,English,USA,15000000,1999,1.85,0
+Renny Harlin,127,212,749,Clifton Collins Jr.,LL Cool J,Mindhunters ,49405,4186,0,http://www.imdb.com/title/tt0297284/?ref_=fn_tt_tt_1,226,English,USA,27000000,2004,2.35,2000
+Barry Levinson,137,272,17000,Robin Wright,Robert De Niro,What Just Happened ,23767,71973,1,http://www.imdb.com/title/tt0486674/?ref_=fn_tt_tt_1,111,English,USA,25000000,2008,2.35,845
+Norman Jewison,54,278,387,Colin Salmon,Charlotte Rampling,The Statement ,4257,3286,4,http://www.imdb.com/title/tt0340376/?ref_=fn_tt_tt_1,52,English,Canada,23000000,2003,1.85,188
+Kenneth Branagh,38,0,3,Amy Carson,Kim-Marie Woodhouse,The Magic Flute ,926,24,1,http://www.imdb.com/title/tt0475331/?ref_=fn_tt_tt_1,19,English,France,27000000,2006,2.35,359
+Steve Carr,167,41,328,Adhir Kalyan,Erick Avari,Paul Blart: Mall Cop ,84209,2954,1,http://www.imdb.com/title/tt1114740/?ref_=fn_tt_tt_1,201,English,USA,26000000,2009,1.85,0
+Mark Waters,129,70,512,Julie Gonzalo,Jamie Lee Curtis,Freaky Friday ,96693,3984,2,http://www.imdb.com/title/tt0322330/?ref_=fn_tt_tt_1,271,English,USA,26000000,2003,1.85,0
+Judd Apatow,217,0,218,Romany Malco,Steve Carell,The 40-Year-Old Virgin ,313797,8341,1,http://www.imdb.com/title/tt0405422/?ref_=fn_tt_tt_1,546,English,USA,26000000,2005,1.85,0
+John Madden,134,108,239,Martin Clunes,Tom Wilkinson,Shakespeare in Love ,175524,1690,0,http://www.imdb.com/title/tt0138097/?ref_=fn_tt_tt_1,752,English,USA,25000000,1998,2.35,0
+Scott Frank,253,71,313,Boyd Holbrook,Liam Neeson,A Walk Among the Tombstones ,87950,15428,0,http://www.imdb.com/title/tt0365907/?ref_=fn_tt_tt_1,207,English,USA,28000000,2014,2.35,15000
+Ivan Reitman,46,425,344,Cathy Moriarty,Richard Tyson,Kindergarten Cop ,107801,2403,4,http://www.imdb.com/title/tt0099938/?ref_=fn_tt_tt_1,109,English,USA,26000000,1990,1.85,0
+David Gordon Green,232,234,919,Gary Cole,James Franco,Pineapple Express ,255257,15590,3,http://www.imdb.com/title/tt0910936/?ref_=fn_tt_tt_1,374,English,USA,27000000,2008,2.35,0
+Andy Tennant,92,72,343,Dougray Scott,Anjelica Huston,Ever After: A Cinderella Story ,57958,2747,1,http://www.imdb.com/title/tt0120631/?ref_=fn_tt_tt_1,345,English,USA,26000000,1998,2.35,0
+Kevin Costner,153,0,648,Michael Jeter,Robert Duvall,Open Range ,54096,5458,0,http://www.imdb.com/title/tt0316356/?ref_=fn_tt_tt_1,494,English,USA,22000000,2003,2.35,0
+Joel Schumacher,49,541,442,Oliver Platt,Julia Roberts,Flatliners ,62037,10493,5,http://www.imdb.com/title/tt0099582/?ref_=fn_tt_tt_1,148,English,USA,26000000,1990,2.35,0
+,79,,424,Kaitlin Olson,Rob McElhenney,It's Always Sunny in Philadelphia             ,133415,1784,5,http://www.imdb.com/title/tt0472954/?ref_=fn_tt_tt_1,151,English,USA,,,1.33,0
+Richard Attenborough,56,0,14,Dirk Bogarde,Ryan O'Neal,A Bridge Too Far ,40277,669,14,http://www.imdb.com/title/tt0075784/?ref_=fn_tt_tt_1,210,English,USA,26000000,1977,2.35,0
+Wes Craven,224,0,178,Carl Gilliard,Robert Pine,Red Eye ,94108,1090,0,http://www.imdb.com/title/tt0421239/?ref_=fn_tt_tt_1,673,English,USA,26000000,2005,2.35,0
+David R. Ellis,175,160,392,Michael Landes,Sarah Carter,Final Destination 2 ,120786,3172,0,http://www.imdb.com/title/tt0309593/?ref_=fn_tt_tt_1,472,English,USA,26000000,2003,1.85,0
+Joel Coen,197,0,577,Tim Blake Nelson,Holly Hunter,"O Brother, Where Art Thou? ",225102,3066,3,http://www.imdb.com/title/tt0190590/?ref_=fn_tt_tt_1,862,English,UK,26000000,2000,2.35,16000
+Scott Stewart,226,124,534,Kate Walsh,Dennis Quaid,Legion ,80870,3889,0,http://www.imdb.com/title/tt1038686/?ref_=fn_tt_tt_1,315,English,USA,26000000,2010,2.35,0
+Michael Bay,335,0,385,Larry Hankin,Dwayne Johnson,Pain & Gain ,161168,13573,4,http://www.imdb.com/title/tt1980209/?ref_=fn_tt_tt_1,287,English,USA,26000000,2013,2.35,43000
+Paul Weitz,157,80,2000,Ty Burrell,Scarlett Johansson,In Good Company ,48973,28493,2,http://www.imdb.com/title/tt0385267/?ref_=fn_tt_tt_1,214,English,USA,26000000,2004,1.85,736
+Jonathan Frakes,69,906,528,Paula Garcés,Michael Biehn,Clockstoppers ,11212,3917,0,http://www.imdb.com/title/tt0157472/?ref_=fn_tt_tt_1,94,English,USA,26000000,2002,1.85,874
+Lawrence Kasdan,46,759,67,Todd Allen,Scott Glenn,Silverado ,28247,1154,4,http://www.imdb.com/title/tt0090022/?ref_=fn_tt_tt_1,149,English,USA,26000000,1985,2.35,0
+Jim Sheridan,217,260,3000,Jake Gyllenhaal,Natalie Portman,Brothers ,88035,42473,0,http://www.imdb.com/title/tt0765010/?ref_=fn_tt_tt_1,201,English,USA,26000000,2009,2.35,10000
+Kevin Allen,55,8,588,Frankie Muniz,Daniel Roebuck,Agent Cody Banks 2: Destination London ,11092,3742,4,http://www.imdb.com/title/tt0358349/?ref_=fn_tt_tt_1,44,English,USA,26000000,2004,2.35,167
+Garry Marshall,200,0,307,Common,Robert De Niro,New Year's Eve ,66579,23456,15,http://www.imdb.com/title/tt1598822/?ref_=fn_tt_tt_1,134,English,USA,56000000,2011,1.85,20000
+Michael Cristofer,93,49,155,Gregory Itzin,Angelina Jolie Pitt,Original Sin ,44913,11662,1,http://www.imdb.com/title/tt0218922/?ref_=fn_tt_tt_1,181,English,France,42000000,2001,2.35,3000
+James McTeigue,265,160,427,Dave Legeno,Pam Ferris,The Raven ,72886,2356,1,http://www.imdb.com/title/tt1486192/?ref_=fn_tt_tt_1,190,English,USA,26000000,2012,2.35,35000
+Donald Petrie,82,80,509,Ray Romano,Rip Torn,Welcome to Mooseport ,10667,2466,2,http://www.imdb.com/title/tt0361925/?ref_=fn_tt_tt_1,95,English,USA,26000000,2004,1.85,260
+Andrew Morahan,32,5,535,Mako,Christopher Lambert,Highlander: The Final Dimension ,16194,2960,0,http://www.imdb.com/title/tt0110027/?ref_=fn_tt_tt_1,79,English,Canada,26000000,1994,2.35,319
+Bob Rafelson,42,30,223,Mike Starr,Harold Perrineau,Blood and Wine ,7772,2228,3,http://www.imdb.com/title/tt0115710/?ref_=fn_tt_tt_1,55,English,USA,22000000,1996,1.85,145
+Michael Cohn,22,2,512,Chris Bauer,David Conrad,Snow White: A Tale of Terror ,8118,2170,2,http://www.imdb.com/title/tt0119227/?ref_=fn_tt_tt_1,69,English,USA,26000000,1997,1.85,0
+Woody Allen,116,11000,277,Elizabeth Berkley,Woody Allen,The Curse of the Jade Scorpion ,31798,12534,0,http://www.imdb.com/title/tt0256524/?ref_=fn_tt_tt_1,178,English,USA,26000000,2001,1.37,826
+David O. Russell,56,737,816,Kirstie Alley,Jake Gyllenhaal,Accidental Love ,5006,19068,5,http://www.imdb.com/title/tt1137470/?ref_=fn_tt_tt_1,28,English,USA,26000000,2015,1.85,0
+Alan Shapiro,23,0,26,Chelsea Field,Paul Hogan,Flipper ,8008,616,1,http://www.imdb.com/title/tt0116322/?ref_=fn_tt_tt_1,26,English,USA,25530000,1996,2.35,504
+Tarsem Singh,178,763,523,Derek Luke,Ryan Reynolds,Self/less ,57674,17847,0,http://www.imdb.com/title/tt2140379/?ref_=fn_tt_tt_1,126,English,USA,26000000,2015,2.35,11000
+Fernando Meirelles,226,353,151,Danny Huston,Archie Panjabi,The Constant Gardener ,111351,1565,0,http://www.imdb.com/title/tt0387131/?ref_=fn_tt_tt_1,568,English,UK,15000000,2005,1.85,0
+Mel Gibson,406,0,113,Maia Morgenstern,Christo Jivkov,The Passion of the Christ ,179235,705,0,http://www.imdb.com/title/tt0335345/?ref_=fn_tt_tt_1,2814,Aramaic,USA,30000000,2004,2.35,13000
+Chris Columbus,57,0,711,Mara Wilson,Robin Williams,Mrs. Doubtfire ,181380,52201,5,http://www.imdb.com/title/tt0107614/?ref_=fn_tt_tt_1,223,English,USA,25000000,1993,2.35,0
+Barry Levinson,100,272,628,Valeria Golino,Tom Cruise,Rain Man ,383784,12285,3,http://www.imdb.com/title/tt0095953/?ref_=fn_tt_tt_1,331,English,USA,25000000,1988,1.85,12000
+Clint Eastwood,366,16000,198,Dreama Walker,Clint Eastwood,Gran Torino ,561773,17347,0,http://www.imdb.com/title/tt1205489/?ref_=fn_tt_tt_1,871,English,USA,33000000,2008,2.35,28000
+Oliver Stone,242,0,655,Scott Glenn,Toby Jones,W. ,40941,4264,1,http://www.imdb.com/title/tt1175491/?ref_=fn_tt_tt_1,320,English,USA,25100000,2008,2.35,0
+Pierre Morel,309,180,485,Holly Valance,Liam Neeson,Taken ,483756,16461,0,http://www.imdb.com/title/tt0936501/?ref_=fn_tt_tt_1,974,English,France,25000000,2008,2.35,29000
+Michael Hoffman,85,97,437,Gerald McRaney,Luke Bracey,The Best of Me ,43084,3197,0,http://www.imdb.com/title/tt1972779/?ref_=fn_tt_tt_1,99,English,USA,26000000,2014,2.35,19000
+Mick Jackson,48,81,164,Mike Starr,Bill Cobbs,The Bodyguard ,89972,2551,0,http://www.imdb.com/title/tt0103855/?ref_=fn_tt_tt_1,126,English,USA,25000000,1992,1.85,0
+Steven Spielberg,174,14000,212,Embeth Davidtz,Liam Neeson,Schindler's List ,865020,15233,0,http://www.imdb.com/title/tt0108052/?ref_=fn_tt_tt_1,1273,English,USA,22000000,1993,1.85,41000
+Tate Taylor,373,150,2000,Bryce Dallas Howard,Emma Stone,The Help ,318955,23227,2,http://www.imdb.com/title/tt1454029/?ref_=fn_tt_tt_1,460,English,USA,25000000,2011,1.85,75000
+Bill Condon,224,386,203,Peter Capaldi,Benedict Cumberbatch,The Fifth Estate ,29282,36337,1,http://www.imdb.com/title/tt1837703/?ref_=fn_tt_tt_1,105,English,USA,28000000,2013,2.35,11000
+Raja Gosnell,94,67,596,Linda Cardellini,Sarah Michelle Gellar,Scooby-Doo 2: Monsters Unleashed ,33180,7800,0,http://www.imdb.com/title/tt0331632/?ref_=fn_tt_tt_1,149,English,USA,80000000,2004,1.85,567
+Oleg Stepchenko,25,0,48,Igor Jijikine,Jason Flemyng,Viy ,3170,1166,1,http://www.imdb.com/title/tt1224378/?ref_=fn_tt_tt_1,18,Russian,Russia,26000000,2014,1.85,0
+Ronny Yu,273,31,662,Jason Ritter,Katharine Isabelle,Freddy vs. Jason ,89101,4692,0,http://www.imdb.com/title/tt0329101/?ref_=fn_tt_tt_1,885,English,USA,30000000,2003,2.35,3000
+Michael Winterbottom,78,187,127,Ava Acres,Cara Delevingne,The Face of an Angel ,2863,1041,2,http://www.imdb.com/title/tt2967008/?ref_=fn_tt_tt_1,25,English,UK,,2014,2.35,488
+John A. Davis,66,8,179,Rob Paulsen,Martin Short,Jimmy Neutron: Boy Genius ,23943,2251,0,http://www.imdb.com/title/tt0268397/?ref_=fn_tt_tt_1,118,English,USA,30000000,2001,1.85,425
+Matt Reeves,459,198,387,Ben Feldman,Mike Vogel,Cloverfield ,296787,3958,0,http://www.imdb.com/title/tt1060277/?ref_=fn_tt_tt_1,2192,English,USA,25000000,2008,1.85,0
+Michael Pressman,68,34,445,Paige Turco,Kevin Nash,Teenage Mutant Ninja Turtles II: The Secret of the Ooze ,42765,2501,0,http://www.imdb.com/title/tt0103060/?ref_=fn_tt_tt_1,93,English,USA,25000000,1991,1.85,0
+Brian De Palma,123,0,188,Billy Drago,Robert De Niro,The Untouchables ,219008,22767,1,http://www.imdb.com/title/tt0094226/?ref_=fn_tt_tt_1,418,English,USA,25000000,1987,2.35,0
+Ethan Coen,488,1000,883,Stephen Root,Kelly Macdonald,No Country for Old Men ,612060,4738,0,http://www.imdb.com/title/tt0477348/?ref_=fn_tt_tt_1,1518,English,USA,25000000,2007,2.35,21000
+Tim Story,146,167,460,Tika Sumpter,Bruce McGill,Ride Along ,75903,2394,1,http://www.imdb.com/title/tt1408253/?ref_=fn_tt_tt_1,109,English,USA,25000000,2014,2.35,0
+Sharon Maguire,168,11,887,Jim Broadbent,Colin Firth,Bridget Jones's Diary ,171568,16999,3,http://www.imdb.com/title/tt0243155/?ref_=fn_tt_tt_1,571,English,UK,26000000,2001,2.35,0
+Lasse Hallström,152,529,163,Leslie Caron,Lena Olin,Chocolat ,150308,1323,1,http://www.imdb.com/title/tt0241303/?ref_=fn_tt_tt_1,498,English,UK,25000000,2000,1.85,18000
+Charles Herman-Wurmfeld,133,0,643,Bruce McGill,Mary Lynn Rajskub,"Legally Blonde 2: Red, White & Blonde ",46417,3500,2,http://www.imdb.com/title/tt0333780/?ref_=fn_tt_tt_1,297,English,USA,45000000,2003,1.85,660
+Andy Fickman,139,99,433,Gedde Watanabe,Bailee Madison,Parental Guidance ,21176,5740,5,http://www.imdb.com/title/tt1047540/?ref_=fn_tt_tt_1,107,English,USA,25000000,2012,1.85,0
+Ivan Reitman,245,425,766,Greta Gerwig,Natalie Portman,No Strings Attached ,168717,22739,1,http://www.imdb.com/title/tt1411238/?ref_=fn_tt_tt_1,178,English,USA,25000000,2011,2.35,24000
+George P. Cosmatos,84,170,472,Dana Delany,Michael Biehn,Tombstone ,95241,4453,0,http://www.imdb.com/title/tt0108358/?ref_=fn_tt_tt_1,439,English,USA,25000000,1993,2.35,11000
+Andrzej Bartkowiak,70,43,775,Delroy Lindo,Jet Li,Romeo Must Die ,57040,9082,1,http://www.imdb.com/title/tt0165929/?ref_=fn_tt_tt_1,365,English,USA,25000000,2000,2.35,0
+Richard Donner,154,503,108,Patrick Troughton,Lee Remick,The Omen ,80958,673,2,http://www.imdb.com/title/tt0075005/?ref_=fn_tt_tt_1,310,English,UK,2800000,1976,2.35,7000
+James Wong,216,70,318,Gina Holden,Chelan Simmons,Final Destination 3 ,102861,2420,0,http://www.imdb.com/title/tt0414982/?ref_=fn_tt_tt_1,571,English,Germany,25000000,2006,2.35,0
+Scott Hicks,170,96,204,Riley Thomas Stewart,Blythe Danner,The Lucky One ,76882,1852,0,http://www.imdb.com/title/tt1327194/?ref_=fn_tt_tt_1,106,English,USA,25000000,2012,2.35,29000
+Gabor Csupo,181,47,3000,Zooey Deschanel,Josh Hutcherson,Bridge to Terabithia ,110390,28071,3,http://www.imdb.com/title/tt0398808/?ref_=fn_tt_tt_1,522,English,USA,17000000,2007,1.85,6000
+Marc Forster,226,395,2000,Kate Winslet,Johnny Depp,Finding Neverland ,174591,58823,1,http://www.imdb.com/title/tt0308644/?ref_=fn_tt_tt_1,632,English,USA,25000000,2004,2.35,0
+Tyler Perry,24,0,400,Tika Sumpter,Alicia Witt,A Madea Christmas ,4265,3202,0,http://www.imdb.com/title/tt2609758/?ref_=fn_tt_tt_1,27,English,USA,25000000,2013,1.85,0
+Joe Carnahan,408,248,726,Frank Grillo,Liam Neeson,The Grey ,203111,16606,1,http://www.imdb.com/title/tt1601913/?ref_=fn_tt_tt_1,755,English,USA,25000000,2011,2.35,32000
+John Polson,180,21,317,Dylan Baker,Robert De Niro,Hide and Seek ,70205,23328,0,http://www.imdb.com/title/tt0382077/?ref_=fn_tt_tt_1,450,English,USA,30000000,2005,2.35,0
+Adam McKay,181,285,7000,Will Ferrell,Darcy Donavan,Anchorman: The Legend of Ron Burgundy ,267921,656730,5,http://www.imdb.com/title/tt0357413/?ref_=fn_tt_tt_1,577,English,USA,26000000,2004,1.85,0
+Martin Scorsese,192,17000,635,Mike Starr,Robert De Niro,Goodfellas ,728685,24783,3,http://www.imdb.com/title/tt0099685/?ref_=fn_tt_tt_1,989,English,USA,25000000,1990,1.85,25000
+Harald Zwart,79,91,434,Frankie Muniz,Daniel Roebuck,Agent Cody Banks ,26755,3037,3,http://www.imdb.com/title/tt0313911/?ref_=fn_tt_tt_1,104,English,USA,26000000,2003,2.35,542
+Kirk Jones,128,52,579,Kelly Macdonald,Colin Firth,Nanny McPhee ,49676,17278,0,http://www.imdb.com/title/tt0396752/?ref_=fn_tt_tt_1,181,English,USA,25000000,2005,2.35,0
+Brian De Palma,147,0,638,F. Murray Abraham,Al Pacino,Scarface ,537442,16464,0,http://www.imdb.com/title/tt0086250/?ref_=fn_tt_tt_1,851,English,USA,25000000,1983,2.35,19000
+Steve Oedekerk,49,176,468,Michael McKean,Kelly Preston,Nothing to Lose ,36253,2457,2,http://www.imdb.com/title/tt0119807/?ref_=fn_tt_tt_1,92,English,USA,25000000,1997,1.85,0
+Bernardo Bertolucci,75,973,400,Joan Chen,Cary-Hiroyuki Tagawa,The Last Emperor ,70274,2451,0,http://www.imdb.com/title/tt0093389/?ref_=fn_tt_tt_1,133,English,China,23000000,1987,2.35,0
+Baltasar Kormákur,270,175,733,David O'Hara,J.K. Simmons,Contraband ,101977,26625,3,http://www.imdb.com/title/tt1524137/?ref_=fn_tt_tt_1,161,English,USA,25000000,2012,2.35,0
+Brett Ratner,29,420,585,Paul Sorvino,Heather Locklear,Money Talks ,22748,2530,2,http://www.imdb.com/title/tt0119695/?ref_=fn_tt_tt_1,41,English,USA,25000000,1997,2.35,666
+Paul Thomas Anderson,398,0,104,Paul F. Tompkins,Jim Meskimen,There Will Be Blood ,372990,533,0,http://www.imdb.com/title/tt0469494/?ref_=fn_tt_tt_1,1107,English,USA,25000000,2007,2.35,16000
+Cathy Malkasian,38,0,503,Flea,Alfre Woodard,The Wild Thornberrys Movie ,12218,2908,0,http://www.imdb.com/title/tt0282120/?ref_=fn_tt_tt_1,33,English,USA,25000000,2002,2.35,187
+John Eng,45,0,362,Cree Summer,Elizabeth Daily,Rugrats Go Wild ,5674,3017,0,http://www.imdb.com/title/tt0337711/?ref_=fn_tt_tt_1,35,English,USA,25000000,2003,2.35,329
+Malcolm D. Lee,81,92,466,Eddie Griffin,Dave Chappelle,Undercover Brother ,29661,3001,3,http://www.imdb.com/title/tt0279493/?ref_=fn_tt_tt_1,179,English,USA,25000000,2002,1.85,0
+Ken Kwapis,88,42,917,America Ferrera,Mike Vogel,The Sisterhood of the Traveling Pants ,44838,6862,0,http://www.imdb.com/title/tt0403508/?ref_=fn_tt_tt_1,223,English,USA,25000000,2005,2.35,0
+Chris Nahon,116,20,872,Bridget Fonda,Jet Li,Kiss of the Dragon ,53126,7945,1,http://www.imdb.com/title/tt0271027/?ref_=fn_tt_tt_1,254,English,France,25000000,2001,2.35,0
+Fred Wolf,129,29,816,Katharine McPhee,Emma Stone,The House Bunny ,63969,18789,1,http://www.imdb.com/title/tt0852713/?ref_=fn_tt_tt_1,126,English,USA,25000000,2008,2.35,0
+Bille Woodruff,72,23,485,Keshia Knight Pulliam,Alfre Woodard,Beauty Shop ,13194,3535,1,http://www.imdb.com/title/tt0388500/?ref_=fn_tt_tt_1,59,English,USA,,2005,2.35,671
+Craig Gillespie,151,44,367,Suraj Sharma,Jon Hamm,Million Dollar Arm ,35833,6393,0,http://www.imdb.com/title/tt1647668/?ref_=fn_tt_tt_1,96,English,USA,25000000,2014,2.39,10000
+Phillip Noyce,198,176,10000,Meryl Streep,Jeff Bridges,The Giver ,86251,36064,3,http://www.imdb.com/title/tt0435651/?ref_=fn_tt_tt_1,260,English,South Africa,25000000,2014,2.35,58000
+Dennie Gordon,66,29,742,Oliver James,Colin Firth,What a Girl Wants ,48095,16400,1,http://www.imdb.com/title/tt0286788/?ref_=fn_tt_tt_1,194,English,USA,20000000,2003,2.35,0
+Victor Salva,167,108,177,Jonathan Breck,Nicki Aycox,Jeepers Creepers II ,45102,1340,0,http://www.imdb.com/title/tt0301470/?ref_=fn_tt_tt_1,316,English,USA,17000000,2003,2.35,0
+Mark Helfrich,127,7,440,Dan Fogler,Dane Cook,Good Luck Chuck ,74622,2822,1,http://www.imdb.com/title/tt0452625/?ref_=fn_tt_tt_1,150,English,USA,25000000,2007,1.85,0
+Andrzej Bartkowiak,109,43,432,Tom Arnold,Jet Li,Cradle 2 the Grave ,34942,6867,2,http://www.imdb.com/title/tt0306685/?ref_=fn_tt_tt_1,185,English,USA,30000000,2003,2.35,1000
+Stephen Daldry,174,335,530,Stephen Dillane,Meryl Streep,The Hours ,102123,12624,3,http://www.imdb.com/title/tt0274558/?ref_=fn_tt_tt_1,660,English,USA,25000000,2002,1.85,0
+Andy Fickman,91,99,960,Alexandra Breckenridge,Channing Tatum,She's the Man ,116762,20109,0,http://www.imdb.com/title/tt0454945/?ref_=fn_tt_tt_1,261,English,USA,20000000,2006,1.85,0
+Steve Bendelack,151,68,100,Emma de Caunes,Lily Atkinson,Mr. Bean's Holiday ,88714,794,0,http://www.imdb.com/title/tt0453451/?ref_=fn_tt_tt_1,235,English,UK,25000000,2007,1.85,0
+Dwight H. Little,94,27,522,Salli Richardson-Whitfield,Nicholas Gonzalez,Anacondas: The Hunt for the Blood Orchid ,22243,2730,0,http://www.imdb.com/title/tt0366174/?ref_=fn_tt_tt_1,144,English,USA,25000000,2004,2.35,686
+Guillaume Canet,91,0,745,Lili Taylor,Mila Kunis,Blood Ties ,14612,18442,6,http://www.imdb.com/title/tt1747958/?ref_=fn_tt_tt_1,41,English,France,25500000,2013,2.35,0
+Kirsten Sheridan,148,59,403,Aaron Staton,Robin Williams,August Rush ,87331,50927,0,http://www.imdb.com/title/tt0426931/?ref_=fn_tt_tt_1,364,English,USA,30000000,2007,2.35,18000
+Shekhar Kapur,141,159,240,John Gielgud,Fanny Ardant,Elizabeth ,75973,1006,1,http://www.imdb.com/title/tt0127536/?ref_=fn_tt_tt_1,409,English,UK,25000000,1998,1.85,0
+Ronny Yu,114,31,71,Park Bench,Alexis Arquette,Bride of Chucky ,39768,667,0,http://www.imdb.com/title/tt0144120/?ref_=fn_tt_tt_1,292,English,Canada,25000000,1998,1.85,0
+Richard Fleischer,79,130,288,Richard Anderson,Joseph Cotten,Tora! Tora! Tora! ,25019,1548,0,http://www.imdb.com/title/tt0066473/?ref_=fn_tt_tt_1,159,English,Japan,25000000,1970,2.35,0
+Bob Spiers,33,14,199,Richard Briers,Jason Flemyng,Spice World ,28377,2176,1,http://www.imdb.com/title/tt0120185/?ref_=fn_tt_tt_1,261,English,UK,25000000,1997,1.85,0
+David Gordon Green,146,234,370,J.B. Smoove,Ari Graynor,The Sitter ,60202,3850,3,http://www.imdb.com/title/tt1366344/?ref_=fn_tt_tt_1,114,English,USA,,2011,1.85,0
+Damien Dante Wayans,83,82,571,Essence Atkins,Damon Wayans Jr.,Dance Flick ,10161,4378,0,http://www.imdb.com/title/tt1153706/?ref_=fn_tt_tt_1,50,English,USA,25000000,2009,1.85,657
+Frank Darabont,199,0,461,Jeffrey DeMunn,Morgan Freeman,The Shawshank Redemption ,1689764,13495,0,http://www.imdb.com/title/tt0111161/?ref_=fn_tt_tt_1,4144,English,USA,25000000,1994,1.85,108000
+Simon Wincer,71,23,162,Paul Hogan,Jere Burns,Crocodile Dundee in Los Angeles ,19699,1315,0,http://www.imdb.com/title/tt0231402/?ref_=fn_tt_tt_1,119,English,Australia,21150000,2001,1.85,387
+Bobby Farrelly,62,101,743,Lin Shaye,Bill Murray,Kingpin ,63459,16937,2,http://www.imdb.com/title/tt0116778/?ref_=fn_tt_tt_1,185,English,USA,27000000,1996,2.35,3000
+Rupert Wyatt,175,81,81,Cjon Saulsberry,George Kennedy,The Gambler ,48559,3784,1,http://www.imdb.com/title/tt2039393/?ref_=fn_tt_tt_1,145,English,USA,25000000,2014,2.35,0
+John Wells,322,53,8000,Meryl Streep,Benedict Cumberbatch,August: Osage County ,67797,39690,3,http://www.imdb.com/title/tt1322269/?ref_=fn_tt_tt_1,285,English,USA,25000000,2013,2.35,30000
+Tim Fywell,67,3,28,Trevor Blumas,Connie Ray,Ice Princess ,19737,235,2,http://www.imdb.com/title/tt0396652/?ref_=fn_tt_tt_1,81,English,USA,,2005,1.85,901
+Nigel Cole,112,13,165,Tyrone Giordano,Aimee Garcia,A Lot Like Love ,58297,1095,3,http://www.imdb.com/title/tt0391304/?ref_=fn_tt_tt_1,161,English,USA,30000000,2005,1.85,0
+Dexter Fletcher,216,452,141,Taron Egerton,Hugh Jackman,Eddie the Eagle ,32507,21195,3,http://www.imdb.com/title/tt1083452/?ref_=fn_tt_tt_1,119,English,UK,23000000,2016,2.35,15000
+Spike Lee,48,0,3000,Milla Jovovich,Denzel Washington,He Got Game ,36108,37315,0,http://www.imdb.com/title/tt0124718/?ref_=fn_tt_tt_1,109,English,USA,25000000,1998,1.85,0
+Jeremy Leven,44,19,977,Marlon Brando,Johnny Depp,Don Juan DeMarco ,41310,52122,3,http://www.imdb.com/title/tt0112883/?ref_=fn_tt_tt_1,117,English,USA,25000000,1994,1.85,0
+,12,,3,John Sparkes,Justin Fletcher,Shaun the Sheep             ,7968,55,0,http://www.imdb.com/title/tt0983983/?ref_=fn_tt_tt_1,12,English,UK,,,,834
+Lasse Hallström,162,529,690,Henry Thomas,Channing Tatum,Dear John ,104356,19945,,http://www.imdb.com/title/tt0989757/?ref_=fn_tt_tt_1,186,English,USA,25000000,2010,2.35,14000

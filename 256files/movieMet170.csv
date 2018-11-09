@@ -1,112 +1,333 @@
-director_name,num_critic_for_reviews,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,genres,actor_1_name,actor_3_name,facenumber_in_poster,plot_keywords,movie_imdb_link,country,budget,title_year,imdb_score
-Glenn Ficarra,242,43,113,170,Biography|Comedy|Crime|Drama|Romance,Dameon Clarke,Annie Golden,0,character name in title|con artist|fraud|gay|prison break,http://www.imdb.com/title/tt1045772/?ref_=fn_tt_tt_1,France,13000000,2009,6.6
-Jean-Jacques Annaud,62,218,91,581,Adventure|Drama|History,Rae Dawn Chong,Gary Schwartz,0,fire|prehistoric times|primitive|tribe|trio,http://www.imdb.com/title/tt0082484/?ref_=fn_tt_tt_1,Canada,12500000,1981,7.4
-Denzel Washington,121,18000,543,18000,Biography|Drama,Denzel Washington,Derek Luke,0,black american|extortion|navy|psychiatrist|sailor,http://www.imdb.com/title/tt0168786/?ref_=fn_tt_tt_1,USA,12500000,2002,7.3
-Michael Hoffman,83,97,355,13000,Drama,Gabriel Millman,Rob Morrow,1,classroom|fund raising|headmaster|reunion|roman,http://www.imdb.com/title/tt0283530/?ref_=fn_tt_tt_1,USA,12500000,2002,6.9
-Tony Scott,122,12000,975,11000,Action|Crime|Drama|Romance|Thriller,Brad Pitt,Michael Rapaport,3,aspiring actor|cocaine|drugs|pimp|suitcase full of money,http://www.imdb.com/title/tt0108399/?ref_=fn_tt_tt_1,USA,13000000,1993,8.0
-Benedek Fliegauf,88,28,1000,6000,Drama|Romance|Sci-Fi,Eva Green,Hannah Murray,1,clone|love|male nudity|medical ethics|virginity,http://www.imdb.com/title/tt1216520/?ref_=fn_tt_tt_1,Germany,3660000,2010,6.4
-James Foley,120,164,99,18000,Crime|Drama|Mystery,Kevin Spacey,Jude Ciccolella,1,office|pressure|real estate|robbery|sales,http://www.imdb.com/title/tt0104348/?ref_=fn_tt_tt_1,USA,12500000,1992,7.8
-Michael Winterbottom,225,187,204,818,Crime|Drama|Thriller,Liam Aiken,Jay R. Ferguson,0,deputy|murder|revenge|sheriff|texas,http://www.imdb.com/title/tt0954947/?ref_=fn_tt_tt_1,USA,13000000,2010,6.1
-Paul Schrader,130,261,697,783,Fantasy|Horror|Thriller,Ed Begley Jr.,John Heard,1,cat|cat people|leopard|love|slip the undergarment,http://www.imdb.com/title/tt0083722/?ref_=fn_tt_tt_1,USA,18000000,1982,6.1
-Stewart Hendler,167,10,472,1000,Horror|Mystery,Julian Morris,Rumer Willis,2,prank gone wrong|scantily clad female|shotgun|sorority house|stabbed in the neck,http://www.imdb.com/title/tt1232783/?ref_=fn_tt_tt_1,USA,16000000,2009,5.1
-John Cromwell,7,19,135,490,Adventure|Drama|Romance,David Niven,Ronald Colman,2,coronation|fictitious country|king|princess|swashbuckler,http://www.imdb.com/title/tt0029442/?ref_=fn_tt_tt_1,USA,,1937,7.8
-Craig Gillespie,226,44,552,33000,Comedy|Drama|Romance,Ryan Gosling,Paul Schneider,1,in love with an inanimate object|internet|introvert|psychologist|sex doll,http://www.imdb.com/title/tt0805564/?ref_=fn_tt_tt_1,USA,12000000,2007,7.4
-Mark Herman,185,39,18,77,Drama|War,Richard Johnson,Cara Horgan,0,boy|fence|jew|nazis|poison gas,http://www.imdb.com/title/tt0914798/?ref_=fn_tt_tt_1,UK,12500000,2008,7.8
-Lars von Trier,177,3000,322,963,Crime|Drama|Musical,Catherine Deneuve,Björk,0,ends with quotation|execution|factory|women's prison|year 1964,http://www.imdb.com/title/tt0168629/?ref_=fn_tt_tt_1,Denmark,12800000,2000,8.0
-Gillian Armstrong,28,44,241,1000,Drama|Romance,Tom Wilkinson,Clive Russell,2,australia|church|glass|inheritance|wager,http://www.imdb.com/title/tt0119843/?ref_=fn_tt_tt_1,USA,16000000,1997,6.7
-Abel Ferrara,48,220,599,812,Crime|Drama,Isabella Rossellini,Gretchen Mol,3,1930s|madness|murder|new york city|violence,http://www.imdb.com/title/tt0116378/?ref_=fn_tt_tt_1,USA,12500000,1996,6.6
-Brian Koppelman,116,34,506,966,Comedy|Drama|Romance,Jenna Fischer,Richard Schiff,7,aging|hdtv|high definition television|love|marriage,http://www.imdb.com/title/tt1294213/?ref_=fn_tt_tt_1,USA,15000000,2009,6.4
-Ethan Maniquis,391,20,844,22000,Action|Crime|Thriller,Robert De Niro,Cheech Marin,1,machete|mexican|mexico|priest|texas,http://www.imdb.com/title/tt0985694/?ref_=fn_tt_tt_1,USA,10500000,2010,6.7
-George Hickenlooper,117,60,168,18000,Biography|Comedy|Crime|Drama,Kevin Spacey,Christian Campbell,5,corruption|lobbyist|murder|washington d.c.|washington d.c. lobbyist,http://www.imdb.com/title/tt1194417/?ref_=fn_tt_tt_1,Canada,15000000,2010,6.2
-Don Bluth,24,383,191,912,Adventure|Animation|Family,Judith Barsi,Bill Erwin,0,brontosaurus|classical music|dinosaur|dinosaur feature|earthquake,http://www.imdb.com/title/tt0095489/?ref_=fn_tt_tt_1,USA,12500000,1988,7.3
-Je-kyu Kang,86,16,489,717,Action|Drama|War,Min-sik Choi,Dong-gun Jang,2,1950s|archeologist|korea|korean war|soldier,http://www.imdb.com/title/tt0386064/?ref_=fn_tt_tt_1,South Korea,12800000,2004,8.1
-William Dear,41,50,655,968,Comedy|Drama|Family|Sport,Clifton Collins Jr.,Bruce McGill,0,baseball movie|little league|little league baseball|mexico|three word title,http://www.imdb.com/title/tt0473102/?ref_=fn_tt_tt_1,Canada,12500000,2009,7.0
-William Friedkin,304,607,259,1000,Horror,Ellen Burstyn,Lee J. Cobb,0,demonic possession|exorcism|exorcist|loss of innocence|priest,http://www.imdb.com/title/tt0070047/?ref_=fn_tt_tt_1,USA,8000000,1973,8.0
-Steven Spielberg,385,14000,366,813,Adventure|Drama|Thriller,Roy Scheider,Murray Hamilton,0,beach|blockbuster|fishing|great white shark|shark,http://www.imdb.com/title/tt0073195/?ref_=fn_tt_tt_1,USA,8000000,1975,8.0
-Paul Weitz,145,80,1000,3000,Comedy,Alyson Hannigan,Natasha Lyonne,6,1990s|first love|milf|prom|virginity,http://www.imdb.com/title/tt0163651/?ref_=fn_tt_tt_1,USA,11000000,1999,7.0
-Stéphane Aubier,99,2,186,6000,Animation|Comedy|Crime|Drama|Family,Mackenzie Foy,Lambert Wilson,0,bear|dentist|friendship|mouse|prejudice,http://www.imdb.com/title/tt1816518/?ref_=fn_tt_tt_1,France,9600000,2012,7.9
-Michael Ritchie,29,23,148,400,Action|Adventure|Comedy|Fantasy|Mystery,Victor Wong,Charlotte Lewis,1,boy|child|chosen one|demon|detective,http://www.imdb.com/title/tt0091129/?ref_=fn_tt_tt_1,USA,25000000,1986,5.9
-Tim Story,77,167,807,997,Comedy|Romance,Chris Brown,Regina Hall,8,advice|black romance|hip hop|reading a book|sex scene,http://www.imdb.com/title/tt1621045/?ref_=fn_tt_tt_1,USA,12000000,2012,6.6
-Tim Story,91,167,436,656,Comedy|Drama,Sean Patrick Thomas,Cedric the Entertainer,0,barber|barbershop|blaxploitation|loan shark|theft,http://www.imdb.com/title/tt0303714/?ref_=fn_tt_tt_1,USA,12000000,2002,6.3
-Nicholas Meyer,148,120,664,12000,Action|Adventure|Sci-Fi,Leonard Nimoy,Nichelle Nichols,2,jamming communications|planet|space station|taunt|trap,http://www.imdb.com/title/tt0084726/?ref_=fn_tt_tt_1,USA,11000000,1982,7.7
-Tom Shadyac,61,293,567,759,Comedy,Sean Young,David Margulies,1,detective|dolphin|mascot|nudity|stupidity,http://www.imdb.com/title/tt0109040/?ref_=fn_tt_tt_1,USA,12000000,1994,6.9
-John Badham,84,139,793,2000,Sci-Fi|Thriller,Matthew Broderick,Ally Sheedy,0,computer|game|high school|norad|teenager,http://www.imdb.com/title/tt0086567/?ref_=fn_tt_tt_1,USA,12000000,1983,7.1
-Peter Weir,83,608,733,11000,Crime|Drama|Romance|Thriller,Harrison Ford,Lukas Haas,1,amish|love|murder|police|train,http://www.imdb.com/title/tt0090329/?ref_=fn_tt_tt_1,USA,12000000,1985,7.4
-Mike McCoy,216,16,11,93,Action|Adventure|Drama|Thriller|War,Alex Veadov,Rorke Denver,0,mission|navy seal|terrorist|torture|valor,http://www.imdb.com/title/tt1591479/?ref_=fn_tt_tt_1,USA,12000000,2012,6.5
-Anne Fletcher,107,98,920,17000,Crime|Drama|Music|Romance,Channing Tatum,Josh Henderson,0,dance|dancer|school|showcase|student,http://www.imdb.com/title/tt0462590/?ref_=fn_tt_tt_1,USA,12000000,2006,6.5
-Mike Judge,63,406,616,13000,Adventure|Animation|Comedy|Crime,Bruce Willis,John Doman,0,beavis and butt head|fbi|score|television|television set,http://www.imdb.com/title/tt0115641/?ref_=fn_tt_tt_1,USA,12000000,1996,6.8
-Quentin Tarantino,140,16000,889,22000,Crime|Thriller,Robert De Niro,Robert Forster,5,arms dealer|atf|bail|money|multiple perspectives,http://www.imdb.com/title/tt0119396/?ref_=fn_tt_tt_1,USA,12000000,1997,7.5
-Jon Hurwitz,153,22,816,1000,Adventure|Comedy,Danneel Ackles,Beverly D'Angelo,2,bong|escape|ex girlfriend|guantanamo bay|texas,http://www.imdb.com/title/tt0481536/?ref_=fn_tt_tt_1,USA,12000000,2008,6.6
-Josh Trank,414,128,371,963,Drama|Sci-Fi|Thriller,Michael Kelly,Ashley Hinshaw,0,found footage|high school|subjective camera|teen angst|troubled teen,http://www.imdb.com/title/tt1706593/?ref_=fn_tt_tt_1,USA,12000000,2012,7.1
-Barbra Streisand,16,0,122,405,Drama|Musical|Romance,Miriam Margolyes,Steven Hill,1,love|study|talmud|wedding|yeshiva,http://www.imdb.com/title/tt0086619/?ref_=fn_tt_tt_1,UK,12000000,1983,6.6
-Terry Gilliam,139,0,504,629,Adventure|Comedy|Fantasy|Sci-Fi,Shelley Duvall,Kenny Baker,0,cult director|dwarf|robin hood|satire|treasure,http://www.imdb.com/title/tt0081633/?ref_=fn_tt_tt_1,UK,5000000,1981,7.0
-Tamra Davis,111,33,135,1000,Comedy|Drama,Britney Spears,Dave Allen,1,audition|friendship|graduation|high school graduation|love,http://www.imdb.com/title/tt0275022/?ref_=fn_tt_tt_1,USA,12000000,2002,3.3
-Nima Nourizadeh,229,166,281,971,Comedy|Crime,Dax Flame,Oliver Cooper,0,birthday party|high school|high school senior|millennial generation|party,http://www.imdb.com/title/tt1636826/?ref_=fn_tt_tt_1,USA,12000000,2012,6.7
-Franklin J. Schaffner,112,76,78,654,Biography|Drama|War,George C. Scott,Bill Hickman,0,allies|dead soldier|destiny|general|tank,http://www.imdb.com/title/tt0066206/?ref_=fn_tt_tt_1,USA,12000000,1970,8.0
-Mark Romanek,207,132,933,49000,Drama|Thriller,Robin Williams,Connie Nielsen,0,insanity|photo lab|photo shop|photography|voyeur,http://www.imdb.com/title/tt0265459/?ref_=fn_tt_tt_1,USA,12000000,2002,6.8
-John Erick Dowdle,198,66,1000,137000,Horror|Sci-Fi|Thriller,Andrew Fiscella,Dania Ramirez,0,apartment building|found footage|television|trapped|virus,http://www.imdb.com/title/tt1082868/?ref_=fn_tt_tt_1,USA,12000000,2008,6.0
-David Moreau,172,0,451,17000,Horror|Mystery,Chloë Grace Moretz,Obba Babatundé,1,cellular memory|eye|eye transplant|seeing dead people|violinist,http://www.imdb.com/title/tt0406759/?ref_=fn_tt_tt_1,USA,12000000,2008,5.4
-Christopher Erskin,45,4,826,1000,Comedy,Vanessa Williams,Shad Moss,5,cross country|cross country trip|highway travel|on the road|road movie,http://www.imdb.com/title/tt0359517/?ref_=fn_tt_tt_1,USA,12000000,2004,4.3
-Jesse Dylan,34,58,722,995,Comedy|Fantasy,Hector Elizondo,T.J. Thyne,2,college|drugs|harvard|pot|smoke,http://www.imdb.com/title/tt0278488/?ref_=fn_tt_tt_1,USA,12000000,2001,6.2
-Brian Henson,75,53,84,227,Comedy|Drama|Family|Fantasy|Musical,Steven Mackintosh,Steve Whitmire,0,christmas|christmas eve|miser|muppet|scrooge,http://www.imdb.com/title/tt0104940/?ref_=fn_tt_tt_1,USA,12000000,1992,7.7
-Martin Campbell,400,258,834,6000,Action|Adventure|Thriller,Eva Green,Ivana Milicevic,1,casino|espionage|free running|james bond|terrorist,http://www.imdb.com/title/tt0381061/?ref_=fn_tt_tt_1,UK,150000000,2006,8.0
-Julie Taymor,128,278,898,4000,Biography|Drama|Romance,Salma Hayek,Valeria Golino,0,art|bisexual|marriage|pain|revolutionary,http://www.imdb.com/title/tt0120679/?ref_=fn_tt_tt_1,USA,12000000,2002,7.4
-Dan Cutforth,68,4,8,28,Documentary|Music,Lexie Contursi,Anthony Burrell,0,female protagonist|reference to britney spears|singer|song|world tour,http://www.imdb.com/title/tt2215719/?ref_=fn_tt_tt_1,USA,12000000,2012,5.9
-Josh Boone,326,131,733,8000,Drama|Romance,Shailene Woodley,Nat Wolff,0,cancer|falling in love|friendship|novel|teenager,http://www.imdb.com/title/tt2582846/?ref_=fn_tt_tt_1,USA,12000000,2014,7.8
-John Dahl,128,131,599,13000,Crime|Drama,Matt Damon,Gretchen Mol,2,breasts|cult film|loan shark|poker|reference to christy turlington,http://www.imdb.com/title/tt0128442/?ref_=fn_tt_tt_1,USA,12000000,1998,7.4
-Chris Rock,161,0,555,3000,Comedy|Romance,Rosario Dawson,J.B. Smoove,10,bare breasts|celebrity|in medias res|reference to planet of the apes|sex talk,http://www.imdb.com/title/tt2784678/?ref_=fn_tt_tt_1,USA,12000000,2014,6.5
-John Frankenheimer,70,287,79,452,Horror|Sci-Fi,Talia Shire,Robert Foxworth,1,cabin|monster|monster movie|paper mill|pollution,http://www.imdb.com/title/tt0079758/?ref_=fn_tt_tt_1,USA,12000000,1979,5.4
-David Koepp,164,192,282,347,Horror|Mystery|Thriller,Illeana Douglas,Lusia Strus,0,disappearance|hearing voices|hypnosis|post hypnotic suggestion|seeing a ghost,http://www.imdb.com/title/tt0164181/?ref_=fn_tt_tt_1,USA,12000000,1999,7.0
-,68,,898,1000,Action|Adventure|Biography|Drama|History,Peter Mensah,Viva Bianca,2,female frontal nudity|female full frontal nudity|gladiator|group sex|slave girl,http://www.imdb.com/title/tt1442449/?ref_=fn_tt_tt_1,USA,,,8.6
-Stephen Frears,354,350,322,1000,Biography|Drama,Steve Coogan,Peter Hermann,2,catholic|convent|gay love|gay relationship|irish adoption board,http://www.imdb.com/title/tt2431286/?ref_=fn_tt_tt_1,UK,12000000,2013,7.6
-Mike Binder,125,57,805,975,Comedy|Drama,Alicia Witt,Joan Allen,1,anger|baseball|drinking|radio|secretary,http://www.imdb.com/title/tt0365885/?ref_=fn_tt_tt_1,USA,9000000,2005,6.9
-Franklin J. Schaffner,55,76,801,1000,Drama|Thriller,Laurence Olivier,Steve Guttenberg,3,1970s|jew|nazi|nazi hunter|paraguay,http://www.imdb.com/title/tt0077269/?ref_=fn_tt_tt_1,UK,12000000,1978,7.0
-Elizabeth Allen Rosenbaum,66,20,717,836,Comedy|Family|Fantasy|Romance,Tammin Sursok,Dichen Lachman,3,beach|love|mermaid|storm|swimming,http://www.imdb.com/title/tt0429591/?ref_=fn_tt_tt_1,USA,12000000,2006,5.3
-Jake Schreier,191,14,376,733,Drama|Mystery|Romance,Nat Wolff,Meg Crosbie,2,based on novel|female neighbor|friendship|travel|trip,http://www.imdb.com/title/tt3622592/?ref_=fn_tt_tt_1,USA,12000000,2015,6.4
-Cheryl Dunye,33,17,581,873,Comedy,Michael Imperioli,Bai Ling,5,animal costume|break up|fatherhood|rapper|talking baby,http://www.imdb.com/title/tt0332712/?ref_=fn_tt_tt_1,USA,,2004,4.5
-Alexander Payne,433,729,622,1000,Adventure|Comedy|Drama,Devin Ratray,Will Forte,0,aging|billings montana|lincoln nebraska|nebraska|pickup truck,http://www.imdb.com/title/tt1821549/?ref_=fn_tt_tt_1,USA,12000000,2013,7.8
-Ernest R. Dickerson,66,226,580,1000,Action|Fantasy|Horror|Thriller,CCH Pounder,Gary Farmer,1,blood|blood of christ|demon|key|loud sex,http://www.imdb.com/title/tt0114608/?ref_=fn_tt_tt_1,USA,13000000,1995,6.7
-Tim Hill,37,25,611,833,Comedy|Crime|Family,Noel Fisher,Larry Miller,0,bully|moving|principal|revenge|school,http://www.imdb.com/title/tt0273799/?ref_=fn_tt_tt_1,USA,12000000,2001,5.3
-Jason Reitman,325,655,390,9000,Comedy|Drama,Charlize Theron,Collette Wolfe,1,car damage|computer printer|female band|fingernail polish|narcissism,http://www.imdb.com/title/tt1625346/?ref_=fn_tt_tt_1,USA,12000000,2011,6.3
-Mark Neveldine,170,83,501,26000,Action|Crime|Thriller,Jason Statham,Jose Pablo Cantillo,1,assassin|cult film|doctor|heart|poison,http://www.imdb.com/title/tt0479884/?ref_=fn_tt_tt_1,USA,12000000,2006,7.0
-Lionel C. Martin,11,3,324,1000,Comedy,Bernie Mac,Lark Voorhies,2,breaking the fourth wall|doorman|friend|party|sex,http://www.imdb.com/title/tt0119326/?ref_=fn_tt_tt_1,USA,,1997,5.3
-Richard LaGravenese,24,98,604,1000,Comedy|Drama|Romance,Holly Hunter,Jenette Goldstein,1,brooklyn bridge|divorce|female protagonist|female star appears nude|lingerie slip,http://www.imdb.com/title/tt0120722/?ref_=fn_tt_tt_1,USA,12000000,1998,6.6
-Sanaa Hamri,70,43,696,988,Comedy|Romance|Sport,Common,Mehcad Brooks,1,basketball|basketball player|nba|physical therapist|therapist,http://www.imdb.com/title/tt1407061/?ref_=fn_tt_tt_1,USA,,2010,5.8
-Jonathan Demme,232,438,471,11000,Drama|Romance,Anne Hathaway,Bill Irwin,1,12 step program|friend|maid of honor|tears|wedding,http://www.imdb.com/title/tt1084950/?ref_=fn_tt_tt_1,USA,,2008,6.7
-Bob Rafelson,34,30,85,1000,Crime|Drama|Romance|Thriller,Anjelica Huston,John Colicos,0,adultery|drifter|lunch wagon|murder|neo noir,http://www.imdb.com/title/tt0082934/?ref_=fn_tt_tt_1,USA,12000000,1981,6.6
-Peter Webber,160,73,1000,19000,Biography|Drama|Romance,Scarlett Johansson,Tom Wilkinson,0,17th century|girl|maid|painter|painting,http://www.imdb.com/title/tt0335119/?ref_=fn_tt_tt_1,UK,,2003,7.0
-Wolfgang Petersen,96,249,18,362,Adventure|Drama|Thriller|War,Jürgen Prochnow,Herbert Grönemeyer,0,duty|submarine|submarine movie|tension|u boat,http://www.imdb.com/title/tt0082096/?ref_=fn_tt_tt_1,West Germany,14000000,1981,8.4
-John Lee Hancock,106,102,877,2000,Drama|History|War|Western,Dennis Quaid,Jordi Mollà,0,army|dictator|general|texan|texas,http://www.imdb.com/title/tt0318974/?ref_=fn_tt_tt_1,USA,107000000,2004,6.0
-Wallace Wolodarsky,53,32,503,529,Comedy,Heather Matarazzo,Harland Williams,3,college|cruise|drag|female armpit hair|sorority,http://www.imdb.com/title/tt0279781/?ref_=fn_tt_tt_1,USA,12000000,2002,5.4
-Richard Curtis,274,628,171,565,Drama|Fantasy|Romance,Tom Hughes,Lindsay Duncan,1,boyfriend girlfriend relationship|lingerie slip|time travel|time travel romance|wedding,http://www.imdb.com/title/tt2194499/?ref_=fn_tt_tt_1,UK,12000000,2013,7.8
-Yimou Zhang,248,611,4,755,Action|Adventure|Drama|Romance,Takeshi Kaneshiro,Zhengyong Zhang,3,flying|flying dagger|government|police|secret,http://www.imdb.com/title/tt0385004/?ref_=fn_tt_tt_1,China,100000000,2004,7.6
-Nicholas Jarecki,288,27,360,664,Drama|Thriller,Nate Parker,Reg E. Cathey,1,accidental death|dead woman|dead woman with eyes open|death of mistress|manager,http://www.imdb.com/title/tt1764183/?ref_=fn_tt_tt_1,USA,12000000,2012,6.6
-Dean Israelite,177,16,265,452,Sci-Fi|Thriller,Gary Weeks,Sofia Black-D'Elia,0,found footage|teenager|time machine|time travel|video footage,http://www.imdb.com/title/tt2436386/?ref_=fn_tt_tt_1,USA,12000000,2015,6.4
-Darnell Martin,81,67,192,436,Biography|Drama|Music,Cedric the Entertainer,Tammy Blanchard,3,1950s|jazz|jazz music|sex|title directed by female,http://www.imdb.com/title/tt1042877/?ref_=fn_tt_tt_1,USA,12000000,2008,7.0
-Scott Alexander,29,25,654,931,Comedy|Crime,Sarah Silverman,Sherman Hemsley,0,chauffeur|disorganized crime|dog|ransom|slapstick,http://www.imdb.com/title/tt0156323/?ref_=fn_tt_tt_1,USA,10000000,2000,5.7
-Stuart Gordon,58,216,968,1000,Action|Crime|Sci-Fi|Thriller,Christopher Lambert,Clifton Collins Jr.,0,escape|future|population control|prison|prisoner,http://www.imdb.com/title/tt0106950/?ref_=fn_tt_tt_1,Australia,8000000,1992,5.9
-Christopher Guest,144,378,783,957,Comedy,John Michael Higgins,Ed Begley Jr.,0,actor|internet|make up|publicist|purim,http://www.imdb.com/title/tt0470765/?ref_=fn_tt_tt_1,USA,12000000,2006,6.3
-Woody Allen,114,11000,99,537,Comedy|Drama,Melanie Griffith,Greg Mottola,0,celebrity|journalist|lesbian kiss|strong female character|tv producer,http://www.imdb.com/title/tt0120533/?ref_=fn_tt_tt_1,USA,12000000,1998,6.3
-Ryan Murphy,132,708,316,433,Comedy|Drama,Jill Clayburgh,Dagmara Dominczyk,0,alcoholic|fame|therapist|writer|writing,http://www.imdb.com/title/tt0439289/?ref_=fn_tt_tt_1,USA,12000000,2006,6.2
-Robert Iscove,60,7,251,525,Comedy|Musical|Romance,Anika Noni Rose,Brian Dietzen,2,bar|florida|love|spring break|waitress,http://www.imdb.com/title/tt0339034/?ref_=fn_tt_tt_1,USA,12000000,2003,2.1
-Spike Lee,30,0,599,873,Comedy|Drama,Michael Imperioli,Gretchen Mol,3,actress|neighbor|phone sex|queens new york city|sex addiction,http://www.imdb.com/title/tt0116414/?ref_=fn_tt_tt_1,USA,12000000,1996,5.0
-Jane Campion,138,319,48,1000,Mystery|Thriller,Jennifer Jason Leigh,Susan Gardner,0,blow job|female rear nudity|female removes her clothes|oral sex|three of spades tattoo,http://www.imdb.com/title/tt0199626/?ref_=fn_tt_tt_1,Australia,12000000,2003,5.3
-James Gray,190,115,103,812,Drama|Romance,Isabella Rossellini,Samantha Ivers,0,jewish|love|married man|neighbor|photograph,http://www.imdb.com/title/tt1103275/?ref_=fn_tt_tt_1,USA,12000000,2008,7.1
-Fred Schepisi,61,40,794,5000,Drama,Bob Hoskins,JJ Feild,5,ashes|butcher|friend|friendship|memory,http://www.imdb.com/title/tt0253200/?ref_=fn_tt_tt_1,UK,12000000,2001,7.0
-Joon-ho Bong,363,584,74,629,Comedy|Drama|Horror|Sci-Fi,Doona Bae,Ah-sung Ko,0,daughter|han river|monster|river|seoul,http://www.imdb.com/title/tt0468492/?ref_=fn_tt_tt_1,South Korea,12215500000,2006,7.0
-Roger Spottiswoode,2,55,212,3000,Adventure|Crime|Thriller,Robert Duvall,Paul Gleason,0,escape|jumping from an airplane|money|parachute|ransom,http://www.imdb.com/title/tt0082958/?ref_=fn_tt_tt_1,USA,12000000,1981,5.7
-Antonia Bird,131,61,611,769,Fantasy|Horror|Thriller,Jeremy Davies,David Arquette,0,based on true story|cannibalism|captain|mexican american war|u.s. frontier,http://www.imdb.com/title/tt0129332/?ref_=fn_tt_tt_1,Czech Republic,12000000,1999,7.1
-Jon Poll,146,20,442,21000,Comedy|Drama|Romance,Robert Downey Jr.,Hope Davis,5,drugs|high school|prescription drugs|private school|student,http://www.imdb.com/title/tt0423977/?ref_=fn_tt_tt_1,USA,12000000,2007,7.0
-Paolo Sorrentino,280,667,70,211,Drama,Toni Servillo,Serena Grandi,2,genitalia|male frontal nudity|male nudity|old age|party,http://www.imdb.com/title/tt2358891/?ref_=fn_tt_tt_1,Italy,9200000,2013,7.7
-Peter Care,78,0,77,1000,Comedy|Drama,Kieran Culkin,Jake Richardson,4,book|boy|catholic|comic book|friend,http://www.imdb.com/title/tt0238924/?ref_=fn_tt_tt_1,USA,12000000,2002,7.1
-Chan-wook Park,469,0,520,3000,Drama|Thriller,Mia Wasikowska,Harmony Korine,4,death|hitchcockian|psychopath|sociopath|vomiting,http://www.imdb.com/title/tt1682180/?ref_=fn_tt_tt_1,UK,12000000,2013,6.8
-Kar-Wai Wong,194,0,576,878,Drama|Romance|Sci-Fi,Li Gong,Maggie Cheung,0,number in title|train|woman slaps a man|woman slaps man|written by director,http://www.imdb.com/title/tt0212712/?ref_=fn_tt_tt_1,Hong Kong,12000000,2004,7.5
-Ira Sachs,121,60,18,60,Crime|Drama|Romance,David Richmond-Peck,Timothy Webber,4,bachelor|best friend|divorce|poison|widow,http://www.imdb.com/title/tt0804505/?ref_=fn_tt_tt_1,USA,12000000,2007,6.3
-Carroll Ballard,38,19,393,706,Adventure|Drama|Family,Eamonn Walker,Campbell Scott,0,africa|bed|boy|cheetah|south africa,http://www.imdb.com/title/tt0361715/?ref_=fn_tt_tt_1,USA,12000000,2005,7.3
-Neil Jordan,123,277,289,845,Drama|Mystery|Romance,Tony Curran,Alicja Bachleda,2,celtic mythology|cottage|fisherman|irish|selkie,http://www.imdb.com/title/tt1235796/?ref_=fn_tt_tt_1,Ireland,12000000,2009,6.8
-Takeshi Kitano,81,0,403,865,Crime|Drama|Thriller,Omar Epps,James Shigeta,0,gang|gangster|subjective camera|written and directed by cast member|yakuza,http://www.imdb.com/title/tt0222851/?ref_=fn_tt_tt_1,USA,10000000,2000,7.2
-Anthony Russo,72,94,146,693,Comedy|Crime,Michael Jeter,Andy Davoli,0,boxing knockout|heist|implied sex|keys|prison,http://www.imdb.com/title/tt0271259/?ref_=fn_tt_tt_1,USA,12000000,2002,6.4
-Sidney Lumet,25,0,745,941,Comedy|Drama,Kyra Sedgwick,Albert Brooks,2,half sister|hospital|latex gloves|medicine|nun,http://www.imdb.com/title/tt0118901/?ref_=fn_tt_tt_1,Australia,12000000,1997,6.0
-Vadim Perelman,78,26,350,797,Drama|Mystery|Thriller,Eva Amurri Martino,Brett Cullen,2,best friend|nonlinear timeline|school shooting|self sacrifice|shooting,http://www.imdb.com/title/tt0815178/?ref_=fn_tt_tt_1,USA,8000000,2007,6.4
-Lawrence Kasdan,57,759,820,967,Comedy|Drama|Romance,Dianne Wiest,Sam Shepard,1,dog|marriage|search|wedding|woods,http://www.imdb.com/title/tt1730687/?ref_=fn_tt_tt_1,USA,,2012,5.1
-Marco Kreuzpaintner,69,7,289,662,Crime|Drama|Thriller,Zack Ward,Alicja Bachleda,0,friend|girl|mexico city|new jersey|sex,http://www.imdb.com/title/tt0399095/?ref_=fn_tt_tt_1,Germany,12000000,2007,7.5
+movie_title,language
+Alive ,English
+The Number 23 ,English
+The Young and Prodigious T.S. Spivet ,English
+1941 ,English
+Dreamer: Inspired by a True Story ,English
+A History of Violence ,English
+Transporter 2 ,English
+The Quick and the Dead ,English
+Laws of Attraction ,English
+Bringing Out the Dead ,English
+Repo Men ,English
+Dragon Wars: D-War ,English
+Bogus ,English
+The Incredible Burt Wonderstone ,English
+Cats Don't Dance ,English
+Cradle Will Rock ,English
+The Good German ,English
+George and the Dragon ,English
+Apocalypse Now ,English
+Going the Distance ,English
+Mr. Holland's Opus ,English
+Criminal ,English
+Out of Africa ,English
+Flight ,English
+Moonraker ,English
+The Grand Budapest Hotel ,English
+Hearts in Atlantis ,English
+Arachnophobia ,English
+Frequency ,English
+Ghostbusters ,English
+Vacation ,English
+Get Shorty ,English
+Chicago ,English
+Big Daddy ,English
+American Pie 2 ,English
+Toy Story ,English
+Speed ,English
+The Vow ,English
+Extraordinary Measures ,English
+Remember the Titans ,English
+The Hunt for Red October ,English
+Lee Daniels' The Butler ,English
+Dodgeball: A True Underdog Story ,English
+The Addams Family ,English
+Ace Ventura: When Nature Calls ,English
+The Princess Diaries ,English
+The First Wives Club ,English
+Se7en ,English
+District 9 ,English
+The SpongeBob SquarePants Movie ,English
+Mystic River ,English
+Million Dollar Baby ,English
+Analyze This ,English
+The Notebook ,English
+27 Dresses ,English
+Hannah Montana: The Movie ,English
+Rugrats in Paris: The Movie ,English
+The Prince of Tides ,English
+Legends of the Fall ,English
+Up in the Air ,English
+About Schmidt ,English
+Warm Bodies ,English
+Looper ,English
+Down to Earth ,English
+Babe ,English
+Hope Springs ,English
+Forgetting Sarah Marshall ,English
+Friday Night Lights             ,English
+Four Brothers ,English
+Baby Mama ,English
+Hope Floats ,English
+Bride Wars ,English
+Without a Paddle ,English
+13 Going on 30 ,English
+Midnight in Paris ,English
+The Nut Job ,English
+Blow ,English
+Message in a Bottle ,English
+Star Trek V: The Final Frontier ,English
+Like Mike ,English
+Naked Gun 33 1/3: The Final Insult ,English
+A View to a Kill ,English
+The Curse of the Were-Rabbit ,English
+P.S. I Love You ,English
+Racing Stripes ,English
+Atonement ,English
+Letters to Juliet ,English
+Black Rain ,English
+The Three Stooges ,English
+Corpse Bride ,English
+Glory Road ,English
+Sicario ,English
+Southpaw ,English
+Drag Me to Hell ,English
+The Age of Adaline ,English
+Secondhand Lions ,English
+Step Up 3D ,English
+Blue Crush ,English
+Stranger Than Fiction ,English
+30 Days of Night ,English
+The Cabin in the Woods ,English
+Meet the Spartans ,English
+Midnight Run ,English
+The Running Man ,English
+Little Shop of Horrors ,English
+Hanna ,English
+The Family             ,English
+Mortal Kombat: Annihilation ,English
+Larry Crowne ,English
+Carrie ,English
+Take the Lead ,English
+Entourage             ,English
+Gridiron Gang ,English
+What's the Worst That Could Happen? ,English
+9 ,English
+Side Effects ,English
+The Prince and Me ,English
+Winnie the Pooh ,English
+Dumb and Dumberer: When Harry Met Lloyd ,English
+Bulworth ,English
+Get on Up ,English
+One True Thing ,English
+Virtuosity ,English
+My Super Ex-Girlfriend ,English
+Deliver Us from Evil ,English
+Sanctum ,English
+Little Black Book ,English
+The Five-Year Engagement ,English
+Mr 3000 ,English
+The Next Three Days ,English
+Ultraviolet ,English
+Assault on Precinct 13 ,English
+The Replacement Killers ,English
+Fled ,English
+Eight Legged Freaks ,English
+Love & Other Drugs ,English
+88 Minutes ,English
+North Country ,English
+The Whole Ten Yards ,English
+Splice ,English
+Howard the Duck ,English
+Pride and Glory ,English
+The Cave ,English
+Alex & Emma ,English
+Wicker Park ,English
+Fright Night ,English
+The New World ,English
+Wing Commander ,English
+In Dreams ,English
+Dragonball: Evolution ,English
+The Last Stand ,English
+Godsend ,English
+Chasing Liberty ,English
+Hoodwinked Too! Hood vs. Evil ,English
+An Unfinished Life ,English
+The Imaginarium of Doctor Parnassus ,English
+Barney's Version ,English
+Trapped             ,Icelandic
+Runner Runner ,English
+Antitrust ,English
+Glory ,English
+Once Upon a Time in America ,English
+Dead Man Down ,English
+The Merchant of Venice ,English
+The Good Thief ,English
+Supercross ,English
+Miss Potter ,English
+The Promise ,Mandarin
+DOA: Dead or Alive ,English
+The Assassination of Jesse James by the Coward Robert Ford ,English
+1911 ,Mandarin
+Little Nicholas ,French
+Wild Card ,English
+Machine Gun Preacher ,English
+Animals United ,German
+The Color of Freedom ,English
+United Passions ,English
+Grace of Monaco ,English
+A Warrior's Tail ,Russian
+Ripley's Game ,English
+Sausage Party ,English
+Pitch Perfect 2 ,English
+Walk the Line ,English
+12 Monkeys             ,English
+Keeping the Faith ,English
+The Borrowers ,English
+Frost/Nixon ,English
+Confessions of a Dangerous Mind ,English
+Serving Sara ,English
+The Boss ,English
+Cry Freedom ,English
+Mumford ,English
+Seed of Chucky ,English
+The Jacket ,English
+Aladdin ,English
+Straight Outta Compton ,English
+Indiana Jones and the Temple of Doom ,English
+The Rugrats Movie ,English
+Along Came a Spider ,English
+Florence Foster Jenkins ,English
+Once Upon a Time in Mexico ,English
+Die Hard ,English
+Role Models ,English
+The Big Short ,English
+Taking Woodstock ,English
+Miracle ,English
+Dawn of the Dead ,English
+The Wedding Planner ,English
+Harlock: Space Pirate ,Japanese
+The Royal Tenenbaums ,English
+Identity ,English
+Last Vegas ,English
+For Your Eyes Only ,English
+Serendipity ,English
+Timecop ,English
+Zoolander ,English
+Safe Haven ,English
+Hocus Pocus ,English
+No Reservations ,English
+Kick-Ass ,English
+30 Minutes or Less ,English
+Dracula 2000 ,English
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day ",English
+Pride & Prejudice ,English
+Blade Runner ,English
+Rob Roy ,English
+3 Days to Kill ,English
+We Own the Night ,English
+Lost Souls ,English
+Winged Migration ,English
+Just My Luck ,English
+"Mystery, Alaska ",English
+The Spy Next Door ,English
+A Simple Wish ,English
+Ghosts of Mars ,English
+Our Brand Is Crisis ,English
+Pride and Prejudice and Zombies ,English
+Kundun ,English
+How to Lose Friends & Alienate People ,English
+Kick-Ass 2 ,English
+Captain Alatriste: The Spanish Musketeer ,Spanish
+Brick Mansions ,English
+Octopussy ,English
+Knocked Up ,English
+My Sister's Keeper ,English
+"Welcome Home, Roscoe Jenkins ",English
+A Passage to India ,English
+Notes on a Scandal ,English
+Rendition ,English
+Limitless             ,English
+Star Trek VI: The Undiscovered Country ,English
+Divine Secrets of the Ya-Ya Sisterhood ,English
+The Jungle Book ,English
+Kiss the Girls ,English
+The Blues Brothers ,English
+The Sisterhood of the Traveling Pants 2 ,English
+Joyful Noise ,English
+About a Boy ,English
+Lake Placid ,English
+Lucky Number Slevin ,English
+The Right Stuff ,English
+Anonymous ,English
+The NeverEnding Story ,English
+Dark City ,English
+The Duchess ,English
+The Honeymooners             ,English
+Return to Oz ,English
+The Newton Boys ,English
+Case 39 ,English
+Suspect Zero ,English
+Martian Child ,English
+Spy Kids: All the Time in the World in 4D ,English
+Money Monster ,English
+Formula 51 ,English
+Flawless ,English
+Mindhunters ,English
+What Just Happened ,English
+The Statement ,English
+The Magic Flute ,English
+Paul Blart: Mall Cop ,English
+Freaky Friday ,English
+The 40-Year-Old Virgin ,English
+Shakespeare in Love ,English
+A Walk Among the Tombstones ,English
+Kindergarten Cop ,English
+Pineapple Express ,English
+Ever After: A Cinderella Story ,English
+Open Range ,English
+Flatliners ,English
+It's Always Sunny in Philadelphia             ,English
+A Bridge Too Far ,English
+Red Eye ,English
+Final Destination 2 ,English
+"O Brother, Where Art Thou? ",English
+Legion ,English
+Pain & Gain ,English
+In Good Company ,English
+Clockstoppers ,English
+Silverado ,English
+Brothers ,English
+Agent Cody Banks 2: Destination London ,English
+New Year's Eve ,English
+Original Sin ,English
+The Raven ,English
+Welcome to Mooseport ,English
+Highlander: The Final Dimension ,English
+Blood and Wine ,English
+Snow White: A Tale of Terror ,English
+The Curse of the Jade Scorpion ,English
+Accidental Love ,English
+Flipper ,English
+Self/less ,English
+The Constant Gardener ,English
+The Passion of the Christ ,Aramaic
+Mrs. Doubtfire ,English
+Rain Man ,English
+Gran Torino ,English
+W. ,English
+Taken ,English
+The Best of Me ,English
+The Bodyguard ,English
+Schindler's List ,English
+The Help ,English
+The Fifth Estate ,English
+Scooby-Doo 2: Monsters Unleashed ,English
+Viy ,Russian
+Freddy vs. Jason ,English
+The Face of an Angel ,English
+Jimmy Neutron: Boy Genius ,English
+Cloverfield ,English
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze ,English
+The Untouchables ,English

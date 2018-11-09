@@ -1,127 +1,423 @@
-actor_3_facebook_likes,actor_2_name,num_voted_users,facenumber_in_poster,language,actor_2_facebook_likes,imdb_score,aspect_ratio
-348,Fred Ward,76850,5,English,459,6.4,1.85
-433,Alison Doody,68565,2,English,439,6.3,2.35
-100,Geraldine McEwan,98160,0,English,269,7.5,1.85
-37,Harry Connick Jr.,167967,1,English,631,7.1,1.85
-521,Frankie Muniz,12570,0,English,934,5.2,1.85
-286,Alfie Allen,192930,1,English,1000,7.8,1.85
-22,Marcia DeBonis,74630,1,English,60,6.5,2.35
-237,Ken Takakura,39306,2,English,255,6.6,2.35
-760,Larry David,25484,0,English,860,5.1,1.85
-973,Christopher Lee,188785,1,English,16000,7.4,1.85
-543,Austin Nichols,34910,1,English,663,7.2,2.35
-219,Bernardo Saracino,196217,2,English,221,7.6,2.39
-424,50 Cent,147128,0,English,1000,7.5,2.35
-828,Alison Lohman,158354,0,English,1000,6.6,2.35
-1000,Michiel Huisman,93767,1,English,2000,7.2,2.35
-1000,Robert Duvall,43378,1,English,3000,7.6,1.85
-357,Stephen Boss,47297,0,English,594,6.2,1.85
-64,Mika Boorem,26066,3,English,495,5.6,1.85
-77,Christian Stolte,186977,1,English,189,7.6,1.85
-63,Mark Rendall,138435,0,English,72,6.6,2.35
-751,Bradley Whitford,277172,0,English,821,7.0,2.35
-362,Diedrich Bader,88518,0,English,759,2.7,1.85
-497,Yaphet Kotto,54042,1,English,581,7.6,1.85
-384,Maria Conchita Alonso,112669,1,English,571,6.6,1.37
-413,Jim Belushi,49349,2,English,854,6.9,1.85
-21,Vicky Krieps,159198,0,English,33,6.8,2.35
-468,Joan Allen,3322,4,English,805,7.5,16.0
-342,Talisa Soto,36363,0,English,349,3.7,1.85
-392,Rob Riggle,49205,0,English,839,6.1,2.35
-534,Judy Greer,108242,1,English,2000,5.9,2.35
-439,Yaya DaCosta,21767,0,English,712,6.7,1.85
-576,Kevin Connolly,135643,2,English,638,8.5,1.78
-581,Jurnee Smollett-Bell,33067,1,English,2000,6.9,2.35
-506,Larry Miller,12466,0,English,611,5.5,1.85
-265,Alan Oppenheimer,111117,0,English,271,7.1,1.85
-273,David Costabile,148327,0,English,681,7.1,1.85
-438,Miranda Richardson,31984,1,English,530,5.9,1.85
-69,Robert Lopez,15600,0,English,73,7.3,1.85
-244,Mimi Rogers,30651,0,English,291,3.4,1.37
-95,Kirk Baltz,21998,1,English,199,6.8,1.85
-400,Josh Hopkins,15843,0,English,491,6.9,1.85
-433,William Hurt,9283,3,English,882,7.0,1.85
-650,Costas Mandylor,23579,1,English,723,5.5,2.35
-560,Eddie Izzard,53884,1,English,776,5.1,2.35
-897,Dorian Missick,54447,0,English,1000,6.2,2.35
-653,Rhys Wakefield,47003,0,English,942,5.9,1.85
-642,Kevin Sussman,15052,1,English,681,5.2,2.35
-372,Jacki Weaver,78974,2,English,401,6.2,1.85
-635,Chris Noth,12164,1,English,962,5.5,1.85
-343,Daniel Stern,146364,0,English,796,7.4,2.35
-277,Cameron Bright,70341,1,English,829,4.4,1.85
-431,Drea de Matteo,65979,1,English,739,6.3,2.35
-488,Clifton Collins Jr.,23345,2,English,968,6.1,2.35
-537,Stephen Baldwin,7073,1,English,561,5.3,1.85
-762,Doug E. Doug,43764,1,English,953,5.4,2.35
-2000,Anne Hathaway,143368,0,English,11000,6.7,1.85
-494,Alicia Witt,65628,1,English,975,5.9,2.35
-874,Charlize Theron,32815,4,English,9000,7.3,2.35
-900,Matthew Perry,45775,5,English,2000,5.5,1.85
-559,David Hewlett,79517,0,English,686,5.8,1.85
-322,Jeffrey Jones,33669,1,English,692,4.6,1.85
-798,Rick Gonzalez,53053,0,English,807,6.7,1.85
-258,Cole Hauser,28606,0,English,787,5.1,2.35
-130,Lobo Sebastian,11520,2,English,206,5.6,1.85
-40,Christopher Cousins,44979,0,English,93,7.0,2.35
-133,Reid Ewing,85024,1,English,343,6.4,1.85
-855,Michael Greyeyes,70771,0,English,909,6.7,2.35
-362,David Suchet,14747,3,English,586,4.1,2.35
-210,Aidan Quinn,11003,0,English,767,5.5,1.85
-99,Texas Battle,56451,0,English,315,2.7,2.35
-165,James Burnett,114241,2,English,236,6.4,2.35
-353,Cameron Bright,22449,1,English,829,4.8,2.35
-120,Stark Sands,30092,0,English,143,6.1,2.35
-843,Phil LaMarr,9682,0,English,857,4.8,1.85
-83,Camryn Manheim,24033,3,English,329,7.0,2.35
-645,Lily Cole,126307,1,English,785,6.8,1.85
-329,Atom Egoyan,21086,2,English,460,7.3,2.35
-51,Ingvar Eggert Sigurðsson,2308,0,Icelandic,63,8.2,16.0
-681,John Heard,52069,3,English,697,5.6,2.35
-91,Richard Roundtree,25558,2,English,240,6.1,2.35
-2000,Morgan Freeman,101888,3,English,11000,7.9,1.85
-642,Burt Young,221000,8,English,683,8.4,1.85
-174,Isabelle Huppert,54147,2,English,678,6.5,2.35
-548,Mackenzie Crook,29715,3,English,871,7.1,2.35
-345,Saïd Taghmaoui,9004,0,English,378,6.6,1.85
-826,Mike Vogel,3926,1,English,2000,4.0,1.85
-135,Bill Paterson,23864,1,English,142,7.0,2.35
-107,Toby Leonard Moore,8215,0,Mandarin,181,5.6,2.35
-748,Holly Valance,38503,4,English,816,4.8,2.35
-820,Jeremy Renner,136104,0,English,10000,7.5,2.35
-187,Joan Chen,4670,0,Mandarin,643,6.0,2.35
-55,Sandrine Kiberlain,9214,7,French,71,7.2,1.85
-700,Michael Angarano,36487,0,English,947,5.6,2.35
-313,Madeline Carroll,52972,1,English,1000,6.8,2.35
-480,Vanessa Redgrave,4599,0,German,898,4.9,2.39
-11,Patrick Lyster,10175,1,English,11,7.1,2.35
-432,Thomas Kretschmann,3279,4,English,919,2.0,2.35
-520,Frank Langella,12410,3,English,903,5.7,2.35
-21,Fedor Bondarchuk,393,1,Russian,35,4.1,
-24,Dougray Scott,14618,0,English,794,6.7,1.85
-365,Salma Hayek,3302,0,English,4000,7.5,1.85
-751,Birgitte Hjort Sørensen,97697,8,English,1000,6.5,1.85
-154,Dallas Roberts,188637,0,English,405,7.9,2.39
-442,Kirk Acevedo,20839,0,English,641,7.6,16.0
-754,Milos Forman,44816,3,English,869,6.4,1.85
-373,Bradley Pierce,16222,0,English,409,5.8,1.85
-1000,Clint Howard,88682,1,English,1000,7.7,2.35
-89,David Julian Hirsh,71596,0,English,147,7.1,2.35
-584,Jerry Stiller,14315,2,English,719,5.3,1.85
-265,Tyler Labine,16984,1,English,779,5.3,1.85
-400,Kevin McNally,9913,0,English,427,7.5,2.35
-933,Alfre Woodard,8134,4,English,1000,6.9,2.35
-363,Billy Boyd,28632,0,English,857,4.9,1.85
-566,Jason Lewis,92850,0,English,948,7.1,2.35
-631,Frank Welker,260939,0,English,2000,8.0,1.33
-303,Neil Brown Jr.,119928,0,English,427,7.9,2.35
-237,Amrish Puri,329969,2,English,429,7.6,2.35
-368,Cree Summer,14005,0,English,503,5.9,1.85
-878,Billy Burke,59232,0,English,2000,6.3,2.35
-83,Nina Arianda,2167,3,English,183,7.1,2.35
-876,Salma Hayek,130094,1,English,4000,6.4,1.78
-541,Bruce Willis,592582,0,English,13000,8.2,2.35
-526,Ken Marino,195255,1,English,543,6.9,1.85
-767,Christian Bale,182983,4,English,23000,7.8,2.35
-210,Kevin Chamberlin,24663,12,English,489,6.7,1.85
-250,Noah Emmerich,36636,0,English,617,7.5,2.4
+director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,genres,actor_1_name,cast_total_facebook_likes,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
+Todd Phillips,383,102,480,461,Comedy,Bradley Cooper,16143,80000000,2011,670,6.5,2.35,56000
+Tim Burton,153,126,13000,390,Action,Michael Gough,2899,80000000,1992,811,7.0,1.85,0
+Tim Johnson,166,83,12,925,Adventure|Animation|Comedy|Family,Bruce Willis,22813,80000000,2006,7000,6.8,1.85,0
+Dean DeBlois,180,85,255,443,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,Tia Carrere,3112,80000000,2002,533,7.2,1.66,0
+Gary Winick,120,97,56,852,Comedy|Family|Fantasy,Steve Buscemi,23907,,2006,8000,6.4,1.85,0
+Mimi Leder,125,120,75,3000,Action|Drama|Romance|Sci-Fi|Thriller,Morgan Freeman,22750,75000000,1998,4000,6.1,2.35,0
+Dean Parisot,234,116,23,110,Action|Comedy|Crime|Thriller,Bruce Willis,25220,84000000,2013,12000,6.7,2.35,22000
+Peter Segal,134,113,88,421,Comedy|Crime|Sport,Adam Sandler,13693,82000000,2005,437,6.4,2.35,0
+Mike Mitchell,91,87,31,733,Adventure|Animation|Comedy|Family|Fantasy|Music,Amy Poehler,4073,75000000,2011,1000,4.4,1.85,0
+Dennis Dugan,139,101,221,11000,Comedy,Steve Buscemi,39269,80000000,2013,11000,5.4,1.85,14000
+Peter Segal,265,110,88,11000,Action|Adventure|Comedy,Bill Murray,44798,80000000,2008,12000,6.5,1.85,0
+Nancy Meyers,145,128,278,343,Comedy|Drama|Romance,Keanu Reeves,22679,80000000,2003,4000,6.7,1.85,0
+Martin Scorsese,490,138,17000,163,Mystery|Thriller,Leonardo DiCaprio,29585,80000000,2010,223,8.1,2.35,53000
+Seth Gordon,141,88,91,982,Comedy|Drama|Romance,Jon Favreau,9913,80000000,2008,3000,5.6,1.85,0
+Chris Wedge,163,91,77,208,Adventure|Animation|Comedy|Family|Sci-Fi,Jim Broadbent,1804,75000000,2005,311,6.3,1.85,0
+John Woo,155,138,610,805,Action|Crime|Sci-Fi|Thriller,Nicolas Cage,17087,80000000,1997,1000,7.3,2.35,11000
+Adam Shankman,144,99,163,495,Comedy|Family|Fantasy|Romance,Adam Sandler,12831,80000000,2008,869,6.1,2.35,0
+Sam Mendes,226,117,0,818,Crime|Drama|Thriller,Tom Hanks,16828,80000000,2002,1000,7.7,2.35,0
+Dennis Dugan,204,117,221,503,Comedy|Romance,Adam Sandler,16325,80000000,2011,3000,6.4,1.85,19000
+,95,54,,0,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Elden Henson,581,,,4,8.8,16.0,55000
+Simon West,139,123,165,744,Action|Crime|Thriller,Steve Buscemi,15362,75000000,1997,878,6.8,2.35,0
+D.J. Caruso,215,118,154,915,Action|Mystery|Thriller,Rosario Dawson,5637,80000000,2008,982,6.6,2.35,0
+Anthony Minghella,198,154,333,16000,Adventure|Drama|History|Romance|War,Philip Seymour Hoffman,61110,79000000,2003,20000,7.2,2.35,0
+Albert Hughes,325,118,117,10000,Action|Adventure|Drama|Thriller,Denzel Washington,44797,80000000,2010,15000,6.9,2.35,20000
+Les Mayfield,53,90,10,159,Comedy|Family|Sci-Fi,Robin Williams,50005,80000000,1997,570,5.2,1.85,0
+Jan de Bont,167,113,101,913,Fantasy|Horror|Mystery|Thriller,Liam Neeson,17786,80000000,1999,960,4.9,2.35,0
+Joe Pytka,46,88,30,366,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Bill Murray,15001,80000000,1996,967,6.3,1.77,0
+Shawn Levy,147,93,189,38,Adventure|Comedy|Crime|Family|Mystery,Roger Rees,1267,65000000,2006,177,5.6,1.85,0
+Scott Derrickson,276,104,301,71,Drama|Sci-Fi|Thriller,Keanu Reeves,22194,80000000,2008,4000,5.5,2.35,0
+Richard Donner,80,135,503,67,Action|Crime|Mystery|Romance|Thriller,Julia Roberts,8355,75000000,1997,137,6.7,2.35,0
+David Ayer,406,134,452,697,Action|Drama|War,Brad Pitt,20411,68000000,2014,8000,7.6,2.35,82000
+Ivan Reitman,97,98,425,397,Action|Adventure|Comedy|Romance,Harrison Ford,12729,70000000,1998,643,5.7,2.35,0
+Eric Brevig,143,80,40,375,Adventure|Animation|Comedy|Family,Justin Timberlake,4394,80000000,2010,642,4.6,1.85,0
+Kelly Asbury,106,83,21,495,Adventure|Animation|Family|Western,Matt Damon,14261,80000000,2002,503,7.0,2.35,4000
+Frank Coraci,178,102,153,269,Comedy|Family|Romance,Rosario Dawson,5392,80000000,2011,1000,5.2,2.35,0
+Stephen Hopkins,102,130,81,427,Action|Adventure|Family|Sci-Fi|Thriller,Gary Oldman,12186,80000000,1998,882,5.1,2.35,0
+Jonathan Demme,209,129,438,502,Drama|Mystery|Sci-Fi|Thriller,Denzel Washington,20056,80000000,2004,1000,6.6,1.85,0
+Henry Jaglom,19,117,69,87,Drama|Romance,Vanessa Redgrave,1753,,1997,577,7.0,1.85,91
+Genndy Tartakovsky,152,89,266,859,Animation|Comedy|Family|Fantasy,Steve Buscemi,26839,80000000,2015,11000,6.7,1.85,16000
+,31,25,,474,Comedy|Family|Fantasy,Elizabeth Montgomery,2614,,,960,7.6,4.0,0
+James Algar,129,74,11,62,Animation|Family|Fantasy|Music,Quincy Jones,814,80000000,1999,243,7.3,1.78,607
+Simon Wells,124,96,25,102,Action|Adventure|Sci-Fi,Mark Addy,1919,80000000,2002,639,5.9,2.35,3000
+Ron Underwood,35,114,31,372,Action|Adventure|Family|Fantasy|Thriller,Charlize Theron,10731,90000000,1998,496,5.6,1.85,0
+Dominic Sena,166,99,57,820,Action|Crime|Thriller,Hugh Jackman,25942,80000000,2001,3000,6.5,2.35,0
+Martin Campbell,137,129,258,163,Action|Adventure|Western,Michael Emerson,2864,75000000,2005,277,5.9,2.35,951
+Vincent Ward,121,113,25,129,Drama|Fantasy|Romance,Robin Williams,49631,85000000,1998,448,7.0,2.35,32000
+Steven Brill,87,90,65,658,Comedy|Fantasy,Adam Sandler,25190,80000000,2000,11000,5.3,1.85,0
+Terry Gilliam,233,118,0,871,Action|Adventure|Comedy|Fantasy|Thriller,Matt Damon,27114,88000000,2005,13000,5.9,1.85,0
+Tim Burton,132,106,13000,733,Action|Comedy|Sci-Fi,Natalie Portman,22590,70000000,1996,770,6.3,2.35,0
+Lucile Hadzihalilovic,63,81,92,8,Drama|Horror|Mystery|Sci-Fi,Nissim Renard,54,,2015,21,6.4,2.35,257
+Lee Tamahori,95,117,93,904,Action|Adventure|Drama|Thriller,Anthony Hopkins,14831,,1997,1000,6.9,2.35,0
+Jonathan Mostow,258,89,84,1000,Action|Sci-Fi|Thriller,Bruce Willis,18132,80000000,2009,1000,6.3,2.35,0
+Roger Donaldson,162,145,79,183,Drama|History|Thriller,Bruce Greenwood,1825,80000000,2000,274,7.3,1.85,0
+Rob Cohen,61,114,357,366,Action|Adventure|Drama|Thriller,Sylvester Stallone,25126,80000000,1996,10000,5.8,1.85,0
+Barry Cook,113,87,43,210,Adventure|Animation|Family,Charlie Rowe,1971,80000000,2013,396,5.2,2.35,0
+Roger Christian,174,119,64,41,Action|Adventure|Sci-Fi,Richard Tyson,971,44000000,2000,117,2.4,2.35,0
+Joe Dante,101,91,287,695,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Brendan Fraser,5593,80000000,2003,739,5.7,2.35,665
+Rob Marshall,205,118,252,30,Drama|Musical|Romance,Fergie,619,80000000,2009,48,5.8,2.35,0
+Richard Donner,123,116,503,982,Action|Adventure|Sci-Fi,Paul Walker,43887,80000000,2003,18000,5.6,2.35,0
+Kevin Costner,79,177,0,582,Action|Adventure|Drama|Sci-Fi,Olivia Williams,4346,80000000,1997,674,6.0,2.35,0
+George Miller,61,97,750,231,Adventure|Comedy|Drama|Family|Fantasy,Adam Goldberg,2521,80000000,1998,971,5.8,1.85,964
+Breck Eisner,202,106,42,612,Action|Adventure|Fantasy,Vin Diesel,16922,90000000,2015,788,6.0,2.35,21000
+Antony Hoffman,145,106,14,0,Action|Sci-Fi|Thriller,Bob Neill,2,70000000,2000,0,5.7,2.35,995
+Luc Besson,101,94,0,14,Adventure|Animation|Family|Fantasy,Mia Farrow,683,86000000,2006,80,6.0,2.35,941
+Jacques Perrin,113,104,63,7,Documentary|Drama,Pedro Armendáriz Jr.,152,40000000,2009,63,7.8,2.35,0
+Peter Hyams,113,102,0,212,Action|Adventure|Horror|Sci-Fi|Thriller,David Oyelowo,1890,52000000,2005,307,4.2,2.35,785
+Paul W.S. Anderson,272,105,545,74,Action|Adventure|Drama|History|Romance,Sasha Roiz,1099,80000000,2014,172,5.6,2.35,20000
+Andrés Couturier,3,89,0,20,Animation|Family,Sariann Monaco,370,8000000,2015,94,4.4,,138
+Ron Howard,205,135,2000,535,Biography|Drama,Adam Goldberg,2827,58000000,2001,592,8.2,1.85,29000
+Roger Allers,186,73,28,847,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,6458,45000000,1994,886,8.5,1.66,17000
+Brad Peyton,178,94,62,722,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Josh Hutcherson,27842,79000000,2012,12000,5.8,1.85,0
+Cody Cameron,169,95,18,18,Animation|Comedy|Family|Fantasy|Sci-Fi,Will Forte,848,78000000,2013,161,6.5,2.35,15000
+Brett Ratner,210,124,420,876,Crime|Drama|Thriller,Philip Seymour Hoffman,35867,78000000,2002,12000,7.2,2.35,0
+Joe Johnston,140,136,394,1000,Action|Adventure|Western,J.K. Simmons,36925,100000000,2004,10000,6.7,2.35,0
+Dennis Dugan,156,91,221,553,Comedy,Al Pacino,27405,79000000,2011,11000,3.4,1.85,0
+John Singleton,150,107,309,771,Action|Crime|Thriller,Paul Walker,25296,76000000,2003,787,5.9,2.35,0
+Mark Osborne,119,108,54,6000,Adventure|Animation|Drama|Family|Fantasy,Jeff Bridges,30230,81200000,2015,11000,7.8,2.35,31000
+Oliver Hirschbiegel,232,99,101,327,Sci-Fi|Thriller,Roger Rees,2323,80000000,2007,422,5.9,1.85,0
+Des McAnuff,49,92,5,924,Adventure|Animation|Comedy|Family|Fantasy,Robert De Niro,28050,76000000,2000,1000,4.1,1.85,413
+Yarrow Cheney,165,87,11,745,Animation|Comedy|Family,Steve Coogan,4782,75000000,2016,904,6.8,1.85,36000
+Stephen Norrington,202,110,45,845,Action|Adventure|Fantasy|Sci-Fi,Jason Flemyng,4714,78000000,2003,872,5.8,2.35,0
+Pierre Coffin,306,98,275,1000,Animation|Comedy|Family|Sci-Fi,Steve Carell,11905,76000000,2013,2000,7.5,1.85,56000
+Roland Emmerich,185,154,776,933,Action|Adventure|Sci-Fi,Will Smith,16785,75000000,1996,2000,6.9,2.35,16000
+Steven Spielberg,177,129,14000,227,Action|Adventure|Sci-Fi,Ariana Richards,1635,73000000,1997,506,6.5,1.85,0
+Eric Darnell,181,86,35,179,Adventure|Animation|Comedy|Family,Jada Pinkett Smith,1777,75000000,2005,436,6.9,1.85,0
+Alfonso Cuarón,372,109,0,18,Drama|Sci-Fi|Thriller,Charlie Hunnam,16479,76000000,2006,430,7.9,1.85,17000
+Bryan Singer,290,104,0,505,Action|Adventure|Sci-Fi,Hugh Jackman,21397,75000000,2000,764,7.4,2.35,0
+Timur Bekmambetov,316,110,335,988,Action|Crime|Fantasy|Thriller,Angelina Jolie Pitt,25763,75000000,2008,11000,6.7,2.35,0
+Michael Bay,122,136,0,904,Action|Adventure|Thriller,Nicolas Cage,15999,75000000,1996,2000,7.4,2.35,51000
+Carlos Saldanha,164,115,107,241,Action|Adventure|Animation|Comedy|Family|Fantasy,Denis Leary,1815,80000000,2006,590,6.9,1.85,0
+Peter Segal,147,99,88,328,Comedy|Romance,Adam Sandler,12952,75000000,2004,427,6.8,2.35,11000
+Adam Shankman,219,117,163,260,Comedy|Drama|Family|Music|Musical|Romance,Jerry Stiller,1673,75000000,2007,339,6.7,2.35,0
+Renny Harlin,167,125,212,394,Horror|Mystery|Thriller,James D'Arcy,1970,50000000,2004,422,5.1,2.0,893
+David Kellogg,70,110,16,692,Action|Adventure|Comedy|Family|Sci-Fi,Matthew Broderick,5320,75000000,1999,710,4.1,1.85,509
+Louis Leterrier,384,125,255,963,Crime|Mystery|Thriller,Morgan Freeman,13312,75000000,2013,988,7.3,2.35,105000
+Dennis Dugan,179,102,221,4000,Comedy,Steve Buscemi,28497,80000000,2010,11000,6.0,1.85,12000
+Steven Spielberg,151,128,14000,232,Comedy|Drama,Tom Hanks,16199,60000000,2004,466,7.3,1.85,16000
+,12,43,,218,Drama|Fantasy|Horror|Thriller,Harold Perrineau,1990,,,560,7.5,16.0,10000
+Thor Freudenthal,107,100,87,446,Comedy|Family,Don Cheadle,5174,35000000,2009,576,5.4,1.85,1000
+Martin Campbell,134,124,258,748,Action|Adventure|Drama|Thriller,Nicholas Lea,3424,75000000,2000,826,5.9,1.85,0
+Mike Nichols,269,102,0,15000,Biography|Comedy|Drama|History,Philip Seymour Hoffman,60646,75000000,2007,15000,7.1,1.85,0
+Bibo Bergeron,143,90,10,11000,Adventure|Animation|Comedy|Family,Robert De Niro,63165,75000000,2004,17000,6.0,1.85,0
+Bill Condon,241,130,386,525,Drama|Music|Musical,Loretta Devine,2856,70000000,2006,549,6.5,2.35,0
+,12,45,,0,Crime|Drama|Mystery,Adam Arkin,504,,,130,8.3,,0
+F. Gary Gray,161,118,473,680,Comedy|Crime|Music,Dwayne Johnson,15889,53000000,2005,1000,5.7,2.4,0
+Steven Spielberg,298,163,14000,412,Drama|History|Thriller,Ayelet Zurer,2529,70000000,2005,486,7.6,2.35,0
+Antoine Fuqua,89,142,845,787,Action|Drama|Thriller|War,Bruce Willis,16580,70000000,2003,1000,6.6,2.35,0
+Robert Luketic,140,100,126,925,Action|Comedy|Romance|Thriller,Tom Selleck,25206,75000000,2010,1000,5.4,2.35,0
+Guy Ritchie,362,116,0,104,Action|Adventure|Comedy,Henry Cavill,15735,75000000,2015,509,7.3,2.35,43000
+James L. Brooks,124,131,274,138,Comedy|Drama|Romance,Adam Sandler,12522,80000000,2004,964,6.5,1.85,0
+Gil Kenan,190,91,27,925,Animation|Comedy|Family|Fantasy|Mystery,Steve Buscemi,17299,75000000,2006,970,6.6,2.35,0
+Barry Levinson,132,123,272,193,Comedy|Crime|Drama|Romance,Bruce Willis,13934,80000000,2001,450,6.6,2.35,0
+Jerry Zucker,53,134,109,249,Action|Adventure|Romance|Thriller,Julia Ormond,1695,55000000,1995,303,5.9,1.85,0
+Andy Tennant,91,148,72,99,Drama|History|Romance,Bai Ling,804,75000000,1999,103,6.7,2.35,0
+Tarsem Singh,284,110,763,222,Action|Drama|Fantasy|Romance,Henry Cavill,16691,75000000,2011,1000,6.1,1.85,30000
+Florent-Emilio Siri,152,113,17,759,Action|Crime|Drama|Mystery|Thriller,Jimmy Bennett,103354,52000000,2005,13000,6.6,2.35,0
+Don Bluth,131,94,383,886,Action|Adventure|Animation|Family|Sci-Fi,Matt Damon,15857,75000000,2000,1000,6.6,2.35,0
+Ron Shelton,132,116,41,541,Action|Comedy|Crime|Thriller,Harrison Ford,14028,75000000,2003,982,5.3,2.35,648
+Paul W.S. Anderson,67,99,545,533,Action|Drama|Sci-Fi,Connie Nielsen,2542,75000000,1998,722,6.0,2.35,0
+David Pastor,130,84,10,394,Drama|Horror|Sci-Fi|Thriller,Christopher Meloni,4368,,2009,552,6.0,2.35,0
+Henry Selick,74,93,253,637,Animation|Comedy|Fantasy,Brendan Fraser,5580,75000000,2001,889,4.7,1.85,683
+John Moore,114,113,212,568,Action|Adventure|Drama|Thriller,Dennis Quaid,4397,45000000,2004,845,6.1,2.35,1000
+M. Night Shyamalan,294,106,0,963,Drama|Mystery|Sci-Fi|Thriller,Robin Wright,33645,75000000,2000,13000,7.2,2.35,0
+Kyle Balda,308,91,22,1000,Action|Animation|Comedy|Family|Sci-Fi,Steve Carell,13616,74000000,2015,4000,6.4,1.85,70000
+Zack Snyder,435,128,0,826,Action|Fantasy,Jon Hamm,7067,82000000,2011,2000,6.1,2.35,42000
+Brian De Palma,117,98,0,697,Crime|Mystery|Thriller,Nicolas Cage,15269,69000000,1998,854,5.9,2.35,880
+Barry Levinson,108,134,272,215,Drama|Mystery|Sci-Fi|Thriller,Peter Coyote,1044,75000000,1998,270,6.0,2.35,0
+Clay Kaytis,141,97,6,415,Action|Animation|Comedy|Family,Peter Dinklage,24350,73000000,2016,1000,6.3,1.85,14000
+Andy Tennant,176,112,72,715,Action|Adventure|Comedy|Romance|Thriller,Matthew McConaughey,13827,70000000,2008,1000,5.6,2.35,0
+Judd Apatow,230,153,0,130,Comedy|Drama,Adam Sandler,11852,75000000,2009,561,6.4,1.85,0
+Peter Berg,234,110,532,461,Action|Drama|Thriller,Jennifer Garner,5187,70000000,2007,638,7.1,2.35,0
+Adam McKay,164,122,285,989,Action|Comedy|Sport,Will Ferrell,12410,73000000,2006,1000,6.6,2.35,0
+Steve Carr,91,87,41,574,Comedy|Family|Fantasy,Raven-Symoné,3287,72000000,2001,692,4.6,2.35,266
+Mel Gibson,132,178,0,403,Biography|Drama|History|War,Mhairi Calvey,1976,72000000,1995,466,8.4,2.35,17000
+Sam Mendes,262,125,0,210,Action|Drama|War,Jake Gyllenhaal,15850,70000000,2005,383,7.1,2.35,0
+David Silverman,299,87,30,433,Adventure|Animation|Comedy,Albert Brooks,3086,75000000,2007,440,7.4,2.35,0
+Frank Darabont,128,152,0,745,Drama|Romance,Martin Landau,4310,72000000,2001,826,6.9,1.85,0
+Renny Harlin,109,116,212,462,Action|Drama|Sport,Sylvester Stallone,14780,72000000,2001,658,4.5,2.35,886
+Jean-Jacques Annaud,88,109,218,8,Adventure|Drama|Family,David Gant,55,59660000,2004,17,7.1,2.35,2000
+M. Night Shyamalan,261,108,0,882,Drama|Mystery|Romance|Thriller,Bryce Dallas Howard,7273,60000000,2004,2000,6.5,1.85,0
+Betty Thomas,73,85,84,595,Comedy|Family|Fantasy,Oliver Platt,4166,71500000,1998,1000,5.3,1.85,694
+M. Night Shyamalan,208,106,0,242,Drama|Sci-Fi|Thriller,Rory Culkin,1675,72000000,2002,529,6.7,1.85,0
+Andrew Adamson,205,93,80,48,Adventure|Animation|Comedy|Family|Fantasy|Romance,Rupert Everett,1148,150000000,2004,309,7.2,1.85,0
+John Lasseter,256,117,487,769,Adventure|Animation|Comedy|Family|Sport,John Ratzenberger,4905,120000000,2006,843,7.2,2.35,0
+Garry Marshall,103,116,0,995,Comedy|Romance,Julia Roberts,12790,70000000,1999,3000,5.5,2.35,0
+Rob Cohen,191,132,357,212,Action|Adventure|Thriller,Vin Diesel,14790,70000000,2002,223,5.8,2.35,10000
+Paul Tibbitt,147,92,5,726,Adventure|Animation|Comedy|Family|Fantasy,Tim Conway,5217,74000000,2015,861,6.0,1.85,16000
+Ron Howard,79,139,2000,808,Crime|Thriller,Lili Taylor,3667,80000000,1996,848,6.6,1.85,1000
+Quentin Tarantino,486,153,16000,11000,Adventure|Drama|War,Michael Fassbender,36741,75000000,2009,11000,8.3,2.35,42000
+Steven Spielberg,75,142,14000,5000,Adventure|Comedy|Family|Fantasy,Robin Williams,64259,70000000,1991,8000,6.7,2.35,13000
+Brett Ratner,245,101,420,467,Action|Adventure,Dwayne Johnson,16235,100000000,2014,3000,6.0,2.35,21000
+Renny Harlin,142,124,212,576,Action|Thriller,Bruce Willis,16595,70000000,1990,982,7.1,2.35,0
+Clark Johnson,144,117,69,1000,Action|Adventure|Crime|Thriller,Jeremy Renner,14486,80000000,2003,1000,6.0,2.35,0
+,39,45,,160,Adventure|Drama|Fantasy|Mystery|Thriller,Nicole Beharie,1430,,,372,7.5,16.0,14000
+Cameron Crowe,153,141,488,509,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Tom Cruise,11458,68000000,2001,834,6.9,1.85,0
+M. Night Shyamalan,284,110,0,559,Drama|Fantasy|Mystery|Thriller,Bryce Dallas Howard,5609,70000000,2006,579,5.6,1.85,0
+Paul W.S. Anderson,247,109,545,727,Action|Horror|Sci-Fi|Thriller,Sanaa Lathan,3222,60000000,2004,766,5.6,2.35,0
+Betty Thomas,107,88,84,1000,Animation|Comedy|Family|Fantasy|Music,Amy Poehler,5227,75000000,2009,1000,4.5,1.85,2000
+Randall Wallace,141,124,130,841,Action|Drama|History|War,Jon Hamm,6181,75000000,2002,973,7.1,2.35,5000
+Antoine Fuqua,358,119,845,992,Action|Thriller,Gerard Butler,31782,70000000,2013,11000,6.5,2.35,45000
+Jonathan Frakes,160,103,906,748,Action|Adventure|Sci-Fi|Thriller,LeVar Burton,6207,58000000,1998,906,6.4,2.35,1000
+Jonathan Liebesman,355,116,473,464,Action|Sci-Fi,Noel Fisher,4001,70000000,2011,697,5.8,2.35,25000
+Tim Burton,235,125,13000,883,Adventure|Drama|Fantasy,Steve Buscemi,16138,70000000,2003,1000,8.0,1.37,26000
+Mike Nichols,59,125,0,184,Drama|Horror|Romance|Thriller,David Hyde Pierce,1439,70000000,1994,277,6.2,1.85,0
+Steven Spielberg,388,146,14000,979,Drama|War,Jeremy Irvine,46726,66000000,2011,19000,7.2,2.35,28000
+George Clooney,371,118,0,559,Drama|War,Bill Murray,27674,70000000,2014,13000,6.1,2.35,34000
+James Cameron,82,171,0,638,Adventure|Drama|Sci-Fi|Thriller,Michael Biehn,4074,69500000,1989,650,7.6,2.35,0
+Oliver Stone,297,136,0,17,Drama,Frank Langella,1579,70000000,2010,592,6.3,2.35,13000
+Gary Shore,261,92,28,423,Action|Drama|Fantasy|Horror|War,Dominic Cooper,5178,70000000,2014,692,6.3,2.35,37000
+Edward Zwick,120,116,380,774,Action|Thriller,Denzel Washington,32563,70000000,1998,13000,6.3,2.35,0
+Matthew Vaughn,228,127,905,271,Adventure|Family|Fantasy|Romance,Henry Cavill,16034,70000000,2007,588,7.7,2.35,15000
+Jean-Jacques Annaud,76,136,218,400,Adventure|Biography|Drama|History|War,Brad Pitt,12226,70000000,1997,691,7.0,2.35,0
+Ron Howard,185,111,2000,244,Comedy|Drama,Channing Tatum,18510,70000000,2011,1000,5.3,2.35,0
+Joel Schumacher,128,116,541,384,Action|Adventure|Comedy|Thriller,Anthony Hopkins,12993,70000000,2002,405,5.6,2.35,792
+Andrzej Bartkowiak,237,113,43,452,Action|Adventure|Horror|Sci-Fi,Dwayne Johnson,13517,60000000,2005,585,5.2,2.35,0
+Betty Thomas,105,97,84,150,Action|Adventure|Comedy|Thriller,Gary Cole,1576,70000000,2002,229,5.4,1.37,531
+Måns Mårlind,242,88,24,324,Action|Fantasy|Horror,Theo James,5861,70000000,2012,327,6.4,2.35,24000
+Adam Shankman,360,136,163,66,Comedy|Drama|Musical|Romance,James Martin Kelly,712,75000000,2012,217,5.9,2.35,33000
+Gregory Hoblit,112,125,40,407,Drama|War,Bruce Willis,15916,60000000,2002,787,6.3,2.35,997
+Gary McKendry,189,116,5,748,Action|Crime|Thriller,Jason Statham,49608,35000000,2011,22000,6.5,2.35,17000
+John McTiernan,151,98,323,390,Action|Sci-Fi|Sport,LL Cool J,2763,70000000,2002,841,3.0,2.35,584
+Wych Kaosayananda,92,91,8,298,Action|Crime|Sci-Fi|Thriller,Talisa Soto,1846,70000000,2002,324,3.6,2.35,391
+Mikael Salomon,79,97,13,695,Action|Crime|Drama|Thriller,Morgan Freeman,13628,70000000,1998,893,5.8,2.35,815
+Bobby Farrelly,81,95,101,443,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Ron Howard,3734,70000000,2001,509,6.2,2.35,2000
+Will Finn,51,88,6,854,Adventure|Animation|Family|Fantasy|Musical,Lea Michele,6946,70000000,2013,1000,5.6,,5000
+Michael Mann,261,133,0,301,Action|Crime|Drama|Mystery|Thriller,Chris Hemsworth,28129,70000000,2015,326,5.4,2.35,11000
+Kerry Conran,197,106,14,582,Action|Adventure|Mystery|Sci-Fi|Thriller,Angelina Jolie Pitt,12871,70000000,2004,1000,6.1,1.85,0
+Michael Caton-Jones,159,116,105,246,Crime|Mystery|Thriller,Charlotte Rampling,1899,70000000,2006,729,4.2,2.35,764
+Mikael Håfström,286,115,101,585,Action|Crime|Mystery|Sci-Fi|Thriller,Sylvester Stallone,15708,50000000,2013,1000,6.7,2.35,34000
+Renny Harlin,156,99,212,182,Action|Adventure|Fantasy,Roxanne McKee,1520,70000000,2014,358,4.2,2.35,12000
+Phil Alden Robinson,176,124,31,497,Action|Drama|Thriller,Morgan Freeman,12556,68000000,2002,655,6.4,2.35,0
+David Slade,293,124,171,10000,Adventure|Drama|Fantasy|Romance,Robert Pattinson,52547,68000000,2010,17000,4.9,2.35,29000
+Frank Oz,141,124,0,580,Crime|Drama|Thriller,Robert De Niro,32871,68000000,2001,10000,6.8,2.35,0
+Pierre Coffin,304,87,275,975,Animation|Comedy|Family,Steve Carell,11608,69000000,2010,2000,7.7,1.85,31000
+Joseph Ruben,40,105,29,97,Action|Comedy|Crime|Drama|Thriller,Vincent Pastore,1132,68000000,1995,220,5.6,2.35,617
+Seth MacFarlane,280,125,3000,3000,Comedy,Liam Neeson,30010,68000000,2015,11000,6.4,2.35,30000
+Alejandro Amenábar,180,141,448,334,Adventure|Drama|History|Romance,Max Minghella,1829,70000000,2009,451,7.2,2.35,29000
+Kinka Usher,125,121,18,776,Action|Comedy|Fantasy|Sci-Fi,Janeane Garofalo,3986,65000000,1999,855,6.0,1.85,0
+Bobby Farrelly,237,111,101,681,Comedy|Romance,Jenna Fischer,3393,36000000,2011,919,5.9,2.35,10000
+Michael Mann,209,157,0,680,Biography|Drama|Thriller,Al Pacino,18216,68000000,1999,826,7.9,2.35,0
+Craig Gillespie,178,117,44,531,Action|Drama|History|Thriller,Michael Raymond-James,3524,,2016,562,6.8,2.35,12000
+Ridley Scott,238,128,0,135,Action|Drama|Thriller,Leonardo DiCaprio,29824,70000000,2008,149,7.1,2.35,0
+Jay Roach,190,114,116,982,Comedy,Steve Carell,10419,,2010,1000,5.9,1.85,0
+Timur Bekmambetov,393,105,335,911,Action|Fantasy|Horror,Rufus Sewell,8281,69000000,2012,3000,5.9,2.35,98000
+Jon Amiel,138,113,36,232,Action|Crime|Romance|Thriller,Will Patton,1302,66000000,1999,427,6.2,2.35,0
+,4,30,,359,Comedy,Hector Elizondo,2465,,,363,7.4,16.0,0
+Rob Bowman,142,121,38,745,Drama|Mystery|Sci-Fi|Thriller,Martin Landau,4230,66000000,1998,826,7.0,2.35,0
+Doug Lefler,90,102,4,112,Action|Adventure|Fantasy|War,Colin Firth,14625,35000000,2007,394,5.4,2.35,0
+Steven Spielberg,219,169,14000,13000,Action|Drama|War,Tom Hanks,44998,70000000,1998,14000,8.6,1.85,22000
+Scott Waugh,327,132,76,464,Action|Crime|Drama|Thriller,Rami Malek,7081,66000000,2014,3000,6.5,2.35,32000
+Nancy Meyers,149,127,278,912,Comedy|Fantasy|Romance,Judy Greer,5838,70000000,2000,955,6.4,1.37,0
+Chris Wedge,193,103,77,835,Adventure|Animation|Comedy|Family,Goran Visnjic,5437,59000000,2002,939,7.6,1.85,3000
+Lawrence Kasdan,175,136,759,354,Drama|Horror|Sci-Fi|Thriller,Morgan Freeman,12194,68000000,2003,599,5.5,2.35,4000
+Steven Spielberg,538,150,14000,655,Biography|Drama|History|War,Joseph Gordon-Levitt,25517,65000000,2012,826,7.4,2.35,71000
+Lana Wachowski,313,136,0,99,Action|Sci-Fi,Keanu Reeves,18563,63000000,1999,145,8.7,2.35,25000
+Ron Howard,159,140,2000,552,Adventure|Drama|History,Tom Hanks,17171,62000000,1995,968,7.6,2.35,5000
+Paul Verhoeven,196,113,719,217,Action|Sci-Fi,Ronny Cox,1441,65000000,1990,308,7.5,1.85,0
+Michael Lembeck,80,104,54,775,Comedy|Family|Fantasy,Judge Reinhold,5265,60000000,2002,857,5.5,1.85,1000
+Tom Hooper,488,158,0,11000,Drama|Musical|Romance,Hugh Jackman,46204,61000000,2012,13000,7.6,1.85,144000
+Nora Ephron,153,119,0,744,Comedy|Drama|Romance,Tom Hanks,17768,65000000,1998,793,6.5,1.85,0
+Adam McKay,173,106,285,105,Comedy,Will Ferrell,11264,65000000,2008,3000,6.9,2.35,0
+Martin Campbell,156,136,258,94,Action|Adventure|Comedy|Romance|Thriller|Western,Anthony Hopkins,12396,65000000,1998,174,6.7,2.35,0
+Todd Phillips,307,95,480,490,Comedy|Drama,Robert Downey Jr.,23018,65000000,2010,561,6.6,2.35,25000
+Angelina Jolie Pitt,322,137,11000,465,Biography|Drama|Sport|War,Finn Wittrock,2938,65000000,2014,698,7.2,2.35,35000
+Clint Eastwood,169,130,16000,416,Action|Adventure|Thriller,Clint Eastwood,17771,65000000,2000,495,6.4,2.35,0
+Renny Harlin,74,124,212,369,Action|Adventure|Thriller,Sylvester Stallone,15229,70000000,1993,730,6.4,2.35,0
+John Woo,72,108,610,461,Action|Crime|Thriller,Delroy Lindo,2913,50000000,1996,517,6.0,2.35,0
+Jon Turteltaub,86,104,226,577,Comedy|Family|Fantasy,Bruce Willis,16452,60000000,2000,718,6.1,1.85,0
+Oliver Stone,242,129,0,625,Drama|History|Thriller,Nicolas Cage,14421,63000000,2006,1000,6.0,1.85,0
+Mike Newell,141,117,179,403,Drama,Julia Roberts,12850,65000000,2003,4000,6.4,1.85,0
+Larry Charles,313,99,119,174,Comedy|Romance,Sayed Badreya,1375,65000000,2012,346,6.4,2.35,59000
+Stanley Kubrick,280,159,0,521,Drama|Mystery|Thriller,Tom Cruise,11424,65000000,1999,580,7.3,1.66,10000
+Will Gluck,176,118,87,929,Comedy|Drama|Family|Musical,Quvenzhané Wallis,4796,65000000,2014,1000,5.2,2.39,16000
+Glenn Ficarra,279,105,43,523,Comedy|Crime|Drama|Romance,Will Smith,11943,50100000,2015,806,6.6,1.85,23000
+McG,241,103,368,520,Action|Comedy|Romance,Tom Hardy,29808,65000000,2012,1000,6.3,2.35,18000
+David S. Goyer,185,122,687,957,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Ryan Reynolds,19764,65000000,2004,1000,5.9,2.35,0
+John Milius,97,114,468,919,Action|Drama|War,Lea Thompson,3860,16900000,1984,1000,6.4,1.85,0
+Mike Nichols,117,143,0,210,Comedy|Drama,Maura Tierney,1409,65000000,1998,317,6.7,2.35,688
+Paul W.S. Anderson,239,96,545,974,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,17913,65000000,2012,1000,5.4,2.35,32000
+Paul W.S. Anderson,230,111,545,805,Action|Sci-Fi|Thriller,Jason Statham,28643,45000000,2008,872,6.4,2.35,0
+Renny Harlin,94,121,212,263,Action|Crime|Drama|Mystery|Thriller,Melina Kanakaredes,1531,65000000,1996,380,6.7,2.35,4000
+Taylor Hackford,134,135,138,184,Action|Drama|Thriller,Pamela Reed,1013,65000000,2000,192,6.2,2.35,892
+Jon Favreau,136,101,4000,539,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Kristen Stewart,32232,65000000,2005,14000,6.1,1.85,0
+David Fincher,315,151,21000,637,Drama,Brad Pitt,13209,63000000,1999,783,8.8,2.35,48000
+McG,96,131,368,383,Drama|Sport,Matthew McConaughey,12088,65000000,2006,529,7.1,2.35,0
+,14,60,,575,Crime|Drama|Mystery,Jason Flemyng,3537,,,773,8.1,,0
+Michael Lehmann,60,100,36,554,Action|Adventure|Comedy,Bruce Willis,15944,70000000,1991,773,5.7,1.85,0
+Nora Ephron,60,105,0,506,Comedy|Crime,Michael Rapaport,3580,65000000,2000,909,5.0,1.85,177
+Stuart Beattie,308,92,72,568,Action|Fantasy|Sci-Fi|Thriller,Caitlin Stasey,3165,65000000,2014,593,5.1,2.35,15000
+Roman Polanski,127,130,2000,25,Crime|Drama,Ian McNeice,450,50000000,2005,85,6.9,2.35,0
+Rob Bowman,196,100,38,1000,Action|Crime|Fantasy|Thriller,Jennifer Garner,7048,43000000,2005,1000,4.8,2.35,0
+Frank Miller,339,102,436,6000,Action|Crime|Thriller,Joseph Gordon-Levitt,49433,65000000,2014,13000,6.5,1.85,32000
+Sydney Pollack,96,133,521,970,Drama|Mystery|Romance,Harrison Ford,16710,64000000,1999,1000,5.1,1.85,295
+Baltasar Kormákur,361,121,175,221,Adventure|Biography|Drama|History|Sport|Thriller,Michael Kelly,2131,55000000,2015,580,7.1,2.35,40000
+Tom Tykwer,226,147,670,16,Crime|Drama|Fantasy,Michael Smiley,253,50000000,2006,27,7.5,2.35,26000
+Jay Roach,194,94,116,481,Action|Comedy|Crime,Verne Troyer,2725,63000000,2002,522,6.2,2.35,0
+David Bowers,138,94,42,668,Action|Animation|Comedy|Family|Sci-Fi,Nicolas Cage,23365,65000000,2009,9000,6.3,2.35,0
+Steven Spielberg,308,127,14000,191,Adventure|Sci-Fi|Thriller,Wayne Knight,2129,63000000,1993,610,8.1,1.85,19000
+Lawrence Kasdan,40,212,759,812,Adventure|Biography|Crime|Drama|Western,Dennis Quaid,5708,63000000,1994,925,6.6,2.35,0
+Phillip Noyce,42,141,176,672,Action|Crime|Drama|Thriller,Harrison Ford,14178,62000000,1994,913,6.9,2.35,0
+Daniel Lee,68,103,10,7,Action|Adventure|Drama|History,Si Won Choi,58,65000000,2015,18,6.1,2.35,0
+Keenen Ivory Wayans,78,98,322,723,Comedy|Crime,Chazz Palminteri,6334,64000000,2006,862,4.3,1.85,0
+Jonathan Mostow,178,116,84,563,Action|War,Matthew McConaughey,14931,62000000,2000,919,6.6,2.35,0
+Rob Reiner,75,114,0,452,Comedy|Drama|Romance,Shawna Waldron,2668,62000000,1995,517,6.8,2.35,0
+Marco Schnabel,150,87,12,645,Comedy|Romance|Sport,Justin Timberlake,6658,62000000,2008,966,3.8,2.35,0
+Demian Lichtenstein,113,125,11,867,Action|Comedy|Crime|Thriller,Jon Lovitz,14536,42000000,2001,904,5.9,2.35,0
+Quentin Tarantino,596,187,16000,1000,Crime|Drama|Mystery|Thriller|Western,Craig Stark,49912,44000000,2015,1000,7.9,2.76,114000
+Josh Gordon,191,93,8,970,Comedy|Sport,Will Ferrell,13232,61000000,2007,1000,6.3,1.85,0
+Tim Hill,156,95,25,439,Adventure|Animation|Comedy|Family|Fantasy,Gary Cole,2558,63000000,2011,664,5.5,1.85,0
+Zack Snyder,460,117,0,447,Action|Drama|Fantasy|War,Gerard Butler,32360,65000000,2006,13000,7.7,2.35,13000
+Jay Roach,141,106,116,708,Comedy|Romance,Robert De Niro,24938,80000000,2004,713,6.3,1.85,0
+David Frankel,180,115,64,664,Comedy|Drama|Family,Eric Dane,4811,60000000,2008,899,7.1,2.35,11000
+Frank Darabont,186,189,0,693,Crime|Drama|Fantasy|Mystery,Tom Hanks,17716,60000000,1999,745,8.5,1.85,30000
+Walt Becker,177,100,12,311,Action|Adventure|Comedy,Jill Hennessy,1412,,2007,330,5.9,2.35,0
+Mark Dindal,161,81,10,397,Adventure|Animation|Comedy|Family|Sci-Fi,Catherine O'Hara,2252,150000000,2005,729,5.8,1.85,912
+David Fincher,568,149,21000,625,Crime|Drama|Mystery|Thriller,Patrick Fugit,4348,61000000,2014,812,8.1,2.35,146000
+Doug Liman,249,119,218,73,Action|Mystery|Thriller,Matt Damon,13249,60000000,2002,147,7.9,2.35,0
+Martin Campbell,137,130,258,345,Action|Adventure|Thriller,Izabella Scorupco,1784,58000000,1995,387,7.2,2.35,0
+Simon West,113,116,165,475,Drama|Mystery|Thriller,Daniel von Bargen,2321,95000000,1999,501,6.3,2.35,885
+Peter Weir,213,103,608,576,Comedy|Drama|Sci-Fi,Natascha McElhone,3698,60000000,1998,617,8.1,1.85,18000
+Brenda Chapman,120,99,59,145,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,Martin Short,1195,70000000,1998,263,7.0,1.85,0
+Steve Carr,81,92,41,522,Comedy|Family,Anjelica Huston,4050,60000000,2003,955,5.5,1.85,886
+Baltasar Kormákur,265,109,175,459,Action|Comedy|Crime|Drama|Thriller,Denzel Washington,20148,61000000,2013,497,6.7,2.35,22000
+Lawrence Guterman,105,87,6,405,Action|Comedy|Family|Fantasy,Carol Ann Susi,4171,60000000,2001,664,5.2,1.85,0
+F. Gary Gray,155,111,473,82,Action|Crime|Thriller,Jason Statham,35084,60000000,2003,9000,7.0,2.35,0
+Marc Lawrence,118,101,30,268,Comedy|Romance,Dorian Missick,2636,60000000,2002,976,6.1,1.85,0
+Eric Darnell,131,83,35,754,Adventure|Animation|Comedy|Family,Sylvester Stallone,25788,105000000,1998,11000,6.6,1.85,0
+Peter Billingsley,166,113,0,721,Comedy,Jon Favreau,8172,60000000,2009,722,5.5,1.85,0
+Tony Scott,60,107,12000,695,Action|Drama|Sport,Tom Cruise,14006,60000000,1990,3000,5.9,2.35,0
+Adam Shankman,77,94,163,2000,Adventure|Comedy|Family,Taylor Lautner,20348,60000000,2005,3000,5.4,2.35,781
+Wes Ball,249,132,47,240,Action|Sci-Fi|Thriller,Ki Hong Lee,2517,61000000,2015,960,6.4,2.35,24000
+Ryan Murphy,213,140,708,745,Drama|Romance,James Franco,20440,60000000,2010,8000,5.7,1.85,26000
+Brett Ratner,121,125,420,627,Comedy|Drama|Fantasy|Romance,Nicolas Cage,16646,60000000,2000,3000,6.7,2.35,0
+Robert Schwentke,315,111,124,357,Action|Comedy|Crime|Thriller,Bruce Willis,24928,58000000,2010,11000,7.1,2.35,32000
+Oliver Stone,171,156,0,1000,Drama|Sport,Al Pacino,20761,55000000,1999,2000,6.8,2.35,0
+Robert Redford,96,170,0,380,Drama|Romance|Western,Scarlett Johansson,20683,60000000,1998,1000,6.5,1.85,0
+Michael Mann,299,120,0,680,Crime|Drama|Thriller,Tom Cruise,13581,65000000,2004,851,7.6,2.35,0
+Chuck Russell,167,100,55,416,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,14611,60000000,2002,1000,5.5,2.35,0
+Jay Russell,125,115,13,579,Action|Drama|Thriller,Billy Burke,4496,55000000,2004,1000,6.5,1.85,0
+Christopher McQuarrie,387,130,188,1000,Action|Crime|Mystery|Thriller,Tom Cruise,16385,60000000,2012,3000,7.0,2.35,38000
+Renny Harlin,199,105,212,811,Action|Sci-Fi|Thriller,LL Cool J,3697,60000000,1999,975,5.8,2.35,0
+Kenny Ortega,136,111,197,6,Documentary|Music,Misha Gabriel Hamilton,679,60000000,2009,208,7.3,1.78,0
+Steven Soderbergh,436,106,0,175,Drama|Thriller,Matt Damon,13634,60000000,2011,240,6.6,1.85,42000
+David McNally,73,89,18,226,Action|Adventure|Comedy|Crime,Estella Warren,1233,60000000,2003,257,4.4,2.35,858
+Henry Selick,310,100,253,57,Animation|Family|Fantasy,Jennifer Saunders,647,60000000,2009,229,7.7,1.85,10000
+M. Night Shyamalan,323,91,0,751,Sci-Fi|Thriller,Zooey Deschanel,13654,48000000,2008,946,5.0,1.85,6000
+Tony Scott,171,146,12000,451,Action|Crime|Drama|Thriller,Denzel Washington,20454,70000000,2004,992,7.7,2.35,14000
+Brian Robbins,76,98,48,722,Comedy|Family|Fantasy,Robert Downey Jr.,24664,50000000,2006,936,4.4,2.35,747
+Todd Phillips,173,101,480,767,Comedy|Crime,Snoop Dogg,3943,60000000,2004,869,6.1,2.35,0
+Brian Levant,81,94,32,626,Comedy|Family,Jim Belushi,4530,60000000,1996,628,5.4,1.85,0
+Guillermo del Toro,242,132,0,160,Action|Fantasy|Horror|Sci-Fi,James Babson,1112,66000000,2004,334,6.8,1.85,0
+Steven Zaillian,110,115,234,521,Drama,Robert Duvall,4713,60000000,1998,552,6.5,2.35,1000
+Chris Butler,328,92,28,586,Adventure|Animation|Comedy|Family|Fantasy,Anna Kendrick,13597,60000000,2012,884,7.0,2.35,12000
+Michael Caton-Jones,83,124,105,460,Action|Adventure|Crime|Thriller,J.K. Simmons,38227,60000000,1997,13000,6.3,2.35,0
+John Woo,196,119,610,716,Action|Mystery|Sci-Fi|Thriller,Ivana Milicevic,3637,60000000,2003,780,6.3,2.35,0
+Jon Avnet,34,124,50,672,Drama|Romance,Joe Mantegna,3653,60000000,1996,944,6.1,1.85,829
+Sam Fell,118,93,18,903,Adventure|Animation|Comedy|Family|Fantasy,Emma Watson,13403,60000000,2008,2000,6.1,2.35,0
+,8,22,,402,Comedy|Romance,Bianca Kajlich,2064,,,607,7.3,1.78,0
+Kevin Donovan,81,98,11,107,Action|Comedy|Sci-Fi,Romany Malco,2018,60000000,2002,680,5.3,1.85,797
+Geoff Murphy,47,92,14,488,Action|Thriller,Peter Greene,2318,60000000,1995,520,5.4,1.85,1000
+Kenneth Branagh,313,105,0,288,Action|Drama|Thriller,Colm Feore,1411,60000000,2014,394,6.2,2.35,17000
+David O. Russell,315,124,737,14000,Biography|Comedy|Drama,Jennifer Lawrence,75793,60000000,2015,22000,6.6,1.85,24000
+Babak Najafi,225,99,24,864,Action|Crime|Drama|Thriller,Gerard Butler,20276,60000000,2016,992,5.9,2.35,28000
+Jean-Pierre Jeunet,223,116,0,672,Action|Horror|Sci-Fi,Gary Dourdan,3090,75000000,1997,720,6.3,2.35,0
+Antoine Fuqua,198,124,845,295,Action|Crime|Drama|Mystery|Thriller,Tate Donovan,1640,61000000,2007,467,7.2,2.35,0
+Graham Annable,219,96,7,642,Adventure|Animation|Comedy|Family|Fantasy,Isaac Hempstead Wright,3151,60000000,2014,668,6.8,1.85,11000
+Griffin Dunne,92,104,165,944,Comedy|Drama|Fantasy|Romance,Goran Visnjic,4294,48000000,1998,967,6.1,2.35,0
+Phil Lord,435,100,97,2000,Action|Adventure|Animation|Comedy|Family|Fantasy,Morgan Freeman,22128,60000000,2014,8000,7.8,2.35,64000
+John Pasquin,111,115,11,642,Action|Comedy|Crime,Eileen Brennan,4305,45000000,2005,759,5.0,2.35,621
+Rob Bowman,138,101,38,11000,Action|Adventure|Fantasy|Sci-Fi|Thriller,Christian Bale,53024,60000000,2002,18000,6.2,2.35,0
+Ruben Fleischer,415,113,181,300,Action|Crime|Drama|Thriller,Ryan Gosling,34738,60000000,2013,301,6.7,2.35,40000
+Harold Ramis,170,100,11000,485,Adventure|Comedy,Olivia Wilde,12258,60000000,2009,1000,4.9,1.85,0
+Clint Eastwood,306,134,16000,204,Biography|Drama|History|Sport,Matt Damon,24458,60000000,2009,11000,7.4,2.35,23000
+Kevin Macdonald,252,127,162,379,Crime|Drama|Mystery|Thriller,Robin Wright,19776,,2009,748,7.1,2.35,0
+Tony Gilroy,211,125,209,896,Comedy|Crime|Romance|Thriller,Julia Roberts,10623,60000000,2009,1000,6.2,2.35,0
+Donald Petrie,49,94,80,230,Comedy|Family|Sci-Fi,Steven Anthony Lawrence,2151,65000000,1999,417,4.9,1.85,448
+Clark Johnson,161,107,69,206,Action|Crime|Thriller,Blair Brown,1352,60000000,2006,219,6.1,2.35,690
+Jorge Blanco,156,91,2,480,Adventure|Animation|Comedy|Family|Sci-Fi,Dwayne Johnson,22668,70000000,2009,10000,6.1,2.35,0
+Stuart Baird,172,116,53,906,Action|Adventure|Sci-Fi|Thriller,Tom Hardy,31224,60000000,2002,1000,6.4,2.35,0
+Joel Coen,161,100,0,210,Comedy|Crime|Romance,Cedric the Entertainer,1395,60000000,2003,399,6.3,1.85,0
+Robert Lorenz,239,111,39,461,Drama|Sport,Clint Eastwood,17871,,2012,897,6.8,2.35,11000
+Martin Campbell,258,117,258,896,Crime|Drama|Mystery|Thriller,Bojana Novakovic,7053,80000000,2010,1000,6.6,2.35,0
+Peter Hyams,95,110,0,308,Horror|Mystery|Sci-Fi|Thriller,John Kapelos,1976,40000000,1997,344,5.7,2.35,956
+Harold Ramis,105,96,11000,236,Comedy|Crime,Robert De Niro,22889,60000000,2002,394,5.9,1.85,846
+Jon Avnet,198,101,50,1000,Action|Crime|Drama|Mystery|Thriller,Robert De Niro,38809,60000000,2008,14000,6.0,2.35,0
+Harold Becker,79,111,17,652,Action|Crime|Drama|Thriller,Bruce Willis,16536,60000000,1998,968,6.1,2.35,0
+Joe Wright,210,117,456,569,Biography|Drama|Music,Robert Downey Jr.,23745,60000000,2009,939,6.7,2.35,0
+Robert Redford,125,126,0,9000,Drama|Fantasy|Sport,Matt Damon,34774,60000000,2000,10000,6.7,1.85,0
+Cameron Crowe,149,152,488,947,Adventure|Comedy|Drama|Music,Philip Seymour Hoffman,36897,60000000,2000,11000,7.9,1.85,15000
+Tim Hill,77,86,25,265,Animation|Comedy|Family|Fantasy,Bill Murray,14918,,2006,1000,5.0,1.85,470
+Lee Tamahori,77,101,93,218,Action|Adventure|Crime|Thriller,Sunny Mabrey,993,87000000,2005,233,4.3,2.35,0
+Scott Stewart,225,87,124,77,Action|Fantasy|Horror|Sci-Fi|Thriller,Josh Wingate,1417,60000000,2011,441,5.7,2.35,20000
+Patrick Gilmore,98,85,0,82,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,Brad Pitt,11301,60000000,2003,102,6.7,1.66,880
+Paul W.S. Anderson,172,130,545,552,Horror|Sci-Fi|Thriller,Sean Pertwee,2525,60000000,1997,585,6.7,2.35,10000
+Joss Whedon,703,173,0,19000,Action|Adventure|Sci-Fi,Chris Hemsworth,87697,220000000,2012,21000,8.1,1.85,123000
+Tom Shadyac,117,104,293,256,Drama|Fantasy|Mystery|Romance|Thriller,Joe Morton,2109,60000000,2002,265,6.1,2.35,0
+Brian De Palma,240,121,0,854,Crime|Drama|Mystery|Thriller,Scarlett Johansson,22833,50000000,2006,972,5.6,2.35,0
+Tony Bill,123,140,23,579,Action|Adventure|Drama|History|Romance|War,James Franco,12634,60000000,2006,779,6.6,2.35,2000
+Rod Lurie,110,131,37,507,Action|Drama|Thriller,Clifton Collins Jr.,3012,60000000,2001,848,6.9,2.35,0
+Walter Hill,100,91,394,68,Horror|Sci-Fi|Thriller,Robert Forster,1262,65000000,2000,290,4.8,2.35,589
+Akiva Goldsman,189,118,167,778,Drama|Fantasy|Mystery|Romance,Matt Bomer,22447,60000000,2014,882,6.2,2.35,17000
+Harald Zwart,212,130,91,1000,Fantasy|Horror|Mystery|Romance,Aidan Turner,10247,60000000,2013,2000,6.0,2.35,44000
+Brian Robbins,127,90,48,196,Adventure|Comedy|Family|Romance|Sci-Fi,Marc Blucas,1865,60000000,2008,400,4.9,1.85,791
+Walter Salles,196,103,179,87,Drama|Horror|Thriller,Dougray Scott,1467,30000000,2005,329,5.6,2.35,0
+Ron Howard,115,122,2000,1000,Comedy|Drama,Matthew McConaughey,15275,55000000,1999,1000,6.1,1.85,641
+Iain Softley,161,106,34,466,Adventure|Family|Fantasy,Brendan Fraser,5329,60000000,2008,1000,6.1,2.35,0
+Frank Miller,223,103,436,437,Action|Crime|Fantasy|Thriller,Scarlett Johansson,20881,60000000,2008,961,4.8,2.35,2000
+David Koepp,181,107,192,280,Action|Comedy|Mystery|Romance,Johnny Depp,42683,60000000,2015,2000,5.5,2.35,12000
+Uwe Boll,140,156,892,102,Action|Adventure|Fantasy|Thriller,Jason Statham,26564,60000000,2007,368,3.8,2.35,0
+Martin Campbell,54,127,258,617,Adventure|Drama|Romance|War,Angelina Jolie Pitt,12947,35000000,2003,708,6.5,2.35,0
+Pou-Soi Cheang,14,119,3,22,Action|Adventure|Fantasy,Li Gong,1026,68005000,2016,107,6.0,2.35,426
+John Dahl,81,132,131,242,Action|Drama|War,James Franco,12133,80000000,2005,298,6.7,2.35,0
+Tim Miller,579,108,84,361,Action|Adventure|Comedy|Romance|Sci-Fi,Ryan Reynolds,18239,58000000,2016,805,8.1,2.35,117000
+Stephen Herek,56,114,65,440,Comedy|Drama,Kelly Preston,2367,60000000,1998,730,4.9,2.35,296
+Clint Eastwood,490,133,16000,318,Action|Biography|Drama|History|Thriller|War,Bradley Cooper,16277,58800000,2014,962,7.3,2.35,112000
+Rob Letterman,218,103,11,543,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,5497,58000000,2015,1000,6.4,2.35,35000
+,20,22,,271,Comedy|Family|Fantasy,Nate Richert,2433,3000000,,558,6.6,1.33,990
+Mark Waters,142,95,70,512,Comedy|Fantasy|Romance,Jon Heder,2876,58000000,2005,834,6.7,1.85,0
+Brian Levant,57,90,32,809,Comedy|Family|Romance|Sci-Fi,Taylor Negron,6299,60000000,2000,891,3.6,1.85,500
+Peter MacDonald,84,87,10,349,Action|Adventure|Thriller|War,Sylvester Stallone,14574,63000000,1988,1000,5.7,2.35,2000
+George Clooney,186,114,0,110,Comedy|Drama|Romance|Sport,Robert Baker,589,58000000,2008,117,6.0,1.85,472
+Frank Coraci,53,119,153,11000,Comedy|Western,Taylor Lautner,36167,,2015,11000,4.9,2.35,0
+Marc Lawrence,133,103,30,727,Comedy|Drama|Romance,Michael Kelly,3150,58000000,2009,935,4.7,2.35,0
+Shawn Levy,246,125,189,839,Comedy,Josh Gad,5081,58000000,2013,847,6.3,2.35,22000
+Paul W.S. Anderson,253,97,545,529,Action|Adventure|Horror|Sci-Fi,Milla Jovovich,16098,60000000,2010,1000,5.9,2.35,19000
+Anthony Hemingway,144,125,143,519,Action|Adventure|Drama|History|War,David Oyelowo,4416,58000000,2012,664,5.9,2.35,0
+,46,30,,479,Comedy|Romance,Chris Noth,2558,,,722,7.0,1.33,0
+Taylor Hackford,117,136,138,9000,Drama|Mystery|Thriller,Keanu Reeves,45271,57000000,1997,14000,7.5,2.35,11000
+Sean Anders,157,116,51,622,Comedy,Adam Sandler,16484,70000000,2012,3000,5.6,2.35,12000
+Rob Cohen,60,103,357,40,Action|Adventure|Fantasy,Dennis Quaid,2710,57000000,1996,663,6.4,2.35,0
+Brett Ratner,117,97,420,455,Action|Comedy|Crime|Drama,Salma Hayek,9814,58000000,2004,3000,6.3,2.35,782
+Mark Neveldine,287,96,83,1000,Action|Fantasy|Thriller,Nicolas Cage,16121,57000000,2011,1000,4.3,2.35,18000
+John Madden,96,131,108,58,Drama|Music|Romance|War,Christian Bale,23325,57000000,2001,243,5.9,2.35,0
+,26,22,,676,Comedy|Romance,Barry Corbin,4115,,,701,6.7,16.0,0
+Adam Shankman,125,95,163,650,Action|Comedy|Drama|Family|Thriller,Vin Diesel,16884,56000000,2005,799,5.5,2.35,0
+Kevin Bray,117,86,10,348,Action|Crime,Dwayne Johnson,14146,56000000,2004,795,6.2,2.35,0
+Robert Zemeckis,149,142,0,194,Comedy|Drama,Tom Hanks,15700,55000000,1994,294,8.8,2.35,59000
+Tim Hill,131,92,25,639,Animation|Comedy|Family|Fantasy|Music,Jesse McCartney,2847,60000000,2007,718,5.2,1.85,0
+Jay Roach,150,108,116,708,Comedy,Robert De Niro,24286,55000000,2000,713,7.0,1.85,0
+Mike Gabriel,92,84,12,752,Adventure|Animation|Drama|Family|History|Musical|Romance,Christian Bale,26754,55000000,1995,2000,6.6,1.78,0
+Richard Donner,169,188,503,467,Action|Adventure|Drama|Romance|Sci-Fi,Marlon Brando,12940,55000000,1978,593,7.3,2.35,0
+Tom Shadyac,57,95,293,744,Comedy|Romance|Sci-Fi,Jada Pinkett Smith,3155,54000000,1996,773,5.6,1.85,960
+Andy Tennant,171,118,72,681,Comedy|Romance,Will Smith,13426,70000000,2005,975,6.6,2.35,0
+Sam Weisman,53,92,39,458,Action|Adventure|Comedy|Family|Romance,Brendan Fraser,4518,55000000,1997,562,5.4,1.85,5000
+Jesse Dylan,153,74,58,729,Comedy|Romance,Alyson Hannigan,5713,55000000,2003,864,6.3,2.35,0
+Paul Greengrass,491,134,521,186,Biography|Drama|Thriller,Tom Hanks,16281,55000000,2013,535,7.9,2.35,65000
+Shawn Levy,247,101,189,7000,Comedy|Crime|Romance|Thriller,Mila Kunis,39822,55000000,2010,11000,6.3,2.35,0
+Brad Silberling,26,100,52,394,Comedy|Family|Fantasy,Eric Idle,2638,50000000,1995,419,6.0,1.85,0
+Antoine Fuqua,292,132,845,683,Action|Crime|Thriller,Denzel Washington,37605,55000000,2014,17000,7.2,2.35,56000
+Wayne Wang,114,105,61,708,Comedy|Drama|Romance,Bob Hoskins,7184,55000000,2002,827,5.1,2.35,0
+Tony Scott,82,123,12000,665,Action|Drama|Thriller|War,Denzel Washington,30132,53000000,1995,10000,7.3,2.35,0
+Gabriele Muccino,201,117,125,168,Biography|Drama,Will Smith,11036,55000000,2006,617,8.0,2.35,32000
+Robert Schwentke,231,98,124,354,Drama|Mystery|Thriller,Erika Christensen,2287,55000000,2005,507,6.2,2.35,0
+Barry Levinson,55,128,272,383,Drama|Thriller,Demi Moore,3888,55000000,1994,812,6.0,2.35,0
+Brad Silberling,110,114,52,539,Drama|Fantasy|Romance,Nicolas Cage,13905,55000000,1998,702,6.7,2.35,0
+Quentin Tarantino,354,111,16000,640,Action,David Carradine,3983,30000000,2003,890,8.1,2.35,13000
+Frank Oz,140,85,0,490,Comedy,Robert Downey Jr.,22458,55000000,1999,860,6.4,1.37,0
+,77,44,,72,Action|Adventure|Drama|Sci-Fi,Christopher Judge,1359,1400000,,440,8.4,1.33,0
+Quentin Tarantino,304,137,16000,348,Action|Crime|Drama|Thriller,Vivica A. Fox,1959,30000000,2004,387,8.0,2.35,0
+Andrey Konchalovskiy,45,97,96,403,Action|Comedy|Crime|Thriller,Sylvester Stallone,14432,55000000,1989,549,6.3,2.35,0
+Robert Zemeckis,49,104,0,812,Comedy|Fantasy|Horror,Bruce Willis,25599,55000000,1992,11000,6.4,1.85,8000
+Tom Dey,146,110,9,95,Action|Adventure|Comedy|Western,Xander Berkeley,939,55000000,2000,110,6.6,2.35,0

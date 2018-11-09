@@ -1,35 +1,276 @@
-num_voted_users
-6011
-13866
-38985
-29008
-38142
-11693
-11233
-89906
-92781
-12519
-6782
-9334
-7277
-2427
-16444
-524
-17933
-3174
-11077
-6069
-11704
-12053
-9928
-60460
-259837
-167089
-123390
-36542
-28159
-12590
-44795
-185845
-5602
-271
+director_name,num_critic_for_reviews,actor_3_facebook_likes,gross,movie_title,num_voted_users,facenumber_in_poster,plot_keywords,country,content_rating,budget,actor_2_facebook_likes,aspect_ratio,movie_facebook_likes
+Marc Webb,331,11000,32391374,500 Days of Summer ,376600,43,friend|greeting card|office|summer|true love,USA,PG-13,7500000,17000,2.35,40000
+Jane Campion,83,11,40158000,The Piano ,63931,1,adultery|daughter|male rear nudity|new zealand|piano,New Zealand,R,7000000,18,1.85,0
+Steven Soderbergh,324,11000,113709992,Magic Mike ,108843,1,bank|male nudity|male objectification|male stripper|stripper,USA,R,7000000,15000,2.35,54000
+Jonathan Liebesman,140,82,32131483,Darkness Falls ,25870,0,boy|darkness|light|tooth|tooth fairy,USA,PG-13,11000000,970,2.35,2000
+Guy Hamilton,136,189,35400000,Live and Let Die ,74957,3,british|cards|heroin|murder|tarot card,UK,PG,7000000,547,1.66,0
+Jay Russell,79,430,34099640,My Dog Skip ,16651,0,1940s|dog|mississippi|puppy|veteran,USA,PG,5000000,934,1.37,0
+Adam Brooks,160,61,31973840,"Definitely, Maybe ",127760,5,college|daughter|girl|sex|wisconsin,Germany,PG-13,,109,2.35,0
+Salim Akil,52,826,37295394,Jumping the Broom ,7973,8,martha's vineyard|mother|older woman younger man relationship|wedding|weekend,USA,PG-13,6600000,912,1.85,0
+Baz Luhrmann,490,76,144812796,The Great Gatsby ,362933,4,ingratitude|mansion|party|title appears in writing|tragedy,Australia,PG-13,105000000,509,2.35,115000
+George Clooney,351,566,31501218,"Good Night, and Good Luck. ",84070,0,cbs|expose|fear|paranoia|reporter,USA,PG,7500000,650,1.85,0
+Bennett Miller,271,27,28747570,Capote ,100571,1,book|holcomb kansas|kansas|killer|truman capote,Canada,R,7000000,68,2.35,0
+Robert Rodriguez,93,4000,25625110,Desperado ,138707,0,crushed by a car|female frontal nudity|female nudity|female rear nudity|one against many,USA,R,7000000,12000,1.85,0
+Michael Winterbottom,71,887,403932,The Claim ,5254,4,gold|gold mine|miner|railroad|surveyor,UK,R,20000000,900,2.35,141
+,54,1000,,Fargo             ,170055,0,anthology|death|insurance salesman|minnesota|police officer,USA,TV-MA,,1000,1.78,61000
+Michael Anderson,112,440,25000000,Logan's Run ,39847,1,cat|computer|cult film|runner|sanctuary,USA,PG,9000000,659,2.35,0
+Guy Hamilton,118,244,21000000,The Man with the Golden Gun ,73950,3,assassin|bikini|girl in a bikini|mission|secret agent,UK,PG,13000000,387,1.66,2000
+Craig R. Baxley,35,794,20257000,Action Jackson ,7569,2,murder|power|psychotronic|tough cop|union,USA,R,7000000,841,1.85,978
+Neil Marshall,342,159,26005908,The Descent ,154938,0,cave|expedition|friendship between women|group of friends|survival horror,UK,R,3500000,239,2.35,10000
+Don Kempf,14,69,18642318,Michael Jordan to the Max ,1723,0,basketball|basketball player|character name in title|chicago bulls|imax,USA,,,366,1.44,407
+Matt Bettinelli-Olpin,137,270,15818967,Devil's Due ,13913,0,eiffel tower at night|honeymoon|implied insemination|party|taxi driver,USA,R,7000000,479,1.85,0
+David O. Russell,50,380,14891000,Flirting with Disaster ,15088,3,adoption|armpit fetish|mistaken identity|new mexico|overalls,USA,R,7000000,524,1.85,824
+Rob Zombie,261,597,16901126,The Devil's Rejects ,76267,0,escape|police|road trip|sheriff|texas,USA,R,7000000,649,1.85,0
+,96,970,,Buffy the Vampire Slayer             ,101902,0,action heroine|coming of age|destiny|double life|vampire,USA,TV-14,2300000,3000,1.33,6000
+Rick Famuyiwa,180,190,17474107,Dope ,56605,3,african american|geek|hip hop|party|tomboy,USA,R,7000000,256,2.35,23000
+Michael Rymer,28,826,14003141,In Too Deep ,4598,1,cunnilingus|oral sex|police|sex scene|undercover,USA,R,7000000,865,2.35,375
+Sam Mendes,750,393,304360277,Skyfall ,522048,0,brawl|childhood home|computer cracker|intelligence agency|terrorist cell,UK,PG-13,200000000,563,2.35,80000
+Rob Zombie,202,303,12583510,House of 1000 Corpses ,60709,0,actor playing multiple roles|axe|dark comedy|masked man|sadism,USA,R,7000000,340,1.85,0
+Sharron Miller,8,23,,Alien Zone ,440,0,affair|child murderer|mortician|strangulation|supernatural power,USA,PG,350000,29,,44
+Ethan Coen,341,98,9190525,A Serious Man ,102125,1,bar mitzvah|jewish|marital breakup|nose job|rabbi,USA,R,7000000,105,1.85,10000
+Aaron Schneider,160,970,9176553,Get Low ,19147,1,funeral|funeral home|hermit|party|secret,USA,PG-13,7500000,3000,2.35,0
+Steve Miner,31,304,9094451,Warlock ,11668,0,17th century|book|death|warlock|witch hunter,USA,R,7000000,554,1.85,0
+Gina Prince-Bythewood,71,658,14612840,Beyond the Lights ,11191,1,domestic abuse|public humiliation|sex symbol|singer|suicide attempt,USA,PG-13,7000000,664,,0
+Tom Ford,281,292,9166863,A Single Man ,83182,2,car accident|male full back nudity|practicing a suicide|public nudity|suicide contemplation,USA,R,7000000,343,2.35,16000
+Martin Scorsese,114,159,8373585,The Last Temptation of Christ ,39680,0,carpenter|exorcism|faith|reference to jesus christ|temptation,USA,R,7000000,618,1.85,0
+Michael Corrente,72,407,7292175,Outside Providence ,7736,3,class|cornwall connecticut|dog|friend|pawtucket rhode island,USA,R,7000000,412,1.85,0
+Gurinder Chadha,119,397,6601079,Bride & Prejudice ,17436,1,bollywood|india|jane austen|london england|travel,UK,PG-13,7000000,579,2.35,0
+Phillip Noyce,74,46,6165429,Rabbit-Proof Fence ,23486,1,aborigine|based on true story|colonialism|fence|half caste,Australia,PG,6000000,93,2.35,0
+Don Michael Paul,25,442,5694308,Who's Your Caddy? ,13815,0,2000s|golf caddy|golf course|golfer|question mark in title,USA,PG-13,7000000,585,1.85,446
+Tony Maylam,39,38,5430822,Split Second ,8391,0,appearing from water|breasts|creature|partner|water,UK,R,7000000,192,1.85,0
+,27,346,,Nikita             ,42402,1,assassin|death|female protagonist|rogue|training,USA,,,485,16.0,0
+Mitch Davis,27,35,4720371,The Other Side of Heaven ,3203,2,1950s|idaho|love|missionary|mormon,USA,PG,7000000,43,1.85,650
+,11,652,,Dark Angel             ,25329,1,cat burglar|female lead|future|mixed martial arts|post apocalypse,USA,TV-14,,794,1.33,0
+Yash Chopra,29,397,2921738,Veer-Zaara ,34449,0,fair|pakistan|prison|rescue|stranded,India,,7000000,860,2.35,2000
+David Mamet,158,501,2344847,Redbelt ,18561,0,bar|debt|fight|instructor|jujitsu,USA,R,7000000,518,2.35,0
+Jay Duplass,223,224,7455447,Cyrus ,29967,2,21 year old|forename as title|musician|party|rearview mirror,USA,R,7000000,259,1.85,0
+Kevin Brodie,25,359,2148212,A Dog of Flanders ,781,0,artist|box office flop|dog|drawing|flanders,USA,PG,7000000,476,1.85,157
+Paul Schrader,97,617,2062066,Auto Focus ,11387,3,friendship|photography|radio|sex addict|video,USA,R,7000000,658,1.85,357
+George Hickenlooper,117,628,1654367,Factory Girl ,18355,0,andy warhol|female nudity|public nudity|singer|socialite,USA,R,7000000,787,1.85,3000
+Lynne Ramsay,389,77,1738692,We Need to Talk About Kevin ,95529,0,archery|defiance|mental illness|psychopath|toilet training,UK,R,7000000,294,2.35,38000
+John Stephenson,9,149,2209479,The Christmas Candle ,844,0,angel|candle|christmas|miracle|village,UK,PG,,627,,962
+Tim Chambers,34,455,1889522,The Mighty Macs ,1119,2,basketball|catholic|coach|college|nun,USA,G,7000000,690,2.35,797
+Curtis Hanson,7,172,,Losin' It ,3114,0,apostrophe in title|bare breasts|friendship between men|teen sex comedy|two word title,Canada,R,7000000,422,,168
+Rodrigo García,161,798,1110286,Mother and Child ,9727,6,adoption|baby|girl|lawyer|sex,USA,R,4825000,941,2.35,0
+Dick Richards,6,375,1000000,March or Die ,2215,1,arab|bare chested male|foreign legion|french foreign legion|morocco,UK,PG,9000000,750,1.85,122
+Jean-Marie Poiré,16,39,700000,Les visiteurs ,24438,1,distant past|future time travel|nobleman|squire|trapped in the past,France,R,50000000,54,2.35,0
+Sofia Coppola,301,106,1768416,Somewhere ,35848,0,actor|boredom|luxury hotel|party|trip,USA,R,7000000,218,1.85,0
+Bob Gosse,52,184,1425993,I Hope They Serve Beer in Hell ,7412,1,bachelor party|bare butt|loud sex|sex standing up|topless female nudity,USA,R,,216,2.35,0
+Alex Zamm,12,611,306715,Chairman of the Board ,5143,1,box office flop|company|invention|roommate|surfer,USA,PG-13,10000000,788,1.85,724
+Spencer Susser,134,973,382946,Hesher ,43965,0,bully|car|car accident|fire|vomiting,USA,R,7000000,20000,2.35,19000
+Richard Shepard,151,13,518134,Dom Hemingway ,21243,2,male frontal nudity|male nudity|male rear nudity|nudity|sex scene,UK,R,,524,2.35,0
+Gus Van Sant,103,,236266,Gerry ,15104,0,desert|friend|friendship|minimal dialogue|water,USA,R,3500000,0,2.35,0
+Thaddeus O'Sullivan,39,52,196067,The Heart of Me ,1966,3,1930s|car accident|hospital|marital rape|painter,UK,R,7000000,358,1.85,97
+Peter Sollett,133,935,532988,Freeheld ,5863,0,cancer|gay bar|lesbian kiss|partner|public hearing,USA,PG-13,7000000,1000,1.85,0
+Shari Springer Berman,104,281,453079,The Extra Man ,4124,4,co worker|escort|magazine|teacher|writer,USA,R,7000000,403,2.35,916
+Aleksey German,121,0,,Hard to Be a God ,2518,0,fictional war|hanging|male full frontal nudity|medieval times|nudity,Russia,Not Rated,7000000,4,1.66,1000
+Stephen Milburn Anderson,27,410,46451,Ca$h ,7663,2,cash|financial problem|heist|land rover|mortgage,USA,R,7000000,854,1.85,694
+Richard E. Grant,49,530,233103,Wah-Wah ,2670,3,alcoholic|alcoholic father|stepmother|swaziland|unfaithful wife,UK,R,7000000,838,2.35,311
+Troy Duffy,100,184,,The Boondock Saints ,197845,2,fbi|fbi agent|friend|irish|mafia,Canada,R,7000000,333,2.35,16000
+David Lam,12,4,,Z Storm ,383,1,,Hong Kong,,7000000,82,2.35,55
+Francis Ford Coppola,112,507,,Twixt ,8589,0,ghost|hotel|murder|stake|what happened to epilogue,USA,R,7000000,844,1.85,0
+Vladlen Barbe,10,26,,Snow Queen ,1159,1,3d,Russia,PG,7000000,62,,453
+Richard Rich,2,29,,Alpha and Omega 4: The Legend of the Saw Toothed Cave ,192,0,blindness|cave|spirit|wolf|wolf cub,USA,,7000000,35,,41
+Clint Eastwood,38,240,41400000,Pale Rider ,39451,0,gold|miner|preacher|prospector|sheriff,USA,R,6900000,455,2.35,0
+Robert C. Cooper,18,687,,Stargate: The Ark of Truth ,15862,5,2000s|evil god|space opera|stargate|wormhole,USA,,,847,1.78,389
+Richard Linklater,152,787,7993039,Dazed and Confused ,120036,1,football|hazing|high school|last day of school|pledge,USA,R,6900000,1000,1.85,10000
+Kenny Ortega,44,578,,High School Musical 2 ,39786,5,2000s|basketball|country club|lifeguard|talent show,USA,TV-G,7000000,632,1.78,586
+Kim Nguyen,6,63,,Two Lovers and a Bear ,33,0,,Canada,,8700000,147,2.35,187
+Jackie Earle Haley,46,493,,Criminal Activities ,5255,3,african american gangster|falling to death|in over one's head|murder|surveillance,USA,,7000000,725,2.35,0
+Max Färberböck,63,36,927107,Aimee & Jaguar ,5153,1,lesbian mother|lesbian parent|lesbian relationship|lesbian romance|lesbianism,Germany,,15000000,66,1.85,687
+Arie Posin,74,436,49526,The Chumscrubber ,16299,1,chumscrubber|death|friend|pills|school,USA,R,6800000,697,2.35,1000
+Damian Nieman,25,83,10696,Shade ,10771,8,bar|strip club|stripper|texas hold 'em|thong,USA,R,6800000,83,2.35,413
+Mark Tonderai,224,261,31607598,House at the End of the Street ,58366,1,brother sister relationship|death of sister|female protagonist|mother daughter relationship|murder,Canada,PG-13,6900000,924,2.35,10000
+Denis Villeneuve,226,58,6857096,Incendies ,80429,0,brother sister relationship|family relationships|middle east|mother son relationship|twin brother and sister,Canada,R,6800000,66,1.85,37000
+Gabriele Muccino,36,11,223878,"Remember Me, My Love ",3548,1,box office hit|dancer|sex scene|television|underage sex,Italy,R,5000000,29,2.35,282
+Ian Fitzgibbon,54,415,828,Perrier's Bounty ,5133,8,burglary|estranged father|money|neighbor|thug,Ireland,R,,418,2.35,663
+José Padilha,142,15,8060,Elite Squad ,81644,1,brazil|military police|police|rio de janeiro brazil|slum,Brazil,R,4000000,39,1.85,11000
+John R. Leonetti,271,300,84263837,Annabelle ,81699,0,horror movie prequel|murder|paranormal activity|self sacrifice|suicide,USA,R,6500000,421,2.35,45000
+Rachel Perkins,33,38,110029,Bran Nue Dae ,1388,7,australia|journey|love|priest|traveling,Australia,PG-13,6500000,46,2.35,479
+John Singleton,64,15,57504069,Boyz n the Hood ,94139,2,drugs|escape|football|friend|violence,USA,R,6000000,26,1.85,0
+Luis Valdez,18,51,54215416,La Bamba ,21409,1,crash|hispanic|interracial relationship|interracial romance|racism,USA,PG-13,6500000,63,1.85,0
+Alan Alda,6,146,,The Four Seasons ,3157,2,directed by star|friendship|reference to isaac newton|skinny dipping|written and directed by cast member,USA,PG,,167,1.85,337
+Brian De Palma,121,517,31899000,Dressed to Kill ,23986,0,apartment|elevator|murder|psychiatrist|sunglasses,USA,X,6500000,567,2.35,0
+Stephen Sommers,14,689,24103594,The Adventures of Huck Finn ,6384,0,boy|lesson|mississippi river|river|slave,USA,PG,6500000,827,1.85,391
+Doug Liman,137,376,16842303,Go ,59474,3,drug deal|drugs|sex|sex on stairs|strip club,USA,R,6500000,563,2.35,0
+Nicole Holofcener,111,180,13367101,Friends with Money ,19715,2,friend|friendship|marital problem|money problems|nervous breakdown,USA,R,6500000,230,2.35,515
+Robert Wise,57,45,,The Andromeda Strain ,25857,0,alien|baby|new mexico|satellite|scientist,USA,G,6500000,112,2.35,0
+Louis Morneau,97,91,10149779,Bats ,8294,0,animal attack|bat|creature feature|experiment|mad scientist,USA,PG-13,6500000,461,2.35,342
+Caroline Link,73,8,6173485,Nowhere in Africa ,10672,0,breasts|farm|jew|kenya|tween girl,Germany,R,7000000,36,2.35,802
+Steve McQueen,486,726,4000304,Shame ,145395,0,female frontal nudity|female nudity|male nudity|sex addict|sex addiction,UK,NC-17,6500000,898,2.35,23000
+Matthew Vaughn,149,466,2338695,Layer Cake ,134070,1,cake|cocaine|drugs|pills|serbian,UK,R,4000000,594,2.35,0
+Sterling Van Wagenen,4,266,2024854,The Work and the Glory II: American Zion ,564,2,estrangement|missouri|mormon|mormon church|mormon temple,USA,PG-13,6500000,373,2.35,19
+Zal Batmanglij,200,782,2268296,The East ,41856,4,anarchist|corporation|greedy institution|vomiting|watching television,UK,PG-13,6500000,918,2.35,12000
+Michael Mayer,84,874,1029017,A Home at the End of the World ,12049,2,hand job|hugging|long hair|new york city|two men one woman,USA,R,6500000,986,2.35,1000
+Hans Petter Moland,28,0,64148,Aberdeen ,2601,0,death|ferry|lawyer|norway|vomiting,UK,,6500000,2,1.85,260
+Oren Moverman,217,706,66637,The Messenger ,29608,0,captain|casualty notification|casualty notification team|sergeant|staff sergeant,USA,R,6500000,712,2.35,0
+Ian Sharp,12,368,,Tracker ,2892,0,one word title,New Zealand,R,6500000,433,2.35,830
+Anton Corbijn,183,471,871577,Control ,51353,1,band|employment agency|singer|stage fright|suicide,UK,R,4500000,631,2.35,13000
+James Cameron,204,255,38400000,The Terminator ,600266,1,cyborg|future war|robot|shootout in a police station|urban setting,UK,R,6500000,663,1.85,13000
+Wolfgang Becker,153,43,4063859,Good Bye Lenin! ,114407,2,coma|east germany|german democratic republic|germany|heart attack,Germany,R,4800000,51,1.85,11000
+Tom Hooper,145,27,449558,The Damned United ,32307,2,cup|derby county|flashback|football|leeds united,UK,R,10000000,54,1.85,0
+Dan O'Bannon,203,358,,The Return of the Living Dead ,39856,0,crematorium|female frontal nudity|naked dead woman|paramedic|poison gas,USA,R,4000000,426,1.85,0
+,10,5,,Gomorrah             ,9638,5,,Italy,TV-MA,,9,1.85,0
+Kevin Smith,93,781,2122561,Mallrats ,99033,6,comic|ex girlfriend|jay and silent bob|mall|teenager,USA,R,6000000,898,1.85,0
+Randal Kleiser,124,898,181360000,Grease ,170027,2,automobile racing|boyfriend girlfriend relationship|high school|wrestling|year 1959,USA,PG-13,6000000,944,2.35,13000
+Oliver Stone,120,576,137963328,Platoon ,291603,0,1960s|famous score|hero|vietnam|vietnam war,UK,R,6000000,854,1.85,9000
+Michael Moore,288,282,119078393,Fahrenheit 9/11 ,113152,0,anti war|interview|iraq|paranoia|war on terrorism,USA,R,6000000,328,1.85,0
+George Roy Hill,130,399,102308900,Butch Cassidy and the Sundance Kid ,152089,1,bolivia|gang|outlaw|posse|train,USA,M,6000000,566,2.35,0
+Robert Stevenson,145,266,102300000,Mary Poppins ,107408,2,banker|female protagonist|live action and animation|magic|nanny,USA,Approved,6000000,279,1.66,0
+Robert Redford,62,535,54800000,Ordinary People ,35130,3,choir|death|friend|suicide|therapy,USA,R,6000000,553,1.85,0
+Frank Coraci,188,447,24004159,Around the World in 80 Days ,68722,0,19th century|around the world|inventor|martial arts|train,USA,PG,110000000,1000,2.35,0
+Jerome Robbins,120,249,43650000,West Side Story ,71919,0,dance|gang|new york city|puerto rican|tragedy,USA,Unrated,6000000,271,2.2,0
+Harold Ramis,71,484,39800000,Caddyshack ,81599,3,caddy|country club|golf course|gopher|nudity,USA,R,6000000,573,1.85,0
+Gary Hardwick,52,578,27457409,The Brothers ,3198,4,african american|commitment|friend|friendship|playboy,USA,R,6000000,685,1.85,478
+Rick Famuyiwa,18,328,25047631,The Wood ,6585,0,flashback|friendship|public nudity|shower|wedding,USA,R,6000000,405,1.85,990
+Bryan Singer,162,574,23272306,The Usual Suspects ,740918,4,criminal|dirty cop|flashback|limping|suspect,USA,R,6000000,979,2.35,28000
+Stephen Hopkins,88,92,22168359,A Nightmare on Elm Street 5: The Dream Child ,29659,0,child|comic book|dream|murderer|nightmare,USA,X,8000000,101,1.85,1000
+Walt Becker,96,583,21005329,Van Wilder: Party Liaison ,89128,0,college|love|party|reporter|tuition,Germany,R,6000000,876,1.85,0
+Darren Aronofsky,391,120,26236603,The Wrestler ,251349,0,heart attack|stripper|supermarket|wrestler|wrestling,USA,R,6000000,245,2.35,10000
+King Vidor,32,332,20400000,Duel in the Sun ,6304,0,box office hit|half breed|infidelity|shooting|texas,USA,Unrated,8000000,436,1.37,403
+Christopher Guest,119,658,18621249,Best in Show ,45859,9,dog show|gay|gay character|gay couple|gay interest,USA,PG-13,6000000,925,1.85,0
+John Carpenter,201,381,25244700,Escape from New York ,91017,1,1990s|police|prison|rescue|year 1997,UK,R,6000000,602,2.35,0
+Spike Lee,22,182,14545844,School Daze ,4756,4,beauty salon|black college|college|fraternity|sorority,USA,R,6500000,282,1.85,624
+Fred Savage,52,405,13235267,Daddy Day Camp ,12339,2,competition|estranged father|skunk|summer camp|wall,USA,PG,6000000,484,1.85,256
+Sammo Kam-Bo Hung,63,64,12674183,Mr. Nice Guy ,19774,1,chef|cook|drugs|gang|reporter,Hong Kong,PG-13,,155,2.35,355
+Christopher Guest,97,345,17508936,A Mighty Wind ,22408,0,concert|mockumentary|musician|new york city|singer,USA,PG-13,,378,1.85,0
+Donald Petrie,34,658,12793213,Mystic Pizza ,18286,4,commitment|marriage|pizza|title appears in writing|woman wearing only a man's shirt,USA,R,6000000,960,1.85,0
+,10,502,,War & Peace             ,9277,1,male frontal nudity|male nudity|tv mini series,UK,TV-14,,888,16.0,11000
+Peter Howitt,88,161,11883495,Sliding Doors ,52805,1,alternative reality|multiple outcomes|parallel time|serendipity|twist of fate,UK,R,9000000,427,1.85,0
+Rusty Cundieff,25,360,11797927,Tales from the Hood ,4582,0,child abuse|death|drugs|ku klux klan|police brutality,USA,R,6000000,475,1.85,985
+Kevin Macdonald,252,25,17605861,The Last King of Scotland ,145580,1,1970s|assassination|doctor|scottish|ugandan,UK,R,6000000,149,2.35,0
+Dominique Othenin-Girard,137,120,11642254,Halloween 5 ,22929,1,cat|halloween|kitten|michael myers|psychotronic,USA,X,3000000,256,1.85,926
+Richard Linklater,231,84,9203192,Bernie ,45396,1,funeral|stockbroker|texas|vacation|widow,USA,PG-13,5000000,106,1.85,15000
+Jean-Jacques Mantello,9,,7518876,Dolphins and Whales 3D: Tribes of the Ocean ,172,0,3d in title|animal in title|digit in title|dolphin|manatee,UK,,6000000,0,1.78,28
+Ed Harris,115,221,8596914,Pollock ,23023,0,1940s|artist|drinking|life magazine|painter,USA,R,6000000,394,1.85,0
+Risa Bramon Garcia,67,612,6851636,200 Cigarettes ,13010,5,bartender|friend|new year's eve|party|punk,USA,R,6000000,744,1.85,0
+Brian Klugman,216,10000,11434867,The Words ,59637,1,american in paris|book|love|novel|writer,USA,PG-13,6000000,14000,1.85,21000
+Matt Piedmont,133,546,5895238,Casa de mi Padre ,17169,1,absurd humor|drug lord|mexico|ranch|spaghetti western,USA,R,6000000,806,2.35,9000
+Raymond De Felitta,149,130,6670712,City Island ,27301,6,anger|family reunion|father son reunion|hugging|movie making,USA,PG-13,6000000,591,1.85,0
+John Michael McDonagh,261,28,5359774,The Guard ,64794,0,boat on fire|drug smuggling|fbi|fbi agent|small town,Ireland,R,6000000,482,2.35,17000
+Deb Hagan,42,664,4693919,College ,11011,0,college|face slap|high school|loss of virginity|pierced nipple,USA,R,6500000,1000,1.85,422
+Sofia Coppola,152,826,4859475,The Virgin Suicides ,116910,0,catholic|five sisters|isolation|school|suicide,USA,R,6000000,899,1.85,0
+Mark Herman,64,286,4595000,Little Voice ,13892,4,mother|recluse|shy|singer|talent,UK,R,,497,1.85,915
+Zach Cregger,76,263,4542775,Miss March ,18313,2,fellatio|hugh hefner|oral sex|playboy centerfold|topless female nudity,USA,R,6000000,308,1.85,985
+Zach Braff,149,379,3588432,Wish I Was Here ,29341,4,actor|dream sequence|genius recluse|jew|religion,USA,R,6000000,1000,2.35,0
+Mark Tarlov,35,353,4394936,Simply Irresistible ,11439,1,chef|female chef|love|magic|restaurant,Germany,PG-13,6000000,812,2.35,901
+,47,724,,Veronica Mars             ,55524,1,best friend|high school|private detective|sheriff|student,USA,TV-14,,828,1.78,0
+John Cameron Mitchell,108,179,3029081,Hedwig and the Angry Inch ,26300,0,band|rock band|sex change|song|transsexual,USA,R,6000000,261,1.85,0
+Sheldon Lettich,17,82,3273588,Only the Strong ,4195,1,capoeira|fight|fighting|martial arts|violence,USA,PG-13,6000000,91,1.85,0
+Jon Knautz,12,34,,Goddess of Love ,522,0,female nudity|hallucination|sex scene|strip club|stripper,USA,,,77,2.35,84
+Billy Ray,129,491,2207975,Shattered Glass ,28855,0,fabricated facts|journalist|stephen glass|the new republic|writer,USA,PG-13,6000000,3000,2.35,0
+David Atkins,84,15,2025238,Novocaine ,9589,3,dentist|drugs|murder|sex|sunflower,USA,R,6000000,230,1.85,289
+Patrick Stettner,61,152,1028337,The Business of Strangers ,3413,2,airport|businesswoman|hotel|revenge|vegetarian,USA,R,,257,1.85,29
+Sam Peckinpah,147,242,,The Wild Bunch ,63192,1,friendship|honor|righteous rage|soldier|texas,USA,R,6244087,288,2.35,0
+Jonathan Levine,147,362,2077046,The Wackness ,27266,2,ice cream|marijuana|new york city|summer|therapy,USA,R,6000000,617,2.35,0
+Michael Crichton,23,20,,The Great Train Robbery ,11623,2,bank|gold|key|safe|train,UK,PG,6000000,34,1.85,643
+Lynne Ramsay,75,53,267194,Morvern Callar ,6906,0,breasts|cleavage|female rear nudity|girl in panties|public nudity,UK,R,,104,1.85,605
+Sylvio Tabet,17,284,869325,Beastmaster 2: Through the Portal of Time ,2281,2,beast|beastmaster|psychotronic|sword and sorcery|warrior,USA,PG-13,6000000,514,1.85,125
+Rick Bieber,16,316,399611,The 5th Quarter ,1245,2,athletic training|football practice|funeral|gymnasium|man crying,USA,PG,6000000,529,1.85,0
+Claude Chabrol,60,27,181798,The Flower of Evil ,2591,5,bordeaux|election|mayor|pamphlet|political thriller,France,R,,67,1.66,52
+Shana Feste,63,71,115862,The Greatest ,7394,2,car crash|loss|self help group|teenage mother|title directed by female,USA,R,6000000,943,2.35,0
+Wayne Wang,56,451,1346503,Snow Flower and the Secret Fan ,3024,0,car hitting pedestrian|china|fan|nineteenth century|reversal of fortune,China,PG-13,6000000,595,2.35,0
+Joey Lauren Adams,36,90,117560,Come Early Morning ,2330,0,church|drink|knocking on a door|love|three word title,USA,R,6000000,206,1.85,224
+Peter Cattaneo,47,419,54606,Lucky Break ,1940,0,escape|prison|prison escape|sadism|solitary confinement,UK,PG-13,6000000,766,2.35,30
+Fred Zinnemann,38,898,,Julia ,6454,2,1930s|female protagonist|nazi|romantic friendship|writer,USA,PG,7840000,949,1.85,733
+S.R. Bindler,26,499,36497,"Surfer, Dude ",7367,0,barefoot|endorsement|surfboard|virtual reality|waves,USA,R,6000000,826,1.85,850
+Tony Kaye,47,0,23807,Lake of Fire ,2143,0,abortion|southern accent|title based on the bible|trial|usa,USA,Unrated,,2,,570
+Greg Marcks,68,407,,11:14 ,38273,1,convenience store|multiple perspectives|murder|paramedic|van,USA,R,6000000,618,1.85,0
+Perry Lang,19,259,,Men of War ,2989,1,cockney accent|fight|island|machismo|mercenary,USA,R,8600000,472,2.35,176
+Jake Goldberger,39,99,,Don McKay ,2050,1,dead body|dead body in a freezer|dead body wrapped in carpet|person in a car trunk|school janitor,USA,R,,521,1.85,275
+Stefan Ruzowitzky,162,874,65804,Deadfall ,32512,1,police officer|police officer killed|police officer shot|sex scene,USA,R,12000000,10000,2.35,0
+Vic Sarin,37,130,,A Shine of Rainbows ,1696,2,island|love|new home|orphan|rainbow,Canada,PG,6000000,767,2.35,1000
+William Kaufman,26,787,,The Hit List ,10196,1,die hard scenario|engineer|held at gunpoint|race against time|shot to death,USA,R,6000000,816,1.85,0
+,10,334,,Emma             ,10388,1,friendship|love triangle|matchmaker|naivety|opposites attract,UK,,,432,1.78,0
+David Cronenberg,179,15,,Videodrome ,60522,0,cyberpunk|hallucination|illegality|snuff film|surrealism,Canada,R,5952000,20,1.85,0
+Cédric Klapisch,88,269,3895664,L'auberge espagnole ,34383,0,apartment|erasmus|language|student|trip,France,R,5300000,447,1.85,0
+Kate Barker-Froyland,43,444,20200,Song One ,6797,1,musician|number in title|recording|sibling,USA,PG-13,6000000,485,,0
+Barbet Schroeder,136,400,31874869,Murder by Numbers ,43575,0,disposing of a dead body|high school student|murder|sociopath|teenage boy,USA,R,50000000,455,1.85,0
+Martin Koolhoven,111,19,542860,Winter in Wartime ,9230,1,horse|nazi|occupation|resistance movement|uncle nephew relationship,Netherlands,R,4000000,20,2.35,0
+Charles Matthau,13,1000,,Freaky Deaky ,6741,0,black panties|bomb squad|car bomb|dynamite|girl in panties,USA,R,6000000,2000,,0
+John Frankenheimer,64,28,,The Train ,10119,0,art|french|german|painting|train,France,Unrated,6700000,94,1.66,0
+Christopher M. Bessette,6,57,15059,Trade of Innocents ,748,2,angkor wat|human trafficking|sex slavery|sex tourism,USA,PG-13,,323,2.35,543
+Prachya Pinkaew,112,380,11905519,The Protector ,30210,0,die hard scenario|elephant|long take|police|sydney australia,Thailand,R,200000000,635,1.85,0
+Gary Sinyor,12,136,69582,Stiff Upper Lips ,867,2,class conflict|edwardian era|england|sexual awakening|spoof,UK,R,,338,1.85,109
+,15,220,,The Inbetweeners             ,55987,0,black comedy|bully|friend|house|practical joke,UK,TV-14,,223,16.0,0
+Gurinder Chadha,161,397,32541719,Bend It Like Beckham ,89806,0,hinduism|marriage engagement|soccer|team|tradition,UK,PG-13,3500159,528,1.85,0
+John Sayles,68,501,3064356,Sunshine State ,3433,6,african american|business|coastline|florida|real estate,USA,PG-13,5600000,659,1.85,160
+Preston A. Whitmore II,25,255,7009668,Crossover ,8707,6,african american|basketball|basketball movie|critically bashed|tv commercial,USA,PG-13,5600000,378,1.85,244
+Ashish R. Mohan,23,61,352684,Khiladi 786 ,4633,1,car crash|impersonating a police officer|long lost brother|marriage bureau|suitor,India,Not Rated,,284,,365
+Jaume Balagueró,222,6,27024,[Rec] 2 ,55597,0,apartment|apartment building|blood sample|crucifix|zombie,Spain,R,5600000,9,1.85,4000
+Stewart Raffill,9,10,531806,Standing Ovation ,548,9,dance|dream|frog|philadelphia pennsylvania|snake,USA,PG,,11,,277
+George Roy Hill,119,417,159600000,The Sting ,175607,0,con|con man|courier|long con|murder,USA,PG,5500000,559,1.85,0
+Hugh Hudson,90,249,58800000,Chariots of Fire ,40511,0,athlete|jew|missionary|olympic games|race,UK,PG,5500000,303,1.85,0
+Darren Grant,62,476,50382128,Diary of a Mad Black Woman ,10472,0,comic relief|diary|kiss|madea series|state flag,USA,PG-13,5500000,637,1.85,0
+Scott Hicks,71,35,35811509,Shine ,43013,0,abuse|australia|concert|pianist|piano,Australia,PG-13,5500000,294,1.85,0
+Joseph Gordon-Levitt,364,694,24475193,Don Jon ,190494,1,camera focus on female butt|cunnilingus|new jersey|oral sex|reference to facebook,USA,R,3000000,19000,2.35,33000
+Clint Eastwood,72,258,,High Plains Drifter ,36381,0,gravestone|gunfighter|outlaw|revenge|small town,USA,R,5500000,742,2.35,0
+Terry Zwigoff,122,722,6200756,Ghost World ,96129,0,art class|diner|friend|graduation|high school,USA,R,7000000,12000,1.85,5000
+Richard Eyre,100,548,1292119,Iris ,14786,1,alzheimer's disease|book|love|novelist|writer,UK,R,5500000,1000,1.85,0
+William Sachs,24,60,,Galaxina ,1955,0,alien|android|fem bot|female android|stars,USA,R,,110,2.35,438
+Christophe Barratier,112,57,3629758,The Chorus ,44151,0,boarding school|boy|choir|school|teacher,France,PG-13,5500000,86,2.35,0
+Émile Gaudreault,67,71,6239558,Mambo Italiano ,5548,0,gay|immigrant|italian|police|police officer,Canada,R,5000000,210,1.85,352
+James Cox,91,93,1056102,Wonderland ,18792,0,murder|police|police investigation|porn star|robbery,USA,R,5000000,436,1.85,1000
+Spike Lee,103,388,27545445,Do the Right Thing ,59524,2,black militant|frustration|pizza|pizza parlor|pizzeria,USA,R,6500000,652,1.85,0
+James Toback,27,781,56007,Harvard Man ,3754,3,basketball|cheerleader|college|harvard|philosophy,USA,R,5500000,902,2.35,113
+Aki Kaurismäki,205,36,611709,Le Havre ,15267,1,bar|container|illegal immigrant|neighbor|shoe shiner,Finland,Not Rated,3850000,67,1.85,0
+Gaspar Noé,192,9,753501,Irreversible ,87244,0,long take|male frontal nudity|revenge|reverse chronology|vengeance,France,Not Rated,,46,2.35,13000
+Hitoshi Matsumoto,72,16,22770,R100 ,1658,0,coma|one word title|spitting|sushi|swimming pool,Japan,Unrated,5500000,17,1.85,543
+Rakeysh Omprakash Mehra,33,199,2197331,Rang De Basanti ,70233,0,freedom|friend|india|student|urination,India,Not Rated,,227,2.35,0
+Collin Schiffli,22,290,,Animals ,605,0,drug addict|drug addiction|drug use|drugs|junkie,USA,,,697,2.35,679
+George Ratliff,48,38,27445,Salvation Boulevard ,3788,5,cross|doused with gasoline|pastor|security guard|shower,USA,R,9000000,39,1.85,1000
+David Wain,65,139,766487,The Ten ,15315,4,death|mexico|sabbath|surgeon|ten stories,USA,R,5250000,543,1.85,915
+Shane Meadows,29,222,18434,A Room for Romeo Brass ,4471,2,betrayal|family relationships|friendship|psychosis|stranger,UK,R,,680,1.85,484
+Morten Tyldum,284,27,1196752,Headhunters ,79353,3,art thief|male frontal nudity|male nudity|male star appears nude|painting,Norway,R,30300000,52,2.39,23000
+Jon Wright,187,114,,Grabbers ,13227,0,bathtub|eaten alive|ferry boat|lobster trap|sprinkler system,UK,Not Rated,4000000,567,2.35,11000
+Michael McGowan,47,149,795126,Saint Ralph ,4976,1,boston marathon|coma|marathon|miracles|running,Canada,PG-13,6000000,259,1.85,989
+Liv Ullmann,88,0,,Miss Julie ,2894,2,kissing someone's boot|midsummer|telling someone to shut up|two word title|valet,Norway,PG-13,5500000,0,,0
+Jeannot Szwarc,41,32,,Somewhere in Time ,21049,2,hotel|love|love across time|time travel|time travel romance,USA,PG,5100000,191,1.85,0
+Rohan Sippy,24,47,563699,Dum Maaro Dum ,3266,0,airport|drugs|loss of loved one|police|title based on song,India,R,,282,,421
+James Wan,318,482,83574831,Insidious: Chapter 2 ,109214,0,barricading a door|injection in leg|police detective|supernatural|taser,USA,PG-13,5000000,618,2.35,35000
+Darren Lynn Bousman,250,651,87025093,Saw II ,188679,0,death|detective|nerve gas|serial killer|trap,USA,R,4000000,654,1.85,0
+Dan Trachtenberg,411,82,71897215,10 Cloverfield Lane ,126893,0,alien|bunker|car crash|kidnapping|minimal cast,USA,PG-13,15000000,338,2.35,33000
+Jeff Tremaine,106,218,64267897,Jackass: The Movie ,67992,0,alligator|golf|japan|panda|stunt,USA,R,5000000,362,1.85,0
+David F. Sandberg,159,300,56536016,Lights Out ,13523,0,based on short film|reference to avenged sevenfold|reference to slayer|switching lights on and off|two word title,USA,PG-13,4900000,509,2.35,0
+Henry Joost,251,434,104007828,Paranormal Activity 3 ,76828,0,animate object|imaginary friend|reference to macgyver|whispering|woman wearing only a man's shirt,USA,R,5000000,438,1.85,24000
+Stiles White,183,704,50820940,Ouija ,31915,0,death of girlfriend|funeral|ghost|ouija|spirit,USA,PG-13,5000000,707,2.35,18000
+Chuck Russell,131,150,44793200,A Nightmare on Elm Street 3: Dream Warriors ,49820,0,dream|freddy krueger|killer|nightmare|springwood ohio,USA,X,4500000,449,1.85,0
+Joel Edgerton,297,458,43771291,The Gift ,79916,1,compulsive liar|fired from a job|gift|rape|substance abuse,USA,R,5000000,562,2.35,15000
+Eugenio Derbez,41,83,44456509,Instructions Not Included ,22105,1,father daughter relationship,Mexico,PG-13,5000000,89,1.85,14000
+Henry Joost,248,113,53884821,Paranormal Activity 4 ,51204,0,boy in a bathtub|demon|laptop computer|pulled underwater|walking in the dark,USA,R,5000000,119,1.85,26000
+Henry Koster,42,275,36000000,The Robe ,6359,1,box office hit|crucifixion|nightmare|palestine|robe,USA,Unrated,5000000,422,2.2,0
+Blake Edwards,33,80,,The Return of the Pink Panther ,19596,0,clouseau|diamond|panther|pink|pink panther,UK,G,5000000,278,2.35,620
+Rachel Talalay,91,581,34872293,Freddy's Dead: The Final Nightmare ,30765,0,dark comedy|dream|freddy krueger|nightmare|serial murder,USA,R,8500000,618,1.85,963
+Patty Jenkins,185,592,34468224,Monster ,105568,2,beach|female criminal|hooker|lesbian|prostitute,USA,R,4500000,844,1.85,0
+Richard Fleischer,69,51,,"20,000 Leagues Under the Sea ",22123,0,captain|expedition|sea|submarine|whale,USA,Approved,5000000,53,1.37,0
+Christopher Landon,220,332,32453345,Paranormal Activity: The Marked Ones ,31791,0,apartment|blood|demonic possession|neighbor|pentagram,USA,R,5000000,358,1.78,10000
+David Lynch,117,452,,The Elephant Man ,161972,1,curiosity|exploitation|freak|hospital|physical deformity,USA,PG,5000000,754,2.35,9000
+Jean-Marc Vallée,471,896,27296514,Dallas Buyers Club ,326494,0,drugs|fda|gay community|hiv|homophobia,USA,R,5000000,3000,2.35,65000
+David Gelb,152,801,25799043,The Lazarus Effect ,28513,0,electrocuted|experiment|hell|serum|university,USA,PG-13,3300000,830,2.35,0
+Christopher Nolan,274,379,25530884,Memento ,845580,0,flashback|memory|murder|short term memory|telephone,USA,R,9000000,651,2.35,40000
+Mike Flanagan,336,202,27689474,Oculus ,85688,0,home office|mirror|released from a mental hospital|trauma|video camera,USA,R,5000000,407,2.35,23000
+Kevin Smith,174,657,24138847,Clerks II ,114797,3,fast food|fast food restaurant|new jersey|quick stop|restaurant,USA,R,5000000,898,1.85,0
+Stephen Daldry,151,34,21994911,Billy Elliot ,98354,0,audition|ballet|boxing|miner|miners strike,UK,R,5000000,203,1.85,0
+Nat Faxon,276,424,21501098,The Way Way Back ,115813,1,awkward boy|shy kid|summer|vacation|water park,USA,PG-13,5000000,468,1.85,22000
+George Jackson,12,287,19281235,House Party 2 ,3571,0,college|misogyny|money|new friend|party,USA,R,5000000,413,1.85,232
+George Miller,18,75,,The Man from Snowy River ,5894,0,australia|brumby|ranch|stallion|twin,Australia,PG,3500000,155,2.35,0
+Maurice Joyce,28,73,19421271,Doug's 1st Movie ,2448,1,dance|friend|monster|reference to batman|valentine,USA,G,5000000,804,1.33,122
+Robert Duvall,95,77,20733485,The Apostle ,11622,1,church|louisiana|minister|preacher|texas,USA,PG-13,5000000,130,1.85,1000
+Frank Perry,74,157,,Mommie Dearest ,10564,1,abusive mother|adopted daughter|borderline personality disorder|perfection|sadistic cruelty,USA,R,5000000,485,1.85,0
+Jesse Peretz,179,1000,24809547,Our Idiot Brother ,74875,1,art model|farmer|jail|nude model|three sisters,USA,R,5000000,3000,1.85,11000
+Stephen Hopkins,125,388,19097994,Race ,11744,0,1930s|athlete|nazi germany|olympics|track and field,Canada,PG-13,,845,2.35,0
+Ice Cube,22,498,23031390,The Players Club ,4345,9,catfight|dominatrix|rape|spanking|stripper,USA,R,4500000,597,1.85,575
+Tim Blake Nelson,92,697,16017403,O ,17333,2,basketball|basketball player|boarding school|love|shakespeare's othello,USA,R,5000000,835,1.85,0
+John Erick Dowdle,196,161,21197315,"As Above, So Below ",49948,0,archeologist|catacomb|found footage|paris france|philosopher's stone,USA,R,5000000,200,1.85,14000
+Bille Woodruff,9,467,17382982,Addicted ,5975,0,adultery|attraction|lust|obsession|temptation,USA,R,5000000,694,1.85,0
+Kasi Lemmons,31,426,14821531,Eve's Bayou ,6915,2,doctor|louisiana|secret|title directed by female|witchcraft,USA,R,6000000,434,1.85,599
+Richard Glatzer,309,423,18656400,Still Alice ,86077,1,alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play,USA,PG-13,5000000,2000,1.85,45000
+Michael Curtiz,15,422,,The Egyptian ,2498,0,afterlife|egypt|pharaoh|princess|pyramid,USA,Approved,5000000,440,2.55,376
+Bruce Malmuth,36,142,,Nighthawks ,12519,2,bomb|new york city|partner|shooting|terrorist,USA,R,5000000,970,1.85,0
+Rob Hedden,129,65,14343976,Friday the 13th Part VIII: Jason Takes Manhattan ,22961,0,cult film|friday the thirteenth|hockey mask|jason voorhees|murder spree,USA,R,5000000,120,1.85,1000
+Joel Zwick,168,249,241437427,My Big Fat Greek Wedding ,102071,3,baptism|greek|greek restaurant|prejudice|travel agency,USA,PG,5000000,312,1.85,5000
+Harmony Korine,444,192,14123773,Spring Breakers ,108683,4,kissing a dead body|repeated dialogue|sex in pool|spring break|twins,USA,R,5000000,892,2.35,25000
+Joe Chappelle,123,141,15126948,Halloween: The Curse of Michael Myers ,20815,0,halloween|michael myers|nudity|returning character with different actor|slasher flick,USA,R,5000000,152,1.85,0
+Alfonso Cuarón,173,19,13622333,Y Tu Mamá También ,91377,1,beach|cleaning a swimming pool|male male kiss|mexico|on the road,Mexico,R,2000000,43,1.85,0
+Edgar Wright,246,358,13464388,Shaun of the Dead ,395921,6,british horror|pub|record collection|zombie|zombie apocalypse,UK,R,4000000,427,2.35,19000
+Mickey Liddell,74,664,13350177,The Haunting of Molly Hartley ,7904,5,18th birthday|birthday|community center|resurrection|teenager,USA,PG-13,5000000,984,1.85,562

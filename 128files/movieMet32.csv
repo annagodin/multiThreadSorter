@@ -1,180 +1,458 @@
-num_critic_for_reviews,actor_3_facebook_likes,actor_1_facebook_likes,gross,genres,actor_1_name,num_voted_users,cast_total_facebook_likes,actor_3_name,movie_imdb_link,num_user_for_reviews,content_rating,budget,actor_2_facebook_likes,aspect_ratio,movie_facebook_likes
-16,175,610,15369573,Adventure|Comedy|Sci-Fi,Ariana Richards,2580,1441,Tonya Lee Williams,http://www.imdb.com/title/tt0100666/?ref_=fn_tt_tt_1,54,PG,3000000,232,1.85,710
-67,416,897,,Comedy|Thriller,Ed Lauter,15293,2811,William Devane,http://www.imdb.com/title/tt0074512/?ref_=fn_tt_tt_1,111,PG,4490375,844,1.85,609
-183,180,516,,Comedy|Drama|Romance,Fred MacMurray,109335,1328,David White,http://www.imdb.com/title/tt0053604/?ref_=fn_tt_tt_1,241,Approved,3000000,417,2.35,0
-112,307,935,15935068,Fantasy|Horror|Thriller,Kane Hodder,19331,2899,Erin Gray,http://www.imdb.com/title/tt0107254/?ref_=fn_tt_tt_1,317,R,2500000,805,1.85,949
-64,14,18,,Thriller,Tamara Toumanova,18656,70,David Opatoshu,http://www.imdb.com/title/tt0061107/?ref_=fn_tt_tt_1,137,Approved,6000000,16,1.85,933
-114,220,989,11694528,Comedy|Documentary|Music,Common,7721,2165,Lauryn Hill,http://www.imdb.com/title/tt0425598/?ref_=fn_tt_tt_1,72,R,3000000,744,1.85,635
-246,748,13000,229094,Western,Michael Fassbender,27650,14696,Ben Mendelsohn,http://www.imdb.com/title/tt3205376/?ref_=fn_tt_tt_1,88,R,,884,1.66,0
-7,77,685,,Comedy|Drama|Music,Blair Underwood,1361,1163,Bobby Brown,http://www.imdb.com/title/tt0089444/?ref_=fn_tt_tt_1,16,R,3000000,178,,889
-49,706,1000,10017041,Action|Comedy|Crime,Omari Hardwick,8265,4815,Mike Epps,http://www.imdb.com/title/tt1097013/?ref_=fn_tt_tt_1,20,R,3000000,927,1.85,545
-42,125,556,,Drama,Shirley Jones,7998,1444,Edward Andrews,http://www.imdb.com/title/tt0053793/?ref_=fn_tt_tt_1,81,Approved,3000000,422,1.66,808
-73,760,877,,Drama|War,Maximilian Schell,44457,3847,Spencer Tracy,http://www.imdb.com/title/tt0055031/?ref_=fn_tt_tt_1,176,Not Rated,3000000,862,1.75,0
-16,200,927,9016377,Comedy,Donald Faison,1004,1936,Countess Vaughn,http://www.imdb.com/title/tt0160298/?ref_=fn_tt_tt_1,8,R,,209,1.85,143
-38,0,11,,Animation|Comedy,Matthew Senreich,32923,11,Breckin Meyer,http://www.imdb.com/title/tt0437745/?ref_=fn_tt_tt_1,75,TV-MA,,0,1.33,1000
-91,281,862,,Action|Adventure|Romance|Western,Montgomery Clift,21316,2269,Harry Carey Jr.,http://www.imdb.com/title/tt0040724/?ref_=fn_tt_tt_1,162,Approved,3000000,376,1.37,0
-37,233,939,7059537,Comedy,Mo'Nique,8279,2321,Joyful Drake,http://www.imdb.com/title/tt0490196/?ref_=fn_tt_tt_1,101,PG-13,3000000,407,1.85,837
-405,48,140,8114507,Drama|Romance,Seamus Davey-Fitzpatrick,95362,328,Athina Rachel Tsangari,http://www.imdb.com/title/tt2209418/?ref_=fn_tt_tt_1,270,R,3000000,63,1.85,62000
-29,152,641,7888703,Comedy|Fantasy,John Astin,8465,1389,Kim Darby,http://www.imdb.com/title/tt0094118/?ref_=fn_tt_tt_1,65,PG,3000000,168,1.85,491
-81,135,674,7282851,Action|Fantasy|Horror|Sci-Fi|Thriller,Angus Scrimm,9502,1395,James Le Gros,http://www.imdb.com/title/tt0095863/?ref_=fn_tt_tt_1,100,R,3000000,174,1.85,812
-17,469,912,6879730,Drama,Loretta Devine,806,3049,Clifton Powell,http://www.imdb.com/title/tt0399901/?ref_=fn_tt_tt_1,23,R,,637,,187
-75,453,953,5844929,Comedy|Drama,America Ferrera,6000,2510,George Lopez,http://www.imdb.com/title/tt0296166/?ref_=fn_tt_tt_1,109,PG-13,3000000,625,1.85,595
-,110,578,,Drama|War,Rachel Griffiths,299,1400,Luke Ford,http://www.imdb.com/title/tt3458030/?ref_=fn_tt_tt_1,1,,15000000,476,,367
-91,31,1000,3222857,Drama|Romance,John Abraham,12560,1394,Seema Biswas,http://www.imdb.com/title/tt0240200/?ref_=fn_tt_tt_1,147,PG-13,,329,2.35,0
-82,163,883,4170647,Comedy|Drama,Archie Panjabi,14548,1616,Om Puri,http://www.imdb.com/title/tt0166175/?ref_=fn_tt_tt_1,161,R,1900000,183,1.85,1000
-48,51,472,4142507,Comedy|Romance,Callie Thorne,3665,858,David Heyman,http://www.imdb.com/title/tt0174336/?ref_=fn_tt_tt_1,81,R,3000000,324,1.85,131
-33,200,729,4109095,Crime|Drama|History|Romance,Indira Varma,8239,1292,Rekha,http://www.imdb.com/title/tt0116743/?ref_=fn_tt_tt_1,92,R,3000000,257,1.85,0
-133,547,1000,4033268,Comedy|Drama,Oliver Platt,9808,3692,Ann Morgan Guilbert,http://www.imdb.com/title/tt0878835/?ref_=fn_tt_tt_1,53,R,,864,2.35,0
-104,124,240,,Family|Fantasy|Musical,Peter Ostrum,128334,1011,Julie Dawn Cole,http://www.imdb.com/title/tt0067992/?ref_=fn_tt_tt_1,349,G,3000000,177,1.33,0
-22,222,687,3902679,Fantasy|Horror,Julian Sands,3943,1806,Paula Marshall,http://www.imdb.com/title/tt0108517/?ref_=fn_tt_tt_1,49,R,3000000,233,1.66,217
-30,267,578,3559990,Comedy|Crime,Kristy Swanson,8005,1363,Dyan Cannon,http://www.imdb.com/title/tt0118541/?ref_=fn_tt_tt_1,49,R,3000000,341,1.85,417
-112,180,820,,Drama|Romance,Sam Shepard,37594,1618,Richard Libertini,http://www.imdb.com/title/tt0077405/?ref_=fn_tt_tt_1,181,PG,3000000,350,1.85,0
-79,194,11000,3287435,Drama,Matthew McConaughey,8603,12250,Amy Irving,http://www.imdb.com/title/tt0268690/?ref_=fn_tt_tt_1,115,R,4500000,813,1.85,430
-49,844,3000,3071947,Comedy|Crime|Thriller,Julie Benz,18711,9555,Jeff Conaway,http://www.imdb.com/title/tt0155776/?ref_=fn_tt_tt_1,183,R,3500000,2000,1.85,0
-42,353,10000,2961991,Biography|Drama,Gary Oldman,15885,11459,Courtney Love,http://www.imdb.com/title/tt0115632/?ref_=fn_tt_tt_1,78,R,3300000,721,1.85,0
-345,270,962,4063238,Comedy|Drama|Romance,Greta Gerwig,43982,2260,Vanessa Ray,http://www.imdb.com/title/tt2347569/?ref_=fn_tt_tt_1,139,R,,481,1.85,11000
-152,29,113,2912363,Crime|Drama,Terry Pheto,25063,278,Rapulana Seiphemo,http://www.imdb.com/title/tt0468565/?ref_=fn_tt_tt_1,177,R,3000000,64,2.35,0
-148,812,22000,3000000,Comedy|Drama,Philip Seymour Hoffman,55329,36859,Dylan Baker,http://www.imdb.com/title/tt0147612/?ref_=fn_tt_tt_1,499,,3000000,11000,1.85,0
-23,24,489,2223990,Comedy|Documentary,Eddie Griffin,761,539,Robert Noble,http://www.imdb.com/title/tt0337996/?ref_=fn_tt_tt_1,14,R,3000000,26,1.85,26
-254,387,40000,1821983,Comedy|Drama|Horror,Johnny Depp,31089,43810,Michael Parks,http://www.imdb.com/title/tt3099498/?ref_=fn_tt_tt_1,261,R,3000000,3000,2.35,20000
-305,38,717,2181290,Drama|Mystery|Thriller,Min-sik Choi,356181,852,Hye-jeong Kang,http://www.imdb.com/title/tt0364569/?ref_=fn_tt_tt_1,809,R,3000000,78,2.35,43000
-19,221,439,2848578,Drama|Family,Robyn Lively,3942,1567,Christopher Schmidt,http://www.imdb.com/title/tt1462054/?ref_=fn_tt_tt_1,65,PG,3500000,399,1.78,0
-272,104,694,703002,Action|Comedy|Thriller,Gregory Smith,37495,1249,Molly Dunsworth,http://www.imdb.com/title/tt1640459/?ref_=fn_tt_tt_1,230,Not Rated,3000000,324,2.35,37000
-5,165,574,3105269,Action|Comedy,Kevin Pollak,368,1335,Erick Elias,http://www.imdb.com/title/tt3367294/?ref_=fn_tt_tt_1,8,R,3000000,327,,174
-65,221,904,,Comedy|Crime|Drama|Thriller,Bokeem Woodbine,22246,1663,Robert Peters,http://www.imdb.com/title/tt0116361/?ref_=fn_tt_tt_1,196,R,3000000,281,1.85,0
-5,331,702,252726,Drama|Family|Western,William Morgan Sheppard,1289,2715,Brianna Brown,http://www.imdb.com/title/tt0785025/?ref_=fn_tt_tt_1,18,PG,3000000,366,,76
-248,168,13000,373060,Drama,Michael Fassbender,47385,13636,Jason Maza,http://www.imdb.com/title/tt1232776/?ref_=fn_tt_tt_1,112,Not Rated,,260,1.33,0
-152,322,962,1007535,Comedy|Drama|Romance,Greta Gerwig,7625,2452,Zach Woods,http://www.imdb.com/title/tt1667307/?ref_=fn_tt_tt_1,54,PG-13,,476,1.85,0
-10,476,723,,Horror|Sci-Fi|Thriller,Craig T. Nelson,2011,3149,Megalyn Echikunwoke,http://www.imdb.com/title/tt0156205/?ref_=fn_tt_tt_1,33,,,539,1.78,518
-156,416,4000,418268,Comedy|Romance,Kirsten Dunst,37156,8353,Andrew Rannells,http://www.imdb.com/title/tt1920849/?ref_=fn_tt_tt_1,129,R,3000000,3000,2.35,0
-7,246,786,,Comedy|Drama|Horror|Sci-Fi|Thriller,Danny Pino,2948,1551,Zach Grenier,http://www.imdb.com/title/tt4877736/?ref_=fn_tt_tt_1,28,,,341,16.0,3000
-1,249,912,,Drama|Family|Music,Virginia Madsen,758,2330,Lindsey Haun,http://www.imdb.com/title/tt0403118/?ref_=fn_tt_tt_1,27,PG-13,,750,,47
-82,197,536,200803,Comedy,Michael Gross,7988,1467,Bob Ross,http://www.imdb.com/title/tt1855401/?ref_=fn_tt_tt_1,71,R,3000000,317,1.78,0
-175,81,3000,33631221,Crime|Drama|Thriller,George Kennedy,48562,3784,Griffin Cleveland,http://www.imdb.com/title/tt2039393/?ref_=fn_tt_tt_1,145,R,25000000,571,2.35,0
-4,23,40,,Drama,Susan Hampshire,437,158,Tim Healy,http://www.imdb.com/title/tt0118327/?ref_=fn_tt_tt_1,20,,,37,1.33,450
-40,17,289,95016,Comedy|Drama|Romance|Sport,Alicja Bachleda,11074,362,Robert Stadlober,http://www.imdb.com/title/tt0420206/?ref_=fn_tt_tt_1,56,R,2700000,38,1.85,442
-8,847,1000,73678,Drama|History|War,Johnny Pacar,266,4374,Brendan Fehr,http://www.imdb.com/title/tt1282046/?ref_=fn_tt_tt_1,8,R,3000000,902,,348
-63,236,487,143000,Horror|Thriller,Matt Cohen,4122,1495,Noah Segan,http://www.imdb.com/title/tt1148200/?ref_=fn_tt_tt_1,48,R,5000000,298,2.35,0
-20,56,599,39852,Comedy|Drama,Gretchen Mol,1238,1030,Peter Onorati,http://www.imdb.com/title/tt0162236/?ref_=fn_tt_tt_1,25,R,3000000,325,1.85,117
-174,605,2000,22000,Drama|Sci-Fi|Thriller,Michael Biehn,30511,4920,Rosanna Arquette,http://www.imdb.com/title/tt1535616/?ref_=fn_tt_tt_1,226,R,3000000,683,2.35,0
-90,77,767,128937,Drama|Horror|Romance,Aidan Quinn,2437,975,Jim Norton,http://www.imdb.com/title/tt1346961/?ref_=fn_tt_tt_1,31,R,,122,1.85,580
-58,617,798,,Horror|Thriller,Frank Grillo,7358,4756,Aaron Yoo,http://www.imdb.com/title/tt1841642/?ref_=fn_tt_tt_1,39,R,3000000,634,,0
-14,19,231,,Comedy,Neil Hopkins,1257,313,David Douglas,http://www.imdb.com/title/tt0385890/?ref_=fn_tt_tt_1,24,R,3000000,27,1.78,48
-451,11000,40000,334185206,Adventure|Family|Fantasy,Johnny Depp,306336,79957,Anne Hathaway,http://www.imdb.com/title/tt1014759/?ref_=fn_tt_tt_1,736,PG,200000000,25000,1.85,24000
-,452,1000,,Comedy,Taylor Negron,62,3882,Talia Shire,http://www.imdb.com/title/tt1390404/?ref_=fn_tt_tt_1,1,PG-13,3000000,975,1.85,54
-21,357,433,5005,Drama,Tom Everett Scott,2280,1929,Chris Kattan,http://www.imdb.com/title/tt1151410/?ref_=fn_tt_tt_1,14,R,3000000,396,,448
-9,47,652,,Action|Drama|Thriller,John Savage,1370,844,Emily Nelson,http://www.imdb.com/title/tt1922679/?ref_=fn_tt_tt_1,9,,3000000,124,2.35,433
-98,975,3000,,Comedy,Christopher Meloni,16987,7191,Jack McBrayer,http://www.imdb.com/title/tt2398249/?ref_=fn_tt_tt_1,85,R,,1000,1.85,0
-29,73,319,,Comedy,French Stewart,2978,845,Olivia Alexander,http://www.imdb.com/title/tt2417650/?ref_=fn_tt_tt_1,13,R,3000000,302,1.85,2000
-23,454,2000,,Action|Drama|Sport,Michael Jai White,13599,3666,Jillian Murray,http://www.imdb.com/title/tt1754264/?ref_=fn_tt_tt_1,30,R,3000000,606,1.85,6000
-87,480,756,,Crime|Thriller,Lee Marvin,13640,2715,Carroll O'Connor,http://www.imdb.com/title/tt0062138/?ref_=fn_tt_tt_1,128,Approved,3000000,754,2.35,3000
-2,382,1000,,Comedy,Stephanie Szostak,118,2890,Salvatore Santone,http://www.imdb.com/title/tt1252289/?ref_=fn_tt_tt_1,1,,3000000,810,,32
-17,471,2000,,Thriller,Noel Gugliemi,704,4469,Jason Priestley,http://www.imdb.com/title/tt2229377/?ref_=fn_tt_tt_1,9,,800000,715,2.35,406
-7,375,1000,,Drama|Horror|Mystery|Thriller,Julian Morris,976,3024,John Robinson,http://www.imdb.com/title/tt1327601/?ref_=fn_tt_tt_1,15,R,3000000,747,,395
-6,648,904,,Thriller,Bokeem Woodbine,520,4092,Brett Wagner,http://www.imdb.com/title/tt2048865/?ref_=fn_tt_tt_1,8,R,3000000,779,,398
-9,37,201,,Adventure|Crime|Drama,Everett McGill,240,277,Fabio Testi,http://www.imdb.com/title/tt0095354/?ref_=fn_tt_tt_1,9,,3000000,39,1.85,37
-343,502,2000,201148159,Drama|Family|Fantasy|Romance,Hayley Atwell,103749,4671,Lily James,http://www.imdb.com/title/tt1661199/?ref_=fn_tt_tt_1,323,PG,95000000,520,2.35,56000
-11,356,854,,Action|Adventure|Crime|Drama,Mike Starr,706,1989,Frank Vincent,http://www.imdb.com/title/tt1085382/?ref_=fn_tt_tt_1,14,R,3000000,602,1.78,229
-34,463,2000,,Comedy|Drama|Romance,Judy Greer,3443,3648,Shea Whigham,http://www.imdb.com/title/tt0482461/?ref_=fn_tt_tt_1,20,R,,536,1.85,480
-71,11,119,5595428,Drama,Fernanda Montenegro,28951,167,Othon Bastos,http://www.imdb.com/title/tt0140888/?ref_=fn_tt_tt_1,257,R,2900000,14,2.35,0
-21,248,931,,Comedy|Drama,Ann-Margret,4313,2167,Thomas Mitchell,http://www.imdb.com/title/tt0055312/?ref_=fn_tt_tt_1,40,Approved,2900000,416,2.35,612
-28,214,640,,Action|Crime,Anthony L. Fernandez,2425,1517,Scott Evans,http://www.imdb.com/title/tt3511596/?ref_=fn_tt_tt_1,31,,3000000,277,,968
-35,183,267,3123749,Comedy|Romance,Dyan Cannon,746,1231,Brenda Vaccaro,http://www.imdb.com/title/tt0439478/?ref_=fn_tt_tt_1,27,R,1500000,225,1.85,88
-30,21,216,,Drama|Horror|Mystery|Thriller,Olivia Rose Keegan,2157,423,Mia Barron,http://www.imdb.com/title/tt2837336/?ref_=fn_tt_tt_1,15,,3000000,158,,421
-73,394,875,100675,Documentary,Greg Crowe,5695,2305,Tempestt Bledsoe,http://www.imdb.com/title/tt1152822/?ref_=fn_tt_tt_1,23,PG-13,3000000,412,,0
-154,108,264,,Fantasy|Horror|Mystery,Lee Remick,80961,673,Billie Whitelaw,http://www.imdb.com/title/tt0075005/?ref_=fn_tt_tt_1,310,R,2800000,139,2.35,7000
-251,142,447,3645438,Horror,Cécile De France,55040,923,Oana Pellea,http://www.imdb.com/title/tt0338095/?ref_=fn_tt_tt_1,539,Unrated,2200000,236,2.35,0
-57,39,130,,Comedy|Drama|Romance|Sci-Fi,Maeve Dermody,4173,362,Kelly Paterniti,http://www.imdb.com/title/tt1509803/?ref_=fn_tt_tt_1,32,PG-13,,96,1.85,0
-14,29,679,,Action|Horror|Thriller,Q'orianka Kilcher,859,964,Allegra Carpenter,http://www.imdb.com/title/tt3551400/?ref_=fn_tt_tt_1,17,R,3000000,234,2.35,369
-159,165,275,22201636,Crime|Drama|Music,Isaac Hayes,33567,727,Elise Neal,http://www.imdb.com/title/tt0410097/?ref_=fn_tt_tt_1,206,R,8000000,247,1.85,0
-181,102,105,25000000,Comedy|Music|Romance,Nehemiah Persoff,175196,527,George Raft,http://www.imdb.com/title/tt0053291/?ref_=fn_tt_tt_1,350,Not Rated,2883848,103,1.66,10000
-110,181,935,19170001,Horror,Kane Hodder,21359,1855,William Butler,http://www.imdb.com/title/tt0095179/?ref_=fn_tt_tt_1,270,R,2800000,448,1.85,0
-213,357,695,22202612,Adventure|Family|Fantasy|Musical,Margaret Hamilton,291875,2509,Billie Burke,http://www.imdb.com/title/tt0032138/?ref_=fn_tt_tt_1,533,Passed,2800000,421,1.37,14000
-129,481,1000,86300000,Comedy,Madeline Kahn,112671,2703,Teri Garr,http://www.imdb.com/title/tt0072431/?ref_=fn_tt_tt_1,315,PG,2800000,595,1.85,14000
-280,192,569,952620,Horror,Megan Park,40800,1797,Joe Dinicol,http://www.imdb.com/title/tt0848557/?ref_=fn_tt_tt_1,332,R,2000000,529,1.85,0
-15,327,464,,Comedy|Drama|Romance,Vidya Balan,27569,1761,Jimmy Shergill,http://www.imdb.com/title/tt0456144/?ref_=fn_tt_tt_1,106,PG-13,120000000,426,2.35,349
-61,42,402,9054736,Drama,Peter Fonda,5744,787,Vanessa Zima,http://www.imdb.com/title/tt0120402/?ref_=fn_tt_tt_1,57,R,2700000,222,1.66,381
-33,48,481,,Adventure|Family|Sport,Teri Garr,8856,681,Hoyt Axton,http://www.imdb.com/title/tt0078872/?ref_=fn_tt_tt_1,90,G,2700000,81,1.85,0
-1,32,258,,Romance,Bhavkhandan Singh Rakhra,745,434,Diljit Dosanjh,http://www.imdb.com/title/tt4080386/?ref_=fn_tt_tt_1,8,,3000000,85,,50
-2,13,122,,Action|Adventure|Animation|Comedy|Sci-Fi,Iben Hjejle,1828,197,Casper Christensen,http://www.imdb.com/title/tt1095423/?ref_=fn_tt_tt_1,6,Not Rated,,33,1.85,77
-27,359,756,,Adventure|Comedy|Romance,Lee Marvin,5786,1949,Jack Warden,http://www.imdb.com/title/tt0057007/?ref_=fn_tt_tt_1,65,Not Rated,2686585,370,1.85,573
-19,2,20,,Comedy|Drama,Rijk de Gooyer,1470,25,Henri Garcin,http://www.imdb.com/title/tt0116729/?ref_=fn_tt_tt_1,5,,2650000,3,1.85,121
-9,315,760,,Drama|Fantasy|Romance|War,Spencer Tracy,1553,2555,Irene Dunne,http://www.imdb.com/title/tt0035959/?ref_=fn_tt_tt_1,27,Passed,2627000,675,1.37,116
-121,628,1000,119500000,Comedy|Western,Madeline Kahn,95294,4701,Harvey Korman,http://www.imdb.com/title/tt0071230/?ref_=fn_tt_tt_1,363,R,2600000,1000,2.35,12000
-166,74,158,32600000,Horror|Thriller,Judie Aronson,29488,467,Kimberly Beck,http://www.imdb.com/title/tt0087298/?ref_=fn_tt_tt_1,326,R,1800000,84,1.85,0
-269,46,88,3826455,Drama,Joanna Kulig,34643,205,Agata Kulesza,http://www.imdb.com/title/tt2718492/?ref_=fn_tt_tt_1,123,PG-13,,64,1.33,17000
-29,239,443,3130592,Drama|Romance,Rupert Graves,10755,1269,Simon Callow,http://www.imdb.com/title/tt0093512/?ref_=fn_tt_tt_1,69,R,2600000,249,1.66,963
-20,327,833,475000,Comedy|Sport,Joe Lo Truglio,6930,2753,Seymour Cassel,http://www.imdb.com/title/tt0453453/?ref_=fn_tt_tt_1,53,R,2800000,549,,323
-107,1000,40000,10654581,Drama|Sci-Fi|Thriller,Johnny Depp,45500,52621,Clea DuVall,http://www.imdb.com/title/tt0138304/?ref_=fn_tt_tt_1,260,R,34000000,9000,1.85,1000
-74,28,52,2276368,Documentary|History|Sport,Gerry Lopez,3849,179,Laird John Hamilton,http://www.imdb.com/title/tt0389326/?ref_=fn_tt_tt_1,37,PG-13,,52,,0
-173,36,123,38108,Horror|Mystery|Sci-Fi|Thriller,Karra Elejalde,40878,239,Bárbara Goenaga,http://www.imdb.com/title/tt0480669/?ref_=fn_tt_tt_1,124,R,2600000,76,1.85,0
-5,4,11,,Action|Adventure|Comedy,Jack Kao,1418,19,Zheng Xu,http://www.imdb.com/title/tt0851515/?ref_=fn_tt_tt_1,4,,15000000,4,2.35,30
-66,209,331,,Horror|Thriller,Brianna Brown,5012,1082,Beth Broderick,http://www.imdb.com/title/tt0857295/?ref_=fn_tt_tt_1,47,R,2600000,272,1.85,254
-169,390,804,,Comedy|Musical|Romance,Rita Moreno,150020,2510,Cyd Charisse,http://www.imdb.com/title/tt0045152/?ref_=fn_tt_tt_1,568,Approved,2540800,786,1.37,0
-13,0,65,,Documentary,Joe Cross,6429,67,Amy Badberg,http://www.imdb.com/title/tt1227378/?ref_=fn_tt_tt_1,25,,2500000,2,,10000
-129,555,713,40041683,Comedy|Fantasy,Essence Atkins,34620,3421,J.B. Smoove,http://www.imdb.com/title/tt2243537/?ref_=fn_tt_tt_1,107,R,2500000,584,1.85,0
-30,67,871,33349949,Documentary,Barack Obama,9010,1111,Dinesh D'Souza,http://www.imdb.com/title/tt2247692/?ref_=fn_tt_tt_1,199,PG,2500000,118,1.85,0
-220,593,908,33386128,Horror,Scout Taylor-Compton,36372,3226,Margot Kidder,http://www.imdb.com/title/tt1311067/?ref_=fn_tt_tt_1,491,R,15000000,764,1.85,3000
-75,982,15000,25809813,Comedy|Drama|Music,Tom Hanks,50311,28713,Ethan Embry,http://www.imdb.com/title/tt0117887/?ref_=fn_tt_tt_1,212,PG,26000000,9000,1.37,0
-162,67,381,14400000,Horror|Mystery|Sci-Fi,Tom Atkins,28589,684,Nancy Kyes,http://www.imdb.com/title/tt0085636/?ref_=fn_tt_tt_1,532,R,2500000,128,2.35,0
-74,450,595,,Action|Sci-Fi,Roddy McDowall,23546,2373,Sal Mineo,http://www.imdb.com/title/tt0067065/?ref_=fn_tt_tt_1,92,G,2500000,521,2.35,819
-65,124,617,,Drama,Patricia Neal,15277,1141,Whit Bissell,http://www.imdb.com/title/tt0057163/?ref_=fn_tt_tt_1,120,Approved,2500000,189,2.35,1000
-26,36,1000,32230907,Comedy|Documentary,David Jason Perez,6062,1385,Dana Hanna,http://www.imdb.com/title/tt2609912/?ref_=fn_tt_tt_1,30,R,2500000,309,1.85,0
-63,535,18000,6401336,Drama,Keanu Reeves,36996,19923,Flea,http://www.imdb.com/title/tt0102494/?ref_=fn_tt_tt_1,153,R,2500000,595,1.78,0
-205,294,625,26781723,Comedy|Drama|Romance,Armando Riesco,187595,1655,Jill Flint,http://www.imdb.com/title/tt0333766/?ref_=fn_tt_tt_1,978,R,2500000,379,2.35,0
-121,4,15,5400000,Drama|Romance,Hanno Pöschl,183288,36,Dominik Castell,http://www.imdb.com/title/tt0112471/?ref_=fn_tt_tt_1,395,R,2500000,12,1.85,22000
-9,6,50,,Action|Drama|Horror|Thriller,Patrick Huard,1003,79,Jean Pierre Bergeron,http://www.imdb.com/title/tt0380732/?ref_=fn_tt_tt_1,5,,3200000,16,1.85,39
-74,442,745,1282084,Drama,Billy Crudup,6221,2125,Mark Webber,http://www.imdb.com/title/tt0186253/?ref_=fn_tt_tt_1,87,R,2500000,631,2.35,500
-54,209,643,1186323,Comedy|Drama|Romance,Joan Chen,7776,1396,Jessica Hecht,http://www.imdb.com/title/tt0384504/?ref_=fn_tt_tt_1,84,R,,265,1.85,774
-80,40,56,1094998,Drama,Satish Kaushik,2560,150,Tannishtha Chatterjee,http://www.imdb.com/title/tt0940585/?ref_=fn_tt_tt_1,29,PG-13,,41,2.35,430
-252,215,902,3325638,Comedy|Crime|Drama|Sci-Fi,Frank Langella,52509,1980,Ana Gasteyer,http://www.imdb.com/title/tt1990314/?ref_=fn_tt_tt_1,84,PG-13,2500000,291,2.35,13000
-72,471,900,395592,Drama|Romance,Sarah Polley,21202,2972,Amanda Plummer,http://www.imdb.com/title/tt0314412/?ref_=fn_tt_tt_1,134,R,2000000,648,1.85,0
-220,478,8000,6851969,Comedy|Drama|Romance,Shailene Woodley,105591,10040,Dayo Okeniyi,http://www.imdb.com/title/tt1714206/?ref_=fn_tt_tt_1,178,R,2500000,1000,2.35,10000
-1,362,882,333658,Comedy|Family|Musical|Romance|Short,William Hurt,97,1967,Michael Bower,http://www.imdb.com/title/tt0283465/?ref_=fn_tt_tt_1,2,,34000,577,,16
-197,0,334,12995673,Comedy|Documentary|War,Bill Maher,52286,338,Steve Burg,http://www.imdb.com/title/tt0815241/?ref_=fn_tt_tt_1,345,R,2500000,4,1.78,24000
-14,125,860,173783,Documentary,Larry David,578,1252,George W. Bush,http://www.imdb.com/title/tt1294164/?ref_=fn_tt_tt_1,34,Not Rated,2500000,130,1.85,588
-3,107,655,118666,Drama,Bruce McGill,91,1064,Tom Bower,http://www.imdb.com/title/tt0472200/?ref_=fn_tt_tt_1,3,,2500000,157,1.85,144
-191,936,989,114324072,Comedy|Sport,Gary Cole,185345,4730,Joel David Moore,http://www.imdb.com/title/tt0364725/?ref_=fn_tt_tt_1,392,PG-13,20000000,939,2.35,0
-18,249,640,71904,Comedy|Drama|Family,Katharine Ross,806,1491,George Harris,http://www.imdb.com/title/tt0465407/?ref_=fn_tt_tt_1,18,PG-13,2500000,261,1.85,140
-28,5,191,99851,Documentary,Dustin Lance Black,1138,210,Gavin Newsom,http://www.imdb.com/title/tt1484522/?ref_=fn_tt_tt_1,30,R,2500000,12,1.78,0
-22,315,611,115504,Comedy|Drama|Romance,Larry Miller,4820,1739,Shriya Saran,http://www.imdb.com/title/tt1049405/?ref_=fn_tt_tt_1,26,PG-13,14000000,397,2.35,0
-62,10,127,5725,Horror|Thriller,Benno Fürmann,10220,163,Sebastian Blomberg,http://www.imdb.com/title/tt0187696/?ref_=fn_tt_tt_1,110,R,8400000,10,2.35,560
-47,35,426,75727,Drama|Romance|Sci-Fi|Thriller,Leonor Varela,5699,862,Tenoch Huerta,http://www.imdb.com/title/tt0804529/?ref_=fn_tt_tt_1,40,PG-13,2500000,399,1.85,0
-238,370,2000,322157,Comedy|Crime|Drama,Linda Cardellini,61787,4590,Paul T. Taylor,http://www.imdb.com/title/tt1512235/?ref_=fn_tt_tt_1,203,R,2500000,973,1.85,19000
-2,555,794,,Comedy|Drama|Family|Romance,Ashley Scott,858,2579,Lochlyn Munro,http://www.imdb.com/title/tt1663628/?ref_=fn_tt_tt_1,7,TV-PG,2500000,607,,190
-95,577,968,,Comedy|Horror,Clifton Collins Jr.,3119,3157,David Masterson,http://www.imdb.com/title/tt3300572/?ref_=fn_tt_tt_1,23,Not Rated,2500000,625,2.35,0
-10,442,1000,,Horror,Natasha Lyonne,63,2406,Mark Webber,http://www.imdb.com/title/tt3333870/?ref_=fn_tt_tt_1,2,,3500000,677,,89
-28,702,1000,5731103,Drama|History,Bernie Mac,4100,5963,Andre Braugher,http://www.imdb.com/title/tt0116404/?ref_=fn_tt_tt_1,35,R,2400000,748,1.85,352
-25,201,973,978908,Drama|Horror|Mystery|Thriller,Marc Blucas,4057,2306,Justine Waddell,http://www.imdb.com/title/tt0486028/?ref_=fn_tt_tt_1,90,PG-13,2400000,872,2.35,250
-121,233,586,438653,Adventure|Comedy|Sci-Fi,Anthony 'Citric' Campos,108052,1490,David Herman,http://www.imdb.com/title/tt0387808/?ref_=fn_tt_tt_1,434,R,,497,1.85,79000
-10,109,490,,Crime|Drama,Simon Merrells,1510,881,Kris Sommerville,http://www.imdb.com/title/tt2945796/?ref_=fn_tt_tt_1,26,R,2500000,159,,0
-172,698,1000,327919,Crime|Drama,Stephen Graham,99177,3282,Jack O'Connell,http://www.imdb.com/title/tt0480025/?ref_=fn_tt_tt_1,192,Unrated,1500000,788,1.85,11000
-20,663,844,,Comedy|Sci-Fi,Julian Glover,2753,3132,Bianca Brigitte VanDamme,http://www.imdb.com/title/tt2040578/?ref_=fn_tt_tt_1,82,R,2500000,722,2.35,0
-8,226,675,,Comedy|Musical,Esther Williams,1079,1627,Red Skelton,http://www.imdb.com/title/tt0036628/?ref_=fn_tt_tt_1,28,Passed,2361000,659,1.37,144
-8,76,847,178739,Drama|Musical,Jossara Jinaro,1015,1668,Rene Rosado,http://www.imdb.com/title/tt1307926/?ref_=fn_tt_tt_1,10,PG-13,2450000,618,1.85,566
-15,326,982,565592,Comedy|Drama|Family,Ethan Embry,2189,2580,Alexandra Holden,http://www.imdb.com/title/tt0118925/?ref_=fn_tt_tt_1,63,PG,,599,1.85,500
-14,244,960,,Drama|Family|Musical|Romance,Agnes Moorehead,3538,2329,Howard Keel,http://www.imdb.com/title/tt0044030/?ref_=fn_tt_tt_1,46,Approved,2295429,715,1.33,438
-12,608,1000,27012,Drama,Tom Skerritt,440,3586,Luke Perry,http://www.imdb.com/title/tt1470020/?ref_=fn_tt_tt_1,9,PG-13,,646,2.35,279
-48,826,2000,,Thriller,Topher Grace,6025,4385,Christopher Heyerdahl,http://www.imdb.com/title/tt1666335/?ref_=fn_tt_tt_1,28,R,,1000,,0
-17,385,11000,,Adventure|Animation|Comedy|Family|Fantasy|Musical,Jon Lovitz,19650,12359,Mindy Sterling,http://www.imdb.com/title/tt0092695/?ref_=fn_tt_tt_1,62,Not Rated,2300000,516,,0
-99,,16,76400000,Animation|Family|Fantasy|Music,Leopold Stokowski,71321,16,,http://www.imdb.com/title/tt0032455/?ref_=fn_tt_tt_1,230,G,2280000,0,1.37,3000
-138,109,813,,Action|Crime|Drama|Thriller,Roy Scheider,82476,1196,Tony Lo Bianco,http://www.imdb.com/title/tt0067116/?ref_=fn_tt_tt_1,280,R,1800000,165,1.85,0
-,0,210,,Drama|Thriller,Nicole Smolen,44,210,Ivette Alvarez,http://www.imdb.com/title/tt3111864/?ref_=fn_tt_tt_1,3,PG-13,2500000,0,,224
-235,20,72,36200000,Horror|Thriller,Richard Brooker,31952,174,Catherine Parks,http://www.imdb.com/title/tt0083972/?ref_=fn_tt_tt_1,372,R,4000000,31,2.35,0
-160,17,42,21300000,Horror|Mystery|Thriller,Tiffany Helm,22521,170,Dominick Brascia,http://www.imdb.com/title/tt0089173/?ref_=fn_tt_tt_1,342,R,2200000,27,1.85,1000
-18,275,861,379643,Drama,Henry Thomas,1573,2161,A.J. Buckley,http://www.imdb.com/title/tt0810928/?ref_=fn_tt_tt_1,29,PG-13,2200000,425,1.85,285
-11,835,2000,12985267,Drama,Alexa PenaVega,4977,6752,Madison Pettis,http://www.imdb.com/title/tt4056738/?ref_=fn_tt_tt_1,63,PG-13,2300000,848,,13000
-11,306,676,,Thriller,Brian Austin Green,1118,1651,Linden Ashby,http://www.imdb.com/title/tt1086841/?ref_=fn_tt_tt_1,9,R,2200000,399,,77
-7,275,509,,Drama,Jessica Tandy,1314,1490,Lionel Barrymore,http://www.imdb.com/title/tt0038213/?ref_=fn_tt_tt_1,29,Passed,2160000,284,1.37,68
-5,708,1000,,Drama|Thriller,Jessica Lowndes,1351,3799,Brad Schmidt,http://www.imdb.com/title/tt3032282/?ref_=fn_tt_tt_1,4,R,,800,,452
-10,18,114,,Comedy|Drama|Romance,Saeed Jaffrey,480,244,Shobu Kapoor,http://www.imdb.com/title/tt0449000/?ref_=fn_tt_tt_1,14,,1200000,79,1.85,172
-5,782,3000,,Comedy|Music|Romance,Ryan Guzman,485,6085,Jason Ritter,http://www.imdb.com/title/tt1995477/?ref_=fn_tt_tt_1,6,,2400000,938,,107
-95,42,371,,Action|Comedy|Horror,Rachel Skarsten,5187,558,Stefanie Drummond,http://www.imdb.com/title/tt0816539/?ref_=fn_tt_tt_1,46,R,2500000,52,1.85,870
-97,188,749,23650000,Drama|Romance|War,Myrna Loy,40359,1941,Dana Andrews,http://www.imdb.com/title/tt0036868/?ref_=fn_tt_tt_1,235,Not Rated,2100000,208,1.37,0
-76,551,730,510092,Biography|Crime|Drama,Kelli Garner,29424,3293,Brad Renfro,http://www.imdb.com/title/tt0242193/?ref_=fn_tt_tt_1,336,R,,648,1.85,0
-67,14,117,313436,Comedy|Drama,Jørgen Langhelle,12244,155,Sven Nordin,http://www.imdb.com/title/tt0279064/?ref_=fn_tt_tt_1,95,R,15500000,21,1.85,0
-4,17,128,3330,Crime|Drama,Michael Derek,22,214,Brad Lee Wind,http://www.imdb.com/title/tt2460506/?ref_=fn_tt_tt_1,1,R,2100000,22,2.35,305
-252,7,120,,Horror,Manuela Velasco,131462,145,Carlos Lasarte,http://www.imdb.com/title/tt1038988/?ref_=fn_tt_tt_1,374,R,1500000,9,1.85,15000
-,650,919,,Drama,Rosie Perez,544,3873,Cheyenne Haynes,http://www.imdb.com/title/tt1675312/?ref_=fn_tt_tt_1,4,TV-PG,2100000,718,1.78,162
-1,338,749,,Comedy|Drama|Mystery|Romance|Thriller,Travis Myers,6,1814,Carmen Argenziano,http://www.imdb.com/title/tt2317796/?ref_=fn_tt_tt_1,1,,2100000,354,2.39,14
-33,260,846,,Horror|Sci-Fi|Thriller,Walter Hendrix III,1355,2044,Louise Brealey,http://www.imdb.com/title/tt3561236/?ref_=fn_tt_tt_1,21,,,366,,275
+director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,num_voted_users,facenumber_in_poster,language,country,actor_2_facebook_likes,imdb_score,aspect_ratio
+27,360,Curtiss Cook,664,41574,1,English,USA,591,6.6,1.85
+16,265,Jonny Weston,452,57349,0,English,USA,328,6.4,2.35
+67,192,Veronika Dash,436,15412,3,English,USA,223,7.0,2.35
+25,654,Dave Chappelle,931,6965,0,English,USA,744,5.7,1.85
+216,968,Kurtwood Smith,1000,23383,0,English,Australia,1000,5.9,1.85
+378,783,Catherine O'Hara,957,12197,0,English,USA,925,6.3,1.85
+11000,99,Aleksa Palladino,537,20576,0,English,USA,255,6.3,1.66
+708,316,Joseph Cross,433,20000,0,English,USA,398,6.2,2.35
+7,251,Kelly Clarkson,525,23606,2,English,USA,281,2.1,1.85
+0,599,Debi Mazar,873,4961,3,English,USA,680,5.0,1.85
+319,48,Nick Damici,1000,18632,0,English,Australia,65,5.3,1.85
+115,103,Vinessa Shaw,812,29613,0,English,USA,580,7.1,2.35
+40,794,Ray Winstone,5000,5016,5,English,UK,1000,7.0,2.35
+584,74,Kang-ho Song,629,68883,0,Korean,South Korea,398,7.0,1.85
+55,212,Treat Williams,3000,763,0,English,USA,642,5.7,1.85
+61,611,Jeffrey Jones,769,29990,0,English,Czech Republic,692,7.1,2.35
+20,442,Megan Park,21000,56654,5,English,USA,569,7.0,1.85
+667,70,Sabrina Ferilli,211,55516,2,Italian,Italy,98,7.7,2.35
+0,77,Michael Harding,1000,12047,4,English,USA,165,7.1,1.85
+0,520,Alden Ehrenreich,3000,84620,4,English,UK,1000,6.8,2.35
+0,576,Tony Chiu Wai Leung,878,41496,0,Cantonese,Hong Kong,643,7.5,2.35
+60,18,Erin Boyes,60,8014,4,English,USA,46,6.3,1.85
+19,393,Hope Davis,706,6454,0,English,USA,442,7.3,1.85
+277,289,Stephen Rea,845,16863,2,English,Ireland,327,6.8,1.85
+0,403,Tatyana Ali,865,18520,0,English,USA,685,7.2,1.85
+94,146,Isaiah Washington,693,12559,0,English,USA,534,6.4,2.35
+0,745,Anne Bancroft,941,1427,2,English,Australia,754,6.0,1.85
+26,350,Lynn Cohen,797,12125,2,English,USA,474,6.4,2.35
+759,820,Mark Duplass,967,2551,1,English,USA,830,5.1,2.35
+7,289,Kate del Castillo,662,14831,0,English,Germany,345,7.5,2.35
+45,0,Péter Fancsikai,9,5603,0,Hungarian,Hungary,2,7.1,2.35
+18,865,Albert Finney,13000,6884,1,English,USA,883,4.6,1.85
+611,3,Ni Yan,9,2410,1,Mandarin,China,4,5.7,2.35
+165,280,Jeremy Northam,686,27052,2,English,USA,327,6.8,1.85
+14,3,Yuanyuan Gao,52,8429,0,Mandarin,China,32,7.7,2.35
+12,183,Matt Jones,17000,70133,0,English,USA,523,6.7,1.85
+0,188,Tom Arnold,970,408,0,Mandarin,China,618,3.2,
+7,16,Meisa Kuroki,84,4899,0,Japanese,Japan,33,6.1,2.35
+212,18,Kenneth Cranham,567,12128,9,English,Georgia,111,5.6,2.35
+76,42,Michael Dorman,181,64423,1,English,UK,168,6.9,2.35
+0,247,Kelly LeBrock,1000,314,1,English,USA,445,7.5,1.85
+130,79,Connor Corum,399,21034,,English,USA,116,5.8,2.35
+0,1000,Brad Pitt,26000,600996,6,English,UK,11000,8.3,1.85
+49,84,Matt Marr,551,105,6,English,USA,85,2.8,
+52,426,Fred Gwynne,969,63855,0,English,USA,886,6.6,1.85
+0,4,Tetsu Watanabe,15,3466,0,Japanese,Japan,6,7.5,1.85
+2,388,Caroline Dhavernas,680,3737,2,English,UK,544,6.0,2.35
+3,2,Ching Wan Lau,215,117,1,Chinese,China,27,6.2,2.35
+287,233,Harry Carey Jr.,767,142293,0,English,USA,281,7.2,2.2
+0,504,Peter Cushing,11000,911097,1,English,USA,1000,8.7,2.35
+11,411,Zoey Deutch,22000,49671,1,English,USA,851,6.0,2.35
+767,382,Klaus Kinski,597,55816,2,English,USA,396,8.0,2.35
+335,14,Selton Mello,585,14437,0,Portuguese,UK,68,7.2,2.35
+197,632,Matt Prokop,755,43795,1,English,USA,734,4.5,1.85
+737,141,Jack McGee,23000,275869,2,English,USA,238,7.9,2.35
+79,218,Steve-O,608,56595,0,English,USA,362,7.1,1.85
+36,633,Bruce McGill,886,82743,1,English,USA,655,7.5,1.85
+15,602,Mireille Enos,17000,83893,3,English,USA,1000,6.8,2.35
+53,32,Damien Garvey,84,3104,2,English,Canada,37,4.3,
+42,808,Tom Berenger,1000,49007,3,English,USA,854,7.2,1.85
+32,621,Rupert Everett,785,18220,5,English,UK,692,5.8,1.85
+541,328,John Enos III,991,207934,0,English,USA,465,7.1,2.35
+163,488,Peter Coyote,683,162701,1,English,USA,548,7.4,2.35
+0,191,Celia Weston,276,73193,0,English,UK,258,7.6,1.85
+16,637,Sean Patrick Thomas,4000,149222,3,English,USA,656,6.9,1.85
+52,647,Shawnee Smith,723,76207,0,English,Canada,651,6.0,1.85
+0,842,Sid Caesar,1000,36559,0,English,USA,898,6.9,2.35
+107,549,Alicia Keys,664,19440,5,English,USA,551,7.3,2.35
+5,532,Vinessa Shaw,584,10966,1,English,USA,580,4.6,1.85
+0,298,Gabrielle Carteris,636,9903,0,English,USA,330,6.0,1.85
+278,279,Peter Boyle,13000,5561,2,English,USA,595,6.4,1.85
+365,225,Bud Cort,425,5187,0,English,USA,394,5.5,2.35
+34,54,Fiona Glascott,838,73249,1,English,UK,55,7.5,1.85
+0,111,Steven Berkoff,385,101627,0,English,UK,293,8.1,1.66
+2,651,Jason London,799,14656,0,English,USA,711,6.3,1.85
+71,553,John Witherspoon,8000,10777,1,English,USA,723,5.1,1.85
+0,123,Sheridan Smith,358,15684,4,English,UK,156,6.8,2.35
+5,443,Jake Busey,1000,15427,0,English,USA,660,5.3,1.85
+0,303,Powers Boothe,11000,59982,0,English,USA,472,7.3,1.85
+64,553,Frances Fisher,16000,33856,2,English,UK,638,7.3,2.35
+386,812,Oliver Platt,14000,42689,0,English,USA,1000,7.1,2.35
+0,795,Bridget Fonda,901,128850,0,English,USA,888,7.6,1.85
+4,424,Gedde Watanabe,960,12437,4,English,Canada,448,5.3,1.85
+529,472,Leonardo DiCaprio,40000,171882,1,English,USA,29000,7.8,1.85
+10,109,Alan Van Sprang,866,2164,1,English,Canada,147,7.7,1.85
+608,579,Sally Hawkins,979,20307,1,English,UK,594,7.7,1.85
+18,183,Dash Mihok,658,13622,3,English,UK,463,5.4,1.85
+300,787,Chazz Palminteri,1000,1761,2,English,USA,979,6.2,1.85
+1000,272,Max Casella,3000,96233,1,English,USA,275,7.4,1.85
+596,697,Andrew Keegan,1000,17333,2,English,USA,835,6.2,1.85
+8,40,Wayne Pygram,14000,14129,1,English,USA,163,5.1,1.85
+58,104,Anthony Zerbe,338,2603,0,English,USA,275,6.9,2.35
+0,776,Steve Buscemi,14000,10052,0,English,USA,12000,6.3,2.35
+238,22,David Kennedy,60,11132,0,English,USA,35,6.8,2.35
+365,723,Zelda Rubinstein,887,105448,0,English,USA,770,7.4,2.35
+17,405,Sean Harris,845,5013,2,English,UK,641,5.7,2.35
+43,357,Costas Mandylor,3000,88529,0,English,USA,723,5.8,1.85
+4,199,Gena Rowlands,917,618,0,English,Italy,545,6.2,2.35
+15,19,Lina Esco,142,45144,1,English,USA,79,4.3,2.35
+10,48,Deborra-Lee Furness,172,5772,2,English,Australia,71,6.4,2.35
+160,860,John Abraham,8000,13998,2,Hindi,India,1000,6.0,2.35
+32,327,Rupert Everett,893,12980,3,English,UK,692,6.9,1.85
+7,507,Olivia Williams,805,28570,0,English,UK,766,5.5,2.35
+57,132,Giancarlo Giannini,541,16747,0,English,USA,451,5.4,2.35
+0,73,Gary Lockwood,273,427357,0,English,UK,117,8.3,2.2
+14000,548,Dee Wallace,861,281842,0,English,USA,725,7.9,1.85
+21,499,Elena Anaya,17000,27689,0,English,USA,1000,6.5,2.35
+4,194,Marc Donato,882,1337,1,English,Canada,450,6.3,1.85
+11,327,Kelli Williams,665,859,2,English,USA,446,6.4,
+,44,Johnny Flynn,381,2651,3,English,UK,102,7.9,
+0,119,Boman Irani,564,8598,5,Hindi,India,154,5.3,
+58,258,Taylor Handley,482,2618,0,,USA,362,5.8,1.85
+0,280,Eduardo Verástegui,639,3665,1,Spanish,Mexico,377,6.6,2.35
+7,24,Eric Elmosnino,68,15060,4,French,France,29,7.4,1.85
+835,893,Matt Damon,49000,604904,2,English,USA,13000,8.3,1.85
+29,571,Anthony Hopkins,14000,6935,3,English,USA,12000,5.3,2.35
+163,482,Shawnee Smith,723,142115,0,English,USA,651,6.2,1.85
+425,901,Harold Ramis,13000,48629,1,English,USA,11000,6.9,1.85
+235,229,Lindsay Sloane,4000,70141,1,English,USA,464,5.9,1.85
+65,393,Joseph Julian Soria,798,17596,1,English,France,465,6.1,2.35
+7,1000,Clea DuVall,23000,67115,2,English,USA,1000,5.8,1.85
+304,736,Gabourey Sidibe,939,86956,0,English,USA,906,7.3,1.85
+163,448,Shawnee Smith,723,111087,0,English,USA,651,5.9,1.85
+13,368,Keegan Connor Tracy,494,41763,0,English,UK,392,5.5,2.35
+0,685,Cicely Tyson,1000,8962,4,English,USA,907,5.0,1.85
+17000,638,Bill Cobbs,10000,57831,1,English,USA,970,7.0,1.85
+19,196,Richard Beymer,726,43270,3,English,USA,249,7.8,2.35
+65,577,Shaun Weiss,633,44502,8,English,USA,613,6.4,1.85
+70,634,Clea DuVall,4000,115050,0,English,USA,1000,5.9,1.85
+221,491,Kevin Nealon,11000,156143,1,English,USA,503,7.0,1.85
+108,270,Patricia Belcher,1000,86890,0,English,Germany,322,6.1,1.85
+65,730,George Carlin,18000,85362,6,English,USA,769,6.9,2.35
+82,139,Ron Moody,695,25303,1,English,UK,275,7.5,2.35
+108,186,Penelope Wilton,1000,75306,3,English,UK,400,7.3,2.35
+6,345,Andrew Lawrence,759,6808,0,English,USA,563,6.5,1.85
+750,60,Bruce Spence,794,101840,2,English,Australia,531,6.2,2.35
+73,581,Vernon Wells,1000,111649,0,English,USA,745,6.7,1.85
+19,130,Rupert Evans,4000,35654,0,English,USA,334,6.0,2.35
+66,816,Bokeem Woodbine,2000,104089,0,English,USA,904,6.3,2.35
+7,615,Mike Epps,723,19284,0,English,USA,706,5.8,1.85
+482,482,Hayley Kiyoko,852,54190,0,English,Canada,542,6.1,2.35
+78,619,Vanity,854,9424,1,English,USA,841,6.9,1.85
+0,1000,Brad Pitt,26000,600996,6,English,UK,11000,8.3,1.85
+32,120,Austin O'Brien,535,27800,0,English,UK,211,5.4,1.85
+6,617,Alexis Dziena,904,74887,2,English,USA,715,6.7,1.85
+0,769,Janeane Garofalo,13000,181737,8,English,USA,1000,7.4,2.35
+7,73,Eva Amurri Martino,931,12388,2,English,USA,797,5.6,2.35
+287,257,Al Leong,745,25613,0,English,USA,730,6.5,1.85
+9,466,Kevin Tighe,623,42987,1,English,USA,472,6.5,2.35
+322,534,Salli Richardson-Whitfield,851,3924,2,English,USA,543,5.8,1.85
+21,782,Shiri Appleby,931,16300,0,English,USA,855,5.0,2.35
+27,534,Danny Woodburn,1000,37681,2,English,USA,809,5.5,1.85
+4,678,Lauren Ambrose,982,37885,4,English,USA,945,6.5,1.85
+0,699,William Smith,10000,57363,0,English,USA,919,7.2,2.35
+38,190,Oona Laurence,3000,408,0,English,USA,424,7.3,2.35
+0,275,Herbert Lom,1000,44804,0,English,USA,278,7.2,1.85
+11,220,James Ransone,1000,25210,0,English,USA,412,5.2,2.35
+70,706,Curtis Armstrong,1000,5161,7,English,USA,876,5.7,2.35
+9,448,Jessica Capshaw,690,20467,1,English,USA,533,4.7,2.35
+58,242,Will Patton,14000,63108,0,English,USA,537,5.9,2.35
+500,718,Virginia Madsen,11000,19655,8,English,USA,912,6.8,2.35
+5,338,Clarence Williams III,556,3119,1,English,USA,475,5.9,1.85
+17,53,Richard Lynch,371,6143,1,English,USA,324,5.3,1.85
+92,826,Brandon T. Jackson,2000,5585,0,English,USA,918,6.0,2.35
+0,766,Connie Nielsen,13000,134458,2,English,USA,933,7.7,2.35
+25,861,Donald Faison,929,76199,0,English,USA,927,4.4,2.35
+108,111,Celia Imrie,220,22369,6,English,UK,186,6.6,2.35
+22,558,Jane Krakowski,918,4719,1,English,USA,624,6.7,1.85
+15,804,Chris Noth,1000,23527,3,English,USA,962,5.5,1.85
+0,203,Nicholas Turturro,18000,8295,1,English,USA,269,6.5,1.85
+176,39,Simon Rhee,176,37901,1,English,USA,67,6.2,2.35
+31,536,Ariana Richards,651,90070,0,English,USA,610,7.1,1.85
+36,648,Lindy Booth,2000,87494,1,English,USA,683,6.1,1.85
+394,695,David Carradine,2000,7322,0,English,USA,926,7.1,1.85
+164,45,Paul Ben-Victor,258,15358,2,English,USA,218,6.0,2.35
+337,820,Tye Sheridan,11000,135286,1,English,USA,1000,7.4,2.35
+134,307,Thomas Lennon,655,23928,2,English,USA,651,5.9,1.85
+293,547,Zayn Malik,773,22161,11,English,USA,734,4.1,1.85
+23,503,Noureen DeWulf,839,17790,5,English,USA,700,5.8,1.85
+14,636,Vincent Schiavelli,1000,4564,0,English,USA,811,5.9,1.85
+64,918,Toby Jones,13000,71679,1,English,UK,2000,7.0,2.35
+47,442,Philip Baker Hall,3000,40514,0,English,USA,497,6.8,2.35
+28,582,Nia Long,962,2801,0,English,USA,826,7.4,1.85
+0,458,Allison Tolman,1000,79909,1,English,USA,562,7.1,2.35
+2,30,Chad Allen,772,4360,3,English,USA,232,7.0,2.35
+13,869,Kirsten Dunst,15000,15617,1,English,USA,4000,5.8,2.35
+406,759,Stephen Root,989,200293,0,English,USA,939,7.8,1.85
+31,551,Kirstie Alley,4000,27265,0,English,Germany,980,6.5,1.85
+13000,309,Danny Huston,11000,55539,3,English,USA,430,7.0,1.85
+532,711,Daniel Stern,4000,39331,0,English,USA,796,6.3,1.85
+18,2000,Alexa PenaVega,7000,12706,9,English,USA,2000,5.3,1.85
+0,298,Dennis Franz,537,20113,0,English,USA,376,6.8,1.85
+434,472,Will Forte,1000,35888,3,English,USA,622,5.5,2.35
+350,250,Benedict Wong,460,34848,1,English,UK,372,7.4,1.85
+0,3000,Kate Winslet,20000,79146,10,English,USA,14000,4.3,1.85
+207,3000,Angelina Jolie Pitt,40000,176606,0,English,USA,11000,6.0,2.35
+4,655,William Morgan Sheppard,939,21268,0,English,USA,702,5.2,2.35
+63,172,Mark Moses,7000,87203,2,English,USA,353,6.7,2.35
+44,727,Stephen Root,1000,32697,1,English,USA,939,6.3,1.85
+,476,T.J. Thyne,1000,111506,2,English,USA,722,7.9,1.78
+194,602,Beverly D'Angelo,1000,782437,2,English,USA,816,8.6,1.85
+87,444,Johanna Braddy,1000,36029,0,English,USA,581,6.1,2.35
+0,719,Kelsey Grammer,886,1231,0,English,USA,808,5.8,1.85
+63,2,Clotilde Mollet,24,26832,3,French,Canada,3,7.7,1.85
+0,201,Richard Farnsworth,874,63733,0,English,France,262,8.0,2.35
+9,934,James Franco,12000,6200,1,English,USA,11000,5.6,2.35
+0,322,Philip Baker Hall,628,38459,0,English,USA,497,6.7,2.35
+0,231,Iddo Goldberg,427,58509,0,English,UK,269,6.6,2.35
+13,378,Randy Quaid,753,1040,0,English,USA,695,4.2,2.35
+57,664,Gillian Jacobs,1000,8058,2,English,USA,837,6.6,2.35
+49,401,Tamala Jones,719,3662,2,English,USA,405,4.1,1.85
+0,294,Toby Huss,23000,84641,0,English,USA,342,7.3,1.85
+102,970,Jennifer Garner,14000,20810,0,English,USA,3000,7.1,
+157,581,Evan Ross,2000,56005,5,English,USA,616,6.5,1.85
+64,72,Waris Ahluwalia,144,14031,1,Italian,Italy,110,7.0,1.85
+60,699,Diedrich Bader,823,5612,0,English,USA,759,5.5,2.35
+34,541,Michael Wincott,10000,10735,1,English,UK,721,6.6,1.85
+0,132,Lesley Ann Warren,402,24412,0,English,USA,296,7.1,1.85
+549,911,Loretta Devine,3000,361169,0,English,Germany,912,7.9,2.35
+25,553,Anthony LaPaglia,902,6377,0,English,UK,576,7.1,2.35
+4,311,Tracey Walter,754,1768,4,English,USA,324,5.6,1.85
+108,400,Tim DeKay,634,20426,1,English,Germany,436,7.3,2.35
+105,269,Kevin Nealon,982,9541,1,English,USA,503,3.3,1.85
+0,851,Michael Rapaport,1000,8720,0,English,USA,975,6.5,1.85
+4,4,Stephanie Vogt,533,20837,1,English,USA,35,4.8,1.85
+76,249,William Hootkins,902,892,0,English,USA,488,5.2,2.35
+387,64,Maria Dizzia,6000,30325,2,English,USA,139,6.3,1.85
+129,221,Eddie 'Piolin' Sotelo,749,13174,0,English,USA,252,7.2,1.85
+0,258,John Neville,530,30096,0,English,Canada,387,6.8,1.78
+3,826,Oliver Platt,14000,5936,0,English,USA,1000,5.7,1.85
+41,1000,Anne Hathaway,16000,9395,1,English,UK,11000,7.2,2.35
+34,683,James Franco,11000,55567,1,English,USA,11000,6.9,1.85
+,2,Olaf Lubaszenko,20,12591,0,Polish,Poland,3,9.1,1.33
+53,45,Rekha,307,12411,0,Hindi,India,200,6.3,2.35
+0,503,Melanie Griffith,975,11403,2,English,France,537,6.2,1.85
+607,251,Scott A. Martin,11000,59297,0,English,USA,414,6.7,1.85
+17,688,Gary Cole,2000,33473,4,English,USA,989,6.5,2.35
+23,232,Minnie Driver,22000,10585,1,English,Canada,893,7.2,2.35
+0,622,Lee Majors,966,9517,2,English,USA,799,5.3,1.85
+0,20,Norah Jones,20000,44208,3,English,Hong Kong,329,6.7,2.35
+0,54,Ben Gazzara,816,1402,0,English,Spain,623,6.2,1.85
+0,119,Jeanne Tripplehorn,990,13145,0,English,UK,711,3.6,1.85
+0,91,Sergej Trifunovic,603,20008,3,English,USA,175,5.7,1.78
+0,51,Karen Mok,478,56923,2,Cantonese,Hong Kong,83,7.3,1.85
+787,0,Cheryl Tiegs,787,11487,0,English,USA,96,5.0,1.66
+324,28,François Cluzet,678,1649,0,French,France,541,6.6,1.66
+593,241,Claire Foy,374,8307,0,English,USA,362,6.6,1.85
+163,34,Aitana Sánchez-Gijón,837,1135,1,French,France,130,6.8,2.35
+0,131,Ashraf Barhom,18000,27009,0,English,UK,451,6.2,2.35
+24,83,Ryan Donowho,374,8708,2,English,USA,181,7.3,2.35
+302,428,Danny Dyer,893,3080,2,English,UK,798,6.2,1.85
+800,334,Daryl Sabara,49000,31964,1,English,USA,640,6.9,1.85
+76,345,Toby Stephens,798,31890,0,English,UK,769,6.6,1.85
+216,885,Dulé Hill,1000,9971,1,English,USA,922,6.3,1.85
+26,146,Ally Sheedy,17000,19979,3,English,UK,793,7.0,1.85
+3,421,Michael Winslow,16000,24958,0,English,USA,542,3.3,1.85
+11,553,Nate Parker,665,465,0,English,USA,664,6.7,2.35
+21,36,Andrés Montiel,78,683,1,Spanish,Mexico,61,6.2,
+53,499,Jared Gilman,962,2041,0,English,USA,545,6.5,2.35
+71,385,Harvey Weinstein,795,2971,0,English,USA,474,3.5,1.85
+7,875,Justin Timberlake,12000,2941,2,English,USA,3000,5.5,2.35
+0,617,Scott Porter,806,7759,2,English,USA,690,5.9,1.85
+8,495,Minnie Driver,1000,3662,1,English,USA,893,4.7,1.85
+50,422,Corbin Bleu,835,361,3,English,Canada,632,4.2,1.85
+93,51,Reef Ireland,147,5637,0,English,Australia,52,5.2,2.39
+7,240,Tamala Jones,706,1097,2,English,USA,405,5.2,1.85
+7,611,Drew Waters,906,4995,1,English,USA,848,3.9,1.85
+275,102,Leonor Watling,439,22753,4,English,Spain,161,6.1,2.35
+10,72,Gyton Grantley,122,11950,0,English,Australia,109,5.8,2.35
+0,742,Rip Torn,11000,7690,6,English,USA,826,6.7,1.85
+71,126,Craig Fairbrass,298,11285,0,English,USA,258,5.7,2.35
+8,111,Mishael Morgan,485,1642,0,English,Canada,152,4.5,2.35
+13,415,Kevin Zegers,5000,9585,1,English,UK,2000,6.9,2.35
+0,196,Tom Arnold,1000,162,0,English,South Korea,618,4.8,
+261,520,Ayelet Zurer,30000,3075,2,English,Germany,744,6.3,2.35
+4,5,Charlotte Bøving,63,1920,0,Icelandic,Iceland,10,6.9,2.35
+98,95,Mark Addy,1000,1250,1,English,UK,891,5.4,2.35
+110,711,Henry Rollins,1000,5715,4,English,USA,898,3.8,1.85
+24,46,Jesse Moss,183,2223,2,English,Canada,136,7.0,2.35
+5,482,Luke Perry,670,553,5,English,USA,608,5.2,
+419,7,Woo-sung Jung,398,26156,0,Korean,South Korea,149,7.3,2.35
+36,899,Katrina Bowden,1000,7286,0,English,USA,948,4.6,2.35
+3,499,Callum Rennie,764,3015,1,English,Canada,716,6.5,2.35
+99,452,Martin Starr,17000,131180,6,English,USA,985,6.8,1.85
+0,195,Victor Rivers,786,8369,0,English,USA,228,6.7,1.85
+41,525,Mike Epps,723,27492,1,English,USA,706,6.1,1.85
+9,262,Jordana Brewster,4000,12372,1,English,Canada,4000,5.2,
+43,244,Burt Kwouk,742,75280,0,English,UK,462,6.9,2.35
+7,1000,Alfie Allen,31000,5865,7,English,UK,1000,6.0,
+0,319,Emmanuelle Riva,678,70382,1,French,France,432,7.9,1.85
+17,770,Heather O'Rourke,1000,13190,0,English,USA,887,4.5,1.85
+6,200,Roger Cross,557,1763,0,English,USA,290,5.1,1.78
+176,760,Sid Caesar,924,29323,0,English,USA,898,7.6,2.76
+0,82,Lola Dueñas,148,76681,1,Spanish,Spain,114,7.6,2.35
+0,123,Joe Flaherty,187,23516,0,English,Canada,176,6.7,1.37
+100,327,Michael Angarano,33000,9006,7,English,USA,947,6.1,
+12,1000,Jim Broadbent,21000,11612,3,English,UK,1000,7.5,2.35
+43,129,Michaela McManus,826,4486,4,English,USA,476,5.3,1.85
+116,303,Steven Michael Quezada,594,9673,0,English,India,412,6.0,
+3000,844,Kirsten Dunst,10000,128729,1,English,Denmark,4000,7.1,2.35
+25,110,Keisha Castle-Hughes,509,13003,0,English,Australia,446,7.5,2.35
+147,1000,Katrina Kaif,8000,42296,4,Hindi,India,3000,6.9,2.35
+0,513,Yaphet Kotto,1000,563827,0,English,UK,581,8.5,2.35
+365,177,Edwin Neal,383,96410,0,English,USA,371,7.5,1.85
+50,741,Scout Taylor-Compton,17000,39260,2,English,USA,908,6.6,2.35
+278,51,Paul Michael Glaser,402,29839,0,English,USA,343,8.0,2.35
+92,177,Earl Cameron,244,82073,1,English,UK,189,7.0,2.35
+33,123,Shanley Caswell,14000,12520,2,English,USA,383,5.8,2.35
+798,16,Alessandro Preziosi,580,8667,9,Italian,Italy,26,7.3,2.35
+473,685,Jada Pinkett Smith,890,10139,4,English,USA,851,6.8,2.35
+92,862,Sanaa Lathan,1000,6525,6,English,USA,886,6.7,1.85
+85,118,Alex Vincent,311,62038,0,English,USA,189,6.5,1.85
+909,184,Tucker Albrizzi,909,66610,1,English,USA,203,8.0,1.85
+65,908,Zach Gilford,2000,92364,0,English,USA,971,6.5,2.35
+0,407,Lauren German,3000,12324,1,English,USA,683,4.9,1.85
+8,587,Fred Willard,982,155262,2,English,USA,729,7.1,1.85
+37,883,Gary Oldman,12000,20449,0,English,USA,10000,7.0,1.85
+46,701,Nia Long,14000,41313,3,English,USA,826,7.0,1.85
+644,199,Denholm Elliott,392,102895,2,English,USA,249,7.5,1.85
+17,179,Crystal Lowe,607,19918,0,English,USA,318,4.5,2.35
+2,127,Tate Taylor,911,4247,1,English,USA,150,5.5,2.35
+0,130,Derek Jacobi,591,23441,1,English,UK,520,7.7,1.85
+84,338,David Zayas,22000,32188,0,English,USA,929,7.2,1.85
+17,571,Freddy Rodríguez,591,3419,3,English,USA,579,4.8,1.85
+188,35,Nicky Katt,187,27536,4,English,USA,127,6.7,1.85
+23,471,Rory Culkin,1000,29058,1,English,USA,710,7.0,2.35
+157,219,Matt Ross,4000,10476,3,English,USA,248,6.5,1.85
+6,633,Drew Fuller,970,14100,2,English,USA,906,7.4,1.85
+,140,Katherine Kelly Lang,177,5478,0,English,USA,170,3.5,1.78
+12,297,John Carradine,1000,7767,4,English,USA,300,5.7,1.85
+49,261,John Doman,702,3624,1,English,USA,616,6.2,2.35
+38,316,Garry Shandling,745,7833,3,English,USA,591,5.7,2.35
+26,611,Amy Poehler,1000,15200,1,English,USA,1000,6.4,1.85
+162,277,Eddie Izzard,23000,27766,3,English,UK,776,7.0,1.85
+43,0,Jun Kunimura,45,2379,0,Korean,South Korea,5,7.7,2.35
+64,748,Heather Morris,2000,5156,0,English,USA,892,5.4,1.85
+6,6,Chatchai Plengpanich,7,1666,3,Thai,Thailand,6,6.6,1.85
+930,433,Adrienne Barbeau,982,4302,1,English,Italy,602,6.1,1.85
+0,5,Julie Engelbrecht,186,1673,1,French,France,41,6.1,2.35
+608,25,Ruth Sheen,149,8161,0,English,UK,44,7.6,1.85
+3,204,Will Patton,679,1201,3,English,USA,537,6.2,2.35
+11,18,Vince Colosimo,185,813,0,English,Australia,62,6.6,1.85
+8,558,Joshua Mikel,22000,16198,1,English,USA,1000,6.1,2.35
+28,104,Thure Lindhardt,573,14247,1,Danish,Denmark,197,7.3,2.35
+0,230,Kip Pardue,922,2599,4,English,Germany,374,4.2,2.35
+11,35,Warren Clarke,10000,9305,0,English,UK,281,7.1,1.85
+25,98,Ronit Elkabetz,963,1219,1,French,France,168,6.0,2.35
+6,664,Erika Christensen,4000,10100,1,English,USA,931,6.5,2.35
+4,93,Linda Kozlowski,442,74743,1,English,Australia,162,6.5,2.35
+4,151,Steven Waddington,722,4990,0,English,UK,212,5.7,1.85
+3,327,Sarah Polley,1000,9296,2,English,UK,900,6.1,2.35
+8,59,Gyton Grantley,174,5741,12,English,Australia,109,7.1,2.35
+236,68,Maïwenn,580,10796,1,French,France,236,7.3,1.85
+8,896,Fisher Stevens,4000,63216,0,English,USA,922,6.5,2.35
+,265,James Arnold Taylor,668,28190,0,English,USA,296,7.9,2.35
+3,305,Mike Dopud,2000,5228,5,English,Thailand,368,5.7,2.35
+541,673,Jami Gertz,967,92924,3,English,USA,847,7.2,2.35
+108,175,Beth Grant,12000,67760,0,English,USA,628,7.3,2.35
+43,122,Frederic Forrest,563,6142,0,English,USA,236,6.9,1.85
+68,1000,Christina Milian,3000,7098,9,English,USA,1000,5.0,1.85
+35,170,David Hemmings,949,24436,2,English,France,178,5.9,2.35
+8,3,Louisa Milwood-Haigh,35,1984,2,English,Norway,6,6.7,2.35
+729,133,Chris Klein,2000,73640,0,English,USA,841,7.3,2.35
+300,341,Brooke Smith,579,16530,1,English,USA,405,7.6,1.85
+17,429,Romany Malco,35000,51326,4,English,USA,966,6.5,2.35
+170,202,Max Beesley,736,19412,1,English,USA,218,2.1,2.35
+14,559,Cicely Tyson,1000,13167,0,English,USA,907,5.3,2.35
+0,13,Sung-kee Ahn,28,3290,0,Korean,South Korea,15,7.2,2.35
+319,179,Paul Schneider,2000,21360,0,English,UK,552,7.0,1.85
+160,81,Jimmy Shergill,8000,69759,2,Hindi,India,327,8.0,2.35
+71,304,Chris Penn,967,51459,0,English,USA,455,6.5,1.85
+78,,,0,59545,0,English,USA,,6.9,2.35
+407,39,Casey Siemaszko,638,5158,0,English,USA,107,7.1,1.85
+11,119,Clive Standen,3000,13577,2,Hindi,India,687,7.3,
+644,6,Orla Fitzgerald,97,36846,1,English,Ireland,8,7.5,1.85
+0,417,Madhuri Dixit,964,25122,2,Hindi,India,551,6.9,
+80,225,William Zabka,668,126916,0,English,USA,641,7.2,1.85
+54,346,Deborah Kerr,440,9808,0,English,USA,426,7.2,1.37
+163,636,Paris Hilton,2000,20419,1,English,USA,716,6.7,1.85
+11,173,Bergüzar Korel,205,14486,3,Arabic,Turkey,197,6.0,1.85
+16000,857,Eric Stoltz,13000,1324680,1,English,USA,902,8.9,2.35
+21,842,Jim Henson,1000,25498,0,English,UK,985,7.7,1.85
+66,85,Michael Papajohn,15000,293304,1,English,USA,241,7.9,2.35
+422,422,Lindsay Price,861,23823,2,English,USA,499,5.6,2.35
+338,195,Angela Cartwright,354,148172,3,English,USA,209,8.0,2.35
+2000,51,Howard Morris,15000,54723,2,English,USA,161,6.2,1.85
+36,27,Steven Christopher Parker,7000,355810,1,English,USA,150,7.9,2.35
+0,107,Frances Lee McCain,217,271794,2,English,USA,107,8.1,1.85
+0,27,Megan Burns,133,297250,0,English,UK,32,7.6,1.85
+548,360,Marques Houston,389,23671,0,English,USA,363,3.5,1.85
+152,459,Patrick McGoohan,16000,87090,0,English,USA,466,7.6,1.85
+44,458,Sanaa Lathan,1000,5971,1,English,USA,886,6.5,1.85
+0,388,Lynn Whitfield,585,3122,2,English,USA,434,5.6,2.35
+129,3000,Anna Kendrick,23000,270441,2,English,USA,10000,7.7,1.85
+5,297,David Denman,449,26609,1,English,USA,332,5.2,1.85
+0,602,Hal Holbrook,875,29935,0,English,USA,826,6.9,1.85
+19,117,Lola Glaudini,363,76791,3,English,USA,342,6.1,2.35
+2,213,Dabney Coleman,484,3904,1,English,USA,345,5.0,1.85
+2,102,Natalie Stephany Aguilar,861,59,,English,USA,163,7.8,
+0,591,Denzel Washington,18000,37269,0,English,UK,18000,7.4,1.85
+13,244,George Lazenby,803,59941,2,English,UK,314,6.8,2.35
+,460,Philip Winchester,666,5817,2,English,USA,579,7.1,16.0
+0,112,Heather Langenkamp,969,38191,0,English,USA,449,6.4,1.85
+13,292,Mark Webber,452,14904,2,English,USA,442,5.7,1.85
+3,268,Sean Michael Afable,876,15337,0,English,USA,801,7.5,2.35
+33,475,Harland Williams,744,48225,0,English,USA,503,6.7,1.85
+3,631,Frances Conroy,24000,17461,1,English,USA,827,5.6,1.85
+79,414,Amr Waked,13000,109191,0,English,USA,903,7.0,2.35
+126,517,Justin Theroux,23000,357275,1,English,USA,1000,7.6,2.35
+44,596,Zooey Deschanel,15000,37952,3,English,USA,11000,6.5,1.85
+31,50,Richard Howland,539,8616,2,English,Canada,290,7.0,2.35
+78,968,Julie Benz,12000,53251,0,English,USA,3000,6.3,2.35
+133,86,Omar Metwally,471,2311,1,English,USA,277,6.4,1.85
+132,216,Ben Falcone,434,49240,2,English,USA,265,7.1,1.85
+87,424,Dan Byrd,15000,276746,1,English,USA,1000,7.1,1.85
+10,582,Joe Morton,851,1103,0,English,USA,780,6.5,1.85
+54,306,Udo Kier,776,34191,1,English,UK,595,6.9,2.35
+18,741,Thomas McDonell,1000,12702,0,English,USA,962,5.4,1.85
+198,636,Michael Rapaport,1000,6124,2,English,USA,975,4.9,1.85
+15,660,Nia Long,883,2870,2,English,USA,826,5.1,1.85
+26,417,John de Lancie,1000,8546,0,English,USA,905,5.3,2.35
+133,136,Vanessa Redgrave,12000,21254,3,English,UK,898,7.5,2.35
+,648,Joseph Gilgun,3000,22848,0,English,,788,8.3,16.0
+26,0,Tom Noonan,1000,31489,0,English,USA,442,7.3,2.35
+608,386,Imelda Staunton,1000,23629,0,English,UK,579,7.3,2.35
+341,569,Isabelle Huppert,963,23660,1,French,France,678,7.1,1.85
+73,112,Tia Carrere,1000,12561,2,English,USA,1000,6.0,1.85
+71,168,Vince Vieluf,1000,9494,1,English,Germany,261,6.6,1.85
+16,472,Jeremy Davies,943,106098,3,English,USA,769,7.2,1.85
+13,594,Robbie Kay,5000,11158,6,English,UK,629,7.2,2.35
+14,291,Jim Broadbent,14000,3571,2,English,UK,1000,6.9,2.35
+23,200,Laurel Holloman,1000,5673,2,English,USA,273,6.8,1.66
+136,249,Marina Sirtis,977,802,0,English,UK,649,4.0,1.85
+45,4,Mick Lally,61,22811,0,English,France,5,7.7,1.85
+109,7,Karen Pittman,480,99430,1,English,USA,12,7.4,1.85
+12,710,Bruce Dern,2000,16617,2,English,USA,844,6.5,2.35
+30,209,Tony Devon,480,5049,3,English,USA,257,6.4,2.35
+0,844,Hayley Atwell,3000,2098,2,English,UK,2000,7.2,16.0
+200,1000,Robin Wright,21000,7116,2,English,USA,18000,5.6,1.85
+2,227,Catherine McCormack,735,1591,3,English,UK,306,6.3,2.35
+8,33,Henry Czerny,553,25055,1,English,Canada,177,6.8,2.35
+387,399,Eddie Griffin,8000,5159,4,English,USA,489,5.5,2.35
+36,405,Rupert Everett,10000,29994,4,English,UK,692,6.9,2.35
+3,448,Larry Drake,905,26849,0,English,USA,513,6.0,2.35
+,427,Jack O'Connell,27000,6053,2,English,UK,698,7.7,
+53,463,Brad Renfro,954,5557,5,English,USA,551,6.4,2.35
+346,488,Chris Owen,947,9003,0,English,Italy,526,6.6,1.66
+43,47,Zen McGrath,144,2103,1,English,Spain,63,5.3,2.35
+78,4,Takeshi Kusao,6,106160,0,Japanese,Japan,5,8.1,1.85
+17,1000,Olivia Wilde,23000,12078,2,English,USA,10000,5.9,2.35
+2,23,Roy Dupuis,413,4412,0,French,Canada,265,7.7,2.35
+2,600,Josh Henderson,31000,1965,6,English,USA,920,4.6,
+29,11,Ruby Lin,163,322,2,Chinese,China,20,5.1,2.35
+21,112,Ben Miles,186,23023,0,English,UK,119,6.9,2.35
+78,189,Lucy Fry,502,63,0,English,USA,206,8.0,2.35
+341,15,Ludivine Sagnier,844,35065,0,English,France,521,6.8,1.85
+16,376,Mark Wingett,1000,3740,2,English,UK,524,5.4,2.35

@@ -1,432 +1,493 @@
-num_critic_for_reviews,num_user_for_reviews,language
-51,95,English
-38,26,French
-133,150,English
-4,3,English
-287,1624,English
-222,98,English
-6,4,English
-16,37,Hindi
-242,158,French
-147,69,English
-93,96,German
-253,73,English
-224,224,English
-392,1902,English
-39,206,English
-387,881,English
-36,29,English
-120,276,English
-208,2238,English
-51,128,English
-331,494,English
-83,241,English
-324,281,English
-140,369,English
-136,251,English
-79,149,English
-160,168,English
-52,59,English
-490,753,English
-351,526,English
-271,416,English
-93,202,English
-71,92,English
-54,173,English
-112,242,English
-118,258,English
-35,65,English
-342,1100,English
-14,13,English
-137,120,English
-50,105,English
-261,687,English
-96,665,English
-180,89,English
-28,29,English
-750,1498,English
-202,922,English
-8,21,English
-341,324,English
-160,97,English
-31,79,English
-71,37,English
-281,247,English
-114,308,English
-72,100,English
-119,276,English
-74,249,Aboriginal
-25,46,English
-39,75,English
-27,83,English
-27,85,English
-11,160,English
-29,119,Hindi
-158,119,English
-223,126,English
-25,20,English
-97,147,English
-117,106,English
-389,301,English
-9,34,English
-34,12,English
-7,16,English
-161,65,English
-6,26,English
-16,78,French
-301,198,English
-52,72,English
-12,62,English
-134,99,English
-151,66,English
-103,290,English
-39,25,English
-133,25,English
-104,29,English
-121,28,Russian
-27,38,English
-49,50,English
-100,876,English
-12,1,Cantonese
-112,70,English
-10,9,Russian
-2,6,
-38,138,English
-18,42,English
-152,408,English
-44,162,English
-6,6,English
-46,38,English
-63,51,German
-74,129,English
-25,65,English
-224,160,English
-226,156,French
-36,21,Italian
-54,31,English
-142,107,Portuguese
-271,291,English
-33,31,English
-64,183,English
-18,63,English
-6,33,English
-121,201,English
-14,54,English
-137,418,English
-111,166,English
-57,171,English
-97,160,English
-73,84,English
-486,375,English
-149,263,English
-4,21,English
-200,119,English
-84,135,English
-28,35,English
-217,92,English
-12,18,English
-183,143,English
-204,692,English
-153,225,German
-145,75,English
-203,300,English
-10,25,Italian
-93,434,English
-124,350,English
-120,505,English
-288,1416,English
-130,309,English
-145,259,English
-62,283,English
-188,191,English
-120,316,English
-71,250,English
-52,43,English
-18,50,English
-162,1182,English
-88,227,English
-96,258,English
-391,547,English
-32,87,English
-119,340,English
-201,284,English
-22,38,English
-52,32,English
-63,70,English
-97,272,English
-34,73,English
-10,44,English
-88,278,English
-25,52,English
-252,351,English
-137,287,English
-231,136,English
-9,5,English
-115,148,English
-67,182,English
-216,130,English
-133,70,Spanish
-149,101,English
-261,131,English
-42,78,English
-152,520,English
-64,160,English
-76,73,English
-149,93,English
-35,190,English
-47,315,English
-108,231,English
-17,50,English
-12,5,English
-129,190,English
-84,105,English
-61,78,English
-147,287,English
-147,75,English
-23,50,English
-75,111,English
-17,16,English
-16,29,English
-60,36,French
-63,50,English
-56,22,English
-36,29,English
-47,34,English
-38,44,English
-26,37,English
-47,29,English
-68,133,English
-19,38,English
-39,17,English
-162,86,English
-37,19,English
-26,39,English
-10,50,English
-179,228,English
-88,149,French
-43,21,English
-136,302,English
-111,37,Dutch
-13,11,English
-64,124,English
-6,8,English
-112,214,Thai
-12,21,English
-15,42,English
-161,438,English
-68,81,English
-25,36,English
-23,31,Hindi
-222,148,Spanish
-9,6,English
-119,252,English
-90,213,English
-62,202,English
-71,104,English
-364,314,English
-72,169,English
-122,488,English
-100,144,English
-24,44,English
-112,110,French
-67,67,English
-91,153,English
-103,418,English
-27,69,English
-205,41,French
-192,664,French
-72,12,Japanese
-33,321,Hindi
-22,8,English
-48,31,English
-65,117,English
-29,47,English
-284,121,Norwegian
-187,70,English
-47,52,English
-88,14,English
-41,249,English
-24,27,Hindi
-318,269,English
-250,864,English
-411,440,English
-106,327,English
-159,95,English
-251,314,English
-183,159,English
-131,311,English
-297,279,English
-41,81,Spanish
-248,247,English
-42,69,English
-33,73,English
-91,252,English
-185,533,English
-69,108,English
-220,155,English
-117,356,English
-471,340,English
-152,126,English
-274,2067,English
-336,339,English
-174,472,English
-151,433,English
-276,216,English
-12,11,English
-18,56,English
-28,18,English
-95,157,English
-74,161,English
-179,115,English
-125,49,English
-22,26,English
-92,153,English
-196,211,English
-9,33,Spanish
-31,209,English
-309,195,English
-15,67,English
-36,107,English
-129,291,English
-168,756,English
-444,561,English
-123,335,English
-173,385,Spanish
-246,859,English
-74,113,English
-68,173,English
-144,374,English
-96,125,English
-42,87,English
-29,65,English
-228,323,English
-195,134,English
-203,214,English
-44,87,English
-14,33,English
-59,53,English
-45,21,English
-42,46,English
-12,9,English
-29,65,English
-121,324,English
-135,166,French
-27,90,English
-56,131,English
-22,80,English
-59,198,English
-61,202,English
-60,79,English
-164,565,English
-81,165,English
-415,485,English
-43,41,English
-7,4,English
-120,196,English
-195,89,French
-109,89,English
-21,32,English
-93,265,English
-12,29,English
-155,86,English
-81,151,English
-204,458,English
-19,39,English
-163,99,English
-248,144,English
-39,158,English
-322,125,English
-50,56,English
-12,56,English
-83,184,English
-37,69,English
-16,25,Hindi
-121,22,English
-24,27,English
-324,200,English
-27,15,English
-9,23,English
-31,28,English
-35,66,English
-371,455,English
-133,108,English
-13,44,English
-9,47,English
-56,55,English
-191,48,Spanish
-80,82,English
-19,80,English
-19,47,English
-,2,English
-38,127,English
-44,60,English
-3,1,English
-6,15,English
-,3,English
-64,47,English
-8,3,English
-64,153,English
-2,2,English
-,,English
-35,4,English
-21,14,English
-99,27,Czech
-115,26,German
-104,309,English
-195,112,English
-303,1516,English
-122,123,English
-359,219,English
-130,69,English
-64,70,English
-13,11,English
-159,258,English
-54,106,English
-440,475,English
-7,6,French
-4,12,English
-1,1,Kannada
-96,182,English
-8,8,English
-87,21,French
-10,3,English
-121,65,English
-43,22,English
-45,133,English
-36,140,English
-84,197,English
-118,228,English
-42,115,English
-202,454,English
-5,27,English
-120,208,English
-234,1916,English
-17,55,English
-35,40,Spanish
-48,89,English
-49,125,English
-283,2110,English
-16,14,Spanish
-54,68,Dutch
-92,199,English
-159,37,English
-202,131,Korean
-50,17,French
-54,84,English
-98,26,Cantonese
-92,40,English
-112,206,Russian
-138,137,English
-9,7,Hindi
-149,760,English
-5,4,English
-39,61,
-39,178,Hindi
-2,74,English
-29,32,English
-111,99,English
-149,346,English
-90,25,Swedish
-149,346,English
-12,49,Hindi
-64,62,German
+num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,facenumber_in_poster,language,movie_facebook_likes
+295,122,446,600,Logan Lerman,1,English,0
+222,115,118,482,Dougray Scott,0,English,38000
+158,123,0,23,Albert Brooks,1,English,0
+72,96,0,302,Janeane Garofalo,1,English,0
+34,110,375,59,Gulshan Grover,0,Hindi,522
+72,105,631,327,Warren Beatty,1,English,2000
+152,113,323,835,Faye Dunaway,0,English,0
+89,132,545,807,Adam Garcia,1,English,0
+145,93,270,535,Brian Dennehy,1,English,0
+144,115,0,12,Anatoliy Solonitsyn,0,Russian,0
+93,75,0,677,George Carlin,3,English,261
+46,108,350,77,Bronagh Gallagher,1,English,616
+84,105,29,692,Christopher Masterson,1,English,0
+142,102,148,135,Rainn Wilson,4,English,881
+185,118,22000,319,Maura Tierney,0,English,0
+143,111,906,906,Alfre Woodard,2,English,3000
+178,81,39,364,Billy Blair,1,English,0
+65,116,380,826,Matt Damon,1,English,975
+73,86,293,255,Swoosie Kurtz,1,English,0
+72,127,65,345,Amy Ryan,1,English,0
+10,140,92,522,Ben Gazzara,1,English,115
+35,91,32,628,Elizabeth Perkins,2,English,0
+358,98,118,558,Luke Grimes,0,English,63000
+151,84,119,750,Pamela Anderson,7,English,0
+140,109,80,213,Wendy Raquel Robinson,1,English,0
+201,93,40,311,Brendan Fraser,0,English,0
+77,113,0,995,Raven-Symoné,2,English,1000
+43,141,79,956,Julia Roberts,0,English,0
+39,119,541,551,Anthony LaPaglia,3,English,1000
+207,97,0,760,Noel Gugliemi,1,English,22000
+47,117,176,308,Polly Walker,1,English,0
+132,101,126,586,Jane Fonda,0,English,0
+454,153,777,1000,Jake Gyllenhaal,2,English,86000
+109,122,845,854,Snoop Dogg,2,English,0
+213,102,23,436,Enrico Colantoni,3,English,19000
+127,83,322,179,Veronica Cartwright,7,English,0
+398,103,33,84,Eric Jacobson,3,English,26000
+184,110,45,595,Traci Lords,1,English,0
+127,136,49,730,Rick Gonzalez,0,English,0
+167,91,50,67,Matt Malloy,0,English,0
+119,89,49,514,Eric Stoltz,0,English,0
+155,107,18,560,Tyra Banks,5,English,0
+218,129,628,548,Liam Neeson,9,English,52000
+117,95,487,1000,Madeline Kahn,0,English,0
+208,122,117,140,Jason Flemyng,1,English,0
+38,110,49,20,Rod Steiger,2,English,0
+48,135,41,808,Cheech Marin,0,English,1000
+8,111,5,559,Tom Bosley,0,English,0
+94,95,58,3000,Will Ferrell,1,English,743
+276,109,37,651,Kelly Macdonald,0,English,10000
+59,93,38,631,Nick Zano,1,English,531
+216,94,85,443,Mike Epps,1,English,0
+173,117,153,734,Adam Sandler,0,English,12000
+99,112,61,501,Alicia Witt,1,English,0
+42,111,161,132,Glenn Morshower,1,English,0
+25,96,0,563,Vincent Kartheiser,1,English,0
+339,141,0,404,Shea Whigham,4,English,28000
+127,94,160,167,Valerie Cruz,1,English,2000
+122,87,29,252,Natalie Imbruglia,1,English,2000
+105,88,8,8000,Meryl Streep,1,English,593
+144,177,0,202,Jürgen Prochnow,3,English,11000
+156,133,278,107,T.V. Carpio,0,English,14000
+323,119,0,10000,Kate Winslet,0,English,0
+199,102,503,795,David Zayas,2,English,0
+164,101,326,510,Charlotte Rampling,0,English,0
+39,91,29,322,Bob Gunton,1,English,451
+43,117,11000,451,Brian Doyle-Murray,0,English,0
+82,86,13,553,Carter Jenkins,3,English,916
+150,124,0,19,Adrien Dorval,0,English,0
+168,134,38,2000,Will Ferrell,3,English,0
+432,95,38,20,Jason Cope,0,English,46000
+60,100,23,579,Treat Williams,0,English,0
+85,220,0,820,Henry Thomas,2,English,652
+83,212,0,805,Bob Hoskins,0,English,915
+343,128,2000,501,Olivia Williams,2,English,15000
+106,106,208,855,Jason Flemyng,0,English,0
+158,160,0,826,Omari Hardwick,0,English,0
+189,114,611,10,Ye Liu,2,Mandarin,0
+125,99,15,61,Charlie Yeung,1,English,0
+87,74,188,865,Janeane Garofalo,2,English,892
+115,139,179,50,Giovanna Mezzogiorno,0,English,0
+23,52,,114,Clotilde Hesme,9,French,17000
+24,103,170,269,Ben Gazzara,2,English,68
+152,101,32,104,Tim McInnerny,1,English,17000
+12,91,11,500,Larry Miller,0,English,0
+656,130,0,650,Scoot McNairy,1,English,89000
+119,130,99,812,Daniel Roebuck,1,English,0
+161,110,72,789,Dorian Missick,1,English,0
+73,147,272,893,Brad Pitt,3,English,0
+96,96,170,668,Julia Nickson,0,English,0
+28,118,13,643,Demi Moore,1,English,353
+105,88,3,40,Dickie Jones,0,English,0
+102,325,517,678,Sam Waterston,0,English,1000
+206,102,235,520,Tony Curran,1,English,0
+159,110,118,287,Spencer Wilding,2,English,11000
+137,136,835,225,Rob Brown,1,English,0
+116,103,84,664,Viggo Mortensen,1,English,0
+177,103,255,5000,Jet Li,1,English,0
+99,90,16,16,Lillian Adams,3,English,0
+56,154,521,957,Holly Hunter,0,English,0
+117,99,23,135,Charlie Tahan,1,English,0
+252,93,165,350,Tony Goldwyn,0,English,16000
+375,109,97,839,Dax Flame,2,English,39000
+150,124,50,427,Clarke Peters,1,English,11000
+187,84,91,206,Miranda Richardson,0,English,0
+108,90,29,650,Masi Oka,1,English,0
+21,117,71,547,Eartha Kitt,1,English,0
+270,123,176,749,William Xifaras,7,English,24000
+72,251,311,595,Richard Burton,2,English,0
+154,105,153,491,Reggie Lee,2,English,17000
+114,115,73,505,Adam Scott,1,English,893
+27,122,0,292,Austin Pendleton,0,English,0
+166,119,89,395,Will Patton,0,English,0
+288,81,119,412,Elton John,1,English,0
+117,133,46,275,Talisa Soto,0,English,0
+291,100,308,913,Billy Burke,2,English,20000
+151,120,17,808,Charlize Theron,1,English,748
+36,104,5,687,Fisher Stevens,0,English,0
+168,122,487,16,Jeremy Crutchley,2,English,10000
+283,80,611,576,Tony Chiu Wai Leung,4,Mandarin,0
+127,91,30,497,Debbie Reynolds,1,English,19000
+293,112,133,365,Randall Park,4,English,50000
+95,100,19,433,Dong-gun Jang,1,English,0
+4,30,,253,Gavin MacLeod,1,English,455
+213,105,0,52,Dany Boon,4,French,0
+119,110,161,196,Omar Benson Miller,0,English,0
+9,101,326,6,Youssef Hajdi,0,French,161
+167,144,241,996,Rufus Sewell,1,English,0
+98,108,4,96,Lee Evans,1,English,505
+234,107,0,766,Haley Joel Osment,0,English,14000
+258,102,20,54,Mandy Gonzalez,6,English,11000
+108,100,64,296,Kevin Pollak,0,English,11000
+81,126,80,225,William Zabka,0,English,0
+538,138,737,14000,Christian Bale,5,English,63000
+224,108,98,723,Denis O'Hare,1,English,10000
+129,105,78,298,Annabeth Gish,0,English,0
+125,108,0,690,Jeffrey Weissman,0,English,12000
+433,89,0,903,Morgan Freeman,0,English,83000
+362,129,456,716,Luke Grimes,0,English,101000
+93,84,0,2000,Salma Hayek,3,English,681
+71,149,541,1000,Matthew McConaughey,3,English,0
+104,94,189,597,Alyson Stoner,15,English,0
+319,121,532,127,Scott Elrod,0,English,58000
+41,128,545,251,Lori Petty,3,English,0
+300,134,0,336,Frances O'Connor,0,English,40000
+556,120,21000,81,Dustin Fitzsimons,0,English,74000
+161,129,42,49,Sabrina Revelle,7,English,12000
+151,89,119,807,Carmen Electra,8,English,1000
+212,116,0,71,Roger Jackson,4,English,0
+111,118,0,690,Jeffrey Weissman,0,English,0
+173,107,164,723,Alison Brie,2,English,14000
+181,155,0,10000,Anthony Hopkins,0,English,14000
+252,123,0,923,Mary Lynn Rajskub,2,English,13000
+216,128,241,898,Christopher Meloni,0,English,28000
+203,139,333,1000,Matt Damon,1,English,0
+218,109,101,839,Kathleen Turner,1,English,55000
+118,120,155,249,Bruce Greenwood,1,English,11000
+241,121,278,808,Anne Hathaway,2,English,54000
+119,102,167,655,Nadine Velazquez,0,English,0
+89,117,0,322,Terry Kinney,1,English,0
+209,178,138,748,Curtis Armstrong,0,English,0
+374,147,436,175,Powers Boothe,1,English,13000
+235,90,38,882,Edgar Ramírez,4,English,0
+215,105,29,257,Jon Favreau,2,English,0
+109,114,101,398,Bruce McGill,2,English,0
+125,206,0,4,Jay O. Sanders,1,English,0
+65,99,14,633,Nia Long,0,English,663
+125,123,563,8000,Brad Pitt,0,English,2000
+322,137,11000,465,Jack O'Connell,0,English,35000
+191,102,23,651,Hunter Parrish,1,English,0
+191,109,415,119,Kate Upton,2,English,16000
+221,82,160,748,Andrew Fiscella,0,English,0
+459,142,14000,423,Mark Rylance,0,English,55000
+131,106,212,389,David Keith,2,English,0
+222,114,89,177,Mario Lopez,2,English,12000
+118,106,23,418,Nick Cannon,2,English,0
+100,108,287,823,Denis Leary,0,English,0
+70,98,20,968,Frank Welker,0,English,0
+138,131,58,720,James Frain,1,English,0
+274,118,65,638,Margarita Levieva,1,English,25000
+349,113,174,767,Frank Langella,3,English,29000
+341,130,22000,19000,Hugh Jackman,1,English,49000
+196,116,51,465,Christoph Waltz,7,English,12000
+83,89,7,91,Paul Scheer,2,English,0
+283,139,0,19,Dalia Hernández,0,Maya,14000
+105,130,46,162,Desmond Llewelyn,1,English,0
+351,107,190,520,Alice Braga,0,English,17000
+16,116,425,204,Debra Winger,3,English,263
+195,96,192,501,Charles S. Dutton,1,English,0
+175,99,18,211,Dylan Walsh,0,English,0
+193,104,34,280,Deneen Tyler,0,English,0
+169,105,54,988,Odeya Rush,0,English,11000
+128,101,10,681,Beau Garrett,2,English,3000
+249,134,16000,235,Steve Schirripa,1,English,16000
+91,135,0,913,Dean Stockwell,1,English,0
+207,98,326,416,Charles S. Dutton,1,English,0
+77,155,14000,11000,Morgan Freeman,2,English,0
+25,106,323,0,José Wilker,2,English,694
+211,102,25,473,Johnny Lewis,0,English,0
+19,95,80,287,John Larroquette,1,English,0
+101,103,643,586,Sam Trammell,2,English,0
+175,95,30,664,Scott Porter,4,English,0
+342,109,99,57,Nelson Ascencio,0,English,42000
+147,95,98,78,Tom Virtue,1,English,0
+420,111,0,687,Aimee Teegarden,0,English,26000
+138,123,541,173,Chris Bauer,1,English,0
+82,140,0,552,Kevin Dillon,1,English,0
+201,94,52,214,Randall Park,2,English,0
+82,94,0,235,Celia Weston,3,English,390
+277,92,77,495,Jacqueline MacInnes Wood,0,English,20000
+90,102,6,584,Burt Young,1,English,445
+157,123,75,754,Haley Joel Osment,2,English,16000
+124,104,101,223,KaDee Strickland,1,English,0
+3,30,,12,Melissa Altro,0,English,301
+146,102,65,490,Shaun Weiss,1,English,702
+303,136,3000,3000,Charlize Theron,3,English,24000
+70,93,85,510,Peter Boyle,0,English,0
+283,129,335,64,Thomas Horn,1,English,39000
+212,107,50,58,Patti D'Arbanville,0,English,0
+98,117,260,441,Bill Duke,0,English,0
+110,116,18,249,Cary-Hiroyuki Tagawa,0,English,470
+146,135,0,715,David Fine,1,English,3000
+100,107,55,294,Jimmy Smits,0,English,394
+62,90,39,210,Valerie Perri,2,English,279
+70,99,287,44,Temuera Morrison,2,English,0
+107,104,0,327,Justin Chambers,0,English,299
+169,115,56,19000,Scarlett Johansson,3,English,0
+94,119,7,903,Charlize Theron,1,English,8000
+190,99,81,135,Andrea Frankle,0,English,0
+112,112,17000,354,David Carradine,0,English,0
+12,128,545,353,Cliff Robertson,1,English,680
+201,112,118,674,Callum Blue,0,English,15000
+34,86,7,795,Jaleel White,0,English,0
+104,108,105,616,James Franco,1,English,416
+55,128,34,685,Nathan Lane,1,English,0
+86,84,33,1000,Jay Hernandez,0,English,0
+50,111,17,889,Martin Landau,2,English,309
+181,131,719,683,Elizabeth Berkley,0,English,0
+260,123,0,826,Shirley Henderson,1,English,0
+40,101,58,497,Michael Rapaport,3,English,555
+102,102,19,351,Miranda Richardson,1,English,604
+371,114,171,284,Geraldine Chaplin,0,English,54000
+49,107,124,572,Warren Beatty,2,English,754
+335,87,0,563,Meryl Streep,0,English,15000
+86,103,65,311,Stockard Channing,2,English,835
+40,99,0,402,Michael McKean,2,English,630
+242,122,0,54,Jamel Debbouze,0,French,39000
+70,91,29,762,Bob Saget,1,English,849
+135,103,14,624,Nia Long,4,English,0
+125,107,42,171,Tim Blake Nelson,3,English,0
+54,106,22,613,Treat Williams,1,English,579
+104,101,37,595,Jeffrey Combs,1,English,612
+157,109,80,835,Salma Hayek,3,English,0
+159,110,118,287,Spencer Wilding,2,English,11000
+78,89,0,500,Amber Valletta,0,English,0
+88,100,92,706,Sean Hayes,2,English,866
+32,119,5,249,Jason Robards,0,English,328
+75,83,7,485,Daniel von Bargen,0,English,401
+219,108,22,61,Dennis Quaid,0,English,10000
+83,102,39,259,Mekhi Phifer,4,English,892
+53,93,18,443,Bridgette Wilson-Sampras,0,English,158
+61,84,8,219,Matt Ross,3,English,565
+308,107,0,167,Benedict Wong,0,English,15000
+70,91,48,39,Lou Saliba,8,English,0
+41,94,0,379,Anne Bancroft,1,English,211
+224,115,180,87,Mark Rylance,0,English,0
+66,93,13,173,Sophie Okonedo,3,English,823
+253,105,154,502,Aaron Yoo,0,English,0
+79,107,34,472,Fisher Stevens,1,English,12000
+94,101,47,2,Zan Marolt,2,English,0
+77,111,0,385,Bill Cobbs,2,English,0
+106,113,31,483,Takeshi Kaneshiro,2,Mandarin,0
+30,112,44,533,Kuno Becker,0,Kazakh,265
+488,126,584,398,Ewen Bremner,5,English,58000
+63,90,10,541,Bob Balaban,0,French,0
+42,93,23,596,Glenn Morshower,10,English,89
+118,98,295,380,Bai Ling,0,English,15000
+44,159,50,72,Anushka Shetty,1,Telugu,21000
+214,107,124,100,Brooklynn Proulx,1,English,13000
+110,102,36,433,Stephen Collins,1,English,0
+187,106,357,4000,Vin Diesel,2,English,14000
+370,87,13000,787,Catherine O'Hara,0,English,25000
+276,119,0,279,Sean Maher,0,English,14000
+76,110,534,511,Charles S. Dutton,2,English,177
+95,125,44,420,Robert Vaughn,1,English,0
+211,113,88,785,Sylvester Stallone,1,English,12000
+160,150,610,478,Tony Chiu Wai Leung,4,Mandarin,0
+97,108,72,559,Mary Lynn Rajskub,1,English,0
+174,96,126,954,John Michael Higgins,2,English,9000
+23,93,36,275,Phil Hartman,2,English,478
+103,100,0,1000,Alexa PenaVega,1,English,478
+98,118,18,906,Alan Ruck,0,English,0
+273,122,0,7,Hye-kyo Song,1,Mandarin,13000
+279,120,508,1000,Christoph Waltz,1,English,33000
+22,60,,501,Wayne Knight,4,English,0
+4,88,0,46,Bianca Collins,0,English,0
+65,146,278,494,Vincent Pastore,0,English,0
+98,115,150,789,Jeff Kober,1,English,0
+116,123,7,692,Anne Bancroft,3,English,989
+76,94,99,377,Daniella Alonso,1,English,8000
+106,102,43,280,Shirley Knight,0,English,689
+55,98,11,466,Ken Marino,1,English,168
+172,133,2000,541,Frank Langella,1,English,0
+47,118,150,182,Paul Guilfoyle,0,English,352
+107,105,65,108,Dagmara Dominczyk,0,English,0
+323,109,304,736,Gabourey Sidibe,0,English,12000
+37,129,0,982,Jason Marsden,4,English,911
+297,109,0,145,Richard Masur,0,English,23000
+302,127,123,904,Nolan Gerard Funk,0,English,39000
+38,118,11,12,Claudia Stedelin,1,English,389
+31,110,49,427,Usher Raymond,2,English,474
+118,90,27,260,Toby Jones,0,English,0
+546,144,0,15,Jeffrey W. Jenkins,31,English,27000
+21,97,2,217,Ryan Cartwright,2,English,366
+86,130,39,534,Nicole Beharie,0,English,0
+194,112,5,724,Maggie Siff,0,English,14000
+437,133,0,531,Phylicia Rashad,1,English,70000
+378,150,0,206,Jon Hamm,7,English,29000
+170,110,52,651,Dennis Quaid,12,English,14000
+341,96,1000,681,Brad Pitt,0,English,0
+139,96,3,35,Anthony Simcoe,3,English,0
+393,123,2000,471,Olivia Wilde,0,English,83000
+224,188,0,272,Neil Flynn,1,English,13000
+203,107,0,574,Tracy Morgan,2,English,0
+148,110,11,591,Damon Wayans Jr.,4,English,15000
+131,113,188,631,Michael Roark,5,English,0
+350,122,308,10000,Taylor Lautner,1,English,19000
+129,116,415,644,Laura Harring,1,English,0
+40,93,10,405,Dave Chappelle,1,English,0
+289,118,43,651,Molly C. Quinn,4,English,35000
+14,115,35,30,Fedor Bondarchuk,0,Russian,240
+72,93,84,263,M.C. Gainey,0,English,0
+89,121,883,133,Klaus Maria Brandauer,3,English,0
+265,101,38,318,Collette Wolfe,8,English,12000
+54,107,188,631,Taylor Blackwell,0,English,0
+126,124,287,475,James Frain,0,English,852
+110,109,473,582,Jeff Kober,0,English,0
+138,105,488,13000,Bradley Cooper,1,English,11000
+31,130,0,723,Virginia Madsen,0,English,591
+95,127,96,577,Reeve Carney,1,English,846
+267,114,101,2000,Colin O'Donoghue,1,English,23000
+175,106,487,263,Xander Berkeley,2,English,17000
+63,95,31,450,Nathan Lane,0,English,133
+85,81,16,387,Kenan Thompson,0,English,279
+44,95,0,642,Dylan Baker,1,English,638
+334,108,480,706,Rob Riggle,3,English,24000
+78,105,25,51,Lynn Hung,0,Cantonese,12000
+199,95,116,481,Verne Troyer,1,English,0
+186,126,13000,488,Jack Palance,0,English,12000
+77,102,596,785,Dougray Scott,0,English,2000
+68,121,503,94,Nick Chinlund,2,English,0
+261,129,102,624,Quinton Aaron,0,English,38000
+5,43,,452,Aimee Garcia,2,English,0
+122,88,0,640,Cheech Marin,0,English,0
+340,106,91,64,Lindsay Sloane,5,English,31000
+493,110,1000,538,Jeff Bridges,0,English,36000
+208,109,64,505,Anne Hathaway,0,English,0
+134,143,338,643,Nichelle Nichols,2,English,0
+275,120,91,680,Eric Stonestreet,2,English,17000
+120,128,17000,387,Robert Mitchum,0,English,0
+144,123,126,1000,Jim Sturgess,2,English,0
+332,129,0,213,Randall Park,1,English,25000
+104,105,8,278,Nicole Sullivan,2,English,919
+116,162,333,362,Kristin Scott Thomas,0,English,0
+177,138,161,210,Matt McCoy,2,English,11000
+127,100,31,591,Kelly Preston,3,English,0
+83,90,0,945,Wilford Brimley,0,English,0
+97,108,79,25,Marg Helgenberger,0,English,0
+256,101,0,574,Lin Shaye,1,English,10000
+225,109,763,311,Jake Weber,1,English,0
+83,132,130,80,Anne Parillaud,1,English,0
+160,123,130,426,Kevin Connolly,0,English,0
+191,87,14,691,Sarah Michelle Gellar,0,English,0
+74,109,19,568,Riley Smith,1,English,0
+238,109,87,923,Justin Timberlake,2,English,41000
+177,92,89,190,Ike Barinholtz,0,English,0
+405,125,102,825,Ruth Wilson,2,English,39000
+61,202,0,318,Delroy Lindo,0,English,0
+285,134,0,120,Maude Apatow,2,English,18000
+124,88,12,931,Bernie Mac,2,English,0
+164,92,148,227,Kevin Grevioux,1,English,0
+120,91,42,766,Christine Taylor,3,English,913
+90,75,221,553,Jon Heder,2,English,0
+120,98,30,664,Victor Webster,2,English,0
+117,147,179,646,Al Pacino,2,English,0
+226,100,545,766,Jaymes Butler,0,English,0
+223,120,365,723,Zelda Rubinstein,0,English,11000
+193,104,1000,939,Tom Hanks,1,English,0
+228,103,212,248,Beau Bridges,1,English,0
+360,109,487,3000,Olivia Wilde,2,English,52000
+148,104,16,584,Noureen DeWulf,0,English,0
+128,112,42,196,Steve Howey,4,English,13000
+3,60,,628,Kimberly Elise,4,English,265
+46,95,19,447,Marsha Thomason,1,English,0
+40,102,23,57,Vic Morrow,1,English,0
+63,102,133,690,Raul Julia,1,English,0
+193,150,2000,95,Frank Finlay,0,English,21000
+208,122,117,140,Jason Flemyng,1,English,0
+122,101,308,206,Hiam Abbass,0,English,0
+228,108,174,324,Paris Hilton,0,English,0
+212,98,0,23,Julia Roberts,2,English,12000
+392,137,16000,363,Naomi Watts,0,English,16000
+208,112,192,844,Cameron Boyce,0,English,5000
+137,101,48,531,Lena Olin,2,English,0
+119,103,81,636,Robert Davi,0,English,0
+195,101,40,398,Jesse Tyler Ferguson,1,English,0
+95,112,37,480,Sissy Spacek,0,English,0
+100,111,24,455,William Hootkins,1,English,12000
+164,102,0,769,Mike Starr,5,English,0
+211,101,357,374,Chad Lindberg,0,English,11000
+91,155,16000,229,Bob Gunton,2,English,0
+44,93,8,558,Joshua Mikel,1,English,0
+97,109,24,167,Bill Bailey,5,English,0
+32,140,0,210,J.T. Walsh,2,English,949
+270,108,251,296,Callum Rennie,0,English,0
+89,96,13,973,Steve Coogan,1,English,0
+219,123,15,745,Eddie Marsan,0,English,23000
+180,106,309,63,Benjamin J. Cain Jr.,1,English,13000
+93,76,2,72,Olivia Williams,0,English,538
+173,107,161,549,Rip Torn,5,English,0
+121,82,82,418,Tracy Morgan,6,English,0
+298,109,90,344,James Ransone,3,English,0
+158,99,0,520,Portia de Rossi,0,English,0
+248,91,192,346,Dania Ramirez,0,English,20000
+155,87,98,253,Richard T. Jones,2,English,0
+105,125,159,39,Lucy Gordon,2,English,0
+224,118,138,458,Clifton Collins Jr.,0,English,17000
+129,98,12,663,Jon Favreau,1,English,0
+101,92,16,734,Brooke Shields,1,English,0
+145,93,0,174,Cariba Heine,1,English,0
+57,116,170,136,Alun Armstrong,1,English,0
+227,92,0,10000,Tom Cruise,3,English,0
+13,115,468,150,Dann Florek,3,English,452
+171,120,52,134,Nat Faxon,1,English,0
+119,111,529,505,Scott Glenn,3,English,0
+44,94,10,141,Ronny Cox,2,English,433
+188,100,212,919,Jim Broadbent,1,English,0
+166,101,57,230,Bashar Rahal,1,English,0
+584,139,0,687,Tye Sheridan,0,English,39000
+67,91,85,105,Lela Rochon,0,English,471
+233,109,453,120,Martin Donovan,3,English,10000
+112,102,241,127,Mark Addy,1,English,704
+151,103,189,766,Wayne Knight,1,English,0
+63,83,12,690,Rip Torn,5,English,494
+335,123,0,6,Soleyman Pierini,0,English,24000
+24,101,31,448,Lee Arenberg,0,English,0
+147,117,0,567,Albert Finney,1,English,9000
+51,60,,256,Indira Varma,1,English,20000
+10,114,503,697,Thomas Ian Nicholas,3,English,892
+12,330,138,672,Jesse Borrego,2,English,6000
+50,121,55,918,Tom Wilkinson,1,English,561
+149,114,0,115,Gregg Henry,1,English,675
+24,156,278,249,Rod Steiger,0,English,0
+28,135,22,45,François Cluzet,1,French,262
+95,148,0,0,Jeffrey Dover,0,English,633
+288,148,0,7,Hanaa Bouchaib,0,Spanish,29000
+10,109,596,282,Alice Englert,3,English,677
+58,93,18,324,Sam Shepard,2,English,0
+,,194,816,Aisha Tyler,0,English,26
+297,113,47,129,Aml Ameen,0,English,38000
+90,91,31,141,June Diane Raphael,2,English,0
+56,139,17000,94,Geraldine Chaplin,3,English,0
+274,96,0,1000,Ellen Burstyn,0,English,23000
+68,102,3,239,Kevin J. O'Connor,0,English,120
+98,96,165,566,Mark Valley,1,English,0
+256,101,6000,2,Yûki Amami,0,Japanese,0
+117,128,88,954,Melissa Benoist,0,English,23000
+107,109,7,1000,Charlize Theron,0,English,1000
+52,114,46,292,Eva Marie Saint,1,English,314
+135,105,125,2000,Dennis Quaid,5,English,0
+211,141,56,38,Fana Mokoena,1,English,13000
+57,195,631,521,Warren Beatty,0,English,0
+81,138,0,574,Demi Moore,0,English,0
+107,101,43,655,Bill Duke,0,English,742
+100,99,67,330,Cedric the Entertainer,1,English,1000
+60,85,0,11,Brianne Brozey,0,English,0
+195,89,21,48,Veronika Vernadskaya,0,English,0
+121,99,35,433,Stephen Boss,0,English,19000
+285,105,160,491,Kenan Thompson,0,English,4000
+103,97,10,178,Joseph Sikora,0,English,463
+192,140,36,336,Marco St. John,1,English,4000
+90,118,41,577,Kuno Becker,0,English,0
+258,94,132,317,Reggie Lee,2,English,12000
+56,124,179,551,Kurt Fuller,3,English,783
+197,134,37,504,Ian McDiarmid,0,English,14000
+254,113,197,43,Jason Cope,1,English,0
+299,124,335,50,David Kross,0,English,15000
+163,98,136,833,Lauren Ambrose,2,English,0
+152,97,4000,8000,Zooey Deschanel,1,English,21000
+53,123,226,796,Kyra Sedgwick,1,English,0
+67,99,32,521,Nichelle Nichols,1,English,0
+88,101,503,1000,Alfre Woodard,1,English,11000

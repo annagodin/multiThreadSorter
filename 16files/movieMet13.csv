@@ -1,315 +1,488 @@
-movie_title,cast_total_facebook_likes,actor_3_name,budget,aspect_ratio
-2001: A Space Odyssey ,727,Glenn Beck,12000000,2.2
-E.T. the Extra-Terrestrial ,2811,Peter Coyote,10500000,1.85
-In the Land of Women ,20312,Dustin Milligan,10000000,2.35
-The Blue Butterfly ,1554,Raoul Max Trujillo,12500000,1.85
-There Goes My Baby ,2272,Seymour Cassel,10500000,
-Lovesick             ,592,Hannah Britland,,
-Housefull ,1121,Riteish Deshmukh,,
-September Dawn ,1526,Trent Ford,11000000,1.85
-For Greater Glory: The True Story of Cristiada ,1807,Catalina Sandino Moreno,10818775,2.35
-La Famille Bélier ,175,François Damiens,11000000,1.85
-Good Will Hunting ,63710,Minnie Driver,10000000,1.85
-Misconduct ,27660,Glen Powell,11000000,2.35
-Saw III ,3189,Leigh Whannell,10000000,1.85
-Stripes ,27378,Judge Reinhold,10000000,1.85
-Bring It On ,5270,Clare Kramer,10000000,1.85
-The Purge: Election Year ,2480,Mykelti Williamson,10000000,2.35
-She's All That ,28734,Kieran Culkin,10000000,1.85
-Precious ,3276,Mariah Carey,10000000,1.85
-Saw IV ,3492,Angus Macfadyen,10000000,1.85
-White Noise ,2013,Mike Dopud,10000000,2.35
-Madea's Family Reunion ,5264,Blair Underwood,6000000,1.85
-The Color of Money ,11895,Mary Elizabeth Mastrantonio,13800000,1.85
-The Longest Day ,1554,Eddie Albert,10000000,2.35
-The Mighty Ducks ,3362,Elden Henson,10000000,1.85
-The Grudge ,7461,Ted Raimi,10000000,1.85
-Happy Gilmore ,13162,Frances Bay,12000000,1.85
-Jeepers Creepers ,1982,Jonathan Breck,10000000,1.85
-Bill & Ted's Excellent Adventure ,20795,Al Leong,10000000,2.35
-Oliver! ,1593,Jack Wild,10000000,2.35
-The Best Exotic Marigold Hotel ,1898,Celia Imrie,10000000,2.35
-Recess: School's Out ,2197,Dabney Coleman,23000000,1.85
-Mad Max Beyond Thunderdome ,1529,Angelo Rossitto,12305523,2.35
-Commando ,3192,Rae Dawn Chong,10000000,1.85
-The Boy ,4687,Stephanie Lemelin,10000000,2.35
-Devil ,5628,Geoffrey Arend,10000000,2.35
-Friday After Next ,3712,Katt Williams,20000000,1.85
-Insidious: Chapter 3 ,2426,Leigh Whannell,10000000,2.35
-The Last Dragon ,3394,Keshia Knight Pulliam,10000000,1.85
-Snatch ,39175,Jason Flemyng,6000000,1.85
-The Lawnmower Man ,1109,Troy Evans,10000000,1.85
-Nick and Norah's Infinite Playlist ,2807,Aaron Yoo,9000000,1.85
-Dogma ,16693,George Carlin,10000000,2.35
-The Banger Sisters ,1917,Sal Lopez,10000000,2.35
-Twilight Zone: The Movie ,1954,Vic Morrow,10000000,1.85
-Road House ,2484,Kelly Lynch,17000000,2.35
-A Low Down Dirty Shame ,3190,Charles S. Dutton,10000000,1.85
-Swimfan ,3819,Jason Ritter,8500000,2.35
-Employee of the Month ,4441,Jessica Simpson,12000000,1.85
-Can't Hardly Wait ,4259,Charlie Korsmo,10000000,1.85
-The Outsiders ,12097,Tom Waits,10000000,2.35
-Pete's Dragon ,3691,Isiah Whitlock Jr.,65000000,2.35
-The Dead Zone ,2013,Anthony Zerbe,10000000,1.85
-Sinister 2 ,2403,Jaden Klein,10000000,2.35
-Sparkle ,5804,Mike Epps,17000000,2.35
-Valentine ,2402,Johnny Whitworth,10000000,2.35
-The Fourth Kind ,15251,Hakeem Kae-Kazim,10000000,2.35
-A Prairie Home Companion ,12946,Lily Tomlin,10000000,2.35
-Sugar Hill ,2149,Steve Harris,10000000,1.85
-Invasion U.S.A. ,857,Eddie Jones,10000000,1.85
-Roll Bounce ,7552,Shad Moss,,2.35
-Rushmore ,15716,Olivia Williams,9000000,2.35
-Skyline ,3679,Brittany Daniel,10000000,2.35
-The Second Best Exotic Marigold Hotel ,583,Ronald Pickup,10000000,2.35
-Kit Kittredge: An American Girl ,3317,Willow Smith,10000000,1.85
-The Perfect Man ,4789,Vanessa Lengies,25000000,1.85
-Mo' Better Blues ,19065,Charlie Murphy,10000000,1.85
-Kung Pow: Enter the Fist ,361,Jennifer Tung,10000000,2.35
-Tremors ,3119,Michael Gross,11000000,1.85
-Wrong Turn ,3416,Julian Richings,12600000,1.85
-The Long Riders ,6296,Randy Quaid,10000000,1.85
-The Corruptor ,571,Kim Chan,30000000,2.35
-Mud ,13960,Sam Shepard,10000000,2.35
-Reno 911!: Miami ,2737,Carlos Alazraqui,10000000,1.85
-One Direction: This Is Us ,2787,Niall Horan,10000000,1.85
-The Goods: Live Hard, Sell Hard ,3973,Charles Napier,,1.85
-Hey Arnold! The Movie ,3752,Paul Sorvino,3000000,1.85
-My Week with Marilyn ,17204,Julia Ormond,6400000,2.35
-The Matador ,4053,Hope Davis,10000000,2.35
-Love Jones ,3871,Larenz Tate,10000000,1.85
-The Gift ,3215,Wendell Pierce,5000000,2.35
-End of the Spear ,1058,Jack Guzman,10000000,2.35
-Get Over It ,22485,Carmen Electra,22000000,2.35
-Office Space ,3462,Diedrich Bader,10000000,1.85
-Drop Dead Gorgeous ,6388,Ellen Barkin,10000000,1.85
-Big Eyes ,12418,Jon Polito,10000000,1.85
-Very Bad Things ,6046,Jeanne Tripplehorn,10000000,1.85
-Sleepover ,13626,Hunter Parrish,10000000,1.85
-Body Double ,1856,Gregg Henry,10000000,1.85
-MacGruber ,2618,Powers Boothe,10000000,2.35
-Dirty Pretty Things ,1334,Sergi López,10000000,1.85
-Movie 43 ,41059,Seth MacFarlane,6000000,1.85
-The Tourist ,55175,Rufus Sewell,100000000,2.35
-Over Her Dead Body ,3651,Wendi McLendon-Covey,10000000,2.35
-Seeking a Friend for the End of the World ,7747,Rob Huebel,10000000,2.35
-Cedar Rapids ,4769,Alia Shawkat,,1.85
-Bones             ,2198,Tamara Taylor,,1.78
-American History X ,3858,Stacy Keach,7500000,1.85
-The Collection ,3818,Lee Tergesen,10000000,2.35
-Teacher's Pet ,5139,Jerry Stiller,10000000,1.85
-The Red Violin ,29,Carlo Cecchi,10000000,1.85
-The Straight Story ,1351,Everett McGill,10000000,2.35
-Deuces Wild ,26961,Frankie Muniz,10000000,2.35
-Bad Words ,2061,Patricia Belcher,10000000,2.35
-Run, Fatboy, Run ,1022,India de Beaufort,,2.35
-Heartbeeps ,2791,Christopher Guest,10000000,2.35
-Black or White ,3745,Jillian Estell,9000000,2.35
-On the Line ,2446,Dave Foley,16000000,1.85
-Rescue Dawn ,24270,François Chau,10000000,1.85
-Danny Collins ,18712,Melissa Benoist,10000000,
-Jeff, Who Lives at Home ,3374,Rae Dawn Chong,10000000,1.85
-I Am Love ,474,Alba Rohrwacher,10000000,1.85
-Atlas Shrugged II: The Strike ,5262,Esai Morales,10000000,2.35
-Romeo Is Bleeding ,13160,Lena Olin,11500000,1.85
-The Limey ,1335,William Lucking,9000000,1.85
-Crash ,5732,Jennifer Esposito,6500000,2.35
-The House of Mirth ,2735,Elizabeth McGovern,10000000,2.35
-Malone ,1891,Dennis Burkley,10000000,1.85
-Peaceful Warrior ,2673,Agnes Bruckner,10000000,2.35
-Bucky Larson: Born to Be a Star ,2603,Nicholas Turturro,10000000,1.85
-Bamboozled ,4266,Jada Pinkett Smith,10000000,1.85
-The Forest ,578,Gen Seto,10000000,1.85
-Sphinx ,2079,John Gielgud,14000000,2.35
-While We're Young ,6322,Dree Hemingway,10000000,1.85
-A Better Life ,2214,Robert Peters,10000000,1.85
-Spider ,1381,Lynn Redgrave,8000000,1.78
-Gun Shy ,17665,Mitch Pileggi,10000000,1.85
-Nicholas Nickleby ,29177,Jim Broadbent,10000000,2.35
-The Iceman ,23187,Robert Davi,10000000,1.85
-Dekalog             ,25,Olgierd Lukaszewicz,,1.33
-Krrish ,616,Sharat Saxena,10000000,2.35
-Cecil B. DeMented ,3059,Kevin Nealon,10000000,1.85
-Killer Joe ,11853,Carol Sutton,11000000,1.85
-The Joneses ,4607,Robert Pralgo,5000000,2.35
-Owning Mahowny ,23513,Maury Chaykin,10000000,2.35
-The Brothers Solomon ,3307,Will Forte,10000000,1.85
-My Blueberry Nights ,20364,Adriane Lenox,10000000,2.35
-Illuminata ,1585,George DiCenzo,,1.85
-Swept Away ,2006,David Thornton,10000000,1.85
-War, Inc. ,988,Ned Bellamy,10000000,1.78
-Shaolin Soccer ,700,Kwok-Kwan Chan,10000000,1.85
-The Brown Bunny ,883,Anna Vareschi,10000000,1.66
-The Swindle ,1256,Michel Serrault,60000000,1.66
-Rosewater ,1283,Haluk Bilginer,5000000,1.85
-The Chambermaid on the Titanic ,1019,Romane Bohringer,,2.35
-Coriolanus ,18652,Lubna Azabal,,2.35
-Imaginary Heroes ,768,Larry Fessenden,4000000,2.35
-High Heels and Low Lifes ,3049,Mary McCormack,10000000,1.85
-World's Greatest Dad ,50542,Henry Simmons,,1.85
-Severance ,2217,Laura Harris,5000000,1.85
-Edmond ,5761,Jeffrey Combs,10000000,1.85
-Welcome to the Rileys ,18236,Kerry Cahill,,1.85
-Police Academy: Mission to Moscow ,17469,G.W. Bailey,6200000,1.85
-Blood Done Sign My Name ,4579,Lee Norris,,2.35
-Cinco de Mayo, La Batalla ,221,William Miller,10000000,
-Elsa & Fred ,3465,James Brolin,10000000,2.35
-An Alan Smithee Film: Burn Hollywood Burn ,2655,Ryan O'Neal,10000000,1.85
-The Open Road ,16118,Ted Danson,10000000,2.35
-The Good Guy ,3124,Aaron Yoo,8000000,1.85
-Motherhood ,3146,Anthony Edwards,5000000,1.85
-Free Style ,2519,Sandra Echeverría,,1.85
-Strangerland ,285,Sean Keenan,10000000,2.39
-The Janky Promoters ,1936,Glenn Plummer,,1.85
-Blonde Ambition ,4725,Larry Miller,10000000,1.85
-The Oxford Murders ,940,Danny Sapani,10000000,2.35
-The Reef ,375,Adrienne Pickering,,2.35
-Eulogy ,14656,Kelly Preston,6500000,1.85
-White Noise 2: The Light ,934,Adrian Holmes,10000000,2.35
-You Got Served: Beat the World ,964,Chase Armitage,10000000,2.35
-Fifty Dead Men Walking ,7637,Michael McElhatton,6000000,2.35
-Jungle Shuffle ,2259,Amanda Troop,10000000,
-Adam Resurrected ,31325,Derek Jacobi,10000000,2.35
-Of Horses and Men ,81,Sigríður María Egilsdóttir,10000000,2.35
-It's a Wonderful Afterlife ,2227,Shabana Azmi,10000000,2.35
-The Devil's Tomb ,3937,Jason London,10000000,1.85
-Partition ,428,John Light,10000000,2.35
-Good Intentions ,2739,Jon Gries,10000000,
-The Good, the Bad, the Weird ,569,Dal-su Oh,10000000,2.35
-Nurse 3D ,4686,Kathleen Turner,10000000,2.35
-Gunless ,2876,Dustin Milligan,10000000,2.35
-Adventureland ,18983,Wendie Malick,,1.85
-The Lost City ,1674,Enrique Murciano,9600000,1.85
-Next Friday ,3939,Rolando Molina,9500000,1.85
-American Heist ,9432,Akon,10000000,
-You Only Live Twice ,2127,Desmond Llewelyn,9500000,2.35
-Plastic ,35634,Malese Jow,10000000,
-Amour ,1557,Jean-Louis Trintignant,8900000,1.85
-Poltergeist III ,3827,Zelda Rubinstein,10500000,1.85
-Re-Kill ,1702,Jesse Garcia,9500000,1.78
-It's a Mad, Mad, Mad, Mad World ,4109,Spencer Tracy,9400000,2.76
-Volver ,448,Antonio de la Torre,,2.35
-Heavy Metal ,646,Don Francks,9300000,1.37
-Gentlemen Broncos ,34398,Héctor Jiménez,,
-Richard III ,23962,Kristin Scott Thomas,6000000,2.35
-Into the Grizzly Maze ,1586,Luisa D'Oliveira,10000000,1.85
-Kites ,1836,Kabir Bedi,600000000,
-Melancholia ,15835,Charlotte Rampling,7400000,2.35
-Red Dog ,1248,Luke Ford,8500000,2.35
-Jab Tak Hai Jaan ,13762,Vic Waghorn,7217600,2.35
-Alien ,2524,Bolaji Badejo,11000000,2.35
-The Texas Chain Saw Massacre ,1094,Marilyn Burns,83532,1.85
-The Runaways ,21711,Johnny Lewis,10000000,2.35
-Fiddler on the Roof ,934,Rosalind Harris,9000000,2.35
-Thunderball ,1164,Lois Maxwell,9000000,2.35
-Detention ,15014,Parker Bagley,10000000,2.35
-Loose Cannons ,662,Lunetta Savino,,2.35
-Set It Off ,3661,Blair Underwood,9000000,2.35
-The Best Man ,5420,Jarrod Bunch,9000000,1.85
-Child's Play ,760,Dinah Manoff,9000000,1.85
-Sicko ,1633,Bill Clinton,9000000,1.85
-The Purge: Anarchy ,6807,Roberta Valderrama,9000000,2.35
-Down to You ,4409,Shawn Hatosy,9000000,1.85
-Harold & Kumar Go to White Castle ,3114,Paula Garcés,9000000,1.85
-The Contender ,25660,William Petersen,20000000,1.85
-Boiler Room ,17336,Herbert Russell,8000000,1.85
-Trading Places ,845,Ralph Bellamy,,1.85
-Black Christmas ,1611,Andrea Martin,9000000,2.35
-Breakin' All the Rules ,1345,Patrick Cranshaw,,2.35
-Henry V ,1341,Danny Webb,9000000,1.85
-The Savages ,23770,Gbenga Akinnagbe,,1.85
-Chasing Papi ,2851,Maria Conchita Alonso,,1.85
-The Way of the Gun ,358,Dylan Kussman,8500000,1.85
-Igby Goes Down ,2478,Bill Irwin,9000000,2.35
-PCU ,4908,Chris Young,8000000,1.85
-The Ultimate Gift ,3824,Mircea Monroe,,1.85
-The Bold and the Beautiful             ,639,Hunter Tylo,,1.78
-The Ice Pirates ,1991,Robert Urich,9000000,1.85
-Gracie ,2007,Carly Schroeder,9000000,2.35
-Trust the Man ,1721,Dagmara Dominczyk,9000000,2.35
-Hamlet 2 ,3767,David Arquette,9000000,1.85
-Velvet Goldmine ,24102,Janet McTeer,,1.85
-The Wailing ,50,Woo-hee Chun,,2.35
-Glee: The 3D Concert Movie ,4617,Kevin McHale,9000000,1.85
-The Legend of Suriyothai ,32,Mai Charoenpura,400000000,1.85
-Two Evil Eyes ,2942,Sally Kirkland,9000000,1.85
-Barbecue ,253,Lionel Abelanski,,2.35
-All or Nothing ,251,Gary McDonald,9000000,1.85
-Princess Kaiulani ,1426,Shaun Evans,9000000,2.35
-Opal Dream ,299,Peter Callan,11400000,1.85
-Heist ,24154,D.B. Sweeney,19000000,2.35
-Flame and Citron ,1098,Christian Berkel,45000000,2.35
-Undiscovered ,1835,Perrey Reeves,9000000,2.35
-Red Riding: In the Year of Our Lord 1974 ,10369,John Henshaw,,1.85
-The Girl on the Train ,1375,Émilie Dequenne,,2.35
-Veronika Decides to Die ,6426,Jonathan Tucker,9000000,2.35
-Crocodile Dundee ,822,David Gulpilil,8800000,2.35
-Ultramarines: A Warhammer 40,000 Movie ,1254,Donald Sumpter,,1.85
-The I Inside ,2310,Stephen Rea,8800000,2.35
-Beneath Hill 60 ,498,Steve Le Marquand,9000000,2.35
-Polisse ,1129,Karin Viard,,1.85
-Awake ,6954,Denis O'Hare,8600000,2.35
-Star Wars: The Clone Wars             ,1484,Tom Kane,,2.35
-Skin Trade ,2802,Celina Jade,9000000,2.35
-The Lost Boys ,4458,Jason Patric,,2.35
-Crazy Heart ,13172,Debrianna Mansini,7000000,2.35
-The Rose ,1097,Alan Bates,8500000,1.85
-Baggage Claim ,8097,Boris Kodjoe,8500000,1.85
-Barbarella ,1510,Milo O'Shea,9000000,2.35
-Shipwrecked ,47,Stian Smestad,60000000,2.35
-Election ,3516,Molly Hagan,8000000,2.35
-The Namesake ,1637,Tabu,,1.85
-The DUFF ,36892,Skyler Samuels,8500000,2.35
-Glitter ,1854,Valarie Pettiford,22000000,2.35
-The Haunting in Connecticut 2: Ghosts of Georgia ,3164,Brad James,9000000,2.35
-Silmido ,97,Kyung-gu Sol,8000000,2.35
-Bright Star ,3279,Samuel Roukin,8500000,1.85
-My Name Is Khan ,8532,Christopher B. Duncan,12000000,2.35
-Footloose ,1962,Lori Singer,8200000,1.85
-All Is Lost ,0,,9000000,2.35
-Limbo ,823,Vanessa Martinez,8000000,1.85
-Namastey London ,4004,Riteish Deshmukh,,
-The Wind That Shakes the Barley ,128,Martin Lucey,,1.85
-Yeh Jawaani Hai Deewani ,2350,Aditya Roy Kapoor,,
-The Karate Kid ,2004,William Bassett,8000000,1.85
-Quo Vadis ,1373,Robert Taylor,7623000,1.37
-Repo! The Genetic Opera ,4168,Paul Sorvino,8500000,1.85
-Valley of the Wolves: Iraq ,808,Ghassan Massoud,8300000,1.85
-Pulp Fiction ,16557,Phil LaMarr,8000000,2.35
-The Muppet Movie ,5673,Dom DeLuise,,1.85
-Nightcrawler ,15554,James Huang,8500000,2.35
-Club Dread ,3306,Jay Chandrasekhar,8550000,2.35
-The Sound of Music ,1495,Nicholas Hammond,8200000,2.35
-Splash ,15361,Patrick Cronin,8000000,1.85
-Little Miss Sunshine ,7227,Jill Talley,8000000,2.35
-Stand by Me ,644,Casey Siemaszko,8000000,1.85
-28 Days Later... ,241,David Schneider,8000000,1.85
-You Got Served ,1792,Steve Harvey,8000000,1.85
-Escape from Alcatraz ,17568,Fred Ward,8000000,1.85
-Brown Sugar ,3199,Wendell Pierce,8000000,1.85
-A Thin Line Between Love and Hate ,3023,Della Reese,8000000,2.35
-50/50 ,39807,Bryce Dallas Howard,8000000,1.85
-Shutter ,1534,Daisy Betts,8000000,1.85
-Creepshow ,2662,Adrienne Barbeau,8000000,1.85
-That Awkward Moment ,1024,Josh Pais,8000000,2.35
-Modern Problems ,1455,Mary Kay Place,8000000,1.85
-Kicks ,1279,Justin Hall,,
-Much Ado About Nothing ,37645,Brian Blessed,8000000,1.85
-On Her Majesty's Secret Service ,1769,Desmond Llewelyn,7000000,2.35
-The Player             ,4043,Jeff Marlow,,16.0
-New Nightmare ,1775,Tracy Middendorf,8000000,1.85
-Drive Me Crazy ,1760,Keri Lynn Pratt,8000000,1.85
-Akeelah and the Bee ,2832,Tzi Ma,,2.35
-Half Baked ,2400,Clarence Williams III,8000000,1.85
-New in Town ,25792,Harry Connick Jr.,8000000,1.85
-Syriana ,14747,Kayvan Novak,50000000,2.35
-American Psycho ,25462,Samantha Mathis,7000000,2.35
-The Good Girl ,27646,Tim Blake Nelson,5000000,1.85
-Bon Cop Bad Cop ,895,Sarain Boylan,8000000,2.35
-The Boondock Saints II: All Saints Day ,17524,Clifton Collins Jr.,8000000,2.35
-The City of Your Final Destination ,858,Diego Velazquez,8300000,1.85
-Enough Said ,1183,Michaela Watkins,8000000,1.85
-Easy A ,16982,Fred Armisen,8000000,1.85
-The Inkwell ,3293,Larenz Tate,,1.85
-Shadow of the Vampire ,1761,Catherine McCormack,8000000,2.35
-Prom ,5190,Aimee Teegarden,8000000,1.85
+director_name,num_critic_for_reviews,duration,actor_3_facebook_likes,actor_1_facebook_likes,gross,movie_title,language,budget,actor_2_facebook_likes,imdb_score,aspect_ratio
+Joe Carnahan,127,105,147,673,10460089,Narc ,English,7500000,466,7.2,1.85
+Paul Gross,9,102,280,611,4239767,Men with Brooms ,English,7500000,329,6.0,1.85
+Charles Robert Carner,35,97,742,834,4131640,Witless Protection ,English,7500000,749,3.1,1.85
+Russell Holt,6,118,249,373,3347439,The Work and the Glory ,English,7500000,266,6.9,
+Mike Judge,192,92,968,24000,10814185,Extract ,English,8000000,15000,6.2,1.85
+Larry Charles,51,112,844,12000,533344,Masked and Anonymous ,English,,844,5.5,1.85
+Claude Miller,38,103,59,71,206400,Alias Betty ,French,50000000,59,6.9,
+Michael Winterbottom,133,93,158,631,197148,Code 46 ,English,7500000,163,6.3,2.35
+Sacha Bennett,4,101,447,5000,,Outside Bet ,English,7500000,659,4.8,
+Paul Haggis,287,115,911,3000,54557348,Crash ,English,6500000,912,7.9,2.35
+Rodrigo García,222,113,373,3000,3014541,Albert Nobbs ,English,8000000,415,6.7,2.35
+Jeta Amata,6,95,36,262,,Black November ,English,7500000,65,5.6,
+Siddharth Anand,16,153,60,532,872643,Ta Ra Rum Pum ,Hindi,6000000,249,5.4,
+Vincent Paronnaud,242,89,106,963,4443403,Persepolis ,French,7300000,545,8.0,1.85
+Joe Dante,147,92,664,844,,The Hole ,English,12000000,708,5.7,1.85
+Dennis Gansel,93,107,93,287,,The Wave ,German,5000000,150,7.6,2.35
+Nicolas Winding Refn,253,118,500,18000,1330827,The Neon Demon ,English,7000000,860,7.0,2.35
+Daniel Barber,224,97,641,788,1818681,Harry Brown ,English,7300000,698,7.2,2.35
+Sam Raimi,392,156,4000,24000,336530303,Spider-Man 3 ,English,258000000,11000,6.2,2.35
+Robert Marcarelli,39,100,440,488,12610552,The Omega Code ,English,7500000,488,3.5,1.37
+Jason Reitman,387,96,973,24000,143492840,Juno ,English,7500000,3000,7.5,1.85
+Ernie Barbarash,36,104,96,294,,Pound of Flesh ,English,7500000,284,5.1,1.85
+Guy Hamilton,120,120,175,244,43800000,Diamonds Are Forever ,English,7200000,177,6.7,2.35
+Francis Ford Coppola,208,175,3000,14000,134821952,The Godfather ,English,6000000,10000,9.2,1.85
+Adrian Lyne,51,95,92,225,94900000,Flashdance ,English,4000000,174,6.1,1.85
+Marc Webb,331,95,11000,23000,32391374,500 Days of Summer ,English,7500000,17000,7.7,2.35
+Jane Campion,83,121,11,1000,40158000,The Piano ,English,7000000,18,7.6,1.85
+Steven Soderbergh,324,110,11000,17000,113709992,Magic Mike ,English,7000000,15000,6.1,2.35
+Jonathan Liebesman,140,96,82,1000,32131483,Darkness Falls ,English,11000000,970,4.9,2.35
+Guy Hamilton,136,121,189,581,35400000,Live and Let Die ,English,7000000,547,6.8,1.66
+Jay Russell,79,95,430,1000,34099640,My Dog Skip ,English,5000000,934,7.0,1.37
+Adam Brooks,160,112,61,16000,31973840,"Definitely, Maybe ",English,,109,7.2,2.35
+Salim Akil,52,112,826,1000,37295394,Jumping the Broom ,English,6600000,912,5.7,1.85
+Baz Luhrmann,490,143,76,29000,144812796,The Great Gatsby ,English,105000000,509,7.3,2.35
+George Clooney,351,93,566,21000,31501218,"Good Night, and Good Luck. ",English,7500000,650,7.5,1.85
+Bennett Miller,271,110,27,22000,28747570,Capote ,English,7000000,68,7.4,2.35
+Robert Rodriguez,93,104,4000,16000,25625110,Desperado ,English,7000000,12000,7.2,1.85
+Michael Winterbottom,71,115,887,14000,403932,The Claim ,English,20000000,900,6.5,2.35
+,54,53,1000,4000,,Fargo             ,English,,1000,9.0,1.78
+Michael Anderson,112,119,440,1000,25000000,Logan's Run ,English,9000000,659,6.8,2.35
+Guy Hamilton,118,125,244,16000,21000000,The Man with the Golden Gun ,English,13000000,387,6.8,1.66
+Craig R. Baxley,35,96,794,1000,20257000,Action Jackson ,English,7000000,841,5.2,1.85
+Neil Marshall,342,100,159,513,26005908,The Descent ,English,3500000,239,7.2,2.35
+Don Kempf,14,46,69,13000,18642318,Michael Jordan to the Max ,English,,366,7.5,1.44
+Matt Bettinelli-Olpin,137,89,270,971,15818967,Devil's Due ,English,7000000,479,4.0,1.85
+David O. Russell,50,92,380,718,14891000,Flirting with Disaster ,English,7000000,524,6.8,1.85
+Rob Zombie,261,109,597,1000,16901126,The Devil's Rejects ,English,7000000,649,6.9,1.85
+,96,44,970,4000,,Buffy the Vampire Slayer             ,English,2300000,3000,8.2,1.33
+Rick Famuyiwa,180,103,190,637,17474107,Dope ,English,7000000,256,7.3,2.35
+Michael Rymer,28,95,826,1000,14003141,In Too Deep ,English,7000000,865,6.1,2.35
+Sam Mendes,750,143,393,883,304360277,Skyfall ,English,200000000,563,7.8,2.35
+Rob Zombie,202,105,303,1000,12583510,House of 1000 Corpses ,English,7000000,340,6.0,1.85
+Sharron Miller,8,79,23,246,,Alien Zone ,English,350000,29,4.1,
+Ethan Coen,341,106,98,816,9190525,A Serious Man ,English,7000000,105,7.0,1.85
+Aaron Schneider,160,100,970,13000,9176553,Get Low ,English,7500000,3000,7.1,2.35
+Steve Miner,31,103,304,687,9094451,Warlock ,English,7000000,554,6.2,1.85
+Gina Prince-Bythewood,71,116,658,893,14612840,Beyond the Lights ,English,7000000,664,6.9,
+Tom Ford,281,99,292,14000,9166863,A Single Man ,English,7000000,343,7.6,2.35
+Martin Scorsese,114,164,159,883,8373585,The Last Temptation of Christ ,English,7000000,618,7.6,1.85
+Michael Corrente,72,96,407,761,7292175,Outside Providence ,English,7000000,412,6.4,1.85
+Gurinder Chadha,119,122,397,729,6601079,Bride & Prejudice ,English,7000000,579,6.2,2.35
+Phillip Noyce,74,94,46,116,6165429,Rabbit-Proof Fence ,Aboriginal,6000000,93,7.5,2.35
+Don Michael Paul,25,93,442,692,5694308,Who's Your Caddy? ,English,7000000,585,2.0,1.85
+Tony Maylam,39,96,38,206,5430822,Split Second ,English,7000000,192,6.2,1.85
+,27,60,346,787,,Nikita             ,English,,485,7.7,16.0
+Mitch Davis,27,113,35,11000,4720371,The Other Side of Heaven ,English,7000000,43,6.5,1.85
+,11,60,652,10000,,Dark Angel             ,English,,794,7.4,1.33
+Yash Chopra,29,192,397,8000,2921738,Veer-Zaara ,Hindi,7000000,860,7.9,2.35
+David Mamet,158,99,501,1000,2344847,Redbelt ,English,7000000,518,6.8,2.35
+Jay Duplass,223,91,224,490,7455447,Cyrus ,English,7000000,259,6.3,1.85
+Kevin Brodie,25,100,359,655,2148212,A Dog of Flanders ,English,7000000,476,6.3,1.85
+Paul Schrader,97,105,617,783,2062066,Auto Focus ,English,7000000,658,6.6,1.85
+George Hickenlooper,117,99,628,4000,1654367,Factory Girl ,English,7000000,787,6.4,1.85
+Lynne Ramsay,389,112,77,3000,1738692,We Need to Talk About Kevin ,English,7000000,294,7.5,2.35
+John Stephenson,9,100,149,2000,2209479,The Christmas Candle ,English,,627,5.8,
+Tim Chambers,34,99,455,1000,1889522,The Mighty Macs ,English,7000000,690,6.5,2.35
+Curtis Hanson,7,100,172,10000,,Losin' It ,English,7000000,422,4.8,
+Rodrigo García,161,125,798,6000,1110286,Mother and Child ,English,4825000,941,7.2,2.35
+Dick Richards,6,107,375,963,1000000,March or Die ,English,9000000,750,6.3,1.85
+Jean-Marie Poiré,16,107,39,106,700000,Les visiteurs ,French,50000000,54,7.0,2.35
+Sofia Coppola,301,97,106,227,1768416,Somewhere ,English,7000000,218,6.3,1.85
+Bob Gosse,52,105,184,756,1425993,I Hope They Serve Beer in Hell ,English,,216,5.3,2.35
+Alex Zamm,12,95,611,1000,306715,Chairman of the Board ,English,10000000,788,2.3,1.85
+Spencer Susser,134,106,973,23000,382946,Hesher ,English,7000000,20000,7.1,2.35
+Richard Shepard,151,93,13,554,518134,Dom Hemingway ,English,,524,6.2,2.35
+Gus Van Sant,103,103,,13000,236266,Gerry ,English,3500000,0,6.2,2.35
+Thaddeus O'Sullivan,39,96,52,766,196067,The Heart of Me ,English,7000000,358,6.7,1.85
+Peter Sollett,133,103,935,7000,532988,Freeheld ,English,7000000,1000,6.5,1.85
+Shari Springer Berman,104,108,281,474,453079,The Extra Man ,English,7000000,403,5.9,2.35
+Aleksey German,121,177,0,4,,Hard to Be a God ,Russian,7000000,4,6.7,1.66
+Stephen Milburn Anderson,27,118,410,26000,46451,Ca$h ,English,7000000,854,6.0,1.85
+Richard E. Grant,49,97,530,876,233103,Wah-Wah ,English,7000000,838,6.9,2.35
+Troy Duffy,100,102,184,12000,,The Boondock Saints ,English,7000000,333,7.9,2.35
+David Lam,12,92,4,91,,Z Storm ,Cantonese,7000000,82,5.3,2.35
+Francis Ford Coppola,112,88,507,1000,,Twixt ,English,7000000,844,4.8,1.85
+Vladlen Barbe,10,80,26,99,,Snow Queen ,Russian,7000000,62,5.3,
+Richard Rich,2,45,29,122,,Alpha and Omega 4: The Legend of the Saw Toothed Cave ,,7000000,35,6.0,
+Clint Eastwood,38,115,240,16000,41400000,Pale Rider ,English,6900000,455,7.3,2.35
+Robert C. Cooper,18,97,687,878,,Stargate: The Ark of Truth ,English,,847,7.4,1.78
+Richard Linklater,152,102,787,14000,7993039,Dazed and Confused ,English,6900000,1000,7.7,1.85
+Kenny Ortega,44,111,578,755,,High School Musical 2 ,English,7000000,632,4.8,1.78
+Kim Nguyen,6,96,63,149,,Two Lovers and a Bear ,English,8700000,147,7.2,2.35
+Jackie Earle Haley,46,94,493,15000,,Criminal Activities ,English,7000000,725,5.8,2.35
+Max Färberböck,63,125,36,177,927107,Aimee & Jaguar ,German,15000000,66,7.3,1.85
+Arie Posin,74,108,436,710,49526,The Chumscrubber ,English,6800000,697,7.0,2.35
+Damian Nieman,25,101,83,240,10696,Shade ,English,6800000,83,6.4,2.35
+Mark Tonderai,224,101,261,34000,31607598,House at the End of the Street ,English,6900000,924,5.6,2.35
+Denis Villeneuve,226,139,58,131,6857096,Incendies ,French,6800000,66,8.2,1.85
+Gabriele Muccino,36,125,11,60,223878,"Remember Me, My Love ",Italian,5000000,29,6.5,2.35
+Ian Fitzgibbon,54,88,415,1000,828,Perrier's Bounty ,English,,418,6.4,2.35
+José Padilha,142,115,15,585,8060,Elite Squad ,Portuguese,4000000,39,8.1,1.85
+John R. Leonetti,271,99,300,1000,84263837,Annabelle ,English,6500000,421,5.4,2.35
+Rachel Perkins,33,88,38,46,110029,Bran Nue Dae ,English,6500000,46,6.3,2.35
+John Singleton,64,112,15,27,57504069,Boyz n the Hood ,English,6000000,26,7.8,1.85
+Luis Valdez,18,108,51,699,54215416,La Bamba ,English,6500000,63,6.8,1.85
+Alan Alda,6,107,146,804,,The Four Seasons ,English,,167,7.2,1.85
+Brian De Palma,121,104,517,754,31899000,Dressed to Kill ,English,6500000,567,7.1,2.35
+Stephen Sommers,14,108,689,876,24103594,The Adventures of Huck Finn ,English,6500000,827,6.2,1.85
+Doug Liman,137,102,376,900,16842303,Go ,English,6500000,563,7.3,2.35
+Nicole Holofcener,111,88,180,435,13367101,Friends with Money ,English,6500000,230,5.9,2.35
+Robert Wise,57,115,45,116,,The Andromeda Strain ,English,6500000,112,7.2,2.35
+Louis Morneau,97,91,91,730,10149779,Bats ,English,6500000,461,3.6,2.35
+Caroline Link,73,141,8,56,6173485,Nowhere in Africa ,English,7000000,36,7.7,2.35
+Steve McQueen,486,101,726,13000,4000304,Shame ,English,6500000,898,7.3,2.35
+Matthew Vaughn,149,105,466,27000,2338695,Layer Cake ,English,4000000,594,7.4,2.35
+Sterling Van Wagenen,4,100,266,1000,2024854,The Work and the Glory II: American Zion ,English,6500000,373,6.6,2.35
+Zal Batmanglij,200,116,782,10000,2268296,The East ,English,6500000,918,6.9,2.35
+Michael Mayer,84,97,874,18000,1029017,A Home at the End of the World ,English,6500000,986,6.8,2.35
+Hans Petter Moland,28,106,0,844,64148,Aberdeen ,English,6500000,2,7.3,1.85
+Oren Moverman,217,105,706,12000,66637,The Messenger ,English,6500000,712,7.2,2.35
+Ian Sharp,12,102,368,1000,,Tracker ,English,6500000,433,6.5,2.35
+Anton Corbijn,183,122,471,845,871577,Control ,English,4500000,631,7.7,2.35
+James Cameron,204,107,255,2000,38400000,The Terminator ,English,6500000,663,8.1,1.85
+Wolfgang Becker,153,121,43,65,4063859,Good Bye Lenin! ,German,4800000,51,7.7,1.85
+Tom Hooper,145,98,27,1000,449558,The Damned United ,English,10000000,54,7.6,1.85
+Dan O'Bannon,203,108,358,431,,The Return of the Living Dead ,English,4000000,426,7.3,1.85
+,10,55,5,18,,Gomorrah             ,Italian,,9,8.7,1.85
+Kevin Smith,93,123,781,1000,2122561,Mallrats ,English,6000000,898,7.2,1.85
+Randal Kleiser,124,110,898,1000,181360000,Grease ,English,6000000,944,7.2,2.35
+Oliver Stone,120,120,576,40000,137963328,Platoon ,English,6000000,854,8.1,1.85
+Michael Moore,288,122,282,503,119078393,Fahrenheit 9/11 ,English,6000000,328,7.5,1.85
+George Roy Hill,130,110,399,640,102308900,Butch Cassidy and the Sundance Kid ,English,6000000,566,8.1,2.35
+Robert Stevenson,145,139,266,382,102300000,Mary Poppins ,English,6000000,279,7.8,1.66
+Robert Redford,62,124,535,2000,54800000,Ordinary People ,English,6000000,553,7.8,1.85
+Frank Coraci,188,120,447,1000,24004159,Around the World in 80 Days ,English,110000000,1000,5.8,2.35
+Jerome Robbins,120,152,249,804,43650000,West Side Story ,English,6000000,271,7.6,2.2
+Harold Ramis,71,98,484,13000,39800000,Caddyshack ,English,6000000,573,7.4,1.85
+Gary Hardwick,52,106,578,3000,27457409,The Brothers ,English,6000000,685,6.3,1.85
+Rick Famuyiwa,18,106,328,865,25047631,The Wood ,English,6000000,405,6.9,1.85
+Bryan Singer,162,106,574,18000,23272306,The Usual Suspects ,English,6000000,979,8.6,2.35
+Stephen Hopkins,88,89,92,321,22168359,A Nightmare on Elm Street 5: The Dream Child ,English,8000000,101,5.1,1.85
+Walt Becker,96,94,583,16000,21005329,Van Wilder: Party Liaison ,English,6000000,876,6.4,1.85
+Darren Aronofsky,391,109,120,1000,26236603,The Wrestler ,English,6000000,245,7.9,2.35
+King Vidor,32,144,332,469,20400000,Duel in the Sun ,English,8000000,436,6.9,1.37
+Christopher Guest,119,90,658,957,18621249,Best in Show ,English,6000000,925,7.5,1.85
+John Carpenter,201,106,381,742,25244700,Escape from New York ,English,6000000,602,7.2,2.35
+Spike Lee,22,121,182,413,14545844,School Daze ,English,6500000,282,5.8,1.85
+Fred Savage,52,89,405,555,13235267,Daddy Day Camp ,English,6000000,484,2.9,1.85
+Sammo Kam-Bo Hung,63,86,64,472,12674183,Mr. Nice Guy ,English,,155,6.2,2.35
+Christopher Guest,97,91,345,658,17508936,A Mighty Wind ,English,,378,7.3,1.85
+Donald Petrie,34,104,658,8000,12793213,Mystic Pizza ,English,6000000,960,6.2,1.85
+,10,,502,1000,,War & Peace             ,English,,888,8.2,16.0
+Peter Howitt,88,99,161,711,11883495,Sliding Doors ,English,9000000,427,6.8,1.85
+Rusty Cundieff,25,98,360,1000,11797927,Tales from the Hood ,English,6000000,475,6.1,1.85
+Kevin Macdonald,252,121,25,1000,17605861,The Last King of Scotland ,English,6000000,149,7.7,2.35
+Dominique Othenin-Girard,137,96,120,742,11642254,Halloween 5 ,English,3000000,256,5.2,1.85
+Richard Linklater,231,99,84,11000,9203192,Bernie ,English,5000000,106,6.8,1.85
+Jean-Jacques Mantello,9,42,,844,7518876,Dolphins and Whales 3D: Tribes of the Ocean ,English,6000000,0,6.5,1.78
+Ed Harris,115,122,221,697,8596914,Pollock ,English,6000000,394,7.0,1.85
+Risa Bramon Garcia,67,101,612,1000,6851636,200 Cigarettes ,English,6000000,744,5.9,1.85
+Brian Klugman,216,102,10000,24000,11434867,The Words ,English,6000000,14000,7.1,1.85
+Matt Piedmont,133,84,546,8000,5895238,Casa de mi Padre ,Spanish,6000000,806,5.5,2.35
+Raymond De Felitta,149,104,130,3000,6670712,City Island ,English,6000000,591,7.4,1.85
+John Michael McDonagh,261,96,28,3000,5359774,The Guard ,English,6000000,482,7.3,2.35
+Deb Hagan,42,94,664,1000,4693919,College ,English,6500000,1000,4.6,1.85
+Sofia Coppola,152,90,826,4000,4859475,The Virgin Suicides ,English,6000000,899,7.2,1.85
+Mark Herman,64,97,286,1000,4595000,Little Voice ,English,,497,7.0,1.85
+Zach Cregger,76,90,263,373,4542775,Miss March ,English,6000000,308,5.1,1.85
+Zach Braff,149,106,379,17000,3588432,Wish I Was Here ,English,6000000,1000,6.7,2.35
+Mark Tarlov,35,96,353,4000,4394936,Simply Irresistible ,English,6000000,812,5.3,2.35
+,47,44,724,937,,Veronica Mars             ,English,,828,8.4,1.78
+John Cameron Mitchell,108,95,179,263,3029081,Hedwig and the Angry Inch ,English,6000000,261,7.8,1.85
+Sheldon Lettich,17,99,82,97,3273588,Only the Strong ,English,6000000,91,6.7,1.85
+Jon Knautz,12,93,34,397,,Goddess of Love ,English,,77,5.4,2.35
+Billy Ray,129,99,491,4000,2207975,Shattered Glass ,English,6000000,3000,7.2,2.35
+David Atkins,84,95,15,244,2025238,Novocaine ,English,6000000,230,5.8,1.85
+Patrick Stettner,61,84,152,944,1028337,The Business of Strangers ,English,,257,6.4,1.85
+Sam Peckinpah,147,144,242,682,,The Wild Bunch ,English,6244087,288,8.0,2.35
+Jonathan Levine,147,99,362,976,2077046,The Wackness ,English,6000000,617,7.0,2.35
+Michael Crichton,23,110,20,187,,The Great Train Robbery ,English,6000000,34,7.0,1.85
+Lynne Ramsay,75,97,53,631,267194,Morvern Callar ,English,,104,6.7,1.85
+Sylvio Tabet,17,107,284,721,869325,Beastmaster 2: Through the Portal of Time ,English,6000000,514,3.8,1.85
+Rick Bieber,16,90,316,767,399611,The 5th Quarter ,English,6000000,529,5.7,1.85
+Claude Chabrol,60,104,27,173,181798,The Flower of Evil ,French,,67,6.6,1.66
+Shana Feste,63,96,71,1000,115862,The Greatest ,English,6000000,943,6.7,2.35
+Wayne Wang,56,104,451,974,1346503,Snow Flower and the Secret Fan ,English,6000000,595,6.1,2.35
+Joey Lauren Adams,36,97,90,596,117560,Come Early Morning ,English,6000000,206,6.2,1.85
+Peter Cattaneo,47,107,419,773,54606,Lucky Break ,English,6000000,766,6.2,2.35
+Fred Zinnemann,38,117,898,11000,,Julia ,English,7840000,949,7.4,1.85
+S.R. Bindler,26,85,499,11000,36497,"Surfer, Dude ",English,6000000,826,4.7,1.85
+Tony Kaye,47,152,0,103,23807,Lake of Fire ,English,,2,8.3,
+Greg Marcks,68,85,407,861,,11:14 ,English,6000000,618,7.2,1.85
+Perry Lang,19,76,259,636,,Men of War ,English,8600000,472,5.8,2.35
+Jake Goldberger,39,87,99,592,,Don McKay ,English,,521,5.9,1.85
+Stefan Ruzowitzky,162,95,874,16000,65804,Deadfall ,English,12000000,10000,6.3,2.35
+Vic Sarin,37,101,130,933,,A Shine of Rainbows ,English,6000000,767,7.2,2.35
+William Kaufman,26,90,787,848,,The Hit List ,English,6000000,816,5.4,1.85
+,10,240,334,805,,Emma             ,English,,432,8.2,1.78
+David Cronenberg,179,89,15,391,,Videodrome ,English,5952000,20,7.3,1.85
+Cédric Klapisch,88,111,269,809,3895664,L'auberge espagnole ,French,5300000,447,7.3,1.85
+Kate Barker-Froyland,43,86,444,11000,20200,Song One ,English,6000000,485,5.8,
+Barbet Schroeder,136,115,400,33000,31874869,Murder by Numbers ,English,50000000,455,6.1,1.85
+Martin Koolhoven,111,103,19,163,542860,Winter in Wartime ,Dutch,4000000,20,7.1,2.35
+Charles Matthau,13,90,1000,2000,,Freaky Deaky ,English,6000000,2000,6.5,
+John Frankenheimer,64,133,28,343,,The Train ,English,6700000,94,7.9,1.66
+Christopher M. Bessette,6,88,57,978,15059,Trade of Innocents ,English,,323,5.4,2.35
+Prachya Pinkaew,112,111,380,778,11905519,The Protector ,Thai,200000000,635,7.1,1.85
+Gary Sinyor,12,94,136,722,69582,Stiff Upper Lips ,English,,338,6.4,1.85
+,15,25,220,229,,The Inbetweeners             ,English,,223,8.4,16.0
+Gurinder Chadha,161,112,397,883,32541719,Bend It Like Beckham ,English,3500159,528,6.7,1.85
+John Sayles,68,141,501,688,3064356,Sunshine State ,English,5600000,659,6.9,1.85
+Preston A. Whitmore II,25,95,255,592,7009668,Crossover ,English,5600000,378,2.1,1.85
+Ashish R. Mohan,23,141,61,634,352684,Khiladi 786 ,Hindi,,284,4.3,
+Jaume Balagueró,222,85,6,37,27024,[Rec] 2 ,Spanish,5600000,9,6.6,1.85
+Stewart Raffill,9,105,10,25,531806,Standing Ovation ,English,,11,3.4,
+George Roy Hill,119,129,417,1000,159600000,The Sting ,English,5500000,559,8.3,1.85
+Hugh Hudson,90,125,249,368,58800000,Chariots of Fire ,English,5500000,303,7.2,1.85
+Darren Grant,62,116,476,907,50382128,Diary of a Mad Black Woman ,English,5500000,637,5.6,1.85
+Scott Hicks,71,105,35,509,35811509,Shine ,English,5500000,294,7.7,1.85
+Joseph Gordon-Levitt,364,90,694,23000,24475193,Don Jon ,English,3000000,19000,6.6,2.35
+Clint Eastwood,72,105,258,16000,,High Plains Drifter ,English,5500000,742,7.6,2.35
+Terry Zwigoff,122,111,722,19000,6200756,Ghost World ,English,7000000,12000,7.4,1.85
+Richard Eyre,100,91,548,14000,1292119,Iris ,English,5500000,1000,7.1,1.85
+William Sachs,24,95,60,113,,Galaxina ,English,,110,3.4,2.35
+Christophe Barratier,112,97,57,517,3629758,The Chorus ,French,5500000,86,7.9,2.35
+Émile Gaudreault,67,92,71,636,6239558,Mambo Italiano ,English,5000000,210,6.7,1.85
+James Cox,91,104,93,715,1056102,Wonderland ,English,5000000,436,6.6,1.85
+Spike Lee,103,120,388,782,27545445,Do the Right Thing ,English,6500000,652,7.9,1.85
+James Toback,27,99,781,4000,56007,Harvard Man ,English,5500000,902,4.9,2.35
+Aki Kaurismäki,205,93,36,232,611709,Le Havre ,French,3850000,67,7.2,1.85
+Gaspar Noé,192,99,9,56,753501,Irreversible ,French,,46,7.4,2.35
+Hitoshi Matsumoto,72,99,16,31,22770,R100 ,Japanese,5500000,17,6.1,1.85
+Rakeysh Omprakash Mehra,33,157,199,397,2197331,Rang De Basanti ,Hindi,,227,8.4,2.35
+Collin Schiffli,22,90,290,934,,Animals ,English,,697,6.2,2.35
+George Ratliff,48,96,38,472,27445,Salvation Boulevard ,English,9000000,39,5.3,1.85
+David Wain,65,96,139,4000,766487,The Ten ,English,5250000,543,5.0,1.85
+Shane Meadows,29,90,222,5000,18434,A Room for Romeo Brass ,English,,680,7.7,1.85
+Morten Tyldum,284,100,27,286,1196752,Headhunters ,Norwegian,30300000,52,7.6,2.39
+Jon Wright,187,94,114,796,,Grabbers ,English,4000000,567,6.3,2.35
+Michael McGowan,47,98,149,393,795126,Saint Ralph ,English,6000000,259,7.6,1.85
+Liv Ullmann,88,129,0,631,,Miss Julie ,English,5500000,0,5.6,
+Jeannot Szwarc,41,103,32,208,,Somewhere in Time ,English,5100000,191,7.3,1.85
+Rohan Sippy,24,128,47,374,563699,Dum Maaro Dum ,Hindi,,282,6.2,
+James Wan,318,106,482,852,83574831,Insidious: Chapter 2 ,English,5000000,618,6.6,2.35
+Darren Lynn Bousman,250,95,651,1000,87025093,Saw II ,English,4000000,654,6.6,1.85
+Dan Trachtenberg,411,104,82,14000,71897215,10 Cloverfield Lane ,English,15000000,338,7.3,2.35
+Jeff Tremaine,106,87,218,608,64267897,Jackass: The Movie ,English,5000000,362,6.6,1.85
+David F. Sandberg,159,81,300,2000,56536016,Lights Out ,English,4900000,509,6.9,2.35
+Henry Joost,251,94,434,581,104007828,Paranormal Activity 3 ,English,5000000,438,5.8,1.85
+Stiles White,183,89,704,852,50820940,Ouija ,English,5000000,707,4.4,2.35
+Chuck Russell,131,88,150,506,44793200,A Nightmare on Elm Street 3: Dream Warriors ,English,4500000,449,6.6,1.85
+Joel Edgerton,297,108,458,1000,43771291,The Gift ,English,5000000,562,7.1,2.35
+Eugenio Derbez,41,115,83,399,44456509,Instructions Not Included ,Spanish,5000000,89,7.6,1.85
+Henry Joost,248,96,113,235,53884821,Paranormal Activity 4 ,English,5000000,119,4.6,1.85
+Henry Koster,42,135,275,726,36000000,The Robe ,English,5000000,422,6.8,2.2
+Blake Edwards,33,113,80,462,,The Return of the Pink Panther ,English,5000000,278,7.1,2.35
+Rachel Talalay,91,93,581,40000,34872293,Freddy's Dead: The Final Nightmare ,English,8500000,618,4.9,1.85
+Patty Jenkins,185,109,592,9000,34468224,Monster ,English,4500000,844,7.3,1.85
+Richard Fleischer,69,127,51,617,,"20,000 Leagues Under the Sea ",English,5000000,53,7.2,1.37
+Christopher Landon,220,101,332,510,32453345,Paranormal Activity: The Marked Ones ,English,5000000,358,5.0,1.78
+David Lynch,117,124,452,12000,,The Elephant Man ,English,5000000,754,8.2,2.35
+Jean-Marc Vallée,471,117,896,11000,27296514,Dallas Buyers Club ,English,5000000,3000,8.0,2.35
+David Gelb,152,83,801,10000,25799043,The Lazarus Effect ,English,3300000,830,5.2,2.35
+Christopher Nolan,274,113,379,716,25530884,Memento ,English,9000000,651,8.5,2.35
+Mike Flanagan,336,104,202,972,27689474,Oculus ,English,5000000,407,6.5,2.35
+Kevin Smith,174,97,657,1000,24138847,Clerks II ,English,5000000,898,7.4,1.85
+Stephen Daldry,151,110,34,838,21994911,Billy Elliot ,English,5000000,203,7.7,1.85
+Nat Faxon,276,103,424,7000,21501098,The Way Way Back ,English,5000000,468,7.4,1.85
+George Jackson,12,94,287,901,19281235,House Party 2 ,English,5000000,413,5.1,1.85
+George Miller,18,102,75,492,,The Man from Snowy River ,English,3500000,155,7.3,2.35
+Maurice Joyce,28,77,73,2000,19421271,Doug's 1st Movie ,English,5000000,804,5.0,1.33
+Robert Duvall,95,134,77,205,20733485,The Apostle ,English,5000000,130,7.2,1.85
+Frank Perry,74,129,157,977,,Mommie Dearest ,English,5000000,485,6.7,1.85
+Jesse Peretz,179,90,1000,11000,24809547,Our Idiot Brother ,English,5000000,3000,6.4,1.85
+Stephen Hopkins,125,134,388,882,19097994,Race ,English,,845,7.1,2.35
+Ice Cube,22,104,498,1000,23031390,The Players Club ,English,4500000,597,5.6,1.85
+Tim Blake Nelson,92,95,697,1000,16017403,O ,English,5000000,835,6.2,1.85
+John Erick Dowdle,196,93,161,1000,21197315,"As Above, So Below ",English,5000000,200,6.1,1.85
+Bille Woodruff,9,106,467,1000,17382982,Addicted ,Spanish,5000000,694,5.2,1.85
+Kasi Lemmons,31,109,426,2000,14821531,Eve's Bayou ,English,6000000,434,7.3,1.85
+Richard Glatzer,309,101,423,17000,18656400,Still Alice ,English,5000000,2000,7.5,1.85
+Michael Curtiz,15,139,422,535,,The Egyptian ,English,5000000,440,6.6,2.55
+Bruce Malmuth,36,99,142,13000,,Nighthawks ,English,5000000,970,6.4,1.85
+Rob Hedden,129,100,65,935,14343976,Friday the 13th Part VIII: Jason Takes Manhattan ,English,5000000,120,4.5,1.85
+Joel Zwick,168,95,249,567,241437427,My Big Fat Greek Wedding ,English,5000000,312,6.6,1.85
+Harmony Korine,444,94,192,11000,14123773,Spring Breakers ,English,5000000,892,5.3,2.35
+Joe Chappelle,123,93,141,742,15126948,Halloween: The Curse of Michael Myers ,English,5000000,152,4.9,1.85
+Alfonso Cuarón,173,106,19,269,13622333,Y Tu Mamá También ,Spanish,2000000,43,7.7,1.85
+Edgar Wright,246,99,358,605,13464388,Shaun of the Dead ,English,4000000,427,8.0,2.35
+Mickey Liddell,74,82,664,1000,13350177,The Haunting of Molly Hartley ,English,5000000,984,3.8,1.85
+John Sayles,68,135,111,11000,13269963,Lone Star ,English,5000000,189,7.6,2.35
+Dwight H. Little,144,88,101,742,17768000,Halloween 4: The Return of Michael Myers ,English,5000000,120,5.9,1.85
+Fred Walton,96,89,85,690,12947763,April Fool's Day ,English,5000000,190,6.2,2.35
+Barry Levinson,42,110,551,801,14100000,Diner ,English,5000000,796,7.2,1.85
+Steve Carver,29,107,268,926,12200000,Lone Wolf McQuade ,English,5000000,400,6.3,1.85
+Gonzalo López-Gallego,228,86,205,520,17683670,Apollo 18 ,English,5000000,270,5.2,1.33
+Christine Jeffs,195,91,260,968,12055108,Sunshine Cleaning ,English,8000000,934,6.9,2.35
+John Erick Dowdle,203,103,13,155,27285953,No Escape ,English,5000000,78,6.8,1.85
+Don Coscarelli,44,90,826,21000,,The Beastmaster ,English,8000000,982,6.2,1.85
+King Vidor,14,141,70,746,,Solomon and Sheba ,English,5000000,333,6.2,2.2
+Michael Tiddes,59,92,355,729,11675178,Fifty Shades of Black ,English,5000000,706,3.5,
+Bill Duke,45,99,409,849,10572742,Not Easily Broken ,English,8000000,578,6.1,1.85
+Frank Borzage,42,79,99,998,,A Farewell to Arms ,English,800000,164,6.6,1.37
+Bille Woodruff,12,96,503,927,9658370,The Perfect Match ,English,5000000,509,4.5,
+Mamoru Hosoda,29,82,44,93,9628751,Digimon: The Movie ,English,5000000,45,5.9,1.85
+Brian Dannelly,121,92,797,3000,8786715,Saved! ,English,5000000,835,6.9,1.85
+Denys Arcand,135,112,21,150,3432342,The Barbarian Invasions ,French,6000000,28,7.7,2.35
+Richard Lester,27,106,136,559,,Robin and Marian ,English,5000000,249,6.6,1.85
+J.S. Cardone,56,90,560,847,6755271,The Forsaken ,English,5000000,591,5.3,1.85
+Guy Hamilton,22,126,576,11000,,Force 10 from Navarone ,English,5000000,794,6.3,2.35
+Jay Levey,59,150,448,859,6157157,UHF ,English,5000000,448,7.0,1.85
+Nicholaus Goossen,61,90,556,2000,6088249,Grandma's Boy ,English,,936,7.0,2.35
+Tamara Jenkins,60,91,572,1000,5480318,Slums of Beverly Hills ,English,5000000,778,6.6,1.85
+Sergio Leone,164,145,392,973,,Once Upon a Time in the West ,English,5000000,423,8.6,2.35
+Jon Favreau,81,95,334,4000,5308707,Made ,English,5000000,585,6.4,1.85
+Duncan Jones,415,97,372,18000,5009677,Moon ,English,5000000,572,7.9,2.35
+Scott Marshall,43,90,701,2000,4328294,Keeping Up with the Steins ,English,,847,5.4,1.85
+Ronan Chapalain,7,41,0,55,4074023,Sea Rex 3D: Journey to a Prehistoric World ,English,5000000,0,6.9,1.78
+Atom Egoyan,120,112,395,990,4306697,The Sweet Hereafter ,English,5000000,900,7.7,2.35
+Xavier Beauvois,195,122,32,186,3950029,Of Gods and Men ,French,4000000,135,7.2,2.35
+Randall Miller,109,110,39,25000,4040588,Bottle Shock ,English,5000000,579,6.8,2.35
+Jerry Belson,21,87,83,922,,Jekyll and Hyde... Together Again ,English,5000000,162,6.2,
+Peter Jackson,93,108,88,14000,3049135,Heavenly Creatures ,English,5000000,433,7.4,2.35
+Michael Polish,12,121,473,4000,4700361,90 Minutes in Heaven ,English,5000000,849,4.6,2.35
+Dan Rush,155,97,939,8000,2711210,Everything Must Go ,English,5000000,981,6.4,2.35
+Jake Kasdan,81,116,102,624,1980338,Zero Effect ,English,5000000,385,7.0,1.85
+Brad Anderson,204,94,360,23000,1082044,The Machinist ,English,5000000,1000,7.7,2.35
+Paul Schrader,19,103,145,722,1100000,Light Sleeper ,English,5000000,280,6.8,1.85
+Michael Cuesta,163,112,688,10000,2445646,Kill the Messenger ,English,5000000,963,7.0,2.35
+John Cameron Mitchell,248,91,192,967,2221809,Rabbit Hole ,English,5000000,289,7.0,1.85
+Fenton Bailey,39,98,600,3000,296665,Party Monster ,English,5000000,971,6.3,1.85
+Jeremy Saulnier,322,95,233,727,3219029,Green Room ,English,5000000,442,7.1,2.35
+Billy Kent,50,88,276,740,,The Oh in Ohio ,English,5000000,625,5.6,2.35
+James Manera,12,99,361,578,830210,Atlas Shrugged: Who Is John Galt? ,English,5000000,435,4.4,
+Wes Anderson,83,91,65,387,1040879,Bottle Rocket ,English,7000000,96,7.1,1.85
+Kevin Spacey,37,97,977,10000,326308,Albino Alligator ,English,5000000,1000,6.1,2.35
+Feroz Abbas Khan,16,136,14,75,240425,"Gandhi, My Father ",Hindi,,45,7.4,2.35
+Errol Morris,121,118,0,6,228830,Standard Operating Procedure ,English,,0,7.5,2.35
+Dennis Hopper,24,94,51,311,,Out of the Blue ,English,2200000,59,7.2,1.85
+Eli Craig,324,89,440,948,223615,Tucker and Dale vs Evil ,English,,779,7.6,2.35
+Nicholas Fackler,27,90,940,3000,124720,"Lovely, Still ",English,5000000,1000,7.3,1.85
+Richard Wallace,9,95,100,197,,Tycoon ,English,3209000,116,6.2,1.37
+Morgan J. Freeman,31,90,697,1000,99147,Desert Blue ,English,2000000,697,6.2,1.85
+Matthew Hastings,35,95,383,889,,Decoys ,English,5000000,680,4.6,1.85
+M. Night Shyamalan,371,94,99,432,65069140,The Visit ,English,5000000,309,6.2,1.85
+Brian De Palma,133,90,15,343,65087,Redacted ,English,5000000,29,6.2,1.85
+Klaus Menzel,13,103,227,811,16066,Fascination ,English,5000000,522,3.3,2.35
+,9,60,904,1000,,Saving Grace             ,English,,1000,7.5,1.78
+Oren Peli,56,91,14,46,,Area 51 ,English,5000000,21,4.2,
+Jaume Balagueró,191,102,78,331,,Sleep Tight ,Spanish,5000000,93,7.2,2.35
+Paul Andrew Williams,80,92,141,570,,The Cottage ,English,2500000,337,6.2,2.35
+Stephen Herek,19,87,686,866,,Dead Like Me: Life After Death ,English,5000000,738,6.1,1.78
+Bob Saget,19,80,854,3000,,Farce of the Penguins ,English,,2000,4.2,1.85
+Jim Amatulli,,90,483,695,,Flying By ,English,,617,4.5,
+,38,44,816,1000,,Psych             ,English,,922,8.4,1.78
+William H. Macy,44,105,394,745,37440,Rudderless ,English,5000000,508,7.5,
+Barrett Esposito,3,67,388,979,,Henry & Me ,English,10000000,732,6.7,
+Mitch Davis,6,95,541,989,,Christmas Eve ,English,,970,5.1,
+Eric Bross,,87,601,708,,We Have Your Husband ,English,5000000,699,5.5,1.78
+Paul Schrader,64,94,179,12000,,Dying of the Light ,English,5000000,316,4.4,2.35
+Vicky Jewson,8,109,126,1000,,Born of War ,English,5000000,266,4.4,
+Peter Hyams,64,130,826,1000,,Capricorn One ,English,5000000,849,6.8,2.35
+Marc Bennett,2,,723,975,,Should've Been Romeo ,English,5000000,900,6.7,
+Mike Mayhall,,88,668,784,,Running Forever ,English,5000000,763,8.6,
+Kevin Smith,35,88,1000,40000,,Yoga Hosers ,English,5000000,3000,4.8,
+Stanton Barrett,21,97,538,741,,Navy Seals vs. Zombies ,English,,615,3.4,
+Jirí Menzel,99,113,4,61,617228,I Served the King of England ,Czech,84450000,12,7.4,1.85
+Fatih Akin,115,99,269,595,274385,Soul Kitchen ,German,4000000,486,7.3,1.85
+Billy Bob Thornton,104,148,263,3000,24475416,Sling Blade ,English,890000,324,8.0,1.85
+Nick Murphy,195,107,537,874,,The Awakening ,English,3000000,579,6.5,2.35
+Eli Roth,303,93,581,1000,47277326,Hostel ,English,4800000,1000,5.9,2.35
+Michael Winterbottom,122,94,427,1000,1247453,Tristram Shandy: A Cock and Bull Story ,English,2800000,887,6.8,2.35
+Jeff Nichols,359,121,41,982,1729969,Take Shelter ,English,5000000,463,7.4,2.35
+Frank LaLoggia,130,118,339,968,1705139,Lady in White ,English,4700000,733,6.7,1.85
+Jeremy Brock,64,98,621,10000,238774,Driving Lessons ,English,,838,6.8,1.85
+Scott Foley,13,82,316,927,,Let's Kill Ward's Wife ,English,5000000,833,5.4,
+Tobe Hooper,159,101,14,237,8025872,The Texas Chainsaw Massacre 2 ,English,4700000,28,5.5,1.85
+Sam Peckinpah,54,106,372,773,,Pat Garrett & Billy the Kid ,English,4638783,476,7.4,2.35
+Nicolas Winding Refn,440,90,428,33000,778565,Only God Forgives ,English,4800000,1000,5.7,1.85
+Christophe Ali,7,79,20,226,,Camping sauvage ,French,,40,5.4,
+Gabriela Tagliavini,4,87,329,571,,Without Men ,English,4700000,345,3.2,
+Shekar,1,,0,5,,Barfi ,Kannada,,0,7.1,
+Shona Auerbach,96,105,16,18000,1340891,Dear Frankie ,English,,66,7.8,1.85
+Leonard Farlinger,8,89,413,584,,All Hat ,English,5000000,580,5.3,2.35
+Michel Leclerc,87,100,9,74,513836,The Names of Love ,French,4600000,52,7.2,1.85
+Analeine Cal y Mayor,10,92,140,943,,Treading Water ,English,4700000,480,6.2,
+Tom Kalin,121,97,577,13000,434417,Savage Grace ,English,4600000,1000,5.9,1.85
+Robert Sarkies,43,100,3,109,728,Out of the Blue ,English,,10,7.3,1.85
+Hugh Wilson,45,96,542,801,81200000,Police Academy ,English,4500000,760,6.7,1.85
+Randal Kleiser,36,104,83,1000,,The Blue Lagoon ,English,4500000,511,5.7,1.85
+Mike Newell,84,117,239,1000,52700832,Four Weddings and a Funeral ,English,4500000,398,7.1,1.66
+Amy Heckerling,118,90,811,1000,,Fast Times at Ridgemont High ,English,4500000,901,7.2,1.85
+John Huston,42,115,68,232,,Moby Dick ,English,4500000,169,7.4,1.66
+Spike Lee,202,108,346,22000,13060843,25th Hour ,English,15000000,3000,7.7,2.35
+,5,43,298,562,,Secrets and Lies             ,English,,560,7.7,16.0
+Lana Wachowski,120,109,126,3000,3798532,Bound ,English,4500000,441,7.4,1.85
+Darren Aronofsky,234,102,167,1000,3609278,Requiem for a Dream ,English,4500000,1000,8.4,1.37
+Walter Lang,17,100,37,188,,State Fair ,English,,135,7.1,1.37
+Carlos Saura,35,115,4,341,1687311,Tango ,Spanish,700000000,26,7.2,2.0
+Oliver Stone,48,122,491,854,,Salvador ,English,4500000,652,7.5,1.85
+Andrew Erwin,49,98,402,589,10429707,Moms' Night Out ,English,5000000,416,5.4,2.35
+Richard Kelly,283,133,701,15000,727883,Donnie Darko ,English,4500000,933,8.1,2.35
+Beto Gómez,16,105,122,274,1391770,Saving Private Perez ,Spanish,,154,6.0,2.35
+Mike van Diem,54,122,3,25,713413,Character ,Dutch,4500000,20,7.8,1.85
+Jonas Åkerlund,92,106,391,835,410241,Spun ,English,2000000,601,6.8,1.85
+Todd Solondz,159,98,844,1000,278821,Life During Wartime ,English,,887,6.5,1.85
+Chan-wook Park,202,112,38,717,211667,Lady Vengeance ,Korean,4200000000,126,7.7,2.35
+René Féret,50,120,9,24,706622,Mozart's Sister ,French,,12,6.4,1.85
+Barry Skolnick,54,99,798,26000,92191,Mean Machine ,English,2500000,1000,6.5,1.85
+Johnnie To,98,110,76,155,49413,Exiled ,Cantonese,35000000,96,7.3,2.35
+Mateo Gil,92,102,327,820,199652,Blackthorn ,English,,356,6.6,2.35
+Lukas Moodysson,112,109,0,129,181655,Lilya 4-Ever ,Russian,,2,7.9,1.85
+Agnieszka Wojtowicz-Vosloo,138,104,329,14000,108229,After.Life ,English,4500000,1000,5.9,2.35
+Kabir Sadanand,9,134,62,327,,Fugly ,Hindi,,82,4.7,
+Milos Forman,149,133,425,888,112000000,One Flew Over the Cuckoo's Nest ,English,4400000,721,8.7,1.85
+Peter DeLuise,5,85,212,19000,,R.L. Stine's Monsterville: The Cabinet of Souls ,English,4400000,570,5.9,1.78
+Mel Brooks,39,87,753,898,,Silent Movie ,,4400000,842,6.7,1.85
+Raja Menon,39,130,12,85,,Airlift ,Hindi,4400000,26,8.5,2.35
+,2,199,505,662,,Anne of Green Gables             ,English,,517,8.4,1.33
+Ernie Barbarash,29,103,261,2000,8691,Falcon Rising ,English,4500000,298,5.8,
+Nick Love,111,112,422,2000,26345,The Sweeney ,English,3000000,1000,6.1,2.35
+Jonathan Glazer,149,89,100,1000,6940281,Sexy Beast ,English,,146,7.3,2.35
+Daniel Espinosa,90,124,93,309,188870,Easy Money ,Swedish,,254,6.7,2.35
+Niki Caro,149,101,8,446,20772796,Whale Rider ,English,6000000,20,7.6,2.35
+R. Balki,12,133,106,464,199228,Paa ,Hindi,150000000,374,7.2,2.35
+Ivan Engler,64,112,7,29,,Cargo ,German,4500000,9,6.2,2.35
+Joe Wright,256,111,394,20000,34964818,Pan ,English,150000000,559,5.8,2.35
+Kenny Ortega,57,98,578,755,,High School Musical ,English,4200000,632,5.2,1.33
+,8,60,551,1000,,Animal Kingdom             ,English,,557,8.1,16.0
+Richard Kwietniowski,50,93,130,471,2542264,Love and Death on Long Island ,English,,232,7.1,1.85
+Timur Bekmambetov,232,104,16,114,1487477,Night Watch ,Russian,4200000,28,6.5,1.85
+Neil Jordan,63,112,327,1000,62549000,The Crying Game ,English,2300000,530,7.3,2.35
+Bob Clark,75,94,95,110,105500000,Porky's ,English,4000000,95,6.2,1.85
+George A. Romero,274,90,231,648,101055,Survival of the Dead ,English,4000000,529,5.0,2.35
+George A. Romero,284,96,56,125,,Night of the Living Dead ,English,114000,108,8.0,1.85
+Sofia Coppola,265,101,11,19000,44566004,Lost in Translation ,English,4000000,13000,7.8,1.85
+Woody Allen,154,93,629,11000,39200000,Annie Hall ,English,4000000,636,8.1,1.37
+Cecil B. DeMille,44,152,132,232,36000000,The Greatest Show on Earth ,English,4000000,178,6.7,1.37
+Ridley Scott,314,150,748,23000,65007045,Exodus: Gods and Kings ,English,140000000,892,6.1,2.35
+Marc Forster,153,112,80,13000,31252964,Monster's Ball ,English,4000000,595,7.1,2.35
+Henry Hobson,256,95,428,584,131175,Maggie ,English,8500000,430,5.6,2.35
+Mike Figgis,123,111,687,12000,31968347,Leaving Las Vegas ,English,3600000,898,7.6,1.66
+Duane Journey,46,86,555,707,,Hansel & Gretel Get Baked ,English,4500000,619,4.3,1.78
+Dan O'Bannon,203,108,358,431,,The Return of the Living Dead ,English,4000000,426,7.3,1.85
+Billy Wilder,34,105,116,597,,The Front Page ,English,4000000,222,7.3,2.35
+Rob Cohen,149,91,326,3000,35385560,The Boy Next Door ,English,4000000,465,4.6,2.35
+Carol Reed,20,105,69,746,,Trapeze ,English,4000000,119,6.8,2.35
+,9,60,904,1000,,Saving Grace             ,English,,1000,7.5,1.78
+Lisa Cholodenko,323,106,712,14000,20803237,The Kids Are All Right ,English,3500000,3000,7.1,1.85
+John Carpenter,172,93,133,355,13008928,They Live ,English,4000000,151,7.3,2.35
+John Sturges,111,172,145,773,,The Great Escape ,English,4000000,742,8.3,2.35
+William Arntz,74,109,428,847,10941801,What the #$*! Do We (K)now!? ,English,,670,5.4,1.85
+Ed Gass-Donnelly,161,93,400,45000,15152879,The Last Exorcism Part II ,English,5000000,541,4.0,2.35
+Richard Linklater,548,165,127,230,25359200,Boyhood ,English,4000000,193,8.0,1.85
+Woody Allen,177,96,405,19000,10515579,Scoop ,English,4000000,427,6.7,1.85
+Tim Burton,230,119,567,1000,180011740,Planet of the Apes ,English,100000000,658,5.7,2.35
+DJ Pooh,27,93,69,522,10097096,The Wash ,English,4000000,231,4.6,1.85
+DJ Pooh,22,82,585,939,9821335,3 Strikes ,English,6000000,706,4.0,1.85
+Wayne Kramer,157,101,407,658,8243880,The Cooler ,English,3200000,636,7.0,2.35
+John Huston,70,120,268,862,,The Misfits ,English,4000000,403,7.4,1.66
+Patrick Stettner,125,81,710,49000,7825820,The Night Listener ,English,4000000,780,5.9,1.85
+James Melkonian,10,82,27,584,7557877,The Jerky Boys ,English,,246,4.6,1.85
+Wes Craven,160,107,255,798,14637490,My Soul to Take ,English,25000000,374,4.8,2.35
+J.A. Bayona,300,105,143,382,7159147,The Orphanage ,Spanish,3400000,273,7.5,2.35
+Michael Tiddes,69,86,511,986,17314483,A Haunted House 2 ,English,4000000,713,4.7,1.85
+Roger Avary,143,110,968,16000,6525762,The Rules of Attraction ,English,4000000,977,6.7,1.85
+Alfred Hitchcock,50,127,148,204,,Topaz ,English,4000000,187,6.3,1.85
+Bob Odenkirk,46,90,242,812,4613815,Let's Go to Prison ,English,,466,6.0,1.85
+Allison Anders,51,110,960,4000,4301331,Four Rooms ,English,4000000,975,6.7,1.85
+Steven Shainberg,163,104,296,769,4046737,Secretary ,English,4000000,413,7.1,1.85
+Rick de Oliveira,52,96,0,960,3713002,The Real Cancun ,English,8000000,12,2.7,1.85
+Oliver Stone,40,110,237,721,3468572,Talk Radio ,English,4000000,246,7.3,1.85
+Christopher Guest,50,84,611,925,2892582,Waiting for Guffman ,English,4000000,729,7.6,1.85
+Jeff Franklin,45,94,545,834,2800000,Love Stinks ,English,4000000,625,5.8,1.85
+John Dahl,121,93,90,497,2426851,You Kill Me ,English,4000000,113,6.5,2.55
+Mike Mills,114,96,71,730,1325073,Thumbsucker ,English,4000000,394,6.6,2.35
+Kevin Smith,270,88,939,1000,,Red State ,English,4000000,947,6.2,1.85

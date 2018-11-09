@@ -1,120 +1,429 @@
-genres,num_voted_users
-Comedy|Crime,19622
-Comedy|Fantasy,78241
-Comedy|Drama|Romance,67949
-Documentary,3611
-Drama,10073
-Comedy,22697
-Comedy,4377
-Comedy|Crime|Romance|Thriller,16224
-Comedy|Drama,18762
-Action|Crime|Horror|Thriller,53342
-Adventure|Fantasy,20275
-Documentary|Music,22457
-Adventure|Fantasy,2308
-Drama|Romance,45293
-Drama|Thriller,4091
-Drama|Thriller,8535
-Drama,2877
-Drama|Fantasy,29440
-Drama,36494
-Comedy|Crime|Romance,6705
-Crime|Drama|Horror|Thriller,2705
-Comedy|Horror|Mystery,4617
-Comedy,2133
-Drama,2112
-Crime|Drama|Thriller,34224
-Comedy,1398
-Comedy|Romance,811
-Drama|Romance,23334
-Comedy|Drama|Romance,1555
-Comedy|Drama,9913
-Drama|Horror|Sci-Fi,34263
-Comedy|Family|Romance,7673
-Biography|Drama,1686
-Drama,1738
-Comedy|Drama,3297
-Action|Adventure|Crime|Thriller,22220
-Comedy|Fantasy,5137
-Adventure|Drama,2488
-Drama|Family|History|Musical,6303
-Drama|Mystery|Romance|Thriller,2086
-Drama|War,3753
-Comedy|Drama|Romance,2727
-Horror,4146
-Horror|Thriller,27781
-Horror,1561
-Comedy|Romance,1929
-Adventure|Biography|Drama|Romance,724
-Adventure|Drama|History,67
-Biography|Drama|History,23713
-Drama|Romance,103493
-Drama|History|Romance|War,215340
-Biography|Drama,1177
-Adventure|War|Western,5294
-Drama,257
-Biography|Comedy|Musical|Romance|Western,3167
-Comedy|Crime|Drama,55982
-Drama,2650
-Comedy|Crime|Drama,31836
-Adventure|Comedy|Musical|Romance,3258
-Drama,3579
-Comedy|Drama,17770
-Action|Mystery|Thriller,210548
-Comedy|Drama|War,36265
-Drama,76616
-Comedy|Drama|Music,82232
-Comedy,160281
-Action|Thriller,801
-Comedy|Drama,74626
-Crime|Drama|Thriller,39508
-Drama|Music,27418
-Comedy|Fantasy|Horror|Thriller,15956
-Comedy|Drama|Romance|Western,6350
-Biography|Crime|Drama|History,19026
-Drama,7071
-Action|Crime|Drama|Mystery|Thriller,5941
-Thriller,30982
-Horror|Mystery,66483
-Comedy,1721
-Comedy|Drama|Romance,13949
-Biography|Drama,24977
-Drama|Mystery|Thriller,131831
-Horror,49672
-Horror|Thriller,4790
-Comedy|Fantasy|Horror|Thriller,113451
-Action|Adventure|Comedy|Musical,11399
-Horror,34532
-Drama|History,1024
-Comedy|Drama|Fantasy|Horror,54104
-Comedy|Romance,1950
-Action|Comedy|Sci-Fi,104072
-Comedy|Drama,7228
-Action|Comedy|Romance,12188
-Action|Biography|Crime|Drama|Family|Fantasy,342
-Crime|Drama|Mystery|Thriller,1634
-Action|Comedy|Crime|Thriller,372
-Drama|Thriller,653
-Horror|Thriller,961
-Action|Animation|Crime|Sci-Fi|Thriller,30434
-Documentary,75
-Action|Adventure|Fantasy|Thriller,1285
-Action|Crime|Drama|Thriller,1928
-Drama|Thriller,455
-Crime|Mystery|Thriller,610
-Comedy,15115
-Documentary,45984
-Biography|Drama|Thriller,92599
-Drama|Romance,1262
-Comedy|Drama,28573
-Drama|Music,399138
-Crime|Drama,533200
-Comedy|Music,19194
-Biography|Drama|Music,2116
-Crime|Drama|Mystery,12304
-Drama,170155
-Comedy|Family,104908
-Drama|Romance,9607
-Action|Crime|Drama|Thriller,6549
-Comedy,557
-Drama|Romance,704
+actor_1_name,plot_keywords,imdb_score,aspect_ratio
+Michael Kelly,found footage|high school|subjective camera|teen angst|troubled teen,7.1,1.85
+Miriam Margolyes,love|study|talmud|wedding|yeshiva,6.6,1.85
+Shelley Duvall,cult director|dwarf|robin hood|satire|treasure,7.0,1.85
+Britney Spears,audition|friendship|graduation|high school graduation|love,3.3,1.85
+Dax Flame,birthday party|high school|high school senior|millennial generation|party,6.7,1.85
+George C. Scott,allies|dead soldier|destiny|general|tank,8.0,2.2
+Robin Williams,insanity|photo lab|photo shop|photography|voyeur,6.8,1.85
+Andrew Fiscella,apartment building|found footage|television|trapped|virus,6.0,1.85
+Chloë Grace Moretz,cellular memory|eye|eye transplant|seeing dead people|violinist,5.4,2.35
+Vanessa Williams,cross country|cross country trip|highway travel|on the road|road movie,4.3,2.35
+Hector Elizondo,college|drugs|harvard|pot|smoke,6.2,1.85
+Steven Mackintosh,christmas|christmas eve|miser|muppet|scrooge,7.7,1.85
+Eva Green,casino|espionage|free running|james bond|terrorist,8.0,2.35
+Salma Hayek,art|bisexual|marriage|pain|revolutionary,7.4,1.85
+Lexie Contursi,female protagonist|reference to britney spears|singer|song|world tour,5.9,1.85
+Shailene Woodley,cancer|falling in love|friendship|novel|teenager,7.8,1.85
+Matt Damon,breasts|cult film|loan shark|poker|reference to christy turlington,7.4,2.35
+Rosario Dawson,bare breasts|celebrity|in medias res|reference to planet of the apes|sex talk,6.5,2.35
+Talia Shire,cabin|monster|monster movie|paper mill|pollution,5.4,2.35
+Illeana Douglas,disappearance|hearing voices|hypnosis|post hypnotic suggestion|seeing a ghost,7.0,1.85
+Peter Mensah,female frontal nudity|female full frontal nudity|gladiator|group sex|slave girl,8.6,16.0
+Steve Coogan,catholic|convent|gay love|gay relationship|irish adoption board,7.6,1.85
+Alicia Witt,anger|baseball|drinking|radio|secretary,6.9,2.35
+Laurence Olivier,1970s|jew|nazi|nazi hunter|paraguay,7.0,1.85
+Tammin Sursok,beach|love|mermaid|storm|swimming,5.3,1.85
+Nat Wolff,based on novel|female neighbor|friendship|travel|trip,6.4,2.35
+Michael Imperioli,animal costume|break up|fatherhood|rapper|talking baby,4.5,1.85
+Devin Ratray,aging|billings montana|lincoln nebraska|nebraska|pickup truck,7.8,2.35
+CCH Pounder,blood|blood of christ|demon|key|loud sex,6.7,1.85
+Noel Fisher,bully|moving|principal|revenge|school,5.3,1.85
+Charlize Theron,car damage|computer printer|female band|fingernail polish|narcissism,6.3,1.85
+Jason Statham,assassin|cult film|doctor|heart|poison,7.0,1.78
+Bernie Mac,breaking the fourth wall|doorman|friend|party|sex,5.3,1.85
+Holly Hunter,brooklyn bridge|divorce|female protagonist|female star appears nude|lingerie slip,6.6,2.35
+Common,basketball|basketball player|nba|physical therapist|therapist,5.8,2.35
+Anne Hathaway,12 step program|friend|maid of honor|tears|wedding,6.7,1.85
+Anjelica Huston,adultery|drifter|lunch wagon|murder|neo noir,6.6,1.85
+Scarlett Johansson,17th century|girl|maid|painter|painting,7.0,2.35
+Jürgen Prochnow,duty|submarine|submarine movie|tension|u boat,8.4,1.85
+Dennis Quaid,army|dictator|general|texan|texas,6.0,2.35
+Heather Matarazzo,college|cruise|drag|female armpit hair|sorority,5.4,1.85
+Tom Hughes,boyfriend girlfriend relationship|lingerie slip|time travel|time travel romance|wedding,7.8,2.35
+Takeshi Kaneshiro,flying|flying dagger|government|police|secret,7.6,2.35
+Nate Parker,accidental death|dead woman|dead woman with eyes open|death of mistress|manager,6.6,1.85
+Gary Weeks,found footage|teenager|time machine|time travel|video footage,6.4,2.35
+Cedric the Entertainer,1950s|jazz|jazz music|sex|title directed by female,7.0,2.35
+Sarah Silverman,chauffeur|disorganized crime|dog|ransom|slapstick,5.7,1.85
+Christopher Lambert,escape|future|population control|prison|prisoner,5.9,1.85
+John Michael Higgins,actor|internet|make up|publicist|purim,6.3,1.85
+Melanie Griffith,celebrity|journalist|lesbian kiss|strong female character|tv producer,6.3,1.66
+Jill Clayburgh,alcoholic|fame|therapist|writer|writing,6.2,2.35
+Anika Noni Rose,bar|florida|love|spring break|waitress,2.1,1.85
+Michael Imperioli,actress|neighbor|phone sex|queens new york city|sex addiction,5.0,1.85
+Jennifer Jason Leigh,blow job|female rear nudity|female removes her clothes|oral sex|three of spades tattoo,5.3,1.85
+Isabella Rossellini,jewish|love|married man|neighbor|photograph,7.1,2.35
+Bob Hoskins,ashes|butcher|friend|friendship|memory,7.0,2.35
+Doona Bae,daughter|han river|monster|river|seoul,7.0,1.85
+Robert Duvall,escape|jumping from an airplane|money|parachute|ransom,5.7,1.85
+Jeremy Davies,based on true story|cannibalism|captain|mexican american war|u.s. frontier,7.1,2.35
+Robert Downey Jr.,drugs|high school|prescription drugs|private school|student,7.0,1.85
+Toni Servillo,genitalia|male frontal nudity|male nudity|old age|party,7.7,2.35
+Kieran Culkin,book|boy|catholic|comic book|friend,7.1,1.85
+Mia Wasikowska,death|hitchcockian|psychopath|sociopath|vomiting,6.8,2.35
+Li Gong,number in title|train|woman slaps a man|woman slaps man|written by director,7.5,2.35
+David Richmond-Peck,bachelor|best friend|divorce|poison|widow,6.3,1.85
+Eamonn Walker,africa|bed|boy|cheetah|south africa,7.3,1.85
+Tony Curran,celtic mythology|cottage|fisherman|irish|selkie,6.8,1.85
+Omar Epps,gang|gangster|subjective camera|written and directed by cast member|yakuza,7.2,1.85
+Michael Jeter,boxing knockout|heist|implied sex|keys|prison,6.4,2.35
+Kyra Sedgwick,half sister|hospital|latex gloves|medicine|nun,6.0,1.85
+Eva Amurri Martino,best friend|nonlinear timeline|school shooting|self sacrifice|shooting,6.4,2.35
+Dianne Wiest,dog|marriage|search|wedding|woods,5.1,2.35
+Zack Ward,friend|girl|mexico city|new jersey|sex,7.5,2.35
+Marcell Nagy,bus|death|gay slur|hatred|jewish,7.1,2.35
+Bruce Willis,breakfast|manitoba|science fiction writer|suicide|writer,4.6,1.85
+Honglei Sun,betrayal|husband wife relationship|murder|noodles|salary,5.7,2.35
+David Hewlett,brainwashing|corporate espionage|spy|suburb|surprise ending,6.8,1.85
+Ye Liu,atrocity|battle|chinese|horseback riding|martial arts,7.7,2.35
+Jim Parsons,alien friendship|alien invasion|australia|flying car|mother daughter relationship,6.7,1.85
+Jon Heder,anthropomorphic animal|china|furry|rabbit,3.2,
+Takuya Kimura,alien|battleship|message|radiation|yamato,6.1,2.35
+Richard Coyle,cameraman|epic battle|journalist|south ossetia|street shootout,5.6,2.35
+Rachael Carpani,deja vu|lost at sea|ship|time loop|trapped in a time loop,6.9,2.35
+Christopher Lambert,,7.5,1.85
+Jacob Vargas,based on true story|christ|christian|near death experience|pastor,5.8,2.35
+Jason Statham,boxer|boxing|diamond|fight|gypsy,8.3,1.85
+Gary Daniels,,2.8,
+Miko Hughes,cat|cemetery|maine|secret|woods,6.6,1.85
+Tatsuo Matsumura,air raid|beer|birthday|japan|professor,7.5,1.85
+Paddy Considine,isolated house|promotion|river|small town|stalking,6.0,2.35
+Wei Tang,,6.2,2.35
+Phoebe Cates,bright light|midnight|pet|small town|water,7.2,2.2
+Harrison Ford,death star|empire|galactic war|princess|rebellion,8.7,2.35
+Robert De Niro,female removes her clothes|fondling|voyeur|voyeurism|white panties,6.0,2.35
+Julie Christie,bolshevik|poet|poetry|russia|russian revolution,8.0,2.35
+Wagner Moura,bible|key|poverty|slum|wallet,7.2,2.35
+Lucas Grabeel,basketball|curtain call|graduation|high school|high school senior,4.5,1.85
+Christian Bale,boxer|boxing|boxing match|crack cocaine|lowell massachusetts,7.9,2.35
+Bam Margera,blindfold|male frontal nudity|male rear nudity|pubic hair|vomiting,7.1,1.85
+Fred Gwynne,alabama|jail|judicial system|lawyer|trial,7.5,1.85
+Chloë Grace Moretz,car accident|coma|out of body experience|reference to the exploited|teenage girl,6.8,2.35
+Zoe Ventoura,,4.3,
+Corbin Bernsen,cleveland indians|league|manager|owner|team,7.2,1.85
+Lily Cole,2000s|female protagonist|reward|school|st trinian's,5.8,1.85
+Radha Mitchell,phone booth|publicist|single set production|sniper|sniper rifle,7.1,2.35
+Lauren German,community service|love|punishment|school|student,7.4,2.35
+Lois Smith,death|execution|nun|solitary confinement|visit,7.6,1.85
+Sarah Michelle Gellar,bet|revenge|seduction|virgin|wager,6.9,1.85
+Costas Mandylor,deception|flash photography|game of death|jigsaw|pig mask,6.0,1.85
+Madeline Kahn,french revolution|old testament|part of an unfinished series|reference to john wayne|roman emperor,6.9,2.35
+Nate Parker,beekeeping|insect in title|racism|sister|south carolina,7.3,2.35
+Vincent Pastore,fbi|mafia|mobster|undercover|veterinarian,4.6,1.85
+Steven Bauer,hitchcockian|long tracking shot|psychologist|psychology|wig,6.0,1.85
+Sylvester Stallone,1930s|driving through a gate|funeral|senator|trade union,6.4,1.85
+Louise Fletcher,alien|boy|nurse|school|school nurse,5.5,2.35
+Julie Walters,1950s|immigrant|irish|irish accent|torn between two worlds,7.5,1.85
+Ryan O'Neal,18th century|england|rise and fall|rural setting|wealth,8.1,1.66
+Lee Majors,alaska|mountain|ski resort|snowboard|snowboarding,6.3,1.85
+Will Ferrell,black pantyhose|female stockinged legs|pantyhose|radio|tattoo,5.1,1.85
+Luke Newberry,divorced couple|opera|reference to giuseppe verdi|retirement|senility,6.8,2.35
+Shannon Elizabeth,box office flop|critically bashed|dominatrix|friend|money,5.3,1.85
+Matthew McConaughey,demon|fbi|fbi agent|murder|religious fanatic,7.3,1.85
+Ryan Reynolds,art|jewish|justice|nazi|theft,7.3,2.35
+Liam Neeson,professor|research|sex|sexuality|student,7.1,2.35
+Patricia Tallman,army of the dead|battle|necronomicon|reluctant hero|skeleton soldier,7.6,1.85
+Jaime King,blackmail|fall|love|nerd|scam,5.3,1.85
+Johnny Depp,apostrophe in title|face slap|four word title|grocery store|police,7.8,1.85
+Henry Ian Cusick,1st century|based on the bible|miracle|religion|resurrection,7.7,1.85
+Eddie Marsan,1950s|miscarriage|neighbor|pregnancy|tailor,7.7,1.85
+Michael McKean,bollywood|illegal immigrant|live television|restaurant|waiter,5.4,1.85
+Anjelica Huston,immigration|love|political prisoner|reference to john wayne|title directed by female,6.2,1.85
+Justin Timberlake,1960s|car hitting an animal|folk singer|friend|singer,7.4,1.85
+Mekhi Phifer,basketball|basketball player|boarding school|love|shakespeare's othello,6.2,1.85
+Milla Jovovich,baby|desert island|island|sequel|teenage girl,5.1,1.85
+Frank Finlay,coal|detective|irish|irish immigrant|pennsylvania,6.9,2.35
+Kate Winslet,anal sex|death|dream|poem|sex,6.3,2.35
+Phyllida Law,music copyist|music student|musical composition|student|symphony,6.8,2.35
+Heather O'Rourke,ghost|haunted|haunting|house|paranormal investigator,7.4,2.35
+Sam Riley,brighton|catholic|gang|prayer|waitress,5.7,2.35
+Julie Benz,blood splatter|jigsaw|nazi|serial killer|swastika tattoo,5.8,1.85
+John Cassavetes,casino|gang violence|robbery|suicide|violence,6.2,2.35
+Nora Dunn,best friend|girl in panties|high school|high school romance|pink panties,4.3,2.35
+John Howard,camp|fishing|fishing trip|river|town,6.4,2.35
+Shah Rukh Khan,extramarital affair|fashion magazine editor|marriage|new york|teacher,6.0,2.35
+Minnie Driver,bachelor|blackmail|character says i love you|flirting|social satire,6.9,1.85
+Romola Garai,alien infection|astronaut|mars|mission|zombie,5.5,2.35
+Lena Olin,9 year old|blood|gramophone|house|missing children,5.4,2.35
+Keir Dullea,ancient astronaut|famous line|message from outer space|monolith|star child,8.3,2.2
+Henry Thomas,bicyclist|boy|doll|star wars reference|voice impersonation,7.9,1.85
+Kristen Stewart,actress|love|michigan|neighbor|writer,6.5,2.35
+William Hurt,butterfly|entomologist|morpho butterfly|rain|rain forest,6.3,1.85
+Ricky Schroder,high school|love|police|showdown|surfer,6.4,
+Antonia Thomas,blond boy|chlamydia|list|male rear nudity|young couple,7.9,
+Arjun Rampal,bad luck|casino|lie|mix up|stutter,5.3,
+Jon Gries,massacre|mormon|settler|utah|wagon train,5.8,1.85
+Santiago Cabrera,catholic|hanging|mexico|rebellion|soldier,6.6,2.35
+Karin Viard,audition|deaf|family relationships|love|singing,7.4,1.85
+Robin Williams,friend|genius|janitor|loss of wife|professor,8.3,1.85
+Al Pacino,black panties|lust|sexual attraction|voyeur|voyeurism,5.3,2.35
+Costas Mandylor,brutality|female full frontal nudity|female nudity|torture|trap,6.2,1.85
+Bill Murray,army|boot camp|breasts|graduation|rescue,6.9,1.85
+Kirsten Dunst,championship|cheerleading|high school|teen comedy|teenage romance,5.9,1.85
+Frank Grillo,cathedral|minister|presidential election|reference to george washington|ritual sacrifice,6.1,2.35
+Paul Walker,bet|friend|high school|prom|prom queen,5.8,1.85
+Mo'Nique,abuse|african american lesbian|lesbian|lesbian couple|school,7.3,1.85
+Costas Mandylor,detective|fbi|rape|rapist|serial rapist,5.9,1.85
+Deborah Kara Unger,architect|grave|obsession|river|voice,5.5,2.35
+Boris Kodjoe,cross dressing|family reunion|madea series|reflective|sister sister relationship,5.0,1.85
+Tom Cruise,hustler|losing|pool|pool player|tournament,7.0,1.85
+Richard Burton,allies|d day|invasion|normandy|world war two,7.8,2.35
+Lane Smith,coach|hockey team|lawyer|respect|team,6.4,1.85
+Sarah Michelle Gellar,american|curse|japan|nurse|rage,5.9,1.85
+Adam Sandler,golf|golf ball|golfer|grandmother's house|tournament,7.0,1.85
+Eileen Brennan,demon|gore|record player|tattoo|wings,6.1,1.85
+Keanu Reeves,failing student|high school|payphone|teenager|telephone booth,6.9,2.35
+Oliver Reed,abuse|child|orphan|orphanage|pickpocket,7.5,2.35
+Tom Wilkinson,hotel|india|marigold|retiree|retirement,7.3,2.35
+Diedrich Bader,friend|principal|summer|summer camp|summer vacation,6.5,1.85
+Tina Turner,arena|desert|fight|mad max|post apocalypse,6.2,2.35
+Bill Duke,body count|dictator|jumping from an airplane|knife fight|one man army,6.7,1.85
+Lauren Cohan,animate doll|doll|england|nanny|surprise ending,6.0,2.35
+Bojana Novakovic,devil|elevator|hit and run|throat slitting|trapped in an elevator,6.3,2.35
+John Witherspoon,apartment|christmas|christmas present|rent|security guard,5.8,1.85
+Lin Shaye,demon|possession|psychic|supernatural|teenager,6.1,2.35
+Mike Starr,cult film|kung fu|kung fu classic|martial arts|title spoken by character,6.9,1.85
+Jason Statham,boxer|boxing|diamond|fight|gypsy,8.3,1.85
+Jeff Fahey,intelligence|science runs amok|scientist|supernatural power|virtual reality,5.4,1.85
+Ari Graynor,band|gay|gay friend|love|night,6.7,1.85
+Matt Damon,abortion|abortion clinic|angel|church|clinic,7.4,2.35
+Erika Christensen,bartender|groupie|lawyer|road trip|writer,5.6,2.35
+Albert Brooks,1940s|1960s|bar|kick the can|remake,6.5,1.85
+Ben Gazzara,bikini|cult film|fired from the job|martial arts|violence,6.5,2.35
+Jada Pinkett Smith,drugs|ex cop|gun fu|machismo|shootout,5.8,1.85
+Erika Christensen,high school|hospital|new jersey|stanford university|swimming,5.0,2.35
+Dane Cook,competition|date|employee|laser in eyes|slacker,5.5,1.85
+Ethan Embry,graduation|high school|letter|nerd|party,6.5,1.85
+Tom Cruise,dysfunctional family|gang|greaser|holding someone's head underwater|rivalry,7.2,2.35
+Bryce Dallas Howard,,7.3,2.35
+Tom Skerritt,car accident|coma|evil politician|psychic|vision,7.2,1.85
+Laila Haley,deputy|farmhouse|nightmare|private investigator|rural,5.2,2.35
+Omari Hardwick,1960s|death|girl group|nightclub|sister,5.7,2.35
+Marley Shelton,dance|nosebleed|revenge|valentine|valentine's day,4.7,2.35
+Milla Jovovich,abduction|alaska|alien|owl|patient,5.9,2.35
+Meryl Streep,backstage|country music|cowboy|radio|singing,6.8,2.35
+Khandi Alexander,african american|harlem manhattan new york city|manhattan new york city|new york city|urination,5.9,1.85
+Billy Drago,army|nightmare|one man army|rescue|spy,5.3,1.85
+Jurnee Smollett-Bell,1970s|boy|competition|roller skates|tubesocks,6.0,2.35
+Bill Murray,coming of age|friendship|private school|student|teacher,7.7,2.35
+David Zayas,apartment|blue light|drawing|group of friends|light,4.4,2.35
+Tina Desai,sequel,6.6,2.35
+Julia Ormond,boarding house|girl|great depression|house|ohio,6.7,1.85
+Ben Feldman,e mail|moving|perfect man|secret admirer|suitor,5.5,1.85
+Denzel Washington,comeback|friend|jazz|stage|trumpet,6.5,1.85
+Steve Oedekerk,chosen one|comic violence|intentionally bad|kung fu|stylized violence,6.2,2.35
+Reba McEntire,desert|giant worm|monster|pipe bomb|small town,7.1,1.85
+Kevin Zegers,forest|mountain|road|stupid victim|west virginia,6.1,1.85
+Dennis Quaid,bank|breasts|famous score|last man standing|revenge,7.1,1.85
+Byron Mann,chinatown|illegal immigrant|new york|police|triad,6.0,2.35
+Matthew McConaughey,14 year old|boat|bounty hunter|boy|river,7.4,2.35
+Wendi McLendon-Covey,beach|police|sex scene|spring break|vomiting,5.9,1.85
+Harry Styles,3 dimensional|concert footage|englishman abroad|reference to keith richards|reference to the doors,4.1,1.85
+Rob Riggle,fourth of july|looking at one's self in a mirror|mirror|sex toy|young version of character,5.8,1.85
+Jennifer Jason Leigh,castle thunder|document|neighborhood|punctuation in title|villain arrested,5.9,1.85
+Eddie Redmayne,actress|assistant director|blonde bombshell|movie star|wardrobe,7.0,2.35
+Adam Scott,bar|hitman|luck|mexico|mexico city,6.8,2.35
+Leonard Roberts,african american|cult film|ex boyfriend|middle class|sex,7.4,1.85
+Busy Philipps,compulsive liar|fired from a job|gift|rape|substance abuse,7.1,2.35
+Chase Ellison,death|missionary|spear|speared to death|tribe,7.0,2.35
+Mila Kunis,basketball|dancer|high school|love triangle|shakespeare's a midsummer night's dream,5.8,2.35
+Gary Cole,boss|computer|downsizing|neighbor|office,7.8,1.85
+Kirsten Dunst,beauty pageant|blonde|cheerleader uniform|small town|upskirt,6.5,1.85
+Christoph Waltz,1950s|abusive husband|artist|painting|secret,7.0,1.85
+Jon Favreau,bachelor party|breasts|friend|prostitute|wedding,6.3,1.85
+Steve Carell,best friend|party|rival|scavenger hunt|sleepover,5.3,1.85
+Melanie Griffith,actor|neighbor|police|thief|tunnel,6.8,1.85
+Jasper Cole,colonel|lieutenant|nuclear warhead|team|washington d.c.,5.5,2.35
+Sophie Okonedo,hotel|immigrant|nigerian|surgery|underwear,7.4,1.85
+Hugh Jackman,awkwardness|embarrassment|gross out|irreverence|shame,4.3,1.85
+Johnny Depp,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,6.0,2.35
+Stephen Root,accident|diary|ghost|psychic|veterinarian,5.2,2.35
+Steve Carell,candle|end of the world|letter|record|road trip,6.7,2.35
+Kurtwood Smith,award|cedar rapids iowa|convention|hotel|insurance,6.3,1.85
+Michaela Conlin,anthropologist|fbi|fbi agent|forensics|investigation,7.9,1.78
+Ethan Suplee,curb stomping|neo nazi|prison|son dislikes mother's boyfriend|white supremacist,8.6,1.85
+Daniel Sharman,booby trap|brainwashing|mercenary|serial killer|trap,6.1,2.35
+Nathan Lane,dog|florida|mad scientist|school|teacher,5.8,1.85
+Johannes Silberschneider,auction|montreal|secret|violin|violinist,7.7,1.85
+Sissy Spacek,cane|iowa|lawn mower|tractor|wisconsin,8.0,2.35
+Norman Reedus,1950s|drug overdose|gang|gang war|new york city,5.6,2.35
+Beth Grant,directed by star|indian american|spelling|spelling bee|two word title,6.7,2.35
+Dylan Moran,blister|gym|marathon|training|wedding,6.6,2.35
+Bernadette Peters,escape|fish out of water|love|robot|servant,4.2,2.35
+Jennifer Ehle,color in title,6.6,2.35
+Jerry Stiller,based on short film|chicago illinois|el train|love|train,4.1,1.85
+Christian Bale,bombing|guard|jungle|laos|prisoner,7.3,1.85
+Al Pacino,entertainer|inspiration|lost opportunity|pregnant mother|rock star,7.1,
+Judy Greer,basement|errand|secret admirer|slacker|wrong number,6.5,1.85
+Flavio Parenti,chef|friend|italy|restaurant|russian,7.0,1.85
+Robert Picardo,box office flop|critically bashed|government|industrialist|railroad,5.5,2.35
+Gary Oldman,detective|police|protection|russian|sergeant,6.6,1.85
+Peter Fonda,daughter|englishman|ex con|revenge|young woman,7.1,1.85
+Don Cheadle,race relations|racism|racist|social problem|stereotype,7.9,2.35
+Eric Stoltz,high society|love|money|reputation|wealth,7.1,2.35
+Cliff Robertson,assassin|box office flop|cia|farmer|power,5.6,1.85
+Scott Mechlowicz,college|college athlete|comeback|gymnast|olympics,7.3,2.35
+Don Johnson,diner|eating a banana|masturbation|porn star|shooting a pornographic movie,3.3,1.85
+Gillian White,actor|minstrel show|protest|success|writer,6.5,1.85
+Eoin Macken,forest|japan|suicide|suicide forest|supernatural,4.8,1.85
+Frank Langella,bat|curse|egyptologist|mummy|murder,5.2,2.35
+Naomi Watts,documentary filmmaker|documentary filmmaking|father in law|generation z|hipster,6.3,1.85
+Demián Bichir,gang|gardener|money|police|truck,7.2,1.85
+Miranda Richardson,halfway house|key|reality|schizophrenia|spider,6.8,1.78
+Liam Neeson,colombian|enema|group therapy|murder|nurse,5.7,1.85
+Charlie Hunnam,boy|boys' school|death|friend|orphan,7.2,2.35
+Chris Evans,based on true story|contract killer|crime family|murder of a girl|serial murderer,6.9,1.85
+Krystyna Janda,meaning of life|moral challenge|morality|search for meaning|ten commandments,9.1,1.33
+Naseeruddin Shah,breaking the fourth wall|breaking the fourth wall by talking to the audience|computer|mask|singapore,6.3,2.35
+Alicia Witt,actress|drive in|female protagonist|movie star|woman shot in the forehead,6.2,1.85
+Matthew McConaughey,female nudity|female pubic hair|lingerie|neo noir|pubic hair,6.7,1.85
+Demi Moore,envy|fake family|gadget|materialism|unhappy marriage,6.5,2.35
+Philip Seymour Hoffman,bank|bank fraud|bank manager|gambling|toronto,7.2,2.35
+Jenna Fischer,antarctica|coma|neighbor|phd|pregnancy,5.3,1.85
+Natalie Portman,blueberry pie|diner|nevada|new york city|pie,6.7,2.35
+Beverly D'Angelo,critic|new york|new york city|playwright|theater critic,6.2,1.85
+Bruce Greenwood,island|sailor|storm|stranded|vacation,3.6,1.85
+Bashar Rahal,assassin|corporation|pop star|reporter|satire,5.7,1.78
+Wei Zhao,cult film|kung fu|martial arts|shaolin|soccer,7.3,1.85
+Vincent Gallo,boyfriend girlfriend relationship|erection|female frontal nudity|gang rape|prostitute,5.0,1.66
+Isabelle Huppert,con|con artist|money|scam|sils maria,6.6,1.66
+Numan Acar,based on true story|hijab|journalism|prison|reference to mahmoud ahmedinejad,6.6,1.85
+Olivier Martinez,foundry|foundry worker|french|friend|titanic,6.8,2.35
+Gerard Butler,modern day adaptation|reference to william shakespeare|shakespeare in modern dress|shakespeare play|shakespeare's coriolanus,6.2,2.35
+Kip Pardue,cat|christmas song|lawn mowing|leave of absence|medication,7.3,2.35
+Minnie Driver,attempted murder|blackmail|diver's watch|nurse|satire,6.2,1.85
+Robin Williams,black comedy|fictional talk show|high school teacher|phony suicide note|teacher,6.9,1.85
+Danny Dyer,blood splatter|eastern europe|female nudity|pine forest|team building,6.6,1.85
+Joe Mantegna,bipolar disorder|sodomy|stabbing|street life|violence,6.3,1.85
+Kristen Stewart,businessman|prostitute|street|stripper|travel,7.0,1.85
+Christopher Lee,captain|commandant|mafia|russian mafia|security system,3.3,1.85
+Ricky Schroder,based on autobiography|based on novel|based on true story|murder|racism,6.7,2.35
+Jorge Luis Moreno,,6.2,
+Chris Noth,apartment|death of protagonist|follow that car|la dolce vita|love,6.5,2.35
+Eric Idle,box office flop|critically bashed|director|hollywood|mockumentary,3.5,1.85
+Jeff Bridges,american south|baseball|farmland|motel|road trip,5.5,2.35
+Adrian Martinez,book club|cheating boyfriend|job promotion|manhattan new york city|new york city,5.9,1.85
+Stephanie Szostak,birthday|birthday party|delivery man|mother|neighbor,4.7,1.85
+Madison Pettis,,4.2,1.85
+Nicholas Hamilton,australian|desert|mother daughter relationship|mother son relationship|promiscuity,5.2,2.39
+Mike Epps,bigger dreams|concert promoter|hotel maid|pep talk|rap concert,5.2,1.85
+Drew Fuller,boss|business|career|confidence|female protagonist,3.9,1.85
+Jim Carter,landlady|lecture|murder|oxford university|symbol,6.1,2.35
+Damian Walshe-Howling,boat|great white shark|killing an animal|shark|underwater,5.8,2.35
+Zooey Deschanel,dysfunctional family|family relationships|family reunion|funeral|twin,6.7,1.85
+Teryl Rothery,angry spirit|aura|electronic voice phenomena|electronics|near death experience,5.7,2.35
+Shane Pollard,,4.5,2.35
+Jim Sturgess,1980s|ira|near death experience|title directed by female|what happened to epilogue,6.9,2.35
+Drake Bell,,4.8,
+Veronica Ferres,circus|dog|entertainer|holocaust|patient,6.3,2.35
+Ingvar Eggert Sigurðsson,barbed wire|barbed wire fence|horse|nature|snowstorm,6.9,2.35
+Sendhil Ramamurthy,afterlife|indian|murder|overweight woman|police,5.4,2.35
+Ray Winstone,desert|mercenary|priest|scientist|war veteran,3.8,1.85
+Jimi Mistry,india|love|muslim|pakistan|sikh,7.0,2.35
+Elaine Hendrix,,5.2,
+Kang-ho Song,bounty hunter|manchuria|map|train|treasure,7.3,2.35
+Boris Kodjoe,carnage|female nudity|purple panties|sexual attraction|shaved labia,4.6,2.35
+Tyler Mane,blacksmith|bounty hunter|duel|gunslinger|wild west,6.5,2.35
+Kristen Stewart,amusement park|strong female character|summer job|teen movie|teenager,6.8,1.85
+Danny Pino,1950s|cuba|cuban flag|fidel castro|havana cuba,6.7,1.85
+John Witherspoon,african american|flashback|marijuana joint|porn magazine|suburb,6.1,1.85
+Hayden Christensen,bank|critically bashed|heist|mechanic|prison,5.2,
+Donald Pleasence,faked death|japan|japanese|poison|secret headquarters,6.9,2.35
+Mem Ferda,credit card fraud|lesbian kiss|miami,6.0,
+Isabelle Huppert,aging|daughter|old couple|old love|stroke,7.9,1.85
+Tom Skerritt,aunt niece relationship|brother sister relationship|building|father daughter relationship|mirror,4.5,1.85
+Daniella Alonso,after dark|after dark horrorfest|fictional tv news show|outbreak,5.1,1.78
+Jonathan Winters,california|desert|dying words|money|race,7.6,2.76
+Carmen Maura,abusive father|child abuse|death|rape|secret,7.6,2.35
+John Vernon,anthology|girl|heavy metal|secretary|segments,6.7,1.37
+Jizelle Jade,amateur film|sexual harassment|sexual innuendo|small town|struggling parent,6.1,
+Robert Downey Jr.,1930s|abuse of power|england|king|murder,7.5,2.35
+Scott Glenn,bear|breasts|female nudity|grizzly|wilderness,5.3,1.85
+Bárbara Mori,casino|desert|love|suicide|tragic event,6.0,
+Alexander Skarsgård,art director|breasts|depression|outdoor sex|riding a horse,7.1,2.35
+Noah Taylor,australian|based on true events|dog|love|search,7.5,2.35
+Shah Rukh Khan,accident|army|bomb|indian army|love,6.9,2.35
+Tom Skerritt,alien|creature|future|outer space|spaceship,8.5,2.35
+Gunnar Hansen,cannibal|chainsaw|hitchhiker|independent film|leatherface,7.5,1.85
+Kristen Stewart,band|box office flop|critically bashed|historically inaccurate|revisionist history,6.6,2.35
+Topol,immigration|jewish|pogrom|tradition|tradition versus modernity,8.0,2.35
+Desmond Llewelyn,domino|fiery redhead|nassau|official james bond series|underwater battle,7.0,2.35
+Josh Hutcherson,blood splatter|detention|high school|overalls|reference to c. thomas howell,5.8,2.35
+Riccardo Scamarcio,gay|gay friend|grandmother grandson relationship|heart attack|mother son relationship,7.3,2.35
+Vivica A. Fox,bank|black comedy|main characters killed off|money|robbery,6.8,2.35
+Harold Perrineau,african american|bachelor party|brooklyn bridge|family relationships|stripper,6.7,1.85
+Catherine Hicks,birthday|doll|murder|serial killer|voodoo,6.5,1.85
+Michael Moore,canada|cuba|france|guantanamo|hmo,8.0,1.85
+Noel Gugliemi,held at gunpoint|machete|masked man|sequel|violence,6.5,2.35
+Rosario Dawson,artist|cake|college|new york city|student,4.9,1.85
+Ethan Embry,marijuana|police|road trip|stoner|white castle,7.1,1.85
+Jeff Bridges,bridge|governor|political thriller|president|vice president,7.0,1.85
+Vin Diesel,career|casino|judge|stock|stock broker,7.0,1.85
+Don Ameche,interracial relationship|poverty|prostitute|scam|stock market,7.5,1.85
+Oliver Hudson,attic|christmas|house|incest|sorority,4.5,2.35
+Jennifer Esposito,female to male foot in crotch|lingerie slip|love|mistaken identity|writer,5.5,2.35
+Brian Blessed,battle|battle of agincourt|king|shakespeare play|sword and shield,7.7,1.85
+Philip Seymour Hoffman,arizona|dementia|married man|sun city arizona|writing,7.2,1.85
+Carlos Ponce,beauty pageant|bilingual|dating|latino|three women,4.8,1.85
+Kristin Lehman,criminal|drifter|gangster|money|surrogate mother,6.7,1.85
+Kieran Culkin,boy|mistress|money|schizophrenic|school,7.0,2.35
+Jon Favreau,college|high school senior|meat|protest|university,6.5,1.85
+Bill Cobbs,billionaire|grandfather|playboy|trust fund baby|wealth,7.4,1.85
+Ronn Moss,beverly hills california|family relationships|los angeles california|soap opera,3.5,1.78
+Anjelica Huston,bar fight|cult film|ice|psychotronic|sword fight,5.7,1.85
+Emma Bell,boy|girl|soccer|south orange new jersey|teenager,6.2,2.35
+Billy Crudup,actress|lesbianism|manhattan new york city|urination|watching pornography,5.7,2.35
+Steve Coogan,gang banger|sequel|shakespeare's hamlet|student|time machine,6.4,1.85
+Christian Bale,1970s|glitter|political cover up|reference to katharine hepburn|reference to spencer tracy,7.0,1.85
+Jung-min Hwang,policeman|stranger|supernatural|village|vomiting,7.7,2.35
+Lea Michele,concert|live in concert recording|live performance,5.4,1.85
+Sarunyu Wongkrachang,16th century|burmese|invasion|queen|thailand,6.6,1.85
+John Amos,black cat|cat|evil|photographer|undead,6.1,1.85
+Lambert Wilson,,6.1,2.35
+Lesley Manville,love|neighbor|single parent|supermarket|working class,7.6,1.85
+Q'orianka Kilcher,hawaii|hawaiian|historically inaccurate|princess|tearing up a letter,6.2,2.35
+Jacqueline McKenzie,friend|girl|imaginary friend|outback|town,6.6,1.85
+Robert De Niro,bus|die hard scenario,6.1,2.35
+Lars Mikkelsen,danish|double agent|nazi|nazi occupation|resistance,7.3,2.35
+Fisher Stevens,bare chested male|box office flop|diner|german shepherd|one word title,4.2,2.35
+Andrew Garfield,ejected from a moving vehicle|gun held to head|handcuffs|shot multiple times|strangulation,7.1,1.85
+Catherine Deneuve,bar mitzvah|lawyer|train|wealth|wrestler,6.0,2.35
+Sarah Michelle Gellar,boyfriend girlfriend relationship|female protagonist|letter of resignation|mental hospital|sex,6.5,2.35
+Paul Hogan,australian outback|crocodile|female reporter|journalist|new york city,6.5,2.35
+Sean Pertwee,grimdark|mutilated corpse|space marine|ultramarines|warhammer 40k,5.7,1.85
+Stephen Graham,2000s|hospital|man in a wheelchair|year 2000|year 2002,6.1,2.35
+Harrison Gilbertson,blue clay|diversion|ends with biographical notes|ends with historical notes|tunnel,7.1,2.35
+Riccardo Scamarcio,abusive parent|child molester|child protection|photographer|police,7.3,1.85
+Hayden Christensen,anesthetic|anesthetic awareness|heart|heart surgery|surgery,6.5,2.35
+Dee Bradley Baker,begins with narration|female warrior|inbetwequel|jedi knight|war against machines,7.9,2.35
+Michael Jai White,bangkok thailand|detective|human trafficking|revenge|sex slavery,5.7,2.35
+Dianne Wiest,1980s|california|death|small town|vampire,7.2,2.35
+Jeff Bridges,country music|country western singer|journalist|musician|singer,7.3,2.35
+David Keith,awol|demand|driver|drugs|roses,6.9,1.85
+Djimon Hounsou,woman wearing only a man's shirt,5.0,1.85
+Jane Fonda,41st century|angel|future|laser gun|space opera,5.9,2.35
+Bjørn Sundquist,boy|island|pirate|ship|treasure,6.7,2.35
+Matthew Broderick,female protagonist|high school|self destructiveness|student council president|student government,7.3,2.35
+Jacinda Barrett,bengali|india|reference to gogol|train|train crash,7.6,1.85
+Bella Thorne,cartoon on tv|generation y|high school|overalls|strong female character,6.5,2.35
+Mariah Carey,cult film|disc jockey|female protagonist|music business|one word title,2.1,2.35
+Abigail Spencer,daughter|georgia|mother|slave|trailer,5.3,2.35
+Yu-mi Jeong,based on book|based on true story|rape|title spoken by character,7.2,2.35
+Abbie Cornish,19th century|friend|john keats|passion|poet,7.0,1.85
+Shah Rukh Khan,airport|asperger's syndrome|autism|muslim|racial profiling,8.0,2.35
+Dianne Wiest,church|cowboy boots|dancing|high school dance|teenager,6.5,1.85
+Robert Redford,boat|container|sea|shipping container|storm,6.9,2.35
+Mary Elizabeth Mastrantonio,alaska|island|motorboat|singer|wilderness,7.1,1.85
+Katrina Kaif,india|london england|marriage|stereotype|sugarcane,7.3,
+Padraic Delaney,civil war|colonialism|hatred|independence|rural ireland,7.5,1.85
+Ranbir Kapoor,jealousy|jumping into sea|love|swimming pool|wet clothes,6.9,
+Martin Kove,apartment|bully|fight|karate|master,7.2,1.85
+Peter Ustinov,christian|emperor|general|hostage|nero,7.2,1.37
+Alexa PenaVega,future|murder|opera|repossession|surgery,6.7,1.85
+Necati Sasmaz,abu ghraib|bomb|christian|explosion|iraq,6.0,1.85
+Bruce Willis,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,8.9,2.35
+Madeline Kahn,friend|frog leg|on the road|restaurant|the muppets,7.7,1.85
+Jake Gyllenhaal,employer employee relationship|ethics|journalism|sociopath|tv news,7.9,2.35
+Brittany Daniel,beach|island|party|resort|serial killer,5.6,2.35
+Eleanor Parker,austria|children|governess|love|orchestral music score,8.0,2.35

@@ -1,272 +1,365 @@
-num_critic_for_reviews,director_facebook_likes,actor_1_facebook_likes,movie_title,actor_3_name,movie_imdb_link,num_user_for_reviews,content_rating,budget,actor_2_facebook_likes,aspect_ratio
-203,64,16000,Woman in Gold ,Elizabeth McGovern,http://www.imdb.com/title/tt2404425/?ref_=fn_tt_tt_1,147,PG-13,11000000,638,2.35
-188,386,14000,Kinsey ,Dylan Baker,http://www.imdb.com/title/tt0362269/?ref_=fn_tt_tt_1,204,R,11000000,1000,2.35
-221,0,901,Army of Darkness ,Embeth Davidtz,http://www.imdb.com/title/tt0106308/?ref_=fn_tt_tt_1,604,R,13000000,888,1.85
-66,4,960,Slackers ,Jim Rash,http://www.imdb.com/title/tt0240900/?ref_=fn_tt_tt_1,107,R,11000000,448,1.85
-80,529,40000,What's Eating Gilbert Grape ,Kevin Tighe,http://www.imdb.com/title/tt0108550/?ref_=fn_tt_tt_1,292,PG-13,11000000,29000,1.85
-25,10,866,The Visual Bible: The Gospel of John ,Scott Handy,http://www.imdb.com/title/tt0377992/?ref_=fn_tt_tt_1,74,PG-13,17000000,147,1.85
-169,608,979,Vera Drake ,Imelda Staunton,http://www.imdb.com/title/tt0383694/?ref_=fn_tt_tt_1,165,R,11000000,594,1.85
-70,18,658,The Guru ,Jimi Mistry,http://www.imdb.com/title/tt0280720/?ref_=fn_tt_tt_1,128,R,11000000,463,1.85
-15,300,1000,The Perez Family ,Vincent Gallo,http://www.imdb.com/title/tt0114113/?ref_=fn_tt_tt_1,19,R,11000000,979,1.85
-535,1000,3000,Inside Llewyn Davis ,Alex Karpovsky,http://www.imdb.com/title/tt2042568/?ref_=fn_tt_tt_1,313,R,11000000,275,1.85
-92,596,1000,O ,John Heard,http://www.imdb.com/title/tt0184791/?ref_=fn_tt_tt_1,153,R,5000000,835,1.85
-14,8,14000,Return to the Blue Lagoon ,Lisa Pelikan,http://www.imdb.com/title/tt0102782/?ref_=fn_tt_tt_1,39,PG-13,11000000,163,1.85
-13,58,338,The Molly Maguires ,Samantha Eggar,http://www.imdb.com/title/tt0066090/?ref_=fn_tt_tt_1,36,PG,11000000,275,2.35
-87,0,14000,Romance & Cigarettes ,Eddie Izzard,http://www.imdb.com/title/tt0368222/?ref_=fn_tt_tt_1,69,R,,12000,2.35
-78,238,60,Copying Beethoven ,Angus Barnett,http://www.imdb.com/title/tt0424908/?ref_=fn_tt_tt_1,86,PG-13,11000000,35,2.35
-223,365,887,Poltergeist ,Craig T. Nelson,http://www.imdb.com/title/tt0084516/?ref_=fn_tt_tt_1,321,PG,10700000,770,2.35
-136,17,845,Brighton Rock ,Geoff Bell,http://www.imdb.com/title/tt1233192/?ref_=fn_tt_tt_1,59,R,12000000,641,2.35
-160,43,3000,Saw V ,Scott Patterson,http://www.imdb.com/title/tt1132626/?ref_=fn_tt_tt_1,262,R,10800000,723,1.85
-28,4,917,Machine Gun McCain ,Britt Ekland,http://www.imdb.com/title/tt0065895/?ref_=fn_tt_tt_1,12,GP,,545,2.35
-54,15,142,LOL ,Alix Freihage,http://www.imdb.com/title/tt1592873/?ref_=fn_tt_tt_1,111,PG-13,11000000,79,2.35
-75,10,172,Jindabyne ,Max Cullen,http://www.imdb.com/title/tt0382765/?ref_=fn_tt_tt_1,115,R,15000000,71,2.35
-20,160,8000,Kabhi Alvida Naa Kehna ,Preity Zinta,http://www.imdb.com/title/tt0449999/?ref_=fn_tt_tt_1,264,R,700000000,1000,2.35
-105,32,893,An Ideal Husband ,Jeremy Northam,http://www.imdb.com/title/tt0122541/?ref_=fn_tt_tt_1,132,PG-13,14000000,692,1.85
-120,7,805,The Last Days on Mars ,Tom Cullen,http://www.imdb.com/title/tt1709143/?ref_=fn_tt_tt_1,160,R,7000000,766,2.35
-108,57,541,Darkness ,Francesc Pagès,http://www.imdb.com/title/tt0273517/?ref_=fn_tt_tt_1,349,PG-13,10600000,451,2.35
-285,0,273,2001: A Space Odyssey ,Glenn Beck,http://www.imdb.com/title/tt0062622/?ref_=fn_tt_tt_1,1736,G,12000000,117,2.2
-215,14000,861,E.T. the Extra-Terrestrial ,Peter Coyote,http://www.imdb.com/title/tt0083866/?ref_=fn_tt_tt_1,515,PG,10500000,725,1.85
-81,21,17000,In the Land of Women ,Dustin Milligan,http://www.imdb.com/title/tt0419843/?ref_=fn_tt_tt_1,74,PG-13,10000000,1000,2.35
-17,4,882,The Blue Butterfly ,Raoul Max Trujillo,http://www.imdb.com/title/tt0313300/?ref_=fn_tt_tt_1,28,PG,12500000,450,1.85
-5,11,665,There Goes My Baby ,Seymour Cassel,http://www.imdb.com/title/tt0108320/?ref_=fn_tt_tt_1,31,R,10500000,446,
-3,,381,Lovesick             ,Hannah Britland,http://www.imdb.com/title/tt4051832/?ref_=fn_tt_tt_1,18,,,102,
-10,0,564,Housefull ,Riteish Deshmukh,http://www.imdb.com/title/tt1573072/?ref_=fn_tt_tt_1,43,,,154,
-43,58,482,September Dawn ,Trent Ford,http://www.imdb.com/title/tt0473700/?ref_=fn_tt_tt_1,111,R,11000000,362,1.85
-43,0,639,For Greater Glory: The True Story of Cristiada ,Catalina Sandino Moreno,http://www.imdb.com/title/tt1566501/?ref_=fn_tt_tt_1,57,R,10818775,377,2.35
-94,7,68,La Famille Bélier ,François Damiens,http://www.imdb.com/title/tt3547740/?ref_=fn_tt_tt_1,27,,11000000,29,1.85
-161,835,49000,Good Will Hunting ,Minnie Driver,http://www.imdb.com/title/tt0119217/?ref_=fn_tt_tt_1,682,R,10000000,13000,1.85
-38,29,14000,Misconduct ,Glen Powell,http://www.imdb.com/title/tt3658772/?ref_=fn_tt_tt_1,50,R,11000000,12000,2.35
-210,163,723,Saw III ,Leigh Whannell,http://www.imdb.com/title/tt0489270/?ref_=fn_tt_tt_1,614,R,10000000,651,1.85
-52,425,13000,Stripes ,Judge Reinhold,http://www.imdb.com/title/tt0083131/?ref_=fn_tt_tt_1,134,R,10000000,11000,1.85
-139,235,4000,Bring It On ,Clare Kramer,http://www.imdb.com/title/tt0204946/?ref_=fn_tt_tt_1,385,PG-13,10000000,464,1.85
-165,65,798,The Purge: Election Year ,Mykelti Williamson,http://www.imdb.com/title/tt4094724/?ref_=fn_tt_tt_1,94,R,10000000,465,2.35
-96,7,23000,She's All That ,Kieran Culkin,http://www.imdb.com/title/tt0160862/?ref_=fn_tt_tt_1,389,PG-13,10000000,1000,1.85
-323,304,939,Precious ,Mariah Carey,http://www.imdb.com/title/tt0929632/?ref_=fn_tt_tt_1,275,R,10000000,906,1.85
-190,163,723,Saw IV ,Angus Macfadyen,http://www.imdb.com/title/tt0890870/?ref_=fn_tt_tt_1,319,R,10000000,651,1.85
-173,13,494,White Noise ,Mike Dopud,http://www.imdb.com/title/tt0375210/?ref_=fn_tt_tt_1,403,PG-13,10000000,392,2.35
-46,0,1000,Madea's Family Reunion ,Blair Underwood,http://www.imdb.com/title/tt0455612/?ref_=fn_tt_tt_1,137,PG-13,6000000,907,1.85
-59,17000,10000,The Color of Money ,Mary Elizabeth Mastrantonio,http://www.imdb.com/title/tt0090863/?ref_=fn_tt_tt_1,115,R,13800000,970,1.85
-53,19,726,The Longest Day ,Eddie Albert,http://www.imdb.com/title/tt0056197/?ref_=fn_tt_tt_1,192,G,10000000,249,2.35
-22,65,633,The Mighty Ducks ,Elden Henson,http://www.imdb.com/title/tt0104868/?ref_=fn_tt_tt_1,46,PG,10000000,613,1.85
-203,70,4000,The Grudge ,Ted Raimi,http://www.imdb.com/title/tt0391198/?ref_=fn_tt_tt_1,911,PG-13,10000000,1000,1.85
-77,221,11000,Happy Gilmore ,Frances Bay,http://www.imdb.com/title/tt0116483/?ref_=fn_tt_tt_1,289,PG-13,12000000,503,1.85
-190,108,1000,Jeepers Creepers ,Jonathan Breck,http://www.imdb.com/title/tt0263488/?ref_=fn_tt_tt_1,985,R,10000000,322,1.85
-81,65,18000,Bill & Ted's Excellent Adventure ,Al Leong,http://www.imdb.com/title/tt0096928/?ref_=fn_tt_tt_1,181,PG,10000000,769,2.35
-56,82,695,Oliver! ,Jack Wild,http://www.imdb.com/title/tt0063385/?ref_=fn_tt_tt_1,138,G,10000000,275,2.35
-264,108,1000,The Best Exotic Marigold Hotel ,Celia Imrie,http://www.imdb.com/title/tt1412386/?ref_=fn_tt_tt_1,266,PG-13,10000000,400,2.35
-44,6,759,Recess: School's Out ,Dabney Coleman,http://www.imdb.com/title/tt0265632/?ref_=fn_tt_tt_1,38,G,23000000,563,1.85
-117,750,794,Mad Max Beyond Thunderdome ,Angelo Rossitto,http://www.imdb.com/title/tt0089530/?ref_=fn_tt_tt_1,193,PG-13,12305523,531,2.35
-124,73,1000,Commando ,Rae Dawn Chong,http://www.imdb.com/title/tt0088944/?ref_=fn_tt_tt_1,437,R,10000000,745,1.85
-159,19,4000,The Boy ,Stephanie Lemelin,http://www.imdb.com/title/tt3882082/?ref_=fn_tt_tt_1,155,PG-13,10000000,334,2.35
-273,66,2000,Devil ,Geoffrey Arend,http://www.imdb.com/title/tt1314655/?ref_=fn_tt_tt_1,319,PG-13,10000000,904,2.35
-26,7,723,Friday After Next ,Katt Williams,http://www.imdb.com/title/tt0293815/?ref_=fn_tt_tt_1,66,R,20000000,706,1.85
-242,482,852,Insidious: Chapter 3 ,Leigh Whannell,http://www.imdb.com/title/tt3195644/?ref_=fn_tt_tt_1,183,PG-13,10000000,542,2.35
-55,78,854,The Last Dragon ,Keshia Knight Pulliam,http://www.imdb.com/title/tt0089461/?ref_=fn_tt_tt_1,109,PG-13,10000000,841,1.85
-151,0,26000,Snatch ,Jason Flemyng,http://www.imdb.com/title/tt0208092/?ref_=fn_tt_tt_1,726,R,6000000,11000,1.85
-48,32,535,The Lawnmower Man ,Troy Evans,http://www.imdb.com/title/tt0104692/?ref_=fn_tt_tt_1,96,R,10000000,211,1.85
-166,6,904,Nick and Norah's Infinite Playlist ,Aaron Yoo,http://www.imdb.com/title/tt0981227/?ref_=fn_tt_tt_1,129,PG-13,9000000,715,1.85
-206,0,13000,Dogma ,George Carlin,http://www.imdb.com/title/tt0120655/?ref_=fn_tt_tt_1,1015,R,10000000,1000,2.35
-92,7,931,The Banger Sisters ,Sal Lopez,http://www.imdb.com/title/tt0280460/?ref_=fn_tt_tt_1,147,R,10000000,797,2.35
-78,287,745,Twilight Zone: The Movie ,Vic Morrow,http://www.imdb.com/title/tt0086491/?ref_=fn_tt_tt_1,121,PG,10000000,730,1.85
-83,9,623,Road House ,Kelly Lynch,http://www.imdb.com/title/tt0098206/?ref_=fn_tt_tt_1,201,R,17000000,472,2.35
-8,322,851,A Low Down Dirty Shame ,Charles S. Dutton,http://www.imdb.com/title/tt0110399/?ref_=fn_tt_tt_1,26,R,10000000,543,1.85
-86,21,931,Swimfan ,Jason Ritter,http://www.imdb.com/title/tt0283026/?ref_=fn_tt_tt_1,217,PG-13,8500000,855,2.35
-85,27,1000,Employee of the Month ,Jessica Simpson,http://www.imdb.com/title/tt0424993/?ref_=fn_tt_tt_1,151,PG-13,12000000,809,1.85
-76,4,982,Can't Hardly Wait ,Charlie Korsmo,http://www.imdb.com/title/tt0127723/?ref_=fn_tt_tt_1,247,PG-13,10000000,945,1.85
-60,0,10000,The Outsiders ,Tom Waits,http://www.imdb.com/title/tt0086066/?ref_=fn_tt_tt_1,308,PG-13,10000000,919,2.35
-78,38,3000,Pete's Dragon ,Isiah Whitlock Jr.,http://www.imdb.com/title/tt2788732/?ref_=fn_tt_tt_1,6,PG,65000000,424,2.35
-112,0,1000,The Dead Zone ,Anthony Zerbe,http://www.imdb.com/title/tt0085407/?ref_=fn_tt_tt_1,182,R,10000000,278,1.85
-189,11,1000,Sinister 2 ,Jaden Klein,http://www.imdb.com/title/tt2752772/?ref_=fn_tt_tt_1,126,R,10000000,412,2.35
-82,70,1000,Sparkle ,Mike Epps,http://www.imdb.com/title/tt1876451/?ref_=fn_tt_tt_1,48,PG-13,17000000,876,2.35
-120,9,690,Valentine ,Johnny Whitworth,http://www.imdb.com/title/tt0242998/?ref_=fn_tt_tt_1,371,R,10000000,533,2.35
-183,58,14000,The Fourth Kind ,Hakeem Kae-Kazim,http://www.imdb.com/title/tt1220198/?ref_=fn_tt_tt_1,330,PG-13,10000000,537,2.35
-211,500,11000,A Prairie Home Companion ,Lily Tomlin,http://www.imdb.com/title/tt0420087/?ref_=fn_tt_tt_1,280,PG-13,10000000,912,2.35
-14,5,556,Sugar Hill ,Steve Harris,http://www.imdb.com/title/tt0107079/?ref_=fn_tt_tt_1,35,R,10000000,475,1.85
-54,17,371,Invasion U.S.A. ,Eddie Jones,http://www.imdb.com/title/tt0089348/?ref_=fn_tt_tt_1,90,R,10000000,324,1.85
-55,92,2000,Roll Bounce ,Shad Moss,http://www.imdb.com/title/tt0403455/?ref_=fn_tt_tt_1,75,PG-13,,918,2.35
-179,0,13000,Rushmore ,Olivia Williams,http://www.imdb.com/title/tt0128445/?ref_=fn_tt_tt_1,640,R,9000000,933,2.35
-221,25,929,Skyline ,Brittany Daniel,http://www.imdb.com/title/tt1564585/?ref_=fn_tt_tt_1,944,PG-13,10000000,927,2.35
-158,108,220,The Second Best Exotic Marigold Hotel ,Ronald Pickup,http://www.imdb.com/title/tt2555736/?ref_=fn_tt_tt_1,100,PG,10000000,186,2.35
-73,22,918,Kit Kittredge: An American Girl ,Willow Smith,http://www.imdb.com/title/tt0846308/?ref_=fn_tt_tt_1,24,G,10000000,624,1.85
-65,15,1000,The Perfect Man ,Vanessa Lengies,http://www.imdb.com/title/tt0380623/?ref_=fn_tt_tt_1,104,PG,25000000,962,1.85
-23,0,18000,Mo' Better Blues ,Charlie Murphy,http://www.imdb.com/title/tt0100168/?ref_=fn_tt_tt_1,30,R,10000000,269,1.85
-63,176,176,Kung Pow: Enter the Fist ,Jennifer Tung,http://www.imdb.com/title/tt0240468/?ref_=fn_tt_tt_1,518,PG-13,10000000,67,2.35
-132,31,651,Tremors ,Michael Gross,http://www.imdb.com/title/tt0100814/?ref_=fn_tt_tt_1,248,PG-13,11000000,610,1.85
-191,36,2000,Wrong Turn ,Julian Richings,http://www.imdb.com/title/tt0295700/?ref_=fn_tt_tt_1,540,R,12600000,683,1.85
-52,394,2000,The Long Riders ,Randy Quaid,http://www.imdb.com/title/tt0081071/?ref_=fn_tt_tt_1,78,R,10000000,926,1.85
-91,164,258,The Corruptor ,Kim Chan,http://www.imdb.com/title/tt0142192/?ref_=fn_tt_tt_1,131,R,30000000,218,2.35
-368,337,11000,Mud ,Sam Shepard,http://www.imdb.com/title/tt1935179/?ref_=fn_tt_tt_1,261,PG-13,10000000,1000,2.35
-89,134,655,Reno 911!: Miami ,Carlos Alazraqui,http://www.imdb.com/title/tt0499554/?ref_=fn_tt_tt_1,73,R,10000000,651,1.85
-83,293,773,One Direction: This Is Us ,Niall Horan,http://www.imdb.com/title/tt2515086/?ref_=fn_tt_tt_1,68,PG,10000000,734,1.85
-83,23,839,The Goods: Live Hard, Sell Hard ,Charles Napier,http://www.imdb.com/title/tt1092633/?ref_=fn_tt_tt_1,59,R,,700,1.85
-33,14,1000,Hey Arnold! The Movie ,Paul Sorvino,http://www.imdb.com/title/tt0314166/?ref_=fn_tt_tt_1,43,PG,3000000,811,1.85
-386,64,13000,My Week with Marilyn ,Julia Ormond,http://www.imdb.com/title/tt1655420/?ref_=fn_tt_tt_1,216,R,6400000,2000,2.35
-191,47,3000,The Matador ,Hope Davis,http://www.imdb.com/title/tt0365485/?ref_=fn_tt_tt_1,234,R,10000000,497,2.35
-16,28,962,Love Jones ,Larenz Tate,http://www.imdb.com/title/tt0119572/?ref_=fn_tt_tt_1,28,R,10000000,826,1.85
-297,0,1000,The Gift ,Wendell Pierce,http://www.imdb.com/title/tt4178092/?ref_=fn_tt_tt_1,279,R,5000000,562,2.35
-47,2,772,End of the Spear ,Jack Guzman,http://www.imdb.com/title/tt0399862/?ref_=fn_tt_tt_1,148,PG-13,10000000,232,2.35
-63,13,15000,Get Over It ,Carmen Electra,http://www.imdb.com/title/tt0192071/?ref_=fn_tt_tt_1,180,PG-13,22000000,4000,2.35
-144,406,989,Office Space ,Diedrich Bader,http://www.imdb.com/title/tt0151804/?ref_=fn_tt_tt_1,621,R,10000000,939,1.85
-77,31,4000,Drop Dead Gorgeous ,Ellen Barkin,http://www.imdb.com/title/tt0157503/?ref_=fn_tt_tt_1,321,PG-13,10000000,980,1.85
-325,13000,11000,Big Eyes ,Jon Polito,http://www.imdb.com/title/tt1126590/?ref_=fn_tt_tt_1,147,PG-13,10000000,430,1.85
-100,532,4000,Very Bad Things ,Jeanne Tripplehorn,http://www.imdb.com/title/tt0124198/?ref_=fn_tt_tt_1,481,R,10000000,796,1.85
-52,18,7000,Sleepover ,Hunter Parrish,http://www.imdb.com/title/tt0368975/?ref_=fn_tt_tt_1,75,PG,10000000,2000,1.85
-98,0,537,Body Double ,Gregg Henry,http://www.imdb.com/title/tt0086984/?ref_=fn_tt_tt_1,178,R,10000000,376,1.85
-163,434,1000,MacGruber ,Powers Boothe,http://www.imdb.com/title/tt1470023/?ref_=fn_tt_tt_1,125,R,10000000,622,2.35
-137,350,460,Dirty Pretty Things ,Sergi López,http://www.imdb.com/title/tt0301199/?ref_=fn_tt_tt_1,203,R,10000000,372,1.85
-180,0,20000,Movie 43 ,Seth MacFarlane,http://www.imdb.com/title/tt1333125/?ref_=fn_tt_tt_1,352,R,6000000,14000,1.85
-321,207,40000,The Tourist ,Rufus Sewell,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1,374,PG-13,100000000,11000,2.35
-100,4,939,Over Her Dead Body ,Wendi McLendon-Covey,http://www.imdb.com/title/tt0785007/?ref_=fn_tt_tt_1,53,PG-13,10000000,702,2.35
-265,63,7000,Seeking a Friend for the End of the World ,Rob Huebel,http://www.imdb.com/title/tt1307068/?ref_=fn_tt_tt_1,221,R,10000000,353,2.35
-212,44,1000,Cedar Rapids ,Alia Shawkat,http://www.imdb.com/title/tt1477837/?ref_=fn_tt_tt_1,85,R,,939,1.85
-68,,1000,Bones             ,Tamara Taylor,http://www.imdb.com/title/tt0460627/?ref_=fn_tt_tt_1,173,TV-14,,722,1.78
-162,194,1000,American History X ,Stacy Keach,http://www.imdb.com/title/tt0120586/?ref_=fn_tt_tt_1,1420,R,7500000,816,1.85
-147,87,1000,The Collection ,Lee Tergesen,http://www.imdb.com/title/tt1748227/?ref_=fn_tt_tt_1,99,R,10000000,581,2.35
-33,0,886,Teacher's Pet ,Jerry Stiller,http://www.imdb.com/title/tt0350194/?ref_=fn_tt_tt_1,26,PG,10000000,808,1.85
-94,63,24,The Red Violin ,Carlo Cecchi,http://www.imdb.com/title/tt0120802/?ref_=fn_tt_tt_1,247,R,10000000,3,1.85
-143,0,874,The Straight Story ,Everett McGill,http://www.imdb.com/title/tt0166896/?ref_=fn_tt_tt_1,414,G,10000000,262,2.35
-38,9,12000,Deuces Wild ,Frankie Muniz,http://www.imdb.com/title/tt0231448/?ref_=fn_tt_tt_1,92,R,10000000,11000,2.35
-126,0,628,Bad Words ,Patricia Belcher,http://www.imdb.com/title/tt2170299/?ref_=fn_tt_tt_1,119,R,10000000,497,2.35
-168,0,427,Run, Fatboy, Run ,India de Beaufort,http://www.imdb.com/title/tt0425413/?ref_=fn_tt_tt_1,143,PG-13,,269,2.35
-19,13,753,Heartbeeps ,Christopher Guest,http://www.imdb.com/title/tt0082507/?ref_=fn_tt_tt_1,31,PG,10000000,695,2.35
-91,57,1000,Black or White ,Jillian Estell,http://www.imdb.com/title/tt2883434/?ref_=fn_tt_tt_1,57,PG-13,9000000,837,2.35
-46,49,719,On the Line ,Dave Foley,http://www.imdb.com/title/tt0279286/?ref_=fn_tt_tt_1,79,PG,16000000,405,1.85
-198,0,23000,Rescue Dawn ,François Chau,http://www.imdb.com/title/tt0462504/?ref_=fn_tt_tt_1,205,PG-13,10000000,342,1.85
-139,102,14000,Danny Collins ,Melissa Benoist,http://www.imdb.com/title/tt1772288/?ref_=fn_tt_tt_1,100,R,10000000,3000,
-182,157,2000,Jeff, Who Lives at Home ,Rae Dawn Chong,http://www.imdb.com/title/tt1588334/?ref_=fn_tt_tt_1,112,R,10000000,616,1.85
-181,64,144,I Am Love ,Alba Rohrwacher,http://www.imdb.com/title/tt1226236/?ref_=fn_tt_tt_1,114,R,10000000,110,1.85
-23,60,823,Atlas Shrugged II: The Strike ,Esai Morales,http://www.imdb.com/title/tt1985017/?ref_=fn_tt_tt_1,122,PG-13,10000000,759,2.35
-30,34,10000,Romeo Is Bleeding ,Lena Olin,http://www.imdb.com/title/tt0107983/?ref_=fn_tt_tt_1,88,R,11500000,721,1.85
-111,0,402,The Limey ,William Lucking,http://www.imdb.com/title/tt0165854/?ref_=fn_tt_tt_1,240,R,9000000,296,1.85
-287,549,3000,Crash ,Jennifer Esposito,http://www.imdb.com/title/tt0375679/?ref_=fn_tt_tt_1,1624,R,6500000,912,2.35
-96,25,902,The House of Mirth ,Elizabeth McGovern,http://www.imdb.com/title/tt0200720/?ref_=fn_tt_tt_1,181,PG,10000000,576,2.35
-27,4,754,Malone ,Dennis Burkley,http://www.imdb.com/title/tt0093483/?ref_=fn_tt_tt_1,37,R,10000000,324,1.85
-44,108,634,Peaceful Warrior ,Agnes Bruckner,http://www.imdb.com/title/tt0438315/?ref_=fn_tt_tt_1,175,PG-13,10000000,436,2.35
-49,105,982,Bucky Larson: Born to Be a Star ,Nicholas Turturro,http://www.imdb.com/title/tt1411664/?ref_=fn_tt_tt_1,64,R,10000000,503,1.85
-57,0,1000,Bamboozled ,Jada Pinkett Smith,http://www.imdb.com/title/tt0215545/?ref_=fn_tt_tt_1,186,R,10000000,975,1.85
-185,4,533,The Forest ,Gen Seto,http://www.imdb.com/title/tt3387542/?ref_=fn_tt_tt_1,127,PG-13,10000000,35,1.85
-2,76,902,Sphinx ,John Gielgud,http://www.imdb.com/title/tt0083113/?ref_=fn_tt_tt_1,21,PG,14000000,488,2.35
-270,387,6000,While We're Young ,Dree Hemingway,http://www.imdb.com/title/tt1791682/?ref_=fn_tt_tt_1,96,R,10000000,139,1.85
-94,129,749,A Better Life ,Robert Peters,http://www.imdb.com/title/tt1554091/?ref_=fn_tt_tt_1,81,PG-13,10000000,252,1.85
-157,0,530,Spider ,Lynn Redgrave,http://www.imdb.com/title/tt0278731/?ref_=fn_tt_tt_1,213,R,8000000,387,1.78
-49,3,14000,Gun Shy ,Mitch Pileggi,http://www.imdb.com/title/tt0171356/?ref_=fn_tt_tt_1,91,R,10000000,1000,1.85
-80,41,16000,Nicholas Nickleby ,Jim Broadbent,http://www.imdb.com/title/tt0309912/?ref_=fn_tt_tt_1,103,PG,10000000,11000,2.35
-221,34,11000,The Iceman ,Robert Davi,http://www.imdb.com/title/tt1491044/?ref_=fn_tt_tt_1,144,R,10000000,11000,1.85
-53,,20,Dekalog             ,Olgierd Lukaszewicz,http://www.imdb.com/title/tt0092337/?ref_=fn_tt_tt_1,37,TV-MA,,3,1.33
-20,53,307,Krrish ,Sharat Saxena,http://www.imdb.com/title/tt0432637/?ref_=fn_tt_tt_1,110,Not Rated,10000000,200,2.35
-90,0,975,Cecil B. DeMented ,Kevin Nealon,http://www.imdb.com/title/tt0173716/?ref_=fn_tt_tt_1,150,R,10000000,537,1.85
-376,607,11000,Killer Joe ,Carol Sutton,http://www.imdb.com/title/tt1726669/?ref_=fn_tt_tt_1,216,R,11000000,414,1.85
-144,17,2000,The Joneses ,Robert Pralgo,http://www.imdb.com/title/tt1285309/?ref_=fn_tt_tt_1,88,R,5000000,989,2.35
-82,23,22000,Owning Mahowny ,Maury Chaykin,http://www.imdb.com/title/tt0285861/?ref_=fn_tt_tt_1,83,R,10000000,893,2.35
-51,0,966,The Brothers Solomon ,Will Forte,http://www.imdb.com/title/tt0784972/?ref_=fn_tt_tt_1,46,R,10000000,799,1.85
-192,0,20000,My Blueberry Nights ,Adriane Lenox,http://www.imdb.com/title/tt0765120/?ref_=fn_tt_tt_1,117,PG-13,10000000,329,2.35
-36,0,816,Illuminata ,George DiCenzo,http://www.imdb.com/title/tt0120709/?ref_=fn_tt_tt_1,40,R,,623,1.85
-71,0,990,Swept Away ,David Thornton,http://www.imdb.com/title/tt0291502/?ref_=fn_tt_tt_1,215,R,10000000,711,1.85
-79,0,603,War, Inc. ,Ned Bellamy,http://www.imdb.com/title/tt0884224/?ref_=fn_tt_tt_1,112,R,10000000,175,1.78
-246,0,478,Shaolin Soccer ,Kwok-Kwan Chan,http://www.imdb.com/title/tt0286112/?ref_=fn_tt_tt_1,243,PG,10000000,83,1.85
-115,787,787,The Brown Bunny ,Anna Vareschi,http://www.imdb.com/title/tt0330099/?ref_=fn_tt_tt_1,226,Not Rated,10000000,96,1.66
-34,324,678,The Swindle ,Michel Serrault,http://www.imdb.com/title/tt0120018/?ref_=fn_tt_tt_1,21,,60000000,541,1.66
-129,593,374,Rosewater ,Haluk Bilginer,http://www.imdb.com/title/tt2752688/?ref_=fn_tt_tt_1,37,R,5000000,362,1.85
-22,163,837,The Chambermaid on the Titanic ,Romane Bohringer,http://www.imdb.com/title/tt0129923/?ref_=fn_tt_tt_1,14,,,130,2.35
-196,0,18000,Coriolanus ,Lubna Azabal,http://www.imdb.com/title/tt1372686/?ref_=fn_tt_tt_1,118,R,,451,2.35
-73,24,374,Imaginary Heroes ,Larry Fessenden,http://www.imdb.com/title/tt0373024/?ref_=fn_tt_tt_1,56,R,4000000,181,2.35
-43,302,893,High Heels and Low Lifes ,Mary McCormack,http://www.imdb.com/title/tt0253126/?ref_=fn_tt_tt_1,44,R,10000000,798,1.85
-129,800,49000,World's Greatest Dad ,Henry Simmons,http://www.imdb.com/title/tt1262981/?ref_=fn_tt_tt_1,129,R,,640,1.85
-200,76,798,Severance ,Laura Harris,http://www.imdb.com/title/tt0464196/?ref_=fn_tt_tt_1,194,R,5000000,769,1.85
-79,216,1000,Edmond ,Jeffrey Combs,http://www.imdb.com/title/tt0443496/?ref_=fn_tt_tt_1,119,R,10000000,922,1.85
-112,26,17000,Welcome to the Rileys ,Kerry Cahill,http://www.imdb.com/title/tt1183923/?ref_=fn_tt_tt_1,56,R,,793,1.85
-17,3,16000,Police Academy: Mission to Moscow ,G.W. Bailey,http://www.imdb.com/title/tt0110857/?ref_=fn_tt_tt_1,103,PG,6200000,542,1.85
-20,11,665,Blood Done Sign My Name ,Lee Norris,http://www.imdb.com/title/tt1210039/?ref_=fn_tt_tt_1,3,PG-13,,664,2.35
-12,21,78,Cinco de Mayo, La Batalla ,William Miller,http://www.imdb.com/title/tt2553908/?ref_=fn_tt_tt_1,3,R,10000000,61,
-59,53,962,Elsa & Fred ,James Brolin,http://www.imdb.com/title/tt2113659/?ref_=fn_tt_tt_1,18,PG-13,10000000,545,2.35
-29,71,795,An Alan Smithee Film: Burn Hollywood Burn ,Ryan O'Neal,http://www.imdb.com/title/tt0118577/?ref_=fn_tt_tt_1,85,R,10000000,474,1.85
-23,7,12000,The Open Road ,Ted Danson,http://www.imdb.com/title/tt1007018/?ref_=fn_tt_tt_1,11,PG-13,10000000,3000,2.35
-22,0,806,The Good Guy ,Aaron Yoo,http://www.imdb.com/title/tt1247662/?ref_=fn_tt_tt_1,20,R,8000000,690,1.85
-43,8,1000,Motherhood ,Anthony Edwards,http://www.imdb.com/title/tt1220220/?ref_=fn_tt_tt_1,23,PG-13,5000000,893,1.85
-16,50,835,Free Style ,Sandra Echeverría,http://www.imdb.com/title/tt1128071/?ref_=fn_tt_tt_1,4,PG,,632,1.85
-84,93,147,Strangerland ,Sean Keenan,http://www.imdb.com/title/tt2325977/?ref_=fn_tt_tt_1,57,R,10000000,52,2.39
-4,7,706,The Janky Promoters ,Glenn Plummer,http://www.imdb.com/title/tt1210071/?ref_=fn_tt_tt_1,10,R,,405,1.85
-20,7,906,Blonde Ambition ,Larry Miller,http://www.imdb.com/title/tt0887719/?ref_=fn_tt_tt_1,34,PG-13,10000000,848,1.85
-71,275,439,The Oxford Murders ,Danny Sapani,http://www.imdb.com/title/tt0488604/?ref_=fn_tt_tt_1,94,R,10000000,161,2.35
-102,10,122,The Reef ,Adrienne Pickering,http://www.imdb.com/title/tt1320291/?ref_=fn_tt_tt_1,89,R,,109,2.35
-27,0,11000,Eulogy ,Kelly Preston,http://www.imdb.com/title/tt0349416/?ref_=fn_tt_tt_1,68,R,6500000,826,1.85
-62,71,298,White Noise 2: The Light ,Adrian Holmes,http://www.imdb.com/title/tt0496436/?ref_=fn_tt_tt_1,82,PG-13,10000000,258,2.35
-5,8,485,You Got Served: Beat the World ,Chase Armitage,http://www.imdb.com/title/tt1568139/?ref_=fn_tt_tt_1,11,PG-13,10000000,152,2.35
-76,13,5000,Fifty Dead Men Walking ,Michael McElhatton,http://www.imdb.com/title/tt1097643/?ref_=fn_tt_tt_1,38,R,6000000,2000,2.35
-8,0,1000,Jungle Shuffle ,Amanda Troop,http://www.imdb.com/title/tt2722786/?ref_=fn_tt_tt_1,2,,10000000,618,
-75,261,30000,Adam Resurrected ,Derek Jacobi,http://www.imdb.com/title/tt0479341/?ref_=fn_tt_tt_1,31,R,10000000,744,2.35
-66,4,63,Of Horses and Men ,Sigríður María Egilsdóttir,http://www.imdb.com/title/tt3074732/?ref_=fn_tt_tt_1,7,,10000000,10,2.35
-31,98,1000,It's a Wonderful Afterlife ,Shabana Azmi,http://www.imdb.com/title/tt1319716/?ref_=fn_tt_tt_1,16,PG-13,10000000,891,2.35
-32,110,1000,The Devil's Tomb ,Jason London,http://www.imdb.com/title/tt1147687/?ref_=fn_tt_tt_1,60,R,10000000,898,1.85
-17,24,183,Partition ,John Light,http://www.imdb.com/title/tt0213985/?ref_=fn_tt_tt_1,27,R,10000000,136,2.35
-4,5,670,Good Intentions ,Jon Gries,http://www.imdb.com/title/tt1070781/?ref_=fn_tt_tt_1,3,PG-13,10000000,608,
-152,419,398,The Good, the Bad, the Weird ,Dal-su Oh,http://www.imdb.com/title/tt0901487/?ref_=fn_tt_tt_1,74,R,10000000,149,2.35
-129,36,1000,Nurse 3D ,Kathleen Turner,http://www.imdb.com/title/tt1913166/?ref_=fn_tt_tt_1,75,R,10000000,948,2.35
-15,3,764,Gunless ,Dustin Milligan,http://www.imdb.com/title/tt1376195/?ref_=fn_tt_tt_1,27,,10000000,716,2.35
-248,99,17000,Adventureland ,Wendie Malick,http://www.imdb.com/title/tt1091722/?ref_=fn_tt_tt_1,220,R,,985,1.85
-52,0,786,The Lost City ,Enrique Murciano,http://www.imdb.com/title/tt0343996/?ref_=fn_tt_tt_1,165,R,9600000,228,1.85
-55,41,723,Next Friday ,Rolando Molina,http://www.imdb.com/title/tt0195945/?ref_=fn_tt_tt_1,84,R,9500000,706,1.85
-30,9,4000,American Heist ,Akon,http://www.imdb.com/title/tt2923316/?ref_=fn_tt_tt_1,42,R,10000000,4000,
-130,43,742,You Only Live Twice ,Desmond Llewelyn,http://www.imdb.com/title/tt0062512/?ref_=fn_tt_tt_1,267,Approved,9500000,462,2.35
-29,7,31000,Plastic ,Malese Jow,http://www.imdb.com/title/tt2556874/?ref_=fn_tt_tt_1,12,R,10000000,1000,
-447,0,678,Amour ,Jean-Louis Trintignant,http://www.imdb.com/title/tt1602620/?ref_=fn_tt_tt_1,190,PG-13,8900000,432,1.85
-66,17,1000,Poltergeist III ,Zelda Rubinstein,http://www.imdb.com/title/tt0095889/?ref_=fn_tt_tt_1,114,PG-13,10500000,887,1.85
-18,6,557,Re-Kill ,Jesse Garcia,http://www.imdb.com/title/tt1612319/?ref_=fn_tt_tt_1,26,R,9500000,290,1.78
-61,176,924,It's a Mad, Mad, Mad, Mad World ,Spencer Tracy,http://www.imdb.com/title/tt0057193/?ref_=fn_tt_tt_1,344,Approved,9400000,898,2.76
-232,0,148,Volver ,Antonio de la Torre,http://www.imdb.com/title/tt0441909/?ref_=fn_tt_tt_1,228,R,,114,2.35
-62,0,187,Heavy Metal ,Don Francks,http://www.imdb.com/title/tt0082509/?ref_=fn_tt_tt_1,147,R,9300000,176,1.37
-106,100,33000,Gentlemen Broncos ,Héctor Jiménez,http://www.imdb.com/title/tt1161418/?ref_=fn_tt_tt_1,54,PG-13,,947,
-56,12,21000,Richard III ,Kristin Scott Thomas,http://www.imdb.com/title/tt0114279/?ref_=fn_tt_tt_1,88,R,6000000,1000,2.35
-48,43,826,Into the Grizzly Maze ,Luisa D'Oliveira,http://www.imdb.com/title/tt1694021/?ref_=fn_tt_tt_1,38,R,10000000,476,1.85
-41,116,594,Kites ,Kabir Bedi,http://www.imdb.com/title/tt1198101/?ref_=fn_tt_tt_1,106,,600000000,412,
-439,3000,10000,Melancholia ,Charlotte Rampling,http://www.imdb.com/title/tt1527186/?ref_=fn_tt_tt_1,551,R,7400000,4000,2.35
-54,25,509,Red Dog ,Luke Ford,http://www.imdb.com/title/tt0803061/?ref_=fn_tt_tt_1,80,PG,8500000,446,2.35
-50,147,8000,Jab Tak Hai Jaan ,Vic Waghorn,http://www.imdb.com/title/tt2176013/?ref_=fn_tt_tt_1,286,Not Rated,7217600,3000,2.35
-392,0,1000,Alien ,Bolaji Badejo,http://www.imdb.com/title/tt0078748/?ref_=fn_tt_tt_1,1110,R,11000000,581,2.35
-277,365,383,The Texas Chain Saw Massacre ,Marilyn Burns,http://www.imdb.com/title/tt0072271/?ref_=fn_tt_tt_1,826,R,83532,371,1.85
-259,50,17000,The Runaways ,Johnny Lewis,http://www.imdb.com/title/tt1017451/?ref_=fn_tt_tt_1,129,R,10000000,908,2.35
-66,278,402,Fiddler on the Roof ,Rosalind Harris,http://www.imdb.com/title/tt0067093/?ref_=fn_tt_tt_1,150,G,9000000,343,2.35
-129,92,244,Thunderball ,Lois Maxwell,http://www.imdb.com/title/tt0059800/?ref_=fn_tt_tt_1,275,Approved,9000000,189,2.35
-115,33,14000,Detention ,Parker Bagley,http://www.imdb.com/title/tt1701990/?ref_=fn_tt_tt_1,76,R,10000000,383,2.35
-81,798,580,Loose Cannons ,Lunetta Savino,http://www.imdb.com/title/tt1405810/?ref_=fn_tt_tt_1,29,,,26,2.35
-29,473,890,Set It Off ,Blair Underwood,http://www.imdb.com/title/tt0117603/?ref_=fn_tt_tt_1,70,R,9000000,851,2.35
-32,92,1000,The Best Man ,Jarrod Bunch,http://www.imdb.com/title/tt0168501/?ref_=fn_tt_tt_1,79,R,9000000,886,1.85
-142,85,311,Child's Play ,Dinah Manoff,http://www.imdb.com/title/tt0094862/?ref_=fn_tt_tt_1,281,R,9000000,189,1.85
-263,909,909,Sicko ,Bill Clinton,http://www.imdb.com/title/tt0386032/?ref_=fn_tt_tt_1,429,PG-13,9000000,203,1.85
-285,65,2000,The Purge: Anarchy ,Roberta Valderrama,http://www.imdb.com/title/tt2975578/?ref_=fn_tt_tt_1,244,R,9000000,971,2.35
-64,0,3000,Down to You ,Shawn Hatosy,http://www.imdb.com/title/tt0186975/?ref_=fn_tt_tt_1,173,PG-13,9000000,683,1.85
-150,8,982,Harold & Kumar Go to White Castle ,Paula Garcés,http://www.imdb.com/title/tt0366551/?ref_=fn_tt_tt_1,316,R,9000000,729,1.85
-136,37,12000,The Contender ,William Petersen,http://www.imdb.com/title/tt0208874/?ref_=fn_tt_tt_1,370,R,20000000,10000,1.85
-132,46,14000,Boiler Room ,Herbert Russell,http://www.imdb.com/title/tt0181984/?ref_=fn_tt_tt_1,246,R,8000000,826,1.85
-71,644,392,Trading Places ,Ralph Bellamy,http://www.imdb.com/title/tt0086465/?ref_=fn_tt_tt_1,159,R,,249,1.85
-186,17,607,Black Christmas ,Andrea Martin,http://www.imdb.com/title/tt0454082/?ref_=fn_tt_tt_1,278,R,9000000,318,2.35
-39,2,911,Breakin' All the Rules ,Patrick Cranshaw,http://www.imdb.com/title/tt0349169/?ref_=fn_tt_tt_1,26,PG-13,,150,2.35
-46,0,591,Henry V ,Danny Webb,http://www.imdb.com/title/tt0097499/?ref_=fn_tt_tt_1,108,PG-13,9000000,520,1.85
-201,84,22000,The Savages ,Gbenga Akinnagbe,http://www.imdb.com/title/tt0775529/?ref_=fn_tt_tt_1,127,R,,929,1.85
-32,17,591,Chasing Papi ,Maria Conchita Alonso,http://www.imdb.com/title/tt0323572/?ref_=fn_tt_tt_1,41,PG,,579,1.85
-117,188,187,The Way of the Gun ,Dylan Kussman,http://www.imdb.com/title/tt0202677/?ref_=fn_tt_tt_1,327,R,8500000,127,1.85
-136,23,1000,Igby Goes Down ,Bill Irwin,http://www.imdb.com/title/tt0280760/?ref_=fn_tt_tt_1,238,R,9000000,710,2.35
-15,157,4000,PCU ,Chris Young,http://www.imdb.com/title/tt0110759/?ref_=fn_tt_tt_1,52,PG-13,8000000,248,1.85
-46,6,970,The Ultimate Gift ,Mircea Monroe,http://www.imdb.com/title/tt0482629/?ref_=fn_tt_tt_1,81,PG,,906,1.85
-1,,177,The Bold and the Beautiful             ,Hunter Tylo,http://www.imdb.com/title/tt0092325/?ref_=fn_tt_tt_1,54,TV-14,,170,1.78
-41,12,1000,The Ice Pirates ,Robert Urich,http://www.imdb.com/title/tt0087451/?ref_=fn_tt_tt_1,56,PG,9000000,300,1.85
-65,49,702,Gracie ,Carly Schroeder,http://www.imdb.com/title/tt0441007/?ref_=fn_tt_tt_1,27,PG-13,9000000,616,2.35
-100,38,745,Trust the Man ,Dagmara Dominczyk,http://www.imdb.com/title/tt0427968/?ref_=fn_tt_tt_1,63,R,9000000,591,2.35
-129,26,1000,Hamlet 2 ,David Arquette,http://www.imdb.com/title/tt1104733/?ref_=fn_tt_tt_1,76,R,9000000,1000,1.85
-103,162,23000,Velvet Goldmine ,Janet McTeer,http://www.imdb.com/title/tt0120879/?ref_=fn_tt_tt_1,314,R,,776,1.85
-77,43,45,The Wailing ,Woo-hee Chun,http://www.imdb.com/title/tt5215952/?ref_=fn_tt_tt_1,24,Not Rated,,5,2.35
-67,64,2000,Glee: The 3D Concert Movie ,Kevin McHale,http://www.imdb.com/title/tt1922612/?ref_=fn_tt_tt_1,21,PG,9000000,892,1.85
-31,6,7,The Legend of Suriyothai ,Mai Charoenpura,http://www.imdb.com/title/tt0290879/?ref_=fn_tt_tt_1,47,R,400000000,6,1.85
-76,930,982,Two Evil Eyes ,Sally Kirkland,http://www.imdb.com/title/tt0100827/?ref_=fn_tt_tt_1,45,R,9000000,602,1.85
-17,0,186,Barbecue ,Lionel Abelanski,http://www.imdb.com/title/tt3202120/?ref_=fn_tt_tt_1,1,,,41,2.35
-81,608,149,All or Nothing ,Gary McDonald,http://www.imdb.com/title/tt0286261/?ref_=fn_tt_tt_1,94,R,9000000,44,1.85
-26,3,679,Princess Kaiulani ,Shaun Evans,http://www.imdb.com/title/tt1185344/?ref_=fn_tt_tt_1,14,PG,9000000,537,2.35
-24,11,185,Opal Dream ,Peter Callan,http://www.imdb.com/title/tt0420835/?ref_=fn_tt_tt_1,6,PG,11400000,62,1.85
-44,8,22000,Heist ,D.B. Sweeney,http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,57,R,19000000,1000,2.35
-80,28,573,Flame and Citron ,Christian Berkel,http://www.imdb.com/title/tt0920458/?ref_=fn_tt_tt_1,44,Not Rated,45000000,197,2.35
-41,0,922,Undiscovered ,Perrey Reeves,http://www.imdb.com/title/tt0434424/?ref_=fn_tt_tt_1,45,PG-13,9000000,374,2.35
-91,11,10000,Red Riding: In the Year of Our Lord 1974 ,John Henshaw,http://www.imdb.com/title/tt1259574/?ref_=fn_tt_tt_1,44,Not Rated,,281,1.85
-66,25,963,The Girl on the Train ,Émilie Dequenne,http://www.imdb.com/title/tt1183672/?ref_=fn_tt_tt_1,14,Unrated,,168,2.35
-19,6,4000,Veronika Decides to Die ,Jonathan Tucker,http://www.imdb.com/title/tt1068678/?ref_=fn_tt_tt_1,42,R,9000000,931,2.35
-35,4,442,Crocodile Dundee ,David Gulpilil,http://www.imdb.com/title/tt0090555/?ref_=fn_tt_tt_1,93,PG-13,8800000,162,2.35
-19,4,722,Ultramarines: A Warhammer 40,000 Movie ,Donald Sumpter,http://www.imdb.com/title/tt1679332/?ref_=fn_tt_tt_1,64,R,,212,1.85
+director_name,gross,movie_title,cast_total_facebook_likes,country,budget
+Steve McQueen,4000304,Shame ,15230,UK,6500000
+Matthew Vaughn,2338695,Layer Cake ,29277,UK,4000000
+Sterling Van Wagenen,2024854,The Work and the Glory II: American Zion ,1942,USA,6500000
+Zal Batmanglij,2268296,The East ,13180,UK,6500000
+Michael Mayer,1029017,A Home at the End of the World ,21107,USA,6500000
+Hans Petter Moland,64148,Aberdeen ,846,UK,6500000
+Oren Moverman,66637,The Messenger ,14462,USA,6500000
+Ian Sharp,,Tracker ,1904,New Zealand,6500000
+Anton Corbijn,871577,Control ,2614,UK,4500000
+James Cameron,38400000,The Terminator ,3582,UK,6500000
+Wolfgang Becker,4063859,Good Bye Lenin! ,200,Germany,4800000
+Tom Hooper,449558,The Damned United ,1163,UK,10000000
+Dan O'Bannon,,The Return of the Living Dead ,2020,USA,4000000
+,,Gomorrah             ,39,Italy,
+Kevin Smith,2122561,Mallrats ,3254,USA,6000000
+Randal Kleiser,181360000,Grease ,5127,USA,6000000
+Oliver Stone,137963328,Platoon ,42028,UK,6000000
+Michael Moore,119078393,Fahrenheit 9/11 ,1448,USA,6000000
+George Roy Hill,102308900,Butch Cassidy and the Sundance Kid ,2169,USA,6000000
+Robert Stevenson,102300000,Mary Poppins ,2045,USA,6000000
+Robert Redford,54800000,Ordinary People ,5122,USA,6000000
+Frank Coraci,24004159,Around the World in 80 Days ,3175,USA,110000000
+Jerome Robbins,43650000,West Side Story ,1802,USA,6000000
+Harold Ramis,39800000,Caddyshack ,14921,USA,6000000
+Gary Hardwick,27457409,The Brothers ,6419,USA,6000000
+Rick Famuyiwa,25047631,The Wood ,2724,USA,6000000
+Bryan Singer,23272306,The Usual Suspects ,20821,USA,6000000
+Stephen Hopkins,22168359,A Nightmare on Elm Street 5: The Dream Child ,584,USA,8000000
+Walt Becker,21005329,Van Wilder: Party Liaison ,19341,Germany,6000000
+Darren Aronofsky,26236603,The Wrestler ,1582,USA,6000000
+King Vidor,20400000,Duel in the Sun ,2037,USA,8000000
+Christopher Guest,18621249,Best in Show ,4611,USA,6000000
+John Carpenter,25244700,Escape from New York ,2270,UK,6000000
+Spike Lee,14545844,School Daze ,1284,USA,6500000
+Fred Savage,13235267,Daddy Day Camp ,1752,USA,6000000
+Sammo Kam-Bo Hung,12674183,Mr. Nice Guy ,773,Hong Kong,
+Christopher Guest,17508936,A Mighty Wind ,1660,USA,
+Donald Petrie,12793213,Mystic Pizza ,10430,USA,6000000
+,,War & Peace             ,4528,UK,
+Peter Howitt,11883495,Sliding Doors ,1462,UK,9000000
+Rusty Cundieff,11797927,Tales from the Hood ,3221,USA,6000000
+Kevin Macdonald,17605861,The Last King of Scotland ,1184,UK,6000000
+Dominique Othenin-Girard,11642254,Halloween 5 ,1308,USA,3000000
+Richard Linklater,9203192,Bernie ,11328,USA,5000000
+Jean-Jacques Mantello,7518876,Dolphins and Whales 3D: Tribes of the Ocean ,844,UK,6000000
+Ed Harris,8596914,Pollock ,1517,USA,6000000
+Risa Bramon Garcia,6851636,200 Cigarettes ,2697,USA,6000000
+Brian Klugman,11434867,The Words ,51355,USA,6000000
+Matt Piedmont,5895238,Casa de mi Padre ,10123,USA,6000000
+Raymond De Felitta,6670712,City Island ,3825,USA,6000000
+John Michael McDonagh,5359774,The Guard ,3569,Ireland,6000000
+Deb Hagan,4693919,College ,4484,USA,6500000
+Sofia Coppola,4859475,The Virgin Suicides ,7103,USA,6000000
+Mark Herman,4595000,Little Voice ,2103,UK,
+Zach Cregger,4542775,Miss March ,1831,USA,6000000
+Zach Braff,3588432,Wish I Was Here ,18947,USA,6000000
+Mark Tarlov,4394936,Simply Irresistible ,5668,Germany,6000000
+,,Veronica Mars             ,3318,USA,
+John Cameron Mitchell,3029081,Hedwig and the Angry Inch ,993,USA,6000000
+Sheldon Lettich,3273588,Only the Strong ,382,USA,6000000
+Jon Knautz,,Goddess of Love ,546,USA,
+Billy Ray,2207975,Shattered Glass ,8297,USA,6000000
+David Atkins,2025238,Novocaine ,489,USA,6000000
+Patrick Stettner,1028337,The Business of Strangers ,1407,USA,
+Sam Peckinpah,,The Wild Bunch ,2379,USA,6244087
+Jonathan Levine,2077046,The Wackness ,2748,USA,6000000
+Michael Crichton,,The Great Train Robbery ,297,UK,6000000
+Lynne Ramsay,267194,Morvern Callar ,841,UK,
+Sylvio Tabet,869325,Beastmaster 2: Through the Portal of Time ,2000,USA,6000000
+Rick Bieber,399611,The 5th Quarter ,2370,USA,6000000
+Claude Chabrol,181798,The Flower of Evil ,282,France,
+Shana Feste,115862,The Greatest ,2163,USA,6000000
+Wayne Wang,1346503,Snow Flower and the Secret Fan ,2430,China,6000000
+Joey Lauren Adams,117560,Come Early Morning ,1081,USA,6000000
+Peter Cattaneo,54606,Lucky Break ,2440,UK,6000000
+Fred Zinnemann,,Julia ,15604,USA,7840000
+S.R. Bindler,36497,"Surfer, Dude ",14599,USA,6000000
+Tony Kaye,23807,Lake of Fire ,105,USA,
+Greg Marcks,,11:14 ,2200,USA,6000000
+Perry Lang,,Men of War ,2152,USA,8600000
+Jake Goldberger,,Don McKay ,1227,USA,
+Stefan Ruzowitzky,65804,Deadfall ,27575,USA,12000000
+Vic Sarin,,A Shine of Rainbows ,1940,Canada,6000000
+William Kaufman,,The Hit List ,3469,USA,6000000
+,,Emma             ,2563,UK,
+David Cronenberg,,Videodrome ,477,Canada,5952000
+Cédric Klapisch,3895664,L'auberge espagnole ,1858,France,5300000
+Kate Barker-Froyland,20200,Song One ,12772,USA,6000000
+Barbet Schroeder,31874869,Murder by Numbers ,34605,USA,50000000
+Martin Koolhoven,542860,Winter in Wartime ,219,Netherlands,4000000
+Charles Matthau,,Freaky Deaky ,6569,USA,6000000
+John Frankenheimer,,The Train ,502,France,6700000
+Christopher M. Bessette,15059,Trade of Innocents ,1443,USA,
+Prachya Pinkaew,11905519,The Protector ,2205,Thailand,200000000
+Gary Sinyor,69582,Stiff Upper Lips ,1477,UK,
+,,The Inbetweeners             ,1239,UK,
+Gurinder Chadha,32541719,Bend It Like Beckham ,2201,UK,3500159
+John Sayles,3064356,Sunshine State ,2584,USA,5600000
+Preston A. Whitmore II,7009668,Crossover ,2000,USA,5600000
+Ashish R. Mohan,352684,Khiladi 786 ,1065,India,
+Jaume Balagueró,27024,[Rec] 2 ,73,Spain,5600000
+Stewart Raffill,531806,Standing Ovation ,72,USA,
+George Roy Hill,159600000,The Sting ,2387,USA,5500000
+Hugh Hudson,58800000,Chariots of Fire ,1651,UK,5500000
+Darren Grant,50382128,Diary of a Mad Black Woman ,2723,USA,5500000
+Scott Hicks,35811509,Shine ,888,Australia,5500000
+Joseph Gordon-Levitt,24475193,Don Jon ,44265,USA,3000000
+Clint Eastwood,,High Plains Drifter ,17599,USA,5500000
+Terry Zwigoff,6200756,Ghost World ,34106,USA,7000000
+Richard Eyre,1292119,Iris ,16768,UK,5500000
+William Sachs,,Galaxina ,396,USA,
+Christophe Barratier,3629758,The Chorus ,745,France,5500000
+Émile Gaudreault,6239558,Mambo Italiano ,1033,Canada,5000000
+James Cox,1056102,Wonderland ,1315,USA,5000000
+Spike Lee,27545445,Do the Right Thing ,2892,USA,6500000
+James Toback,56007,Harvard Man ,6776,USA,5500000
+Aki Kaurismäki,611709,Le Havre ,391,Finland,3850000
+Gaspar Noé,753501,Irreversible ,118,France,
+Hitoshi Matsumoto,22770,R100 ,81,Japan,5500000
+Rakeysh Omprakash Mehra,2197331,Rang De Basanti ,1519,India,
+Collin Schiffli,,Animals ,2030,USA,
+George Ratliff,27445,Salvation Boulevard ,561,USA,9000000
+David Wain,766487,The Ten ,4883,USA,5250000
+Shane Meadows,18434,A Room for Romeo Brass ,6111,UK,
+Morten Tyldum,1196752,Headhunters ,385,Norway,30300000
+Jon Wright,,Grabbers ,1832,UK,4000000
+Michael McGowan,795126,Saint Ralph ,955,Canada,6000000
+Liv Ullmann,,Miss Julie ,631,Norway,5500000
+Jeannot Szwarc,,Somewhere in Time ,454,USA,5100000
+Rohan Sippy,563699,Dum Maaro Dum ,787,India,
+James Wan,83574831,Insidious: Chapter 2 ,2975,USA,5000000
+Darren Lynn Bousman,87025093,Saw II ,4134,USA,4000000
+Dan Trachtenberg,71897215,10 Cloverfield Lane ,14504,USA,15000000
+Jeff Tremaine,64267897,Jackass: The Movie ,1770,USA,5000000
+David F. Sandberg,56536016,Lights Out ,3344,USA,4900000
+Henry Joost,104007828,Paranormal Activity 3 ,2371,USA,5000000
+Stiles White,50820940,Ouija ,5056,USA,5000000
+Chuck Russell,44793200,A Nightmare on Elm Street 3: Dream Warriors ,1584,USA,4500000
+Joel Edgerton,43771291,The Gift ,3215,USA,5000000
+Eugenio Derbez,44456509,Instructions Not Included ,688,Mexico,5000000
+Henry Joost,53884821,Paranormal Activity 4 ,799,USA,5000000
+Henry Koster,36000000,The Robe ,1920,USA,5000000
+Blake Edwards,,The Return of the Pink Panther ,971,UK,5000000
+Rachel Talalay,34872293,Freddy's Dead: The Final Nightmare ,42002,USA,8500000
+Patty Jenkins,34468224,Monster ,11736,USA,4500000
+Richard Fleischer,,"20,000 Leagues Under the Sea ",799,USA,5000000
+Christopher Landon,32453345,Paranormal Activity: The Marked Ones ,2161,USA,5000000
+David Lynch,,The Elephant Man ,13864,USA,5000000
+Jean-Marc Vallée,27296514,Dallas Buyers Club ,17738,USA,5000000
+David Gelb,25799043,The Lazarus Effect ,11771,USA,3300000
+Christopher Nolan,25530884,Memento ,1997,USA,9000000
+Mike Flanagan,27689474,Oculus ,2071,USA,5000000
+Kevin Smith,24138847,Clerks II ,2990,USA,5000000
+Stephen Daldry,21994911,Billy Elliot ,1122,UK,5000000
+Nat Faxon,21501098,The Way Way Back ,8375,USA,5000000
+George Jackson,19281235,House Party 2 ,2523,USA,5000000
+George Miller,,The Man from Snowy River ,854,Australia,3500000
+Maurice Joyce,19421271,Doug's 1st Movie ,2908,USA,5000000
+Robert Duvall,20733485,The Apostle ,428,USA,5000000
+Frank Perry,,Mommie Dearest ,2014,USA,5000000
+Jesse Peretz,24809547,Our Idiot Brother ,15710,USA,5000000
+Stephen Hopkins,19097994,Race ,2410,Canada,
+Ice Cube,23031390,The Players Club ,2868,USA,4500000
+Tim Blake Nelson,16017403,O ,3300,USA,5000000
+John Erick Dowdle,21197315,"As Above, So Below ",1410,USA,5000000
+Bille Woodruff,17382982,Addicted ,2840,USA,5000000
+Kasi Lemmons,14821531,Eve's Bayou ,3843,USA,6000000
+Richard Glatzer,18656400,Still Alice ,19673,USA,5000000
+Michael Curtiz,,The Egyptian ,2112,USA,5000000
+Bruce Malmuth,,Nighthawks ,14306,USA,5000000
+Rob Hedden,14343976,Friday the 13th Part VIII: Jason Takes Manhattan ,1327,USA,5000000
+Joel Zwick,241437427,My Big Fat Greek Wedding ,1495,USA,5000000
+Harmony Korine,14123773,Spring Breakers ,12306,USA,5000000
+Joe Chappelle,15126948,Halloween: The Curse of Michael Myers ,1227,USA,5000000
+Alfonso Cuarón,13622333,Y Tu Mamá También ,361,Mexico,2000000
+Edgar Wright,13464388,Shaun of the Dead ,1686,UK,4000000
+Mickey Liddell,13350177,The Haunting of Molly Hartley ,4856,USA,5000000
+John Sayles,13269963,Lone Star ,11400,USA,5000000
+Dwight H. Little,17768000,Halloween 4: The Return of Michael Myers ,1136,USA,5000000
+Fred Walton,12947763,April Fool's Day ,1160,USA,5000000
+Barry Levinson,14100000,Diner ,2943,USA,5000000
+Steve Carver,12200000,Lone Wolf McQuade ,2383,USA,5000000
+Gonzalo López-Gallego,17683670,Apollo 18 ,1520,USA,5000000
+Christine Jeffs,12055108,Sunshine Cleaning ,2528,USA,8000000
+John Erick Dowdle,27285953,No Escape ,259,USA,5000000
+Don Coscarelli,,The Beastmaster ,23714,USA,8000000
+King Vidor,,Solomon and Sheba ,1332,USA,5000000
+Michael Tiddes,11675178,Fifty Shades of Black ,2848,USA,5000000
+Bill Duke,10572742,Not Easily Broken ,2269,USA,8000000
+Frank Borzage,,A Farewell to Arms ,1284,USA,800000
+Bille Woodruff,9658370,The Perfect Match ,3552,USA,5000000
+Mamoru Hosoda,9628751,Digimon: The Movie ,315,USA,5000000
+Brian Dannelly,8786715,Saved! ,5668,USA,5000000
+Denys Arcand,3432342,The Barbarian Invasions ,253,Canada,6000000
+Richard Lester,,Robin and Marian ,1199,USA,5000000
+J.S. Cardone,6755271,The Forsaken ,3004,USA,5000000
+Guy Hamilton,,Force 10 from Navarone ,13591,UK,5000000
+Jay Levey,6157157,UHF ,3942,USA,5000000
+Nicholaus Goossen,6088249,Grandma's Boy ,5202,USA,
+Tamara Jenkins,5480318,Slums of Beverly Hills ,2691,USA,5000000
+Sergio Leone,,Once Upon a Time in the West ,2589,Italy,5000000
+Jon Favreau,5308707,Made ,5245,USA,5000000
+Duncan Jones,5009677,Moon ,19404,UK,5000000
+Scott Marshall,4328294,Keeping Up with the Steins ,5900,USA,
+Ronan Chapalain,4074023,Sea Rex 3D: Journey to a Prehistoric World ,55,UK,5000000
+Atom Egoyan,4306697,The Sweet Hereafter ,2820,Canada,5000000
+Xavier Beauvois,3950029,Of Gods and Men ,416,France,4000000
+Randall Miller,4040588,Bottle Shock ,25676,USA,5000000
+Jerry Belson,,Jekyll and Hyde... Together Again ,1324,USA,5000000
+Peter Jackson,3049135,Heavenly Creatures ,14574,New Zealand,5000000
+Michael Polish,4700361,90 Minutes in Heaven ,6617,USA,5000000
+Dan Rush,2711210,Everything Must Go ,10517,USA,5000000
+Jake Kasdan,1980338,Zero Effect ,1209,USA,5000000
+Brad Anderson,1082044,The Machinist ,24994,Spain,5000000
+Paul Schrader,1100000,Light Sleeper ,1201,USA,5000000
+Michael Cuesta,2445646,Kill the Messenger ,12897,USA,5000000
+John Cameron Mitchell,2221809,Rabbit Hole ,1582,USA,5000000
+Fenton Bailey,296665,Party Monster ,5185,USA,5000000
+Jeremy Saulnier,3219029,Green Room ,1836,USA,5000000
+Billy Kent,,The Oh in Ohio ,1665,USA,5000000
+James Manera,830210,Atlas Shrugged: Who Is John Galt? ,3382,USA,5000000
+Wes Anderson,1040879,Bottle Rocket ,648,USA,7000000
+Kevin Spacey,326308,Albino Alligator ,13718,USA,5000000
+Feroz Abbas Khan,240425,"Gandhi, My Father ",172,India,
+Errol Morris,228830,Standard Operating Procedure ,6,USA,
+Dennis Hopper,,Out of the Blue ,498,Canada,2200000
+Eli Craig,223615,Tucker and Dale vs Evil ,2958,Canada,
+Nicholas Fackler,124720,"Lovely, Still ",4987,USA,5000000
+Richard Wallace,,Tycoon ,538,USA,3209000
+Morgan J. Freeman,99147,Desert Blue ,3207,USA,2000000
+Matthew Hastings,,Decoys ,2984,Canada,5000000
+M. Night Shyamalan,65069140,The Visit ,1010,USA,5000000
+Brian De Palma,65087,Redacted ,408,USA,5000000
+Klaus Menzel,16066,Fascination ,1789,Germany,5000000
+,,Saving Grace             ,5203,USA,
+Oren Peli,,Area 51 ,117,USA,5000000
+Jaume Balagueró,,Sleep Tight ,526,Spain,5000000
+Paul Andrew Williams,,The Cottage ,1258,UK,2500000
+Stephen Herek,,Dead Like Me: Life After Death ,3724,USA,5000000
+Bob Saget,,Farce of the Penguins ,10727,USA,
+Jim Amatulli,,Flying By ,3217,USA,
+,,Psych             ,4092,USA,
+William H. Macy,37440,Rudderless ,1986,USA,5000000
+Barrett Esposito,,Henry & Me ,2509,USA,10000000
+Mitch Davis,,Christmas Eve ,3514,USA,
+Eric Bross,,We Have Your Husband ,3059,USA,5000000
+Paul Schrader,,Dying of the Light ,12676,Bahamas,5000000
+Vicky Jewson,,Born of War ,1681,UK,5000000
+Peter Hyams,,Capricorn One ,5191,USA,5000000
+Marc Bennett,,Should've Been Romeo ,4991,USA,5000000
+Mike Mayhall,,Running Forever ,3021,USA,5000000
+Kevin Smith,,Yoga Hosers ,46115,USA,5000000
+Stanton Barrett,,Navy Seals vs. Zombies ,2849,USA,
+Jirí Menzel,617228,I Served the King of England ,92,Czech Republic,84450000
+Fatih Akin,274385,Soul Kitchen ,1519,Germany,4000000
+Billy Bob Thornton,24475416,Sling Blade ,3967,USA,890000
+Nick Murphy,,The Awakening ,2363,UK,3000000
+Eli Roth,47277326,Hostel ,2990,USA,4800000
+Michael Winterbottom,1247453,Tristram Shandy: A Cock and Bull Story ,3690,UK,2800000
+Jeff Nichols,1729969,Take Shelter ,1520,USA,5000000
+Frank LaLoggia,1705139,Lady in White ,2545,USA,4700000
+Jeremy Brock,238774,Driving Lessons ,11703,UK,
+Scott Foley,,Let's Kill Ward's Wife ,2469,USA,5000000
+Tobe Hooper,8025872,The Texas Chainsaw Massacre 2 ,302,USA,4700000
+Sam Peckinpah,,Pat Garrett & Billy the Kid ,2409,USA,4638783
+Nicolas Winding Refn,778565,Only God Forgives ,34779,Denmark,4800000
+Christophe Ali,,Camping sauvage ,286,France,
+Gabriela Tagliavini,,Without Men ,2006,USA,4700000
+Shekar,,Barfi ,5,India,
+Shona Auerbach,1340891,Dear Frankie ,18105,UK,
+Leonard Farlinger,,All Hat ,2668,Canada,5000000
+Michel Leclerc,513836,The Names of Love ,143,France,4600000
+Analeine Cal y Mayor,,Treading Water ,1795,Mexico,4700000
+Tom Kalin,434417,Savage Grace ,15093,Spain,4600000
+Robert Sarkies,728,Out of the Blue ,122,New Zealand,
+Hugh Wilson,81200000,Police Academy ,3113,USA,4500000
+Randal Kleiser,,The Blue Lagoon ,1662,USA,4500000
+Mike Newell,52700832,Four Weddings and a Funeral ,1862,UK,4500000
+Amy Heckerling,,Fast Times at Ridgemont High ,5002,USA,4500000
+John Huston,,Moby Dick ,588,USA,4500000
+Spike Lee,13060843,25th Hour ,26050,USA,15000000
+,,Secrets and Lies             ,1587,USA,
+Lana Wachowski,3798532,Bound ,3668,USA,4500000
+Darren Aronofsky,3609278,Requiem for a Dream ,2235,USA,4500000
+Walter Lang,,State Fair ,496,USA,
+Carlos Saura,1687311,Tango ,371,Spain,700000000
+Oliver Stone,,Salvador ,2762,UK,4500000
+Andrew Erwin,10429707,Moms' Night Out ,2705,USA,5000000
+Richard Kelly,727883,Donnie Darko ,17040,USA,4500000
+Beto Gómez,1391770,Saving Private Perez ,793,Mexico,
+Mike van Diem,713413,Character ,48,Netherlands,4500000
+Jonas Åkerlund,410241,Spun ,2110,USA,2000000
+Todd Solondz,278821,Life During Wartime ,5041,USA,
+Chan-wook Park,211667,Lady Vengeance ,907,South Korea,4200000000
+René Féret,706622,Mozart's Sister ,53,France,
+Barry Skolnick,92191,Mean Machine ,29325,UK,2500000
+Johnnie To,49413,Exiled ,398,Hong Kong,35000000
+Mateo Gil,199652,Blackthorn ,1950,Spain,
+Lukas Moodysson,181655,Lilya 4-Ever ,131,Sweden,
+Agnieszka Wojtowicz-Vosloo,108229,After.Life ,15860,USA,4500000
+Kabir Sadanand,,Fugly ,496,India,
+Milos Forman,112000000,One Flew Over the Cuckoo's Nest ,2176,USA,4400000
+Peter DeLuise,,R.L. Stine's Monsterville: The Cabinet of Souls ,20397,USA,4400000
+Mel Brooks,,Silent Movie ,2951,USA,4400000
+Raja Menon,,Airlift ,151,India,4400000
+,,Anne of Green Gables             ,2667,Canada,
+Ernie Barbarash,8691,Falcon Rising ,3089,USA,4500000
+Nick Love,26345,The Sweeney ,4810,UK,3000000
+Jonathan Glazer,6940281,Sexy Beast ,1291,UK,
+Daniel Espinosa,188870,Easy Money ,857,Sweden,
+Niki Caro,20772796,Whale Rider ,497,New Zealand,6000000
+R. Balki,199228,Paa ,1045,India,150000000
+Ivan Engler,,Cargo ,61,Switzerland,4500000
+Joe Wright,34964818,Pan ,21404,USA,150000000
+Kenny Ortega,,High School Musical ,2553,USA,4200000
+,,Animal Kingdom             ,3026,USA,
+Richard Kwietniowski,2542264,Love and Death on Long Island ,938,UK,
+Timur Bekmambetov,1487477,Night Watch ,206,Russia,4200000
+Neil Jordan,62549000,The Crying Game ,2412,UK,2300000
+Bob Clark,105500000,Porky's ,582,Canada,4000000
+George A. Romero,101055,Survival of the Dead ,1951,USA,4000000
+George A. Romero,,Night of the Living Dead ,403,USA,114000
+Sofia Coppola,44566004,Lost in Translation ,32015,USA,4000000
+Woody Allen,39200000,Annie Hall ,12691,USA,4000000
+Cecil B. DeMille,36000000,The Greatest Show on Earth ,825,USA,4000000
+Ridley Scott,65007045,Exodus: Gods and Kings ,26489,UK,140000000
+Marc Forster,31252964,Monster's Ball ,13707,USA,4000000
+Henry Hobson,131175,Maggie ,1885,USA,8500000
+Mike Figgis,31968347,Leaving Las Vegas ,14823,USA,3600000
+Duane Journey,,Hansel & Gretel Get Baked ,2634,USA,4500000
+Dan O'Bannon,,The Return of the Living Dead ,2020,USA,4000000
+Billy Wilder,,The Front Page ,1218,USA,4000000
+Rob Cohen,35385560,The Boy Next Door ,4807,USA,4000000
+Carol Reed,,Trapeze ,986,USA,4000000
+,,Saving Grace             ,5203,USA,
+Lisa Cholodenko,20803237,The Kids Are All Right ,18645,USA,3500000
+John Carpenter,13008928,They Live ,837,USA,4000000
+John Sturges,,The Great Escape ,1785,USA,4000000
+William Arntz,10941801,What the #$*! Do We (K)now!? ,2649,USA,
+Ed Gass-Donnelly,15152879,The Last Exorcism Part II ,46868,France,5000000
+Richard Linklater,25359200,Boyhood ,673,USA,4000000
+Woody Allen,10515579,Scoop ,20132,UK,4000000
+Tim Burton,180011740,Planet of the Apes ,2776,USA,100000000
+DJ Pooh,10097096,The Wash ,955,USA,4000000
+DJ Pooh,9821335,3 Strikes ,3354,USA,6000000
+Wayne Kramer,8243880,The Cooler ,3086,USA,3200000
+John Huston,,The Misfits ,1652,USA,4000000
+Patrick Stettner,7825820,The Night Listener ,50831,USA,4000000
+James Melkonian,7557877,The Jerky Boys ,1002,USA,
+Wes Craven,14637490,My Soul to Take ,2537,USA,25000000
+J.A. Bayona,7159147,The Orphanage ,954,Spain,3400000
+Michael Tiddes,17314483,A Haunted House 2 ,4073,USA,4000000
+Roger Avary,6525762,The Rules of Attraction ,19928,USA,4000000
+Alfred Hitchcock,,Topaz ,753,USA,4000000
+Bob Odenkirk,4613815,Let's Go to Prison ,1566,USA,
+Allison Anders,4301331,Four Rooms ,7921,USA,4000000
+Steven Shainberg,4046737,Secretary ,2251,USA,4000000
+Rick de Oliveira,3713002,The Real Cancun ,972,USA,8000000
+Oliver Stone,3468572,Talk Radio ,1966,USA,4000000
+Christopher Guest,2892582,Waiting for Guffman ,3559,USA,4000000
+Jeff Franklin,2800000,Love Stinks ,2662,USA,4000000
+John Dahl,2426851,You Kill Me ,776,USA,4000000
+Mike Mills,1325073,Thumbsucker ,1208,USA,4000000
+Kevin Smith,,Red State ,4777,USA,4000000

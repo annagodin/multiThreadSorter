@@ -1,92 +1,317 @@
-duration,director_facebook_likes,gross,genres,actor_1_name,movie_title,facenumber_in_poster,num_user_for_reviews,content_rating,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
-121,101,48068396,Action|Crime|Romance|Thriller,Jason Patric,Speed 2: Cruise Control ,0,248,PG-13,160000000,1997,368,3.7,2.35,894
-114,151,61656849,Action|Sci-Fi,Harrison Ford,Ender's Game ,4,554,PG-13,110000000,2013,635,6.7,2.35,123000
-129,235,134520804,Action|Adventure|Thriller,Bruce Willis,Live Free or Die Hard ,1,782,PG-13,110000000,2007,300,7.2,2.35,0
-171,0,313837577,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Fellowship of the Ring ,2,5060,PG-13,93000000,2001,5000,8.8,2.35,21000
-120,153,24004159,Action|Adventure|Comedy,Jim Broadbent,Around the World in 80 Days ,0,191,PG,110000000,2004,1000,5.8,2.35,0
-165,0,58183966,Biography|Drama|Sport,Will Smith,Ali ,1,386,R,107000000,2001,851,6.8,2.35,0
-82,34,100446895,Adventure|Comedy|Family|Fantasy,Sean Hayes,The Cat in the Hat ,1,456,PG,109000000,2003,743,3.8,1.85,946
-115,295,144795350,Action|Mystery|Sci-Fi|Thriller,Will Smith,I, Robot ,1,789,PG-13,120000000,2004,981,7.1,2.35,0
-194,0,47396698,Action|Adventure|Drama|History|War,Liam Neeson,Kingdom of Heaven ,1,942,R,130000000,2005,5000,7.2,2.35,0
-84,50,140015224,Adventure|Comedy|Family|Fantasy,Chazz Palminteri,Stuart Little ,0,179,PG,133000000,1999,886,5.9,1.85,0
-97,63,104374107,Animation|Family|Fantasy|Musical|Romance,Oprah Winfrey,The Princess and the Frog ,0,214,G,105000000,2009,578,7.1,1.85,5000
-151,0,228430993,Adventure|Drama|Sci-Fi,Matt Damon,The Martian ,1,1023,PG-13,108000000,2015,801,8.1,2.35,153000
-22,0,,Comedy,Mathew Buck,10,000 B.C.             ,0,,,,,,7.2,,0
-136,0,35799026,Action|Adventure|Romance|Sci-Fi|Thriller,Scarlett Johansson,The Island ,1,899,PG-13,126000000,2005,12000,6.9,2.35,0
-104,23,6712451,Comedy|Romance,Del Zamora,Town & Country ,0,89,R,90000000,2001,631,4.4,1.85,53
-127,57,101643008,Action|Crime|Thriller,Nicolas Cage,Gone in Sixty Seconds ,1,498,PG-13,90000000,2000,11000,6.5,2.35,0
-171,0,187670866,Action|Drama|Romance,Djimon Hounsou,Gladiator ,0,2368,R,103000000,2000,933,8.5,2.35,21000
-145,14000,132014112,Action|Mystery|Sci-Fi|Thriller,Tom Cruise,Minority Report ,0,1331,PG-13,102000000,2002,798,7.7,2.35,0
-174,0,261970615,Adventure|Family|Fantasy|Mystery,Daniel Radcliffe,Harry Potter and the Chamber of Secrets ,1,858,PG,100000000,2002,10000,7.4,2.35,0
-144,258,167007184,Action|Adventure|Thriller,Eva Green,Casino Royale ,1,2301,PG-13,150000000,2006,1000,8.0,2.35,0
-119,13000,180011740,Action|Adventure|Sci-Fi|Thriller,Cary-Hiroyuki Tagawa,Planet of the Apes ,0,1368,PG-13,100000000,2001,658,5.7,2.35,0
-153,0,204843350,Action|Sci-Fi,Joe Morton,Terminator 2: Judgment Day ,0,983,R,102000000,1991,604,8.5,2.35,13000
-140,0,97030725,Biography|Crime|Drama|History|Romance,Johnny Depp,Public Enemies ,1,585,R,100000000,2009,23000,7.0,2.35,0
-176,0,130127620,Biography|Crime|Drama,Denzel Washington,American Gangster ,0,458,R,100000000,2007,782,7.8,1.85,0
-141,0,146282411,Action|Comedy|Thriller,Jamie Lee Curtis,True Lies ,0,351,R,115000000,1994,1000,7.2,2.35,0
-106,12000,65452312,Action|Crime|Thriller,Denzel Washington,The Taking of Pelham 1 2 3 ,1,285,R,100000000,2009,464,6.4,2.35,0
-98,80,148383780,Comedy|Romance,Robert De Niro,Little Fockers ,10,152,PG-13,100000000,2010,713,5.5,1.85,0
-116,285,119219978,Action|Comedy|Crime,Dwayne Johnson,The Other Guys ,2,316,PG-13,100000000,2010,8000,6.7,2.35,16000
-115,55,101228120,Action|Drama|Mystery|Thriller,Vanessa Williams,Eraser ,1,131,R,100000000,1996,773,6.1,2.35,0
-165,16000,162804648,Drama|Western,Leonardo DiCaprio,Django Unchained ,1,1193,R,100000000,2012,11000,8.5,2.35,199000
-91,21,100117603,Animation|Drama|Family|Musical|Romance,Demi Moore,The Hunchback of Notre Dame ,0,230,G,100000000,1996,700,6.9,1.78,0
-78,10,89296573,Adventure|Animation|Comedy|Family|Fantasy,Eartha Kitt,The Emperor's New Groove ,1,297,G,100000000,2000,452,7.3,1.66,0
-103,165,85017401,Action|Adventure|Thriller,Jason Statham,The Expendables 2 ,3,474,R,92000000,2012,13000,6.7,2.35,108000
-131,226,173005002,Action|Adventure|Comedy|Family|Mystery,Nicolas Cage,National Treasure ,0,692,PG,100000000,2004,625,6.9,2.35,0
-104,14,75030163,Action|Adventure|Family|Fantasy,Djimon Hounsou,Eragon ,0,1690,PG,100000000,2006,762,5.1,2.35,0
-101,0,77222184,Adventure|Drama|Family|Fantasy,Catherine O'Hara,Where the Wild Things Are ,0,388,PG,100000000,2009,468,6.8,2.35,11000
-111,456,34964818,Adventure|Family|Fantasy,Hugh Jackman,Pan ,4,186,PG,150000000,2015,548,5.8,2.35,24000
-102,77,107515297,Adventure|Animation|Family|Fantasy,Josh Hutcherson,Epic ,2,113,PG,100000000,2013,151,6.7,2.35,17000
-103,207,67631157,Action|Romance|Thriller,Johnny Depp,The Tourist ,0,374,PG-13,100000000,2010,11000,6.0,2.35,25000
-121,0,66862068,Action|Fantasy|Horror|Mystery,CCH Pounder,End of Days ,0,524,R,83000000,1999,1000,5.7,2.35,2000
-143,380,57366262,Adventure|Drama|Thriller,Leonardo DiCaprio,Blood Diamond ,0,657,R,100000000,2006,3000,8.0,2.35,14000
-240,17000,116866727,Biography|Comedy|Crime|Drama,Leonardo DiCaprio,The Wolf of Wall Street ,3,1138,R,100000000,2013,11000,8.2,2.35,138000
-121,541,184031112,Action|Adventure|Fantasy,Michael Gough,Batman Forever ,4,539,PG-13,100000000,1995,710,5.4,1.85,0
-129,719,54700065,Action|Sci-Fi|War,Jake Busey,Starship Troopers ,0,1049,R,105000000,1997,475,7.2,1.85,0
-172,670,27098580,Drama|Sci-Fi,Tom Hanks,Cloud Atlas ,5,828,R,102000000,2012,5000,7.5,2.35,124000
-101,0,55673333,Action|Adventure|Animation|Family|Fantasy,Abbie Cornish,Legend of the Guardians: The Owls of Ga'Hoole ,1,160,PG,80000000,2010,653,7.0,2.35,16000
-87,26,40198710,Action|Crime|Fantasy|Romance|Thriller,Frances Conroy,Catwoman ,0,660,PG-13,100000000,2004,825,3.3,2.35,0
-101,420,72660029,Action|Adventure,Dwayne Johnson,Hercules ,0,269,PG-13,100000000,2014,3000,6.0,2.35,21000
-95,63,38120554,Adventure|Animation|Family|Sci-Fi,Joseph Gordon-Levitt,Treasure Planet ,0,217,PG,140000000,2002,770,7.1,1.5,0
-102,52,49392095,Adventure|Comedy|Sci-Fi,Will Ferrell,Land of the Lost ,1,224,PG-13,100000000,2009,735,5.4,1.85,0
-131,385,39292022,Action|Adventure|Thriller,Jason Statham,The Expendables 3 ,15,351,PG-13,90000000,2014,13000,6.1,2.35,56000
-114,19,28772222,Action|Crime|Sport|Thriller,Ray Winstone,Point Break ,1,163,PG-13,105000000,2015,897,5.3,2.35,37000
-94,6,17010646,Comedy|Family|Fantasy,Jamie Kennedy,Son of the Mask ,0,239,PG,84000000,2005,294,2.2,1.85,881
-122,2000,24985612,Action|Adventure|Biography|Drama|History|Thriller,Chris Hemsworth,In the Heart of the Sea ,0,161,PG-13,100000000,2015,911,7.0,1.85,27000
-95,31,4411102,Action|Comedy|Sci-Fi,Rosario Dawson,The Adventures of Pluto Nash ,1,164,PG-13,100000000,2002,695,3.8,1.85,416
-115,521,35024475,Action|Drama|Thriller|War,Matt Damon,Green Zone ,1,261,R,100000000,2010,537,6.9,2.35,0
-88,20,130174897,Adventure|Animation|Comedy|Family,Francesca Capaldi,The Peanuts Movie ,0,155,G,99000000,2015,42,7.2,1.85,33000
-110,342,10200000,Drama|Mystery|Thriller,Ben Gazzara,The Spanish Prisoner ,0,263,PG,10000000,1997,508,7.3,1.85,578
-130,208,202007640,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,The Mummy Returns ,5,890,PG-13,98000000,2001,3000,6.3,2.35,0
-216,17000,77679638,Crime|Drama,Leonardo DiCaprio,Gangs of New York ,3,1166,R,100000000,2002,14000,7.5,2.35,0
-146,611,9213,Drama|History|Romance|War,Christian Bale,The Flowers of War ,2,130,R,94000000,2011,196,7.6,2.35,13000
-85,9,58867694,Animation|Comedy|Family|Sport,Jeff Bridges,Surf's Up ,0,112,PG,100000000,2007,11000,6.8,1.85,0
-93,0,59475623,Comedy|Sci-Fi|Thriller,Jon Lovitz,The Stepford Wives ,1,407,PG-13,90000000,2004,2000,5.2,1.85,0
-152,0,108638745,Drama|History|War,Ioan Gruffudd,Black Hawk Down ,0,1103,R,92000000,2001,820,7.7,2.35,10000
-85,116,86897182,Comedy,Will Ferrell,The Campaign ,0,177,R,95000000,2012,331,6.2,1.85,18000
-126,0,63540020,Action|Adventure|Sci-Fi,Milla Jovovich,The Fifth Element ,2,742,PG-13,93000000,1997,13000,7.7,2.35,18000
-146,127,95328937,Comedy|Drama|Romance,Chris Noth,Sex and the City 2 ,4,293,R,100000000,2010,740,4.3,1.85,0
-89,10,50802661,Adventure|Animation|Comedy|Family|Romance,Frank Welker,The Road to El Dorado ,1,139,PG,95000000,2000,919,6.9,1.85,0
-88,20,161317423,Adventure|Animation|Comedy|Family,Peter Dinklage,Ice Age: Continental Drift ,0,139,PG,95000000,2012,1000,6.6,2.35,14000
-105,0,201148159,Drama|Family|Fantasy|Romance,Hayley Atwell,Cinderella ,1,322,PG,95000000,2015,520,7.0,2.35,56000
-135,0,43982842,Drama|Fantasy|Thriller,Michael Imperioli,The Lovely Bones ,1,593,PG-13,65000000,2009,560,6.7,2.35,16000
-100,475,380838870,Adventure|Animation|Comedy|Family,Alexander Gould,Finding Nemo ,0,866,G,94000000,2003,939,8.2,1.85,11000
-192,0,377019252,Action|Adventure|Drama|Fantasy,Orlando Bloom,The Lord of the Rings: The Return of the King ,2,3189,PG-13,94000000,2003,857,8.9,2.35,16000
-172,0,340478898,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Two Towers ,1,2417,PG-13,94000000,2002,5000,8.7,2.35,10000
-102,44,17176900,Action|Adventure|Fantasy,Jeff Bridges,Seventh Son ,4,154,PG-13,95000000,2014,3000,5.5,2.35,16000
-100,165,131144183,Action|Adventure|Fantasy|Thriller,Angelina Jolie Pitt,Lara Croft: Tomb Raider ,1,824,PG-13,115000000,2001,509,5.7,2.35,0
-119,0,23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,Johnny Depp,Transcendence ,1,462,PG-13,100000000,2014,11000,6.3,2.35,37000
-92,394,181166115,Action|Adventure|Sci-Fi|Thriller,Michael Jeter,Jurassic Park III ,0,1236,PG-13,93000000,2001,595,5.9,1.85,0
-105,81,176740650,Action|Drama|Sci-Fi|Thriller,James Franco,Rise of the Planet of the Apes ,0,646,PG-13,93000000,2011,1000,7.6,2.35,47000
-107,70,71148699,Adventure|Family|Fantasy,Martin Short,The Spiderwick Chronicles ,0,125,PG,90000000,2008,419,6.6,2.35,0
-101,212,67344392,Action|Thriller,Bruce Willis,A Good Day to Die Hard ,2,503,R,92000000,2013,787,5.3,1.85,66000
-137,102,22406362,Drama|History|War|Western,Dennis Quaid,The Alamo ,0,267,PG-13,107000000,2004,973,6.0,2.35,701
-115,663,261437578,Action|Adventure|Animation|Family,Holly Hunter,The Incredibles ,0,815,PG,92000000,2004,723,8.0,2.35,0
-124,212,11000000,Action|Adventure|Comedy,Christopher Masterson,Cutthroat Island ,3,169,PG-13,98000000,1995,903,5.6,2.35,1000
-118,0,88761720,Adventure|Family|Fantasy,Logan Lerman,Percy Jackson & the Olympians: The Lightning Thief ,0,419,PG,95000000,2010,3000,5.9,2.35,9000
-98,188,250147615,Adventure|Comedy|Family|Mystery|Sci-Fi,Will Smith,Men in Black ,0,289,PG-13,90000000,1997,826,7.3,1.85,0
-82,487,245823397,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,Toy Story 2 ,2,515,G,90000000,1999,1000,7.9,1.85,0
-98,12000,81557479,Action|Thriller,Denzel Washington,Unstoppable ,1,326,PG-13,100000000,2010,3000,6.8,2.35,18000
-90,420,226138454,Action|Comedy|Crime|Thriller,Mei Melançon,Rush Hour 2 ,2,394,PG-13,90000000,2001,165,6.6,2.35,0
-130,0,155370362,Drama|Fantasy|Horror|Mystery|Thriller,Harrison Ford,What Lies Beneath ,0,683,PG-13,100000000,2000,627,6.6,2.35,0
-90,97,124870275,Animation|Comedy|Family|Sci-Fi,Will Forte,Cloudy with a Chance of Meatballs ,1,156,PG,100000000,2009,526,7.0,2.35,0
+director_name,duration,genres,num_voted_users,movie_imdb_link,actor_2_facebook_likes,aspect_ratio
+Guy Ritchie,104,Comedy|Crime,600996,http://www.imdb.com/title/tt0208092/?ref_=fn_tt_tt_1,11000,1.85
+David Winters,89,Family|Musical,105,http://www.imdb.com/title/tt2598580/?ref_=fn_tt_tt_1,85,
+Mary Lambert,103,Fantasy|Horror,63855,http://www.imdb.com/title/tt0098084/?ref_=fn_tt_tt_1,886,1.85
+Akira Kurosawa,134,Drama,3466,http://www.imdb.com/title/tt0107474/?ref_=fn_tt_tt_1,6,1.85
+Jamie Thraves,100,Drama|Thriller,3737,http://www.imdb.com/title/tt1034302/?ref_=fn_tt_tt_1,544,2.35
+Mabel Cheung,130,Drama,117,http://www.imdb.com/title/tt3682770/?ref_=fn_tt_tt_1,27,2.35
+Joe Dante,106,Comedy|Fantasy|Horror,142293,http://www.imdb.com/title/tt0087363/?ref_=fn_tt_tt_1,281,2.2
+George Lucas,125,Action|Adventure|Fantasy|Sci-Fi,911097,http://www.imdb.com/title/tt0076759/?ref_=fn_tt_tt_1,1000,2.35
+Dan Mazer,109,Comedy,49671,http://www.imdb.com/title/tt1860213/?ref_=fn_tt_tt_1,851,2.35
+David Lean,200,Drama|Romance|War,55816,http://www.imdb.com/title/tt0059113/?ref_=fn_tt_tt_1,396,2.35
+Stephen Daldry,114,Adventure|Crime|Drama|Mystery|Thriller,14437,http://www.imdb.com/title/tt1921149/?ref_=fn_tt_tt_1,68,2.35
+Kenny Ortega,112,Comedy|Drama|Family|Music|Musical|Romance,43795,http://www.imdb.com/title/tt0962726/?ref_=fn_tt_tt_1,734,1.85
+David O. Russell,116,Biography|Drama|Sport,275869,http://www.imdb.com/title/tt0964517/?ref_=fn_tt_tt_1,238,2.35
+Jeff Tremaine,92,Action|Comedy|Documentary,56595,http://www.imdb.com/title/tt0493430/?ref_=fn_tt_tt_1,362,1.85
+Jonathan Lynn,120,Comedy|Crime,82743,http://www.imdb.com/title/tt0104952/?ref_=fn_tt_tt_1,655,1.85
+R.J. Cutler,107,Drama|Fantasy|Music|Romance,83893,http://www.imdb.com/title/tt1355630/?ref_=fn_tt_tt_1,1000,2.35
+Brian Trenchard-Smith,92,Action|Comedy|Crime,3104,http://www.imdb.com/title/tt2968804/?ref_=fn_tt_tt_1,37,
+David S. Ward,107,Comedy|Sport,49007,http://www.imdb.com/title/tt0097815/?ref_=fn_tt_tt_1,854,1.85
+Oliver Parker,100,Comedy,18220,http://www.imdb.com/title/tt0964587/?ref_=fn_tt_tt_1,692,1.85
+Joel Schumacher,81,Crime|Thriller,207934,http://www.imdb.com/title/tt0183649/?ref_=fn_tt_tt_1,465,2.35
+Adam Shankman,101,Drama|Romance,162701,http://www.imdb.com/title/tt0281358/?ref_=fn_tt_tt_1,548,2.35
+Tim Robbins,122,Crime|Drama,73193,http://www.imdb.com/title/tt0112818/?ref_=fn_tt_tt_1,258,1.85
+Roger Kumble,97,Drama|Romance,149222,http://www.imdb.com/title/tt0139134/?ref_=fn_tt_tt_1,656,1.85
+Kevin Greutert,92,Horror|Mystery,76207,http://www.imdb.com/title/tt1233227/?ref_=fn_tt_tt_1,651,1.85
+Mel Brooks,92,Comedy,36559,http://www.imdb.com/title/tt0082517/?ref_=fn_tt_tt_1,898,2.35
+Gina Prince-Bythewood,110,Drama,19440,http://www.imdb.com/title/tt0416212/?ref_=fn_tt_tt_1,551,2.35
+Rob Pritts,86,Comedy|Crime,10966,http://www.imdb.com/title/tt0250310/?ref_=fn_tt_tt_1,580,1.85
+Brian De Palma,91,Crime|Drama|Thriller,9903,http://www.imdb.com/title/tt0105217/?ref_=fn_tt_tt_1,330,1.85
+Norman Jewison,145,Drama,5561,http://www.imdb.com/title/tt0077531/?ref_=fn_tt_tt_1,595,1.85
+Tobe Hooper,100,Horror|Sci-Fi,5187,http://www.imdb.com/title/tt0091276/?ref_=fn_tt_tt_1,394,2.35
+John Crowley,111,Drama|Romance,73249,http://www.imdb.com/title/tt2381111/?ref_=fn_tt_tt_1,55,1.85
+Stanley Kubrick,184,Adventure|Drama|History|War,101627,http://www.imdb.com/title/tt0072684/?ref_=fn_tt_tt_1,293,1.66
+Brendan Malloy,89,Comedy|Sport,14656,http://www.imdb.com/title/tt0253798/?ref_=fn_tt_tt_1,711,1.85
+Reginald Hudlin,84,Comedy,10777,http://www.imdb.com/title/tt0213790/?ref_=fn_tt_tt_1,723,1.85
+Dustin Hoffman,98,Comedy|Drama,15684,http://www.imdb.com/title/tt1441951/?ref_=fn_tt_tt_1,156,2.35
+Gregory Poirier,95,Comedy,15427,http://www.imdb.com/title/tt0246989/?ref_=fn_tt_tt_1,660,1.85
+Bill Paxton,100,Crime|Drama|Thriller,59982,http://www.imdb.com/title/tt0264616/?ref_=fn_tt_tt_1,472,1.85
+Simon Curtis,109,Biography|Drama|History,33856,http://www.imdb.com/title/tt2404425/?ref_=fn_tt_tt_1,638,2.35
+Bill Condon,118,Biography|Drama,42689,http://www.imdb.com/title/tt0362269/?ref_=fn_tt_tt_1,1000,2.35
+Sam Raimi,88,Comedy|Fantasy|Horror,128850,http://www.imdb.com/title/tt0106308/?ref_=fn_tt_tt_1,888,1.85
+Dewey Nicks,86,Comedy|Romance,12437,http://www.imdb.com/title/tt0240900/?ref_=fn_tt_tt_1,448,1.85
+Lasse Hallström,118,Drama|Romance,171882,http://www.imdb.com/title/tt0108550/?ref_=fn_tt_tt_1,29000,1.85
+Philip Saville,125,Biography|Drama|History,2164,http://www.imdb.com/title/tt0377992/?ref_=fn_tt_tt_1,147,1.85
+Mike Leigh,125,Crime|Drama,20307,http://www.imdb.com/title/tt0383694/?ref_=fn_tt_tt_1,594,1.85
+Daisy von Scherler Mayer,94,Comedy|Music|Romance,13622,http://www.imdb.com/title/tt0280720/?ref_=fn_tt_tt_1,463,1.85
+Mira Nair,113,Comedy|Drama|Romance,1761,http://www.imdb.com/title/tt0114113/?ref_=fn_tt_tt_1,979,1.85
+Ethan Coen,104,Drama|Music,96233,http://www.imdb.com/title/tt2042568/?ref_=fn_tt_tt_1,275,1.85
+Tim Blake Nelson,95,Drama|Romance|Thriller,17333,http://www.imdb.com/title/tt0184791/?ref_=fn_tt_tt_1,835,1.85
+William A. Graham,102,Adventure|Drama|Romance,14129,http://www.imdb.com/title/tt0102782/?ref_=fn_tt_tt_1,163,1.85
+Martin Ritt,124,Drama|History,2603,http://www.imdb.com/title/tt0066090/?ref_=fn_tt_tt_1,275,2.35
+John Turturro,105,Comedy|Musical|Romance,10052,http://www.imdb.com/title/tt0368222/?ref_=fn_tt_tt_1,12000,2.35
+Agnieszka Holland,104,Biography|Drama|Music,11132,http://www.imdb.com/title/tt0424908/?ref_=fn_tt_tt_1,35,2.35
+Tobe Hooper,120,Fantasy|Horror,105448,http://www.imdb.com/title/tt0084516/?ref_=fn_tt_tt_1,770,2.35
+Rowan Joffe,111,Crime|Drama|Thriller,5013,http://www.imdb.com/title/tt1233192/?ref_=fn_tt_tt_1,641,2.35
+David Hackl,95,Horror|Mystery,88529,http://www.imdb.com/title/tt1132626/?ref_=fn_tt_tt_1,723,1.85
+Giuliano Montaldo,96,Crime|Drama|Thriller,618,http://www.imdb.com/title/tt0065895/?ref_=fn_tt_tt_1,545,2.35
+Lisa Azuelos,97,Comedy|Drama|Romance,45144,http://www.imdb.com/title/tt1592873/?ref_=fn_tt_tt_1,79,2.35
+Ray Lawrence,118,Crime|Drama|Mystery|Thriller,5772,http://www.imdb.com/title/tt0382765/?ref_=fn_tt_tt_1,71,2.35
+Karan Johar,193,Drama,13998,http://www.imdb.com/title/tt0449999/?ref_=fn_tt_tt_1,1000,2.35
+Oliver Parker,97,Comedy|Romance,12980,http://www.imdb.com/title/tt0122541/?ref_=fn_tt_tt_1,692,1.85
+Ruairi Robinson,98,Horror|Sci-Fi|Thriller,28570,http://www.imdb.com/title/tt1709143/?ref_=fn_tt_tt_1,766,2.35
+Jaume Balagueró,103,Horror,16747,http://www.imdb.com/title/tt0273517/?ref_=fn_tt_tt_1,451,2.35
+Stanley Kubrick,161,Adventure|Mystery|Sci-Fi,427357,http://www.imdb.com/title/tt0062622/?ref_=fn_tt_tt_1,117,2.2
+Steven Spielberg,120,Family|Sci-Fi,281842,http://www.imdb.com/title/tt0083866/?ref_=fn_tt_tt_1,725,1.85
+Jon Kasdan,97,Comedy|Drama|Romance,27689,http://www.imdb.com/title/tt0419843/?ref_=fn_tt_tt_1,1000,2.35
+Léa Pool,97,Adventure|Drama,1337,http://www.imdb.com/title/tt0313300/?ref_=fn_tt_tt_1,450,1.85
+Floyd Mutrux,99,Comedy|Drama,859,http://www.imdb.com/title/tt0108320/?ref_=fn_tt_tt_1,446,
+,24,Comedy,2651,http://www.imdb.com/title/tt4051832/?ref_=fn_tt_tt_1,102,
+Sajid Khan,144,Comedy,8598,http://www.imdb.com/title/tt1573072/?ref_=fn_tt_tt_1,154,
+Christopher Cain,111,Drama|History|Romance|Western,2618,http://www.imdb.com/title/tt0473700/?ref_=fn_tt_tt_1,362,1.85
+Dean Wright,145,Drama|History|War,3665,http://www.imdb.com/title/tt1566501/?ref_=fn_tt_tt_1,377,2.35
+Eric Lartigau,106,Comedy|Drama|Music,15060,http://www.imdb.com/title/tt3547740/?ref_=fn_tt_tt_1,29,1.85
+Gus Van Sant,126,Drama,604904,http://www.imdb.com/title/tt0119217/?ref_=fn_tt_tt_1,13000,1.85
+Shintaro Shimosawa,106,Drama|Thriller,6935,http://www.imdb.com/title/tt3658772/?ref_=fn_tt_tt_1,12000,2.35
+Darren Lynn Bousman,121,Horror|Mystery,142115,http://www.imdb.com/title/tt0489270/?ref_=fn_tt_tt_1,651,1.85
+Ivan Reitman,117,Action|Comedy|War,48629,http://www.imdb.com/title/tt0083131/?ref_=fn_tt_tt_1,11000,1.85
+Peyton Reed,98,Comedy|Sport,70141,http://www.imdb.com/title/tt0204946/?ref_=fn_tt_tt_1,464,1.85
+James DeMonaco,109,Action|Horror|Sci-Fi|Thriller,17596,http://www.imdb.com/title/tt4094724/?ref_=fn_tt_tt_1,465,2.35
+Robert Iscove,95,Comedy|Romance,67115,http://www.imdb.com/title/tt0160862/?ref_=fn_tt_tt_1,1000,1.85
+Lee Daniels,109,Drama,86956,http://www.imdb.com/title/tt0929632/?ref_=fn_tt_tt_1,906,1.85
+Darren Lynn Bousman,96,Horror|Mystery,111087,http://www.imdb.com/title/tt0890870/?ref_=fn_tt_tt_1,651,1.85
+Geoffrey Sax,101,Drama|Horror|Mystery|Thriller,41763,http://www.imdb.com/title/tt0375210/?ref_=fn_tt_tt_1,392,2.35
+Tyler Perry,107,Comedy|Drama|Romance,8962,http://www.imdb.com/title/tt0455612/?ref_=fn_tt_tt_1,907,1.85
+Martin Scorsese,119,Drama|Sport,57831,http://www.imdb.com/title/tt0090863/?ref_=fn_tt_tt_1,970,1.85
+Ken Annakin,178,Action|Drama|History|War,43270,http://www.imdb.com/title/tt0056197/?ref_=fn_tt_tt_1,249,2.35
+Stephen Herek,100,Comedy|Drama|Family|Sport,44502,http://www.imdb.com/title/tt0104868/?ref_=fn_tt_tt_1,613,1.85
+Takashi Shimizu,98,Horror|Mystery|Thriller,115050,http://www.imdb.com/title/tt0391198/?ref_=fn_tt_tt_1,1000,1.85
+Dennis Dugan,92,Comedy|Sport,156143,http://www.imdb.com/title/tt0116483/?ref_=fn_tt_tt_1,503,1.85
+Victor Salva,90,Horror|Mystery,86890,http://www.imdb.com/title/tt0263488/?ref_=fn_tt_tt_1,322,1.85
+Stephen Herek,90,Adventure|Comedy|Music|Sci-Fi,85362,http://www.imdb.com/title/tt0096928/?ref_=fn_tt_tt_1,769,2.35
+Carol Reed,153,Drama|Family|Musical,25303,http://www.imdb.com/title/tt0063385/?ref_=fn_tt_tt_1,275,2.35
+John Madden,124,Comedy|Drama,75306,http://www.imdb.com/title/tt1412386/?ref_=fn_tt_tt_1,400,2.35
+Chuck Sheetz,82,Animation|Comedy|Family|Mystery|Sci-Fi,6808,http://www.imdb.com/title/tt0265632/?ref_=fn_tt_tt_1,563,1.85
+George Miller,107,Action|Adventure|Sci-Fi|Thriller,101840,http://www.imdb.com/title/tt0089530/?ref_=fn_tt_tt_1,531,2.35
+Mark L. Lester,75,Action|Adventure|Thriller,111649,http://www.imdb.com/title/tt0088944/?ref_=fn_tt_tt_1,745,1.85
+William Brent Bell,97,Horror|Mystery|Thriller,35654,http://www.imdb.com/title/tt3882082/?ref_=fn_tt_tt_1,334,2.35
+John Erick Dowdle,80,Horror|Mystery|Thriller,104089,http://www.imdb.com/title/tt1314655/?ref_=fn_tt_tt_1,904,2.35
+Marcus Raboy,85,Comedy|Drama,19284,http://www.imdb.com/title/tt0293815/?ref_=fn_tt_tt_1,706,1.85
+Leigh Whannell,97,Fantasy|Horror|Thriller,54190,http://www.imdb.com/title/tt3195644/?ref_=fn_tt_tt_1,542,2.35
+Michael Schultz,109,Action|Comedy|Drama|Music,9424,http://www.imdb.com/title/tt0089461/?ref_=fn_tt_tt_1,841,1.85
+Guy Ritchie,104,Comedy|Crime,600996,http://www.imdb.com/title/tt0208092/?ref_=fn_tt_tt_1,11000,1.85
+Brett Leonard,140,Horror|Sci-Fi,27800,http://www.imdb.com/title/tt0104692/?ref_=fn_tt_tt_1,211,1.85
+Peter Sollett,90,Comedy|Drama|Music|Romance,74887,http://www.imdb.com/title/tt0981227/?ref_=fn_tt_tt_1,715,1.85
+Kevin Smith,130,Adventure|Comedy|Drama|Fantasy,181737,http://www.imdb.com/title/tt0120655/?ref_=fn_tt_tt_1,1000,2.35
+Bob Dolman,98,Comedy|Drama,12388,http://www.imdb.com/title/tt0280460/?ref_=fn_tt_tt_1,797,2.35
+Joe Dante,101,Fantasy|Horror|Sci-Fi,25613,http://www.imdb.com/title/tt0086491/?ref_=fn_tt_tt_1,730,1.85
+Rowdy Herrington,114,Action|Thriller,42987,http://www.imdb.com/title/tt0098206/?ref_=fn_tt_tt_1,472,2.35
+Keenen Ivory Wayans,100,Action|Comedy|Crime,3924,http://www.imdb.com/title/tt0110399/?ref_=fn_tt_tt_1,543,1.85
+John Polson,85,Drama|Thriller,16300,http://www.imdb.com/title/tt0283026/?ref_=fn_tt_tt_1,855,2.35
+Greg Coolidge,103,Comedy|Romance,37681,http://www.imdb.com/title/tt0424993/?ref_=fn_tt_tt_1,809,1.85
+Harry Elfont,100,Comedy|Romance,37885,http://www.imdb.com/title/tt0127723/?ref_=fn_tt_tt_1,945,1.85
+Francis Ford Coppola,114,Crime|Drama,57363,http://www.imdb.com/title/tt0086066/?ref_=fn_tt_tt_1,919,2.35
+David Lowery,102,Adventure|Family|Fantasy,408,http://www.imdb.com/title/tt2788732/?ref_=fn_tt_tt_1,424,2.35
+David Cronenberg,103,Horror|Sci-Fi|Thriller,44804,http://www.imdb.com/title/tt0085407/?ref_=fn_tt_tt_1,278,1.85
+Ciarán Foy,97,Horror|Mystery|Thriller,25210,http://www.imdb.com/title/tt2752772/?ref_=fn_tt_tt_1,412,2.35
+Salim Akil,116,Drama|Music,5161,http://www.imdb.com/title/tt1876451/?ref_=fn_tt_tt_1,876,2.35
+Jamie Blanks,96,Horror|Mystery|Thriller,20467,http://www.imdb.com/title/tt0242998/?ref_=fn_tt_tt_1,533,2.35
+Olatunde Osunsanmi,98,Mystery|Sci-Fi|Thriller,63108,http://www.imdb.com/title/tt1220198/?ref_=fn_tt_tt_1,537,2.35
+Robert Altman,105,Comedy|Drama|Music,19655,http://www.imdb.com/title/tt0420087/?ref_=fn_tt_tt_1,912,2.35
+Leon Ichaso,123,Drama|Thriller,3119,http://www.imdb.com/title/tt0107079/?ref_=fn_tt_tt_1,475,1.85
+Joseph Zito,107,Action|Thriller,6143,http://www.imdb.com/title/tt0089348/?ref_=fn_tt_tt_1,324,1.85
+Malcolm D. Lee,112,Comedy|Drama|Music|Romance,5585,http://www.imdb.com/title/tt0403455/?ref_=fn_tt_tt_1,918,2.35
+Wes Anderson,93,Comedy|Drama,134458,http://www.imdb.com/title/tt0128445/?ref_=fn_tt_tt_1,933,2.35
+Colin Strause,97,Action|Sci-Fi|Thriller,76199,http://www.imdb.com/title/tt1564585/?ref_=fn_tt_tt_1,927,2.35
+John Madden,122,Comedy|Drama,22369,http://www.imdb.com/title/tt2555736/?ref_=fn_tt_tt_1,186,2.35
+Patricia Rozema,101,Drama|Family,4719,http://www.imdb.com/title/tt0846308/?ref_=fn_tt_tt_1,624,1.85
+Mark Rosman,100,Comedy|Family|Romance,23527,http://www.imdb.com/title/tt0380623/?ref_=fn_tt_tt_1,962,1.85
+Spike Lee,129,Drama|Music|Romance,8295,http://www.imdb.com/title/tt0100168/?ref_=fn_tt_tt_1,269,1.85
+Steve Oedekerk,81,Action|Comedy,37901,http://www.imdb.com/title/tt0240468/?ref_=fn_tt_tt_1,67,2.35
+Ron Underwood,96,Comedy|Horror|Sci-Fi,90070,http://www.imdb.com/title/tt0100814/?ref_=fn_tt_tt_1,610,1.85
+Rob Schmidt,84,Horror|Thriller,87494,http://www.imdb.com/title/tt0295700/?ref_=fn_tt_tt_1,683,1.85
+Walter Hill,100,Western,7322,http://www.imdb.com/title/tt0081071/?ref_=fn_tt_tt_1,926,1.85
+James Foley,110,Action|Crime|Drama|Mystery|Thriller,15358,http://www.imdb.com/title/tt0142192/?ref_=fn_tt_tt_1,218,2.35
+Jeff Nichols,130,Drama,135286,http://www.imdb.com/title/tt1935179/?ref_=fn_tt_tt_1,1000,2.35
+Robert Ben Garant,84,Comedy|Crime,23928,http://www.imdb.com/title/tt0499554/?ref_=fn_tt_tt_1,651,1.85
+Morgan Spurlock,106,Documentary|Music,22161,http://www.imdb.com/title/tt2515086/?ref_=fn_tt_tt_1,734,1.85
+Neal Brennan,89,Comedy,17790,http://www.imdb.com/title/tt1092633/?ref_=fn_tt_tt_1,700,1.85
+Tuck Tucker,76,Adventure|Animation|Comedy|Family,4564,http://www.imdb.com/title/tt0314166/?ref_=fn_tt_tt_1,811,1.85
+Simon Curtis,99,Biography|Drama,71679,http://www.imdb.com/title/tt1655420/?ref_=fn_tt_tt_1,2000,2.35
+Richard Shepard,96,Comedy|Crime|Drama|Thriller,40514,http://www.imdb.com/title/tt0365485/?ref_=fn_tt_tt_1,497,2.35
+Theodore Witcher,104,Drama|Romance,2801,http://www.imdb.com/title/tt0119572/?ref_=fn_tt_tt_1,826,1.85
+Joel Edgerton,108,Mystery|Thriller,79909,http://www.imdb.com/title/tt4178092/?ref_=fn_tt_tt_1,562,2.35
+Jim Hanon,108,Adventure|Drama,4360,http://www.imdb.com/title/tt0399862/?ref_=fn_tt_tt_1,232,2.35
+Tommy O'Haver,87,Comedy|Romance,15617,http://www.imdb.com/title/tt0192071/?ref_=fn_tt_tt_1,4000,2.35
+Mike Judge,89,Comedy,200293,http://www.imdb.com/title/tt0151804/?ref_=fn_tt_tt_1,939,1.85
+Michael Patrick Jann,97,Comedy|Romance|Thriller,27265,http://www.imdb.com/title/tt0157503/?ref_=fn_tt_tt_1,980,1.85
+Tim Burton,106,Biography|Crime|Drama|Romance,55539,http://www.imdb.com/title/tt1126590/?ref_=fn_tt_tt_1,430,1.85
+Peter Berg,100,Comedy|Crime|Thriller,39331,http://www.imdb.com/title/tt0124198/?ref_=fn_tt_tt_1,796,1.85
+Joe Nussbaum,89,Comedy|Romance,12706,http://www.imdb.com/title/tt0368975/?ref_=fn_tt_tt_1,2000,1.85
+Brian De Palma,114,Mystery|Thriller,20113,http://www.imdb.com/title/tt0086984/?ref_=fn_tt_tt_1,376,1.85
+Jorma Taccone,95,Action|Comedy|Romance,35888,http://www.imdb.com/title/tt1470023/?ref_=fn_tt_tt_1,622,2.35
+Stephen Frears,97,Crime|Drama|Thriller,34848,http://www.imdb.com/title/tt0301199/?ref_=fn_tt_tt_1,372,1.85
+Elizabeth Banks,94,Comedy,79146,http://www.imdb.com/title/tt1333125/?ref_=fn_tt_tt_1,14000,1.85
+Florian Henckel von Donnersmarck,103,Action|Romance|Thriller,176606,http://www.imdb.com/title/tt1243957/?ref_=fn_tt_tt_1,11000,2.35
+Jeff Lowell,95,Comedy|Fantasy|Romance,21268,http://www.imdb.com/title/tt0785007/?ref_=fn_tt_tt_1,702,2.35
+Lorene Scafaria,101,Adventure|Comedy|Drama|Romance|Sci-Fi,87203,http://www.imdb.com/title/tt1307068/?ref_=fn_tt_tt_1,353,2.35
+Miguel Arteta,87,Comedy,32697,http://www.imdb.com/title/tt1477837/?ref_=fn_tt_tt_1,939,1.85
+,40,Comedy|Crime|Drama|Mystery|Romance,111506,http://www.imdb.com/title/tt0460627/?ref_=fn_tt_tt_1,722,1.78
+Tony Kaye,101,Crime|Drama,782437,http://www.imdb.com/title/tt0120586/?ref_=fn_tt_tt_1,816,1.85
+Marcus Dunstan,82,Action|Horror|Thriller,36029,http://www.imdb.com/title/tt1748227/?ref_=fn_tt_tt_1,581,2.35
+Timothy Björklund,74,Animation|Comedy|Family|Fantasy|Musical,1231,http://www.imdb.com/title/tt0350194/?ref_=fn_tt_tt_1,808,1.85
+François Girard,130,Drama|Music|Mystery|Romance,26832,http://www.imdb.com/title/tt0120802/?ref_=fn_tt_tt_1,3,1.85
+David Lynch,112,Biography|Drama,63733,http://www.imdb.com/title/tt0166896/?ref_=fn_tt_tt_1,262,2.35
+Scott Kalvert,96,Action|Crime|Drama,6200,http://www.imdb.com/title/tt0231448/?ref_=fn_tt_tt_1,11000,2.35
+Jason Bateman,89,Comedy|Drama,38459,http://www.imdb.com/title/tt2170299/?ref_=fn_tt_tt_1,497,2.35
+David Schwimmer,100,Comedy|Romance|Sport,58509,http://www.imdb.com/title/tt0425413/?ref_=fn_tt_tt_1,269,2.35
+Allan Arkush,78,Comedy|Sci-Fi,1040,http://www.imdb.com/title/tt0082507/?ref_=fn_tt_tt_1,695,2.35
+Mike Binder,121,Drama,8058,http://www.imdb.com/title/tt2883434/?ref_=fn_tt_tt_1,837,2.35
+Eric Bross,85,Comedy|Family|Romance,3662,http://www.imdb.com/title/tt0279286/?ref_=fn_tt_tt_1,405,1.85
+Werner Herzog,120,Adventure|Biography|Drama|War,84641,http://www.imdb.com/title/tt0462504/?ref_=fn_tt_tt_1,342,1.85
+Dan Fogelman,106,Comedy|Drama|Music,20810,http://www.imdb.com/title/tt1772288/?ref_=fn_tt_tt_1,3000,
+Jay Duplass,83,Comedy|Drama,56005,http://www.imdb.com/title/tt1588334/?ref_=fn_tt_tt_1,616,1.85
+Luca Guadagnino,120,Drama|Romance,14031,http://www.imdb.com/title/tt1226236/?ref_=fn_tt_tt_1,110,1.85
+John Putch,111,Drama|Mystery|Sci-Fi,5612,http://www.imdb.com/title/tt1985017/?ref_=fn_tt_tt_1,759,2.35
+Peter Medak,100,Action|Crime|Drama|Thriller,10735,http://www.imdb.com/title/tt0107983/?ref_=fn_tt_tt_1,721,1.85
+Steven Soderbergh,89,Crime|Drama|Mystery|Thriller,24412,http://www.imdb.com/title/tt0165854/?ref_=fn_tt_tt_1,296,1.85
+Paul Haggis,115,Crime|Drama|Thriller,361169,http://www.imdb.com/title/tt0375679/?ref_=fn_tt_tt_1,912,2.35
+Terence Davies,135,Drama|Romance,6377,http://www.imdb.com/title/tt0200720/?ref_=fn_tt_tt_1,576,2.35
+Harley Cokeliss,92,Action|Drama|Thriller,1768,http://www.imdb.com/title/tt0093483/?ref_=fn_tt_tt_1,324,1.85
+Victor Salva,120,Drama|Romance|Sport,20426,http://www.imdb.com/title/tt0438315/?ref_=fn_tt_tt_1,436,2.35
+Tom Brady,97,Comedy,9541,http://www.imdb.com/title/tt1411664/?ref_=fn_tt_tt_1,503,1.85
+Spike Lee,135,Comedy|Drama|Music,8720,http://www.imdb.com/title/tt0215545/?ref_=fn_tt_tt_1,975,1.85
+Jason Zada,93,Horror|Mystery|Thriller,20837,http://www.imdb.com/title/tt3387542/?ref_=fn_tt_tt_1,35,1.85
+Franklin J. Schaffner,118,Adventure|Mystery|Thriller,892,http://www.imdb.com/title/tt0083113/?ref_=fn_tt_tt_1,488,2.35
+Noah Baumbach,97,Comedy|Drama,30325,http://www.imdb.com/title/tt1791682/?ref_=fn_tt_tt_1,139,1.85
+Chris Weitz,98,Drama|Romance,13174,http://www.imdb.com/title/tt1554091/?ref_=fn_tt_tt_1,252,1.85
+David Cronenberg,98,Drama|Mystery|Thriller,30096,http://www.imdb.com/title/tt0278731/?ref_=fn_tt_tt_1,387,1.78
+Eric Blakeney,101,Comedy|Crime|Romance,5936,http://www.imdb.com/title/tt0171356/?ref_=fn_tt_tt_1,1000,1.85
+Douglas McGrath,132,Drama|Romance,9395,http://www.imdb.com/title/tt0309912/?ref_=fn_tt_tt_1,11000,2.35
+Ariel Vromen,106,Biography|Crime|Drama,55567,http://www.imdb.com/title/tt1491044/?ref_=fn_tt_tt_1,11000,1.85
+,55,Drama,12591,http://www.imdb.com/title/tt0092337/?ref_=fn_tt_tt_1,3,1.33
+Rakesh Roshan,168,Action|Adventure|Romance|Sci-Fi,12411,http://www.imdb.com/title/tt0432637/?ref_=fn_tt_tt_1,200,2.35
+John Waters,87,Comedy|Crime|Thriller,11403,http://www.imdb.com/title/tt0173716/?ref_=fn_tt_tt_1,537,1.85
+William Friedkin,98,Crime|Drama|Romance|Thriller,59297,http://www.imdb.com/title/tt1726669/?ref_=fn_tt_tt_1,414,1.85
+Derrick Borte,96,Comedy|Drama,33473,http://www.imdb.com/title/tt1285309/?ref_=fn_tt_tt_1,989,2.35
+Richard Kwietniowski,104,Crime|Drama|Thriller,10585,http://www.imdb.com/title/tt0285861/?ref_=fn_tt_tt_1,893,2.35
+Bob Odenkirk,93,Comedy,9517,http://www.imdb.com/title/tt0784972/?ref_=fn_tt_tt_1,799,1.85
+Kar-Wai Wong,95,Drama|Romance,44208,http://www.imdb.com/title/tt0765120/?ref_=fn_tt_tt_1,329,2.35
+John Turturro,119,Drama,1402,http://www.imdb.com/title/tt0120709/?ref_=fn_tt_tt_1,623,1.85
+Guy Ritchie,89,Comedy|Romance,13145,http://www.imdb.com/title/tt0291502/?ref_=fn_tt_tt_1,711,1.85
+Joshua Seftel,107,Action|Comedy|Thriller,20008,http://www.imdb.com/title/tt0884224/?ref_=fn_tt_tt_1,175,1.78
+Stephen Chow,85,Action|Comedy|Sport,56923,http://www.imdb.com/title/tt0286112/?ref_=fn_tt_tt_1,83,1.85
+Vincent Gallo,93,Drama,11487,http://www.imdb.com/title/tt0330099/?ref_=fn_tt_tt_1,96,1.66
+Claude Chabrol,101,Comedy|Crime|Thriller,1649,http://www.imdb.com/title/tt0120018/?ref_=fn_tt_tt_1,541,1.66
+Jon Stewart,103,Biography|Drama,8307,http://www.imdb.com/title/tt2752688/?ref_=fn_tt_tt_1,362,1.85
+Bigas Luna,101,Drama|Romance,1135,http://www.imdb.com/title/tt0129923/?ref_=fn_tt_tt_1,130,2.35
+Ralph Fiennes,123,Drama|Thriller|War,27009,http://www.imdb.com/title/tt1372686/?ref_=fn_tt_tt_1,451,2.35
+Dan Harris,111,Comedy|Drama,8708,http://www.imdb.com/title/tt0373024/?ref_=fn_tt_tt_1,181,2.35
+Mel Smith,86,Action|Comedy|Drama,3080,http://www.imdb.com/title/tt0253126/?ref_=fn_tt_tt_1,798,1.85
+Bobcat Goldthwait,99,Comedy|Drama,31964,http://www.imdb.com/title/tt1262981/?ref_=fn_tt_tt_1,640,1.85
+Christopher Smith,90,Comedy|Horror|Thriller,31890,http://www.imdb.com/title/tt0464196/?ref_=fn_tt_tt_1,769,1.85
+Stuart Gordon,82,Drama|Thriller,9971,http://www.imdb.com/title/tt0443496/?ref_=fn_tt_tt_1,922,1.85
+Jake Scott,110,Drama,19979,http://www.imdb.com/title/tt1183923/?ref_=fn_tt_tt_1,793,1.85
+Alan Metter,83,Comedy|Crime,24958,http://www.imdb.com/title/tt0110857/?ref_=fn_tt_tt_1,542,1.85
+Jeb Stuart,128,Drama,465,http://www.imdb.com/title/tt1210039/?ref_=fn_tt_tt_1,664,2.35
+Rafa Lara,125,Drama|History|War,683,http://www.imdb.com/title/tt2553908/?ref_=fn_tt_tt_1,61,
+Michael Radford,97,Comedy|Drama|Romance,2041,http://www.imdb.com/title/tt2113659/?ref_=fn_tt_tt_1,545,2.35
+Arthur Hiller,86,Comedy,2971,http://www.imdb.com/title/tt0118577/?ref_=fn_tt_tt_1,474,1.85
+Michael Meredith,91,Comedy|Drama,2941,http://www.imdb.com/title/tt1007018/?ref_=fn_tt_tt_1,3000,2.35
+Julio DePietro,90,Comedy|Romance,7759,http://www.imdb.com/title/tt1247662/?ref_=fn_tt_tt_1,690,1.85
+Katherine Dieckmann,90,Comedy|Drama,3662,http://www.imdb.com/title/tt1220220/?ref_=fn_tt_tt_1,893,1.85
+William Dear,94,Drama,361,http://www.imdb.com/title/tt1128071/?ref_=fn_tt_tt_1,632,1.85
+Kim Farrant,112,Drama|Mystery|Thriller,5637,http://www.imdb.com/title/tt2325977/?ref_=fn_tt_tt_1,52,2.39
+Marcus Raboy,85,Comedy|Crime|Music,1097,http://www.imdb.com/title/tt1210071/?ref_=fn_tt_tt_1,405,1.85
+Scott Marshall,93,Comedy|Romance,4995,http://www.imdb.com/title/tt0887719/?ref_=fn_tt_tt_1,848,1.85
+Álex de la Iglesia,104,Crime|Mystery|Thriller,22753,http://www.imdb.com/title/tt0488604/?ref_=fn_tt_tt_1,161,2.35
+Andrew Traucki,94,Horror|Thriller,11950,http://www.imdb.com/title/tt1320291/?ref_=fn_tt_tt_1,109,2.35
+Michael Clancy,85,Comedy|Drama,7690,http://www.imdb.com/title/tt0349416/?ref_=fn_tt_tt_1,826,1.85
+Patrick Lussier,99,Drama|Fantasy|Horror|Thriller,11285,http://www.imdb.com/title/tt0496436/?ref_=fn_tt_tt_1,258,2.35
+Robert Adetuyi,91,Drama|Music,1642,http://www.imdb.com/title/tt1568139/?ref_=fn_tt_tt_1,152,2.35
+Kari Skogland,117,Drama|Thriller,9585,http://www.imdb.com/title/tt1097643/?ref_=fn_tt_tt_1,2000,2.35
+Taedong Park,85,Adventure|Animation,162,http://www.imdb.com/title/tt2722786/?ref_=fn_tt_tt_1,618,
+Paul Schrader,106,Drama|War,3075,http://www.imdb.com/title/tt0479341/?ref_=fn_tt_tt_1,744,2.35
+Benedikt Erlingsson,81,Comedy|Drama|Romance,1920,http://www.imdb.com/title/tt3074732/?ref_=fn_tt_tt_1,10,2.35
+Gurinder Chadha,100,Comedy|Drama|Horror|Romance,1250,http://www.imdb.com/title/tt1319716/?ref_=fn_tt_tt_1,891,2.35
+Jason Connery,90,Action|Horror|Sci-Fi,5715,http://www.imdb.com/title/tt1147687/?ref_=fn_tt_tt_1,898,1.85
+Vic Sarin,116,Drama|Romance,2223,http://www.imdb.com/title/tt0213985/?ref_=fn_tt_tt_1,136,2.35
+Jim Issa,84,Comedy,553,http://www.imdb.com/title/tt1070781/?ref_=fn_tt_tt_1,608,
+Jee-woon Kim,135,Action|Adventure|Comedy|Western,26156,http://www.imdb.com/title/tt0901487/?ref_=fn_tt_tt_1,149,2.35
+Douglas Aarniokoski,84,Horror|Thriller,7286,http://www.imdb.com/title/tt1913166/?ref_=fn_tt_tt_1,948,2.35
+William Phillips,89,Action|Comedy|Drama|Western,3015,http://www.imdb.com/title/tt1376195/?ref_=fn_tt_tt_1,716,2.35
+Greg Mottola,107,Comedy|Drama|Romance,131180,http://www.imdb.com/title/tt1091722/?ref_=fn_tt_tt_1,985,1.85
+Andy Garcia,144,Drama|Romance,8369,http://www.imdb.com/title/tt0343996/?ref_=fn_tt_tt_1,228,1.85
+Steve Carr,98,Comedy,27492,http://www.imdb.com/title/tt0195945/?ref_=fn_tt_tt_1,706,1.85
+Sarik Andreasyan,94,Action|Crime|Drama|Thriller,12372,http://www.imdb.com/title/tt2923316/?ref_=fn_tt_tt_1,4000,
+Lewis Gilbert,117,Action|Adventure|Thriller,75280,http://www.imdb.com/title/tt0062512/?ref_=fn_tt_tt_1,462,2.35
+Julian Gilbey,102,Action|Comedy|Crime|Drama,5865,http://www.imdb.com/title/tt2556874/?ref_=fn_tt_tt_1,1000,
+Michael Haneke,127,Drama|Romance,70382,http://www.imdb.com/title/tt1602620/?ref_=fn_tt_tt_1,432,1.85
+Gary Sherman,98,Horror|Thriller,13190,http://www.imdb.com/title/tt0095889/?ref_=fn_tt_tt_1,887,1.85
+Valeri Milev,88,Action|Horror,1763,http://www.imdb.com/title/tt1612319/?ref_=fn_tt_tt_1,290,1.78
+Stanley Kramer,197,Action|Adventure|Comedy|Crime,29323,http://www.imdb.com/title/tt0057193/?ref_=fn_tt_tt_1,898,2.76
+Pedro Almodóvar,121,Comedy|Crime|Drama|Mystery,76681,http://www.imdb.com/title/tt0441909/?ref_=fn_tt_tt_1,114,2.35
+Gerald Potterton,90,Adventure|Animation|Fantasy|Horror|Sci-Fi,23516,http://www.imdb.com/title/tt0082509/?ref_=fn_tt_tt_1,176,1.37
+Jared Hess,89,Adventure|Comedy|Sci-Fi,9006,http://www.imdb.com/title/tt1161418/?ref_=fn_tt_tt_1,947,
+Richard Loncraine,104,Drama|War,11612,http://www.imdb.com/title/tt0114279/?ref_=fn_tt_tt_1,1000,2.35
+David Hackl,94,Action|Horror|Thriller,4486,http://www.imdb.com/title/tt1694021/?ref_=fn_tt_tt_1,476,1.85
+Anurag Basu,90,Action|Drama|Romance|Thriller,9673,http://www.imdb.com/title/tt1198101/?ref_=fn_tt_tt_1,412,
+Lars von Trier,130,Drama|Sci-Fi,128729,http://www.imdb.com/title/tt1527186/?ref_=fn_tt_tt_1,4000,2.35
+Kriv Stenders,92,Biography|Comedy|Drama|Family|Romance,13003,http://www.imdb.com/title/tt0803061/?ref_=fn_tt_tt_1,446,2.35
+Yash Chopra,176,Drama|Romance,42296,http://www.imdb.com/title/tt2176013/?ref_=fn_tt_tt_1,3000,2.35
+Ridley Scott,116,Horror|Sci-Fi,563827,http://www.imdb.com/title/tt0078748/?ref_=fn_tt_tt_1,581,2.35
+Tobe Hooper,88,Horror|Thriller,96410,http://www.imdb.com/title/tt0072271/?ref_=fn_tt_tt_1,371,1.85
+Floria Sigismondi,106,Biography|Drama|Music,39260,http://www.imdb.com/title/tt1017451/?ref_=fn_tt_tt_1,908,2.35
+Norman Jewison,181,Drama|Family|Musical|Romance,29839,http://www.imdb.com/title/tt0067093/?ref_=fn_tt_tt_1,343,2.35
+Terence Young,130,Action|Adventure|Thriller,82073,http://www.imdb.com/title/tt0059800/?ref_=fn_tt_tt_1,189,2.35
+Joseph Kahn,93,Comedy|Horror|Sci-Fi,12520,http://www.imdb.com/title/tt1701990/?ref_=fn_tt_tt_1,383,2.35
+Ferzan Ozpetek,110,Comedy|Drama|Romance,8667,http://www.imdb.com/title/tt1405810/?ref_=fn_tt_tt_1,26,2.35
+F. Gary Gray,123,Action|Crime|Drama|Romance|Thriller,10139,http://www.imdb.com/title/tt0117603/?ref_=fn_tt_tt_1,851,2.35
+Malcolm D. Lee,120,Comedy|Drama,6525,http://www.imdb.com/title/tt0168501/?ref_=fn_tt_tt_1,886,1.85
+Tom Holland,87,Fantasy|Horror,62038,http://www.imdb.com/title/tt0094862/?ref_=fn_tt_tt_1,189,1.85
+Michael Moore,123,Documentary|Drama,66610,http://www.imdb.com/title/tt0386032/?ref_=fn_tt_tt_1,203,1.85
+James DeMonaco,103,Action|Horror|Sci-Fi|Thriller,92364,http://www.imdb.com/title/tt2975578/?ref_=fn_tt_tt_1,971,2.35
+Kris Isacsson,91,Comedy|Drama|Romance,12324,http://www.imdb.com/title/tt0186975/?ref_=fn_tt_tt_1,683,1.85
+Danny Leiner,88,Adventure|Comedy,155262,http://www.imdb.com/title/tt0366551/?ref_=fn_tt_tt_1,729,1.85
+Rod Lurie,126,Drama|Thriller,20449,http://www.imdb.com/title/tt0208874/?ref_=fn_tt_tt_1,10000,1.85
+Ben Younger,120,Crime|Drama|Thriller,41313,http://www.imdb.com/title/tt0181984/?ref_=fn_tt_tt_1,826,1.85
+John Landis,116,Comedy,102895,http://www.imdb.com/title/tt0086465/?ref_=fn_tt_tt_1,249,1.85
+Glen Morgan,94,Horror,19918,http://www.imdb.com/title/tt0454082/?ref_=fn_tt_tt_1,318,2.35
+Daniel Taplitz,85,Comedy|Romance,4247,http://www.imdb.com/title/tt0349169/?ref_=fn_tt_tt_1,150,2.35
+Kenneth Branagh,137,Action|Biography|Drama|History|Romance|War,23441,http://www.imdb.com/title/tt0097499/?ref_=fn_tt_tt_1,520,1.85
+Tamara Jenkins,114,Comedy|Drama,32188,http://www.imdb.com/title/tt0775529/?ref_=fn_tt_tt_1,929,1.85
+Linda Mendoza,76,Comedy|Romance,3419,http://www.imdb.com/title/tt0323572/?ref_=fn_tt_tt_1,579,1.85
+Christopher McQuarrie,119,Action|Crime|Drama|Thriller,27536,http://www.imdb.com/title/tt0202677/?ref_=fn_tt_tt_1,127,1.85
+Burr Steers,99,Comedy|Drama,29058,http://www.imdb.com/title/tt0280760/?ref_=fn_tt_tt_1,710,2.35
+Hart Bochner,79,Comedy,10476,http://www.imdb.com/title/tt0110759/?ref_=fn_tt_tt_1,248,1.85
+Michael O. Sajbel,114,Drama|Family|Romance,14100,http://www.imdb.com/title/tt0482629/?ref_=fn_tt_tt_1,906,1.85
+,30,Drama|Romance,5478,http://www.imdb.com/title/tt0092325/?ref_=fn_tt_tt_1,170,1.78
+Stewart Raffill,91,Action|Adventure|Comedy|Romance|Sci-Fi,7767,http://www.imdb.com/title/tt0087451/?ref_=fn_tt_tt_1,300,1.85
+Davis Guggenheim,95,Biography|Drama|Sport,3624,http://www.imdb.com/title/tt0441007/?ref_=fn_tt_tt_1,616,2.35
+Bart Freundlich,103,Comedy|Drama|Romance,7833,http://www.imdb.com/title/tt0427968/?ref_=fn_tt_tt_1,591,2.35
+Andrew Fleming,92,Comedy|Music,15200,http://www.imdb.com/title/tt1104733/?ref_=fn_tt_tt_1,1000,1.85
+Todd Haynes,124,Drama|Music,27766,http://www.imdb.com/title/tt0120879/?ref_=fn_tt_tt_1,776,1.85
+Hong-jin Na,156,Fantasy|Horror|Mystery|Thriller,2379,http://www.imdb.com/title/tt5215952/?ref_=fn_tt_tt_1,5,2.35
+Kevin Tancharoen,84,Documentary|Music,5156,http://www.imdb.com/title/tt1922612/?ref_=fn_tt_tt_1,892,1.85
+Chatrichalerm Yukol,300,Action|Adventure|Drama|History|War,1666,http://www.imdb.com/title/tt0290879/?ref_=fn_tt_tt_1,6,1.85
+Dario Argento,120,Horror,4302,http://www.imdb.com/title/tt0100827/?ref_=fn_tt_tt_1,602,1.85
+Eric Lavaine,98,Comedy,1673,http://www.imdb.com/title/tt3202120/?ref_=fn_tt_tt_1,41,2.35
+Mike Leigh,121,Drama,8161,http://www.imdb.com/title/tt0286261/?ref_=fn_tt_tt_1,44,1.85
+Marc Forby,97,Drama,1201,http://www.imdb.com/title/tt1185344/?ref_=fn_tt_tt_1,537,2.35
+Peter Cattaneo,86,Drama|Family,813,http://www.imdb.com/title/tt0420835/?ref_=fn_tt_tt_1,62,1.85
+Scott Mann,93,Action|Crime|Thriller,16198,http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,1000,2.35
+Ole Christian Madsen,45,Drama|History|Thriller|War,14247,http://www.imdb.com/title/tt0920458/?ref_=fn_tt_tt_1,197,2.35
+Meiert Avis,97,Comedy|Music|Romance,2599,http://www.imdb.com/title/tt0434424/?ref_=fn_tt_tt_1,374,2.35
+Julian Jarrold,102,Crime|Drama|Mystery|Thriller,9305,http://www.imdb.com/title/tt1259574/?ref_=fn_tt_tt_1,281,1.85
+André Téchiné,105,Drama,1219,http://www.imdb.com/title/tt1183672/?ref_=fn_tt_tt_1,168,2.35
+Emily Young,103,Drama|Romance,10100,http://www.imdb.com/title/tt1068678/?ref_=fn_tt_tt_1,931,2.35
+Peter Faiman,93,Adventure|Comedy,74743,http://www.imdb.com/title/tt0090555/?ref_=fn_tt_tt_1,162,2.35
+Martyn Pick,76,Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,4990,http://www.imdb.com/title/tt1679332/?ref_=fn_tt_tt_1,212,1.85
+Roland Suso Richter,90,Mystery|Sci-Fi|Thriller,9296,http://www.imdb.com/title/tt0325596/?ref_=fn_tt_tt_1,900,2.35
+Jeremy Sims,122,Drama|History|War,5741,http://www.imdb.com/title/tt1418646/?ref_=fn_tt_tt_1,109,2.35
+Maïwenn,127,Crime|Drama,10796,http://www.imdb.com/title/tt1661420/?ref_=fn_tt_tt_1,236,1.85
+Joby Harold,84,Crime|Mystery|Thriller,63216,http://www.imdb.com/title/tt0211933/?ref_=fn_tt_tt_1,922,2.35
+,23,Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,28190,http://www.imdb.com/title/tt0458290/?ref_=fn_tt_tt_1,296,2.35
+Ekachai Uekrongtham,96,Action|Crime|Thriller,5228,http://www.imdb.com/title/tt1641841/?ref_=fn_tt_tt_1,368,2.35
+Joel Schumacher,97,Comedy|Fantasy|Horror,92924,http://www.imdb.com/title/tt0093437/?ref_=fn_tt_tt_1,847,2.35
+Scott Cooper,112,Drama|Music|Romance,67760,http://www.imdb.com/title/tt1263670/?ref_=fn_tt_tt_1,628,2.35

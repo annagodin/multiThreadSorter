@@ -1,175 +1,257 @@
-aspect_ratio
-1.85
-1.85
-2.35
-2.35
-1.85
-
-2.35
-2.35
-2.35
-2.35
-1.85
-2.35
-2.35
-1.85
-2.35
-1.85
-2.35
-2.35
-2.35
-2.35
-1.85
-1.85
-1.78
-2.35
-2.35
-2.35
-1.85
-1.85
-1.85
-1.85
-1.85
-2.35
-1.85
-2.35
-1.85
-2.35
-2.35
-2.35
-1.85
-1.85
-2.35
-1.85
-1.85
-
-1.85
-1.66
-2.35
-1.85
-1.85
-2.35
-1.78
-1.85
-2.35
-1.85
-1.85
-2.35
-1.85
-2.35
-1.85
-1.85
-1.85
-2.35
-2.35
-2.35
-2.35
-1.85
-1.85
-2.35
-1.85
-2.35
-2.35
-2.35
-1.85
-2.35
-1.85
-2.35
-1.85
-2.35
-2.35
-2.35
-2.35
-1.85
-1.85
-1.85
-2.35
-1.85
-2.35
-2.35
-2.35
-2.35
-2.35
-2.35
-1.85
-2.35
-2.35
-1.85
-2.35
-1.85
-1.85
-1.85
-
-2.35
-2.35
-
-1.85
-1.85
-2.35
-2.35
-1.78
-2.35
-1.85
-2.35
-2.35
-2.35
-2.35
-1.85
-1.85
-1.85
-2.35
-1.33
-1.85
-2.35
-1.85
-2.35
-2.35
-1.85
-1.85
-1.85
-2.76
-2.35
-1.85
-2.35
-1.85
-1.85
-2.35
-1.85
-1.85
-1.85
-2.35
-2.35
-1.85
-2.35
-1.85
-2.35
-2.35
-1.85
-2.35
-1.85
-2.35
-1.85
-1.37
-2.35
-2.35
-1.85
-1.85
-2.35
-2.35
-2.35
-1.85
-1.85
-1.85
-2.35
-1.85
-1.85
-1.85
-16.0
-2.35
-1.85
-2.35
-2.35
-1.66
-2.35
-1.85
-1.85
+director_name,director_facebook_likes,actor_2_name,actor_1_name,num_voted_users,num_user_for_reviews,country
+Wes Craven,0,Aimee Teegarden,Alison Brie,104119,518,USA
+Joel Schumacher,541,Chris Bauer,Nicolas Cage,104564,587,Germany
+Oliver Stone,0,Kevin Dillon,Michael Wincott,68159,209,USA
+Jake Kasdan,52,Randall Park,James Wilcox,84382,158,USA
+Diane Keaton,0,Celia Weston,Adam Arkin,10132,130,Germany
+Steven Quale,77,Jacqueline MacInnes Wood,Emma Bell,83788,227,USA
+Kelly Makin,6,Burt Young,Jeanne Tripplehorn,29968,117,UK
+Mimi Leder,75,Haley Joel Osment,Kevin Spacey,95860,660,USA
+Bobby Farrelly,101,KaDee Strickland,Jimmy Fallon,36223,208,USA
+,,Melissa Altro,Bruce Dinsmore,8495,43,Canada
+Steven Brill,65,Shaun Weiss,Lisa Ann Walter,50199,101,USA
+Seth MacFarlane,3000,Charlize Theron,Liam Neeson,136093,416,USA
+Russell Mulcahy,85,Peter Boyle,Jonathan Winters,18723,146,USA
+Stephen Daldry,335,Thomas Horn,Tom Hanks,81298,341,USA
+Roger Michell,50,Patti D'Arbanville,Noah Bean,58871,156,USA
+Jim Sheridan,260,Bill Duke,50 Cent,35834,284,USA
+Christian Duguay,18,Cary-Hiroyuki Tagawa,Michael Biehn,25346,167,USA
+Chris Columbus,0,David Fine,Rosario Dawson,41685,754,USA
+Chuck Russell,55,Jimmy Smits,Rufus Sewell,12093,188,USA
+Sam Weisman,39,Valerie Perri,Oliver Hudson,10446,105,USA
+John Frankenheimer,287,Temuera Morrison,Marlon Brando,26051,164,USA
+Peter Hyams,0,Justin Chambers,Catherine Deneuve,12856,291,Germany
+Justin Chadwick,56,Scarlett Johansson,Natalie Portman,84357,252,UK
+Pat O'Connor,7,Charlize Theron,Keanu Reeves,70292,274,USA
+Stephen Hopkins,81,Andrea Frankle,Stephen Rea,37412,178,USA
+Martin Scorsese,17000,David Carradine,Robert De Niro,67797,223,USA
+Penny Marshall,545,Cliff Robertson,Ed Begley Jr.,13830,61,USA
+Olivier Megaton,118,Callum Blue,Jordi Mollà,76498,203,France
+Frederik Du Chau,7,Jaleel White,Gary Oldman,11156,67,USA
+Michael Caton-Jones,105,James Franco,Robert De Niro,21319,166,USA
+Irwin Winkler,34,Nathan Lane,Mira Sorvino,11232,106,USA
+Joseph Kahn,33,Jay Hernandez,Dane Cook,23747,207,USA
+Harold Becker,17,Martin Landau,Al Pacino,16741,60,USA
+Paul Verhoeven,719,Elizabeth Berkley,Bobbie Phillips,49874,450,France
+Sofia Coppola,0,Shirley Henderson,Kirsten Dunst,79892,619,USA
+Barbet Schroeder,58,Michael Rapaport,Nicolas Cage,14226,60,USA
+Stephen Kay,19,Miranda Richardson,Sylvester Stallone,27305,284,USA
+J.A. Bayona,171,Geraldine Chaplin,Naomi Watts,145270,322,Spain
+Elaine May,124,Warren Beatty,Carol Kane,8692,126,USA
+Wes Anderson,0,Meryl Streep,Bill Murray,139114,245,USA
+Stephen Herek,65,Stockard Channing,Angelina Jolie Pitt,19364,128,USA
+John Carpenter,0,Michael McKean,Richard Epcar,17365,66,USA
+Jean-Pierre Jeunet,0,Jamel Debbouze,Mathieu Kassovitz,534262,1314,France
+Dennie Gordon,29,Bob Saget,Mary-Kate Olsen,17722,111,USA
+Charles Shyer,14,Nia Long,Omar Epps,43442,146,UK
+Ken Kwapis,42,Tim Blake Nelson,Ted Danson,15231,66,USA
+Ulu Grosbard,22,Treat Williams,Alexa PenaVega,10413,111,USA
+William Malone,37,Jeffrey Combs,Natascha McElhone,17309,388,UK
+Paul Weitz,80,Salma Hayek,Josh Hutcherson,35990,157,USA
+Paul McGuigan,118,Spencer Wilding,Daniel Radcliffe,28618,91,USA
+Danny DeVito,0,Amber Valletta,Justin Theroux,46205,147,USA
+Malcolm D. Lee,92,Sean Hayes,Bernie Mac,7794,25,USA
+Jerry Jameson,5,Jason Robards,M. Emmet Walsh,2933,70,UK
+Mic Rodgers,7,Daniel von Bargen,Michael Jai White,24216,162,USA
+Christian Alvart,22,Dennis Quaid,Norman Reedus,121432,310,Germany
+Gary Fleder,39,Mekhi Phifer,Gary Dourdan,19986,207,USA
+Christian Duguay,18,Bridgette Wilson-Sampras,Rufus Sewell,4821,82,UK
+Jean-Marie Poiré,8,Matt Ross,Bridgette Wilson-Sampras,15130,98,France
+Danny Boyle,0,Benedict Wong,Chris Evans,190132,801,UK
+Brian Robbins,48,Lou Saliba,John Gatins,30842,93,USA
+Marc F. Adler,0,Anne Bancroft,Eric Idle,2458,26,USA
+Pierre Morel,180,Mark Rylance,Ray Winstone,28429,110,USA
+Geoffrey Sax,13,Sophie Okonedo,Alex Pettyfer,20201,187,Germany
+D.J. Caruso,154,Aaron Yoo,Sarah Roemer,186982,491,USA
+Iain Softley,34,Fisher Stevens,Angelina Jolie Pitt,54650,223,USA
+Richard Shepard,47,Zan Marolt,James Brolin,22010,90,USA
+Joel Coen,0,Bill Cobbs,Jennifer Jason Leigh,65474,211,UK
+Peter Ho-Sun Chan,31,Takeshi Kaneshiro,Jet Li,22897,61,Hong Kong
+Sergey Bodrov,44,Kuno Becker,Jay Hernandez,3322,32,France
+Joon-ho Bong,584,Ewen Bremner,Chris Evans,181472,514,South Korea
+Bibo Bergeron,10,Bob Balaban,Adam Goldberg,15790,40,France
+Jeff Nathanson,23,Glenn Morshower,Matthew Broderick,3789,39,USA
+Alex Proyas,295,Bai Ling,Michael Wincott,136580,545,USA
+S.S. Rajamouli,50,Anushka Shetty,Tamannaah Bhatia,62756,410,India
+Robert Schwentke,124,Brooklynn Proulx,Arliss Howard,114925,234,USA
+Michael Lehmann,36,Stephen Collins,Colin Ferguson,32412,184,USA
+Rob Cohen,357,Vin Diesel,Paul Walker,272227,988,USA
+Tim Burton,13000,Catherine O'Hara,Martin Landau,73886,165,USA
+Joss Whedon,0,Sean Maher,Adam Baldwin,242599,1594,USA
+Charles S. Dutton,534,Charles S. Dutton,Omar Epps,5917,50,USA
+Richard Lester,44,Robert Vaughn,Margot Kidder,49934,224,UK
+Peter Segal,88,Sylvester Stallone,Robert De Niro,46480,115,USA
+John Woo,610,Tony Chiu Wai Leung,Takeshi Kaneshiro,36894,105,China
+Andy Tennant,72,Mary Lynn Rajskub,Ethan Embry,83786,392,USA
+Robert Luketic,126,John Michael Higgins,Gerard Butler,163665,169,USA
+Jonathan Lynn,36,Phil Hartman,Austin Pendleton,17810,73,USA
+Robert Rodriguez,0,Alexa PenaVega,Steve Buscemi,44885,107,USA
+David Carson,18,Alan Ruck,LeVar Burton,60504,249,USA
+Kar-Wai Wong,0,Hye-kyo Song,Tony Chiu Wai Leung,24557,111,Hong Kong
+Francis Lawrence,508,Christoph Waltz,Robert Pattinson,95367,260,USA
+,,Wayne Knight,Joseph Gordon-Levitt,38383,86,USA
+Yuefeng Song,0,Bianca Collins,Blythe Auffarth,2169,18,China
+Norman Jewison,278,Vincent Pastore,Denzel Washington,76016,265,USA
+Michael Apted,150,Jeff Kober,Bill Cobbs,30667,234,USA
+David Mirkin,7,Anne Bancroft,Sarah Silverman,44168,216,USA
+Andy Fickman,99,Daniella Alonso,D.B. Woodside,23473,123,USA
+Luis Mandoki,43,Shirley Knight,Sonia Braga,19686,180,USA
+John Pasquin,11,Ken Marino,Jim Belushi,8433,85,USA
+Roman Polanski,2000,Frank Langella,Johnny Depp,137722,638,Spain
+Michael Apted,150,Paul Guilfoyle,J.K. Simmons,14066,75,USA
+Stephen Herek,65,Dagmara Dominczyk,Beth Grant,34592,191,USA
+Lee Daniels,304,Gabourey Sidibe,Mo'Nique,86955,275,USA
+Ridley Scott,0,Jason Marsden,Jeff Bridges,17859,89,USA
+John Carpenter,0,Richard Masur,Wilford Brimley,258078,911,USA
+David Twohy,123,Nolan Gerard Funk,Vin Diesel,125305,343,USA
+Jeb Stuart,11,Claudia Stedelin,Gregory Scott Cummins,9740,81,USA
+Steve Miner,49,Usher Raymond,Tom Skerritt,4757,67,USA
+Gil Kenan,27,Toby Jones,Bill Murray,52908,102,USA
+Paul Thomas Anderson,0,Jeffrey W. Jenkins,Mike Howard,105144,405,USA
+David Leland,2,Ryan Cartwright,Hayden Christensen,6691,28,Italy
+Gary Fleder,39,Nicole Beharie,Dennis Quaid,16673,45,USA
+J Blakeson,5,Maggie Siff,Chloë Grace Moretz,55617,266,USA
+Ryan Coogler,0,Phylicia Rashad,Sylvester Stallone,146708,362,USA
+Ben Affleck,0,Jon Hamm,Jeremy Renner,280228,420,USA
+Kirk Jones,52,Dennis Quaid,Anna Kendrick,57266,89,USA
+Ethan Coen,1000,Brad Pitt,J.K. Simmons,248468,545,USA
+Jennifer Flackett,3,Anthony Simcoe,Gerard Butler,28109,110,USA
+Ron Howard,2000,Olivia Wilde,Chris Hemsworth,312629,475,UK
+Paul Thomas Anderson,0,Neil Flynn,Patton Oswalt,241030,1437,USA
+Kevin Smith,0,Tracy Morgan,Bruce Willis,75347,176,USA
+Christian Ditter,11,Damon Wayans Jr.,Alison Brie,39440,83,USA
+Charles Martin Smith,188,Michael Roark,Morgan Freeman,17948,86,USA
+Catherine Hardwicke,308,Taylor Lautner,Kristen Stewart,348007,1535,USA
+Nick Cassavetes,415,Laura Harring,Denzel Washington,98899,394,USA
+Les Mayfield,10,Dave Chappelle,Peter Greene,60572,144,USA
+Rawson Marshall Thurber,43,Molly C. Quinn,Laura-Leigh,316671,301,USA
+Fedor Bondarchuk,35,Fedor Bondarchuk,Yuliya Snigir,4387,21,Russia
+Jonathan Mostow,84,M.C. Gainey,Kathleen Quinlan,38399,218,USA
+Irvin Kershner,883,Klaus Maria Brandauer,Bernie Casey,48636,214,UK
+Steve Pink,38,Collette Wolfe,Charlie McDermott,139184,243,USA
+Charles Martin Smith,188,Taylor Blackwell,Morgan Freeman,6069,33,USA
+John Frankenheimer,287,James Frain,Charlize Theron,31113,212,USA
+F. Gary Gray,473,Jeff Kober,Vin Diesel,38348,135,USA
+Cameron Crowe,488,Bradley Cooper,Emma Stone,39778,172,USA
+Rob Reiner,0,Virginia Madsen,Alexa PenaVega,8531,57,USA
+Scott Hicks,96,Reeve Carney,Rick Yune,12375,194,USA
+Mikael Håfström,101,Colin O'Donoghue,Anthony Hopkins,75864,197,USA
+Andrew Niccol,487,Xander Berkeley,Blair Underwood,220591,641,USA
+Andrew Bergman,31,Nathan Lane,Stockard Channing,1977,64,USA
+Kirk De Micco,16,Kenan Thompson,Cheryl Hines,8860,45,USA
+Chris Rock,0,Dylan Baker,Bernie Mac,15046,80,USA
+Todd Phillips,480,Rob Riggle,Bradley Cooper,583341,626,USA
+Wilson Yip,25,Lynn Hung,Mike Tyson,21912,45,Hong Kong
+Jay Roach,116,Verne Troyer,Muse Watson,181225,784,USA
+Tim Burton,13000,Jack Palance,Michael Gough,269033,817,USA
+Roland Joffé,596,Dougray Scott,Jordi Mollà,3865,53,Spain
+Richard Donner,503,Nick Chinlund,Rene Russo,128010,136,USA
+John Lee Hancock,102,Quinton Aaron,Catherine Dyer,223127,420,USA
+,,Aimee Garcia,Jon Foo,2185,30,USA
+Robert Rodriguez,0,Cheech Marin,Alexa PenaVega,84325,205,USA
+Seth Gordon,91,Lindsay Sloane,Kevin Spacey,353442,387,USA
+Ethan Coen,1000,Jeff Bridges,Matt Damon,240962,724,USA
+David Frankel,64,Anne Hathaway,Meryl Streep,286178,631,USA
+Robert Wise,338,Nichelle Nichols,Leonard Nimoy,63330,405,USA
+Seth Gordon,91,Eric Stonestreet,Jon Favreau,97664,232,USA
+Martin Scorsese,17000,Robert Mitchum,Robert De Niro,127503,261,USA
+Robert Luketic,126,Jim Sturgess,Kevin Spacey,191470,278,USA
+Judd Apatow,0,Randall Park,Amy Schumer,94241,309,Japan
+Kevin Rodney Sullivan,8,Nicole Sullivan,Bernie Mac,33887,160,USA
+Anthony Minghella,333,Kristin Scott Thomas,Colin Firth,142067,457,USA
+Curtis Hanson,161,Matt McCoy,Kevin Spacey,414219,625,USA
+Mike Mitchell,31,Kelly Preston,Michael Angarano,61321,217,USA
+Frank Oz,0,Wilford Brimley,Tom Selleck,32416,138,USA
+Roger Donaldson,79,Marg Helgenberger,Natasha Henstridge,61018,140,USA
+Wes Craven,0,Lin Shaye,Johnny Depp,149285,668,USA
+Tarsem Singh,763,Jake Weber,Dylan Baker,79877,677,USA
+Randall Wallace,130,Anne Parillaud,Leonardo DiCaprio,125219,244,USA
+Randall Wallace,130,Kevin Connolly,Scott Glenn,20827,136,USA
+Kevin Munroe,14,Sarah Michelle Gellar,Chris Evans,53786,211,Hong Kong
+Michael Tollin,19,Riley Smith,Alfre Woodard,32370,196,USA
+Will Gluck,87,Justin Timberlake,Mila Kunis,270228,194,USA
+Nicholas Stoller,89,Ike Barinholtz,Chloë Grace Moretz,28041,111,USA
+John Lee Hancock,102,Ruth Wilson,Tom Hanks,117719,306,USA
+Spike Lee,0,Delroy Lindo,Denzel Washington,63923,156,USA
+Judd Apatow,0,Maude Apatow,Charlyne Yi,104005,248,USA
+Walt Becker,12,Bernie Mac,Robin Williams,31191,120,USA
+Patrick Tatopoulos,148,Kevin Grevioux,Craig Parker,119974,169,USA
+Ken Kwapis,42,Christine Taylor,Robin Williams,32157,119,USA
+Dennis Dugan,221,Jon Heder,Jon Lovitz,40651,209,USA
+Gary David Goldberg,30,Victor Webster,Stockard Channing,25883,262,USA
+Mike Newell,179,Al Pacino,Johnny Depp,225122,234,USA
+Paul W.S. Anderson,545,Jaymes Butler,Milla Jovovich,198701,1138,UK
+Tobe Hooper,365,Zelda Rubinstein,Heather O'Rourke,105446,321,USA
+Ethan Coen,1000,Tom Hanks,J.K. Simmons,84131,400,USA
+John Moore,212,Beau Bridges,Mila Kunis,107772,398,Canada
+Andrew Niccol,487,Olivia Wilde,Matt Bomer,304318,463,USA
+Alan Poul,16,Noureen DeWulf,Danneel Ackles,40654,97,USA
+Luke Greenfield,42,Steve Howey,Ashley Williams,48019,153,USA
+,,Kimberly Elise,Jodi Lyn O'Keefe,1641,11,USA
+Gil Junger,19,Marsha Thomason,Tom Wilkinson,30771,164,USA
+Michael Ritchie,23,Vic Morrow,Tatum O'Neal,16323,91,USA
+Steven E. de Souza,133,Raul Julia,Ming-Na Wen,53115,282,Japan
+Roman Polanski,2000,Frank Finlay,Emilia Fox,497946,761,France
+Albert Hughes,117,Jason Flemyng,Johnny Depp,124765,541,USA
+Catherine Hardwicke,308,Hiam Abbass,Keisha Castle-Hughes,8143,203,USA
+Jaume Collet-Serra,174,Paris Hilton,Robert Ri'chard,94456,576,Australia
+Mike Nichols,0,Julia Roberts,Natalie Portman,168314,903,USA
+Clint Eastwood,16000,Naomi Watts,Leonardo DiCaprio,102728,279,USA
+Alexandre Aja,192,Cameron Boyce,Jason Flemyng,86205,232,USA
+Michael Rymer,48,Lena Olin,Aaliyah,43991,695,USA
+Stephen Hopkins,81,Robert Davi,Adam Baldwin,105478,291,USA
+Gregory Hoblit,40,Jesse Tyler Ferguson,Billy Burke,40964,245,USA
+Hugh Wilson,37,Sissy Spacek,Brendan Fraser,48621,239,USA
+Mike Hodges,24,William Hootkins,Brian Blessed,38017,247,UK
+Kevin Smith,0,Mike Starr,Stephen Root,54346,358,USA
+Rob Cohen,357,Chad Lindberg,Cicely Tyson,28257,151,USA
+Clint Eastwood,16000,Bob Gunton,Kevin Spacey,31751,216,USA
+Scott Mann,8,Joshua Mikel,Robert De Niro,16193,57,USA
+Susanna White,24,Bill Bailey,Daniel Mays,19230,59,UK
+Danny DeVito,0,J.T. Walsh,Frank Whaley,17124,68,USA
+Chris Carter,251,Callum Rennie,Mitch Pileggi,78256,492,USA
+Tommy O'Haver,13,Steve Coogan,Anne Hathaway,47800,244,USA
+Peter Landesman,15,Eddie Marsan,Will Smith,44788,138,UK
+John Singleton,309,Benjamin J. Cain Jr.,Ken Arnold,65044,173,USA
+Gary Chapman,2,Olivia Williams,Jim Broadbent,15788,80,UK
+Curtis Hanson,161,Rip Torn,Robert Downey Jr.,54643,335,USA
+Craig Mazin,82,Tracy Morgan,Drake Bell,52052,173,USA
+Allen Hughes,90,James Ransone,Alona Tal,63548,134,USA
+Wes Craven,0,Portia de Rossi,Shannon Elizabeth,26126,325,USA
+David Koepp,192,Dania Ramirez,Joseph Gordon-Levitt,95274,178,USA
+Anne Fletcher,98,Richard T. Jones,Jim Gaffigan,34948,118,USA
+Shekhar Kapur,159,Lucy Gordon,Djimon Hounsou,28130,215,UK
+Taylor Hackford,138,Clifton Collins Jr.,Jason Statham,90046,141,USA
+Richard Loncraine,12,Jon Favreau,Kirsten Dunst,51842,173,UK
+Roger Kumble,16,Brooke Shields,Brendan Fraser,12399,84,USA
+Kimble Rendall,0,Cariba Heine,Alex Russell,11482,82,Australia
+Peter Yates,170,Alun Armstrong,Liam Neeson,23351,178,UK
+Robert Redford,0,Tom Cruise,Meryl Streep,41170,298,USA
+John Milius,468,Dann Florek,Rosanna Arquette,4795,39,USA
+Jake Kasdan,52,Nat Faxon,Tim Meadows,55630,200,USA
+Lasse Hallström,529,Scott Glenn,Kevin Spacey,28542,208,USA
+Les Mayfield,10,Ronny Cox,Gregory Smith,12077,162,USA
+Jean-Marc Vallée,212,Jim Broadbent,Michiel Huisman,44931,100,UK
+Dominic Sena,57,Bashar Rahal,Tom Skerritt,31918,142,USA
+Terrence Malick,0,Tye Sheridan,Brad Pitt,136367,975,USA
+Hark Tsui,85,Lela Rochon,Paul Sorvino,11512,141,Aruba
+David Ayer,453,Martin Donovan,Mireille Enos,47498,212,USA
+Brian Helgeland,241,Mark Addy,Heath Ledger,14962,204,USA
+Lexi Alexander,189,Wayne Knight,Julie Benz,48999,280,USA
+Peter Hewitt,12,Rip Torn,Kevin Zegers,15015,113,USA
+Robert Zemeckis,0,Soleyman Pierini,Joseph Gordon-Levitt,77394,195,USA
+Ronny Yu,31,Lee Arenberg,Marley Shelton,2189,31,USA
+Ridley Scott,0,Albert Finney,Archie Panjabi,70698,196,USA
+,,Indira Varma,Ruth Wilson,70568,105,UK
+Richard Donner,503,Thomas Ian Nicholas,Adam Baldwin,10410,71,USA
+Taylor Hackford,138,Jesse Borrego,Delroy Lindo,23181,129,USA
+Bille August,55,Tom Wilkinson,Jim Broadbent,11747,99,Denmark
+Brian De Palma,0,Gregg Henry,Peter Coyote,28584,232,France
+Moustapha Akkad,278,Rod Steiger,Oliver Reed,9852,55,Libya
+Jean-Paul Rappeneau,22,François Cluzet,Olivier Martinez,4885,25,France
+Ang Lee,0,Jeffrey Dover,Jeremy W. Auman,11101,159,USA
+Alejandro G. Iñárritu,0,Hanaa Bouchaib,Maricel Álvarez,68885,127,Mexico
+Roland Joffé,596,Alice Englert,Tamsin Egerton,2138,15,Belgium
+Joachim Rønning,18,Sam Shepard,Salma Hayek,28848,76,France
+Tony Kaye,194,Aisha Tyler,Bill Cobbs,219,,USA
+Wes Ball,47,Aml Ameen,Ki Hong Lee,310903,524,USA

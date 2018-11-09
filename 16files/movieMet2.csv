@@ -1,34 +1,93 @@
-actor_1_facebook_likes,actor_1_name,title_year,movie_facebook_likes
-353,Karisma Kapoor,2000,10
-326,Paul Kaye,2004,0
-22000,Peter Dinklage,2009,407
-5000,Bob Hoskins,1997,224
-25000,Jeremy Irvine,2015,0
-780,Joe Morton,,3000
-532,Saif Ali Khan,2008,39
-584,Vincent Pastore,2003,61
-589,Alex Kendrick,2013,715
-10000,Anna Kendrick,2014,0
-529,Merritt Wever,2009,195
-787,Melinda Clarke,1993,810
-26000,Jason Statham,2005,0
-363,Brad William Henke,2006,474
-985,Martin Starr,2002,215
-160,Jordi Vilasuso,2015,0
-13000,Michael Fassbender,2008,0
-638,Frances Fisher,2013,604
-513,MyAnna Buring,2009,0
-29,Rapulana Seiphemo,2008,1000
-766,Colin Salmon,2004,205
-253,Mackenzie Gray,2011,0
-121,Peter McQuinn,2012,0
-413,Daniel Baldwin,2010,0
-674,Alice Cooper,2015,0
-11000,Woody Allen,1971,0
-473,Paul Sheehan,2012,115
-601,Nicholas Gonzalez,2007,44
-685,Steven Weber,,1000
-1000,Rita Hayworth,1947,0
-633,Mircea Monroe,2008,153
-15000,Jake Gyllenhaal,2002,912
-2000,Noel Gugliemi,2012,0
+director_name,duration,actor_3_facebook_likes,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,actor_3_name,plot_keywords,movie_imdb_link,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio,movie_facebook_likes
+Scott Mann,93,558,Action|Crime|Thriller,Robert De Niro,Heist ,16193,24154,D.B. Sweeney,bus|die hard scenario,http://www.imdb.com/title/tt3276924/?ref_=fn_tt_tt_1,19000000,2015,1000,6.1,2.35,0
+Susanna White,109,167,Comedy|Family|Fantasy,Daniel Mays,Nanny McPhee Returns ,19230,855,Eros Vlahos,farm|magic|mother daughter relationship|overalls|title directed by female,http://www.imdb.com/title/tt1415283/?ref_=fn_tt_tt_1,35000000,2010,175,6.1,2.35,0
+Danny DeVito,140,210,Biography|Crime|Drama,Frank Whaley,Hoffa ,17124,1394,Paul Guilfoyle,labor|labor union|leader|mafia|union,http://www.imdb.com/title/tt0104427/?ref_=fn_tt_tt_1,35000000,1992,263,6.6,2.35,949
+Chris Carter,108,296,Drama|Mystery|Sci-Fi|Thriller,Mitch Pileggi,The X Files: I Want to Believe ,78256,2351,Nicki Aycox,fbi|priest|psychic|psychic vision|staff physician,http://www.imdb.com/title/tt0443701/?ref_=fn_tt_tt_1,30000000,2008,716,5.9,2.35,0
+Tommy O'Haver,96,973,Comedy|Family|Fantasy|Romance,Anne Hathaway,Ella Enchanted ,47800,17292,Joanna Lumley,curse|fairy|obedience|prince|strong female character,http://www.imdb.com/title/tt0327679/?ref_=fn_tt_tt_1,35000000,2004,1000,6.3,1.85,0
+Peter Landesman,123,745,Biography|Drama|Sport,Will Smith,Concussion ,44788,13371,Albert Brooks,chronic traumatic encephalopathy|concussion|football|football player|pathologist,http://www.imdb.com/title/tt3322364/?ref_=fn_tt_tt_1,35000000,2015,979,7.1,2.35,23000
+John Singleton,106,63,Action|Mystery|Thriller,Ken Arnold,Abduction ,65044,561,Richard Cetrone,assassin|high school|on the run|teenager|website,http://www.imdb.com/title/tt1600195/?ref_=fn_tt_tt_1,35000000,2011,73,5.0,2.35,13000
+Gary Chapman,76,72,Adventure|Animation|Comedy|Family|War,Jim Broadbent,Valiant ,15788,1908,Pip Torrens,dove|falcon|nursing|pigeon|psychological torture,http://www.imdb.com/title/tt0361089/?ref_=fn_tt_tt_1,35000000,2005,766,5.6,1.85,538
+Curtis Hanson,107,549,Comedy|Drama,Robert Downey Jr.,Wonder Boys ,54643,22974,Richard Thomas,based on novel|college girl|midlife crisis|pittsburgh pennsylvania|professor,http://www.imdb.com/title/tt0185014/?ref_=fn_tt_tt_1,55000000,2000,826,7.4,2.35,0
+Craig Mazin,82,418,Action|Comedy|Sci-Fi|Thriller,Drake Bell,Superhero Movie ,52052,3266,Marion Ross,dragonfly|hero|high school|soaking wet|supervillian origin,http://www.imdb.com/title/tt0426592/?ref_=fn_tt_tt_1,35000000,2008,642,4.5,1.85,0
+Allen Hughes,109,344,Crime|Drama|Thriller,Alona Tal,Broken City ,63548,2073,Michael Beach,election|father son relationship|fellatio|gay slur|title spoken by character,http://www.imdb.com/title/tt1235522/?ref_=fn_tt_tt_1,35000000,2013,412,6.2,2.35,0
+Wes Craven,99,520,Comedy|Horror,Shannon Elizabeth,Cursed ,26126,2535,Derek Mears,creature|death|party|rescue|werewolf,http://www.imdb.com/title/tt0257516/?ref_=fn_tt_tt_1,35000000,2005,573,5.0,2.35,0
+David Koepp,91,346,Action|Crime|Thriller,Joseph Gordon-Levitt,Premium Rush ,95274,24669,Aasif Mandvi,chase|courier|delivery|envelope|police,http://www.imdb.com/title/tt1547234/?ref_=fn_tt_tt_1,35000000,2012,1000,6.5,2.35,20000
+Anne Fletcher,87,253,Action|Comedy|Crime,Jim Gaffigan,Hot Pursuit ,34948,1679,Michael Mosley,danger|drug cartel|female cop|female police officer|fugitive,http://www.imdb.com/title/tt2967224/?ref_=fn_tt_tt_1,35000000,2015,328,5.1,2.35,0
+Shekhar Kapur,125,39,Adventure|Drama|Romance|War,Djimon Hounsou,The Four Feathers ,28130,3142,Alex Jennings,male nudity|naked dead man|nudity|sex|whipping,http://www.imdb.com/title/tt0240510/?ref_=fn_tt_tt_1,35000000,2002,61,6.5,2.35,0
+Taylor Hackford,118,458,Action|Crime|Romance|Thriller,Jason Statham,Parker ,90046,28479,Wendell Pierce,action hero|disguise|hospital|real estate agent|thief,http://www.imdb.com/title/tt1904996/?ref_=fn_tt_tt_1,35000000,2013,968,6.2,2.35,17000
+Richard Loncraine,98,663,Comedy|Romance|Sport,Kirsten Dunst,Wimbledon ,51842,9330,Austin Nichols,career|player|tennis|tennis player|wimbledon,http://www.imdb.com/title/tt0360201/?ref_=fn_tt_tt_1,31000000,2004,4000,6.3,2.35,0
+Roger Kumble,92,734,Comedy|Family,Brendan Fraser,Furry Vengeance ,12399,6327,Matt Prokop,animal|bear|land developer|real estate|real estate developer,http://www.imdb.com/title/tt0492389/?ref_=fn_tt_tt_1,35000000,2010,1000,3.8,1.85,0
+Kimble Rendall,93,174,Action|Horror|Sci-Fi,Alex Russell,Bait ,11482,1361,Richard Brancatisano,great white shark|shark|supermarket|swimming|tsunami,http://www.imdb.com/title/tt1438173/?ref_=fn_tt_tt_1,30000000,2012,351,5.2,1.85,0
+Peter Yates,116,136,Action|Adventure|Fantasy,Liam Neeson,Krull ,23351,14744,Lysette Anthony,cyclops|fortress|monster|planet|rescue,http://www.imdb.com/title/tt0085811/?ref_=fn_tt_tt_1,27000000,1983,192,6.0,2.35,0
+Robert Redford,92,10000,Drama|Thriller|War,Meryl Streep,Lions for Lambs ,41170,32875,Andrew Garfield,afghanistan|professor|reporter|student|university,http://www.imdb.com/title/tt0891527/?ref_=fn_tt_tt_1,35000000,2007,10000,6.2,2.35,0
+John Milius,115,150,Action|Drama|Thriller|War,Rosanna Arquette,Flight of the Intruder ,4795,1290,Christopher Rich,bombardier|pilot|u.s. navy|vietnam|vietnam war,http://www.imdb.com/title/tt0099587/?ref_=fn_tt_tt_1,35000000,1991,367,5.7,2.35,452
+Jake Kasdan,120,134,Comedy|Music,Tim Meadows,Walk Hard: The Dewey Cox Story ,55630,1082,Matt Price,drugs|elvis|musician|singer|the beatles,http://www.imdb.com/title/tt0841046/?ref_=fn_tt_tt_1,35000000,2007,214,6.7,2.35,0
+Lasse Hallström,111,505,Drama,Kevin Spacey,The Shipping News ,28542,19805,Jason Behr,employee employer relationship|husband wife relationship|newspaper|ship|wake,http://www.imdb.com/title/tt0120824/?ref_=fn_tt_tt_1,35000000,2001,826,6.8,2.35,0
+Les Mayfield,94,141,Action|Western,Gregory Smith,American Outlaws ,12077,1668,Harris Yulin,legend|old west|outlaw|railroad|stealing from the rich,http://www.imdb.com/title/tt0244000/?ref_=fn_tt_tt_1,35000000,2001,605,6.0,1.85,433
+Jean-Marc Vallée,100,919,Biography|Drama|History|Romance,Michiel Huisman,The Young Victoria ,44931,5890,Thomas Kretschmann,19th century|courtship|female protagonist|princess|queen of england,http://www.imdb.com/title/tt0962736/?ref_=fn_tt_tt_1,35000000,2009,1000,7.3,2.35,0
+Dominic Sena,101,230,Action|Crime|Mystery|Thriller,Tom Skerritt,Whiteout ,31918,1947,Shawn Doyle,antarctica|geologist|investigation|u.s. marshal|winter,http://www.imdb.com/title/tt0365929/?ref_=fn_tt_tt_1,35000000,2009,603,5.5,2.35,0
+Terrence Malick,139,687,Drama|Fantasy,Brad Pitt,The Tree of Life ,136367,13021,Fiona Shaw,1950s|children|ice cube|texas|waco texas,http://www.imdb.com/title/tt0478304/?ref_=fn_tt_tt_1,32000000,2011,1000,6.7,1.85,39000
+Hark Tsui,91,105,Action|Comedy|Thriller,Paul Sorvino,Knock Off ,11512,1352,Ray Nicholas,cia|hong kong|market|undercover|van,http://www.imdb.com/title/tt0120724/?ref_=fn_tt_tt_1,35000000,1998,316,4.8,2.35,471
+David Ayer,109,120,Action|Crime|Drama|Thriller,Mireille Enos,Sabotage ,47498,1458,Maurice Compte,dea|drug cartel|kicked in the crotch|strip club|tough girl,http://www.imdb.com/title/tt1742334/?ref_=fn_tt_tt_1,35000000,2014,206,5.7,1.85,10000
+Brian Helgeland,102,127,Action|Mystery|Thriller,Heath Ledger,The Order ,14962,14165,Benno Fürmann,death|exorcism|heaven|priest|sin eater,http://www.imdb.com/title/tt0304711/?ref_=fn_tt_tt_1,38000000,2003,891,5.1,1.85,704
+Lexi Alexander,103,766,Action|Crime|Drama|Thriller,Julie Benz,Punisher: War Zone ,48999,6563,Colin Salmon,gun fu|plastic surgery|psychopath|undercover|vigilante,http://www.imdb.com/title/tt0450314/?ref_=fn_tt_tt_1,35000000,2008,967,6.0,2.35,0
+Peter Hewitt,83,690,Action|Adventure|Family|Sci-Fi,Kevin Zegers,Zoom ,15015,5022,Thomas F. Wilson,bruise|female hero|super strength|superhero|teenage superhero,http://www.imdb.com/title/tt0383060/?ref_=fn_tt_tt_1,35000000,2006,826,4.2,1.85,494
+Robert Zemeckis,123,6,Adventure|Biography|Drama|Thriller,Joseph Gordon-Levitt,The Walk ,77394,23031,Jade Kindar-Martin,1970s|based on true story|new york city|skyscraper|tightrope walker,http://www.imdb.com/title/tt3488710/?ref_=fn_tt_tt_1,35000000,2015,22,7.4,2.35,24000
+Ronny Yu,101,448,Action|Adventure|Fantasy,Marley Shelton,Warriors of Virtue ,2189,1993,Angus Macfadyen,anthropomorphic animal|football|kangaroo|sword and sorcery|water boy,http://www.imdb.com/title/tt0120479/?ref_=fn_tt_tt_1,35000000,1997,457,4.6,2.35,0
+Ridley Scott,117,567,Comedy|Drama|Romance,Archie Panjabi,A Good Year ,70698,3611,Richard Coyle,based on novel|inheritance|provence|uncle|wine,http://www.imdb.com/title/tt0401445/?ref_=fn_tt_tt_1,35000000,2006,883,6.9,2.35,9000
+,60,256,Crime|Drama|Mystery|Thriller,Ruth Wilson,Luther             ,70568,3823,Warren Brown,murder|police|psychopath,http://www.imdb.com/title/tt1474684/?ref_=fn_tt_tt_1,,,729,8.6,16.0,20000
+Richard Donner,114,697,Drama,Adam Baldwin,Radio Flyer ,10410,4334,John Heard,father son relationship|physical abuse|radio flyer|stepfather|stepfather stepson relationship,http://www.imdb.com/title/tt0105211/?ref_=fn_tt_tt_1,35000000,1992,864,6.9,2.35,892
+Taylor Hackford,330,672,Crime|Drama,Delroy Lindo,"Blood In, Blood Out ",23181,3227,Raymond Cruz,1970s|1980s|barrio|gang war|mexican,http://www.imdb.com/title/tt0106469/?ref_=fn_tt_tt_1,35000000,1993,674,8.0,1.66,6000
+Bille August,121,918,Action|Drama|Sci-Fi|Thriller,Jim Broadbent,Smilla's Sense of Snow ,11747,3125,Julia Ormond,boy|greenland|neighbor|roof|snow,http://www.imdb.com/title/tt0120152/?ref_=fn_tt_tt_1,35000000,1997,1000,6.4,2.35,561
+Brian De Palma,114,115,Crime|Drama|Mystery|Thriller,Peter Coyote,Femme Fatale ,28584,1005,Rie Rasmussen,ambassador|cannes|identity|suicide|thief,http://www.imdb.com/title/tt0280665/?ref_=fn_tt_tt_1,35000000,2002,298,6.3,1.85,675
+Moustapha Akkad,156,249,Biography|Drama|History|War,Oliver Reed,Lion of the Desert ,9852,1573,John Gielgud,arab|general|libya|muslim|mussolini,http://www.imdb.com/title/tt0081059/?ref_=fn_tt_tt_1,35000000,1980,279,8.4,2.35,0
+Jean-Paul Rappeneau,135,45,Adventure|Drama|Romance|War,Olivier Martinez,The Horseman on the Roof ,4885,1508,Isabelle Carré,austrian|breasts|cholera|police|provence,http://www.imdb.com/title/tt0113362/?ref_=fn_tt_tt_1,,1995,541,7.1,2.35,262
+Ang Lee,148,0,Drama|Romance|War|Western,Jeremy W. Auman,Ride with the Devil ,11101,5,Tobey Maguire,bushwhacker|friend|honor|kansas|raid,http://www.imdb.com/title/tt0134154/?ref_=fn_tt_tt_1,35000000,1999,2,6.8,2.35,633
+Alejandro G. Iñárritu,148,7,Drama,Maricel Álvarez,Biutiful ,68885,50,Eduard Fernández,children|chinese|illegal immigrant|immigrant|male ponytail,http://www.imdb.com/title/tt1164999/?ref_=fn_tt_tt_1,,2010,9,7.5,2.35,29000
+Roland Joffé,109,282,Action|Adventure|Romance|Sci-Fi,Tamsin Egerton,The Lovers ,2138,1980,Bipasha Basu,1770s|british india|great barrier reef|india|ring,http://www.imdb.com/title/tt1321869/?ref_=fn_tt_tt_1,,2015,525,4.5,,677
+Joachim Rønning,93,324,Action|Comedy|Crime|Western,Salma Hayek,Bandidas ,28848,5377,Dwight Yoakam,bank|cleavage|farmer|female gunfighter|mexico,http://www.imdb.com/title/tt0416496/?ref_=fn_tt_tt_1,32000000,2006,820,5.7,2.35,0
+Tony Kaye,,816,Crime|Drama,Bill Cobbs,Black Water Transit ,219,3874,Beverly D'Angelo,based on novel,http://www.imdb.com/title/tt0490087/?ref_=fn_tt_tt_1,23000000,2009,856,7.2,,26
+Wes Ball,113,129,Action|Mystery|Sci-Fi|Thriller,Ki Hong Lee,The Maze Runner ,310903,1783,Jacob Latimore,based on novel|concrete wall|maze|open ended|teenage boy,http://www.imdb.com/title/tt1790864/?ref_=fn_tt_tt_1,34000000,2014,149,6.8,2.35,38000
+Ken Scott,91,141,Comedy,Tom Wilkinson,Unfinished Business ,23072,1564,Melissa McMeekin,business trip|company|glory hole|male frontal nudity|male nudity,http://www.imdb.com/title/tt2358925/?ref_=fn_tt_tt_1,35000000,2015,249,5.4,2.35,0
+Martin Scorsese,139,94,Drama|Romance,Richard E. Grant,The Age of Innocence ,36267,1068,Stuart Wilson,19th century|countess|lawyer|love|new york,http://www.imdb.com/title/tt0106226/?ref_=fn_tt_tt_1,30000000,1993,382,7.2,2.35,0
+Darren Aronofsky,96,1000,Drama|Sci-Fi,Hugh Jackman,The Fountain ,190990,24640,Mark Margolis,eternity|love|mayan|tree|tree of life,http://www.imdb.com/title/tt0414993/?ref_=fn_tt_tt_1,35000000,2006,1000,7.3,1.85,23000
+Hugh Johnson,102,239,Action|Adventure|Comedy|Drama|Thriller,David Paymer,Chill Factor ,8367,1274,Hudson Leick,colonel|ice|ice cream truck|military|u.s. army,http://www.imdb.com/title/tt0163579/?ref_=fn_tt_tt_1,34000000,1999,248,5.2,2.35,120
+Simon West,96,566,Action|Crime|Drama|Thriller,Nicolas Cage,Stolen ,36914,14978,Sami Gayle,bank|money|presumed dead|rescue|thief,http://www.imdb.com/title/tt1656186/?ref_=fn_tt_tt_1,35000000,2012,774,5.5,2.35,0
+Hayao Miyazaki,101,2,Adventure|Animation|Family|Fantasy,Rumi Hiiragi,Ponyo ,85589,13,Yuria Nara,children adventure|magical realism|sea goddess|small town|tsunami,http://www.imdb.com/title/tt0876563/?ref_=fn_tt_tt_1,34000000,2008,3,7.7,1.85,0
+George Tillman Jr.,128,954,Drama|Romance,Tiago Riani,The Longest Ride ,50041,3386,Hayley Lovitt,1940s|art collector|bull riding|north carolina|student,http://www.imdb.com/title/tt2726560/?ref_=fn_tt_tt_1,34000000,2015,970,7.1,2.35,23000
+Rand Ravich,109,1000,Drama|Sci-Fi|Thriller,Johnny Depp,The Astronaut's Wife ,45497,52621,Clea DuVall,astronaut|electrocuted in bathtub|mission|pilot|sister,http://www.imdb.com/title/tt0138304/?ref_=fn_tt_tt_1,34000000,1999,9000,5.3,1.85,1000
+Hugh Hudson,114,292,Adventure|Drama|Romance,Liam Aiken,I Dreamed of Africa ,3740,1778,Vincent Perez,dream|italian|kenya|ranch|snake,http://www.imdb.com/title/tt0167203/?ref_=fn_tt_tt_1,34000000,2000,649,5.6,2.35,314
+Gabriele Muccino,105,2000,Comedy|Romance|Sport,Gerard Butler,Playing for Keeps ,23916,23122,Judy Greer,coach|soccer|soccer coach|soccer mom|soccer team,http://www.imdb.com/title/tt1540128/?ref_=fn_tt_tt_1,35000000,2012,2000,5.7,2.35,0
+Justin Chadwick,141,38,Biography|Drama|History,Terry Pheto,Mandela: Long Walk to Freedom ,21223,301,Tony Kgoroge,africa|apartheid|nelson mandela|president|resistance,http://www.imdb.com/title/tt2304771/?ref_=fn_tt_tt_1,35000000,2013,98,7.1,2.35,13000
+Warren Beatty,195,521,Biography|Drama|History|Romance,Paul Sorvino,Reds ,16255,2291,M. Emmet Walsh,cold war|cold war era|interview|russia|written and directed by cast member,http://www.imdb.com/title/tt0082979/?ref_=fn_tt_tt_1,35000000,1981,631,7.5,1.85,0
+Rob Reiner,138,574,Drama|Thriller,Tom Cruise,A Few Good Men ,181879,14619,Kevin Pollak,cuba|guantanamo|lance corporal|lawyer|murder,http://www.imdb.com/title/tt0104257/?ref_=fn_tt_tt_1,40000000,1992,2000,7.6,2.35,0
+Andrzej Bartkowiak,101,655,Action|Comedy|Crime|Drama|Thriller,Michael Jai White,Exit Wounds ,27580,5942,Bruce McGill,corrupt cop|drug dealer|drugs|heroin|vice president,http://www.imdb.com/title/tt0242445/?ref_=fn_tt_tt_1,33000000,2001,1000,5.5,2.35,742
+Raja Gosnell,99,330,Action|Comedy|Crime,Nia Long,Big Momma's House ,66941,1790,Tichina Arnold,disguise|fbi|female impersonation|gender disguise|obesity,http://www.imdb.com/title/tt0208003/?ref_=fn_tt_tt_1,30000000,2000,436,5.1,1.85,1000
+Jeremy Degruson,85,11,Adventure|Animation|Comedy|Family|Fantasy,Kyle Hebert,Thunder and the House of Magic ,4265,369,Joe Ochman,,http://www.imdb.com/title/tt3148834/?ref_=fn_tt_tt_1,34000000,2013,15,6.3,2.35,0
+Chris Gorak,89,48,Action|Adventure|Horror|Sci-Fi|Thriller,Max Minghella,The Darkest Hour ,49312,843,Dato Bakhtadze,alien|aurora borealis|critically bashed|killing an animal|nightclub,http://www.imdb.com/title/tt1093357/?ref_=fn_tt_tt_1,30000000,2011,150,4.9,2.35,0
+Scott Speer,99,433,Drama|Music|Romance,Ryan Guzman,Step Up Revolution ,45394,4863,Misha Gabriel Hamilton,3 dimensional|dance|dancer|dancing|flash mob,http://www.imdb.com/title/tt1800741/?ref_=fn_tt_tt_1,33000000,2012,594,6.5,2.35,19000
+David R. Ellis,105,491,Action|Adventure|Crime|Drama|Thriller,Lin Shaye,Snakes on a Plane ,115649,2604,Rachel Blanchard,baby rattle|famous line|murder|passenger|snake,http://www.imdb.com/title/tt0417148/?ref_=fn_tt_tt_1,33000000,2006,521,5.6,2.35,4000
+Joe Charbanic,97,178,Crime|Horror|Mystery|Thriller,Keanu Reeves,The Watcher ,22220,18688,Chris Ellis,fbi|murder|scene of the crime|serial killer|therapy,http://www.imdb.com/title/tt0204626/?ref_=fn_tt_tt_1,33000000,2000,223,5.3,1.85,463
+Jonathan Hensleigh,140,336,Action|Crime|Drama|Thriller,Laura Harring,The Punisher ,124242,2114,Eddie Jemison,death|family reunion|fbi|fbi agent|vigilante,http://www.imdb.com/title/tt0330793/?ref_=fn_tt_tt_1,33000000,2004,403,6.5,2.35,4000
+Danny Cannon,118,577,Drama|Romance|Sport,Sean Pertwee,Goal! The Dream Begins ,50919,2859,Stephen Dillane,barrio|border|newcastle united|party|soccer,http://www.imdb.com/title/tt0380389/?ref_=fn_tt_tt_1,10000000,2005,580,6.8,2.35,0
+Boaz Yakin,94,317,Action|Crime|Thriller,Jason Statham,Safe ,83097,27759,Robert John Burke,bodyguard|gang war|russian|russian mafia|triad,http://www.imdb.com/title/tt1656190/?ref_=fn_tt_tt_1,30000000,2012,828,6.5,2.35,12000
+Mike Newell,124,551,Comedy|Drama|Romance,Angelina Jolie Pitt,Pushing Tin ,24826,13093,Jake Weber,air traffic control|air traffic controller|female bodybuilder|job|marriage,http://www.imdb.com/title/tt0120797/?ref_=fn_tt_tt_1,38000000,1999,617,6.0,2.35,783
+Richard Marquand,134,504,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode VI - Return of the Jedi ,681857,13649,Kenny Baker,death star|emperor|empire|princess|rebel,http://www.imdb.com/title/tt0086190/?ref_=fn_tt_tt_1,32500000,1983,1000,8.4,2.35,14000
+Neil Marshall,113,43,Action|Sci-Fi|Thriller,Ryan Kruger,Doomsday ,62770,391,Jeremy Crutchley,cure|quarantine|scotland|virus|wall,http://www.imdb.com/title/tt0483607/?ref_=fn_tt_tt_1,30000000,2008,107,6.0,2.35,0
+Stephen Daldry,124,50,Drama|Romance,Kate Winslet,The Reader ,189812,14504,Susanne Lothar,love|reading|teaching oneself to read|trial|war crime,http://www.imdb.com/title/tt0976051/?ref_=fn_tt_tt_1,32000000,2008,388,7.6,1.85,15000
+David Wain,98,833,Comedy,Justin Theroux,Wanderlust ,62198,4151,Joe Lo Truglio,childbirth|female frontal nudity|nude protest|nudist|skinny dipping,http://www.imdb.com/title/tt1655460/?ref_=fn_tt_tt_1,,2012,945,5.6,1.85,0
+Jon Favreau,97,8000,Comedy|Family|Fantasy|Romance,Peter Dinklage,Elf ,147597,43354,Will Ferrell,baby|christmas spirit|elf|new york city|north pole,http://www.imdb.com/title/tt0319343/?ref_=fn_tt_tt_1,33000000,2003,11000,6.9,1.85,21000
+Jon Turteltaub,123,796,Drama|Fantasy|Romance|Sci-Fi,Robert Duvall,Phenomenon ,63839,5975,David Gallagher,brain tumor|genius|psionic power|telekinesis|terminal illness,http://www.imdb.com/title/tt0117333/?ref_=fn_tt_tt_1,32000000,1996,941,6.4,2.35,0
+Brian Levant,99,521,Adventure|Comedy|Family|Sport,James Coburn,Snow Dogs ,20219,2916,M. Emmet Walsh,dentist|dog|inheritance|race|sled dog,http://www.imdb.com/title/tt0281373/?ref_=fn_tt_tt_1,35000000,2002,664,5.1,1.85,0
+Richard Donner,101,1000,Comedy|Drama|Fantasy,Bill Murray,Scrooged ,61396,18734,Robert Mitchum,christmas|compassion|executive|ghost|redemption,http://www.imdb.com/title/tt0096061/?ref_=fn_tt_tt_1,32000000,1988,1000,7.0,1.85,11000
+Jared Hess,92,327,Comedy|Family|Sport,Ana de la Reguera,Nacho Libre ,65551,1729,Héctor Jiménez,lucha libre|monastery|nun|orphan|wrestling,http://www.imdb.com/title/tt0457510/?ref_=fn_tt_tt_1,32000000,2006,635,5.7,1.85,0
+Paul Feig,131,460,Comedy|Romance,Matt Lucas,Bridesmaids ,218711,3229,Steve Bannos,best friend|failure|food|job|partial female nudity,http://www.imdb.com/title/tt1478338/?ref_=fn_tt_tt_1,32500000,2011,655,6.8,2.35,27000
+Evan Goldberg,107,9000,Comedy|Fantasy,Channing Tatum,This Is the End ,310540,38751,Emma Watson,apocalypse|celebrity|ensemble cast|party|rapture,http://www.imdb.com/title/tt1245492/?ref_=fn_tt_tt_1,32000000,2013,11000,6.7,2.35,97000
+Rupert Wainwright,103,573,Horror,Nia Long,Stigmata ,54390,3004,Portia de Rossi,catholic|priest|stigmata|vatican|wound,http://www.imdb.com/title/tt0145531/?ref_=fn_tt_tt_1,29000000,1999,724,6.2,2.35,0
+George Tillman Jr.,129,975,Biography|Drama,Robert De Niro,Men of Honor ,89424,36069,Michael Rapaport,african american|amputee|navy|racial discrimination|racism,http://www.imdb.com/title/tt0203019/?ref_=fn_tt_tt_1,32000000,2000,9000,7.2,2.35,0
+John Luessenhop,107,1000,Action|Crime|Thriller,Paul Walker,Takers ,46961,31529,Jay Hernandez,armored car|bank|falling out among thieves|heist|planning,http://www.imdb.com/title/tt1135084/?ref_=fn_tt_tt_1,20000000,2010,4000,6.2,2.35,0
+Justin Zackham,89,2000,Comedy,Robin Williams,The Big Wedding ,37493,74181,Topher Grace,adoption|divorce|family relationships|farce|wedding,http://www.imdb.com/title/tt1931435/?ref_=fn_tt_tt_1,35000000,2013,22000,5.6,2.35,0
+John Whitesell,113,534,Action|Comedy|Crime,Brandon T. Jackson,"Big Mommas: Like Father, Like Son ",19671,3500,Portia Doubleday,fbi agent|murder|performing arts school|scene during end credits|undercover,http://www.imdb.com/title/tt1464174/?ref_=fn_tt_tt_1,32000000,2011,845,4.4,2.35,0
+Duncan Jones,93,355,Mystery|Sci-Fi|Thriller,Jake Gyllenhaal,Source Code ,379462,16034,Russell Peters,bomber|time|time loop|train|trapped in a time loop,http://www.imdb.com/title/tt0945513/?ref_=fn_tt_tt_1,32000000,2011,491,7.5,1.85,56000
+Frank Marshall,120,240,Adventure|Biography|Drama|Thriller,Illeana Douglas,Alive ,38949,2054,Michael DeLorenzo,andes mountains|crash|death|starvation|stranded,http://www.imdb.com/title/tt0106246/?ref_=fn_tt_tt_1,32000000,1993,242,7.1,1.85,0
+Joel Schumacher,98,897,Mystery|Thriller,Logan Lerman,The Number 23 ,164608,10938,Ed Lauter,destiny|detective|imagination|murder|sex scene,http://www.imdb.com/title/tt0481369/?ref_=fn_tt_tt_1,32000000,2007,912,6.4,2.35,10000

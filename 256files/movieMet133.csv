@@ -1,61 +1,239 @@
-duration,actor_3_name,plot_keywords,language
-92,Sean Hayes,mule|nun|orphanage|tennis court|the three stooges,English
-77,Joanna Lumley,arranged marriage|bride|corpse|groom|woods,English
-118,Derek Luke,coach|college basketball|national championship|ncaa|texas,English
-121,Daniel Kaluuya,critically acclaimed|drug cartel|juarez mexico|u.s. mexico border|war on drugs,English
-124,Oona Laurence,boxer|boxing training|death of wife|male in shower|rage,English
-99,Reggie Lee,evil|fight|hell|psychic|psychologist,English
-112,Ellen Burstyn,hit by a pickup truck|immortality|paramedic|resuscitation|san francisco california,English
-111,Emmanuelle Vaugier,africa|eyeglasses|money|texas|veteran,English
-107,Facundo Lombard,dance|dance crew|dancer|mortgage|new york city,English
-104,Sanoe Lake,bikini|female surfer|sister sister relationship|surfing contest|swimsuit,English
-113,Danny Rhodes,author|fate|novelist|professor|writer,English
-113,Megan Franich,alaska|small town|snow|vampire|winter,English
-95,Kristen Connolly,cabin in the woods|dark humor|hatchet|killed in an elevator|robot,English
-86,Method Man,king|persian|spartan|training|xerxes,English
-126,Philip Baker Hall,accountant|bounty hunter|fbi|mafia|mob,English
-101,Richard Dawson,game of death|government conspiracy|latina|oppression|police,English
-102,Tisha Campbell-Martin,eclipse|florist|nerd|plant|shop,English
-111,John Macmillan,assassin|female warrior|martial arts|playground|training,English
-60,Liam James,family drama|lie|missing child|political campaign|secret,English
-95,Robin Shou,alternate reality|battle|martial arts|mortal kombat|warrior,English
-98,Randall Park,bus stop|college|community college|scooter|speech class,English
-100,Portia Doubleday,outcast|prom|self injury|telekinesis|tragic event,English
-118,Jasika Nicole,ballroom|dance|dance teacher|student|teacher,English
-28,Kevin Dillon,actor|fame|friendship between men|hollywood california|sitcom,English
-125,Kevin Dunn,alliterative title|football|football coach|football practice|football team,English
-94,Richard Schiff,businessman|ring|thief|vulgarity|washington d.c.,English
-79,Tom Kane,hope|key|machine|number|rag doll,English
-106,Katie Lowes,clinical trial|female protagonist|neuropharmacology|psychiatrist|side effect,English
-111,Luke Mably,denmark|king|love|prince|wisconsin,English
-63,Huell Howser,disney|owl|rabbit|sequel|tiger,English
-85,Cheri Oteri,1980s|buddy|high school|prequel to cult favorite|teenager,English
-108,Graham Beckel,hip hop|liberal|politics|senator|truth,English
-139,Aunjanue Ellis,1970s|1980s|african american|breaking the fourth wall|mother son relationship,English
-127,Tom Everett Scott,cancer|job|love|new york|professor,English
-106,Traci Lords,android|ex cop|serial killer|virtual character come to life|virtual reality,English
-95,Wanda Sykes,architect|boyfriend girlfriend relationship|superhero|superhero spoof|supernatural power,English
-118,Edgar Ramírez,confession|demonic possession|exorcism|flickering light|priest,English
-108,Richard Roxburgh,cave|expedition|panic|rebreather|underwater,English
-105,Dave Annable,electronic devices|gynecologist|little black book|plan|set up,English
-131,David Paymer,kissing while having sex|kitchen|reference to princess diana|wedding band|wedding ring,English
-104,Paul Sorvino,baseball|baseball movie|cartoon on tv|dodge viper|retirement,English
-133,Aisha Hinds,argument|evidence|fingerprints|murder|murder weapon,English
-94,Nick Chinlund,boy|disease|hemophagia|speed|vampire,English
-109,Hugh Dillon,criminal|mobster|new year's eve|police|sergeant,English
-96,Patrick Kilpatrick,forger|hitman|passport|police|replacement,English
-105,Will Patton,disk|floppy disk|mafia|prison|prisoner,English
-99,Riley Smith,creature feature|human versus spider|spider|spider feature|woman sheriff,English
-112,Judy Greer,female nudity|male objectification|pfizer|viagra|zoloft,English
-108,Deborah Kara Unger,death|fbi|forensics|murder|serial killer,English
-126,Sissy Spacek,based on true story|innocence|lawsuit|mine|sexual harassment,English
-98,Natasha Henstridge,dentist|face slap|flashback|hitman|killing an animal,English
-104,Delphine Chanéac,dna|experiment|genetics|interspecies sex|scientist,English
-110,Jordan Prentice,alien|duck|laser|planet|singer,English
-130,Frank Grillo,brother in law|corruption|drug dealer|drugs|police,English
-93,Marcel Iures,cave|diver|diving|flare|parasite,English
-96,Robert Costanzo,gambling|novel|stenographer|writer|writer's block,English
-114,Mark Camacho,flashback|flashback within a flashback|multiple perspectives|obsession|split screen,English
-106,Sandra Vergara,neighbor|remake|suburb|teenager|vampire,English
-150,Wes Studi,captain|fort|love|native american|trade,English
-100,Jürgen Prochnow,27th century|fighter pilot|orchestral music score|outer space|space opera,English
+genres
+Action|Crime|Drama|Romance|Thriller
+Adventure|Drama|Family
+Horror
+Horror|Mystery|Thriller
+Drama|Family|Fantasy|Romance
+Action|Drama|Thriller
+Action|Comedy
+Drama|Music
+Horror|Mystery|Sci-Fi|Thriller
+Crime|Drama|Thriller
+Action|Crime|Thriller
+Drama|Mystery|Thriller
+Drama|History|Thriller|War
+Action|Horror|Sci-Fi|Thriller
+Crime|Thriller
+Crime|Drama|Thriller
+Comedy
+Adventure|Animation|Comedy|Family
+Documentary|Music
+Action|Adventure|Fantasy|Sci-Fi
+Crime|Drama|Musical|Romance
+Drama|Romance
+Drama|Sport
+Crime|Drama|Thriller
+Crime|Thriller
+Comedy
+Biography|Drama|Music|Musical
+Comedy|Drama|Romance
+Adventure|Family
+Action
+Comedy|Drama|Romance
+Drama|Romance
+Drama|Sci-Fi
+Family|Music|Romance
+Drama|Fantasy|Mystery|Sci-Fi
+Comedy|Crime
+Drama|Music
+Crime|Drama|Romance|Thriller
+Biography|Drama|History|Thriller|War
+Comedy|Drama|Romance
+Comedy
+Comedy|Drama|Romance
+Fantasy|Romance
+Adventure|Comedy|Family
+Comedy|Crime|Drama
+Comedy|Romance
+Comedy|Music
+Comedy|Romance
+Drama
+Comedy|Romance
+Drama|Mystery|Thriller
+Adventure|Crime|Drama|Mystery|Western
+Drama|War
+Comedy|Crime|Mystery
+Comedy|Fantasy|Horror|Thriller
+Drama|Mystery|Thriller
+Drama|Fantasy|Horror|Romance
+Comedy|Drama|Romance
+Drama|Romance|Sci-Fi
+Drama|History|Thriller
+Crime|Drama|Mystery|Thriller
+Adventure|Drama|Fantasy
+Comedy|Crime|Drama
+Crime|Drama|Horror|Thriller
+Drama|Sci-Fi|Thriller
+Drama|Thriller
+Drama|Sci-Fi
+Action|Crime|Thriller
+Crime|Drama
+Action|Drama
+Comedy|Crime|Drama|Thriller|War
+Drama|Mystery|Thriller
+Action
+Action|Adventure|Drama|History|Thriller|War
+Action|Drama|Thriller
+Fantasy|Horror|Mystery
+Biography|Drama|History
+Crime|Drama|Thriller
+Action|Comedy|Drama|War
+Comedy|Drama|Fantasy|Music|Romance
+Biography|Drama|Fantasy|History
+Adventure|Animation|Family
+Action|Sci-Fi|Thriller
+Action|Adventure|Fantasy
+Biography
+Action|Crime|Drama|Thriller
+Biography|Drama
+Comedy|Fantasy|Romance
+Comedy|Drama|Music
+Drama|Romance
+Drama|War
+Drama|Family|Music
+Drama|Western
+Drama
+Drama|Romance
+Drama|Romance|Thriller
+Comedy|Romance
+Comedy
+Action|Adventure|Comedy
+Action|Crime|Drama|Mystery|Thriller
+Biography|Drama|War
+Adventure|Comedy|Family|Sport
+Horror|Thriller
+Horror|Thriller
+Action|Adventure|Drama
+Drama|Music|Romance
+Action|Adventure|Sci-Fi|Thriller
+Documentary
+Horror|Mystery|Thriller
+Drama|Romance
+Comedy|Drama|Romance
+Adventure|Drama
+Comedy|Romance
+Biography|Drama|History
+Adventure|Animation|Comedy|Drama|Family|Musical
+Drama|Romance
+Action|Comedy|Crime|Thriller
+Comedy|Fantasy|Horror|Romance
+Horror
+Horror|Mystery|Thriller
+Comedy|Romance
+Adventure|Mystery|Thriller
+Comedy|Romance
+Comedy
+Comedy|Drama|War
+Fantasy|Horror
+Drama|Music|Musical|Romance
+Comedy|Drama
+Comedy|Drama|Romance
+Action|Horror|Sci-Fi|Thriller
+Adventure|Comedy|Family
+Drama|History
+Comedy|Mystery|Romance
+Adventure|Comedy
+Biography|Drama
+Drama|Romance
+Drama|Mystery|Thriller
+Drama
+Biography|Drama|History
+Drama|Horror|Mystery|Thriller
+Biography|Drama|History|Romance
+Comedy|Romance
+Action|Adventure|History
+Biography|Drama|History
+Drama|Romance
+Biography|Crime|Drama|War
+Action
+Comedy|Drama|War
+Drama
+Comedy|Horror
+Comedy|Drama|Romance
+Drama|Romance
+Action|Adventure|Comedy|Sci-Fi
+Comedy|Romance
+Drama|Romance
+Comedy|Sci-Fi
+Drama
+Biography|Drama
+Comedy|Crime
+Crime|Drama|Music|Mystery|Thriller
+Action|Crime|Drama|Thriller
+Biography|Drama|History|War
+Biography|Drama|Romance
+Drama|Horror|Sci-Fi|Thriller
+Biography|Comedy|Drama|War
+Comedy
+Documentary|Music
+Drama|Thriller
+Action|Crime|Sci-Fi|Thriller
+Crime|Drama
+Drama|Music|Romance
+Fantasy|Horror|Thriller
+Drama
+Comedy|Mystery
+Action|Crime|Drama|Thriller|Western
+Comedy|Drama
+Comedy|Romance
+Comedy|Drama|Romance
+Comedy
+Action|Comedy|Crime
+Drama|Horror|Thriller
+Sci-Fi|Thriller
+Adventure|Comedy|Family
+Comedy|Drama|Romance
+Comedy|Crime|Family|Sci-Fi
+Action|Comedy|Crime|Thriller
+Comedy|Drama|Family
+Fantasy|Horror
+Crime|Thriller
+Horror
+Drama|Mystery|Sci-Fi|Thriller
+Comedy|Drama|Fantasy
+Comedy|Romance
+Adventure|Family|Sci-Fi
+Drama|Romance
+Drama|History|War
+Adventure|Drama|Sci-Fi
+Comedy|Romance
+Drama
+Comedy
+Comedy|Crime|Thriller
+Comedy
+Action|Crime|Mystery|Thriller
+Drama|Thriller
+Drama|Music
+Adventure|Comedy|Romance|Sci-Fi
+Comedy|Crime|Thriller
+Comedy
+Comedy|Drama|Romance
+Drama|Sport
+Comedy|Drama|Romance
+Drama|Romance
+Drama|Mystery|Romance|Thriller
+Comedy|Crime|Drama
+Drama|Thriller
+Biography|Comedy|Crime|Drama
+Drama|Romance
+Action
+Biography|Crime|Drama
+Drama|Romance|Western
+Horror|Thriller
+Action|Comedy|Sci-Fi|Thriller
+Drama|Romance|War
+Crime|Thriller
+Action|Drama|History|War
+Action|Adventure|Comedy|Family
+Biography|Comedy|Crime|Drama|Romance
+Adventure|Drama|History
+Biography|Drama
+Drama
+Action|Crime|Drama|Romance|Thriller
+Drama|Romance|Sci-Fi
+Crime|Drama|Mystery
+Crime|Drama|Thriller
+Fantasy|Horror|Thriller
+Horror|Mystery
+Adventure|Drama|Romance
+Comedy|Drama|Romance

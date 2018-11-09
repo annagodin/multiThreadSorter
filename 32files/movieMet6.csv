@@ -1,80 +1,111 @@
-num_critic_for_reviews,director_facebook_likes,actor_2_name,actor_1_name,movie_title,cast_total_facebook_likes,facenumber_in_poster,movie_imdb_link,budget,title_year,imdb_score
-391,20,Don Johnson,Robert De Niro,Machete ,26233,1,http://www.imdb.com/title/tt0985694/?ref_=fn_tt_tt_1,10500000,2010,6.7
-117,60,Eric Schweig,Kevin Spacey,Casino Jack ,18739,5,http://www.imdb.com/title/tt1194417/?ref_=fn_tt_tt_1,15000000,2010,6.2
-24,383,Gabriel Damon,Judith Barsi,The Land Before Time ,1833,0,http://www.imdb.com/title/tt0095489/?ref_=fn_tt_tt_1,12500000,1988,7.3
-86,16,Bin Won,Min-sik Choi,Tae Guk Gi: The Brotherhood of War ,1730,2,http://www.imdb.com/title/tt0386064/?ref_=fn_tt_tt_1,12800000,2004,8.1
-41,50,Cheech Marin,Clifton Collins Jr.,The Perfect Game ,4270,0,http://www.imdb.com/title/tt0473102/?ref_=fn_tt_tt_1,12500000,2009,7.0
-304,607,Linda Blair,Ellen Burstyn,The Exorcist ,2466,0,http://www.imdb.com/title/tt0070047/?ref_=fn_tt_tt_1,8000000,1973,8.0
-385,14000,Robert Shaw,Roy Scheider,Jaws ,2047,0,http://www.imdb.com/title/tt0073195/?ref_=fn_tt_tt_1,8000000,1975,8.0
-145,80,Shannon Elizabeth,Alyson Hannigan,American Pie ,8134,6,http://www.imdb.com/title/tt0163651/?ref_=fn_tt_tt_1,11000000,1999,7.0
-99,2,Megan Mullally,Mackenzie Foy,Ernest & Celestine ,6829,0,http://www.imdb.com/title/tt1816518/?ref_=fn_tt_tt_1,9600000,2012,7.9
-29,23,Randall 'Tex' Cobb,Victor Wong,The Golden Child ,1044,1,http://www.imdb.com/title/tt0091129/?ref_=fn_tt_tt_1,25000000,1986,5.9
-77,167,Romany Malco,Chris Brown,Think Like a Man ,5165,8,http://www.imdb.com/title/tt1621045/?ref_=fn_tt_tt_1,12000000,2012,6.6
-91,167,Jason George,Sean Patrick Thomas,Barbershop ,2754,0,http://www.imdb.com/title/tt0303714/?ref_=fn_tt_tt_1,12000000,2002,6.3
-148,120,Kirstie Alley,Leonard Nimoy,Star Trek II: The Wrath of Khan ,16539,2,http://www.imdb.com/title/tt0084726/?ref_=fn_tt_tt_1,11000000,1982,7.7
-61,293,Udo Kier,Sean Young,Ace Ventura: Pet Detective ,2462,1,http://www.imdb.com/title/tt0109040/?ref_=fn_tt_tt_1,12000000,1994,6.9
-84,139,Barry Corbin,Matthew Broderick,WarGames ,4537,0,http://www.imdb.com/title/tt0086567/?ref_=fn_tt_tt_1,12000000,1983,7.1
-83,608,Viggo Mortensen,Harrison Ford,Witness ,22479,1,http://www.imdb.com/title/tt0090329/?ref_=fn_tt_tt_1,12000000,1985,7.4
-216,16,Jason Cottle,Alex Veadov,Act of Valor ,146,0,http://www.imdb.com/title/tt1591479/?ref_=fn_tt_tt_1,12000000,2012,6.5
-107,98,Alyson Stoner,Channing Tatum,Step Up ,21380,0,http://www.imdb.com/title/tt0462590/?ref_=fn_tt_tt_1,12000000,2006,6.5
-63,406,Demi Moore,Bruce Willis,Beavis and Butt-Head Do America ,17035,0,http://www.imdb.com/title/tt0115641/?ref_=fn_tt_tt_1,12000000,1996,6.8
-140,16000,Sid Haig,Robert De Niro,Jackie Brown ,25522,5,http://www.imdb.com/title/tt0119396/?ref_=fn_tt_tt_1,12000000,1997,7.5
-153,22,Eric Winter,Danneel Ackles,Harold & Kumar Escape from Guantanamo Bay ,4065,2,http://www.imdb.com/title/tt0481536/?ref_=fn_tt_tt_1,12000000,2008,6.6
-414,128,Alex Russell,Michael Kelly,Chronicle ,2054,0,http://www.imdb.com/title/tt1706593/?ref_=fn_tt_tt_1,12000000,2012,7.1
-16,0,Amy Irving,Miriam Margolyes,Yentl ,914,1,http://www.imdb.com/title/tt0086619/?ref_=fn_tt_tt_1,12000000,1983,6.6
-139,0,Michael Palin,Shelley Duvall,Time Bandits ,2730,0,http://www.imdb.com/title/tt0081633/?ref_=fn_tt_tt_1,5000000,1981,7.0
-111,33,Katherine Boecher,Britney Spears,Crossroads ,1531,1,http://www.imdb.com/title/tt0275022/?ref_=fn_tt_tt_1,12000000,2002,3.3
-229,166,Kirby Bliss Blanton,Dax Flame,Project X ,2043,0,http://www.imdb.com/title/tt1636826/?ref_=fn_tt_tt_1,12000000,2012,6.7
-112,76,Karl Malden,George C. Scott,Patton ,1306,0,http://www.imdb.com/title/tt0066206/?ref_=fn_tt_tt_1,12000000,1970,8.0
-207,132,Gary Cole,Robin Williams,One Hour Photo ,52138,0,http://www.imdb.com/title/tt0265459/?ref_=fn_tt_tt_1,12000000,2002,6.8
-198,66,Jay Hernandez,Andrew Fiscella,Quarantine ,140268,0,http://www.imdb.com/title/tt1082868/?ref_=fn_tt_tt_1,12000000,2008,6.0
-172,0,Alessandro Nivola,Chloë Grace Moretz,The Eye ,18765,1,http://www.imdb.com/title/tt0406759/?ref_=fn_tt_tt_1,12000000,2008,5.4
-45,4,Shannon Elizabeth,Vanessa Williams,Johnson Family Vacation ,5006,5,http://www.imdb.com/title/tt0359517/?ref_=fn_tt_tt_1,12000000,2004,4.3
-34,58,Fred Willard,Hector Elizondo,How High ,6105,2,http://www.imdb.com/title/tt0278488/?ref_=fn_tt_tt_1,12000000,2001,6.2
-75,53,Jerry Nelson,Steven Mackintosh,The Muppet Christmas Carol ,534,0,http://www.imdb.com/title/tt0104940/?ref_=fn_tt_tt_1,12000000,1992,7.7
-400,258,Tobias Menzies,Eva Green,Casino Royale ,9125,1,http://www.imdb.com/title/tt0381061/?ref_=fn_tt_tt_1,150000000,2006,8.0
-128,278,Roger Rees,Salma Hayek,Frida ,7072,0,http://www.imdb.com/title/tt0120679/?ref_=fn_tt_tt_1,12000000,2002,7.4
-68,4,Ashley Ashida Dixon,Lexie Contursi,Katy Perry: Part of Me ,52,0,http://www.imdb.com/title/tt2215719/?ref_=fn_tt_tt_1,12000000,2012,5.9
-326,131,Sam Trammell,Shailene Woodley,The Fault in Our Stars ,10565,0,http://www.imdb.com/title/tt2582846/?ref_=fn_tt_tt_1,12000000,2014,7.8
-128,131,Martin Landau,Matt Damon,Rounders ,14890,2,http://www.imdb.com/title/tt0128442/?ref_=fn_tt_tt_1,12000000,1998,7.4
-161,0,Romany Malco,Rosario Dawson,Top Five ,5592,10,http://www.imdb.com/title/tt2784678/?ref_=fn_tt_tt_1,12000000,2014,6.5
-70,287,Richard Dysart,Talia Shire,Prophecy ,729,1,http://www.imdb.com/title/tt0079758/?ref_=fn_tt_tt_1,12000000,1979,5.4
-164,192,Kathryn Erbe,Illeana Douglas,Stir of Echoes ,1254,0,http://www.imdb.com/title/tt0164181/?ref_=fn_tt_tt_1,12000000,1999,7.0
-68,,Kelvin Taylor,Peter Mensah,Spartacus: War of the Damned             ,6091,2,http://www.imdb.com/title/tt1442449/?ref_=fn_tt_tt_1,,,8.6
-354,350,Mare Winningham,Steve Coogan,Philomena ,2376,2,http://www.imdb.com/title/tt2431286/?ref_=fn_tt_tt_1,12000000,2013,7.6
-125,57,Erika Christensen,Alicia Witt,The Upside of Anger ,2944,1,http://www.imdb.com/title/tt0365885/?ref_=fn_tt_tt_1,9000000,2005,6.9
-55,76,Anne Meara,Laurence Olivier,The Boys from Brazil ,4659,3,http://www.imdb.com/title/tt0077269/?ref_=fn_tt_tt_1,12000000,1978,7.0
-66,20,Joanna 'JoJo' Levesque,Tammin Sursok,Aquamarine ,3963,3,http://www.imdb.com/title/tt0429591/?ref_=fn_tt_tt_1,12000000,2006,5.3
-191,14,Cara Delevingne,Nat Wolff,Paper Towns ,2753,2,http://www.imdb.com/title/tt3622592/?ref_=fn_tt_tt_1,12000000,2015,6.4
-33,17,Marsha Thomason,Michael Imperioli,My Baby's Daddy ,3646,5,http://www.imdb.com/title/tt0332712/?ref_=fn_tt_tt_1,,2004,4.5
-433,729,Bruce Dern,Devin Ratray,Nebraska ,3798,0,http://www.imdb.com/title/tt1821549/?ref_=fn_tt_tt_1,12000000,2013,7.8
-66,226,Jada Pinkett Smith,CCH Pounder,Tales from the Crypt: Demon Knight ,3931,1,http://www.imdb.com/title/tt0114608/?ref_=fn_tt_tt_1,13000000,1995,6.7
-37,25,Amber Valletta,Noel Fisher,Max Keeble's Big Move ,4551,0,http://www.imdb.com/title/tt0273799/?ref_=fn_tt_tt_1,12000000,2001,5.3
-325,655,Patton Oswalt,Charlize Theron,Young Adult ,10575,1,http://www.imdb.com/title/tt1625346/?ref_=fn_tt_tt_1,12000000,2011,6.3
-170,83,Edi Gathegi,Jason Statham,Crank ,28767,1,http://www.imdb.com/title/tt0479884/?ref_=fn_tt_tt_1,12000000,2006,7.0
-11,3,Gilbert Gottfried,Bernie Mac,How to Be a Player ,2939,2,http://www.imdb.com/title/tt0119326/?ref_=fn_tt_tt_1,,1997,5.3
-24,98,Eddie Cibrian,Holly Hunter,Living Out Loud ,3250,1,http://www.imdb.com/title/tt0120722/?ref_=fn_tt_tt_1,12000000,1998,6.6
-70,43,Laz Alonso,Common,Just Wright ,3906,1,http://www.imdb.com/title/tt1407061/?ref_=fn_tt_tt_1,,2010,5.8
-232,438,Rosemarie DeWitt,Anne Hathaway,Rachel Getting Married ,12274,1,http://www.imdb.com/title/tt1084950/?ref_=fn_tt_tt_1,,2008,6.7
-34,30,Michael Lerner,Anjelica Huston,The Postman Always Rings Twice ,1456,0,http://www.imdb.com/title/tt0082934/?ref_=fn_tt_tt_1,12000000,1981,6.6
-160,73,Colin Firth,Scarlett Johansson,Girl with a Pearl Earring ,34700,0,http://www.imdb.com/title/tt0335119/?ref_=fn_tt_tt_1,,2003,7.0
-96,249,Martin Semmelrogge,Jürgen Prochnow,Das Boot ,469,0,http://www.imdb.com/title/tt0082096/?ref_=fn_tt_tt_1,14000000,1981,8.4
-106,102,Marc Blucas,Dennis Quaid,The Alamo ,5780,0,http://www.imdb.com/title/tt0318974/?ref_=fn_tt_tt_1,107000000,2004,6.0
-53,32,Barry Watson,Heather Matarazzo,Sorority Boys ,2393,3,http://www.imdb.com/title/tt0279781/?ref_=fn_tt_tt_1,12000000,2002,5.4
-274,628,Tom Hollander,Tom Hughes,About Time ,1595,1,http://www.imdb.com/title/tt2194499/?ref_=fn_tt_tt_1,12000000,2013,7.8
-248,611,Andy Lau,Takeshi Kaneshiro,House of Flying Daggers ,1244,3,http://www.imdb.com/title/tt0385004/?ref_=fn_tt_tt_1,100000000,2004,7.6
-288,27,Curtiss Cook,Nate Parker,Arbitrage ,2440,1,http://www.imdb.com/title/tt1764183/?ref_=fn_tt_tt_1,12000000,2012,6.6
-177,16,Jonny Weston,Gary Weeks,Project Almanac ,1819,0,http://www.imdb.com/title/tt2436386/?ref_=fn_tt_tt_1,12000000,2015,6.4
-81,67,Veronika Dash,Cedric the Entertainer,Cadillac Records ,1141,3,http://www.imdb.com/title/tt1042877/?ref_=fn_tt_tt_1,12000000,2008,7.0
-29,25,Dave Chappelle,Sarah Silverman,Screwed ,3848,0,http://www.imdb.com/title/tt0156323/?ref_=fn_tt_tt_1,10000000,2000,5.7
-58,216,Kurtwood Smith,Christopher Lambert,Fortress ,4755,0,http://www.imdb.com/title/tt0106950/?ref_=fn_tt_tt_1,8000000,1992,5.9
-144,378,Catherine O'Hara,John Michael Higgins,For Your Consideration ,3535,0,http://www.imdb.com/title/tt0470765/?ref_=fn_tt_tt_1,12000000,2006,6.3
-114,11000,Aleksa Palladino,Melanie Griffith,Celebrity ,943,0,http://www.imdb.com/title/tt0120533/?ref_=fn_tt_tt_1,12000000,1998,6.3
-132,708,Joseph Cross,Jill Clayburgh,Running with Scissors ,1291,0,http://www.imdb.com/title/tt0439289/?ref_=fn_tt_tt_1,12000000,2006,6.2
-60,7,Kelly Clarkson,Anika Noni Rose,From Justin to Kelly ,1445,2,http://www.imdb.com/title/tt0339034/?ref_=fn_tt_tt_1,12000000,2003,2.1
-30,0,Debi Mazar,Michael Imperioli,Girl 6 ,4497,3,http://www.imdb.com/title/tt0116414/?ref_=fn_tt_tt_1,12000000,1996,5.0
-138,319,Nick Damici,Jennifer Jason Leigh,In the Cut ,1171,0,http://www.imdb.com/title/tt0199626/?ref_=fn_tt_tt_1,12000000,2003,5.3
-190,115,Vinessa Shaw,Isabella Rossellini,Two Lovers ,1540,0,http://www.imdb.com/title/tt1103275/?ref_=fn_tt_tt_1,12000000,2008,7.1
-61,40,Ray Winstone,Bob Hoskins,Last Orders ,7166,5,http://www.imdb.com/title/tt0253200/?ref_=fn_tt_tt_1,12000000,2001,7.0
-363,584,Kang-ho Song,Doona Bae,The Host ,1173,0,http://www.imdb.com/title/tt0468492/?ref_=fn_tt_tt_1,12215500000,2006,7.0
-2,55,Treat Williams,Robert Duvall,The Pursuit of D.B. Cooper ,4277,0,http://www.imdb.com/title/tt0082958/?ref_=fn_tt_tt_1,12000000,1981,5.7
+director_facebook_likes,actor_2_name,facenumber_in_poster,plot_keywords,num_user_for_reviews,language,imdb_score,aspect_ratio
+512,Jennifer Hale,2,bar|female nudity|murder|small town|werewolf,34,English,5.3,2.35
+209,Mari Koda,2,audition|dance|kissing in the rain|student|subway,108,English,6.2,1.85
+19,Chazz Palminteri,1,animal|axe|red riding hood|wolf|woodsman,247,English,6.5,1.85
+83,Sophie Okonedo,1,atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,609,English,8.1,2.35
+87,Dougray Scott,1,hitman|impersonation|see through dress|topless female nudity|woman on top,376,English,6.3,2.35
+148,Mary J. Blige,5,based on stage musical|based on the bible|christmas|color in title|nativity,17,English,4.4,2.35
+32,50 Cent,4,assassin|fight|mechanic|rescue|rival,101,English,4.6,2.35
+0,Shawn Andrews,0,bag over head|buddhist temple|loss of friend|male bonding|nightclub,67,English,6.0,1.85
+448,Elaine Cassidy,0,curtain|haunting|mansion|mute|xeroderma pigmentosum,1109,English,7.6,1.85
+0,Carrie Henn,1,alien|human versus alien|monster|rescue mission|space marine,1076,English,8.4,1.85
+165,Rex Harrison,1,colonel|flower girl|professor|street|wager,258,English,7.9,2.2
+13,Sarah Michelle Gellar,1,beach|corpse|fourth of july|overalls|revenge,419,English,5.6,2.35
+42,Damon Wayans Jr.,1,friendship between men|impersonating a police officer|mobster|party|police officer,147,English,6.5,1.85
+729,Patrick Gallagher,0,actor|california|teacher|wine|writer,835,English,7.5,1.85
+422,Owain Yeoman,2,beer|competition|germany|oktoberfest|prostitute,177,English,6.3,2.35
+0,Donald Pleasence,0,halloween|masked killer|michael myers|slasher|trick or treat,1191,English,7.9,2.35
+611,Tony Chiu Wai Leung,4,china|flying|king|palace|sword,841,Mandarin,7.9,2.35
+9,Molly Shannon,1,dog|friend|neighborhood|planet|star,48,English,5.1,1.85
+92,Sanaa Lathan,5,childbirth|christmas|gay slur|infidelity|punched in the nose,64,English,6.7,2.35
+248,Common,0,casino|fbi|mafia|mob hit|sniper,482,English,6.7,2.35
+52,Gina Holden,0,blood splatter|self help guru|sequel|support group|survivor,279,English,5.6,1.85
+36,Vinessa Shaw,0,female on male rape|lent|male rear nudity|masturbation|sex,207,English,5.6,1.85
+364,Olivia Wilde,0,arcade|bridge|disappearance|escape|warrior,665,English,6.8,2.35
+12,Chris Kattan,2,1990s|bar|car accident|nightclub|whipped cream,239,English,6.2,1.85
+33,Mary-Kate Olsen,1,love|maid|newscaster|student|tutor,129,English,5.6,2.35
+192,Greg Nicotero,0,desert|horror movie remake|murder of family|rape|slasher,855,English,6.4,2.35
+39,Jenna Boyd,1,dental braces|dental headgear|former child star|panties|white panties,117,English,5.6,2.35
+51,Valente Rodriguez,0,coach|high school|place name in title|school|student,83,English,7.4,2.35
+17,Loretta Devine,7,block party|eurocopter ec120 colibri|fortune cookie|lottery ticket|reverend,30,English,4.9,2.35
+49,Adam Boyer,0,high school|rollerskating rink|spelman college|twin|voice over narration,92,English,6.0,2.35
+36,Hana Mae Lee,4,a cappella|competition|dj|female protagonist|lesbian,250,English,7.2,1.85
+19,Brian Dennehy,2,baseball|baseball player|night|rivalry|summer,107,English,4.9,1.85
+0,Bridget Fonda,1,bag of money|found money|minnesota|screenplay adapted by author|snow,416,English,7.5,1.85
+11,Ethan Embry,0,darkness|friend|kiss|nightmare|suicide,271,English,4.8,2.35
+0,Larry the Cable Guy,2,diner|food poisoning|health inspector|restaurant|undercover,112,English,3.1,1.33
+11,Kevin Clash,0,based on tv series|blanket|box office flop|rescue|sesame street,37,English,5.8,1.85
+847,Lili Taylor,1,catholic|corrupt cop|new york city|police detective|police officer killed,138,English,6.7,2.35
+117,David Niven,3,ambassador|boxer rebellion|china|colonialism|peking china,50,English,6.8,2.2
+201,Elizabeth Blackmore,0,book of the dead|demon|h.p. lovecraft|lesbian kiss|promise,789,English,6.5,2.35
+80,Harland Williams,1,greece|greek|tour bus|tour guide|tourist,75,English,5.9,1.85
+80,Dennis Quaid,6,chief of staff|contest|president|singing|terrorist,217,English,5.5,1.85
+22,Margot Kidder,6,box office flop|dc comics|hair|nuclear disarmament|superman,259,English,3.6,2.35
+8,Clé Bennett,0,dance|dance contest|loss of sister|step dancing|teenager,18,English,3.3,1.85
+47,Chazz Palminteri,2,adult child friendship|corrupt cop|fistfight|gangster|thug,419,English,7.4,2.35
+9,Jeremy Northam,3,colon in title|competition|five word title|golf|temper,64,English,6.7,2.35
+3,Paul Freeman,0,china|missionary|opium|villain|year 1937,28,English,3.0,1.85
+168,Eddie Marsan,3,duchess|illusionist|magician|prince|supernatural power,645,English,7.6,1.85
+4,Melanie Griffith,0,chase|dead man|jungle|killing a lion|killing a tiger,27,English,6.4,2.35
+541,David Murray,1,criminal|drug lord|gunshot|irish|journalist,113,English,6.9,2.35
+30,Brady Corbet,1,colombia|dream|love|surfer|village,39,English,6.6,
+219,Curtis Armstrong,6,amnesia|boxer|conspiracy|police|porn star,238,English,5.5,2.35
+0,Jess Harnell,0,cgi film|computer animation|dragon|hunter,39,French,6.6,
+22,Jan-Michael Vincent,0,cockroach|desert|ghost town|giant spider|travel,71,English,5.2,2.35
+57,Rick Gomez,1,e mail|evil spirit|experiment|fear|supernatural,108,English,4.1,2.35
+6,Jamie Lee Curtis,1,best friend|funeral|girl|overalls|summer,115,English,6.8,1.85
+30,Ty Burrell,2,character name in title|diane arbus|male full frontal nudity|photographer|pubic hair,97,English,6.5,1.85
+168,Eddie Marsan,3,duchess|illusionist|magician|prince|supernatural power,645,English,7.6,1.85
+0,Tamara Tunie,2,1980s|argument|critique of capitalism|f word|fired from the job,219,English,7.4,1.85
+0,Kate Winslet,2,1810s|female protagonist|horseback riding|inheritance|three word title,196,English,7.7,1.85
+11,Julie Walters,1,country estate|jane austen|lady|love|writing,151,English,7.1,2.35
+18,Matt Long,2,college|college girl|female protagonist|sorority|sorority house,50,English,6.3,2.35
+26,Kim Dickens,0,auction|home|house|iranian|marriage,469,English,7.6,1.85
+608,Josh Charles,0,education|english teacher|poet|professor|student,491,English,8.0,1.85
+137,Mike Starr,2,briefcase full of money|character repeating someone else's dialogue|character says i love you|friendship|reference to cinderella,438,English,7.3,1.85
+0,Gretchen Palmer,0,friendship|love|male female friendship|new york|sex,273,English,7.6,1.85
+0,James Mason,0,archdiocese|court|hospital|lawyer|malpractice,154,English,7.8,1.85
+480,Rachel Blanchard,5,blonde|college|friend|highway travel|road trip,302,English,6.5,1.85
+48,Ron Lester,0,coach|coyote|popularity|quarterback|texas,267,English,6.4,1.85
+405,Ed Lauter,0,1920s|jack russell terrier|modern silent movie|movie star|movie studio,583,English,8.0,1.33
+687,Atticus Shaffer,1,babysitting|experiment|nightmare|possession|twin,230,English,4.8,2.35
+0,Bill Murray,2,1960s|boy scouts|boy scouts camp|coming of age|young love,377,English,7.8,1.85
+473,Jordana Brewster,0,cannibal|car accident|leatherface|psychopath|slaughterhouse,366,English,5.9,1.85
+19,Vincent Walsh,0,based on novel,30,English,5.4,2.35
+11,Kenan Thompson,2,disguise|mask|master of disguise|restaurant|waiter,307,English,3.3,1.85
+0,Maribel Verdú,0,fairy|fairy tale|faun|princess|spain,1083,Spanish,8.2,1.85
+,Jessika Van,0,,57,English,6.6,16.0
+14,Angus T. Jones,0,boy|fbi|mailman|van|witness protection,53,English,5.4,1.85
+309,Snoop Dogg,2,cartoon on tv|family relationships|physical abuse|single parent|two word title,81,English,6.4,1.85
+26,Danneel Ackles,1,animal abuse(non graphic)|cat killer|college|dead cat|death of cat,115,English,4.8,2.35
+29,Erik Per Sullivan,0,first part|grand canyon|highway travel|indian|janitor,205,English,5.9,1.85
+23,Alonna Shaw,2,boat|hong kong|murder|tunnel|twins,72,English,5.5,1.85
+1000,Joe Cornish,1,accident|conspiracy|police|police officer|village,687,English,7.9,2.35
+15,Debi Mazar,4,beauty salon|divorce|fashion|new york|perfume,125,English,4.9,1.85
+11000,Kevin Dunn,0,art|artist|painter|sex|summer,365,English,7.2,1.85
+5,Michael Nyqvist,1,first part|holy land|knight templar|monastery|sword and shield,54,Swedish,6.6,2.35
+24,Jay Hernandez,9,lesbian kiss|mom|pta|reference to mad max|scene during end credits,46,English,6.7,
+7,Amanda Detmer,3,best friend|break up|friendship|graduation|male in underwear,134,English,5.3,1.85
+7,Cole Hauser,0,california|foster home|love|oleander|prison,171,English,7.2,1.85
+45,Amy Sedaris,1,cannibalism|cheerleader|condom|hook for hand|satanic ritual,294,English,5.1,1.85
+22,Jamie Lee Curtis,0,crying woman|plot|suspect|waitress|younger man older woman relationship,148,English,5.6,1.85
+11000,Don Pardo,0,beach|cigarette girl|radio|woman holding a baby|working class,91,English,7.6,1.85
+179,Lea Thompson,1,bible quote|chaos|faith|riot|shrine,374,English,3.1,2.35
+47,Lena Olin,0,binge drinking|new york|new york city|september 11 2001|suicide,361,English,7.2,1.85
+6,Alexandra Holden,1,best friend|high school|mother|sister|wedding,95,English,5.7,1.85
+121,Alyson Hannigan,0,alien|earth|female alien|mission|secret,55,English,5.2,1.85
+438,Tom Hanks,2,aids|city name in title|gay|homophobia|lawyer,261,English,7.7,1.85
+9,Craig Bierko,0,amnesia|barricade|letter|time|virtual reality,302,English,7.0,2.35
+3,Vincent Pastore,1,flatulence|interracial marriage|marriage,20,English,3.6,1.85
+38,Karl Malden,7,asteroid|meteor|nasa|nuclear weapon|satellite,90,English,4.9,2.35
+28,Marian Seldes,0,convict|karaoke|middle america|salesman|singer,123,English,6.0,1.85
+11000,Debra Messing,0,blind|director|psychosomatic blindness|self deprecating|studio,148,English,6.6,1.85
+89,Lin Shaye,0,band|concert|high school|kiss|teenager,194,English,6.8,2.35
+85,Jon Polito,1,combat|head cut off|immortal|scotland|swordsman,316,English,7.2,1.85
+369,Omar Benson Miller,1,best friend|dinner|garage|narcotics anonymous|recovery,88,English,7.2,2.35
+34,Annabeth Gish,1,fight|gang|junkyard|military|soldier,62,English,2.8,1.85
+115,Dagmara Dominczyk,3,immigrant|immigration|magician|money|prostitution,70,English,6.6,2.35
+133,Natasha Richardson,0,countess|diplomat|japanese|russian|shanghai,78,English,6.7,1.66
+0,Spencer Wilding,0,amnesia|criminal|heist|hypnotherapy|lost painting,212,English,7.0,2.35
+29,Snoop Dogg,9,airline|airplane|bathroom|sex|toilet,150,English,4.4,1.85
+172,Kad Merad,2,alcohol|alcoholic drink|drunken man|france|provence,49,French,7.1,2.35

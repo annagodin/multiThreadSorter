@@ -1,45 +1,266 @@
-actor_2_name,actor_1_facebook_likes,genres,movie_title,num_voted_users,actor_3_name,num_user_for_reviews,title_year,imdb_score,aspect_ratio
-Hitoshi Matsumoto,31,Comedy|Drama,R100 ,1658,Shinobu Terajima,12,2013,6.1,1.85
-Steven Mackintosh,397,Comedy|Drama|History|Romance,Rang De Basanti ,70233,Madhavan,321,2006,8.4,2.35
-John Heard,934,Drama,Animals ,605,David Dastmalchian,8,2014,6.2,2.35
-Cree Kelly,472,Action|Comedy|Drama|Thriller,Salvation Boulevard ,3788,Mike Eshaq,31,2011,5.3,1.85
-Ken Marino,4000,Comedy|Romance,The Ten ,15315,Ron Silver,117,2007,5.0,1.85
-Paddy Considine,5000,Comedy|Drama,A Room for Romeo Brass ,4471,Shane Meadows,47,1999,7.7,1.85
-Synnøve Macody Lund,286,Crime|Drama|Thriller,Headhunters ,79353,Julie R. Ølgaard,121,2011,7.6,2.39
-Richard Coyle,796,Comedy|Horror|Sci-Fi|Thriller,Grabbers ,13227,Bronagh Gallagher,70,2012,6.3,2.35
-Adam Butcher,393,Comedy|Drama|Sport,Saint Ralph ,4976,Gordon Pinsent,52,2004,7.6,1.85
-Jessica Chastain,631,Drama|Romance,Miss Julie ,2894,Colin Farrell,14,2014,5.6,
-Bill Erwin,208,Drama|Fantasy|Romance,Somewhere in Time ,21049,George Voskovec,249,1980,7.3,1.85
-Bipasha Basu,374,Action|Crime|Drama|Thriller,Dum Maaro Dum ,3266,Prateik,27,2011,6.2,
-Barbara Hershey,852,Fantasy|Horror|Thriller,Insidious: Chapter 2 ,109214,Leigh Whannell,269,2013,6.6,2.35
-Tony Nappo,1000,Horror|Mystery,Saw II ,188679,Shawnee Smith,864,2005,6.6,1.85
-John Gallagher Jr.,14000,Drama|Horror|Mystery|Sci-Fi|Thriller,10 Cloverfield Lane ,126893,Sumalee Montano,440,2016,7.3,2.35
-Steve-O,608,Comedy|Documentary,Jackass: The Movie ,67992,Chris Pontius,327,2002,6.6,1.85
-Amiah Miller,2000,Horror,Lights Out ,13523,Gabriel Bateman,95,2016,6.9,2.35
-Sprague Grayden,581,Horror,Paranormal Activity 3 ,76828,Christopher Nicholas Smith,314,2011,5.8,1.85
-Shelley Hennig,852,Fantasy|Horror,Ouija ,31915,Daren Kagasoff,159,2014,4.4,2.35
-Heather Langenkamp,506,Action|Fantasy|Horror|Thriller,A Nightmare on Elm Street 3: Dream Warriors ,49820,Jennifer Rubin,311,1987,6.6,1.85
-Allison Tolman,1000,Mystery|Thriller,The Gift ,79916,Wendell Pierce,279,2015,7.1,2.35
-Jessica Lindsey,399,Comedy|Drama,Instructions Not Included ,22105,Hugo Stiglitz,81,2013,7.6,1.85
-Brendon Eggertsen,235,Horror,Paranormal Activity 4 ,51204,Alisha Boe,247,2012,4.6,1.85
-Jean Simmons,726,Drama|History,The Robe ,6359,Victor Mature,69,1953,6.8,2.2
-Herbert Lom,462,Comedy|Crime|Mystery,The Return of the Pink Panther ,19596,Catherine Schell,73,1975,7.1,2.35
-Tom Arnold,40000,Comedy|Fantasy|Horror|Thriller,Freddy's Dead: The Final Nightmare ,30765,Yaphet Kotto,252,1991,4.9,1.85
-Bruce Dern,9000,Biography|Crime|Drama|Thriller,Monster ,105568,Pruitt Taylor Vince,533,2003,7.3,1.85
-Robert J. Wilke,617,Adventure|Drama|Family|Fantasy|Sci-Fi,20,000 Leagues Under the Sea ,22123,Paul Lukas,108,1954,7.2,1.37
-Gloria Sandoval,510,Fantasy|Horror|Thriller,Paranormal Activity: The Marked Ones ,31791,Molly Ephraim,155,2014,5.0,1.78
-Anne Bancroft,12000,Biography|Drama,The Elephant Man ,161972,Dexter Fletcher,356,1980,8.2,2.35
-Jennifer Garner,11000,Biography|Drama,Dallas Buyers Club ,326494,Denis O'Hare,340,2013,8.0,2.35
-Mark Duplass,10000,Horror|Sci-Fi|Thriller,The Lazarus Effect ,28513,Donald Glover,126,2015,5.2,2.35
-Thomas Lennon,716,Mystery|Thriller,Memento ,845580,Jorja Fox,2067,2000,8.5,2.35
-Rory Cochrane,972,Horror|Mystery,Oculus ,85688,Garrett Ryan,339,2013,6.5,2.35
-Jason Mewes,1000,Comedy,Clerks II ,114797,Brian O'Halloran,472,2006,7.4,1.85
-Gary Lewis,838,Drama|Music,Billy Elliot ,98354,Jamie Draven,433,2000,7.7,1.85
-Liam James,7000,Comedy|Drama,The Way Way Back ,115813,Jim Rash,216,2013,7.4,1.85
-Tisha Campbell-Martin,901,Comedy|Drama|Music|Romance,House Party 2 ,3571,Helen Martin,11,1991,5.1,1.85
-Jack Thompson,492,Adventure|Drama|Family|Romance|Western,The Man from Snowy River ,5894,Tom Burlinson,56,1982,7.3,2.35
-Constance Shulman,2000,Animation|Comedy|Family,Doug's 1st Movie ,2448,Alice Playten,18,1999,5.0,1.33
-Todd Allen,205,Drama,The Apostle ,11622,June Carter Cash,157,1997,7.2,1.85
-Xander Berkeley,977,Biography|Drama,Mommie Dearest ,10564,Diana Scarwid,161,1981,6.7,1.85
-Adam Scott,11000,Comedy|Drama,Our Idiot Brother ,74875,Steve Coogan,115,2011,6.4,1.85
-Tony Curran,882,Biography|Drama|Sport,Race ,11744,David Kross,49,2016,7.1,2.35
+director_name,duration,gross,movie_title,facenumber_in_poster,plot_keywords
+Billy Wilder,101,,The Lost Weekend ,4,addiction|alcoholic|alcoholism|paranoia|suicidal thoughts
+Douglas Cheek,96,,C.H.U.D. ,0,bum|city|mutant|new york city|street
+Youssef Delara,80,2833383,Filly Brown ,1,
+Deryck Broom,87,,The Lion of Judah ,0,animal|donkey|lamb|pig|rooster
+Henry Hathaway,92,,Niagara ,0,hitchcockian|husband murders wife|murder|niagara falls|overhead shot
+John Ford,118,,How Green Was My Valley ,5,coal mine|girl|school|village|wales
+,27,,The Girlfriend Experience             ,0,escort|female nudity|friendship|money|sex scene
+Spike Lee,123,,Da Sweet Blood of Jesus ,0,horror movie remake|remake|undead|undead sex|undead sexuality
+Steven Soderbergh,100,24741700,"Sex, Lies, and Videotape ",2,affair|interview|marriage|sex|videotape
+James Wan,103,55153403,Saw ,0,chained|flashback|killer|serial killer|surprise ending
+Jay Chandrasekhar,100,18488314,Super Troopers ,0,drugs|highway|police|state trooper|vermont
+Giovanni Zelko,99,,The Algerian ,6,algeria|algerian|los angeles california|muslim
+Claudia Sainte-Luce,89,11278,The Amazing Catfish ,0,actress shares first name with character|appendicitis|hospital|loss of mother|supermarket
+Scott Derrickson,104,79363785,The Day the Earth Stood Still ,0,alien|earth|giant robot|military|scientist
+Mira Nair,114,13876974,Monsoon Wedding ,0,arranged marriage|bride|celebration|marriage|wedding
+Kenneth Lonergan,111,9180275,You Can Count on Me ,0,bank|car accident|cheating husband|new york|single mother
+Alfred Hitchcock,99,,The Trouble with Harry ,0,artist|death|hunting|sheriff|vermont
+Paul McGuigan,110,22494487,Lucky Number Slevin ,3,coroner|death|gay son|love|mistaken identity
+Jamie Babbit,85,2199853,But I'm a Cheerleader ,1,cheerleader|gay|homosexual|lesbian|lesbian relationship
+David Boyd,113,2859955,Home Run ,2,addiction|alcoholic|baseball|car accident|reference to god
+Quentin Tarantino,99,2812029,Reservoir Dogs ,0,gang|heist|heist gone wrong|nonlinear timeline|robbery
+Walter Lang,83,,The Blue Bird ,1,1800s|bird|blue bird of happiness|foreign language adaptation|past
+Sergio Leone,142,6100000,"The Good, the Bad and the Ugly ",3,civil war|hitman|outlaw|shootout|spaghetti western
+Anna Muylaert,112,375723,The Second Mother ,1,brazil|exam|housekeeper|northeast region of brazil|portuguese language
+Steve Taylor,108,594904,Blue Like Jazz ,0,church|college|color in title|philosophy|texas
+Kurt Voss,88,58936,Down and Out with the Dolls ,0,female bassist|female drummer|female guitarist|female singer|portland oregon
+Léa Pool,97,24784,"Pink Ribbons, Inc. ",0,breast cancer|comma in title|period in title|punctuation in title|three word title
+James David Pasternak,85,7826,Certifiably Jonathan ,10,las vegas nevada|museum|reference to mr. rogers|reference to vincent van gogh|talking about suicide
+Laurent Bouhnik,103,,Q ,1,female explicit nudity|hand job|oral sex|penetration|unsimulated sex
+Tom Sanchez,110,3830,The Knife of Don Juan ,3,
+David Caffrey,88,,Grand Theft Parsons ,1,guitar|hearse|manager|musician|singer
+Adam Jay Epstein,76,,Extreme Movie ,6,box office flop|female frontal nudity|pink bra and panties|red bra and panties|sex
+Michael Curtiz,100,,The Charge of the Light Brigade ,3,attack|fort|india|lancer|massacre
+Justin Thomas Ostensen,99,,Below Zero ,2,
+Brenton Spencer,84,,Crowsnest ,0,forest|found footage|lost|murder|road trip
+Rob Bowman,91,2850263,Airborne ,0,cincinnati ohio|high school|hockey|jock strap|zoologist
+Ossie Davis,97,,Cotton Comes to Harlem ,1,black cop|chase|cotton|four word title|new york city
+Jay Alaimo,84,,The Wicked Within ,0,after dark horrorfest
+Dylan Bank,100,,Bleeding Hearts ,1,bare breasts|bra and panties|nudity|syringe
+Rob McKittrick,94,16101109,Waiting... ,3,cook|dishwasher|flashing|male frontal nudity|waiter
+Shane Meadows,90,6013,Dead Man's Shoes ,0,anger|army veteran|independent film|revenge|sex scene
+,,,Wolf Creek             ,0,based on true story|blood|serial killer|slasher|tv mini series
+Jeff Burr,92,1400000,From a Whisper to a Scream ,0,bathtub|cult film|neck breaking|tennessee|wraparound story
+Harry Gantz,105,247740,Sex with Strangers ,0,bisexual|explicit sex|sex|stranger|swing
+Guy Maddin,73,39659,Dracula: Pages from a Virgin's Diary ,1,ballet|cult film|dance|dracula|gothic
+Regardt van den Bergh,116,,Faith Like Potatoes ,2,food|food in title|potato
+Panos Cosmatos,110,56129,Beyond the Black Rainbow ,1,exploitation|four word title|hallucinogen|lynchian|telepathy
+Gareth Evans,102,4105123,The Raid: Redemption ,0,apartment|drug lord|gangster|police|swat team
+Matthew R. Anderson,89,,The Dead Undead ,1,flashback|immortality|rural setting|vampire|zombie
+Joe Marino,76,,The Vatican Exorcisms ,0,
+Michael Curtiz,82,,Casablanca ,4,american expatriate|casablanca morocco|gestapo|police|visa
+Joel Anderson,89,,Lake Mungo ,0,ghost|lake|parapsychologist|psychic|secret
+Shimit Amin,150,,Rocket Singh: Salesman of the Year ,1,boss|computer|honesty|sales|salesman
+Douglas Trumbull,89,,Silent Running ,1,forest|greenhouse|plant|robot|space
+John G. Avildsen,145,117235247,Rocky ,0,boxer|hometown hero|philadelphia pennsylvania|protective male|training
+Mona Fastvold,91,,The Sleepwalker ,1,female nudity|male nudity|male rear nudity|nudity
+John Carpenter,89,21378000,The Fog ,0,california|fog|leper|lighthouse|ship
+Tony Richardson,121,,Tom Jones ,1,18th century|rags to riches|secret letter|squire|tutor
+Levan Gabriadze,83,31537320,Unfriended ,0,blender|computer screen|secret|skype|webcam
+Martin Scorsese,110,,Taxi Driver ,1,loner|neo noir|night shift|taxi driver|vigilante
+Joe Dante,91,17986000,The Howling ,0,1980s|forest|lycanthrope|shapeshifting|werewolf transformation
+Terence Young,110,16067035,Dr. No ,4,british secret service|hand to hand combat|murder|official james bond series|terrorist plot
+Bradley Parker,86,18112929,Chernobyl Diaries ,0,abandoned building|chernobyl disaster|exploration|tour guide|van
+Clive Barker,86,14564027,Hellraiser ,0,blood|cenobites|creature|demon|male full frontal nudity
+Harold Cronk,120,20773070,God's Not Dead 2 ,11,alternate universe|christian|christian film|christianity|manipulation
+Jeff Wadlow,90,10042266,Cry_Wolf ,0,e mail|game|school|serial killer|student
+Takao Okawara,99,10037390,Godzilla 2000 ,0,godzilla|kaiju|monster|orga|ufo
+Derek Cianfrance,112,9701559,Blue Valentine ,0,dog hit by a car|dysfunctional family|falling in love|female in shower|unhappily married woman
+Duncan Tucker,103,9013113,Transamerica ,2,bail|male full frontal nudity|sex change|stepfather|transsexual
+William Brent Bell,83,53245055,The Devil Inside ,0,critically bashed|demonic possession|exorcism|exorcist|found footage
+Russ Meyer,109,9000000,Beyond the Valley of the Dolls ,8,band|drugs|friendship|hollywood|satire
+Robert D. Webb,89,,Love Me Tender ,1,army|civil war|robbery|soldier|train
+Davis Guggenheim,96,23808111,An Inconvenient Truth ,0,climate|earth|global warming|science|truth
+Allan Dwan,109,,Sands of Iwo Jima ,0,battle|combat|heroic military|sergeant|tarawa
+Martin Scorsese,122,5355376,Shine a Light ,0,band|concert footage|new york city|rolling stones|three word title
+Eli Roth,100,7186670,The Green Inferno ,0,activist|amazon|color in title|rain|rain forest
+Andrew Steggall,109,,Departure ,0,france|gay|language|male masturbation|masturbation
+Ben Lewin,95,5997134,The Sessions ,3,falling in love|iron lung|priest|sex surrogate|therapist
+Robert Kenner,94,4417124,"Food, Inc. ",0,farming|flesh eating|food|food industry|gluttony
+Andrew Erwin,107,5355847,October Baby ,1,abortion|anti choice|christian preach|malpractice|unprofessional conduct
+Brad Anderson,104,3386698,Next Stop Wonderland ,1,love|marine biologist|nurse|personal ad|plumber
+Jason Reitman,96,143492840,Juno ,0,adoption|baby|friend|pregnancy|school
+Craig Johnson,93,5283379,The Skeleton Twins ,2,adultery|brother sister relationship|estrangement|siblings|suicide attempt
+Sean Durkin,102,2981638,Martha Marcy May Marlene ,0,connecticut|cult|memory|new york|telephone call
+Gillian Robespierre,84,3122616,Obvious Child ,1,abortion|divorced parents|one night stand|pregnancy|pregnant
+Courtney Hunt,97,2508841,Frozen River ,1,border|mohawk|money|new york|river
+Morgan Neville,91,4946250,20 Feet from Stardom ,0,backup singer|band|bechdel test passed|concert footage|singer
+James Toback,84,1950218,Two Girls and a Guy ,3,actor|anilingus|double cross|funeral home|two timing
+Nicole Holofcener,86,1277257,Walking and Talking ,2,briefs|cancer|cat|cult film|friend
+Peter Cattaneo,91,45857453,The Full Monty ,3,dole|male stripper|northern england|steel worker|unemployment
+Chris Paine,92,1677838,Who Killed the Electric Car? ,0,california|car|reference to ralph nader|technology|u.s. president
+Greg Berlanti,94,1744858,The Broken Hearts Club: A Romantic Comedy ,1,friend|gay|lesbian|photographer|restaurant
+Don Coscarelli,92,,Bubba Ho-Tep ,2,cult film|elvis|elvis presley|nursing home|texas
+Rob Letterman,103,80021740,Goosebumps ,4,based on book|blob|ferris wheel|manuscript|monster
+Marc Levin,100,982214,Slam ,0,gang|independent film|prison|racial slur|urban setting
+Richard Dutcher,119,798341,Brigham City ,0,fbi agent|mormon|prayer|sheriff|utah
+Khalid Mohamed,167,610991,Fiza ,3,mumbai riots|politician|riot|suicide|tragic event
+Mel Brooks,92,,History of the World: Part I ,0,french revolution|old testament|part of an unfinished series|reference to john wayne|roman emperor
+Trey Parker,92,582024,Orgazmo ,0,book of mormon|fight|mormon|ray gun|sidekick
+David Gordon Green,108,548712,All the Real Girls ,0,best friend|lake|love|small town|womanizer
+Finn Taylor,97,464655,Dream with the Fishes ,0,dying|to do list|twenty something|underwear|voyeur
+Karen Moncrieff,88,464126,Blue Car ,0,contest|poetry|refusing to eat|starving oneself|teenage girl
+José Luis Valenzuela,100,428535,Luminarias ,1,divorce|friend|jewish|lent|restaurant
+Gia Coppola,100,750100,Palo Alto ,0,girls' soccer|high school|high school student|soccer coach|teenager
+Scandar Copti,124,621240,Ajami ,6,arab|christian|israeli|palestinian|violence
+Goran Dukic,88,104077,Wristcutters: A Love Story ,2,afterlife|camping|death|hitchhiker|suicide
+Mike Cahill,106,334658,I Origins ,0,buddhism|evolution|eye|reincarnation|stuck in elevator
+Efram Potelle,79,279282,The Battle of Shaker Heights ,2,bully comeuppance|high school|painter|reference to led zeppelin|wetting pants
+Peter Jackson,135,43982842,The Lovely Bones ,1,1970s|afterlife|heaven|pedophile|rape
+Joshua Oppenheimer,96,484221,The Act of Killing ,1,death squad|mass killing|musical number|reference to guantanamo bay|surrealism
+Alex Gibney,53,274661,Taxi to the Dark Side ,0,afghanistan|detainee|guantanamo bay|taxi|torture
+Paul Crowder,97,144431,Once in a Lifetime: The Extraordinary Story of the New York Cosmos ,0,new york|new york cosmos|professional sports|soccer|soccer team
+Rohit Jagessar,120,227241,Guiana 1838 ,0,bare chested male|discipline|imperialism|whipping|white slavery
+Griffin Dunne,90,112521,Lisa Picard Is Famous ,1,actress|fame|inside joke|new york|one man show
+Anthony Powell,91,287761,Antarctica: A Year on Ice ,1,antarctica
+Kief Davidson,93,100240,A Lego Brickumentary ,0,artist|denmark|lego|toy|toy company
+Johnny Remo,112,96734,Hardflip ,3,family relationships|loss of mother|san diego california|single mother|suicide attempt
+Vivek Agnihotri,160,49000,Chocolate: Deep Dark Secrets ,5,chocolate|christmas|christmas eve|death|suspect
+Ti West,95,100659,The House of the Devil ,0,cult film|eclipse|haunted house|lunar eclipse|secret
+Nick Tomnay,93,48430,The Perfect Host ,1,arm tattoo|bank robbery|cauterizing a wound|dancing on a table|dinner party
+John Hamburg,88,21210,Safe Men ,0,gangster|organized crime|robbery|rosh hashanah|safecracking
+Nickolas Perry,105,,Speedway Junky ,2,car racing|crush|hustler|scam|watching television
+Dan Zukovic,98,22434,The Last Big Thing ,1,actor|magazine|model|rock band|suburb
+Craig Mazin,82,12996,The Specials ,0,action figure|press conference|superhero|superhero team|toy
+Becky Smith,89,,16 to Life ,1,birthday|digit in title|love|masturbation|teenager
+Eric Nicholas,78,10018,Alone with Her ,0,female nudity|female pubic hair|masturbation|panties|pubic hair
+Benjamin Dickinson,97,62480,Creative Control ,1,art exhibition|augmented reality|cocaine|nervous breakdown|speculative fiction
+Hal Haberman,81,6387,Special ,0,dream sequence|locked in a room|looking at self in mirror|medication|superhero
+Darren Stein,90,5494,Sparkler ,3,automobile association of america|cheating|psychic|reference to tom jones the singer|trailer park
+A. Raven Cruz,97,,The Helix... Loaded ,2,cnn reporter|ellipsis in title|matrix|punctuation in title|secret agent
+Brian Trenchard-Smith,88,721,In Her Line of Fire ,2,camp|die hard scenario|female protagonist|island|vice president
+Frank Whaley,96,703,The Jimmy Show ,3,based on play|character name in title
+Amat Escalante,105,,Heli ,0,corrupt police|drug cartel|drugs|mexico|police
+Wajahat Rauf,,,Karachi se Lahore ,9,pakistan|road trip
+Katherine Brooks,76,,Loving Annabelle ,0,older woman younger woman relationship|sex with student|teacher|teacher student relationship|title directed by female
+David Cross,96,,Hits ,1,courtroom|independent film|internet|small town|youtube
+Randall Rubin,99,,Jimmy and Judy ,2,police|revenge|sex|suburb|video camera
+Robert Bennett,90,,Frat Party ,4,erotica|masseuse|sister sister relationship|temptation|threesome
+Guy Hamilton,94,,The Party's Over ,1,beatnik|businessman|necrophilia|party|partying
+Mary Pat Kelly,87,,Proud ,2,
+Lori Petty,93,,The Poker House ,3,basketball|drug abuse|interracial rape|iowa|tween girl
+Charlie Levi,90,,Childless ,5,
+Kevin Hamedani,89,,ZMD: Zombies of Mass Destruction ,0,cult|homosexual|island|survival horror|zombie
+David DeCoteau,83,,Snow White: A Deadly Summer ,1,reference to snow white|sleeping bag|stepmother stepdaughter relationship|strangulation|totem pole
+Mikel Rueda,96,,Hidden Away ,0,best friend|deportation|moroccan|unrequited love|xenophobia
+Stefan C. Schaefer,90,,My Last Day Without You ,1,business trip|german|love|new york|singer songwriter
+Michael Taliferro,138,,Steppin: The Movie ,6,
+David DeCoteau,84,,Doc Holliday's Revenge ,3,1880s|cowboy|low budget film|shoot out|wild west
+Katie Aselton,83,,Black Rock ,1,bare breasts|female frontal nudity|hunter|island|weekend
+Robert Heath,96,,Truth or Die ,2,cabin in the woods|drinking acid|introvert|lesbian kiss|truth or dare
+D. Stevens,94,,The Pet ,0,dominance submissiveness|female nudity|human branding|human pet|power exchange
+Jeffrey St. Jules,90,,Bang Bang Baby ,2,
+Robert Hall,95,,Fear Clinic ,0,bare breasts|based on web series|claustrophobia|doctor|phobia
+K. King,93,,Zombie Hunter ,2,desert|drifter|seduction|siege|zombie
+Jonathan Meyers,111,,A Fine Step ,0,
+Danny Boyle,101,2319187,Trance ,0,amnesia|criminal|heist|hypnotherapy|lost painting
+Ralph Nelson,103,,Charly ,0,disability|experiment|genius|intelligence|mouse
+Blair Erickson,87,,Banshee Chapter ,1,experiment|lsd|missing friend|mk ultra|radio broadcast
+,30,,Jesse             ,8,1990s|brother sister relationship|female protagonist|single mother|sitcom
+Allison Burnett,100,,Ask Me Anything ,1,bare breasts|female protagonist
+Richard Schenkman,90,,And Then Came Love ,1,facebook|imdb|mediaatlarge.com|mediaatlargellc|sperm donor
+Sanjay Rawal,83,,Food Chains ,0,two word title
+Elia Kazan,108,9600000,On the Waterfront ,2,death|dock|longshoreman|murder|union
+Kat Coiro,100,20186,L!fe Happens ,8,friendship|los angeles california|one night stand|roommate|single mother
+Cristian Mungiu,113,1185783,"4 Months, 3 Weeks and 2 Days ",0,female rear nudity|friend|hotel|rainy night|towel
+Brian Dorton,97,,The Horror Network Vol. 1 ,0,anthology
+David Slade,104,1007962,Hard Candy ,0,chatting|missing person poster|online dating|photographer|sexual predator
+Jamie Babbit,91,381186,The Quiet ,0,deaf|death|dysfunctional family|godparent|secret
+Maryam Keshavarz,107,439958,Circumstance ,1,closeted lesbian|iranian|islamophobia|propaganda|teenager
+Ryan Coogler,85,16097842,Fruitvale Station ,0,22 year old|b.a.r.t.|bay area|birthday|police
+Ramaa Mosley,101,6643,The Brass Teapot ,2,mini dress|mini skirt|money|voyeur|voyeurism
+James Algar,70,102797150,Bambi ,0,animal|bambi|deer|forest|hunter
+Charles Herman-Wurmfeld,88,442638,The Hammer ,1,birthday|boxing|coach|gym|olympics
+Ric Roman Waugh,112,42919096,Snitch ,1,cigarette smoking|dea|drugs|inspired by true events|undercover
+C. Jay Cox,107,819939,Latter Days ,2,christian|male frontal nudity|mormon|mormon missionary|nudity
+Mariette Monpierre,78,,Elza ,1,foreign|french
+Tommy Oliver,90,,1982 ,4,number in title|semi autobiographical
+Jamie Travis,88,1243961,"For a Good Time, Call... ",0,friend|friendship|gay|phone sex|sex
+Lee Toland Krieger,92,3094687,Celeste & Jesse Forever ,2,best friends|friendship|masturbation|reference to matthias steiner|single
+Rich Christiano,95,15278,Time Changer ,1,bible|christian propaganda|christianity|time machine|zealot
+Paul Andrew Williams,85,,London to Brighton ,0,bathroom|chase|girl|pimp|toilet
+Nick Love,86,,American Hero ,2,father son relationship|female nudity|mother daughter relationship|reconciliation|superhero
+Natalie Bible',90,,Windsor Drive ,1,
+Asghar Farhadi,123,7098492,A Separation ,2,alzheimer's disease|caregiver|divorce|iran|iranian
+Justin Molotnikov,93,,Crying with Laughter ,1,cocaine|edinburgh scotland|stand up comedian
+Todd Solondz,88,4771000,Welcome to the Dollhouse ,1,bully|first crush|school|social outcast|taunting
+Victor Nunez,114,1001437,Ruby in Paradise ,1,desire|florida|identity|resort town|sales
+Peter Sollett,88,2073984,Raising Victor Vargas ,1,based on short film|manhattan new york city|urination|vomiting|watching television
+Georg Wilhelm Pabst,110,9950,Pandora's Box ,1,escape|femme fatale|german expressionism|lust|violence
+Daniel Davila,95,,Harrison Montgomery ,2,abusive relationship|character name in title|magic|san francisco california|tenderloin san francisco
+Jorge Gaggero,83,,Live-In Maid ,0,buenos aires argentina|economics|housekeeper|maid|servant
+Rod Lurie,104,144583,Deterrence ,0,colorado|diner|iraq|nuclear missile|president
+Michael Burke,94,,The Mudge Boy ,1,death|farm|fur coat|grief|misfit
+Catherine Jelski,87,58163,The Young Unknowns ,0,based on play|independent film
+Shane Dawson,93,35688,Not Cool ,4,
+Tommy Wirkola,91,41709,Dead Snow ,0,medical student|nazi|snow|snowmobile|zombie
+Ryan Little,90,1310270,Saints and Soldiers ,0,ardennes forest|battle of the bulge|behind enemy lines|winter|world war two in belgium
+Clark Baker,14,,Vessel ,1,alien|flight attendant|monster|pilot|tentacle
+George Lucas,112,115000000,American Graffiti ,1,california|car|drag racing|high school|rock 'n' roll
+Robert Greenwald,75,,Iraq for Sale: The War Profiteers ,0,american politics|armed forces|political corruption|shady|war profiteer
+Matt Maiellaro,86,5518918,Aqua Teen Hunger Force Colon Movie Film for Theaters ,0,based on cult tv series|critically acclaimed|exercise machine|midnight movie|robot
+Colin Trevorrow,86,4007792,Safety Not Guaranteed ,0,classified ad|intern|magazine|time machine|time travel
+Leslie Small,89,7705974,Kevin Hart: Laugh at My Pain ,1,stand up comedy
+Ben Wheatley,95,26297,Kill List ,0,female full frontal nudity|hitman|knee breaking|male full frontal nudity|sniper
+Ti West,101,77501,The Innkeepers ,0,bathtub|dead body in a bathtub|dead body in bathtub|hotel|inn
+David S. Goyer,89,42638165,The Unborn ,1,babysitting|experiment|nightmare|possession|twin
+Bernardo Bertolucci,106,,The Conformist ,1,fascist|gun|italy|nudity|sexuality
+Neil Burger,88,47329,Interview with the Assassin ,0,conspiracy theory|kennedy assassination|mock documentary|paranoia
+Oliver Blackburn,99,18378,Donkey Punch ,0,male frontal nudity|male nudity|male pubic hair|male rear nudity|spain
+Jonathan Levine,90,,All the Boys Love Mandy Lane ,1,drugs|female nudity|party|voyeur|voyeurism
+Christopher Hutson,95,,Bled ,0,artist|blood|drug|tree sap|vampire
+Fred Zinnemann,85,,High Noon ,0,appeasement|frontier justice|justice|one against many|street shootout
+Steve James,170,7830611,Hoop Dreams ,0,athlete|basketball|high school|high school student|school
+David LaChapelle,86,3278611,Rize ,0,clown|clowning|dance|gang|south central los angeles
+Joseph Kosinski,,,Destiny ,0,first person shooter
+Michael Cuesta,97,1141829,L.I.E. ,1,ephebophile|pederasty|pedophilia|playing hooky|shaving
+Caryn Waechter,104,,The Sisterhood of Night ,,accused of witchcraft|based on short story
+Emily Dell,88,,B-Girl ,0,brooklyn new york city|los angeles california|teacher|trauma|violence
+Peter Jackson,201,218051260,King Kong ,0,animal name in title|ape abducts a woman|gorilla|island|king kong
+Jaume Collet-Serra,108,32048809,House of Wax ,0,brother sister relationship|group of friends|male nudity|twin|wax
+Ryan Fleck,106,2694973,Half Nelson ,2,bathroom|classroom|dialectics|drugs|student
+Jennifer Wynne Farmer,107,10508,Naturally Native ,4,cosmetics|female protagonist|native american|native american protagonist|sister sister relationship
+Christopher Scott Cherot,84,2301777,Hav Plenty ,2,friend|new year's eve|screwball|self discovery|social differences
+H.M. Coakley,91,,Adulterers ,3,cheating husband|female nudity|male nudity|male rear nudity|revenge
+Randy Moore,90,169719,Escape from Tomorrow ,0,diarrhea|female nudity|middle aged man|sex scene|sexy nurse
+Chris Atkins,103,,Starsuckers ,0,celebrity|consumerism|fashion|media manipulation
+Bill Benenson,71,,The Hadza: Last of the First ,1,east africa|hunter gatherer|indigenous|rift valley|swahili
+Ryan Smith,90,,After ,0,coma|crash
+Travis Romero,67,,Treachery ,5,panties|white panties
+Anna Mastro,94,,Walter ,2,based on short film|based on short story
+Mark Sandrich,81,3000000,Top Hat ,2,dance|dancer|dancing|horse|tap dancing
+Daniel Myrick,81,140530114,The Blair Witch Project ,0,found footage|looking at the camera|lost in the woods|maryland|screaming in horror
+Michael Wadleigh,215,13300000,Woodstock ,0,drugs|hippie|music festival|the who|woodstock
+John Landis,83,,The Kentucky Fried Movie ,0,fake commercial|fake newscast|fake trailer|parody|spoof
+Jon Gunn,106,171988,Mercy Streets ,1,church|cigarette smoking|deacon|twin brother|twins
+Gene Teigland,103,23616,Arnolds Park ,4,
+Scott Ziehl,90,13493,Broken Vessels ,0,independent film|katana sword|los angeles storm drain
+Richard Montoya,88,79043,Water & Power ,0,
+Johanna Schwartz,105,,They Will Have to Kill Us First ,3,
+William Gazecki,115,,Crop Circles: Quest for Truth ,0,crop circle|intelligence|paranormal|phenomenon|universe
+Lance McDaniel,90,,Light from the Darkroom ,0,china|faith|panama|photography|suspense
+Thomas Lilti,102,,Irreplaceable ,2,doctor|hospital|mayor|no opening credits|title at the end
+Michael Walker,98,,The Maid's Room ,0,
+Richard Lester,87,515005,A Hard Day's Night ,1,boy|concert|drummer|manager|television
+U. Roberto Romano,80,2245,The Harvest/La Cosecha ,0,child labor|education|hispanic|labor|migration
+Amy Holden Jones,88,,Love Letters ,1,1980s|affair|female protagonist|radio|woman wearing only a man's shirt
+Blaz Zavrsnik,83,,Julija in alfa Romeo ,6,
+Alex Kendrick,122,33451479,Fireproof ,0,christian film|dare|firefighter|internet pornography|marriage
+Pan Nalin,115,,Faith Connections ,1,faith|ganja|kumbh mela|little boy|orphan
+Joe Camp,86,39552600,Benji ,0,animal abuse|cat|dog|dog movie|tween girl
+Chris Kentis,79,30500882,Open Water ,1,bare chested male|female full frontal nudity|hairy chest|male full frontal nudity|nude with glasses
+Matt Walsh,87,,High Road ,6,
+John 'Bud' Cardos,97,17000000,Kingdom of the Spiders ,0,death|farm|hotel|spider|tarantula
+Marilyn Agrelo,105,8044906,Mad Hot Ballroom ,2,ballroom dancing|new york city|poise|self confidence|teacher
+Tom McCarthy,89,5739376,The Station Agent ,0,abandoned|depot|dwarf|newfoundland new jersey|train
+Brian Baugh,120,3773863,To Save a Life ,1,basketball|beer pong|childhood friend|christian|suicide
+Patrick Creadon,94,3117666,Wordplay ,0,comedian|crossword puzzle|editor|new york times|puzzle
+Barry W. Blaustein,108,2047570,Beyond the Mat ,3,championship|drugs|three word title|wrestler|wrestling
+Kurt Hale,102,1250798,The Singles Ward ,0,church|love|marriage|mormon|single
+Siddiq Barmak,83,1127331,Osama ,1,boy|girl|hair|school|taliban
+Joseph Dorman,93,906666,Sholem Aleichem: Laughing in the Darkness ,1,jewish identity
+Greg Harrison,86,1114943,Groove ,0,dj|ecstasy the drug|rave|raver|warehouse
+Kurt Hale,101,1111615,The R.M. ,0,latter day saints|missionary|pickup truck|police|video camera
+Michael Polish,111,985341,Twin Falls Idaho ,0,conjoined twins|independent film|low budget film|separation|twin
+Jacob Aaron Estes,90,603943,Mean Creek ,0,boat|bully|dare|friend|river

@@ -1,342 +1,236 @@
-num_critic_for_reviews,duration,language,aspect_ratio,movie_facebook_likes
-57,90,English,1.85,0
-14,89,English,2.35,369
-159,116,English,1.85,0
-181,120,English,1.66,10000
-110,88,English,1.85,0
-213,102,English,1.37,14000
-129,106,English,1.85,14000
-280,95,English,1.85,0
-15,144,Hindi,2.35,349
-61,113,English,1.66,381
-33,118,English,1.85,0
-1,141,Panjabi,,50
-2,90,Danish,1.85,77
-27,109,English,1.85,573
-19,95,Dutch,1.85,121
-9,122,English,1.37,116
-121,93,English,2.35,12000
-166,97,English,1.85,0
-269,82,Polish,1.33,17000
-29,140,English,1.66,963
-20,86,English,,323
-107,109,English,1.85,1000
-74,105,English,,0
-173,66,Spanish,1.85,0
-5,99,Mandarin,2.35,30
-66,100,English,1.85,254
-169,103,English,1.37,0
-13,97,English,,10000
-129,86,English,1.85,0
-30,87,English,1.85,0
-220,119,English,1.85,3000
-75,149,English,1.37,0
-162,98,English,2.35,0
-74,98,English,2.35,819
-65,112,English,2.35,1000
-26,75,English,1.85,0
-63,104,English,1.78,0
-205,102,English,2.35,0
-121,105,English,1.85,22000
-9,99,French,1.85,39
-74,107,English,2.35,500
-54,96,English,1.85,774
-80,101,English,2.35,430
-252,89,English,2.35,13000
-72,106,English,1.85,0
-220,95,English,2.35,10000
-1,34,English,,16
-197,101,English,1.78,24000
-14,112,English,1.85,588
-3,100,English,1.85,144
-191,92,English,2.35,0
-18,100,English,1.85,140
-28,80,English,1.78,0
-22,106,English,2.35,0
-62,103,German,2.35,560
-47,90,Spanish,1.85,0
-238,96,English,1.85,19000
-2,89,English,,190
-95,87,English,2.35,0
-10,94,English,,89
-28,120,English,1.85,352
-25,101,English,2.35,250
-121,84,English,1.85,79000
-10,110,English,,0
-172,101,English,1.85,11000
-20,101,English,2.35,0
-8,101,English,1.37,144
-8,105,English,1.85,566
-15,97,English,1.85,500
-14,108,English,1.33,438
-12,95,English,2.35,279
-48,108,English,,0
-17,90,English,,0
-99,120,English,1.37,3000
-138,104,English,1.85,0
-,90,English,,224
-235,91,English,2.35,0
-160,92,English,1.85,1000
-18,117,English,1.85,285
-11,120,English,,13000
-11,90,English,,77
-7,119,English,1.37,68
-5,90,English,,452
-10,90,English,1.85,172
-5,97,English,,107
-95,90,English,1.85,870
-97,172,English,1.37,0
-76,115,English,1.85,0
-67,89,Norwegian,1.85,0
-4,125,English,2.35,305
-252,78,Spanish,1.85,15000
-,89,English,1.78,162
-1,100,English,2.39,14
-33,77,English,,275
-19,81,English,2.35,380
-167,115,English,1.37,0
-49,96,English,1.33,321
-1,60,English,1.33,763
-66,89,English,1.85,0
-533,100,English,2.35,45000
-50,88,English,1.85,0
-127,129,English,1.85,15000
-177,87,English,2.35,0
-77,102,Cantonese,2.35,0
-103,152,English,1.66,0
-123,118,English,1.85,0
-218,86,English,1.85,0
-215,137,German,2.35,39000
-34,129,English,2.35,10000
-100,134,English,2.35,0
-12,119,English,1.37,236
-167,80,French,1.66,0
-56,89,English,1.85,0
-180,101,English,1.85,0
-211,80,English,1.85,13000
-157,115,Spanish,1.85,11000
-126,100,English,1.85,0
-61,118,English,1.37,0
-365,100,English,1.85,20000
-121,106,English,1.85,0
-10,106,English,1.37,60
-151,91,English,1.85,0
-171,105,English,2.35,63000
-158,96,English,1.85,0
-167,116,English,1.85,0
-118,116,English,1.85,0
-39,97,English,1.85,0
-108,101,English,1.85,134
-65,98,English,1.85,0
-8,22,English,4.0,558
-85,150,English,2.2,0
-160,101,English,1.78,0
-231,90,Hebrew,1.85,0
-7,120,English,1.85,32
-79,102,English,1.85,0
-168,102,English,2.35,0
-1,60,English,1.33,43
-107,100,English,1.85,0
-200,104,English,1.33,0
-123,89,English,1.85,592
-39,99,English,1.85,495
-41,96,English,,166
-46,86,English,1.85,974
-30,98,French,2.35,739
-46,96,English,1.85,857
-221,94,English,1.85,17000
-51,91,English,1.85,0
-1,,Hindi,,10
-58,90,English,2.35,0
-45,85,English,2.35,407
-44,96,English,1.85,224
-74,129,English,2.35,0
-20,60,English,1.78,3000
-6,93,Hindi,2.35,39
-5,100,English,1.85,61
-10,97,English,2.35,715
-81,94,English,2.35,0
-66,95,English,1.85,195
-46,97,English,1.85,810
-34,92,English,2.35,0
-78,96,English,1.85,474
-52,85,English,1.85,215
-29,87,English,,0
-161,91,English,2.35,0
-18,99,English,1.78,604
-107,88,English,2.35,0
-30,119,English,2.35,1000
-24,99,English,2.35,205
-116,92,English,1.78,0
-98,86,English,1.85,0
-25,83,English,2.35,0
-,81,English,,0
-40,82,English,1.37,0
-20,102,English,,115
-8,90,English,2.35,44
-19,30,English,1.33,1000
-90,92,English,1.37,0
-21,88,English,1.78,153
-12,97,English,2.35,912
-33,96,English,1.85,0
-9,87,English,2.35,0
-94,106,English,2.35,655
-41,107,English,,825
-38,80,German,1.66,200
-12,91,English,,0
-25,99,English,1.85,805
-27,102,English,,69
-2,108,English,,651
-23,88,English,,0
-32,89,English,,0
-18,92,English,,728
-45,99,English,1.85,0
-60,103,English,2.35,298
-23,90,English,1.78,620
-363,95,English,2.35,24000
-249,97,English,1.85,17000
-68,108,Arabic,1.85,0
-14,95,French,1.85,104
-359,100,English,2.35,39000
-15,160,Hindi,,1000
-256,101,English,1.85,10000
-194,90,English,1.85,0
-,86,English,,213
-10,89,English,1.85,1000
-311,87,English,1.85,0
-205,98,English,2.35,10000
-94,125,English,1.37,5000
-192,95,English,1.66,18000
-85,118,Spanish,1.85,544
-663,93,English,1.85,31000
-62,96,English,2.35,511
-39,109,English,1.85,0
-68,109,English,1.85,952
-3,155,Tamil,,82
-130,90,English,,0
-13,93,English,1.78,266
-44,108,Dzongkha,1.85,353
-26,114,English,1.85,0
-27,87,English,1.37,169
-53,113,English,2.35,368
-,87,English,,8
-10,90,English,,566
-4,111,English,1.85,569
-181,81,German,1.85,0
-114,93,English,1.85,0
-11,90,English,,326
-1,112,English,1.85,73
-75,106,Spanish,1.85,0
-80,88,English,2.35,794
-179,138,English,2.35,951
-225,105,English,2.35,17000
-77,98,English,1.85,374
-124,86,English,1.85,869
-195,104,Hindi,2.35,16000
-76,100,English,1.85,305
-51,126,English,1.37,0
-101,118,English,1.37,0
-55,103,English,1.37,721
-15,102,English,,0
-16,84,English,,43
-5,,English,2.35,588
-109,95,Arabic,1.85,0
-40,92,English,2.35,844
-51,90,Hebrew,,0
-149,113,English,1.37,6000
-4,,English,,9
-35,123,French,2.35,278
-22,111,English,2.35,63
-68,99,English,,2000
-287,110,English,2.35,7000
-173,108,English,1.85,0
-61,92,English,1.85,0
-96,120,English,1.37,0
-71,91,English,1.85,0
-110,88,English,1.85,0
-110,97,English,1.85,682
-101,95,Mandarin,2.35,784
-2,90,,,0
-97,95,English,1.37,0
-53,103,English,1.85,619
-106,110,English,1.85,0
-445,103,English,2.35,60000
-131,92,English,1.85,0
-94,114,Spanish,1.85,0
-105,101,Hebrew,1.85,0
-75,112,English,1.66,608
-97,104,English,1.78,0
-37,99,English,1.85,853
-84,98,English,1.66,0
-88,107,English,2.35,415
-6,93,English,2.35,307
-127,100,English,2.35,0
-32,80,English,1.85,0
-8,94,English,,0
-229,93,English,1.85,0
-120,87,English,1.37,0
-31,91,English,1.85,304
-100,84,English,1.85,0
-14,90,English,1.85,68
-14,98,English,,212
-39,108,English,1.85,216
-35,124,English,,594
-178,95,English,2.35,0
-46,90,English,2.35,371
-,93,English,,132
-234,101,English,2.35,15000
-166,107,English,2.35,10000
-56,20,English,1.85,0
-16,87,English,,193
-9,98,English,1.89,283
-18,112,English,2.35,0
-4,82,English,,236
-,102,English,1.85,232
-6,97,English,2.35,402
-387,130,English,2.35,38000
-35,101,English,,750
-27,93,English,,135
-145,83,English,1.37,0
-78,106,Spanish,1.85,57
-10,113,English,2.35,209
-60,94,English,1.85,400
-9,101,English,2.35,724
-63,99,English,2.35,969
-92,76,French,1.33,389
-4,91,English,,223
-53,105,English,1.85,0
-116,120,English,1.85,21000
-,105,English,,32
-13,120,English,4.0,533
-98,105,Danish,1.33,5000
-43,95,English,1.85,872
-15,135,Vietnamese,1.85,100
-14,105,English,1.85,117
-56,83,English,,932
-79,111,English,2.35,0
-8,60,English,1.33,963
-16,135,English,2.35,0
-18,88,English,1.85,220
-35,87,English,1.85,3000
-5,97,English,2.35,66
-16,82,English,1.85,0
-24,103,English,2.35,969
-144,130,English,1.37,0
-242,87,English,1.85,0
-97,101,English,1.37,0
-77,96,English,1.85,0
-16,80,English,2.35,0
-7,87,English,1.78,381
-74,92,English,1.37,1000
-74,118,English,1.37,0
-19,27,English,,632
-46,123,English,2.35,447
-58,100,English,1.85,2000
-287,103,English,1.85,0
-100,100,English,1.85,0
-5,99,English,1.85,221
-50,89,Spanish,,407
-276,104,English,2.35,0
-137,114,Hindi,1.85,0
-122,111,English,1.85,756
-73,99,English,1.5,0
+director_facebook_likes,actor_2_name,gross,genres,movie_title,num_voted_users,cast_total_facebook_likes,actor_3_name,plot_keywords,num_user_for_reviews,budget,title_year,actor_2_facebook_likes,aspect_ratio
+25,Dan Fogler,21379315,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Mars Needs Moms ,17590,2652,Tom Everett Scott,boy|martian|rescue|robot|sexism,112,150000000,2011,562,2.35
+42,Kate Winslet,64459316,Adventure|Animation|Comedy|Family,Flushed Away ,85086,35161,David Suchet,boat|frog|rat|sewer|toad,122,149000000,2006,14000,1.85
+456,Cara Delevingne,34964818,Adventure|Family|Fantasy,Pan ,39956,21393,Nonso Anozie,1940s|child hero|fantasy world|orphan|reference to peter pan,186,150000000,2015,548,2.35
+50,Zach Callison,111505642,Adventure|Animation|Comedy|Family|Sci-Fi,Mr. Peabody & Sherman ,47900,5810,Karan Brar,dog|father son relationship|inventor|talking dog|time travel,130,145000000,2014,1000,1.85
+249,Orlando Bloom,133228348,Adventure,Troy ,381672,17944,Julian Glover,greek|mythology|prince|trojan|troy,1694,175000000,2004,5000,2.35
+35,Martin Short,216366733,Adventure|Animation|Comedy|Family,Madagascar 3: Europe's Most Wanted ,119213,2444,Cedric the Entertainer,animal|circus|island name in title|lemur|penguin,154,145000000,2012,770,1.85
+93,Colin Salmon,160201106,Action|Adventure|Thriller,Die Another Day ,169914,2538,Rick Yune,catfight|clinic|colonel|diamond|patricide,1185,142000000,2002,766,2.35
+176,Kate McKinnon,118099659,Action|Comedy|Fantasy|Sci-Fi,Ghostbusters ,69757,2097,Zach Woods,ghost|ghostbuster|ghostbusters|male objectification|reboot,1211,144000000,2016,370,2.35
+0,Steve Buscemi,201573391,Action|Adventure|Sci-Fi|Thriller,Armageddon ,322395,26029,Will Patton,asteroid|astronaut|bomb|meteorite|outer space,1171,140000000,1998,12000,2.35
+188,Rosario Dawson,190418803,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Men in Black II ,270207,14823,Rip Torn,alien|lingerie|lingerie model|m.i.b.|pug,606,140000000,2002,3000,1.85
+0,Anthony Hopkins,82161969,Action|Adventure|Animation|Fantasy,Beowulf ,142440,31523,Sebastian Roché,creature|demon|king|reward|warrior,505,150000000,2007,12000,2.35
+5,Angelina Jolie Pitt,143523463,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda 3 ,64322,36095,Wayne Knight,china|kung fu|panda|pig|village,145,145000000,2016,11000,2.35
+663,Jeremy Renner,209364921,Action|Adventure|Thriller,Mission: Impossible - Ghost Protocol ,365104,21768,Michael Nyqvist,dubai|kremlin|race against time|russian|terrorist,512,145000000,2011,10000,2.35
+52,Kamil McFadden,103400692,Adventure|Animation|Family|Fantasy,Rise of the Guardians ,123553,20645,Khamani Griffin,belief|box office hit|children|new york city|tooth,174,145000000,2012,315,1.85
+23,Richard Burgi,110332737,Comedy|Crime,Fun with Dick and Jane ,110788,1997,David Herman,animal abuse|ceo|heist|suburb|unemployment,258,100000000,2005,550,2.35
+380,Tony Goldwyn,111110575,Action|Drama|History|War,The Last Samurai ,317166,11945,Chad Lindberg,captain|emperor|honor|japan|samurai,928,140000000,2003,956,2.35
+0,María Valverde,65007045,Action|Adventure|Drama,Exodus: Gods and Kings ,128682,26490,Ben Mendelsohn,egypt|exodus|moses|pharaoh|plague,657,140000000,2014,893,2.35
+14000,Leonard Nimoy,257704099,Action|Adventure|Sci-Fi,Star Trek ,504419,39284,Bruce Greenwood,box office hit|future|lifted by the throat|star trek|vulcan,1559,150000000,2009,12000,2.35
+0,James Franco,403706375,Action|Adventure|Fantasy|Romance,Spider-Man ,544665,40484,Kirsten Dunst,evil|goblin|spider|spider man|superhero,2012,139000000,2002,11000,1.85
+255,Djimon Hounsou,176997107,Action|Adventure|Animation|Comedy|Family|Fantasy,How to Train Your Dragon 2 ,221128,23378,America Ferrera,dragon|father son relationship|husband wife relationship|mother son relationship|viking,343,145000000,2014,3000,2.35
+295,Elodie Yung,31141074,Action|Adventure|Fantasy,Gods of Egypt ,51892,19769,Bryan Brown,ancient egypt|egypt|egyptian|egyptian god|egyptian goddess,273,140000000,2016,934,2.35
+357,Joe Morton,31704416,Action|Adventure|Sci-Fi|Thriller,Stealth ,45455,2705,Richard Roxburgh,artificial intelligence|box office flop|fighter jet|navy|pilot,388,135000000,2005,780,2.35
+0,Billy Crudup,107503316,Action|Drama|Mystery|Sci-Fi,Watchmen ,392474,2530,Stephen McHattie,conspiracy|cynicism|false promise of the american dream|male full frontal nudity|male nudity,1229,130000000,2009,745,2.35
+503,Rene Russo,129734803,Action|Crime|Thriller,Lethal Weapon 4 ,127497,6171,Darlene Love,kung fu|lapd|martial arts|private investigator|triad,287,140000000,1998,808,2.35
+0,Regi Davis,132122995,Action|Sci-Fi,Hulk ,212106,1814,Celia Weston,1980s|c 130 hercules|monster|panzer|san francisco california,1445,137000000,2003,300,1.85
+209,Dwayne Johnson,122512052,Action|Adventure|Sci-Fi|Thriller,G.I. Joe: Retaliation ,146352,31958,Elodie Yung,general|gi joe|martial arts|ninja|president,288,130000000,2013,12000,2.35
+42,Rainn Wilson,68642452,Action|Adventure|Comedy|Thriller,Sahara ,77673,13073,Delroy Lindo,beach|civil war|desert|dictator|ship,463,130000000,2005,973,2.35
+6,Ming-Na Wen,32131830,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Final Fantasy: The Spirits Within ,72259,15015,Jean Simmons,general|military|scientist|soldier|year 2065,788,137000000,2001,2000,1.85
+394,Dominic Cooper,176636816,Action|Adventure|Sci-Fi,Captain America: The First Avenger ,508818,19761,Hayley Atwell,arctic|captain america|scientist|tesseract|war bond,679,140000000,2011,3000,2.35
+150,Maria Grazia Cucinotta,126930660,Action|Adventure|Thriller,The World Is Not Enough ,157519,2037,Desmond Llewelyn,british|oil|scientist|terrorist|tycoon,683,135000000,1999,536,2.35
+608,Lee Ingleby,93926386,Action|Adventure|Drama|History|War,Master and Commander: The Far Side of the World ,168207,1205,David Threlfall,1800s|napoleonic wars|pursuit|royal navy|ship,684,150000000,2003,172,2.35
+386,Kristen Stewart,292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2 ,185394,59177,Taylor Lautner,battle|friend|super strength|vampire|vision,329,120000000,2012,17000,2.35
+750,Brad Pitt,63992328,Animation|Comedy|Family|Musical,Happy Feet 2 ,32399,62644,Common,3d|antarctica|krill|penguin|sequel,79,135000000,2011,11000,2.35
+255,Peter Mensah,134518390,Action|Adventure|Sci-Fi,The Incredible Hulk ,326286,5811,William Hurt,antidote|cure|hulk|marvel cinematic universe|opening action scene,643,150000000,2008,1000,2.35
+,Philip Michael Thomas,,Action|Crime|Drama|Mystery|Thriller,Miami Vice             ,16769,1687,John Diehl,cult tv|detective|drugs|police|undercover,74,1500000,,321,1.33
+14000,Penelope Wilton,52792307,Adventure|Family|Fantasy,The BFG ,12572,1950,Rafe Spall,cannibal|evil brother|giant|london england|queen,106,140000000,2016,400,2.35
+0,Tom Hardy,183635922,Adventure|Drama|Thriller|Western,The Revenant ,406020,57108,Lukas Haas,bear attack|cauterizing a wound|native american|revenge|survival,1188,135000000,2015,27000,2.35
+13,Snoop Dogg,83024900,Adventure|Animation|Comedy|Family|Sport,Turbo ,62424,17416,Ben Schwartz,accident|freak accident|race|snail|underdog,90,135000000,2013,881,2.35
+563,Ray Winstone,123207194,Adventure|Animation|Comedy|Family|Western,Rango ,183208,43291,Stephen Root,chameleon|lizard|sheriff|water|western town,337,135000000,2011,1000,2.35
+35,Annet Mahendru,83348920,Adventure|Animation|Comedy|Family,Penguins of Madagascar ,60230,19963,Andy Richter,little girl|park|spy|statue of liberty|television van,118,132000000,2014,411,1.85
+521,Edgar Ramírez,227137090,Action|Mystery|Thriller,The Bourne Ultimatum ,491077,17369,Albert Finney,action hero|cia|dark past|flashback|memory,820,110000000,2007,897,2.35
+54,Wayne Knight,215395021,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda ,307029,12754,Dan Fogler,kung fu|kung fu master|master|panda|snow leopard,360,130000000,2008,967,2.35
+235,Hayley Atwell,180191634,Action|Adventure|Comedy|Sci-Fi,Ant-Man ,313866,5730,T.I.,ant|chinatown san francisco|heist|sabotage|vault,549,130000000,2015,2000,1.85
+508,Josh Hutcherson,424645577,Adventure|Sci-Fi|Thriller,The Hunger Games: Catching Fire ,498397,49355,Sandra Ellis Lafferty,president|snow|television|tour|uprising,706,130000000,2013,14000,2.35
+386,Kristen Stewart,292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2 ,185394,59177,Taylor Lautner,battle|friend|super strength|vampire|vision,329,120000000,2012,17000,2.35
+12,Matt Jones,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Home ,70121,17883,April Winchell,alien friendship|alien invasion|australia|flying car|mother daughter relationship,214,135000000,2015,523,1.85
+14000,Lisa Ann Walter,234277056,Adventure|Sci-Fi|Thriller,War of the Worlds ,334345,12758,Rick Gonzalez,alien|fight|storm|survival|tripod,2741,132000000,2005,1000,1.85
+0,Henry Rollins,138396624,Action|Comedy|Crime|Thriller,Bad Boys II ,178126,12954,Jordi Mollà,cuba|dea|drugs|money|undercover,511,130000000,2003,898,2.35
+50,Constance Marie,149234747,Action|Adventure|Animation|Comedy|Family|Fantasy,Puss in Boots ,114287,5046,Amy Sedaris,betrayal|egg|friend|goose|hero,137,130000000,2011,442,2.35
+176,Andre Braugher,118311368,Action|Crime|Mystery|Thriller,Salt ,245621,12406,August Diehl,cia|on the run|russian|russian spy|strong female lead,514,110000000,2010,702,2.35
+0,Emma Watson,101160529,Action|Adventure|Drama,Noah ,200022,32355,Logan Lerman,ark|flood|noah's ark|water|wrath of god,1240,125000000,2014,9000,1.85
+14000,Mackenzie Crook,77564037,Action|Adventure|Family|Mystery,The Adventures of Tintin ,177383,4631,Tony Curran,captain|morocco|ship|tintin|treasure,447,135000000,2011,871,2.35
+0,Gary Oldman,249358727,Adventure|Family|Fantasy|Mystery,Harry Potter and the Prisoner of Azkaban ,382255,33284,Rupert Grint,magic|muggle|serial killer|traitor|wizard,1504,130000000,2004,10000,2.35
+1000,Bryan Brown,49551662,Adventure|Drama|Romance|War,Australia ,102338,921,Eddie Baroo,australia|cattle|darwin|drover|japanese,450,130000000,2008,284,2.35
+0,Zoë Kravitz,60522097,Action|Adventure|Sci-Fi,After Earth ,158720,14168,Glenn Morshower,box office flop|father son team|fear|race against time|real life father and son playing father and son,744,130000000,2013,943,2.35
+0,D.B. Sweeney,137748063,Adventure|Animation|Family|Thriller,Dinosaur ,38438,2945,Della Reese,egg|iguanodon|lemur|meteor|nesting grounds,241,127500000,2000,558,1.85
+0,Dave Legeno,,Action|Fantasy,Harry Potter and the Deathly Hallows: Part II ,381,11036,Ralph Ineson,,2,,2011,570,
+189,Rami Malek,113733726,Adventure|Comedy|Family|Fantasy,Night at the Museum: Secret of the Tomb ,67223,53587,Steve Coogan,museum|museum of natural history manhattan new york city|night watchman|star died before release|tablet,126,127000000,2014,3000,1.85
+96,Brad Pitt,148337537,Action|Animation|Comedy|Family|Sci-Fi,Megamind ,172754,46120,Will Ferrell,battle|city|planet|prison|superhero,187,130000000,2010,11000,2.35
+0,Fiona Shaw,317557891,Adventure|Family|Fantasy,Harry Potter and the Sorcerer's Stone ,444683,13191,Verne Troyer,based on novel|birthday|evil wizard|quidditch|wizard,1571,125000000,2001,687,2.35
+124,Jeff Bridges,33592415,Action|Comedy|Fantasy,R.I.P.D. ,91640,31549,Stephanie Szostak,drug dealer|gold|partner|police|undead,210,130000000,2013,12000,2.35
+28,Shin'ya Tsukamoto,,Action|Adventure|Drama|Horror|Sci-Fi,Godzilla Resurgence ,374,699,Atsuko Maeda,blood|godzilla|monster|sequel,13,,2016,106,2.35
+563,Orlando Bloom,305388685,Action|Adventure|Fantasy,Pirates of the Caribbean: The Curse of the Black Pearl ,809474,48184,Jack Davenport,caribbean|curse|governor|pirate|undead,2113,140000000,2003,5000,2.35
+0,Toby Jones,,Fantasy,Harry Potter and the Deathly Hallows: Part I ,252,14719,Alfred Enoch,,2,,2010,2000,
+508,Philip Seymour Hoffman,337103873,Adventure|Sci-Fi|Thriller,The Hunger Games: Mockingjay - Part 1 ,305008,81385,Josh Hutcherson,based on young adult novel|manipulation|rebellion|symbol|uprising,591,125000000,2014,22000,2.35
+2000,Seth Gabel,217536138,Mystery|Thriller,The Da Vinci Code ,314253,16008,Jürgen Prochnow,based on supposedly true story|holy grail|mary magdalene|opus dei|secret,1966,125000000,2006,574,2.35
+107,Rachel Crow,131536019,Adventure|Animation|Comedy|Family|Musical,Rio 2 ,58498,1031,Jeffrey Garcia,amazon|bird|father in law|jungle|no opening credits,99,103000000,2014,237,2.35
+0,Bruce Davison,214948780,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men 2 ,405973,20952,Aaron Stanford,mutant|prison|professor|school|x men,1055,110000000,2003,505,2.35
+681,Vin Diesel,209805005,Action|Crime|Thriller,Fast Five ,284792,55345,Dwayne Johnson,drug lord|drugs|federal agent|heist|police,366,125000000,2011,14000,2.35
+0,Eddie Marsan,186830669,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes: A Game of Shadows ,338635,22403,Paul Anderson,factory|gypsy|investigation|sherlock holmes|train,412,125000000,2011,979,2.35
+255,Jason Flemyng,163192114,Action|Adventure|Fantasy,Clash of the Titans ,229679,18003,Alexa Davalos,famous line|hand to hand combat|kraken|rape|zeus,637,125000000,2010,1000,2.35
+719,Rachel Ticotin,119412921,Action|Sci-Fi,Total Recall ,240241,1441,Marshall Bell,ambiguous ending|false memory|implanted memory|memory|space colony,391,65000000,1990,308,1.85
+323,Vladimir Kulich,32694788,Action|Adventure|History,The 13th Warrior ,101411,1815,Clive Russell,arab|battle|combat|viking|warrior,546,85000000,1999,372,2.35
+209,Scott Glenn,113165635,Action|Adventure|Thriller,The Bourne Legacy ,229823,12175,Stacy Keach,assassin|cia|drone|pill|wolf,504,125000000,2012,826,2.35
+541,Vivica A. Fox,107285004,Action,Batman & Robin ,189855,2699,John Glover,butler|critically bashed|cure|freeze|gotham,1018,125000000,1997,890,1.85
+2000,T.J. Thyne,260031035,Comedy|Family|Fantasy,How the Grinch Stole Christmas ,141414,4146,Molly Shannon,box office hit|christmas|materialism|public humiliation|snowflake,482,123000000,2000,722,1.85
+776,Dennis Quaid,186739919,Action|Adventure|Sci-Fi|Thriller,The Day After Tomorrow ,333248,20553,Sela Ward,climate|end of the world|global warming|natural disaster|weather,1159,125000000,2004,2000,2.35
+610,Dougray Scott,215397307,Action|Adventure|Thriller,Mission: Impossible II ,242188,11930,Richard Roxburgh,cure|mission|terrorist|thief|virus,1426,125000000,2000,794,2.35
+249,Mary Elizabeth Mastrantonio,182618434,Action|Adventure|Drama|Thriller,The Perfect Storm ,133076,2684,Bob Gunton,death|fish|fishing|sea|storm,779,140000000,2000,638,2.35
+167,Ioan Gruffudd,131920333,Action|Adventure|Sci-Fi|Thriller,Fantastic 4: Rise of the Silver Surfer ,213275,15302,Andre Braugher,fantastic four|space|strong female character|strong female lead|superheroine,436,130000000,2007,2000,2.35
+0,Rafe Spall,124976634,Adventure|Drama|Fantasy,Life of Pi ,440084,2121,Tabu,animal|faith|india|journey|tiger,755,120000000,2012,358,1.85
+160,Matt Long,115802596,Action|Fantasy|Thriller,Ghost Rider ,182661,14017,Peter Fonda,blackheart|devil|father|ghost|mephistopheles,681,110000000,2007,701,2.35
+521,Riz Ahmed,108521835,Action|Thriller,Jason Bourne ,40123,13752,Ato Essandoh,black ops|chase|cia|cia agent|repeated scene,297,120000000,2016,365,2.35
+368,Bernie Mac,100685880,Action|Adventure|Comedy|Crime,Charlie's Angels: Full Throttle ,100821,4046,Justin Theroux,fbi|murder|ring|witness protection|witness protection program,554,120000000,2003,1000,2.35
+0,Charlize Theron,126464904,Adventure|Mystery|Sci-Fi,Prometheus ,456260,24098,Sean Harris,cave painting|medical scanner|planet|pregnant with an alien fetus|suspended animation,2326,130000000,2012,9000,2.35
+50,Brad Garrett,64736114,Adventure|Animation|Comedy|Family|Fantasy,Stuart Little 2 ,36471,2682,Melanie Griffith,anthropomorphic mouse|falcon|marshmallow|second part|soccer,69,120000000,2002,799,1.85
+662,Sharlto Copley,93050117,Action|Drama|Sci-Fi|Thriller,Elysium ,338087,17689,Alice Braga,christ figure|class differences|messiah|saviour|social commentary,814,115000000,2013,2000,2.35
+123,Alexa Davalos,57637485,Action|Adventure|Sci-Fi|Thriller,The Chronicles of Riddick ,183909,17159,Christina Cox,bounty hunter|escape|necromonger|planet|warrior,666,105000000,2004,850,2.35
+294,Abbie Cornish,58607007,Action|Crime|Sci-Fi|Thriller,RoboCop ,182899,14161,Jennifer Ehle,law enforcement|police|robocop|robot|technology,630,100000000,2014,2000,2.35
+0,Kick Gurry,43929341,Action|Family|Sport,Speed Racer ,57873,902,Nicholas Elia,based on anime|based on cartoon|gadget car|racer|speed,414,120000000,2008,107,2.35
+274,Domenick Lombardozzi,30212620,Comedy|Drama|Romance,How Do You Know ,35066,993,Teyonah Parris,embarrassment|falling in love|love|love triangle|revelation,196,120000000,2010,216,1.85
+446,Marc Blucas,76418654,Action|Comedy|Romance,Knight and Day ,148280,12731,Jordi Mollà,chase|fbi|garage|spy|surveillance,348,117000000,2010,973,2.35
+364,Tom Cruise,89021735,Action|Adventure|Mystery|Sci-Fi,Oblivion ,387436,22004,Zoë Bell,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool,892,120000000,2013,10000,2.35
+0,Christopher Lee,380262555,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode III - Revenge of the Sith ,520104,44042,Hayden Christensen,elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,3286,113000000,2005,16000,2.35
+0,Christopher Lee,310675583,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode II - Attack of the Clones ,464310,42990,Hayden Christensen,martial arts|murdered before giving protagonist information|part computer animation|prequel|prequel to cult film,3516,115000000,2002,16000,1.78
+0,John Ratzenberger,289907418,Adventure|Animation|Comedy|Family|Fantasy,"Monsters, Inc. ",585659,15013,James Coburn,friend|little girl|monster|rival|scream,593,115000000,2001,1000,1.85
+446,Tao Okamoto,132550960,Action|Adventure|Sci-Fi|Thriller,The Wolverine ,328067,23755,Rila Fukushima,healing power|marvel comics|mecha|regeneration|self healing,533,120000000,2013,992,2.35
+0,Liam Neeson,474544677,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode I - The Phantom Menace ,534658,37723,Ian McDiarmid,alien|character says i have a bad feeling about this|hand to hand combat|seven word title|wilhelm scream,3597,115000000,1999,14000,2.35
+16,Emma Stone,187165546,Adventure|Animation|Comedy|Family|Fantasy,The Croods ,150618,43286,Nicolas Cage,cave|caveman|journey|strict father|survival,195,135000000,2013,15000,2.35
+0,Santiago Segura,,Adventure|Comedy|Family|Fantasy,Asterix at the Olympic Games ,20567,1609,Vanessa Hessler,1st century b.c.|lightsaber|local blockbuster|magical potion|potion,36,78000000,2008,276,2.35
+610,Roger Willie,40911830,Action|Drama|War,Windtalkers ,55994,15046,Noah Emmerich,code|duty|steel helmet|u.s. marine|u.s. soldier,454,115000000,2002,836,2.35
+19,Sam Claflin,47952020,Action|Adventure|Drama|Fantasy,The Huntsman: Winter's War ,37750,46719,Charlize Theron,based on fairy tale|dark fantasy|fairy tale|second part|sequel,134,115000000,2016,11000,2.35
+473,Danny Woodburn,190871240,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles ,167085,2690,Jeremy Howard,18 wheeler|mutant|ninja|sewer|turtle,491,125000000,2014,809,2.35
+0,Basher Savage,274084951,Adventure|Drama|Sci-Fi|Thriller,Gravity ,582917,87,Amy Warren,box office hit|long take|sole survivor|space|space station,1885,100000000,2013,23,2.35
+79,Grant Heslov,67155742,Action|Adventure|Thriller,Dante's Peak ,62271,1569,Tzi Ma,ash|escape|lava|mayor|volcano,277,116000000,1997,293,2.35
+13,Noel Fisher,81638674,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles: Out of the Shadows ,17533,8306,Brad Garrett,based on comic book|brother brother relationship|rat|sequel|turtle,115,135000000,2016,833,2.35
+128,Reg E. Cathey,56114221,Action|Adventure|Sci-Fi,Fantastic Four ,110486,1261,Tim Heidecker,box office flop|critically bashed|portal|teleportation|troubled production,695,120000000,2015,360,2.35
+189,Rami Malek,250863268,Action|Adventure|Comedy|Family|Fantasy,Night at the Museum ,234480,55486,Steve Coogan,chaos|museum|museum of natural history|night watchman|watchman,444,110000000,2006,3000,1.85
+62,Ioan Gruffudd,155181732,Action|Adventure|Drama|Thriller,San Andreas ,147497,16718,Archie Panjabi,disaster movie|earthquake|journey|natural disaster|san andreas fault,499,110000000,2015,2000,2.35
+55,Colin Salmon,125332007,Action|Adventure|Thriller,Tomorrow Never Dies ,149680,2958,Joe Don Baker,ex boyfriend ex girlfriend relationship|media tycoon|megalomaniac|official james bond series|world war three,328,110000000,1997,766,2.35
+776,Adam Baldwin,113330342,Action|Drama|History|War,The Patriot ,207613,19454,Tom Wilkinson,american revolution|british|french|hero|standoff,1144,110000000,2000,2000,2.35
+0,Julia Roberts,125531634,Crime|Thriller,Ocean's Twelve ,284852,19359,Mini Anden,father daughter relationship|heist|pretending to be pregnant|sequel|thief,627,110000000,2004,8000,2.35
+218,Angelina Jolie Pitt,186336103,Action|Comedy|Crime|Romance|Thriller,Mr. & Mrs. Smith ,348861,22722,Stephanie March,assassin|marriage|secret agent|suburb|target,798,120000000,2005,11000,2.35
+124,Theo James,129995817,Adventure|Sci-Fi|Thriller,Insurgent ,154621,22622,Mekhi Phifer,action heroine|falling from height|mind control|trainhopping|truth serum,258,110000000,2015,5000,2.35
+17000,Adam Scott,102608827,Biography|Drama,The Aviator ,264318,34582,Frances Conroy,1920s|aviation|fight|spruce goose|test flight,799,110000000,2004,3000,2.35
+11,Catherine Tate,42776259,Adventure|Comedy|Family|Fantasy,Gulliver's Travels ,53160,1173,Olly Alexander,bermuda triangle|box office hit|shipwrecked|travel|travel writer,121,112000000,2010,392,2.35
+1000,Tom Wilkinson,98780042,Action|Comedy|Crime|Sci-Fi|Thriller,The Green Hornet ,136019,13391,Chad L. Coleman,heir|kung fu|party|playboy|superhero,443,120000000,2011,1000,2.35
+,Dirk Benedict,,Action|Adventure|Crime,The A-Team             ,25402,1655,Dwight Schultz,1980s|cult tv|famous opening theme|good versus evil|hero for hire,97,,,554,4.0
+263,Sullivan Stapleton,106369117,Action|Drama|Fantasy|War,300: Rise of an Empire ,225273,10583,Peter Mensah,army|commander|female rear nudity|greek|navy,523,110000000,2014,1000,2.35
+67,Tim Gunn,142614158,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs ,66593,692,Madison McKinley,blue|new york|new york city|no opening credits|smurf,153,110000000,2011,113,1.78
+6,Roseanne Barr,50026353,Animation|Comedy|Family|Music|Western,Home on the Range ,13581,13607,G.W. Bailey,cattle|cow|dairy farm|farm|rustler,88,110000000,2004,513,1.78
+124,Theo James,66002193,Action|Adventure|Mystery|Sci-Fi|Thriller,Allegiant ,44296,12452,Zoë Kravitz,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead,144,110000000,2016,5000,2.35
+189,Torey Michael Adkins,85463309,Action|Drama|Sci-Fi|Sport,Real Steel ,254841,22254,Olga Fonda,arena|boxing|boxing movie|robot|robot battle,426,110000000,2011,929,2.35
+67,Nancy O'Dell,71017784,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs 2 ,27257,914,Vanessa Matsui,based on cartoon|box office hit|no opening credits|sequel|smurf,59,105000000,2013,71,1.85
+101,Temuera Morrison,48068396,Action|Crime|Romance|Thriller,Speed 2: Cruise Control ,60573,2027,Lois Chiles,collision course|computer|cruise|diamonds|ship run aground,248,160000000,1997,368,2.35
+151,Moises Arias,61656849,Action|Sci-Fi,Ender's Game ,184561,12908,Aramis Knight,alien|future|manipulation|simulation|training,554,110000000,2013,635,2.35
+235,Jonathan Sadowski,134520804,Action|Adventure|Thriller,Live Free or Die Hard ,336235,13961,Cyril Raffaelli,fbi|hacker|independence day|police|terrorist,782,110000000,2007,300,2.35
+0,Orlando Bloom,313837577,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Fellowship of the Ring ,1238746,22342,Billy Boyd,elf|hobbit|middle earth|quest|ring,5060,93000000,2001,5000,2.35
+153,Steve Coogan,24004159,Action|Adventure|Comedy,Around the World in 80 Days ,68720,3175,Cécile De France,19th century|around the world|inventor|martial arts|train,191,110000000,2004,1000,2.35
+0,Jada Pinkett Smith,58183966,Biography|Drama|Sport,Ali ,79186,14196,Joe Morton,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,386,107000000,2001,851,2.35
+34,Kelly Preston,100446895,Adventure|Comedy|Family|Fantasy,The Cat in the Hat ,36033,2762,Spencer Breslin,based on cult comic book|cat|home alone|imagination|talking cat,456,109000000,2003,743,1.85
+295,Bruce Greenwood,144795350,Action|Mystery|Sci-Fi|Thriller,"I, Robot ",387632,12068,Chi McBride,humanoid robot|man versus machine|prosthetic limb|robot as pathos|robot vs. robot,789,120000000,2004,981,2.35
+0,Orlando Bloom,47396698,Action|Adventure|Drama|History|War,Kingdom of Heaven ,217373,19600,Philip Glenister,12th century|crusader|jerusalem|knight|medieval times,942,130000000,2005,5000,2.35
+50,Nathan Lane,140015224,Adventure|Comedy|Family|Fantasy,Stuart Little ,94172,3382,Jeffrey Jones,box office hit|cat|first part|mouse|orphanage,179,133000000,1999,886,1.85
+63,Jenifer Lewis,104374107,Animation|Family|Fantasy|Musical|Romance,The Princess and the Frog ,89351,2480,Anika Noni Rose,amphibian|dream|frog|frog prince|waitress,214,105000000,2009,578,1.85
+0,Donald Glover,228430993,Adventure|Drama|Sci-Fi,The Martian ,472488,14831,Benedict Wong,astronaut|international cooperation|left for dead|nasa|space habitat,1023,108000000,2015,801,2.35
+0,,,Comedy,"10,000 B.C.             ",6,5,,,,,,,
+0,Steve Buscemi,35799026,Action|Adventure|Romance|Sci-Fi|Thriller,The Island ,263329,34839,Djimon Hounsou,clone|environment|escape|island|lottery,899,126000000,2005,12000,2.35
+23,Warren Beatty,6712451,Comedy|Romance,Town & Country ,4102,3133,Garry Shandling,anniversary|architect|cellist|friend|hardware store,89,90000000,2001,631,1.85
+57,Angelina Jolie Pitt,101643008,Action|Crime|Thriller,Gone in Sixty Seconds ,218341,29069,Robert Duvall,auto theft|brother|car|theft|thief,498,90000000,2000,11000,2.35
+0,Connie Nielsen,187670866,Action|Drama|Romance,Gladiator ,982637,6521,Oliver Reed,battlefield|blood|combat|gladiator|roman empire,2368,103000000,2000,933,2.35
+14000,Frank Grillo,132014112,Action|Mystery|Sci-Fi|Thriller,Minority Report ,399651,12546,Jessica Capshaw,future|murder|neo noir|washington d.c.|year 2054,1331,102000000,2002,798,2.35
+0,Rupert Grint,261970615,Adventure|Family|Fantasy|Mystery,Harry Potter and the Chamber of Secrets ,387616,35672,Emma Watson,bildungsroman|flying broom|invisibility cloak|monster|wizardry,858,100000000,2002,10000,2.35
+258,Tobias Menzies,167007184,Action|Adventure|Thriller,Casino Royale ,470483,9125,Ivana Milicevic,casino|espionage|free running|james bond|terrorist,2301,150000000,2006,1000,2.35
+13000,Estella Warren,180011740,Action|Adventure|Sci-Fi|Thriller,Planet of the Apes ,177725,2776,Erick Avari,astronaut|cage|planet|wilhelm scream|year 2029,1368,100000000,2001,658,2.35
+0,Jenette Goldstein,204843350,Action|Sci-Fi,Terminator 2: Judgment Day ,744891,2829,S. Epatha Merkerson,future|liquid metal|multiple cameos|sexy woman|time travel,983,102000000,1991,604,2.35
+0,Christian Bale,97030725,Biography|Crime|Drama|History|Romance,Public Enemies ,230931,64599,Stephen Graham,1930s|bank|celebrity criminal|fbi|public enemy number one,585,100000000,2009,23000,2.35
+0,Ruby Dee,130127620,Biography|Crime|Drama,American Gangster ,324671,20354,RZA,death|heroin|popcorn|smuggling|vietnam,458,100000000,2007,782,1.85
+0,Tia Carrere,146282411,Action|Comedy|Thriller,True Lies ,190439,4528,Tom Arnold,espionage|secret agent|secret mission|spy|spy film,351,115000000,1994,1000,2.35
+12000,Ramon Rodriguez,65452312,Action|Crime|Thriller,The Taking of Pelham 1 2 3 ,149998,19906,Michael Rispoli,hijack|hostage|ransom|subway|train,285,100000000,2009,464,2.35
+80,Blythe Danner,148383780,Comedy|Romance,Little Fockers ,85531,24082,Teri Polo,birthday|critically bashed|male nurse|nurse|suspicion,152,100000000,2010,713,1.85
+285,Will Ferrell,119219978,Action|Comedy|Crime,The Other Guys ,189806,20233,Derek Jeter,capitalist|detective|investigation|new york city|police,316,100000000,2010,8000,2.35
+55,James Coburn,101228120,Action|Drama|Mystery|Thriller,Eraser ,84424,3454,Roma Maffia,assassination attempt|corporate crime|rogue agent|witness|witness protection program,131,100000000,1996,773,2.35
+16000,Christoph Waltz,162804648,Drama|Western,Django Unchained ,955174,40978,Ato Essandoh,dynamite|historically inaccurate|ku klux klan|n word|slavery,1193,100000000,2012,11000,2.35
+21,Jason Alexander,100117603,Animation|Drama|Family|Musical|Romance,The Hunchback of Notre Dame ,102933,4842,Bill Fagerbakke,15th century|cathedral|gypsy|paris|victor hugo,230,100000000,1996,700,1.78
+10,Wendie Malick,89296573,Adventure|Animation|Comedy|Family|Fantasy,The Emperor's New Groove ,128285,2039,John Fiedler,antidote|disney|emperor|first part|llama,297,100000000,2000,452,1.66
+165,Sylvester Stallone,85017401,Action|Adventure|Thriller,The Expendables 2 ,246803,57881,Bruce Willis,church|hostage|mine|plutonium|revenge,474,92000000,2012,13000,2.35
+226,Armando Riesco,173005002,Action|Adventure|Comedy|Family|Mystery,National Treasure ,255447,13679,Annie Parisse,declaration of independence|secret society|treasure|treasure hunt|treasure hunter,692,100000000,2004,625,2.35
+14,Ed Speleers,75030163,Action|Adventure|Family|Fantasy,Eragon ,108076,4487,Gary Lewis,dragon|dragon rider|fictional war|sword and fantasy|teenage hero,1690,100000000,2006,762,2.35
+0,Ryan Corr,77222184,Adventure|Drama|Family|Fantasy,Where the Wild Things Are ,87677,1738,Max Records,based on children's book|creature|igloo|imagination|king,388,100000000,2009,468,2.35
+456,Cara Delevingne,34964818,Adventure|Family|Fantasy,Pan ,39956,21393,Nonso Anozie,1940s|child hero|fantasy world|orphan|reference to peter pan,186,150000000,2015,548,2.35
+77,Emma Kenney,107515297,Adventure|Animation|Family|Fantasy,Epic ,85833,14552,Troy Evans,father daughter relationship|forest|miniature person|shrinking|sword and fantasy,113,100000000,2013,151,2.35
+207,Angelina Jolie Pitt,67631157,Action|Romance|Thriller,The Tourist ,176598,55175,Rufus Sewell,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,374,100000000,2010,11000,2.35
+0,Mark Margolis,66862068,Action|Fantasy|Horror|Mystery,End of Days ,89509,3903,Udo Kier,atheist|ex cop|female masturbation|female nudity|lucifer,524,83000000,1999,1000,2.35
+380,Djimon Hounsou,57366262,Adventure|Drama|Thriller,Blood Diamond ,400292,33160,Stephen Collins,diamond|elephant|fisherman|rebel|sierra leone,657,100000000,2006,3000,2.35
+17000,Matthew McConaughey,116866727,Biography|Comedy|Crime|Drama,The Wolf of Wall Street ,780588,46057,Jon Favreau,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,1138,100000000,2013,11000,2.35
+541,Rene Auberjonois,184031112,Action|Adventure|Fantasy,Batman Forever ,190786,2880,Debi Mazar,love|necktie|partner|rock music|tuxedo,539,100000000,1995,710,1.85
+719,Patrick Muldoon,54700065,Action|Sci-Fi|War,Starship Troopers ,221521,2031,Seth Gilliam,alien|federation|future|military|planet,1049,105000000,1997,475,1.85
+670,Jim Sturgess,27098580,Drama|Sci-Fi,Cloud Atlas ,284825,22686,Jim Broadbent,composer|future|letter|nonlinear timeline|nursing home,828,102000000,2012,5000,2.35
+0,Richard Roxburgh,55673333,Action|Adventure|Animation|Family|Fantasy,Legend of the Guardians: The Owls of Ga'Hoole ,65785,4286,Anthony LaPaglia,barn owl|escape|owl|ruler|soldier,160,80000000,2010,653,2.35
+26,Christopher Heyerdahl,40198710,Action|Crime|Fantasy|Romance|Thriller,Catwoman ,87451,3144,Alex Borstein,based on cult comic book|bechdel test passed|cat|detective|radical transformation,660,100000000,2004,825,2.35
+420,Rufus Sewell,72660029,Action|Adventure,Hercules ,115687,16235,Ingrid Bolsø Berdal,army|greek mythology|hercules|king|mercenary,269,100000000,2014,3000,2.35
+63,Martin Short,38120554,Adventure|Animation|Family|Sci-Fi,Treasure Planet ,71527,26940,Michael Wincott,alien|cyborg|pirate|planet|treasure,217,140000000,2002,770,1.5
+52,Anna Friel,49392095,Adventure|Comedy|Sci-Fi,Land of the Lost ,52029,10552,Bobb'e J. Thompson,human versus dinosaur|lizard|primate|time travel|tyrannosaurus rex,224,100000000,2009,735,1.85
+385,Sylvester Stallone,39292022,Action|Adventure|Thriller,The Expendables 3 ,127258,52610,Harrison Ford,battle|fight|mission|pg 13 sequel to r rated franchise|rescue,351,90000000,2014,13000,2.35
+19,Edgar Ramírez,28772222,Action|Crime|Sport|Thriller,Point Break ,33953,3962,Delroy Lindo,athlete|extreme sports|fbi|fbi agent|heist,163,105000000,2015,897,2.35
+6,Traylor Howard,17010646,Comedy|Family|Fantasy,Son of the Mask ,40751,1195,Ben Stein,baby|cartoon on tv|cartoonist|dog|mask,239,84000000,2005,294,1.85
+2000,Benjamin Walker,24985612,Action|Adventure|Biography|Drama|History|Thriller,In the Heart of the Sea ,71782,28328,Frank Dillane,emaciation|ship|starvation|vomiting|whale,161,100000000,2015,911,1.85
+31,Randy Quaid,4411102,Action|Comedy|Sci-Fi,The Adventures of Pluto Nash ,20295,6161,Burt Young,casino|future|laser gun|moon|nightclub,164,100000000,2002,695,1.85
+521,Sean Huze,35024475,Action|Drama|Thriller|War,Green Zone ,110364,13761,Igal Naor,cia|iraq|iraqi|political military conspiracy|weapon of mass destruction,261,100000000,2010,537,2.35
+20,Venus Schultheis,130174897,Adventure|Animation|Comedy|Family,The Peanuts Movie ,27918,309,Bill Melendez,dog|girl|imagination|peanuts|red hair,155,99000000,2015,42,1.85
+342,Felicity Huffman,10200000,Drama|Mystery|Thriller,The Spanish Prisoner ,18697,1722,Campbell Scott,brother sister relationship|extradition|fbi|japanese tourist|secret,263,10000000,1997,508,1.85
+208,Brendan Fraser,202007640,Action|Adventure|Fantasy|Thriller,The Mummy Returns ,248045,15972,Patricia Velasquez,ancient egypt|bracelet|king|scorpion|son,890,98000000,2001,3000,2.35
+17000,Liam Neeson,77679638,Crime|Drama,Gangs of New York ,314033,47657,Jim Broadbent,butcher|civil war|gangster|new york city|revenge,1166,100000000,2002,14000,2.35
+611,Ni Ni,9213,Drama|History|Romance|War,The Flowers of War ,38690,23240,Shigeo Kobayashi,abusive stepfather|attempted rape|food shortage|sexual abuse|starving child,130,94000000,2011,196,2.35
+9,Zooey Deschanel,58867694,Animation|Comedy|Family|Sport,Surf's Up ,54077,25590,Jon Heder,chicken|competition|island|penguin|surfing,112,100000000,2007,11000,1.85
+0,Matthew Broderick,59475623,Comedy|Sci-Fi|Thriller,The Stepford Wives ,49739,13748,Roger Bart,community|connecticut|fem bot|tv producer|writer,407,90000000,2004,2000,1.85
+0,Sam Shepard,108638745,Drama|History|War,Black Hawk Down ,292022,4270,Ewen Bremner,army|helicopter|somali|somalia|warlord,1103,92000000,2001,820,2.35
+116,Thomas Middleditch,86897182,Comedy,The Campaign ,106790,9271,Katherine LaNasa,campaigning|congressman|north carolina|title at the end|u.s. congressman,177,95000000,2012,331,1.85
+0,Bruce Willis,63540020,Action|Adventure|Sci-Fi,The Fifth Element ,343274,39319,Gary Oldman,1910s|alien|artificially created woman|love|taxi driver,742,93000000,1997,13000,2.35
+127,Liza Minnelli,95328937,Comedy|Drama|Romance,Sex and the City 2 ,59581,4555,Kristin Davis,abu dhabi|box office hit|muslim|nanny|united arab emirates,293,100000000,2010,740,1.85
+10,Rosie Perez,50802661,Adventure|Animation|Comedy|Family|Romance,The Road to El Dorado ,58300,3372,Elton John,adventurer|el dorado|gold|high priest|implied sex,139,95000000,2000,919,1.85
+20,Josh Gad,161317423,Adventure|Animation|Comedy|Family,Ice Age: Continental Drift ,145321,25354,Drake,acorn|herd|iceberg|ocean|pirate,139,95000000,2012,1000,2.35
+0,Derek Jacobi,201148159,Drama|Family|Fantasy|Romance,Cinderella ,103737,4671,Lily James,dress|duke|fairy godmother|fairy tale|pumpkin,322,95000000,2015,520,2.35
+0,AJ Michalka,43982842,Drama|Fantasy|Thriller,The Lovely Bones ,125109,2370,Tom McCarthy,1970s|afterlife|heaven|pedophile|rape,593,65000000,2009,560,2.35
+475,Stephen Root,380838870,Adventure|Animation|Comedy|Family,Finding Nemo ,692482,5641,Brad Garrett,great barrier reef|protective father|separation from family|shark|short term memory loss,866,94000000,2003,939,1.85
+0,Billy Boyd,377019252,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Return of the King ,1215718,6434,Bernard Hill,battle|epic|king|orc|ring,3189,94000000,2003,857,2.35
+0,Orlando Bloom,340478898,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Two Towers ,1100446,23052,Billy Boyd,epic|evil wizard|middle earth|ring|wizard,2417,94000000,2002,5000,2.35
+44,Djimon Hounsou,17176900,Action|Adventure|Fantasy,Seventh Son ,54501,17098,Olivia Williams,apprentice|demon|exorcism|master apprentice relationship|witch,154,95000000,2014,3000,2.35
+165,Noah Taylor,131144183,Action|Adventure|Fantasy|Thriller,Lara Croft: Tomb Raider ,157016,12150,Chris Barrie,illuminati|planetary alignment|time|tomb|tomb raider,824,115000000,2001,509,2.35
+0,Morgan Freeman,23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,Transcendence ,172707,54031,Clifton Collins Jr.,artificial intelligence|consciousness|power outage|scientist|technology,462,100000000,2014,11000,2.35
+394,Trevor Morgan,181166115,Action|Adventure|Sci-Fi|Thriller,Jurassic Park III ,219501,2574,Alessandro Nivola,dinosaur|island|jurassic park|paleontologist|search,1236,93000000,2001,595,1.85
+81,David Oyelowo,176740650,Action|Drama|Sci-Fi|Thriller,Rise of the Planet of the Apes ,403836,13118,Tyler Labine,alzheimer's disease|ape|chimpanzee|fire|when animals attack,646,93000000,2011,1000,2.35
+70,Tod Fennell,71148699,Adventure|Family|Fantasy,The Spiderwick Chronicles ,68935,1614,Joan Plowright,actor playing multiple roles|brownie the creature|closing credits sequence|family relationships|magical creature,125,90000000,2008,419,2.35
+212,Cole Hauser,67344392,Action|Thriller,A Good Day to Die Hard ,165618,15481,Megalyn Echikunwoke,bomb|cia|courthouse|escape|russian,503,92000000,2013,787,1.85
+102,Marc Blucas,22406362,Drama|History|War|Western,The Alamo ,16832,5780,Jordi Mollà,army|dictator|general|texan|texas,267,107000000,2004,973,2.35
+663,Craig T. Nelson,261437578,Action|Adventure|Animation|Family,The Incredibles ,479166,1901,Lou Romano,hero|island|lawsuit|secret|superhero,815,92000000,2004,723,2.35
+212,Frank Langella,11000000,Action|Adventure|Comedy,Cutthroat Island ,21102,3611,Matthew Modine,latin|pirate|pirate ship|treasure|treasure map,169,98000000,1995,903,2.35
+0,Rosario Dawson,88761720,Adventure|Family|Fantasy,Percy Jackson & the Olympians: The Lightning Thief ,141179,14024,Steve Coogan,greek|lightning|lightning bolt|poseidon|teenager,419,95000000,2010,3000,2.35
+188,Rip Torn,250147615,Adventure|Comedy|Family|Mystery|Sci-Fi,Men in Black ,403014,12998,Linda Fiorentino,alien|box office hit|flying saucer|laser gun|wisecrack humor,289,90000000,1997,826,1.85
+487,John Ratzenberger,245823397,Adventure|Animation|Comedy|Family|Fantasy,Toy Story 2 ,385871,21275,Wayne Knight,collector|dog|friend|rescue|toy,515,90000000,1999,1000,1.85
+12000,Rosario Dawson,81557479,Action|Thriller,Unstoppable ,149947,25780,Ethan Suplee,freight train|race against time|runaway train|train|train engineer,326,100000000,2010,3000,2.35
+420,John Lone,226138454,Action|Comedy|Crime|Thriller,Rush Hour 2 ,160440,664,Harris Yulin,boat|gang|hong kong|triad|vacation,394,90000000,2001,165,2.35
+0,Amber Valletta,155370362,Drama|Fantasy|Horror|Mystery|Thriller,What Lies Beneath ,98403,12890,Miranda Otto,ghost|haunted house|research|secret|vermont,683,100000000,2000,627,2.35
+97,Bobb'e J. Thompson,124870275,Animation|Comedy|Family|Sci-Fi,Cloudy with a Chance of Meatballs ,152601,1227,Al Roker,food|giant food|mayor|sardine|weather,156,100000000,2009,526,2.35
+107,Maile Flanagan,196573705,Action|Adventure|Animation|Comedy|Family,Ice Age: Dawn of the Dinosaurs ,166791,1258,Kelly Keaton,egg|lost world|rescue|squirrel|weasel,132,90000000,2009,256,1.85
+0,Adrian Martinez,58229120,Adventure|Comedy|Drama|Fantasy|Romance,The Secret Life of Walter Mitty ,236421,5095,Joey Slotnick,daydream|life magazine|magazine|photographer|snow leopard,515,90000000,2013,806,2.35
+368,LL Cool J,125305545,Action|Adventure|Comedy|Crime|Thriller,Charlie's Angels ,145350,15419,Kelly Lynch,booty shake|box office hit|duct tape over mouth|first part|martial arts,643,92000000,2000,1000,2.35
+17000,Matt Damon,132373442,Crime|Drama|Thriller,The Departed ,873649,45648,Ray Winstone,boston|mole|police|undercover|undercover cop,2054,90000000,2006,13000,2.35
+7,Harvey Fierstein,120618403,Adventure|Animation|Family|Fantasy|Musical|War,Mulan ,171792,4478,June Foray,based on poem|based on true story|china|one word title|the huns,222,90000000,1998,500,1.66
+0,Steve Coogan,110416702,Action|Comedy,Tropic Thunder ,307539,23484,Brandon T. Jackson,film director|parody|spoof|vietnam|written and directed by cast member,577,92000000,2008,1000,2.35
+21000,Goran Visnjic,102515793,Crime|Drama|Mystery|Thriller,The Girl with the Dragon Tattoo ,330152,20388,Joely Richardson,computer hacker|hacker|investigation|journalist|punk,632,90000000,2011,1000,2.35
+323,Aldis Hodge,100012500,Action|Adventure|Thriller,Die Hard with a Vengeance ,299258,14274,Kevin Chamberlin,bomb|detective|new york city|police|terrorist,346,90000000,1995,559,2.35
+0,Eddie Marsan,209019489,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes ,477300,23996,Robert Maillet,black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,621,90000000,2009,979,1.85
+335,Ayelet Zurer,,Adventure|Drama|History,Ben-Hur ,57,13379,Moises Arias,,1,,2016,745,2.35
+21,Jim Varney,84037039,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Atlantis: The Lost Empire ,72591,15237,Cree Summer,atlantis|crew|expedition|journal|museum,289,120000000,2001,802,2.35
+12,Joshua Mikel,85884815,Adventure|Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: The Road Chip ,9418,38450,Jesse McCartney,chipmunk|highway travel|on the road|plane|road movie,53,90000000,2015,1000,1.85
+0,Tom Wilkinson,83077470,Drama|History|Thriller|War,Valkyrie ,183247,14165,Thomas Kretschmann,american actor playing foreigner|assassination|conspiracy|military|nazis,440,75000000,2008,1000,1.85
+221,Sayed Badreya,100018837,Action|Comedy,You Don't Mess with the Zohan ,156348,13446,Kevin Nealon,hair stylist|jew|landlord|muslim|palestinian,380,90000000,2008,600,1.85
+0,Adam Sandler,78747585,Action|Animation|Comedy|Sci-Fi,Pixels ,89770,35367,Josh Gad,alien|arcade game|chase|driving in reverse|video gamer,342,88000000,2015,11000,2.35
+14000,William Hurt,78616689,Adventure|Drama|Sci-Fi,A.I. Artificial Intelligence ,238747,6217,Kevin Sussman,affection|boy|fairy|future|robot,2153,100000000,2001,882,1.85
+50,Rachael Harris,75817994,Comedy|Family|Fantasy|Horror|Mystery,The Haunted Mansion ,32049,2622,Marc John Jefferies,arachnophobia|crystal ball|ghost|haunted house|thunderstorm,179,90000000,2003,569,2.35
+0,Tom Skerritt,100853835,Drama|Mystery|Sci-Fi|Thriller,Contact ,200556,12289,Larry King,message from outer space|religion|religion versus science|scientist|universe,611,90000000,1997,1000,2.35
+719,Kim Dickens,73209340,Action|Horror|Sci-Fi|Thriller,Hollow Man ,101834,2356,Joey Slotnick,experiment|research|scientist|suburb|surrealism,628,95000000,2000,624,1.85
+521,George Harris,72515360,Crime|Mystery|Thriller,The Interpreter ,86152,2100,Michael Wright,african|assassination|dialect|interpreter|threat,411,80000000,2005,249,2.35

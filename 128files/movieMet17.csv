@@ -1,115 +1,500 @@
-director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_1_facebook_likes,actor_1_name,num_voted_users,cast_total_facebook_likes,actor_3_name,facenumber_in_poster,num_user_for_reviews,country,budget,title_year,actor_2_facebook_likes,imdb_score,aspect_ratio
-Jeff Franklin,45,94,24,834,Ivana Milicevic,4377,2662,Bridgette Wilson-Sampras,3,85,USA,4000000,1999,625,5.8,1.85
-John Dahl,121,93,131,497,Philip Baker Hall,16224,776,Jayne Eastwood,1,76,USA,4000000,2007,113,6.5,2.55
-Mike Mills,114,96,101,730,Kelli Garner,18762,1208,Nancy O'Dell,0,91,USA,4000000,2005,394,6.6,2.35
-Kevin Smith,270,88,0,1000,Anna Gunn,53342,4777,Stephen Root,0,287,USA,4000000,2011,947,6.2,1.85
-Dave McKean,116,101,21,420,Stephanie Leonidas,20275,1215,Rob Brydon,0,151,UK,4000000,2005,291,6.9,1.85
-Ron Fricke,115,102,330,48,Collin Alfredo St. Dic,22457,48,Puti Sri Candra Dewi,0,69,USA,4000000,2011,0,8.5,2.35
-Ruggero Deodato,15,87,101,721,Michael Berryman,2308,1700,Richard Lynch,0,35,USA,4000000,1987,576,4.8,1.85
-Gavin Wiesen,122,83,19,947,Michael Angarano,45293,2353,Rita Wilson,1,71,USA,,2011,685,6.6,2.35
-Mora Stephens,35,103,5,1000,Ray Winstone,4091,3408,Elena Satine,0,20,USA,4500000,2015,1000,5.7,2.35
-Mars Callahan,41,99,60,979,Chazz Palminteri,8535,3130,Ernie Reyes Jr.,4,113,USA,4000000,2002,665,7.0,1.85
-Mike Figgis,31,106,81,2000,Kelly Macdonald,2877,4343,Julian Sands,0,70,USA,4000000,1999,811,5.4,1.78
-Leos Carax,332,115,227,690,Kylie Minogue,29440,1298,Denis Lavant,0,110,France,,2012,227,7.1,1.85
-David Gordon Green,232,117,234,12000,Nicolas Cage,36494,13607,Ronnie Gene Blevins,2,118,USA,4000000,2013,1000,6.9,2.35
-Stefan Schwartz,43,99,13,419,Peter McNamara,6705,975,Ralph Ineson,3,53,UK,3000000,1997,254,6.6,2.35
-Renny Harlin,68,102,212,10000,Viggo Mortensen,2705,11083,Hal Landon Jr.,0,38,USA,1300000,1987,633,5.9,1.85
-Robert Lee King,51,85,0,945,Lauren Ambrose,4617,2282,Beth Broderick,1,93,Australia,1500000,2000,774,6.3,1.85
-Kevin Allen,33,86,8,759,Craig Ferguson,2133,2805,Mary McCormack,1,31,UK,4000000,1999,638,6.3,1.85
-Jorge Ramírez Suárez,26,120,45,623,Hector Kotsifakis,2112,824,Arcelia Ramírez,0,7,Mexico,4000000,2013,85,7.7,2.35
-David Schwimmer,109,106,0,617,Noah Emmerich,34224,916,Zoe Levin,0,137,USA,9500000,2010,163,7.0,2.35
-Barry Levinson,34,103,272,736,Anna Friel,1398,1403,Pauline McLynn,4,26,USA,14000000,2000,450,6.3,1.85
-Sam Miller,31,93,12,578,Rachel Griffiths,811,643,Rob Jarvis,1,26,UK,2500000,1998,29,5.9,
-Anne Fontaine,141,112,105,18000,Robin Wright,23334,25269,Ben Mendelsohn,0,87,Australia,16000000,2013,6000,6.2,2.35
-Dan Ireland,19,100,137,4000,Salma Hayek,1555,5796,Olivia d'Abo,0,40,USA,4000000,1998,575,5.0,2.35
-Fernando León de Aranoa,64,113,58,331,Luis Tosar,9913,387,Aida Folch,1,38,Spain,4000000,2002,27,7.7,1.85
-Jim Mickle,215,98,53,530,Connor Paolo,34263,1038,Nick Damici,1,141,USA,650000,2010,238,6.5,2.35
-,5,23,,254,Doug Brochu,7673,915,Brandon Mychal Smith,1,47,USA,,,248,6.1,1.33
-Stephen Kay,12,92,19,18000,Keanu Reeves,1686,20135,Gretchen Mol,1,28,USA,4000000,1997,759,5.8,1.85
-Karim Aïnouz,70,106,19,585,Wagner Moura,1738,629,Jesuíta Barbosa,2,10,Brazil,4000000,2014,29,6.1,2.35
-Sam Levinson,46,119,8,3000,George Kennedy,3297,10984,Demi Moore,4,42,USA,4000000,2011,3000,6.0,2.35
-Julian Gilbey,135,99,7,762,Ed Speleers,22220,2631,Sean Harris,1,97,UK,4000000,2011,706,6.3,2.35
-Vincenzo Natali,38,90,165,686,David Hewlett,5137,1298,Marie-Josée Croze,0,50,Canada,,2003,246,6.3,2.35
-Aleksandr Veledinskiy,8,120,0,114,Konstantin Khabenskiy,2488,183,Eugenia Khirivskaya,0,3,Russia,4000000,2013,45,7.5,
-Peter H. Hunt,34,168,0,713,Blythe Danner,6303,1541,Howard Caine,0,129,USA,4000000,1972,649,7.6,2.35
-Ruba Nadda,36,93,55,223,Saad Siddiqui,2086,242,Fadia Nadda,3,20,Canada,4000000,2012,11,5.2,2.35
-Howard Hughes,35,96,177,431,Jean Harlow,3753,457,James Hall,1,53,USA,3950000,1930,12,7.8,1.2
-Edward Burns,6,103,0,650,Debra Messing,2727,1585,Peter Jacobson,5,19,USA,4000000,2007,536,6.6,1.85
-Phil Joanou,39,93,21,763,Lily Rabe,4146,2651,Kira McLean,2,29,USA,4000000,2016,637,4.7,2.35
-Sean Byrne,182,84,18,399,Robin McLeavy,27781,644,Victoria Thaine,1,104,Australia,,2009,129,6.7,2.35
-Chris Stokes,14,81,548,166,Kristen Quintrall,1561,609,Black Thomas,0,21,USA,4000000,2012,134,4.2,
-Mark Griffiths,3,84,4,637,Eric Mabius,1929,1932,Brooke D'Orsay,2,4,USA,4000000,2012,346,6.3,1.78
-Bruce Macdonald,3,94,103,544,Rachel Hendrix,724,1150,Diana Vickers,1,15,South Africa,4000000,2014,476,4.7,
-Timur Bekmambetov,1,141,335,11000,Morgan Freeman,67,13391,Moises Arias,2,1,USA,100000000,2016,744,6.0,2.35
-Fred Zinnemann,62,120,160,559,Robert Shaw,23713,1238,Paul Scofield,0,167,UK,2000000,1966,269,7.9,1.66
-Sidney Lumet,161,121,0,3000,Robert Duvall,103493,5987,William Holden,0,317,USA,3800000,1976,977,8.1,1.85
-Victor Fleming,157,226,149,503,Hattie McDaniel,215340,1862,Thomas Mitchell,1,706,USA,3977000,1939,384,8.2,1.37
-Richard Raymond,31,104,10,507,Tom Cullen,1177,1281,Marama Corlett,0,10,UK,4000000,2014,236,6.0,2.35
-Sam Peckinpah,53,152,541,773,James Coburn,5294,2888,Warren Oates,2,67,USA,3800000,1965,575,6.8,2.35
-Alan Jacobs,1,92,2,881,Snoop Dogg,257,3229,Nicholas Gonzalez,3,6,USA,,2009,826,7.3,1.85
-George Sidney,21,107,24,277,Keenan Wynn,3167,731,Betty Hutton,0,90,USA,3768785,1950,244,7.0,1.37
-Christopher Morris,246,97,69,414,Kayvan Novak,55982,1269,Alex Macqueen,0,148,UK,,2010,365,7.3,1.85
-Andrucha Waddington,42,115,6,119,Fernanda Montenegro,2650,222,Fernanda Torres,1,35,Brazil,8000000,2005,69,7.5,2.35
-Peter Stebbings,78,95,89,963,Michael Kelly,31836,2658,Charlotte Sullivan,0,90,Canada,3500000,2009,654,6.8,2.35
-Vincente Minnelli,41,102,136,89,Gladys Cooper,3258,282,Ellen Ross,0,54,USA,3700000,1948,78,7.1,1.37
-Dagur Kári,61,99,29,117,Alice Olivia Clarke,3579,298,Stephen Henderson,2,14,Iceland,3800000,2009,64,6.9,2.35
-Nicholas Hytner,112,109,13,3000,Dominic Cooper,17770,5977,James Corden,0,172,UK,2000000,2006,796,6.9,1.85
-Jaume Collet-Serra,349,113,174,14000,Liam Neeson,210548,17151,Aidan Quinn,3,332,UK,30000000,2011,902,6.9,2.35
-,55,25,,443,David Ogden Stiers,36265,2195,Mike Farrell,5,147,USA,,,421,8.4,4.0
-John Schlesinger,88,113,154,183,Brenda Vaccaro,76616,465,John McGiver,2,334,USA,3600000,1969,89,7.9,1.85
-Peter Cattaneo,122,91,11,1000,Tom Wilkinson,82232,2323,Lesley Sharp,3,174,UK,3500000,1997,891,7.2,1.85
-Jim Abrahams,134,88,104,628,Peter Graves,160281,2726,Barbara Billingsley,0,427,USA,3500000,1980,575,7.8,1.85
-Kevin Carraway,11,88,2,2000,Michael Jai White,801,2886,Jon Osbeck,3,14,USA,5000000,2015,872,3.5,1.33
-F. Gary Gray,20,97,473,826,Nia Long,74626,3455,Tony Cox,1,157,USA,3500000,1995,723,7.3,1.85
-Albert Hughes,28,97,117,851,Jada Pinkett Smith,39508,3036,Khandi Alexander,2,96,USA,3500000,1993,582,7.5,1.85
-,22,42,,912,Ta'Rhonda Jones,27418,4337,Malik Yoba,2,92,USA,,,906,7.8,16.0
-Michael Gornick,95,85,10,3000,George Kennedy,15956,3617,Dorothy Lamour,0,118,USA,3500000,1987,273,6.0,1.85
-Sam Peckinpah,31,121,541,575,Slim Pickens,6350,1970,L.Q. Jones,2,62,USA,3716946,1970,372,7.3,1.85
-Richard Brooks,79,134,174,255,John Forsythe,19026,970,Will Geer,1,128,USA,3500000,1967,220,8.0,2.35
-Fred Zinnemann,25,149,160,157,Colleen Dewhurst,7071,646,Beatrice Straight,0,83,USA,3500000,1959,139,7.6,1.78
-Jack Smight,22,121,22,606,Janet Leigh,5941,2402,Shelley Winters,1,74,USA,3500000,1966,481,7.0,2.35
-Alfred Hitchcock,110,116,13000,195,Bernard Cribbins,30982,771,Clive Swift,0,199,UK,2000000,1972,146,7.5,1.85
-Robert Eggers,425,92,22,648,Julian Richings,66483,1122,Ralph Ineson,0,452,USA,3500000,2015,191,6.8,1.66
-Michael Martin,19,93,0,625,Joe Estevez,1721,987,Anthony Johnson,2,38,USA,3500000,1998,118,3.9,1.85
-Edward Burns,43,96,0,385,John Mahoney,13949,995,Michael McGlone,2,98,USA,3500000,1996,356,6.1,1.85
-Bill Condon,127,105,386,3000,Brendan Fraser,24977,4238,Kevin J. O'Connor,2,229,USA,3500000,1998,258,7.5,2.35
-Juan José Campanella,262,129,195,827,Ricardo Darín,131831,1044,Guillermo Francella,0,231,Argentina,2000000,2009,88,8.2,2.35
-George A. Romero,184,87,0,1000,Greg Nicotero,49672,1592,Joseph Pilato,1,419,USA,3500000,1985,177,7.2,1.85
-Gideon Raff,33,94,47,430,Gideon Emery,4790,836,Derek Magyar,1,52,USA,,2008,209,4.8,1.85
-Sam Raimi,252,37,0,634,Ted Raimi,113451,1347,Kassie Wesley DePaiva,0,537,USA,3600000,1987,328,7.8,1.85
-Louis C.K.,31,81,0,560,Wanda Sykes,11399,2238,Robert Vaughn,0,131,USA,3000000,2001,555,5.2,1.85
-Anthony C. Ferrante,139,97,48,984,Ian Ziering,34532,3075,Cassandra Scerbo,0,236,USA,1000000,2013,697,3.3,1.78
-Salvador Carrasco,39,106,22,174,Elpidia Carrillo,1024,222,Damián Delgado,0,494,Mexico,3500000,1998,16,6.8,1.85
-André Øvredal,337,103,12,29,Otto Jespersen,54104,44,Glenn Erland Tosterud,0,199,Norway,19900000,2010,4,7.0,1.85
-Robert Cary,30,101,0,827,Frances Conroy,1950,3574,Kevin Sussman,3,24,USA,3500000,2006,729,6.5,1.85
-Akiva Schaffer,265,102,82,622,Will Forte,104072,2486,Rosemarie DeWitt,4,207,USA,68000000,2012,591,5.7,2.35
-Adam Rapp,50,98,9,11000,Zooey Deschanel,7228,20009,Dallas Roberts,4,53,USA,3500000,2005,8000,6.4,1.85
-Angela Robinson,50,91,23,4000,Jordana Brewster,12188,6380,Scoot McNairy,3,135,USA,3500000,2004,756,5.3,2.35
-Warren P. Sonoda,9,105,28,426,Diahann Carroll,342,1043,Lara Jean Chorostecki,0,15,Canada,3500000,2016,294,4.7,1.85
-Amanda Gusack,15,98,0,368,Alice Krige,1634,668,Blaine Anderson,0,11,USA,3500000,2008,168,6.1,1.85
-Avi Nesher,5,104,6,922,Fisher Stevens,372,2406,Robert Townsend,6,20,USA,1000000,1998,893,5.5,1.37
-,1,45,,773,James Nesbitt,653,1393,Genevieve O'Reilly,3,4,UK,,,133,7.3,
-Charles Adelman,4,96,0,708,Teri Polo,961,2307,Jere Burns,0,12,USA,3500000,2009,574,4.8,2.35
-Jay Oliva,44,148,41,2000,Michael Emerson,30434,5526,Grey Griffin,0,55,USA,3500000,2013,774,8.4,
-Charles Ferguson,6,100,117,21,Jane Goodall,75,24,Peter Agnefjall,0,2,USA,3500000,2015,3,7.0,
-Uwe Boll,17,86,892,603,Bashar Rahal,1285,854,Ralitsa Paskaleva,1,10,Canada,3500000,2014,145,3.3,1.78
-Mark Young,7,92,14,2000,Alexa PenaVega,1928,3854,Lew Temple,2,10,USA,3500000,2014,660,5.4,1.85
-Daniel Petrie Jr.,9,88,19,795,Chris Brochu,455,2497,Rita Wilson,0,13,,3500000,2014,535,4.8,2.35
-Antonio Simoncini,3,90,0,1000,Ray Winstone,610,1183,Glen Murphy,1,18,UK,3440000,2014,53,3.1,2.35
-Mel Brooks,55,94,0,1000,Madeline Kahn,15115,2861,Dick Van Patten,0,102,USA,3400000,1977,628,6.7,1.85
-Luc Jacquet,169,80,10,11000,Morgan Freeman,45984,11218,Romane Bohringer,0,331,France,8000000,2005,108,7.6,1.85
-J.C. Chandor,290,107,78,18000,Kevin Spacey,92599,22834,Ashley Williams,8,225,USA,3500000,2011,2000,7.1,1.85
-Eldar Rapaport,10,99,0,141,Murray Bartlett,1262,320,Edward Conna,1,13,USA,,2011,69,6.1,2.35
-Clark Gregg,159,92,0,1000,Anjelica Huston,28573,3608,Jonah Bobo,0,72,USA,3000000,2008,585,6.5,1.66
-Damien Chazelle,535,107,141,24000,J.K. Simmons,399138,26495,Chris Mulkey,0,731,USA,3300000,2014,970,8.5,2.4
-Fernando Meirelles,214,135,353,1000,Alice Braga,533200,1211,Alexandre Rodrigues,0,749,Brazil,3300000,2002,69,8.7,1.85
-Justin Kerrigan,47,99,8,798,Danny Dyer,19194,1430,Shaun Parkes,2,160,UK,2200000,1999,472,7.1,1.85
-Nathan Frankowski,17,102,19,632,Corbin Bleu,2116,1011,Luis Antonio,7,13,USA,3400000,2012,144,6.6,
-Karen Moncrieff,85,93,22,11000,James Franco,12304,11860,Piper Laurie,0,73,USA,,2006,505,6.7,1.85
-Thomas Vinterberg,349,115,346,74,Thomas Bo Larsen,170155,216,Hana Shuan,1,249,Denmark,3800000,2012,69,8.3,2.35
-Bob Clark,109,94,84,662,Zack Ward,104908,2076,Scott Schwartz,0,458,USA,4000000,1983,577,8.1,1.85
-Alejandro Monteverde,60,91,38,625,Armando Riesco,9607,2747,Eduardo Verástegui,0,174,USA,3300000,2006,464,7.4,1.85
-Mark L. Lester,101,98,73,595,Roddy McDowall,6549,1105,Timothy Van Patten,4,75,Canada,4300000,1982,251,6.6,1.85
-Jennifer Finnigan,1,97,246,756,Geoff Stults,557,3717,Josh Hopkins,5,3,USA,3300000,2014,521,4.5,16.0
-Eric Styles,16,92,4,631,Samantha Morton,704,2020,Miriam Margolyes,0,18,USA,2000000,1999,443,6.4,
-Laurent Cantet,212,128,39,15,François Bégaudeau,29248,17,Angélica Sancio,7,86,France,,2008,2,7.5,2.35
+director_name,num_critic_for_reviews,actor_3_facebook_likes,actor_2_name,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,plot_keywords,num_user_for_reviews,language,country,content_rating,actor_2_facebook_likes,imdb_score,movie_facebook_likes
+Roland Emmerich,185,933,Adam Baldwin,Action|Adventure|Sci-Fi,Will Smith,Independence Day ,430055,16785,alien|area 51|military|spacecraft|spaceship,856,English,USA,PG-13,2000,6.9,16000
+Steven Spielberg,177,227,Richard Schiff,Action|Adventure|Sci-Fi,Ariana Richards,The Lost World: Jurassic Park ,278362,1635,capture|dinosaur|island|jurassic|jurassic park,552,English,USA,PG-13,506,6.5,0
+Eric Darnell,181,179,Cedric the Entertainer,Adventure|Animation|Comedy|Family,Jada Pinkett Smith,Madagascar ,266636,1777,escape|jungle|lemur|madagascar|zoo,385,English,USA,PG,436,6.9,0
+Alfonso Cuarón,372,18,Danny Huston,Drama|Sci-Fi|Thriller,Charlie Hunnam,Children of Men ,361767,16479,chaos|england|long take|survival|violence,1206,English,USA,R,430,7.9,17000
+Bryan Singer,290,505,Tyler Mane,Action|Adventure|Sci-Fi,Hugh Jackman,X-Men ,452928,21397,first part|mutant|professor|superhero|superhero team,1401,English,USA,PG-13,764,7.4,0
+Timur Bekmambetov,316,988,Morgan Freeman,Action|Crime|Fantasy|Thriller,Angelina Jolie Pitt,Wanted ,299852,25763,assassin|bobble head doll|femme fatale|rejuvenation|strong female lead,713,English,USA,R,11000,6.7,0
+Michael Bay,122,904,Michael Biehn,Action|Adventure|Thriller,Nicolas Cage,The Rock ,259492,15999,alcatraz|fbi|general|hostage|rocket,415,English,USA,R,2000,7.4,51000
+Carlos Saldanha,164,241,Ray Romano,Action|Adventure|Animation|Comedy|Family|Fantasy,Denis Leary,Ice Age: The Meltdown ,194249,1815,flood|mammoth|no opening credits|squirrel|valley,253,English,USA,PG,590,6.9,0
+Peter Segal,147,328,Peter Dante,Comedy|Romance,Adam Sandler,50 First Dates ,266103,12952,dream|hawaii|hawaiian shirt|short term memory loss|veterinarian,456,English,USA,PG-13,427,6.8,11000
+Adam Shankman,219,260,Elijah Kelley,Comedy|Drama|Family|Music|Musical|Romance,Jerry Stiller,Hairspray ,98693,1673,audition|best friend|dance|friend|tv dance show,401,English,USA,PG,339,6.7,0
+Renny Harlin,167,394,Alan Ford,Horror|Mystery|Thriller,James D'Arcy,Exorcist: The Beginning ,28635,1970,archeologist|church|excavation|faith|relic,308,English,USA,R,422,5.1,893
+David Kellogg,70,692,Rene Auberjonois,Action|Adventure|Comedy|Family|Sci-Fi,Matthew Broderick,Inspector Gadget ,36491,5320,actor playing multiple roles|claw|gadget|inspector|police,231,English,USA,PG,710,4.1,509
+Louis Leterrier,384,963,Common,Crime|Mystery|Thriller,Morgan Freeman,Now You See Me ,447979,13312,bank|fbi|heist|interpol|magician,629,English,USA,PG-13,988,7.3,105000
+Dennis Dugan,179,4000,Adam Sandler,Comedy,Steve Buscemi,Grown Ups ,181443,28497,basketball|coach|daughter|high school|high school basketball,311,English,USA,PG-13,11000,6.0,12000
+Steven Spielberg,151,232,Chi McBride,Comedy|Drama,Tom Hanks,The Terminal ,303864,16199,airport|construction site|fish out of water|flight attendant|man without a country,596,English,USA,PG-13,466,7.3,16000
+,12,218,Matt Ryan,Drama|Fantasy|Horror|Thriller,Harold Perrineau,Constantine             ,36919,1990,based on comic|based on comic book|dc arrowverse|dc comics|supernatural,94,English,USA,TV-14,560,7.5,10000
+Thor Freudenthal,107,446,Kevin Dillon,Comedy|Family,Don Cheadle,Hotel for Dogs ,16271,5174,abandoned hotel|dog|foster home|overalls|playing with a dog,57,English,USA,PG,576,5.4,1000
+Martin Campbell,134,748,Scott Glenn,Action|Adventure|Drama|Thriller,Nicholas Lea,Vertical Limit ,49536,3424,death|die hard scenario|k2|rescue|urination,379,English,USA,PG-13,826,5.9,0
+Mike Nichols,269,15000,Tom Hanks,Biography|Comedy|Drama|History,Philip Seymour Hoffman,Charlie Wilson's War ,88451,60646,afghanistan|arms dealer|based on true story|cia|texas,289,English,USA,R,15000,7.1,0
+Bibo Bergeron,143,11000,Martin Scorsese,Adventure|Animation|Comedy|Family,Robert De Niro,Shark Tale ,132415,63165,anchor|fish|mobster|shark|vegetarian,288,English,USA,PG,17000,6.0,0
+Bill Condon,241,525,Jennifer Hudson,Drama|Music|Musical,Loretta Devine,Dreamgirls ,55901,2856,1960s|fire|pop chart|singer|trio,503,English,USA,PG-13,549,6.5,0
+,12,0,Brent Sexton,Crime|Drama|Mystery,Adam Arkin,Life             ,29450,504,cop|murder|partner|police|protective male,67,English,USA,,130,8.3,0
+F. Gary Gray,161,680,Christina Milian,Comedy|Crime|Music,Dwayne Johnson,Be Cool ,59435,15889,concert|mobster|russian|sequel|widow,323,English,USA,PG-13,1000,5.7,0
+Steven Spielberg,298,412,Moritz Bleibtreu,Drama|History|Thriller,Ayelet Zurer,Munich ,176936,2529,arab|black september|israel|jew|munich olympics,824,English,France,R,486,7.6,0
+Antoine Fuqua,89,787,Tom Skerritt,Action|Drama|Thriller|War,Bruce Willis,Tears of the Sun ,93494,16580,dictator|doctor|jungle|rebel|refugee,394,English,USA,R,1000,6.6,0
+Robert Luketic,140,925,Lisa Ann Walter,Action|Comedy|Romance|Thriller,Tom Selleck,Killers ,72867,25206,hired killer|marriage|neighbor|on the run|store clerk,120,English,USA,PG-13,1000,5.4,0
+Guy Ritchie,362,104,Elizabeth Debicki,Action|Adventure|Comedy,Henry Cavill,The Man from U.N.C.L.E. ,175960,15735,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,360,English,USA,PG-13,509,7.3,43000
+James L. Brooks,124,138,Paz Vega,Comedy|Drama|Romance,Adam Sandler,Spanglish ,65668,12522,chef|college|housekeeper|letter|mexico,342,English,USA,PG-13,964,6.5,0
+Gil Kenan,190,925,Jon Heder,Animation|Comedy|Family|Fantasy|Mystery,Steve Buscemi,Monster House ,71137,17299,babysitter|halloween|house|neighbor|suburb,229,English,USA,PG,970,6.6,0
+Barry Levinson,132,193,Brían F. O'Byrne,Comedy|Crime|Drama|Romance,Bruce Willis,Bandits ,57038,13934,bank manager|hypochondriac|love triangle|prison|television,261,English,USA,PG-13,450,6.6,0
+Jerry Zucker,53,249,Ben Cross,Action|Adventure|Romance|Thriller,Julia Ormond,First Knight ,55350,1695,battle|king|king arthur|knight|marriage,180,English,USA,PG-13,303,5.9,0
+Andy Tennant,91,99,Geoffrey Palmer,Drama|History|Romance,Bai Ling,Anna and the King ,31080,804,1860s|children|king|schoolteacher|siam,217,English,USA,PG-13,103,6.7,0
+Tarsem Singh,284,222,Daniel Sharman,Action|Drama|Fantasy|Romance,Henry Cavill,Immortals ,138190,16691,burned alive|castration|olympus|torture|torture device,405,English,USA,R,1000,6.1,30000
+Florent-Emilio Siri,152,759,Bruce Willis,Action|Crime|Drama|Mystery|Thriller,Jimmy Bennett,Hostage ,93790,103354,california|hostage|hostage negotiator|organized crime|police,288,English,USA,R,13000,6.6,0
+Don Bluth,131,886,Janeane Garofalo,Action|Adventure|Animation|Family|Sci-Fi,Matt Damon,Titan A.E. ,52244,15857,alien|captain|escape|pilot|scientist,377,English,USA,PG,1000,6.6,0
+Ron Shelton,132,541,Bruce Greenwood,Action|Comedy|Crime|Thriller,Harrison Ford,Hollywood Homicide ,31293,14028,audition|kissing while having sex|machismo|murder|sex,254,English,USA,PG-13,982,5.3,648
+Paul W.S. Anderson,67,533,Sean Pertwee,Action|Drama|Sci-Fi,Connie Nielsen,Soldier ,44248,2542,crash survivor|planet|sergeant|soldier|survivor,373,English,UK,R,722,6.0,0
+David Pastor,130,394,Kiernan Shipka,Drama|Horror|Sci-Fi|Thriller,Christopher Meloni,Carriers ,35510,4368,beach|disease|latex gloves|pandemic|virus,119,English,USA,PG-13,552,6.0,0
+Henry Selick,74,637,Bridget Fonda,Animation|Comedy|Fantasy,Brendan Fraser,Monkeybone ,14280,5580,carnival|coma|death|monkey|nightmare,171,English,USA,PG-13,889,4.7,683
+John Moore,114,568,Tony Curran,Action|Adventure|Drama|Thriller,Dennis Quaid,Flight of the Phoenix ,45815,4397,captain|desert|rescue|stranded|survivor,222,English,USA,PG-13,845,6.1,1000
+M. Night Shyamalan,294,963,Bruce Willis,Drama|Mystery|Sci-Fi|Thriller,Robin Wright,Unbreakable ,245152,33645,child with gun|comic book|invulnerability|superhero|train crash,1344,English,USA,PG-13,13000,7.2,0
+Kyle Balda,308,1000,Jon Hamm,Action|Animation|Comedy|Family|Sci-Fi,Steve Carell,Minions ,142403,13616,antarctica|minion|queen|super villain|villain,275,English,USA,PG,4000,6.4,70000
+Zack Snyder,435,826,Abbie Cornish,Action|Fantasy,Jon Hamm,Sucker Punch ,197584,7067,alternate reality|escape|girl gang|prostitution|samurai,918,English,USA,PG-13,2000,6.1,42000
+Brian De Palma,117,697,Mike Starr,Crime|Mystery|Thriller,Nicolas Cage,Snake Eyes ,64121,15269,assassination|boxing|casino|conspiracy|long take,241,English,USA,R,854,5.9,880
+Barry Levinson,108,215,James Pickens Jr.,Drama|Mystery|Sci-Fi|Thriller,Peter Coyote,Sphere ,81611,1044,manifestation|ocean|spacecraft|spaceship|sphere,274,English,USA,PG-13,270,6.0,0
+Clay Kaytis,141,415,Josh Gad,Action|Animation|Comedy|Family,Peter Dinklage,The Angry Birds Movie ,27130,24350,butt|downward duck|fish|kingfisher|pig,126,English,USA,PG,1000,6.3,14000
+Andy Tennant,176,715,Ray Winstone,Action|Adventure|Comedy|Romance|Thriller,Matthew McConaughey,Fool's Gold ,59352,13827,debt|rapper|treasure|treasure hunter|yacht,138,English,USA,PG-13,1000,5.6,0
+Judd Apatow,230,130,RZA,Comedy|Drama,Adam Sandler,Funny People ,100837,11852,breasts|comedian|craigslist|infidelity|stand up comedian,301,English,USA,R,561,6.4,0
+Peter Berg,234,461,Frances Fisher,Action|Drama|Thriller,Jennifer Garner,The Kingdom ,101386,5187,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,289,English,USA,R,638,7.1,0
+Adam McKay,164,989,Leslie Bibb,Action|Comedy|Sport,Will Ferrell,Talladega Nights: The Ballad of Ricky Bobby ,130776,12410,car racing|french|friend|nascar|racing,437,English,USA,PG-13,1000,6.6,0
+Steve Carr,91,574,Jeffrey Jones,Comedy|Family|Fantasy,Raven-Symoné,Dr. Dolittle 2 ,33884,3287,bear|doctor|false accusation|man with glasses|second part,79,English,USA,PG,692,4.6,266
+Mel Gibson,132,403,Patrick McGoohan,Biography|Drama|History|War,Mhairi Calvey,Braveheart ,736638,1976,14th century|legend|revolt|scotland|tyranny,1065,English,USA,R,466,8.4,17000
+Sam Mendes,262,210,Brian Geraghty,Action|Drama|War,Jake Gyllenhaal,Jarhead ,143525,15850,american abroad|gulf war|u.s. military|u.s. soldier|usmc,657,English,Germany,R,383,7.1,0
+David Silverman,299,433,Yeardley Smith,Adventure|Animation|Comedy,Albert Brooks,The Simpsons Movie ,259083,3086,alaska|dome|lake|pig|the simpsons,763,English,USA,PG-13,440,7.4,0
+Frank Darabont,128,745,Hal Holbrook,Drama|Romance,Martin Landau,The Majestic ,45031,4310,amnesia|california|communist|small town|writer,376,English,USA,PG,826,6.9,0
+Renny Harlin,109,462,Estella Warren,Action|Drama|Sport,Sylvester Stallone,Driven ,34435,14780,car race|german|race car|race car driver|rookie,346,English,USA,PG-13,658,4.5,886
+Jean-Jacques Annaud,88,8,Jean-Claude Dreyfus,Adventure|Drama|Family,David Gant,Two Brothers ,11798,55,circus|death of protagonist|jungle|killing an animal|tiger,124,English,France,PG,17,7.1,2000
+M. Night Shyamalan,261,882,Judy Greer,Drama|Mystery|Romance|Thriller,Bryce Dallas Howard,The Village ,193770,7273,creature|pact|plot twist|village|woods,2003,English,USA,PG-13,2000,6.5,0
+Betty Thomas,73,595,Raven-Symoné,Comedy|Family|Fantasy,Oliver Platt,Doctor Dolittle ,74343,4166,box office hit|doctor|dog|first part|tiger,98,English,USA,PG-13,1000,5.3,694
+M. Night Shyamalan,208,242,Merritt Wever,Drama|Sci-Fi|Thriller,Rory Culkin,Signs ,271592,1675,crop circle|faith|farm|glass of water|loss of faith,2335,English,USA,PG-13,529,6.7,0
+Andrew Adamson,205,48,Jennifer Saunders,Adventure|Animation|Comedy|Family|Fantasy|Romance,Rupert Everett,Shrek 2 ,314630,1148,drag queen|physical appearance|princess|queen|sequel,483,English,USA,PG,309,7.2,0
+John Lasseter,256,769,Cheech Marin,Adventure|Animation|Comedy|Family|Sport,John Ratzenberger,Cars ,263853,4905,car|desert|route 66|tow truck|truck,584,English,USA,G,843,7.2,0
+Garry Marshall,103,995,Christopher Meloni,Comedy|Romance,Julia Roberts,Runaway Bride ,74274,12790,bride|columnist|journalist|maryland|wedding,255,English,USA,PG,3000,5.5,0
+Rob Cohen,191,212,Eve,Action|Adventure|Thriller,Vin Diesel,xXx ,142569,14790,agent|nsa|nsa agent|prague|russian,737,English,USA,PG-13,223,5.8,10000
+Paul Tibbitt,147,726,Billy West,Adventure|Animation|Comedy|Family|Fantasy,Tim Conway,The SpongeBob Movie: Sponge Out of Water ,34359,5217,book|magic|pirate|plankton|time machine,133,English,USA,PG,861,6.0,16000
+Ron Howard,79,808,Delroy Lindo,Crime|Thriller,Lili Taylor,Ransom ,98989,3667,bounty|fbi|millionaire|money|ransom,158,English,USA,R,848,6.6,1000
+Quentin Tarantino,486,11000,Brad Pitt,Adventure|Drama|War,Michael Fassbender,Inglourious Basterds ,885175,36741,france|german|nazis|revenge|scalping,1527,English,USA,R,11000,8.3,42000
+Steven Spielberg,75,5000,Julia Roberts,Adventure|Comedy|Family|Fantasy,Robin Williams,Hook ,182802,64259,1990s|caught in a net|children|duel|hero,363,English,USA,PG,8000,6.7,13000
+Brett Ratner,245,467,Rufus Sewell,Action|Adventure,Dwayne Johnson,Hercules ,115687,16235,army|greek mythology|hercules|king|mercenary,269,English,USA,PG-13,3000,6.0,21000
+Renny Harlin,142,576,John Amos,Action|Thriller,Bruce Willis,Die Hard 2 ,269858,16595,airport|fuel|plane|police|terrorist,316,English,USA,R,982,7.1,0
+Clark Johnson,144,1000,Josh Charles,Action|Adventure|Crime|Thriller,Jeremy Renner,S.W.A.T. ,119807,14486,hostage|police|prison|swat team|training,340,English,USA,PG-13,1000,6.0,0
+,39,160,Katia Winter,Adventure|Drama|Fantasy|Mystery|Thriller,Nicole Beharie,Sleepy Hollow             ,49049,1430,apocalypse|death|husband wife relationship|mother son relationship|murder,110,English,USA,TV-14,372,7.5,14000
+Cameron Crowe,153,509,Ivana Milicevic,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Tom Cruise,Vanilla Sky ,206776,11458,death|dream|love|lynchian|reality,1248,English,USA,R,834,6.9,0
+M. Night Shyamalan,284,559,Freddy Rodríguez,Drama|Fantasy|Mystery|Thriller,Bryce Dallas Howard,Lady in the Water ,78635,5609,apartment|bedtime story|eagle|stuttering|swimming pool,1040,English,USA,PG-13,579,5.6,0
+Paul W.S. Anderson,247,727,Colin Salmon,Action|Horror|Sci-Fi|Thriller,Sanaa Lathan,AVP: Alien vs. Predator ,143628,3222,alien|antarctica|predator|pyramid|satellite,1283,English,USA,PG-13,766,5.6,0
+Betty Thomas,107,1000,Bridgit Mendler,Animation|Comedy|Family|Fantasy|Music,Amy Poehler,Alvin and the Chipmunks: The Squeakquel ,31649,5227,adidas|chipmunk|hospital|school|waste container,98,English,USA,PG,1000,4.5,2000
+Randall Wallace,141,841,Marc Blucas,Action|Drama|History|War,Jon Hamm,We Were Soldiers ,103241,6181,air cavalry|battle|major|soldier|vietnamese,742,English,USA,R,973,7.1,5000
+Antoine Fuqua,358,992,Morgan Freeman,Action|Thriller,Gerard Butler,Olympus Has Fallen ,203154,31782,political thriller|politics|president|speaker of the house|u.s. president,698,English,USA,R,11000,6.5,45000
+Jonathan Frakes,160,748,Jonathan Frakes,Action|Adventure|Sci-Fi|Thriller,LeVar Burton,Star Trek: Insurrection ,56741,6207,alien|captain|commander|conspiracy|planet,515,English,USA,PG,906,6.4,1000
+Jonathan Liebesman,355,464,Jim Parrack,Action|Sci-Fi,Noel Fisher,Battle Los Angeles ,154955,4001,alien|extraterrestrial|invasion|marine|mission,800,English,USA,PG-13,697,5.8,25000
+Tim Burton,235,883,Alison Lohman,Adventure|Drama|Fantasy,Steve Buscemi,Big Fish ,350698,16138,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,816,English,USA,PG-13,1000,8.0,26000
+Mike Nichols,59,184,Peter Gerety,Drama|Horror|Romance|Thriller,David Hyde Pierce,Wolf ,43559,1439,blood|publisher|publishing house|werewolf|wolf,137,English,USA,R,277,6.2,0
+Steven Spielberg,388,979,Benedict Cumberbatch,Drama|War,Jeremy Irvine,War Horse ,116159,46726,barbed wire|british|cavalry|horse|world war one,488,English,USA,PG-13,19000,7.2,28000
+George Clooney,371,559,Matt Damon,Drama|War,Bill Murray,The Monuments Men ,102248,27674,art|art expert|nazi stolen art|soldier|world war two,403,English,USA,PG-13,13000,6.1,34000
+James Cameron,82,638,Todd Graff,Adventure|Drama|Sci-Fi|Thriller,Michael Biehn,The Abyss ,131217,4074,alien|estranged couple|ocean|submarine|underwater,380,English,USA,PG-13,650,7.6,0
+Oliver Stone,297,17,Austin Pendleton,Drama,Frank Langella,Wall Street: Money Never Sleeps ,84118,1579,corporate greed|crisis|economy|greed|mentor,245,English,USA,PG-13,592,6.3,13000
+Gary Shore,261,423,Sarah Gadon,Action|Drama|Fantasy|Horror|War,Dominic Cooper,Dracula Untold ,138582,5178,death of wife|dracula|tarantula|turk|vampire,423,English,USA,PG-13,692,6.3,37000
+Edward Zwick,120,774,Bruce Willis,Action|Thriller,Denzel Washington,The Siege ,58023,32563,abduction|martial law|military|new york city|terrorist,281,English,USA,R,13000,6.3,0
+Matthew Vaughn,228,271,David Kelly,Adventure|Family|Fantasy|Romance,Henry Cavill,Stardust ,212085,16034,king|magic|one word title|pirate|village,492,English,UK,PG-13,588,7.7,15000
+Jean-Jacques Annaud,76,400,Mako,Adventure|Biography|Drama|History|War,Brad Pitt,Seven Years in Tibet ,96385,12226,austria|dalai lama|himalaya|mountain|tibet,119,English,USA,PG-13,691,7.0,0
+Ron Howard,185,244,Clint Howard,Comedy|Drama,Channing Tatum,The Dilemma ,43709,18510,best friend|friend|investigation|secret|two word title,141,English,USA,PG-13,1000,5.3,0
+Joel Schumacher,128,384,Brooke Smith,Action|Adventure|Comedy|Thriller,Anthony Hopkins,Bad Company ,39659,12993,cia|cia agent|terrorist|twin|twin brother,189,English,USA,PG-13,405,5.6,792
+Andrzej Bartkowiak,237,452,Ben Daniels,Action|Adventure|Horror|Sci-Fi,Dwayne Johnson,Doom ,88146,13517,commando unit|extra chromosome|first person shooter|special forces|teleportation,814,English,UK,R,585,5.2,0
+Betty Thomas,105,150,Phill Lewis,Action|Adventure|Comedy|Thriller,Gary Cole,I Spy ,41663,1576,boxer|espionage|spy|stealth|top secret,141,English,USA,PG-13,229,5.4,531
+Måns Mårlind,242,324,Stephen Rea,Action|Fantasy|Horror,Theo James,Underworld: Awakening ,117096,5861,battle|cryogenics|detective|scientist|vampire,271,English,USA,R,327,6.4,24000
+Adam Shankman,360,66,Shane Hartline,Comedy|Drama|Musical|Romance,James Martin Kelly,Rock of Ages ,61995,712,concert|love|music industry|panties|pole dancer,356,English,USA,PG-13,217,5.9,33000
+Gregory Hoblit,112,407,Cole Hauser,Drama|War,Bruce Willis,Hart's War ,43651,15916,colonel|honor|lieutenant|pilot|racism,196,English,USA,R,787,6.3,997
+Gary McKendry,189,748,Robert De Niro,Action|Crime|Thriller,Jason Statham,Killer Elite ,105556,49608,australia|death|mentor|revenge|secret society,157,English,UK,R,22000,6.5,17000
+John McTiernan,151,390,Chris Klein,Action|Sci-Fi|Sport,LL Cool J,Rollerball ,22264,2763,ball|blood|skating|song|year 2005,289,English,USA,R,841,3.0,584
+Wych Kaosayananda,92,298,Sandrine Holt,Action|Crime|Sci-Fi|Thriller,Talisa Soto,Ballistic: Ecks vs. Sever ,16761,1846,blood splatter|camera shot from inside human body|combat|die hard scenario|fbi,277,English,USA,R,324,3.6,391
+Mikael Salomon,79,695,Minnie Driver,Action|Crime|Drama|Thriller,Morgan Freeman,Hard Rain ,26893,13628,dam|flood|money|police|sheriff,126,English,USA,R,893,5.8,815
+Bobby Farrelly,81,443,Brandy Norwood,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Ron Howard,Osmosis Jones ,25572,3734,blood|body|egg|virus|white blood cell,123,English,USA,PG,509,6.2,2000
+Will Finn,51,854,Oliver Platt,Adventure|Animation|Family|Fantasy|Musical,Lea Michele,Legends of Oz: Dorothy's Return ,5116,6946,jester|kansas|oz|princess|tornado,54,English,USA,PG,1000,5.6,5000
+Michael Mann,261,301,Archie Kao,Action|Crime|Drama|Mystery|Thriller,Chris Hemsworth,Blackhat ,38983,28129,chinese|computer|cybercrime|hacker|one word title,207,English,USA,R,326,5.4,11000
+Kerry Conran,197,582,Laurence Olivier,Action|Adventure|Mystery|Sci-Fi|Thriller,Angelina Jolie Pitt,Sky Captain and the World of Tomorrow ,72868,12871,captain|pilot|reporter|robot|scientist,618,English,USA,PG,1000,6.1,0
+Michael Caton-Jones,159,246,Indira Varma,Crime|Mystery|Thriller,Charlotte Rampling,Basic Instinct 2 ,31124,1899,drugs|murder|psychiatrist|scotland yard|sex,313,English,UK,R,729,4.2,764
+Mikael Håfström,286,585,50 Cent,Action|Crime|Mystery|Sci-Fi|Thriller,Sylvester Stallone,Escape Plan ,177653,15708,cia agent|escape|muslim|prison|ship,279,English,USA,R,1000,6.7,34000
+Renny Harlin,156,182,Luke Newberry,Action|Adventure|Fantasy,Roxanne McKee,The Legend of Hercules ,44891,1520,ancient greece|forbidden love|hercules|king|slavery,202,English,USA,PG-13,358,4.2,12000
+Phil Alden Robinson,176,497,Bruce McGill,Action|Drama|Thriller,Morgan Freeman,The Sum of All Fears ,86504,12556,analyst|cia|nuclear bomb|nuclear weapons|russia,568,English,USA,PG-13,655,6.4,0
+David Slade,293,10000,Kristen Stewart,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: Eclipse ,184637,52547,friendship|graduation|revenge|vampire|werewolf,498,English,USA,PG-13,17000,4.9,29000
+Frank Oz,141,580,Marlon Brando,Crime|Drama|Thriller,Robert De Niro,The Score ,101899,32871,partner|running|scepter|surveillance|thief,445,English,USA,R,10000,6.8,0
+Pierre Coffin,304,975,Miranda Cosgrove,Animation|Comedy|Family,Steve Carell,Despicable Me ,385943,11608,girl|minion|moon|pyramid|white picket fence,296,English,USA,PG,2000,7.7,31000
+Joseph Ruben,40,97,Robert Blake,Action|Comedy|Crime|Drama|Thriller,Vincent Pastore,Money Train ,32224,1132,bare breasts|breast|loan shark|subway|train,62,English,USA,R,220,5.6,617
+Seth MacFarlane,280,3000,Morgan Freeman,Comedy,Liam Neeson,Ted 2 ,117739,30010,baby|f word|fight|lawyer|marriage,229,English,USA,R,11000,6.4,30000
+Alejandro Amenábar,180,334,Ashraf Barhom,Adventure|Drama|History|Romance,Max Minghella,Agora ,52496,1829,christian|love|philosophy|prefect|slave,172,English,Spain,R,451,7.2,29000
+Kinka Usher,125,776,Wes Studi,Action|Comedy|Fantasy|Sci-Fi,Janeane Garofalo,Mystery Men ,53970,3986,bowling|rajah|sphinx|spleen|superhero,435,English,USA,PG-13,855,6.0,0
+Bobby Farrelly,237,681,Larry Joe Campbell,Comedy|Romance,Jenna Fischer,Hall Pass ,103230,3393,drugged food|female frontal nudity|male frontal nudity|male nudity|marriage,143,English,USA,R,919,5.9,10000
+Michael Mann,209,680,Rip Torn,Biography|Drama|Thriller,Al Pacino,The Insider ,133526,18216,cbs|cbs news|research|tobacco|whistleblower,521,English,USA,R,826,7.9,0
+Craig Gillespie,178,531,Abraham Benrubi,Action|Drama|History|Thriller,Michael Raymond-James,The Finest Hours ,27481,3524,1950s|coast guard|oil tanker|sinking ship|survival,113,English,USA,PG-13,562,6.8,12000
+Ridley Scott,238,135,Simon McBurney,Action|Drama|Thriller,Leonardo DiCaprio,Body of Lies ,174248,29824,cia|jordan|middle east|spy|terrorist,263,English,USA,R,149,7.1,0
+Jay Roach,190,982,Stephanie Szostak,Comedy,Steve Carell,Dinner for Schmucks ,80338,10419,dinner|diorama|idiot|irs|mouse,264,English,USA,PG-13,1000,5.9,0
+Timur Bekmambetov,393,911,Dominic Cooper,Action|Fantasy|Horror,Rufus Sewell,Abraham Lincoln: Vampire Hunter ,128629,8281,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,348,English,USA,R,3000,5.9,98000
+Jon Amiel,138,232,Kevin McNally,Action|Crime|Romance|Thriller,Will Patton,Entrapment ,88132,1302,art thief|insurance|mask|master thief|reference to iron maiden,274,English,USA,PG-13,427,6.2,0
+,4,359,Kaitlyn Dever,Comedy,Hector Elizondo,Last Man Standing             ,15114,2465,family relationships|husband wife relationship|live studio audience|sitcom|three word title,87,English,USA,TV-PG,363,7.4,0
+Rob Bowman,142,745,Mitch Pileggi,Drama|Mystery|Sci-Fi|Thriller,Martin Landau,The X Files ,85720,4230,agent|alien|bomb|fbi|government,297,English,USA,PG-13,826,7.0,0
+Doug Lefler,90,112,Nonso Anozie,Action|Adventure|Fantasy|War,Colin Firth,The Last Legion ,29285,14625,5th century|boy|capri|roman legion|soldier,174,English,UK,PG-13,394,5.4,0
+Steven Spielberg,219,13000,Vin Diesel,Action|Drama|War,Tom Hanks,Saving Private Ryan ,881236,44998,army|invasion|killed in action|normandy|soldier,2277,English,USA,R,14000,8.6,22000
+Scott Waugh,327,464,Dominic Cooper,Action|Crime|Drama|Thriller,Rami Malek,Need for Speed ,136954,7081,cross country|custom car|illegal street racing|police officer crushed|street racing,346,English,USA,PG-13,3000,6.5,32000
+Nancy Meyers,149,912,Lisa Edelstein,Comedy|Fantasy|Romance,Judy Greer,What Women Want ,158864,5838,advertising|battle of the sexes|ex husband ex wife relationship|pantyhose|telepathy,395,English,USA,PG-13,955,6.4,0
+Chris Wedge,193,835,Stephen Root,Adventure|Animation|Comedy|Family,Goran Visnjic,Ice Age ,328159,5437,baby|ice|ice age|sleeping|sloth,467,English,USA,PG,939,7.6,3000
+Lawrence Kasdan,175,354,Michael O'Neill,Drama|Horror|Sci-Fi|Thriller,Morgan Freeman,Dreamcatcher ,75573,12194,alien|friend|maine|military|woods,662,English,USA,R,599,5.5,4000
+Steven Spielberg,538,655,Hal Holbrook,Biography|Drama|History|War,Joseph Gordon-Levitt,Lincoln ,197412,25517,cultural conflict|politics|president|slavery|u.s. president,720,English,USA,PG-13,826,7.4,71000
+Lana Wachowski,313,99,Marcus Chong,Action|Sci-Fi,Keanu Reeves,The Matrix ,1217752,18563,artificial reality|computer|matrix|questioning reality|simulated reality,3646,English,USA,R,145,8.7,25000
+Ron Howard,159,552,Miko Hughes,Adventure|Drama|History,Tom Hanks,Apollo 13 ,208817,17171,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,296,English,USA,PG,968,7.6,5000
+Paul Verhoeven,196,217,Rachel Ticotin,Action|Sci-Fi,Ronny Cox,Total Recall ,240241,1441,ambiguous ending|false memory|implanted memory|memory|space colony,391,English,USA,R,308,7.5,0
+Michael Lembeck,80,775,Aisha Tyler,Comedy|Family|Fantasy,Judge Reinhold,The Santa Clause 2 ,34561,5265,christmas|magic|santa claus|son|toy,116,English,USA,G,857,5.5,1000
+Tom Hooper,488,11000,Eddie Redmayne,Drama|Musical|Romance,Hugh Jackman,Les Misérables ,243834,46204,barricade|innkeeper|parole|rebellion|student,845,English,USA,PG-13,13000,7.6,144000
+Nora Ephron,153,744,Jean Stapleton,Comedy|Drama|Romance,Tom Hanks,You've Got Mail ,151812,17768,bookstore|competing businesses|instant messaging|new york city|shop owner,556,English,USA,PG,793,6.5,0
+Adam McKay,173,105,Adam Scott,Comedy,Will Ferrell,Step Brothers ,212499,11264,dream|friendship|karaoke|love|slacker,277,English,USA,R,3000,6.9,0
+Martin Campbell,156,94,Tony Amendola,Action|Adventure|Comedy|Romance|Thriller|Western,Anthony Hopkins,The Mask of Zorro ,135404,12396,19th century|california|revenge|training|zorro,318,English,USA,PG-13,174,6.7,0
+Todd Phillips,307,490,RZA,Comedy|Drama,Robert Downey Jr.,Due Date ,272789,23018,actor|aspiring actor|birth|misadventure|suitcase,285,English,USA,R,561,6.6,25000
+Angelina Jolie Pitt,322,465,Jack O'Connell,Biography|Drama|Sport|War,Finn Wittrock,Unbroken ,103589,2938,emaciation|male nudity|plane crash|prisoner of war|torture,351,English,USA,PG-13,698,7.2,35000
+Clint Eastwood,169,416,Courtney B. Vance,Action|Adventure|Thriller,Clint Eastwood,Space Cowboys ,60165,17771,nasa|old age|satellite|space|space shuttle,326,English,USA,PG-13,495,6.4,0
+Renny Harlin,74,369,Leon,Action|Adventure|Thriller,Sylvester Stallone,Cliffhanger ,96096,15229,money|mountain|rocky mountains|snow|suitcase,172,English,USA,R,730,6.4,0
+John Woo,72,461,Samantha Mathis,Action|Crime|Thriller,Delroy Lindo,Broken Arrow ,77390,2913,captain|desert|major|park ranger|utah,189,English,USA,R,517,6.0,0
+Jon Turteltaub,86,577,Lily Tomlin,Comedy|Family|Fantasy,Bruce Willis,The Kid ,34473,16452,altering history|cartoon on tv|childhood|image consultant|one two combo,139,English,USA,PG,718,6.1,0
+Oliver Stone,242,625,Jay Hernandez,Drama|History|Thriller,Nicolas Cage,World Trade Center ,67395,14421,based on true story|police|rescue|rubble|trapped,564,English,USA,PG-13,1000,6.0,0
+Mike Newell,141,403,Kirsten Dunst,Drama,Julia Roberts,Mona Lisa Smile ,61490,12850,art|college|school|student|wellesley college,264,English,USA,PG-13,4000,6.4,0
+Larry Charles,313,174,Aasif Mandvi,Comedy|Romance,Sayed Badreya,The Dictator ,213863,1375,dictator|hotel|oil|overalls|sunglasses,310,English,USA,R,346,6.4,59000
+Stanley Kubrick,280,521,Vinessa Shaw,Drama|Mystery|Thriller,Tom Cruise,Eyes Wide Shut ,227071,11424,doctor|orgy|party|pianist|sexual fantasy,1500,English,UK,R,580,7.3,10000
+Will Gluck,176,929,Dorian Missick,Comedy|Drama|Family|Musical,Quvenzhané Wallis,Annie ,24735,4796,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek,213,English,USA,PG,1000,5.2,16000
+Glenn Ficarra,279,523,Adrian Martinez,Comedy|Crime|Drama|Romance,Will Smith,Focus ,149337,11943,con artist|con man|deception|rivalry|seduction,221,English,USA,R,806,6.6,23000
+McG,241,520,Abigail Spencer,Action|Comedy|Romance,Tom Hardy,This Means War ,147641,29808,best friend|cia|cia agent|dating|undercover,238,English,USA,PG-13,1000,6.3,18000
+David S. Goyer,185,957,Natasha Lyonne,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Ryan Reynolds,Blade: Trinity ,132954,19764,blade|blood|dracula|vampire hunter|vampire slayer,514,English,USA,R,1000,5.9,0
+John Milius,97,919,Jennifer Grey,Action|Drama|War,Lea Thompson,Red Dawn ,41776,3860,guerrilla|high school|invasion|soviet|wolverine,383,English,USA,PG-13,1000,6.4,0
+Mike Nichols,117,210,Adrian Lester,Comedy|Drama,Maura Tierney,Primary Colors ,23940,1409,campaigning|candidate|election|governor|president,157,English,France,R,317,6.7,688
+Paul W.S. Anderson,239,974,Boris Kodjoe,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Resident Evil: Retribution ,104831,17913,corporation|fight|rescue|umbrella|zombie,423,English,Germany,R,1000,5.4,32000
+Paul W.S. Anderson,230,805,Max Ryan,Action|Sci-Fi|Thriller,Jason Statham,Death Race ,166610,28643,armored car|car|murder|prison|warden,211,English,USA,R,872,6.4,0
+Renny Harlin,94,263,Craig Bierko,Action|Crime|Drama|Mystery|Thriller,Melina Kanakaredes,The Long Kiss Goodnight ,60508,1531,amnesia|chase|foot chase|strong female character|vomiting,285,English,USA,R,380,6.7,4000
+Taylor Hackford,134,184,Alun Armstrong,Action|Drama|Thriller,Pamela Reed,Proof of Life ,49300,1013,jungle|pipeline|prisoner|ransom|south america,265,English,USA,R,192,6.2,892
+Jon Favreau,136,539,Josh Hutcherson,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Kristen Stewart,Zathura: A Space Adventure ,67707,32232,2000s|coke|meeting future self|reference to spongebob squarepants|sony,202,English,USA,PG,14000,6.1,0
+David Fincher,315,637,Meat Loaf,Drama,Brad Pitt,Fight Club ,1347461,13209,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,2968,English,USA,R,783,8.8,48000
+McG,96,383,Kimberly Williams-Paisley,Drama|Sport,Matthew McConaughey,We Are Marshall ,46951,12088,coach|football|football team|marshall university|university,175,English,USA,PG,529,7.1,0
+,14,575,James Nesbitt,Crime|Drama|Mystery,Jason Flemyng,The Missing             ,8739,3537,france|journalist|limp|police detective|reporter,28,English,UK,,773,8.1,0
+Michael Lehmann,60,554,James Coburn,Action|Adventure|Comedy,Bruce Willis,Hudson Hawk ,43376,15944,blackmail|burglar|critically bashed|leonardo da vinci|prison,249,English,USA,R,773,5.7,0
+Nora Ephron,60,506,Michael Moore,Comedy|Crime,Michael Rapaport,Lucky Numbers ,8560,3580,celebrity|lottery|murder|snowmobile|weatherman,69,English,France,R,909,5.0,177
+Stuart Beattie,308,568,Kevin Grevioux,Action|Fantasy|Sci-Fi|Thriller,Caitlin Stasey,"I, Frankenstein ",65709,3165,army|creature|demon|frankenstein|gargoyle,194,English,Australia,PG-13,593,5.1,15000
+Roman Polanski,127,25,Barney Clark,Crime|Drama,Ian McNeice,Oliver Twist ,25474,450,boy|character name in title|orphan|pickpocket|workhouse,138,English,UK,PG-13,85,6.9,0
+Rob Bowman,196,1000,Cary-Hiroyuki Tagawa,Action|Crime|Fantasy|Thriller,Jennifer Garner,Elektra ,71202,7048,assassin|battle|heroine|martial arts|spin off,380,English,Canada,PG-13,1000,4.8,0
+Frank Miller,339,6000,Bruce Willis,Action|Crime|Thriller,Joseph Gordon-Levitt,Sin City: A Dame to Kill For ,111102,49433,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,239,English,USA,R,13000,6.5,32000
+Sydney Pollack,96,970,Kristin Scott Thomas,Drama|Mystery|Romance,Harrison Ford,Random Hearts ,17025,16710,death|plane crash|police|police sergeant|politician,290,English,USA,R,1000,5.1,295
+Baltasar Kormákur,361,221,Martin Henderson,Adventure|Biography|Drama|History|Sport|Thriller,Michael Kelly,Everest ,134625,2131,blizzard|mount everest|mountain|mountain climbing|snow,265,English,UK,PG-13,580,7.1,40000
+Tom Tykwer,226,16,David Calder,Crime|Drama|Fantasy,Michael Smiley,Perfume: The Story of a Murderer ,190490,253,18th century|perfume|scent|sense of smell|smell,482,English,Germany,R,27,7.5,26000
+Jay Roach,194,481,Josh Zuckerman,Action|Comedy|Crime,Verne Troyer,Austin Powers in Goldmember ,162909,2725,fem bot|prison|seductive fembot|spy|time travel,795,English,USA,PG-13,522,6.2,0
+David Bowers,138,668,Charlize Theron,Action|Animation|Comedy|Family|Sci-Fi,Nicolas Cage,Astro Boy ,25681,23365,betrayal|futuristic|gladiator|robot|scientist,77,English,Hong Kong,PG,9000,6.3,0
+Steven Spielberg,308,191,Ariana Richards,Adventure|Sci-Fi|Thriller,Wayne Knight,Jurassic Park ,613473,2129,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,895,English,USA,PG-13,610,8.1,19000
+Lawrence Kasdan,40,812,Catherine O'Hara,Adventure|Biography|Crime|Drama|Western,Dennis Quaid,Wyatt Earp ,35314,5708,historically inaccurate|name calling|penis slur|vomiting|wyatt earp,145,English,USA,PG-13,925,6.6,0
+Phillip Noyce,42,672,Dean Jones,Action|Crime|Drama|Thriller,Harrison Ford,Clear and Present Danger ,69663,14178,cia|colombia|colombian drug cartel|drugs|president,133,English,USA,PG-13,913,6.9,0
+Daniel Lee,68,7,Peng Lin,Action|Adventure|Drama|History,Si Won Choi,Dragon Blade ,11584,58,child fugitive|final battle|martial art|silk road|sword,86,Mandarin,China,R,18,6.1,0
+Keenen Ivory Wayans,78,723,Brittany Daniel,Comedy|Crime,Chazz Palminteri,Littleman ,39471,6334,diamond|infant|parody|spoof|sports violence,187,English,USA,PG-13,862,4.3,0
+Jonathan Mostow,178,563,Thomas Kretschmann,Action|War,Matthew McConaughey,U-571 ,65297,14931,battle|historically inaccurate|submarine movie|u boat|world war two,602,English,France,PG-13,919,6.6,0
+Rob Reiner,75,452,Samantha Mathis,Comedy|Drama|Romance,Shawna Waldron,The American President ,43027,2668,lobbyist|president|senator|state dinner|widower,214,English,USA,PG-13,517,6.8,0
+Marco Schnabel,150,645,Romany Malco,Comedy|Romance|Sport,Justin Timberlake,The Love Guru ,43300,6658,bloopers during credits|bucket of popcorn|chastity belt|guru|toronto maple leafs,250,English,USA,PG-13,966,3.8,0
+Demian Lichtenstein,113,867,Bokeem Woodbine,Action|Comedy|Crime|Thriller,Jon Lovitz,3000 Miles to Graceland ,38076,14536,casino|elvis impersonator|gun|heist|rascal,399,English,USA,R,904,5.9,0
+Quentin Tarantino,596,1000,Jennifer Jason Leigh,Crime|Drama|Mystery|Thriller|Western,Craig Stark,The Hateful Eight ,272839,49912,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,1018,English,USA,R,1000,7.9,114000
+Josh Gordon,191,970,Amy Poehler,Comedy|Sport,Will Ferrell,Blades of Glory ,129995,13232,competition|fight|ice|jock strap|nintendo game boy advance,246,English,USA,PG-13,1000,6.3,0
+Tim Hill,156,439,Elizabeth Perkins,Adventure|Animation|Comedy|Family|Fantasy,Gary Cole,Hop ,24089,2558,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker,82,English,USA,PG,664,5.5,0
+Zack Snyder,460,447,Michael Fassbender,Action|Drama|Fantasy|War,Gerard Butler,300 ,607235,32360,battle|epic|greece|spartan|warrior,2073,English,USA,R,13000,7.7,13000
+Jay Roach,141,708,Blythe Danner,Comedy|Romance,Robert De Niro,Meet the Fockers ,211296,24938,bare butt|defecation|father in law son in law relationship|nurse|sexual innuendo in title,428,English,USA,PG-13,713,6.3,0
+David Frankel,180,664,Kathleen Turner,Comedy|Drama|Family,Eric Dane,Marley & Me ,116681,4811,box office hit|dog|dog movie|florida|pet name in title,320,English,USA,PG,899,7.1,11000
+Frank Darabont,186,693,Jeffrey DeMunn,Crime|Drama|Fantasy|Mystery,Tom Hanks,The Green Mile ,782610,17716,1930s|death row inmate|healing|prison guard|southern u.s.,1377,English,USA,R,745,8.5,30000
+Walt Becker,177,311,Tichina Arnold,Action|Adventure|Comedy,Jill Hennessy,Wild Hogs ,99989,1412,biker gang|friend|motorcycle|new mexico|road trip,255,English,USA,PG-13,330,5.9,0
+Mark Dindal,161,397,Fred Willard,Adventure|Animation|Comedy|Family|Sci-Fi,Catherine O'Hara,Chicken Little ,63912,2252,alien invasion|chicken|fish|friend|panic,251,English,USA,G,729,5.8,912
+David Fincher,568,625,Sela Ward,Crime|Drama|Mystery|Thriller,Patrick Fugit,Gone Girl ,569841,4348,based on novel|disappearance|missing person|missing wife|murder suspect,1127,English,USA,R,812,8.1,146000
+Doug Liman,249,73,Josh Hamilton,Action|Mystery|Thriller,Matt Damon,The Bourne Identity ,407601,13249,amnesia|assassin|money|political thriller|three word title,849,English,USA,PG-13,147,7.9,0
+Martin Campbell,137,345,Joe Don Baker,Action|Adventure|Thriller,Izabella Scorupco,GoldenEye ,199025,1784,agent|cossack|official james bond series|russia|russian,416,English,UK,PG-13,387,7.2,0
+Simon West,113,475,Timothy Hutton,Drama|Mystery|Thriller,Daniel von Bargen,The General's Daughter ,42705,2321,army cid|cover up|military|murder|woman in military,274,English,USA,R,501,6.3,885
+Peter Weir,213,576,Noah Emmerich,Comedy|Drama|Sci-Fi,Natascha McElhone,The Truman Show ,667983,3698,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,877,English,USA,PG,617,8.1,18000
+Brenda Chapman,120,145,Aria Noelle Curzon,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,Martin Short,The Prince of Egypt ,91093,1195,ancient egypt|hebrew|nudity|pharaoh|title directed by female,353,English,USA,PG,263,7.0,0
+Steve Carr,81,522,Lisa Edelstein,Comedy|Family,Anjelica Huston,Daddy Day Care ,49486,4050,bloopers during credits|breakfast cereal|department store ride|face painting|sponge bob square pants slippers,116,English,USA,PG,955,5.5,886
+Baltasar Kormákur,265,459,Patrick Fischler,Action|Comedy|Crime|Drama|Thriller,Denzel Washington,2 Guns ,156898,20148,close up of breasts|female nudity|fugitive|money|undercover,172,English,USA,R,497,6.7,22000
+Lawrence Guterman,105,405,Elizabeth Perkins,Action|Comedy|Family|Fantasy,Carol Ann Susi,Cats & Dogs ,46031,4171,cartoon on tv|cat|dog|scientist|secret agent,235,English,USA,PG,664,5.2,0
+F. Gary Gray,155,82,Charlize Theron,Action|Crime|Thriller,Jason Statham,The Italian Job ,285623,35084,gold|heist|revenge|traffic jam|venice italy,497,English,USA,PG-13,9000,7.0,0
+Marc Lawrence,118,268,Alicia Witt,Comedy|Romance,Dorian Missick,Two Weeks Notice ,85673,2636,developer|divorce|lawyer|love|new york city,269,English,USA,PG-13,976,6.1,0
+Eric Darnell,131,754,Woody Allen,Adventure|Animation|Comedy|Family,Sylvester Stallone,Antz ,124641,25788,ant|friend|princess|soldier|worker,289,English,USA,PG,11000,6.6,0
+Peter Billingsley,166,721,Kristin Davis,Comedy,Jon Favreau,Couples Retreat ,83506,8172,couple|island|marriage|tropical|voyeurism,144,English,USA,PG-13,722,5.5,0
+Tony Scott,60,695,Robert Duvall,Action|Drama|Sport,Tom Cruise,Days of Thunder ,60476,14006,driver|hot shot|racing|stock car driver|team,97,English,USA,PG-13,3000,5.9,0
+Adam Shankman,77,2000,Tom Welling,Adventure|Comedy|Family,Taylor Lautner,Cheaper by the Dozen 2 ,42737,20348,children|competition|rival|second part|vacation,128,English,USA,PG,3000,5.4,781
+Wes Ball,249,240,Lili Taylor,Action|Sci-Fi|Thriller,Ki Hong Lee,The Scorch Trials ,138246,2517,desert|disease|escape|resistance|virus,360,English,USA,PG-13,960,6.4,24000
+Ryan Murphy,213,745,Julia Roberts,Drama|Romance,James Franco,Eat Pray Love ,63493,20440,divorce|emotional balance|female protagonist|indonesia|inner peace,302,English,USA,PG-13,8000,5.7,26000
+Brett Ratner,121,627,Don Cheadle,Comedy|Drama|Fantasy|Romance,Nicolas Cage,The Family Man ,85844,16646,bowling|christmas|parallel universe|salesman|unfaithfulness,322,English,USA,PG-13,3000,6.7,0
+Robert Schwentke,315,357,Morgan Freeman,Action|Comedy|Crime|Thriller,Bruce Willis,RED ,238916,24928,cia|female assassin|interrogation|office cubicle|spy,328,English,USA,PG-13,11000,7.1,32000
+Oliver Stone,171,1000,Dennis Quaid,Drama|Sport,Al Pacino,Any Given Sunday ,97047,20761,breasts|coach|football|in medias res|vomiting,452,English,USA,R,2000,6.8,0
+Robert Redford,96,380,Kristin Scott Thomas,Drama|Romance|Western,Scarlett Johansson,The Horse Whisperer ,32353,20683,grace|groom|horse|montana|western u.s.,263,English,USA,PG-13,1000,6.5,0
+Michael Mann,299,680,Jada Pinkett Smith,Crime|Drama|Thriller,Tom Cruise,Collateral ,293662,13581,city by night|contract killer|driving at night|los angeles california|taxi,836,English,USA,R,851,7.6,0
+Chuck Russell,167,416,Roger Rees,Action|Adventure|Fantasy|Thriller,Dwayne Johnson,The Scorpion King ,102129,14611,desert|king|showdown|sorceress|warrior,432,English,USA,PG-13,1000,5.5,0
+Jay Russell,125,579,Jay Hernandez,Action|Drama|Thriller,Billy Burke,Ladder 49 ,48753,4496,death of husband|fire|firefighter|funeral|main character dies,323,English,USA,PG-13,1000,6.5,0
+Christopher McQuarrie,387,1000,Robert Duvall,Action|Crime|Mystery|Thriller,Tom Cruise,Jack Reacher ,226570,16385,coma|mysterious villain|police chase|shooting range|sniper,448,English,USA,PG-13,3000,7.0,38000
+Renny Harlin,199,811,Michael Rapaport,Action|Sci-Fi|Thriller,LL Cool J,Deep Blue Sea ,99043,3697,alzheimer's disease|experiment|human versus shark|research|underwater headquarters,643,English,USA,R,975,5.8,0
+Kenny Ortega,136,6,Mekia Cox,Documentary|Music,Misha Gabriel Hamilton,This Is It ,33158,679,2000s|box office hit|comeback|rehearsal|year 2009,223,English,USA,PG,208,7.3,0
+Steven Soderbergh,436,175,Monique Gabriela Curnen,Drama|Thriller,Matt Damon,Contagion ,180479,13634,contagion|cure|infection|panic|virus,411,English,USA,PG-13,240,6.6,42000
+David McNally,73,226,Dyan Cannon,Action|Adventure|Comedy|Crime,Estella Warren,Kangaroo Jack ,23476,1233,australia|body paint|kangaroo|mob|money,181,English,USA,PG,257,4.4,858
+Henry Selick,310,57,Dawn French,Animation|Family|Fantasy,Jennifer Saunders,Coraline ,143121,647,dream|new home|parallel worlds|scissors|secret door,279,English,USA,PG,229,7.7,10000
+M. Night Shyamalan,323,751,Alan Ruck,Sci-Fi|Thriller,Zooey Deschanel,The Happening ,163130,13654,bee|nature|park|school|teacher,1264,English,USA,R,946,5.0,6000
+Tony Scott,171,451,Radha Mitchell,Action|Crime|Drama|Thriller,Denzel Washington,Man on Fire ,266310,20454,bodyguard|journalist|kidnapping|mexico|police corruption,690,English,USA,R,992,7.7,14000
+Brian Robbins,76,722,Joel David Moore,Comedy|Family|Fantasy,Robert Downey Jr.,The Shaggy Dog ,14888,24664,animal as human|dog movie|elevator|human becoming an animal|sheepdog,83,English,USA,PG,936,4.4,747
+Todd Phillips,173,767,Carmen Electra,Comedy|Crime,Snoop Dogg,Starsky & Hutch ,120795,3943,cocaine|cop|criminal|partner|police,308,English,USA,PG-13,869,6.1,0
+Brian Levant,81,626,Harvey Korman,Comedy|Family,Jim Belushi,Jingle All the Way ,68406,4530,action figure|christmas|hero|karate|toy,162,English,USA,PG,628,5.4,0
+Guillermo del Toro,242,160,Rupert Evans,Action|Fantasy|Horror|Sci-Fi,James Babson,Hellboy ,244566,1112,assassin|demon|hero|nazi|superhero,597,English,USA,PG-13,334,6.8,0
+Steven Zaillian,110,521,Kathleen Quinlan,Drama,Robert Duvall,A Civil Action ,23302,4713,1980s|law firm|lawsuit|lawyer|toxic waste,181,English,USA,PG-13,552,6.5,1000
+Chris Butler,328,586,Kodi Smit-McPhee,Adventure|Animation|Comedy|Family|Fantasy,Anna Kendrick,ParaNorman ,72287,13597,curse|ghost|outcast|witch|zombie,176,English,USA,PG,884,7.0,12000
+Michael Caton-Jones,83,460,Bruce Willis,Action|Adventure|Crime|Thriller,J.K. Simmons,The Jackal ,88225,38227,assassin|fbi|ira|jackal|russian,227,English,USA,R,13000,6.3,0
+John Woo,196,716,Joe Morton,Action|Mystery|Sci-Fi|Thriller,Ivana Milicevic,Paycheck ,89816,3637,anti hero|babe scientist|engineer|memory|money,347,English,USA,PG-13,780,6.3,0
+Jon Avnet,34,672,Stockard Channing,Drama|Romance,Joe Mantegna,Up Close & Personal ,11370,3653,journalism|news anchor|newscast|newscaster|tv journalism,54,English,USA,PG-13,944,6.1,829
+Sam Fell,118,903,Matthew Broderick,Adventure|Animation|Comedy|Family|Fantasy,Emma Watson,The Tale of Despereaux ,31209,13403,book|darkness|dungeon|princess|rat,106,English,UK,G,2000,6.1,0
+,8,402,Oliver Hudson,Comedy|Romance,Bianca Kajlich,Rules of Engagement             ,26404,2064,fiance|fiancee|magazine editor|naivety|womanizer,41,English,USA,TV-PG,607,7.3,0
+Kevin Donovan,81,107,Debi Mazar,Action|Comedy|Sci-Fi,Romany Malco,The Tuxedo ,61966,2018,chauffeur|hospital|secret agent|spying|tuxedo,207,English,USA,PG-13,680,5.3,797
+Geoff Murphy,47,488,Brenda Bakke,Action|Thriller,Peter Greene,Under Siege 2: Dark Territory ,35918,2318,colorado|niece|satellite|terrorist|train,126,English,USA,R,520,5.4,1000
+Kenneth Branagh,313,288,Nonso Anozie,Action|Drama|Thriller,Colm Feore,Jack Ryan: Shadow Recruit ,99035,1411,covert analyst|marine|russian|spy|stock market,289,English,USA,PG-13,394,6.2,17000
+David O. Russell,315,14000,Robert De Niro,Biography|Comedy|Drama,Jennifer Lawrence,Joy ,75329,75793,based on real person|female inventor|mop|sales pitch|woman holding a shotgun,256,English,USA,PG-13,22000,6.6,24000
+Babak Najafi,225,864,Radha Mitchell,Action|Crime|Drama|Thriller,Gerard Butler,London Has Fallen ,69484,20276,british|funeral|good versus evil|mole|sequel,323,English,UK,R,992,5.9,28000
+Jean-Pierre Jeunet,223,672,Michael Wincott,Action|Horror|Sci-Fi,Gary Dourdan,Alien: Resurrection ,170179,3090,alien|blood|breeding|clone|scientist,656,English,USA,R,720,6.3,0
+Antoine Fuqua,198,295,Ned Beatty,Action|Crime|Drama|Mystery|Thriller,Tate Donovan,Shooter ,256213,1640,colonel|ethiopia|marksman|on the run|rangefinder,338,English,USA,R,467,7.2,0
+Graham Annable,219,642,Dee Bradley Baker,Adventure|Animation|Comedy|Family|Fantasy,Isaac Hempstead Wright,The Boxtrolls ,40883,3151,chase|puppet animation|red hat|stop motion animation|troll,122,English,USA,PG,668,6.8,11000
+Griffin Dunne,92,944,Dianne Wiest,Comedy|Drama|Fantasy|Romance,Goran Visnjic,Practical Magic ,55749,4294,curse|death|island|love|magic,257,English,USA,PG-13,967,6.1,0
+Phil Lord,435,2000,Will Ferrell,Action|Adventure|Animation|Comedy|Family|Fantasy,Morgan Freeman,The Lego Movie ,246698,22128,based on toy|dual personality|evil businessman|good cop bad cop|lego,471,English,Australia,PG,8000,7.8,64000
+John Pasquin,111,642,Diedrich Bader,Action|Comedy|Crime,Eileen Brennan,Miss Congeniality 2: Armed and Fabulous ,51252,4305,bodyguard|fbi|fbi agent|female protagonist|undercover,156,English,USA,PG-13,759,5.0,621
+Rob Bowman,138,11000,Gerard Butler,Action|Adventure|Fantasy|Sci-Fi|Thriller,Christian Bale,Reign of Fire ,107859,53024,castle|dragon|fire breathing dragon|militia|survival,569,English,USA,PG-13,18000,6.2,0
+Ruben Fleischer,415,300,Brandon Molale,Action|Crime|Drama|Thriller,Ryan Gosling,Gangster Squad ,173530,34738,good versus evil|machine gun|mobster|police vigilantism|year 1949,264,English,USA,R,301,6.7,40000
+Harold Ramis,170,485,Oliver Platt,Adventure|Comedy,Olivia Wilde,Year One ,76770,12258,abraham|hunter|princess|sodom|tribe,203,English,USA,PG-13,1000,4.9,0
+Clint Eastwood,306,204,Morgan Freeman,Biography|Drama|History|Sport,Matt Damon,Invictus ,124222,24458,apartheid|nation|nelson mandela|president|rugby,259,English,USA,PG-13,11000,7.4,23000
+Kevin Macdonald,252,379,Harry Lennix,Crime|Drama|Mystery|Thriller,Robin Wright,State of Play ,113295,19776,congressman|conspiracy|newspaper|political conspiracy|subway,235,English,USA,PG-13,748,7.1,0
+Tony Gilroy,211,896,Tom Wilkinson,Comedy|Crime|Romance|Thriller,Julia Roberts,Duplicity ,41727,10623,ceo|dubai|product|rivalry|spy,184,English,USA,PG-13,1000,6.2,0
+Donald Petrie,49,230,Ray Walston,Comedy|Family|Sci-Fi,Steven Anthony Lawrence,My Favorite Martian ,10883,2151,alien|hidden camera|martian|reporter|spaceship,73,English,USA,PG,417,4.9,448
+Clark Johnson,161,206,David Rasche,Action|Crime|Thriller,Blair Brown,The Sentinel ,42144,1352,first lady|framed|investigation|president|secret service,213,English,USA,PG-13,219,6.1,690
+Jorge Blanco,156,480,Gary Oldman,Adventure|Animation|Comedy|Family|Sci-Fi,Dwayne Johnson,Planet 51 ,41259,22668,alien|alien planet|astronaut|planet|teenager,72,English,Spain,PG,10000,6.1,0
+Stuart Baird,172,906,LeVar Burton,Action|Adventure|Sci-Fi|Thriller,Tom Hardy,Star Trek: Nemesis ,58450,31224,earth|federation|romulan|slave|space,842,English,USA,PG-13,1000,6.4,0
+Joel Coen,161,210,Paul Adelstein,Comedy|Crime|Romance,Cedric the Entertainer,Intolerable Cruelty ,76560,1395,attorney|divorce|marriage|real estate|screwball comedy,322,English,USA,PG-13,399,6.3,0
+Robert Lorenz,239,461,Ed Lauter,Drama|Sport,Clint Eastwood,Trouble with the Curve ,47954,17871,aging|baseball|baseball scout|north carolina|pitcher,150,English,USA,PG-13,897,6.8,11000
+Martin Campbell,258,896,Ray Winstone,Crime|Drama|Mystery|Thriller,Bojana Novakovic,Edge of Darkness ,75201,7053,activist|detective|father daughter relationship|investigation|vigilantism,256,English,UK,R,1000,6.6,0
+Peter Hyams,95,308,Penelope Ann Miller,Horror|Mystery|Sci-Fi|Thriller,John Kapelos,The Relic ,19176,1976,fire|helicopter|museum|police sergeant|relic,165,English,UK,R,344,5.7,956
+Harold Ramis,105,236,Cathy Moriarty,Comedy|Crime,Robert De Niro,Analyze That ,69319,22889,blonde|mafia|mental illness|prison|second part,138,English,USA,R,394,5.9,846
+Jon Avnet,198,1000,Al Pacino,Action|Crime|Drama|Mystery|Thriller,Robert De Niro,Righteous Kill ,73368,38809,blood splatter|execution|new york city|nypd|serial killer,248,English,USA,R,14000,6.0,0
+Harold Becker,79,652,Miko Hughes,Action|Crime|Drama|Thriller,Bruce Willis,Mercury Rising ,54314,16536,autistic child|boy|child in danger|fbi|nsa,127,English,USA,R,968,6.1,0
+Joe Wright,210,569,Stephen Root,Biography|Drama|Music,Robert Downey Jr.,The Soloist ,44099,23745,columnist|journalist|los angeles times|musician|wearing a traffic cone as a hat,143,English,UK,PG-13,939,6.7,0
+Robert Redford,125,9000,Will Smith,Drama|Fantasy|Sport,Matt Damon,The Legend of Bagger Vance ,45296,34774,caddy|game|golf|golf course|golfer,267,English,USA,PG-13,10000,6.7,0
+Cameron Crowe,149,947,Zooey Deschanel,Adventure|Comedy|Drama|Music,Philip Seymour Hoffman,Almost Famous ,207287,36897,band|magazine|rolling stone magazine|smoking marijuana|tour,822,English,USA,R,11000,7.9,15000
+Tim Hill,77,265,Roger Rees,Animation|Comedy|Family|Fantasy,Bill Murray,Garfield 2 ,27517,14918,cat|england|lti txii|peugeot 206|rover 3 5 litre.coupe p5b,74,English,UK,PG,1000,5.0,470
+Lee Tamahori,77,218,Nona Gaye,Action|Adventure|Crime|Thriller,Sunny Mabrey,xXx: State of the Union ,51349,993,coup d'etat|mutiny|president|u.s. navy|washington d.c.,213,English,USA,PG-13,233,4.3,0
+Scott Stewart,225,77,Alan Dale,Action|Fantasy|Horror|Sci-Fi|Thriller,Josh Wingate,Priest ,97089,1417,church|priest|sheriff|vampire|warrior,233,English,USA,PG-13,441,5.7,20000
+Patrick Gilmore,98,82,Adriano Giannini,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,Brad Pitt,Sinbad: Legend of the Seven Seas ,36144,11301,book|framed|goddess|prince|sinbad,91,English,USA,PG,102,6.7,880
+Paul W.S. Anderson,172,552,Joely Richardson,Horror|Sci-Fi|Thriller,Sean Pertwee,Event Horizon ,120416,2525,solar system|space|spaceship|starship|year 2047,857,English,UK,R,585,6.7,10000
+Joss Whedon,703,19000,Robert Downey Jr.,Action|Adventure|Sci-Fi,Chris Hemsworth,The Avengers ,995415,87697,alien invasion|assassin|battle|iron man|soldier,1722,English,USA,PG-13,21000,8.1,123000
+Tom Shadyac,117,256,Susanna Thompson,Drama|Fantasy|Mystery|Romance|Thriller,Joe Morton,Dragonfly ,31788,2109,death|doctor|grave|patient|venezuela,243,English,USA,PG-13,265,6.1,0
+Brian De Palma,240,854,Mia Kirshner,Crime|Drama|Mystery|Thriller,Scarlett Johansson,The Black Dahlia ,63363,22833,black dahlia|boxer|corpse|death|partner,644,English,Germany,R,972,5.6,0
+Tony Bill,123,579,Tyler Labine,Action|Adventure|Drama|History|Romance|War,James Franco,Flyboys ,35565,12634,american|france|military|pilot|training,247,English,UK,PG-13,779,6.6,2000
+Rod Lurie,110,507,Delroy Lindo,Action|Drama|Thriller,Clifton Collins Jr.,The Last Castle ,57100,3012,colonel|general|military|prison|three star general,281,English,USA,R,848,6.9,0
+Walter Hill,100,68,Wilson Cruz,Horror|Sci-Fi|Thriller,Robert Forster,Supernova ,14596,1262,deep space|distress signal|explosion|mining|rescue,282,English,USA,PG-13,290,4.8,589
+Akiva Goldsman,189,778,William Hurt,Drama|Fantasy|Mystery|Romance,Matt Bomer,Winter's Tale ,41288,22447,black and white photograph|drawing with blood|falling through ice|playing piano|red haired woman,126,English,USA,PG-13,882,6.2,17000
+Harald Zwart,212,1000,Kevin Zegers,Fantasy|Horror|Mystery|Romance,Aidan Turner,The Mortal Instruments: City of Bones ,107028,10247,battle|demon|magic|secret|warrior,457,English,USA,PG-13,2000,6.0,44000
+Brian Robbins,127,196,Mike O'Malley,Adventure|Comedy|Family|Romance|Sci-Fi,Marc Blucas,Meet Dave ,31640,1865,alien|mutiny|orb|planet|spaceship,109,English,USA,PG,400,4.9,791
+Walter Salles,196,87,Camryn Manheim,Drama|Horror|Thriller,Dougray Scott,Dark Water ,44966,1467,apartment|hello kitty|school|teacher|water,411,English,USA,PG-13,329,5.6,0
+Ron Howard,115,1000,Adam Goldberg,Comedy|Drama,Matthew McConaughey,Edtv ,35599,15275,female removes her clothes|one word title|producer|television|video store,195,English,USA,PG-13,1000,6.1,641
+Iain Softley,161,466,Stephen Graham,Adventure|Family|Fantasy,Brendan Fraser,Inkheart ,60232,5329,book|escape|girl|overalls|villain,110,English,Germany,PG,1000,6.1,0
+Frank Miller,223,437,Jaime King,Action|Crime|Fantasy|Thriller,Scarlett Johansson,The Spirit ,53864,20881,female star appears nude|pants falling down|samurai|white rat|woman in a towel,290,English,USA,PG-13,961,4.8,2000
+David Koepp,181,280,Olivia Munn,Action|Comedy|Mystery|Romance,Johnny Depp,Mortdecai ,47320,42683,art dealer|fake painting|macguffin|moustache|stolen painting,188,English,UK,R,2000,5.5,12000
+Uwe Boll,140,102,Mike Dopud,Action|Adventure|Fantasy|Thriller,Jason Statham,In the Name of the King: A Dungeon Siege Tale ,38398,26564,farmer|king|krug|rescue|wizard,368,English,Germany,PG-13,368,3.8,0
+Martin Campbell,54,617,Teri Polo,Adventure|Drama|Romance|War,Angelina Jolie Pitt,Beyond Borders ,22570,12947,africa|american|border|doctor|well,156,English,USA,R,708,6.5,0
+Pou-Soi Cheang,14,22,Aaron Kwok,Action|Adventure|Fantasy,Li Gong,Xi you ji zhi: Sun Wukong san da Baigu Jing ,1212,1026,buddhism|demon|journey to the west|monk|monkey king,9,English,China,,107,6.0,426
+John Dahl,81,242,Clayne Crawford,Action|Drama|War,James Franco,The Great Raid ,18209,12133,american|lieutenant colonel|mission|rescue|soldier,183,Filipino,USA,R,298,6.7,0
+Tim Miller,579,361,Ed Skrein,Action|Adventure|Comedy|Romance|Sci-Fi,Ryan Reynolds,Deadpool ,479047,18239,based on comic book|breaking the fourth wall|mercenary|mutant|self healing,1058,English,USA,R,805,8.1,117000
+Stephen Herek,56,440,Morgan Fairchild,Comedy|Drama,Kelly Preston,Holy Man ,16260,2367,1990s|evangelist|professional rivalry|swimming pool|televangelist,88,English,USA,PG,730,4.9,296
+Clint Eastwood,490,318,Leonard Roberts,Action|Biography|Drama|History|Thriller|War,Bradley Cooper,American Sniper ,325264,16277,assassin|death of child|iraq|sniper|sniper rifle,916,English,USA,R,962,7.3,112000
+Rob Letterman,218,543,Dylan Minnette,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,Goosebumps ,47968,5497,based on book|blob|ferris wheel|manuscript|monster,154,English,USA,PG,1000,6.4,35000
+,20,271,Soleil Moon Frye,Comedy|Family|Fantasy,Nate Richert,"Sabrina, the Teenage Witch             ",24420,2433,female protagonist|hereditary gift of witchcraft|magic|supernatural|witch,94,English,USA,TV-G,558,6.6,990
+Mark Waters,142,512,Ivana Milicevic,Comedy|Fantasy|Romance,Jon Heder,Just Like Heaven ,82819,2876,apartment|architect|coma|doctor|spirit,263,English,USA,PG-13,834,6.7,0
+Brian Levant,57,809,Mark Addy,Comedy|Family|Romance|Sci-Fi,Taylor Negron,The Flintstones in Viva Rock Vegas ,15517,6299,based on tv series|love|prequel|the flintstones|title appears in song,85,English,USA,PG,891,3.6,500
+Peter MacDonald,84,349,Kurtwood Smith,Action|Adventure|Thriller|War,Sylvester Stallone,Rambo III ,92106,14574,afghanistan|colonel|rambo|rescue|soviet,171,English,USA,R,1000,5.7,2000
+George Clooney,186,110,Malcolm Goodwin,Comedy|Drama|Romance|Sport,Robert Baker,Leatherheads ,27664,589,college football|fight|football|hero|surrender,120,English,USA,PG-13,117,6.0,472
+Frank Coraci,53,11000,Adam Sandler,Comedy|Western,Taylor Lautner,The Ridiculous 6 ,27019,36167,apache|bank robbery|baseball|half brothers|white raised as indian,143,English,USA,TV-14,11000,4.9,0
+Marc Lawrence,133,727,Kim Shaw,Comedy|Drama|Romance,Michael Kelly,Did You Hear About the Morgans? ,29523,3150,fbi|murder|witness|witness protection|wyoming,121,English,USA,PG-13,935,4.7,0
+Shawn Levy,246,839,Jessica Szohr,Comedy,Josh Gad,The Internship ,159931,5081,actor's picture shown in credits|animated credits|google|internship|still images in end credits,281,English,USA,PG-13,847,6.3,22000
+Paul W.S. Anderson,253,529,Boris Kodjoe,Action|Adventure|Horror|Sci-Fi,Milla Jovovich,Resident Evil: Afterlife ,131447,16098,alaska|female gunfighter|mutation|ship|siege,410,English,Germany,R,1000,5.9,19000
+Anthony Hemingway,144,519,Nate Parker,Action|Adventure|Drama|History|War,David Oyelowo,Red Tails ,28807,4416,african american|battle|italy|tuskegee airmen|world war two,273,English,USA,PG-13,664,5.9,0
+,46,479,Kristin Davis,Comedy|Romance,Chris Noth,Sex and the City             ,80025,2558,casual sex|friendship|friendship between women|gay|singles,238,English,USA,TV-MA,722,7.0,0
+Taylor Hackford,117,9000,Al Pacino,Drama|Mystery|Thriller,Keanu Reeves,The Devil's Advocate ,259519,45271,deal with the devil|lawyer|money|reality|supernatural power,431,English,USA,R,14000,7.5,11000
+Sean Anders,157,622,Leighton Meester,Comedy,Adam Sandler,That's My Boy ,70681,16484,argument|reference to vanilla ice|statutory rape|teacher student relationship|teacher student sex,198,English,USA,R,3000,5.6,12000
+Rob Cohen,60,40,Brian Thompson,Action|Adventure|Fantasy,Dennis Quaid,DragonHeart ,78343,2710,dragon|england|human dragon relationship|king|knight,139,English,USA,PG-13,663,6.4,0
+Brett Ratner,117,455,Don Cheadle,Action|Comedy|Crime|Drama,Salma Hayek,After the Sunset ,38298,9814,diamond|fbi|fbi agent|island|thief,147,English,USA,PG-13,3000,6.3,782
+Mark Neveldine,287,1000,Spencer Wilding,Action|Fantasy|Thriller,Nicolas Cage,Ghost Rider: Spirit of Vengeance ,87745,16121,deal with the devil|devil|eastern europe|ghost rider|monk,331,English,USA,PG-13,1000,4.3,18000
+John Madden,96,58,Irene Papas,Drama|Music|Romance|War,Christian Bale,Captain Corelli's Mandolin ,28099,23325,captain|greek|island|italian|love,220,English,UK,R,243,5.9,0
+,26,676,Noureen DeWulf,Comedy|Romance,Barry Corbin,Anger Management             ,26992,4115,anger management|argument|irony|sarcasm|therapist,54,English,USA,,701,6.7,0
+Adam Shankman,125,650,Brad Garrett,Action|Comedy|Drama|Family|Thriller,Vin Diesel,The Pacifier ,66308,16884,bodyguard|death of husband|male nanny|nanny|wrestling match,225,English,Canada,PG,799,5.5,0
+Kevin Bray,117,348,Ashley Scott,Action|Crime,Dwayne Johnson,Walking Tall ,53118,14146,casino|football|sheriff|special forces|violence,221,English,USA,PG-13,795,6.2,0
+Robert Zemeckis,149,194,Siobhan Fallon Hogan,Comedy|Drama,Tom Hanks,Forrest Gump ,1251222,15700,amputee|love|vietnam|vietnam war|war hero,1398,English,USA,PG-13,294,8.8,59000
+Tim Hill,131,639,Beth Riesgraf,Animation|Comedy|Family|Fantasy|Music,Jesse McCartney,Alvin and the Chipmunks ,57276,2847,based on cartoon|chipmunk|concert|fart joke|talking animal,146,English,USA,PG,718,5.2,0
+Jay Roach,150,708,Blythe Danner,Comedy,Robert De Niro,Meet the Parents ,260442,24286,cat|cia|jewish|male nurse|nurse,507,English,USA,PG-13,713,7.0,0
+Mike Gabriel,92,752,Frank Welker,Adventure|Animation|Drama|Family|History|Musical|Romance,Christian Bale,Pocahontas ,119675,26754,actor playing multiple roles|love|one word title|unsubtitled foreign language|virginia,216,English,USA,G,2000,6.6,0
+Richard Donner,169,467,Margot Kidder,Action|Adventure|Drama|Romance|Sci-Fi,Marlon Brando,Superman ,126357,12940,1970s|clark kent|planet|superhero|year 1978,497,English,USA,PG,593,7.3,0
+Tom Shadyac,57,744,James Coburn,Comedy|Romance|Sci-Fi,Jada Pinkett Smith,The Nutty Professor ,86556,3155,face slap|formula|overweight|professor|teacher,99,English,USA,PG-13,773,5.6,960
+Andy Tennant,171,681,Michael Rapaport,Comedy|Romance,Will Smith,Hitch ,244840,13426,advice|friendship|gossip|newspaper|quitting a job,372,English,USA,PG-13,975,6.6,0
+Sam Weisman,53,458,Abraham Benrubi,Action|Adventure|Comedy|Family|Romance,Brendan Fraser,George of the Jungle ,56168,4518,animal companion|heiress|hero|jungle|male objectification,103,English,USA,PG,562,5.4,5000
+Jesse Dylan,153,729,Thomas Ian Nicholas,Comedy|Romance,Alyson Hannigan,American Wedding ,162331,5713,bachelor party|blow job|breasts|friend|wedding,332,English,USA,R,864,6.3,0
+Paul Greengrass,491,186,Chris Mulkey,Biography|Drama|Thriller,Tom Hanks,Captain Phillips ,323353,16281,hijacking|hostage|leader|ship|somalia,527,English,USA,PG-13,535,7.9,65000
+Shawn Levy,247,7000,James Franco,Comedy|Crime|Romance|Thriller,Mila Kunis,Date Night ,127571,39822,city|new york city|night|reservation|restaurant,207,English,USA,PG-13,11000,6.3,0
+Brad Silberling,26,394,Fred Rogers,Comedy|Family|Fantasy,Eric Idle,Casper ,85903,2638,casper|friendly ghost|ghost|maine|mansion,92,English,USA,PG,419,6.0,0
+Antoine Fuqua,292,683,Chloë Grace Moretz,Action|Crime|Thriller,Denzel Washington,The Equalizer ,229574,37605,assassin|ex soldier|gangster|hanged man|mysterious past,436,English,USA,R,17000,7.2,56000
+Wayne Wang,114,708,Frances Conroy,Comedy|Drama|Romance,Bob Hoskins,Maid in Manhattan ,68417,7184,hotel|maid|new york city|place name in title|the bronx,242,English,USA,PG-13,827,5.1,0
+Tony Scott,82,665,Viggo Mortensen,Action|Drama|Thriller|War,Denzel Washington,Crimson Tide ,81026,30132,alabama|mutiny|order|radio|submarine,194,English,USA,R,10000,7.3,0
+Gabriele Muccino,201,168,Kurt Fuller,Biography|Drama,Will Smith,The Pursuit of Happyness ,338383,11036,bus|intern|internship|salesman|stockbroker,611,English,USA,PG-13,617,8.0,32000
+Robert Schwentke,231,354,Michael Irby,Drama|Mystery|Thriller,Erika Christensen,Flightplan ,126746,2287,captain|flight|flight attendant|plane|search,600,English,USA,PG-13,507,6.2,0
+Barry Levinson,55,383,Dylan Baker,Drama|Thriller,Demi Moore,Disclosure ,36587,3888,computer|marriage|non statutory female on male rape|promotion|sexual harassment,95,English,USA,R,812,6.0,0
+Brad Silberling,110,539,Andre Braugher,Drama|Fantasy|Romance,Nicolas Cage,City of Angels ,94407,13905,angel|doctor|fall|heart surgeon|hospital,322,English,Germany,PG-13,702,6.7,0
+Quentin Tarantino,354,640,Vivica A. Fox,Action,David Carradine,Kill Bill: Vol. 1 ,735784,3983,bride|coma|japan|revenge|sword,2105,English,USA,R,890,8.1,13000
+Frank Oz,140,490,Adam Alexi-Malle,Comedy,Robert Downey Jr.,Bowfinger ,56874,22458,film within a film|filmmaking|guerrilla filmmaking|making of a movie|scientology parody,358,English,USA,PG-13,860,6.4,0
+,77,72,Don S. Davis,Action|Adventure|Drama|Sci-Fi,Christopher Judge,Stargate SG-1             ,63982,1359,2000s|21st century|alternate history|message from outer space|military,181,English,USA,TV-14,440,8.4,0
+Quentin Tarantino,304,348,Michael Parks,Action|Crime|Drama|Thriller,Vivica A. Fox,Kill Bill: Vol. 2 ,512749,1959,assassin|assassination|bride|death|vengeance,935,English,USA,R,387,8.0,0
+Andrey Konchalovskiy,45,403,Jack Palance,Action|Comedy|Crime|Thriller,Sylvester Stallone,Tango & Cash ,75365,14432,1980s|80s action|escape|plea bargain|prison,149,English,USA,R,549,6.3,0
+Robert Zemeckis,49,812,Meryl Streep,Comedy|Fantasy|Horror,Bruce Willis,Death Becomes Her ,78974,25599,plastic surgeon|rejuvenation|revenge|rival|rivalry,173,English,USA,PG-13,11000,6.4,8000
+Tom Dey,146,95,Jason Connery,Action|Adventure|Comedy|Western,Xander Berkeley,Shanghai Noon ,96690,939,19th century|chinese|princess|rescue|travel,293,English,USA,PG-13,110,6.6,0
+Stuart Baird,60,263,Joe Morton,Action|Adventure|Thriller,Oliver Platt,Executive Decision ,40858,2916,bomb|hostage|military|plane|terrorist,144,English,USA,R,780,6.4,0
+Mark Waters,189,497,Ophelia Lovibond,Comedy|Family|Fantasy,Madeline Carroll,Mr. Popper's Penguins ,67191,2820,father|penguin|snowglobe|son|winter,108,English,USA,PG,549,6.0,14000
+Rob Minkoff,206,947,Thomas McDonell,Action|Adventure|Fantasy,Jet Li,The Forbidden Kingdom ,88049,7247,monkey king|staff|teenager|urination|warrior,279,English,USA,PG-13,962,6.6,0
+Jimmy Hayward,118,562,Carlos Ponce,Adventure|Animation|Comedy|Family,Amy Poehler,Free Birds ,18042,3104,chipmunk|hunting dog|sabotage|thanksgiving|turkey the bird,73,English,USA,PG,591,5.9,0
+David Fincher,210,243,Holt McCallany,Action|Horror|Sci-Fi,Charles S. Dutton,Alien 3 ,207686,1543,alien|crash|planet|prison|survivor,776,English,USA,R,273,6.4,0
+Alan Parker,76,34,Jimmy Nail,Biography|Drama|History|Musical,Andrea Corr,Evita ,29205,164,actress|argentina|military|politics|singer,194,English,USA,PG,40,6.3,0
+John Frankenheimer,149,135,Natascha McElhone,Action|Adventure|Crime|Thriller,Robert De Niro,Ronin ,145422,24270,case|ex kgb|ronin|russian|suitcase,572,English,UK,R,2000,7.3,0
+Stephen Hopkins,62,163,Bernard Hill,Adventure|Drama|Horror|Thriller,Tom Wilkinson,The Ghost and the Darkness ,46239,1752,bridge|engineer|hunter|lion|railway,155,English,USA,R,416,6.8,0
+Paul King,224,594,Matt Lucas,Animation|Comedy|Family|Fantasy,Julie Walters,Paddington ,49207,3697,bear|ear wax cleaning|fake newsreel|paddington station london|taxidermist,174,English,UK,PG,722,7.2,30000
+Akiva Schaffer,265,537,Nicholas Braun,Action|Comedy|Sci-Fi,Will Forte,The Watch ,104066,2488,alien|escape|manager|neighborhood watch|ohio,207,English,USA,R,591,5.7,15000
+William Friedkin,135,215,Jenna Boyd,Action|Crime|Drama|Thriller,Connie Nielsen,The Hunted ,35830,2248,capture|combat|fbi|hunter|special forces,321,English,USA,R,518,6.0,0
+Jon Turteltaub,100,241,Maura Tierney,Drama|Thriller,Anthony Hopkins,Instinct ,27191,13406,africa|anthropologist|murder|poacher|psychiatrist,232,English,USA,R,509,6.5,0
+Bobby Farrelly,123,327,Terence Bernie Hines,Comedy,Matt Damon,Stuck on You ,44453,14036,actor|conjoined twins|cook|internet|short order cook,154,English,USA,PG-13,390,5.8,0
+Kent Alterman,164,490,Maura Tierney,Comedy|Sport,Will Ferrell,Semi-Pro ,67005,10026,flint michigan|merger|michigan|nba|team,119,English,USA,R,509,5.8,0
+Peter Lord,238,591,Russell Tovey,Adventure|Animation|Comedy|Family,Salma Hayek,The Pirates! Band of Misfits ,36877,6254,charles darwin|cutlass|pirate|queen victoria|scientist,101,English,UK,PG,796,6.7,0
+Clint Eastwood,264,539,Michael Kelly,Crime|Drama|Mystery|Thriller,Angelina Jolie Pitt,Changeling ,199056,12840,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,387,English,USA,R,963,7.8,14000
+Andrew Davis,47,581,Morgan Freeman,Action|Drama|Sci-Fi|Thriller,Keanu Reeves,Chain Reaction ,40346,31014,cold fusion|die hard scenario|man with glasses|on the run|outrunning explosion,95,English,USA,PG-13,11000,5.6,1000
+Tony Scott,50,552,Kurt Fuller,Action|Drama|Sport|Thriller,Robert De Niro,The Fan ,38533,24618,baseball|fan|obsession|salesman|san francisco giants,89,English,USA,R,617,5.8,0
+Joel Schumacher,153,530,Minnie Driver,Drama|Musical|Romance|Thriller,Gerard Butler,The Phantom of the Opera ,96654,20660,based on stage musical based on novel|disfigurement|mask|opera|singer,2047,English,UK,PG-13,893,7.4,0
+Shekhar Kapur,202,877,Abbie Cornish,Biography|Drama|History|War,Eddie Redmayne,Elizabeth: The Golden Age ,54787,16899,court|intrigue|queen|spain|virgin,216,English,UK,PG-13,2000,6.9,0
+Karyn Kusama,178,352,Sophie Okonedo,Action|Sci-Fi,Charlize Theron,Æon Flux ,110614,10185,based on cult favorite|disease|female hero|female protagonist|future,532,English,USA,PG-13,460,5.5,0
+Ron Maxwell,84,67,Bruce Boxleitner,Drama|History|War,Billy Campbell,Gods and Generals ,13215,1671,confederacy|hero|prequel|stonewall jackson|war hero,497,English,USA,PG-13,640,6.3,953
+Robert Butler,44,745,Lauren Holly,Action|Thriller,Hector Elizondo,Turbulence ,8983,3952,airplane|christmas|marshal|pilot|u.s. marshal,84,English,USA,R,879,4.7,316
+Karey Kirkpatrick,93,506,Ronny Cox,Comedy|Drama|Family|Fantasy,Stephen Root,Imagine That ,10417,3742,blanket|competition|family relationships|feather|sleepover,39,English,USA,PG,605,5.6,610
+James Bobin,277,518,Tina Fey,Adventure|Comedy|Crime|Family|Musical,Ty Burrell,Muppets Most Wanted ,24285,6089,europe|frog|gulag|prison break|puppet,110,English,USA,PG,2000,6.4,10000
+Jonathan Frakes,76,287,Philip Winchester,Action|Adventure|Comedy|Family|Sci-Fi,Sophia Myles,Thunderbirds ,11148,2260,astronaut|island|lady penelope|rescue|the hood,229,English,UK,PG,579,4.2,437
+Steve Antin,197,676,Peter Gallagher,Drama|Music|Musical|Romance,Eric Dane,Burlesque ,61680,4315,burlesque|dancer|iowa|small town girl|stage,222,English,USA,PG-13,828,6.4,19000
+Jean-Pierre Jeunet,186,46,André Dussollier,Drama|Mystery|Romance|War,Denis Lavant,A Very Long Engagement ,62607,405,court martial|death|girl|no man's land|soldier,239,French,France,R,52,7.7,0
+Stanley Kubrick,103,177,Shelley Winters,Crime|Drama|Romance,James Mason,Lolita ,67822,1403,lolita|nymphet|older man young girl relationship|professor|writer,207,English,UK,Not Rated,367,7.7,0
+Jim Gillespie,66,534,Tom Berenger,Crime|Horror|Mystery|Thriller,Sylvester Stallone,Eye See You ,19706,15803,drill in the eye|eye gouging|hanged woman|murder|peep hole,142,English,USA,R,854,5.3,448
+Guillermo del Toro,224,845,Thomas Kretschmann,Action|Horror|Sci-Fi|Thriller,Norman Reedus,Blade II ,158267,15371,blade the character|cult film|mutation|vampire|warrior,559,English,USA,R,919,6.7,0
+Gabriele Muccino,202,835,Rosario Dawson,Drama|Romance,Will Smith,Seven Pounds ,232710,14727,boyfriend girlfriend relationship|heart|main character dies|organ donor|redemption,599,English,USA,PG-13,3000,7.7,26000
+Walter Hill,279,565,Jason Momoa,Action|Thriller,Sylvester Stallone,Bullet to the Head ,39247,25418,bar|bullet|corruption|detective|lawyer,131,English,USA,R,11000,5.7,10000
+Francis Ford Coppola,110,889,Joe Mantegna,Crime|Drama,Al Pacino,The Godfather: Part III ,267980,16949,1970s|family relationships|mob hit|opera|repeating history,545,English,USA,R,1000,7.6,0
+Cameron Crowe,190,2000,Kirsten Dunst,Comedy|Drama|Romance,Orlando Bloom,Elizabethtown ,58658,12700,flight|flight attendant|kentucky|shoes|travel,495,English,USA,PG-13,4000,6.4,0
+Anthony Russo,136,240,Billy Gardell,Comedy|Romance,Todd Stashwick,"You, Me and Dupree ",68417,847,best friend|foot fetish|houseguest|newlywed|wedding,195,English,USA,PG-13,245,5.6,0
+Richard Lester,121,420,Ned Beatty,Action|Adventure|Romance|Sci-Fi,Margot Kidder,Superman II ,76331,2908,alien invasion|based on comic book|flying superhero|phantom zone|revenge,269,English,USA,PG,467,6.8,0
+Martin Brest,131,43,Lenny Venito,Comedy|Crime|Romance,Todd Giebenhain,Gigli ,41620,286,gangster|hospital|lesbian|mob|thug,418,English,USA,R,62,2.4,2000
+Steven Zaillian,127,581,Anthony Hopkins,Drama|Thriller,Kate Winslet,All the King's Men ,20740,27614,governor|journalist|louisiana|mistress|politician,178,English,Germany,PG-13,12000,6.2,0
+John Singleton,160,577,Vanessa Williams,Action|Crime|Thriller,Christian Bale,Shaft ,58416,26527,blaxploitation|detective|drugs|shaft|trial,301,English,Germany,R,1000,5.9,0
+Don Bluth,78,753,Kelsey Grammer,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,Kirsten Dunst,Anastasia ,86347,6017,amnesia|reference to anastasia romanov|romanov|russia|russian revolution,191,English,USA,G,808,7.1,0
+Baz Luhrmann,209,653,Kylie Minogue,Drama|Musical|Romance,Jim Broadbent,Moulin Rouge! ,224013,2601,death of main character|eiffel tower paris|jealousy|tragedy|two suitors,2319,English,USA,PG-13,691,7.6,10000
+Harold Becker,98,303,Teri Polo,Crime|Mystery|Thriller,Steve Buscemi,Domestic Disturbance ,21283,13390,amateur detective|boat builder|boy|stepfather|witness,190,English,USA,PG-13,708,5.5,361
+Scott Cooper,391,3000,Benedict Cumberbatch,Biography|Crime|Drama,Johnny Depp,Black Mass ,115216,63769,based on true story|boston massachusetts|fbi agent|gangster|true crime,289,English,USA,R,19000,7.0,44000
+Clint Eastwood,279,310,Chris Bauer,Drama|History|War,Paul Walker,Flags of Our Fathers ,101221,24468,imperial japan|japan|japanese army|japanese soldier|world war two,415,English,USA,R,638,7.1,0
+F. Gary Gray,216,963,Leslie Bibb,Crime|Drama|Thriller,Gerard Butler,Law Abiding Citizen ,217480,22517,attorney|deal|district attorney|investigation|justice,429,English,USA,R,1000,7.4,21000
+Robert Rodriguez,250,1000,Rosario Dawson,Action|Horror|Thriller,Quentin Tarantino,Grindhouse ,155496,22186,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,532,English,USA,R,3000,7.6,0
+Jonathan Demme,78,466,Kimberly Elise,Drama|History|Horror,Oprah Winfrey,Beloved ,6082,2397,farm|freedom|ohio|slavery|spirit,207,English,USA,R,637,5.9,853
+Curtis Hanson,106,681,Robert Duvall,Drama|Romance|Sport,Robert Downey Jr.,Lucky You ,18310,26334,losing|poker|poker player|reference to frederic chopin|reference to johannes brahms,63,English,USA,PG-13,3000,5.9,672
+Steven Spielberg,194,3000,Tom Hanks,Biography|Crime|Drama,Leonardo DiCaprio,Catch Me If You Can ,525801,48153,attorney|cat and mouse|fbi|pan am|pilot,667,English,USA,PG-13,15000,8.0,15000
+Kathryn Bigelow,558,304,Harold Perrineau,Drama|History|Thriller,Jennifer Ehle,Zero Dark Thirty ,216032,2759,al qaeda|cia|interrogation|lie|navy seal,640,English,USA,R,1000,7.4,39000
+Peyton Reed,183,931,John Michael Higgins,Comedy|Drama|Romance,Jon Favreau,The Break-Up ,102167,8315,art|break up|football video game|kitchen|talking to one's self in a mirror,483,English,USA,PG-13,957,5.8,0
+Phyllida Lloyd,238,838,Meryl Streep,Comedy|Family|Musical|Romance,Colin Firth,Mamma Mia! ,145974,26002,bride|greece|island|mediterranean|wedding,611,English,USA,PG-13,11000,6.3,10000
+Garry Marshall,186,11000,Taylor Lautner,Comedy|Romance,Bradley Cooper,Valentine's Day ,95437,45696,flower|indian restaurant|tv station|valentine|valentine's day,211,English,USA,PG-13,12000,5.7,9000
+Jay Chandrasekhar,144,379,Jessica Simpson,Action|Adventure|Comedy,Alice Greczyn,The Dukes of Hazzard ,66382,2297,1969 dodge charger|bikini|farm|misogynist|tow truck,612,English,USA,PG-13,534,5.1,0
+Terrence Malick,156,463,Miranda Otto,Drama|War,Nick Stahl,The Thin Red Line ,138941,1937,battle|hill|jungle|multiple perspectives|tropical island,1448,English,USA,R,568,7.6,0
+David Dobkin,215,634,Olivia Wilde,Comedy|Fantasy,Ryan Reynolds,The Change-Up ,136680,28045,best friend|fountain|law firm|lawyer|sex,149,English,USA,R,10000,6.4,13000
+Milos Forman,140,21,Gerry Becker,Biography|Comedy|Drama,Matt Price,Man on the Moon ,100743,209,andy kaufman|comedian|eccentric|wrestler|wrestling,549,English,UK,R,27,7.4,0
+Martin Scorsese,133,574,Don Rickles,Biography|Crime|Drama,Robert De Niro,Casino ,333542,24183,car bomb|card cheat|cash|casino|gambling syndicate,533,English,USA,R,721,8.2,11000
+Pierre Morel,203,75,Amber Rose Revah,Action|Thriller,Kasia Smutniak,From Paris with Love ,97775,488,ambassador|cia|dinner|spy|terrorist,211,English,France,R,135,6.5,0
+Paul Hunter,127,343,Mako,Action|Comedy|Fantasy,Jaime King,Bulletproof Monk ,42324,2422,monastery|monk|scroll|tibetan|tibetan monk,180,English,USA,PG-13,691,5.5,846
+Bobby Farrelly,155,79,Tony Cox,Comedy,Robert Forster,"Me, Myself & Irene ",185878,1711,dissociative identity disorder|limousine|multiple personality|police|rhode island,481,English,USA,R,624,6.5,0
+Steve Oedekerk,98,523,Wanda Sykes,Animation|Comedy|Family,Rob Paulsen,Barnyard ,21396,2055,cow|farmer|howl|howling at the moon|vegetarian,155,English,Germany,PG,560,5.6,605
+John Whitesell,71,728,Jorge Garcia,Comedy|Family,Matthew Broderick,Deck the Halls ,15740,5468,christmas|december|holiday|massachusetts|neighbor,110,English,USA,PG,1000,4.9,1000
+Chris Weitz,299,12000,Kristen Stewart,Adventure|Drama|Fantasy|Romance,Robert Pattinson,The Twilight Saga: New Moon ,220758,64040,forks washington|protecting a woman|title same as book|vampire|werewolf,919,English,USA,PG-13,17000,4.6,13000
+Andrew Adamson,212,21,Chris Miller,Adventure|Animation|Comedy|Family|Fantasy,Kathleen Freeman,Shrek ,467113,275,donkey|fairy tale|ogre|princess|swamp,945,English,USA,PG,50,7.9,0
+George Nolfi,413,593,Michael Kelly,Romance|Sci-Fi|Thriller,Matt Damon,The Adjustment Bureau ,200035,14607,love at first sight|obscene finger gesture|rain|teleportation|three word title,407,English,USA,PG-13,963,7.1,36000
+Kevin Reynolds,67,720,Morgan Freeman,Action|Adventure|Drama|Romance,Alan Rickman,Robin Hood: Prince of Thieves ,145257,38518,balladeer|crusades|england|king|modern minstrel,322,English,USA,PG-13,11000,6.9,0
+Cameron Crowe,109,597,Kelly Preston,Comedy|Drama|Romance|Sport,Tom Cruise,Jerry Maguire ,189923,12182,agent|career|client|fiance|sports agent,318,English,USA,R,743,7.3,0
+Seth MacFarlane,457,1000,Seth MacFarlane,Comedy|Fantasy,Mila Kunis,Ted ,471644,21773,2010s|car accident|sex scene|teddy bear|testicle,623,English,USA,R,3000,7.0,74000
+James L. Brooks,156,285,Yeardley Smith,Comedy|Drama|Romance,Lupe Ontiveros,As Good as It Gets ,224671,1474,dog|friendship|neighbor|unlikely friendship|writer,470,English,USA,PG-13,440,7.7,11000
+Tom Shadyac,55,878,Philip Seymour Hoffman,Biography|Comedy|Drama|Romance,Robin Williams,Patch Adams ,80580,74382,doctor|hospital|mental institution|nurse|student,375,English,USA,PG-13,22000,6.7,0
+Adam McKay,272,7000,Will Ferrell,Comedy,Harrison Ford,Anchorman 2: The Legend Continues ,131227,28176,fame|father son relationship|interracial kiss|interracial relationship|interracial sex,346,English,USA,PG-13,8000,6.3,41000
+Steven Brill,117,828,Adam Sandler,Comedy|Romance,Steve Buscemi,Mr. Deeds ,110432,26826,abbreviation in title|reporter|small town|sudden wealth|unknowing heir,309,English,USA,PG-13,11000,5.8,0
+J.J. Abrams,539,417,AJ Michalka,Mystery|Sci-Fi|Thriller,Joel Courtney,Super 8 ,287822,3388,deputy|group of friends|time|train|train crash,849,English,USA,PG-13,560,7.1,37000
+Steven Soderbergh,169,658,Albert Finney,Biography|Drama,Julia Roberts,Erin Brockovich ,135246,10003,contamination|corporate crime|environmental issue|female protagonist|working single mother,498,English,USA,R,883,7.3,0
+Donald Petrie,140,651,Adam Goldberg,Comedy|Romance,Matthew McConaughey,How to Lose a Guy in 10 Days ,156717,14087,advertising executive|diamond|magazine|party|wager,357,English,USA,PG-13,1000,6.4,0
+Phil Lord,330,584,Craig Roberts,Action|Comedy|Crime,Channing Tatum,22 Jump Street ,258186,19428,college|drugs|hidden camera|tattoo|undercover,322,English,USA,R,920,7.1,24000
+Neil Jordan,120,4000,Tom Cruise,Drama|Fantasy|Horror,Brad Pitt,Interview with the Vampire: The Vampire Chronicles ,239752,25697,betrayal|dangerous friend|gothic|monster as victim|vampire,406,English,USA,R,10000,7.6,11000
+Peyton Reed,190,1000,Zooey Deschanel,Comedy|Romance,Bradley Cooper,Yes Man ,271691,29505,best friend|dvd|girlfriend|loan|self help,243,English,USA,PG-13,11000,6.8,0
+Rawson Marshall Thurber,177,569,Thomas Kretschmann,Action|Comedy|Crime,Dwayne Johnson,Central Intelligence ,33354,14569,accountant|blooper|espionage|facebook|high school reunion,110,English,USA,PG-13,919,6.6,10000
+Chris Columbus,65,701,Liam Aiken,Comedy|Drama,Julia Roberts,Stepmom ,46482,9988,attorney|cancer|custody|fashion photographer|photographer,252,English,USA,PG-13,818,6.7,0
+Sean Anders,145,322,Linda Cardellini,Comedy|Family,Will Ferrell,Daddy's Home ,54010,10886,biological father|dad|drinking|product placement|wilhelm scream,130,English,USA,PG-13,2000,6.1,13000
+Rob Marshall,321,10000,Meryl Streep,Adventure|Comedy|Drama|Fantasy|Musical,Johnny Depp,Into the Woods ,101178,62837,based on stage musical|cinderella|little red riding hood|singing|witch,779,English,USA,PG,11000,6.0,90000
+Spike Lee,230,277,James Ransone,Crime|Drama|Mystery|Thriller,Denzel Washington,Inside Man ,273108,19148,bank|detective|negotiation|police|robber,646,English,USA,R,412,7.6,0
+Brian Helgeland,143,416,Deborah Kara Unger,Action|Crime|Drama|Thriller,Bill Duke,Payback ,111368,3148,anti hero|criminal|greed|prostitute|tough guy,394,English,USA,R,495,7.1,0
+Frank Marshall,55,293,Joe Don Baker,Action|Adventure|Mystery|Sci-Fi,Dylan Walsh,Congo ,34471,1761,captain|congo|expedition|laser|lost city,147,English,USA,PG-13,387,5.0,0
+Cameron Crowe,257,1000,Matt Damon,Comedy|Drama|Family,Scarlett Johansson,We Bought a Zoo ,111003,36873,blocked road|father son relationship|love at first sight|teenage boy|zookeeper,199,English,USA,PG,13000,7.1,22000
+Alex Proyas,279,329,Ben Mendelsohn,Drama|Mystery|Sci-Fi|Thriller,Nicolas Cage,Knowing ,186879,13421,disaster|end of the world|number|student|time capsule,791,English,USA,PG-13,748,6.2,0
+Tom Dey,143,11000,Matthew McConaughey,Comedy|Romance,Bradley Cooper,Failure to Launch ,58412,37967,friend|intervention|moving|secret|slacker,242,English,USA,PG-13,11000,5.6,2000
+Hideo Nakata,196,874,Gary Cole,Horror|Mystery,Naomi Watts,The Ring Two ,71153,10163,cartoon on tv|foreign language adaptation|second part|videotape|writer,560,English,USA,PG-13,989,5.4,0
+Glenn Ficarra,310,7000,Emma Stone,Comedy|Drama|Romance,Ryan Gosling,"Crazy, Stupid, Love. ",375456,57426,bar|divorce|friend|girl|male objectification,292,English,USA,PG-13,15000,7.4,44000
+Peter Hewitt,116,58,Mark Christopher Lawrence,Animation|Comedy|Family|Fantasy,Bill Murray,Garfield ,58961,13430,cat|dog|first part|lasagna|veterinarian,232,English,USA,PG,258,5.0,795
+Joe Roth,105,660,Cheech Marin,Comedy|Family,Jamie Lee Curtis,Christmas with the Kranks ,27548,6729,act of kindness|christmas|christmas eve|neighbor|vacation,209,English,USA,PG,843,5.2,0
+Bennett Miller,419,11000,Robin Wright,Biography|Drama|Sport,Philip Seymour Hoffman,Moneyball ,283563,53094,baseball|meeting|statistics|strategy|voice over,312,English,USA,PG-13,18000,7.6,27000
+Wolfgang Petersen,64,808,Morgan Freeman,Action|Drama|Thriller,Kevin Spacey,Outbreak ,91176,30383,disease|epidemic|monkey|quarantine|virus,130,English,USA,R,11000,6.6,0
+Jaume Collet-Serra,359,660,Nate Parker,Action|Mystery|Thriller,Liam Neeson,Non-Stop ,200647,16967,air marshal|death|passenger|terrorist|transatlantic flight,384,English,UK,PG-13,664,7.0,24000
+Andy Fickman,166,433,Billy Brown,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,Dwayne Johnson,Race to Witch Mountain ,43328,14007,alien|military|mountain|spacecraft|ufo,110,English,USA,PG,536,5.7,0
+James McTeigue,525,443,Eddie Marsan,Action|Drama|Thriller,Natalie Portman,V for Vendetta ,791783,22417,dystopia|freedom|government|revolution|terrorist,2042,English,USA,R,979,8.2,48000
+David Dobkin,165,55,Anna-Louise Plowman,Action|Adventure|Comedy,Fann Wong,Shanghai Knights ,81444,428,1880s|arrow|imperial seal|murder|revenge,192,English,USA,PG-13,131,6.2,955
+,2,132,Gemma Jones,Crime|Drama,Bernard Hill,Unforgotten             ,1824,1816,,9,English,UK,,171,7.9,0
+Matthew O'Callaghan,87,1000,Frank Welker,Adventure|Animation|Comedy|Family,Will Ferrell,Curious George ,12845,11124,hat|monkey|museum|shrine|yellow,118,English,USA,G,2000,6.6,624
+Angela Robinson,117,541,Thomas Lennon,Adventure|Comedy|Family|Fantasy|Romance|Sport,Scoot McNairy,Herbie Fully Loaded ,36431,2177,automobile racing|car|mechanic|nascar|street racing,168,English,USA,G,651,4.7,1000
+Gary Fleder,113,477,Jennifer Esposito,Crime|Drama|Mystery|Thriller,Oliver Platt,Don't Say a Word ,40362,3341,mental institution|post traumatic stress|psychiatrist|vomiting|voyeur,248,English,USA,R,912,6.3,970
+Tommy Wirkola,349,467,Derek Mears,Action|Fantasy|Horror,Jeremy Renner,Hansel & Gretel: Witch Hunters ,159868,11946,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power,304,English,Germany,R,520,6.1,45000
+Adrian Lyne,152,372,Erik Per Sullivan,Drama|Thriller,Olivier Martinez,Unfaithful ,63067,2583,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,533,English,USA,R,593,6.7,0
+D.J. Caruso,288,144,Emily Wickersham,Action|Adventure|Sci-Fi|Thriller,Alex Pettyfer,I Am Number Four ,195043,15608,based on young adult novel|good versus evil|guardian|human alien|ohio,329,English,USA,PG-13,348,6.1,27000
+Stephen Gaghan,358,414,Amr Waked,Drama|Thriller,Matt Damon,Syriana ,109188,14747,cia|hezbollah|lebanon|oil|prince,625,English,USA,R,903,7.0,0
+Michael Bay,204,681,James Badge Dale,Action|Drama|Thriller|War,Toby Stephens,13 Hours ,47764,3580,based on true story|cia agent|libya|mercenary|u.s. ambassador,219,English,USA,R,726,7.4,44000
+Jorge R. Gutiérrez,156,679,Hector Elizondo,Adventure|Animation|Comedy|Family|Fantasy|Romance,Channing Tatum,The Book of Life ,45580,19513,afterlife|bullfight|bullfighting|love triangle|mexico,102,English,USA,PG,995,7.3,18000
+Richard Loncraine,171,935,Harrison Ford,Crime|Thriller,Jimmy Bennett,Firewall ,50170,101383,architect|bank|cayman islands|meeting|murder,306,English,USA,PG-13,11000,5.8,773
+Clint Eastwood,76,826,Mark Margolis,Action|Crime|Drama|Thriller,Clint Eastwood,Absolute Power ,39529,19139,death|death of wife|murder|thief|violence,142,English,USA,R,1000,6.7,1000
+Ridley Scott,97,957,Demi Moore,Action|Drama|War,Viggo Mortensen,G.I. Jane ,60326,15569,feminism|hit in the crotch|kicked in the crotch|kicked in the testicles|navy,142,English,USA,R,2000,5.8,2000
+David Fincher,157,283,Armin Mueller-Stahl,Drama|Mystery|Thriller,Deborah Kara Unger,The Game ,261069,1397,birthday|falling through a glass roof|game|hitchcockian|suicide,506,English,USA,R,294,7.8,25000
+Christophe Gans,267,368,Deborah Kara Unger,Adventure|Horror|Mystery,Radha Mitchell,Silent Hill ,172792,1933,gothic|police|police officer|silent hill|sleepwalking,1740,English,Canada,R,495,6.6,0
+Howard Deutch,118,585,Jon Favreau,Comedy|Sport,Keanu Reeves,The Replacements ,48322,24024,coach|football player|misfits|strike|sumo wrestler,261,English,USA,PG-13,4000,6.5,0
+Jon Hurwitz,291,1000,Dania Ramirez,Comedy,Alyson Hannigan,American Reunion ,172112,8398,bikini|female female kiss|high school reunion|outdoor sex|upskirt,181,English,USA,R,1000,6.7,39000
+F. Gary Gray,68,294,Michael Cudlitz,Action|Crime|Drama|Mystery|Thriller,Kevin Spacey,The Negotiator ,107227,20152,hostage|innocence|murder|negotiator|police,279,English,Germany,R,822,7.3,3000
+Steven Quale,228,159,Alycia Debnam-Carey,Action|Thriller,Matt Walsh,Into the Storm ,54101,1367,danger|graduation|storm|teenage boy|tornado,210,English,USA,PG-13,298,5.8,15000
+John Landis,36,174,Jon Tenney,Action|Comedy|Crime|Thriller,Louis Lombardi,Beverly Hills Cop III ,60293,1093,california|counterfeit|counterfeit money|money|theme park,114,English,USA,R,289,5.5,669
+Joe Dante,105,767,Robert Picardo,Comedy|Fantasy|Horror,Christopher Lee,Gremlins 2: The New Batch ,68428,19610,gremlin|horror host|hulk hogan|monster|skyscraper,148,English,USA,PG-13,823,6.3,0
+David Dobkin,276,3000,Robert Duvall,Crime|Drama,Robert Downey Jr.,The Judge ,136973,30183,courtroom|dysfunctional family|indiana|lawyer|trial,275,English,USA,R,3000,7.4,47000
+Mimi Leder,93,258,Holt McCallany,Action|Thriller,Armin Mueller-Stahl,The Peacemaker ,46451,1289,nuclear explosion|nuclear weapon|russia|train|train crash,156,English,USA,R,273,5.9,0
+Alexander Witt,191,706,Thomas Kretschmann,Action|Horror|Sci-Fi|Thriller,Milla Jovovich,Resident Evil: Apocalypse ,151580,16791,cover up|monster|strong female character|strong female lead|zombie apocalypse,672,English,Germany,R,919,6.2,0
+Beeban Kidron,143,186,Jim Broadbent,Comedy|Drama|Romance,Colin Firth,Bridget Jones: The Edge of Reason ,74315,15634,american actress playing british character|intern|prison|six word title|thailand,259,English,UK,R,1000,5.9,0
+Carl Franklin,124,323,Sanaa Lathan,Crime|Drama|Romance|Thriller,Denzel Washington,Out of Time ,45895,19739,cancer|florida|insurance|life insurance policy|small town,157,English,USA,R,886,6.5,1000
+Steven Seagal,47,158,Joan Chen,Action|Adventure|Thriller,Mike Starr,On Deadly Ground ,17997,1860,environmental|murder|oil|oil spill|tribe,140,English,USA,R,643,4.4,812
+Robert Rodriguez,66,717,Kristin Davis,Action|Adventure|Family|Fantasy,Taylor Lautner,The Adventures of Sharkboy and Lavagirl 3-D ,20310,14899,boy|bully|dream|dream sequence|planet,177,English,USA,PG,722,3.5,0
+Danny Boyle,118,39,Virginie Ledoyen,Adventure|Drama|Thriller,Leonardo DiCaprio,The Beach ,176169,29461,love|map|paradise|thailand|travel,548,English,USA,R,414,6.6,0
+Garry Marshall,93,434,Felicity Huffman,Comedy|Drama|Romance,Amber Valletta,Raising Helen ,30890,2052,fashion show|female protagonist|love|pastor|queens new york city,106,English,USA,PG-13,508,6.0,718
+James McTeigue,235,72,Ben Miles,Action|Crime|Thriller,Shô Kosugi,Ninja Assassin ,58349,701,critically bashed|kung fu|martial artist|martial arts|ninja,194,English,USA,R,119,6.4,0
+Sam Raimi,113,432,Kelly Preston,Drama|Romance|Sport,J.K. Simmons,For Love of the Game ,26034,25469,baseball|baseball movie|detroit tigers|perfect game|pitcher,226,English,USA,PG-13,743,6.5,0
+,14,5,Bruce Alexander,Crime|Drama|Mystery,David Jason,A Touch of Frost             ,4438,344,cult tv|death|detective inspector|four word title|internal affairs,33,English,UK,,7,7.8,361
+Andrew Bergman,51,210,Rumer Willis,Comedy|Crime|Drama|Thriller,Demi Moore,Striptease ,34896,3016,bouncer|breasts|congressman|private dancer|stripper,118,English,USA,R,472,4.3,877
+Tom Dey,98,1000,Judy Greer,Comedy|Family,Emma Stone,Marmaduke ,11257,20061,dog|great dane|rivalry|talking animal|talking cat,65,English,USA,PG,2000,4.2,0
+Clint Eastwood,315,447,Jay Mohr,Drama|Fantasy,Matt Damon,Hereafter ,80140,14344,death|france|near death experience|tsunami|twin brother,323,English,USA,PG-13,563,6.5,16000
+Barbet Schroeder,136,401,Chris Penn,Crime|Mystery|Thriller,Ryan Gosling,Murder by Numbers ,43574,34606,disposing of a dead body|high school student|murder|sociopath|teenage boy,302,English,USA,R,455,6.1,0
+Richard Donner,61,282,Sylvester Stallone,Action|Crime|Thriller,Muse Watson,Assassins ,62981,58528,assassin|floppy disk|modem|rival|russian,84,English,France,R,13000,6.3,0
+Peter Webber,209,163,Stephen Walters,Crime|Drama|Thriller,Li Gong,Hannibal Rising ,86374,1344,aunt|cannibalism|faked death|medical student|revenge,392,English,UK,R,184,6.2,3000
+Rob Reiner,99,323,Tim Matheson,Comedy|Drama|Romance,Bruce Willis,The Story of Us ,18404,14706,four word title|husband wife relationship|male rear nudity|marriage|summer camp,150,English,USA,R,559,5.9,0
+Andrew Niccol,298,201,Chandler Canterbury,Action|Adventure|Romance|Sci-Fi|Thriller,J.D. Evermore,The Host ,92461,1300,alien|alien creature|body snatching|desert|parasite,347,English,USA,PG-13,329,5.9,43000
+John McTiernan,131,511,Harry Connick Jr.,Action|Crime|Drama|Mystery|Thriller,Connie Nielsen,Basic ,49926,3357,2000s|army|military crime|necklace yanked off|panama,286,English,Germany,R,631,6.5,0
+Clint Eastwood,146,581,Anjelica Huston,Action|Crime|Drama|Mystery|Thriller,Clint Eastwood,Blood Work ,34356,18635,boat|heart transplant|murder|serial killer|sister,260,English,USA,R,1000,6.4,705
+Tom Tykwer,245,294,Brían F. O'Byrne,Action|Crime|Drama|Mystery|Thriller,Naomi Watts,The International ,80196,7654,bank|chase|district attorney|interpol|murder,190,English,USA,R,450,6.5,0
+John Carpenter,104,764,Valeria Golino,Action|Adventure|Sci-Fi|Thriller,Steve Buscemi,Escape from L.A. ,54021,15935,escape|island|los angeles california|machismo|president's daughter,227,English,USA,R,898,5.7,0
+,4,398,Brittany Curran,Drama|Mystery|Thriller,Grey Damon,Twisted             ,7945,2758,,22,English,USA,,512,7.5,915
+Brad Bird,162,521,Harry Connick Jr.,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Vin Diesel,The Iron Giant ,128455,16358,boy|friend|government agent|maine|robot,514,English,USA,PG,631,8.0,0
+Wes Anderson,259,639,Anjelica Huston,Adventure|Comedy|Drama,Bill Murray,The Life Aquatic with Steve Zissou ,139535,15757,expedition|oceanographer|sea|shark|team,632,English,USA,R,1000,7.3,0
+Gary Ross,79,303,Donald Watkins,Action|Biography|Drama|History|War,Matthew McConaughey,Free State of Jones ,3077,12786,american civil war|civil war|u.s. civil war,47,English,USA,R,552,6.7,10000
+Alan Parker,141,256,Kate Winslet,Crime|Drama|Thriller,Kevin Spacey,The Life of David Gale ,88270,32637,activist|death|death row|murder|texas,420,English,USA,R,14000,7.5,0
+Stephen Herek,59,730,Vanessa Ferlito,Action|Comedy,Christina Milian,Man of the House ,19829,6171,cheerleader|cheerleading movie|neo noir|neo western|texas ranger,94,English,USA,PG-13,923,5.4,779
+Jaume Collet-Serra,236,655,Common,Action|Crime|Drama|Thriller,Liam Neeson,Run All Night ,76010,16992,death|drug dealer|limousine|limousine driver|one night,205,English,USA,R,988,6.6,15000
+David Cronenberg,356,509,Naomi Watts,Crime|Mystery|Thriller,Viggo Mortensen,Eastern Promises ,189249,17211,male pubic hair|pubic hair|russian|sex scene|turkish bath,398,English,USA,R,6000,7.7,0
+John Stockwell,120,795,James Frain,Action|Adventure|Crime|Thriller,Paul Walker,Into the Blue ,63599,25049,bahamas|blood splatter|cocaine|hairy chest|shark,208,English,USA,PG-13,1000,5.8,0
+Luc Besson,111,15,David Bailie,Adventure|Biography|Drama|History|War,Paul Brooke,The Messenger: The Story of Joan of Arc ,55889,144,cathedral|dauphin|france|trial|wartime rape,390,English,France,R,40,6.4,0
+David Gordon Green,208,11000,Zooey Deschanel,Adventure|Comedy|Fantasy,Natalie Portman,Your Highness ,85237,45202,knight|prince|quest|rescue|thong bikini,274,English,USA,R,11000,5.6,18000
+Jim Sheridan,174,692,Gregory Smith,Drama|Mystery|Thriller,Naomi Watts,Dream House ,46239,8018,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train,137,English,USA,PG-13,694,6.0,0
+Costa-Gavras,59,317,Blythe Danner,Crime|Drama|Thriller,Mia Kirshner,Mad City ,16562,2606,hostage|museum|natural history museum|news reporter|reporter,73,English,USA,PG-13,713,6.2,697
+Patrick Read Johnson,22,479,Lara Flynn Boyle,Adventure|Comedy|Crime|Drama|Family,Joe Mantegna,Baby's Day Out ,33186,2949,baby|baby boy|kidnapping|kidnapping a child|taxi,78,English,USA,PG,619,5.9,0

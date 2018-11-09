@@ -1,57 +1,318 @@
-director_name,num_critic_for_reviews,director_facebook_likes,title_year
-Andrew Berends,12,0,2005
-Lynn Shelton,171,100,2011
-Valentine,,0,2015
-David Hewlett,8,686,2007
-David Hewlett,8,686,2007
-George A. Romero,284,0,1968
-Jean-Luc Godard,36,0,1964
-Nate Parker,21,664,2016
-Nathan Smith Jones,1,7,2003
-Alex Kendrick,31,589,2006
-Travis Cluff,159,3,2015
-David Lynch,152,0,1977
-Harry F. Millarde,1,0,1920
-Robert Townsend,21,467,1987
-Peter Chelsom,57,23,1998
-Jamaa Fanaka,23,9,1979
-Larry Blamire,88,56,2001
-Stephen Langford,2,7,2014
-E.L. Katz,193,3,2013
-Lisanne Pajot,50,0,2012
-Dan Reed,61,3,2007
-John Reinhardt,1,2,1948
-Patrick Ryan Sims,5,0,2013
-Laslo Benedek,14,6,1971
-Jason Miller,5,0,2014
-Dennis Iliadis,241,29,2009
-Sut Jhally,16,3,2004
-Darren Aronofsky,138,0,1998
-Julie Davis,5,12,1997
-Myles Berkowitz,32,0,1998
-Brett Piper,18,7,2015
-Morgan Spurlock,193,293,2004
-Brandon Trost,66,32,2011
-Joe Swanberg,65,217,2014
-Joseph Green,95,2,1962
-Wade Gasque,13,0,2014
-Daniel Schechter,15,8,2012
-Mike Flanagan,125,59,2011
-Edward Burns,36,0,1995
-Matt Johnson,73,8,2013
-Bruno Barreto,1,9,1983
-Lena Dunham,113,969,2010
-Terron R. Parsons,13,9,2012
-Daniel Mellitz,,0,2006
-Jem Cohen,12,6,2015
-Andrew Leman,60,2,2005
-Dave Carroll,10,0,2013
-William Eubank,161,18,2014
-Patrick Meaney,7,3,2014
-Chad Hartigan,34,3,2013
-Malcolm Goodwin,,117,2013
-David Gordon Green,75,234,2000
-Kevin Jordan,21,4,1999
-Kirk Loudon,3,0,2014
-Travis Legge,2,138,2011
-Martin Scorsese,71,17000,1978
+num_critic_for_reviews,actor_2_name,language,country,title_year,imdb_score
+58,Scott Mechlowicz,English,USA,2015,5.3
+14,Darren Keefe Reiher,English,USA,2005,3.3
+451,Alan Rickman,English,USA,2010,6.5
+,Michael Rapaport,English,USA,2009,6.2
+21,Amy Sedaris,English,USA,2009,5.9
+9,Kristi Clainos,English,Brazil,2013,5.5
+98,Amy Poehler,English,USA,2014,5.5
+29,Ashley Martin,English,USA,2013,2.6
+23,Alex Meraz,English,USA,2011,5.8
+87,Angie Dickinson,English,USA,1967,7.4
+2,Sarah Rafferty,Italian,Italy,2009,5.1
+17,David Bianchi,English,USA,2013,5.2
+7,Shantel VanSanten,English,USA,2014,4.8
+6,Brooke Newton,English,USA,2015,3.9
+9,Jack Taylor,English,Italy,1988,6.2
+343,Derek Jacobi,English,USA,2015,7.0
+11,Stacy Keach,English,USA,2009,6.2
+34,Cybill Shepherd,English,USA,2010,5.9
+71,Matheus Nachtergaele,Portuguese,Brazil,1998,8.0
+21,Glenn Ford,English,USA,1961,7.3
+28,Nick Chinlund,English,USA,2015,4.9
+35,Michael Nouri,English,USA,2005,6.5
+30,Patrick Bauchau,English,USA,2014,4.3
+73,James Ransone,English,USA,2010,6.4
+154,Patrick Troughton,English,UK,1976,7.6
+251,Maïwenn,French,France,2003,6.8
+57,Patrick Brammall,English,Australia,2010,6.1
+14,Gregory Cruz,English,USA,2015,4.0
+159,Paula Jai Parker,English,USA,2005,7.4
+181,Joe E. Brown,English,USA,1959,8.3
+110,Terry Kiser,English,USA,1988,5.3
+213,Terry,English,USA,1939,8.1
+129,Peter Boyle,English,USA,1974,8.0
+280,Shawn Roberts,English,USA,2007,5.7
+15,Sanjay Dutt,Hindi,India,2006,8.2
+61,Patricia Richardson,English,USA,1997,7.1
+33,Kelly Reno,English,USA,1979,7.4
+1,Neeru Bajwa,Panjabi,Canada,2015,6.6
+2,Frank Hvam,Danish,Denmark,2008,5.7
+27,Cesar Romero,English,USA,1963,6.9
+19,Ariane Schluter,Dutch,Netherlands,1996,7.0
+9,Esther Williams,English,USA,1943,7.0
+121,David Huddleston,English,USA,1974,7.8
+166,Tom Everett,English,USA,1984,5.9
+269,Agata Trzebuchowska,Polish,Poland,2013,7.4
+29,Denholm Elliott,English,UK,1987,7.8
+20,Laurie Metcalf,English,USA,2006,6.0
+107,Charlize Theron,English,USA,1999,5.3
+74,Gabrielle Reece,English,USA,2004,7.9
+173,Nacho Vigalondo,Spanish,Spain,2007,7.2
+5,Bo Huang,Mandarin,China,2009,7.4
+66,Nick Searcy,English,USA,2007,5.3
+169,Debbie Reynolds,English,USA,1952,8.3
+13,Joel Fuhrman,English,Australia,2010,7.6
+129,Alanna Ubach,English,USA,2013,5.1
+30,Zackary Steven Graham,English,USA,2012,5.1
+220,Tyler Mane,English,USA,2009,4.9
+75,Charlize Theron,English,USA,1996,6.9
+162,Dan O'Herlihy,English,USA,1982,4.6
+74,M. Emmet Walsh,English,USA,1971,6.3
+65,Melvyn Douglas,English,USA,1963,7.9
+26,La'Princess Jackson,English,USA,2013,6.7
+63,Udo Kier,English,USA,1991,7.1
+205,Michael Weston,English,USA,2004,7.6
+121,Hans Weingartner,English,USA,1995,8.1
+9,Michel Côté,French,Canada,2003,6.6
+74,Samantha Morton,English,USA,1999,7.0
+54,Ato Essandoh,English,USA,2004,7.6
+80,Christopher Simpson,English,UK,2007,6.7
+252,Joshua Ormond,English,USA,2012,7.1
+72,Julian Richings,English,Spain,2003,7.6
+220,Jennifer Jason Leigh,English,USA,2013,7.1
+1,Elden Henson,English,USA,1990,7.1
+197,Tal Bachman,English,USA,2008,7.7
+14,Sheryl Crow,English,USA,2008,7.6
+3,Diana Scarwid,English,USA,2006,6.6
+191,Stephen Root,English,USA,2004,6.7
+18,Carly Schroeder,English,USA,2006,5.7
+28,Emily Pearson,English,USA,2010,7.1
+22,Anupam Kher,English,UK,2008,6.2
+62,Rüdiger Vogler,German,Germany,2000,6.1
+47,Jacob Vargas,Spanish,USA,2008,5.9
+238,Rainn Wilson,English,USA,2010,6.8
+2,Piper Mackenzie Harris,English,USA,2010,5.8
+95,Cecilia Pillado,English,Germany,2015,5.0
+10,Emmanuel Kabongo,English,USA,2016,6.3
+28,Harry Lennix,English,USA,1996,6.8
+25,Max Ryan,English,Poland,2006,5.1
+121,Patrick Fischler,English,USA,2006,6.6
+10,Kevin Leslie,English,UK,2015,5.0
+172,Joseph Gilgun,English,UK,2006,7.7
+20,Sean Pertwee,English,UK,2012,3.1
+8,Basil Rathbone,English,USA,1944,6.5
+8,Aimee Garcia,English,USA,2011,3.9
+15,Michael O'Neill,English,USA,1998,6.8
+14,Ava Gardner,English,USA,1951,7.0
+12,Cinda McCain,English,USA,2010,5.9
+48,Ellen Burstyn,English,USA,2014,5.8
+17,Phil Hartman,English,USA,1987,7.3
+99,Deems Taylor,English,USA,1940,7.8
+138,Fernando Rey,English,USA,1971,7.8
+,Sebastian Aguilar,English,USA,2014,6.9
+235,Dana Kimmell,English,USA,1982,5.7
+160,Melanie Kinnaman,English,USA,1985,4.7
+18,Louise Fletcher,English,USA,2007,5.9
+11,Delroy Lindo,English,USA,2015,5.9
+11,Kayla Ewell,English,USA,2008,4.3
+7,Greer Garson,English,USA,1945,7.5
+5,Ethan Peck,English,Spain,2015,4.8
+10,Zohra Segal,English,UK,2005,5.8
+5,James Wolk,English,USA,2014,5.3
+95,Daniel Kash,English,Canada,2007,6.0
+97,Teresa Wright,English,USA,1946,8.1
+76,Nick Stahl,English,USA,2001,7.0
+67,Per Christian Ellefsen,Norwegian,Norway,2001,7.6
+4,Arturo Castro,English,USA,2015,7.2
+252,Pablo Rosso,Spanish,Spain,2007,7.5
+,Martha Higareda,English,USA,2010,6.3
+1,David Proval,English,USA,2015,6.7
+33,Michael Chapman,English,UK,2015,4.8
+19,Maria Doyle Kennedy,English,USA,2015,5.5
+167,Daniela Bianchi,English,UK,1963,7.5
+49,Jessica Dublin,English,USA,1989,5.1
+1,Alan Autry,English,USA,,7.4
+66,John Beck,English,USA,1973,7.3
+533,Ruby Harris,English,USA,2014,6.9
+50,John Carradine,English,USA,1972,6.8
+127,Brock Peters,English,USA,1962,8.4
+177,Bruce Spence,English,Australia,1981,7.6
+77,Anita Mui,Cantonese,Hong Kong,1994,7.6
+103,Shelley Winters,English,UK,1962,7.7
+123,Brendan Sexton III,English,USA,1999,7.6
+218,Julia Taylor Ross,English,France,2011,5.3
+215,Ulrich Mühe,German,Germany,2006,8.5
+34,Alex Kendrick,English,USA,2011,7.0
+100,Jackie Gleason,English,USA,1961,8.0
+12,Spencer Tracy,English,USA,1940,7.1
+167,Charles Linton,French,France,2003,7.8
+56,Irene Bedard,English,Canada,1998,7.2
+180,James Urbaniak,English,USA,2003,7.5
+211,Albert Delpy,English,USA,2004,8.0
+157,Jorge Salinas,Spanish,Mexico,2000,8.1
+126,Sarah Clarke,English,USA,2003,6.8
+61,Celeste Holm,English,USA,1947,7.4
+365,Shelley Waggener,English,USA,2010,7.2
+121,Brendan Mackey,English,UK,2003,8.1
+10,Don Ameche,English,USA,1938,7.0
+151,Brad William Henke,English,USA,2005,7.4
+171,George W. Bush,English,USA,2010,8.3
+158,Emily Ratajkowski,English,UK,2015,6.1
+167,Gano Grills,English,France,1999,7.5
+118,Christian Bale,English,USA,2005,7.0
+39,Leonor Varela,English,USA,2015,5.3
+108,Enrico Colantoni,English,USA,2002,4.7
+65,Tawny Kitaen,English,UK,1986,5.7
+8,Amy Sedaris,English,USA,,8.1
+85,Brian Blessed,English,UK,1996,7.8
+160,Peter Stickles,English,USA,2006,6.5
+231,Ronny Dayag,Hebrew,Israel,2008,8.0
+7,Kirby Heyborne,English,USA,2003,3.3
+79,Dick Cheney,English,USA,2007,8.3
+168,David Fine,English,USA,2015,6.9
+1,Jon Tenney,English,USA,,7.3
+107,Buzz Aldrin,English,UK,2007,8.1
+200,Zoe Kazan,English,USA,2010,6.5
+123,Bill Maher,English,USA,2005,6.8
+39,Manny Perez,English,USA,2000,7.3
+41,Bob Balaban,English,UK,1997,6.4
+46,Krysta Rodriguez,English,USA,2010,4.6
+30,Isabelle Adjani,French,France,1985,6.5
+46,Mark Margolis,English,USA,2004,7.0
+221,Nathan Parsons,English,USA,2007,5.4
+51,Stephane Gauger,English,USA,1998,6.7
+1,Bobby Deol,Hindi,India,2000,2.8
+58,Neil Maskell,English,UK,2004,7.4
+45,Steve Buscemi,English,USA,2009,5.8
+44,Annette Badland,English,UK,1997,7.1
+74,Caleb Landry Jones,English,USA,2015,4.5
+20,Colin Ferguson,English,USA,,7.9
+6,Sanjay Mishra,Hindi,India,2008,5.3
+5,Frank Vincent,English,USA,2003,5.4
+10,Jansen Panettiere,English,Thailand,2013,4.8
+81,Jeremy Jordan,English,USA,2014,5.9
+66,Amy Ryan,English,USA,2009,6.2
+46,Kent McCord,English,USA,1993,5.9
+34,Chris Evans,English,UK,2005,6.6
+78,Kate Burton,English,USA,2006,6.6
+52,Megan Mullally,English,USA,2002,5.1
+29,Michael McLafferty,English,USA,2015,6.0
+161,Jack O'Connell,English,UK,2008,6.8
+18,James Kyson,English,USA,2013,5.4
+107,James Corden,English,UK,2009,5.2
+30,Kenneth Nkosi,English,South Africa,2008,7.8
+24,Lee Evans,English,UK,2004,6.4
+116,Sean Rogerson,English,Canada,2011,6.1
+98,Tommy Knight,English,Ireland,2012,5.7
+25,William Lee Scott,English,USA,2010,5.5
+,Tim Rice,English,UK,2015,7.4
+40,Charlotte Rae,English,USA,1971,7.1
+20,Linus Roache,English,USA,2012,3.9
+8,Mario Cimarro,English,USA,2007,4.6
+19,Tim Daly,English,USA,,7.3
+90,Everett Sloane,English,USA,1947,7.7
+21,Lew Temple,English,USA,2008,4.9
+12,M.C. Gainey,English,USA,2002,6.3
+33,Saffron Burrows,English,USA,2012,6.1
+9,Ben Schwartz,English,USA,2013,6.6
+94,Kevin McCarthy,English,USA,2012,5.7
+41,Curtiss Cook,English,USA,2013,5.6
+38,Lex Barker,German,West Germany,1967,6.0
+12,Powers Boothe,English,USA,2013,5.7
+25,Zero Mostel,English,USA,1966,7.0
+27,Eddie Vedder,English,USA,2007,5.3
+2,Kevin Alejandro,English,USA,2011,4.4
+23,Wray Crawford,English,USA,2015,3.4
+32,Bella Heathcote,English,USA,2015,4.5
+18,Michael Aaron Milligan,English,USA,2015,3.4
+45,Daniel Roebuck,English,USA,1986,7.1
+60,Anthony Edwards,English,USA,2003,6.4
+23,Mike 'The Miz' Mizanin,English,USA,2015,5.2
+363,Samantha Mathis,English,Spain,2010,7.0
+249,Paddy Considine,English,UK,2010,7.3
+68,Ahmed Hassan,Arabic,Egypt,2013,8.1
+14,Lizzie Brocheré,French,France,2006,5.8
+359,Judy Greer,English,USA,2013,5.9
+15,Remo,Hindi,India,2013,6.4
+256,Lin Shaye,English,USA,1984,7.5
+194,Philippe Petit,English,UK,2008,7.8
+,Peter Feeney,English,New Zealand,2015,6.3
+10,Adam Ratcliffe,English,USA,2015,7.2
+311,Ashley Bell,English,France,2010,5.6
+205,Ophelia Lovibond,English,UK,2009,7.2
+94,Karl Malden,English,USA,1951,8.0
+192,Slim Pickens,English,USA,1964,8.5
+85,Ana Claudia Talancón,Spanish,Mexico,2002,6.8
+663,Gina Montana,English,USA,2012,7.3
+62,Paul Williams,English,USA,1973,5.5
+39,David Patrick Kelly,English,USA,2000,7.3
+68,Bill Irwin,English,USA,2011,6.3
+3,T.R. Silambarasan,Tamil,India,2015,5.1
+130,J.J. Abrams,English,USA,2011,6.6
+13,Gary Farmer,English,USA,1993,6.1
+44,Lhakpa Dorji,Dzongkha,Australia,2003,7.5
+26,Bruce Dern,English,USA,1968,7.0
+27,Jim Backus,English,USA,1952,7.2
+53,Tom Cavanagh,English,USA,2007,5.3
+,Luke Edwards,English,USA,2016,8.7
+10,Keenan Tracey,English,Canada,2013,3.4
+4,Essence Atkins,English,USA,2012,5.4
+181,Ludger Pistor,German,Germany,1998,7.8
+114,Will Estes,English,USA,2002,6.7
+11,CJ Adams,English,Canada,2013,4.7
+1,Chris Cleveland,English,USA,2013,6.3
+75,Eugenio Derbez,Spanish,Mexico,2007,7.4
+80,Gordon Jump,English,USA,1972,6.1
+179,Sissy Spacek,English,USA,2001,7.5
+225,Chad Lindberg,English,USA,2010,6.3
+77,Illeana Douglas,English,USA,1999,6.3
+124,Natalie Press,English,UK,2004,6.8
+195,Nimrat Kaur,Hindi,India,2013,7.8
+76,Joan Allen,English,UK,2004,6.9
+51,Ann Miller,English,USA,1938,8.0
+101,Donna Reed,English,USA,1953,7.8
+55,Ben Johnson,English,USA,1949,7.4
+15,Michael Welch,English,USA,2013,6.1
+16,Clifton Powell,English,USA,1999,4.3
+5,Lamman Rucker,English,USA,2010,3.5
+109,Adel Karam,Arabic,France,2007,7.2
+40,Pixie Davies,English,USA,2014,4.7
+51,Lior Ashkenazi,Hebrew,Israel,2006,7.3
+149,Teri Garr,English,USA,1974,7.9
+4,Revathy,English,India,2005,5.1
+35,Jean-Paul Belmondo,French,France,1969,7.2
+22,Marisa Coughlan,English,USA,2003,5.4
+68,Gage Golightly,English,USA,2016,3.7
+287,Kevin Zegers,English,USA,2004,7.4
+173,Cheryl Hines,English,USA,2007,7.1
+61,Donald Gibb,English,USA,1988,6.8
+96,Jean Arthur,English,USA,1939,8.2
+71,Leo Fitzpatrick,English,USA,1995,7.0
+110,Elizabeth Meriwether,English,USA,2005,7.4
+110,Jennifer Westfeldt,English,USA,2001,6.7
+101,Ni Yan,Mandarin,China,2009,5.7
+2,T.J. Storm,,USA,2016,9.1
+97,Rhonda Fleming,English,USA,1945,7.6
+53,Mia Kirshner,English,Canada,1994,7.2
+106,Vincent Gallo,English,USA,1998,7.5
+445,Barbara Hershey,English,USA,2010,6.8
+131,Tracey Walter,English,USA,1984,6.9
+94,Gastón Pauls,Spanish,Argentina,2000,7.9
+105,Yuval Diskin,Hebrew,Israel,2012,7.6
+75,Susanna Thompson,English,USA,2005,6.7
+97,Alia Shawkat,English,USA,2013,5.8
+37,Salvator Xuereb,English,France,1993,6.5
+84,Theresa Russell,English,USA,2001,7.2
+88,Connor Paolo,English,USA,2007,6.9
+6,Lisa Brave,English,USA,2014,5.5
+127,Brendan Sexton III,English,USA,2001,6.5
+32,Jeff Garlin,English,USA,2006,6.2
+8,Nia Long,English,USA,2010,6.7
+229,Kane Hodder,English,USA,2006,5.7
+120,Stanley Blystone,English,USA,1936,8.6
+31,Aidan Quinn,English,USA,2002,6.5
+100,Dan Hicks,English,USA,2007,6.3
+14,Monica Calhoun,English,USA,2005,4.3
+14,Jim O'Heir,English,USA,2015,6.1
+39,Jenny O'Hara,English,USA,2005,6.0
+35,John Arcilla,English,USA,2010,5.8
+178,Georgina Reilly,English,Canada,2008,6.7
+46,Joey Lauren Adams,English,USA,2008,6.7
+,Jaime Zevallos,English,USA,2015,7.6
+234,Dee Wallace,English,USA,2012,5.1
+166,Bruce Hopkins,English,New Zealand,2014,6.8
+56,Jon Hunter,English,USA,2005,6.8
+16,Sarah Lind,English,Canada,2005,6.8
+9,Michael Rapaport,English,USA,2013,6.3
+18,Joe Armstrong,English,Romania,2014,7.1

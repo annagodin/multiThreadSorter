@@ -1,401 +1,93 @@
-country
-Germany
-Germany
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-France
-USA
-USA
-Germany
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-Germany
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-Canada
-USA
-USA
-Germany
-USA
-USA
-USA
-USA
-USA
-Germany
-UK
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-France
-UK
-USA
-USA
-Germany
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-Canada
-USA
-USA
-USA
-UK
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-USA
-Czech Republic
-Canada
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-India
-USA
-USA
-USA
-USA
-Soviet Union
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-South Korea
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-Germany
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-Peru
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-Germany
-France
-USA
-USA
-USA
-USA
-USA
-UK
-Australia
-USA
-USA
-France
-USA
-USA
-China
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-UK
-UK
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-UK
-USA
-China
-USA
-USA
-New Zealand
-USA
-France
-USA
-France
-USA
-Hong Kong
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-UK
-USA
-UK
-USA
-USA
-USA
-USA
-UK
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-Germany
-USA
-USA
-Germany
-USA
-UK
-USA
-USA
-Canada
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-USA
-Germany
-UK
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-USA
-USA
-France
-USA
-USA
-USA
-Spain
-USA
-USA
-USA
-USA
-France
-USA
+director_name,duration,director_facebook_likes,actor_2_name,gross,actor_1_name,num_voted_users,cast_total_facebook_likes,facenumber_in_poster,num_user_for_reviews,language,country,content_rating,title_year,actor_2_facebook_likes,imdb_score
+Chris Stokes,81,548,Rachel Sterling,,Kristen Quintrall,1561,609,0,21,English,USA,R,2012,134,4.2
+Mark Griffiths,84,4,Gina Holden,,Eric Mabius,1929,1932,2,4,English,USA,TV-G,2012,346,6.3
+Bruce Macdonald,94,103,Cheryl Ladd,,Rachel Hendrix,724,1150,1,15,English,South Africa,PG,2014,476,4.7
+Timur Bekmambetov,141,335,Ayelet Zurer,,Morgan Freeman,67,13391,2,1,English,USA,PG-13,2016,744,6.0
+Fred Zinnemann,120,160,Susannah York,,Robert Shaw,23713,1238,0,167,English,UK,Approved,1966,269,7.9
+Sidney Lumet,121,0,Faye Dunaway,,Robert Duvall,103493,5987,0,317,English,USA,R,1976,977,8.1
+Victor Fleming,226,149,George Reeves,198655278,Hattie McDaniel,215340,1862,1,706,English,USA,G,1939,384,8.2
+Richard Raymond,104,10,Reece Ritchie,143653,Tom Cullen,1177,1281,0,10,English,UK,PG-13,2014,236,6.0
+Sam Peckinpah,152,541,Slim Pickens,14873,James Coburn,5294,2888,2,67,English,USA,Approved,1965,575,6.8
+Alan Jacobs,92,2,Laz Alonso,,Snoop Dogg,257,3229,3,6,English,USA,R,2009,826,7.3
+George Sidney,107,24,Howard Keel,8000000,Keenan Wynn,3167,731,0,90,English,USA,Passed,1950,244,7.0
+Christopher Morris,97,69,Riz Ahmed,304137,Kayvan Novak,55982,1269,0,148,English,UK,R,2010,365,7.3
+Andrucha Waddington,115,6,Seu Jorge,,Fernanda Montenegro,2650,222,1,35,Portuguese,Brazil,R,2005,69,7.5
+Peter Stebbings,95,89,Tony Nappo,37606,Michael Kelly,31836,2658,0,90,English,Canada,R,2009,654,6.8
+Vincente Minnelli,102,136,Reginald Owen,2956000,Gladys Cooper,3258,282,0,54,English,USA,Approved,1948,78,7.1
+Dagur Kári,99,29,Susan Blommaert,19959,Alice Olivia Clarke,3579,298,2,14,English,Iceland,R,2009,64,6.9
+Nicholas Hytner,109,13,Russell Tovey,2706659,Dominic Cooper,17770,5977,0,172,English,UK,R,2006,796,6.9
+Jaume Collet-Serra,113,174,Frank Langella,61094903,Liam Neeson,210548,17151,3,332,English,UK,PG-13,2011,902,6.9
+,25,,Jamie Farr,,David Ogden Stiers,36265,2195,5,147,English,USA,TV-PG,,421,8.4
+John Schlesinger,113,154,Barnard Hughes,,Brenda Vaccaro,76616,465,2,334,English,USA,X,1969,89,7.9
+Peter Cattaneo,91,11,Mark Addy,45857453,Tom Wilkinson,82232,2323,3,174,English,UK,R,1997,891,7.2
+Jim Abrahams,88,104,Lloyd Bridges,83400000,Peter Graves,160281,2726,0,427,English,USA,PG,1980,575,7.8
+Kevin Carraway,88,2,Max Ryan,,Michael Jai White,801,2886,3,14,English,USA,R,2015,872,3.5
+F. Gary Gray,97,473,John Witherspoon,27900000,Nia Long,74626,3455,1,157,English,USA,R,1995,723,7.3
+Albert Hughes,97,117,Larenz Tate,27900000,Jada Pinkett Smith,39508,3036,2,96,English,USA,R,1993,582,7.5
+,42,,Gabourey Sidibe,,Ta'Rhonda Jones,27418,4337,2,92,English,USA,TV-14,,906,7.8
+Michael Gornick,85,10,Holt McCallany,14000000,George Kennedy,15956,3617,0,118,English,USA,R,1987,273,6.0
+Sam Peckinpah,121,541,Jason Robards,,Slim Pickens,6350,1970,2,62,English,USA,R,1970,372,7.3
+Richard Brooks,134,174,Robert Blake,,John Forsythe,19026,970,1,128,English,USA,Approved,1967,220,8.0
+Fred Zinnemann,149,160,Peter Finch,,Colleen Dewhurst,7071,646,0,83,English,USA,Not Rated,1959,139,7.6
+Jack Smight,121,22,Robert Wagner,,Janet Leigh,5941,2402,1,74,English,USA,Not Rated,1966,481,7.0
+Alfred Hitchcock,116,13000,Jean Marsh,,Bernard Cribbins,30982,771,0,199,English,UK,R,1972,146,7.5
+Robert Eggers,92,22,Kate Dickie,25138292,Julian Richings,66483,1122,0,452,English,USA,R,2015,191,6.8
+Michael Martin,93,0,Master P,10305534,Joe Estevez,1721,987,2,38,English,USA,R,1998,118,3.9
+Edward Burns,96,0,Frank Vincent,9449219,John Mahoney,13949,995,2,98,English,USA,R,1996,356,6.1
+Bill Condon,105,386,Lynn Redgrave,6390032,Brendan Fraser,24977,4238,2,229,English,USA,R,1998,258,7.5
+Juan José Campanella,129,195,Soledad Villamil,20167424,Ricardo Darín,131831,1044,0,231,Spanish,Argentina,R,2009,88,8.2
+George A. Romero,87,0,John Amplas,,Greg Nicotero,49672,1592,1,419,English,USA,Unrated,1985,177,7.2
+Gideon Raff,94,47,Gloria Votsis,,Gideon Emery,4790,836,1,52,English,USA,R,2008,209,4.8
+Sam Raimi,37,0,Dan Hicks,5923044,Ted Raimi,113451,1347,0,537,English,USA,X,1987,328,7.8
+Louis C.K.,81,0,J.B. Smoove,3293258,Wanda Sykes,11399,2238,0,131,English,USA,PG-13,2001,555,5.2
+Anthony C. Ferrante,97,48,John Heard,,Ian Ziering,34532,3075,0,236,English,USA,TV-14,2013,697,3.3
+Salvador Carrasco,106,22,Zaide Silvia Gutiérrez,886410,Elpidia Carrillo,1024,222,0,494,Spanish,Mexico,R,1998,16,6.8
+André Øvredal,103,12,Johanna Mørck,252652,Otto Jespersen,54104,44,0,199,Norwegian,Norway,PG-13,2010,4,7.0
+Robert Cary,101,0,Fred Willard,220234,Frances Conroy,1950,3574,3,24,English,USA,R,2006,729,6.5
+Akiva Schaffer,102,82,Nicholas Braun,34350553,Will Forte,104072,2486,4,207,English,USA,R,2012,591,5.7
+Adam Rapp,98,9,Will Ferrell,101228,Zooey Deschanel,7228,20009,4,53,English,USA,R,2005,8000,6.4
+Angela Robinson,91,23,Geoff Stults,96793,Jordana Brewster,12188,6380,3,135,English,USA,PG-13,2004,756,5.3
+Warren P. Sonoda,105,28,Mykel Shannon Jenkins,123777,Diahann Carroll,342,1043,0,15,English,Canada,PG-13,2016,294,4.7
+Amanda Gusack,98,0,Christian Campbell,,Alice Krige,1634,668,0,11,English,USA,,2008,168,6.1
+Avi Nesher,104,6,Elizabeth Berkley,,Fisher Stevens,372,2406,6,20,English,USA,R,1998,893,5.5
+,45,,Ash Cook,,James Nesbitt,653,1393,3,4,English,UK,,,133,7.3
+Charles Adelman,96,0,Kevin Pollak,,Teri Polo,961,2307,0,12,English,USA,,2009,574,4.8
+Jay Oliva,148,41,Mark Valley,,Michael Emerson,30434,5526,0,55,English,USA,PG-13,2013,774,8.4
+Charles Ferguson,100,117,Jerry Brown,29233,Jane Goodall,75,24,0,2,English,USA,,2015,3,7.0
+Uwe Boll,86,892,Shelly Varod,,Bashar Rahal,1285,854,1,10,English,Canada,R,2014,145,3.3
+Mark Young,92,14,Jake Busey,,Alexa PenaVega,1928,3854,2,10,English,USA,Not Rated,2014,660,5.4
+Daniel Petrie Jr.,88,19,Jeff Fahey,,Chris Brochu,455,2497,0,13,English,,,2014,535,4.8
+Antonio Simoncini,90,0,Joe Egan,,Ray Winstone,610,1183,1,18,English,UK,R,2014,53,3.1
+Mel Brooks,94,0,Harvey Korman,,Madeline Kahn,15115,2861,0,102,English,USA,PG,1977,628,6.7
+Luc Jacquet,80,10,Sofie Gråbøl,77413017,Morgan Freeman,45984,11218,0,331,French,France,G,2005,108,7.6
+J.C. Chandor,107,78,Demi Moore,5354039,Kevin Spacey,92599,22834,8,225,English,USA,R,2011,2000,7.1
+Eldar Rapaport,99,0,Adrian Gonzalez,,Murray Bartlett,1262,320,1,13,English,USA,Not Rated,2011,69,6.1
+Clark Gregg,92,0,Matt Gerald,2926565,Anjelica Huston,28573,3608,0,72,English,USA,R,2008,585,6.5
+Damien Chazelle,107,141,Melissa Benoist,13092000,J.K. Simmons,399138,26495,0,731,English,USA,R,2014,970,8.5
+Fernando Meirelles,135,353,Seu Jorge,7563397,Alice Braga,533200,1211,0,749,Portuguese,Brazil,R,2002,69,8.7
+Justin Kerrigan,99,8,John Simm,104257,Danny Dyer,19194,1430,2,160,English,UK,R,1999,472,7.1
+Nathan Frankowski,102,19,Rus Blackwell,,Corbin Bleu,2116,1011,7,13,English,USA,PG-13,2012,144,6.6
+Karen Moncrieff,93,22,Bruce Davison,17311,James Franco,12304,11860,0,73,English,USA,R,2006,505,6.7
+Thomas Vinterberg,115,346,Alexandra Rapaport,610968,Thomas Bo Larsen,170155,216,1,249,Danish,Denmark,R,2012,69,8.3
+Bob Clark,94,84,Darren McGavin,,Zack Ward,104908,2076,0,458,English,USA,PG,1983,577,8.1
+Alejandro Monteverde,91,38,Ramon Rodriguez,8108247,Armando Riesco,9607,2747,0,174,English,USA,PG-13,2006,464,7.4
+Mark L. Lester,98,73,Perry King,,Roddy McDowall,6549,1105,4,75,English,Canada,R,1982,251,6.6
+Jennifer Finnigan,97,246,Kenan Thompson,,Geoff Stults,557,3717,5,3,English,USA,,2014,521,4.5
+Eric Styles,92,4,Rupert Graves,7680,Samantha Morton,704,2020,0,18,English,USA,R,1999,443,6.4
+Laurent Cantet,128,39,Agame Malembo-Emene,3766595,François Bégaudeau,29248,17,7,86,French,France,PG-13,2008,2,7.5
+Roman Polanski,136,2000,Mia Farrow,,John Cassavetes,140527,2997,0,447,English,USA,R,1968,563,8.0
+John Ford,113,673,Woody Strode,,Lee Marvin,53741,2693,1,214,English,USA,Approved,1962,423,8.1
+Max Mayer,99,6,Terry Walters,2277396,Peter Gallagher,29239,1936,0,70,English,USA,PG-13,2009,390,7.2
+Joshua Marston,101,13,Wilson Guerrero,6517198,Catalina Sandino Moreno,30474,308,0,172,Spanish,Colombia,R,2004,11,7.5
+Mike Mills,105,101,Lou Taylor Pucci,5776314,Goran Visnjic,73349,2016,4,142,English,USA,R,2010,394,7.2
+John Gulager,95,38,Eric Dane,,Krista Allen,25542,170118,0,252,English,USA,R,2005,2000,6.4
+John Landis,109,644,Karen Allen,141600000,John Belushi,90177,3468,6,257,English,USA,R,1978,783,7.6
+Guy Hamilton,110,82,Gert Fröbe,51100000,Honor Blackman,139432,1198,2,418,English,UK,Approved,1964,202,7.8
+Brandon Cronenberg,108,43,Douglas Smith,,Sarah Gadon,9356,1962,0,47,English,Canada,Not Rated,2012,480,5.7
+Frank Capra,118,964,Lionel Barrymore,,Donna Reed,275720,1844,0,706,English,USA,PG,1946,275,8.6
+Danny Boyle,94,0,Shirley Henderson,16501785,Kelly Macdonald,469561,3559,4,514,English,UK,R,1996,887,8.2
+Spike Lee,115,0,Cedric the Entertainer,38168022,Bernie Mac,4687,1964,0,83,English,USA,R,2000,436,6.6
+Tod Williams,98,21,Molly Ephraim,84749884,Sprague Grayden,82133,1081,0,359,English,USA,R,2010,332,5.7
+Kirk Jones,91,52,David Kelly,24788807,James Nesbitt,21245,1965,0,213,English,UK,PG,1998,588,7.4
+Michael Moore,120,909,Dick Clark,21244913,Michael Moore,123090,1779,2,888,English,Germany,R,2002,504,8.0
+Yimou Zhang,109,611,Daoming Chen,377420,Li Gong,2789,900,1,20,Mandarin,China,PG-13,2014,10,7.3

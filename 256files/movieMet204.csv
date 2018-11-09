@@ -1,185 +1,307 @@
-actor_3_facebook_likes
-390
-501
-324
-604
-696
-471
-85
-1000
-18
-877
-503
-171
-4
-360
-265
-192
-654
-968
-783
-99
-316
-251
-599
-48
-103
-794
-74
-212
-611
-442
-70
-77
-520
-576
-18
-393
-289
-403
-146
-745
-350
-820
-289
-0
-865
-3
-280
-3
-183
-188
-16
-18
-42
-247
-79
-1000
-84
-426
-4
-388
-2
-233
-504
-411
-382
-14
-632
-141
-218
-633
-602
-32
-808
-621
-328
-488
-191
-637
-647
-842
-549
-532
-298
-279
-225
-54
-111
-651
-553
-123
-443
-303
-553
-812
-795
-424
-472
-109
-579
-183
-787
-272
-697
-40
-104
-776
-22
-723
-405
-357
-199
-19
-48
-860
-327
-507
-132
-73
-548
-499
-194
-327
-44
-119
-258
-280
-24
-893
-571
-482
-901
-229
-393
-1000
-736
-448
-368
-685
-638
-196
-577
-634
-491
-270
-730
-139
-186
-345
-60
-581
-130
-816
-615
-482
-619
-1000
-120
-617
-769
-73
-257
-466
-534
-782
-534
-678
-699
-190
-275
-220
-706
-448
-242
-718
-338
-53
-826
-766
-861
-111
-558
-804
-203
-39
+num_critic_for_reviews,duration,actor_1_facebook_likes,movie_title,num_voted_users,cast_total_facebook_likes,plot_keywords,num_user_for_reviews,country,actor_2_facebook_likes,aspect_ratio
+166,98,12000,Race to Witch Mountain ,43328,14007,alien|military|mountain|spacecraft|ufo,110,USA,536,2.35
+525,132,20000,V for Vendetta ,791783,22417,dystopia|freedom|government|revolution|terrorist,2042,USA,979,2.35
+165,114,154,Shanghai Knights ,81444,428,1880s|arrow|imperial seal|murder|revenge,192,USA,131,2.35
+2,45,416,Unforgotten             ,1824,1816,,9,UK,171,
+87,78,8000,Curious George ,12845,11124,hat|monkey|museum|shrine|yellow,118,USA,2000,1.85
+117,101,660,Herbie Fully Loaded ,36431,2177,automobile racing|car|mechanic|nascar|street racing,168,USA,651,1.85
+113,113,1000,Don't Say a Word ,40362,3341,mental institution|post traumatic stress|psychiatrist|vomiting|voyeur,248,USA,912,2.35
+349,98,10000,Hansel & Gretel: Witch Hunters ,159868,11946,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power,304,Germany,520,2.35
+152,124,838,Unfaithful ,63067,2583,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,533,USA,593,1.85
+288,109,15000,I Am Number Four ,195043,15608,based on young adult novel|good versus evil|guardian|human alien|ohio,329,USA,348,1.85
+358,128,13000,Syriana ,109188,14747,cia|hezbollah|lebanon|oil|prince,625,USA,903,2.35
+204,144,769,13 Hours ,47764,3580,based on true story|cia agent|libya|mercenary|u.s. ambassador,219,USA,726,2.35
+156,95,17000,The Book of Life ,45580,19513,afterlife|bullfight|bullfighting|love triangle|mexico,102,USA,995,2.35
+171,105,87000,Firewall ,50170,101383,architect|bank|cayman islands|meeting|murder,306,USA,11000,2.35
+76,121,16000,Absolute Power ,39529,19139,death|death of wife|murder|thief|violence,142,USA,1000,2.35
+97,125,10000,G.I. Jane ,60326,15569,feminism|hit in the crotch|kicked in the crotch|kicked in the testicles|navy,142,USA,2000,2.35
+157,129,495,The Game ,261069,1397,birthday|falling through a glass roof|game|hitchcockian|suicide,506,USA,294,2.35
+267,132,992,Silent Hill ,172792,1933,gothic|police|police officer|silent hill|sleepwalking,1740,Canada,495,2.35
+118,118,18000,The Replacements ,48322,24024,coach|football player|misfits|strike|sumo wrestler,261,USA,4000,1.85
+291,113,3000,American Reunion ,172112,8398,bikini|female female kiss|high school reunion|outdoor sex|upskirt,181,USA,1000,1.85
+68,140,18000,The Negotiator ,107227,20152,hostage|innocence|murder|negotiator|police,279,Germany,822,2.35
+228,89,490,Into the Storm ,54101,1367,danger|graduation|storm|teenage boy|tornado,210,USA,298,1.85
+36,104,437,Beverly Hills Cop III ,60293,1093,california|counterfeit|counterfeit money|money|theme park,114,USA,289,1.85
+105,106,16000,Gremlins 2: The New Batch ,68428,19610,gremlin|horror host|hulk hogan|monster|skyscraper,148,USA,823,1.85
+276,141,21000,The Judge ,136973,30183,courtroom|dysfunctional family|indiana|lawyer|trial,275,USA,3000,2.35
+93,124,294,The Peacemaker ,46451,1289,nuclear explosion|nuclear weapon|russia|train|train crash,156,USA,273,2.35
+191,98,14000,Resident Evil: Apocalypse ,151580,16791,cover up|monster|strong female character|strong female lead|zombie apocalypse,672,Germany,919,2.35
+143,108,14000,Bridget Jones: The Edge of Reason ,74315,15634,american actress playing british character|intern|prison|six word title|thailand,259,UK,1000,2.35
+124,114,18000,Out of Time ,45895,19739,cancer|florida|insurance|life insurance policy|small town,157,USA,886,2.35
+47,101,854,On Deadly Ground ,17997,1860,environmental|murder|oil|oil spill|tribe,140,USA,643,2.35
+66,93,12000,The Adventures of Sharkboy and Lavagirl 3-D ,20310,14899,boy|bully|dream|dream sequence|planet,177,USA,722,1.85
+118,119,29000,The Beach ,176169,29461,love|map|paradise|thailand|travel,548,USA,414,2.35
+93,119,627,Raising Helen ,30890,2052,fashion show|female protagonist|love|pastor|queens new york city,106,USA,508,1.85
+235,99,330,Ninja Assassin ,58349,701,critically bashed|kung fu|martial artist|martial arts|ninja,194,USA,119,2.35
+113,137,24000,For Love of the Game ,26034,25469,baseball|baseball movie|detroit tigers|perfect game|pitcher,226,USA,743,2.35
+14,105,325,A Touch of Frost             ,4438,344,cult tv|death|detective inspector|four word title|internal affairs,33,UK,7,1.33
+51,117,2000,Striptease ,34896,3016,bouncer|breasts|congressman|private dancer|stripper,118,USA,472,1.85
+98,87,15000,Marmaduke ,11257,20061,dog|great dane|rivalry|talking animal|talking cat,65,USA,2000,2.35
+315,129,13000,Hereafter ,80140,14344,death|france|near death experience|tsunami|twin brother,323,USA,563,2.35
+136,115,33000,Murder by Numbers ,43574,34606,disposing of a dead body|high school student|murder|sociopath|teenage boy,302,USA,455,1.85
+61,132,45000,Assassins ,62981,58528,assassin|floppy disk|modem|rival|russian,84,France,13000,1.85
+209,131,879,Hannibal Rising ,86374,1344,aunt|cannibalism|faked death|medical student|revenge,392,UK,184,2.35
+99,95,13000,The Story of Us ,18404,14706,four word title|husband wife relationship|male rear nudity|marriage|summer camp,150,USA,559,1.85
+298,125,430,The Host ,92461,1300,alien|alien creature|body snatching|desert|parasite,347,USA,329,2.35
+131,98,933,Basic ,49926,3357,2000s|army|military crime|necklace yanked off|panama,286,Germany,631,2.35
+146,110,16000,Blood Work ,34356,18635,boat|heart transplant|murder|serial killer|sister,260,USA,1000,2.35
+245,118,6000,The International ,80196,7654,bank|chase|district attorney|interpol|murder,190,USA,450,2.35
+104,101,12000,Escape from L.A. ,54021,15935,escape|island|los angeles california|machismo|president's daughter,227,USA,898,2.35
+4,60,629,Twisted             ,7945,2758,,22,USA,512,16.0
+162,90,14000,The Iron Giant ,128455,16358,boy|friend|government agent|maine|robot,514,USA,631,2.35
+259,119,13000,The Life Aquatic with Steve Zissou ,139535,15757,expedition|oceanographer|sea|shark|team,632,USA,1000,2.35
+79,139,11000,Free State of Jones ,3077,12786,american civil war|civil war|u.s. civil war,47,USA,552,1.85
+141,130,18000,The Life of David Gale ,88270,32637,activist|death|death row|murder|texas,420,USA,14000,2.35
+59,100,1000,Man of the House ,19829,6171,cheerleader|cheerleading movie|neo noir|neo western|texas ranger,94,USA,923,2.35
+236,114,14000,Run All Night ,76010,16992,death|drug dealer|limousine|limousine driver|one night,205,USA,988,2.35
+356,96,10000,Eastern Promises ,189249,17211,male pubic hair|pubic hair|russian|sex scene|turkish bath,398,USA,6000,1.85
+120,110,23000,Into the Blue ,63599,25049,bahamas|blood splatter|cocaine|hairy chest|shark,208,USA,1000,2.35
+111,158,51,The Messenger: The Story of Joan of Arc ,55889,144,cathedral|dauphin|france|trial|wartime rape,390,France,40,2.35
+208,102,20000,Your Highness ,85237,45202,knight|prince|quest|rescue|thong bikini,274,USA,11000,2.35
+174,84,6000,Dream House ,46239,8018,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train,137,USA,694,2.35
+59,115,972,Mad City ,16562,2606,hostage|museum|natural history museum|news reporter|reporter,73,USA,713,2.35
+22,99,1000,Baby's Day Out ,33186,2949,baby|baby boy|kidnapping|kidnapping a child|taxi,78,USA,619,1.85
+34,135,10000,The Scarlet Letter ,12037,15820,17th century|adultery|letter|pubic hair|swimming,90,USA,3000,2.35
+214,108,6000,Fair Game ,38513,10191,bush administration|cia|interview|iraq|new york times,127,USA,3000,2.35
+28,43,3000,Defiance             ,33535,5381,alien|alien invasion|planet invasion|post apocalypse|year 2046,149,USA,845,1.78
+186,127,984,Domino ,58015,5702,bounty hunter|fbi|female bounty hunter|female nudity|reality show,374,France,940,2.35
+50,107,2000,Jade ,9227,5461,blackmail|investigation|murder|panties pulled down|prostitution,70,USA,979,1.85
+180,95,18000,Gamer ,113483,29926,battle|convict|death|mind control|role playing,245,USA,8000,1.85
+231,124,1000,Beautiful Creatures ,67796,3580,dream|escape|magic|magic spell|small town,258,USA,852,2.35
+105,109,49000,Death to Smoochy ,34730,52885,children|children's tv show|money|revenge|scandal,341,UK,811,1.85
+226,102,14000,Zoolander 2 ,34964,24107,chosen one|fashion|fashion model|model|retired,150,USA,8000,2.35
+75,88,11000,The Big Bounce ,15880,11972,breasts|consensual sex|female nudity|judge|surfer,93,USA,387,2.35
+82,87,2000,What Planet Are You From? ,8070,3954,alien|baby|banker|pregnancy|question in title,91,USA,602,1.85
+296,104,12000,Drive Angry ,81800,16481,baby|cult|oklahoma|sex scene|waitress,211,USA,2000,1.85
+103,96,841,Street Fighter: The Legend of Chun-Li ,19824,1385,chun li|crime fighter|gangster|mobster|rescue,179,Canada,342,2.35
+98,85,26000,The One ,77684,32831,fight|multiverse|police|police officer|prison,294,USA,5000,2.35
+30,64,1000,Outlander             ,50391,1863,based on novel|clan|scotland|scottish highlands|year 1743,148,USA,531,16.0
+48,104,879,The Adventures of Ford Fairlane ,14429,2795,detective|groupie|murder|music industry|rock n roll,113,USA,560,2.35
+195,135,22000,Pirate Radio ,90932,24316,inspired by radio program|inspired by true events|pirate broadcasting|pirate radio|pirate radio station,209,UK,882,2.35
+223,190,599,Traffic ,170684,1418,cocaine|drug smuggling|interlinked stories|judge|mexico,867,USA,399,1.85
+149,127,11000,Indiana Jones and the Last Crusade ,515306,12884,castle|diary|holy grail|map|nazi,477,USA,844,2.35
+324,129,2000,Anna Karenina ,70886,2035,dance|infidelity|marriage|russia|russian,226,UK,35,2.35
+371,120,20000,Chappie ,172965,23051,artificial intelligence|consciousness|future|mind uploading|robot,627,USA,2000,2.35
+75,118,18000,The Bone Collector ,120202,29748,new york city|police|quadriplegic|serial killer|suicide,397,USA,11000,2.35
+233,112,17000,Panic Room ,206104,18141,brownstone|burglar|money|panic|panic room,850,USA,324,2.35
+32,89,598,The Tooth Fairy ,1263,2353,bare breasts|genital dismemberment|mulching someone|tooth fairy|woodchipper,32,USA,555,1.78
+150,114,2000,Three Kings ,137854,3743,gold|gulf war|iraq|kuwait|map,560,USA,490,2.35
+172,137,27000,Child 44 ,40568,27666,child murderer|murder|sex|soviet union|woman slaps a man,185,Czech Republic,254,2.35
+103,112,779,Rat Race ,93367,1823,casino|locker|money|museum|race,497,Canada,629,2.35
+140,120,18000,K-PAX ,148490,33615,extraterrestrial|hospital|patient|planet|science,537,USA,12000,2.35
+125,123,20000,Kate & Leopold ,64595,22209,bridge|brooklyn bridge|falling down an elevator shaft|time travel|time travel romance,316,USA,1000,1.85
+125,93,3000,Bedazzled ,81888,5390,contract|devil|dream|soul|wish,254,USA,575,2.35
+36,123,12000,The Cotton Club ,12771,18793,brothers hugging|jazz|jealousy|nudity|parole violation,84,USA,5000,1.85
+295,122,23000,3:10 to Yuma ,237872,33548,outlaw|rancher|small western town|stagecoach|train,560,USA,8000,2.35
+222,115,14000,Taken 3 ,133436,16967,betrayal|death|final showdown|murder|on the run,323,France,794,2.35
+158,123,3000,Out of Sight ,71708,3768,heist|neo noir|one last job|opposites attract|u.s. marshal,307,USA,745,1.85
+72,96,2000,The Cable Guy ,122347,3718,cable guy|foreplay|friend|kissing|television,345,USA,1000,2.35
+34,110,113,Earth ,5639,371,friend|hindu|india|muslim|sikh,55,India,102,
+72,105,678,Dick Tracy ,47819,2096,crime boss|detective|dick tracy|gangster|orphan,164,USA,631,1.85
+152,113,1000,The Thomas Crown Affair ,73068,4660,art|insurance investigator|martinique|painting|trust,419,USA,977,2.35
+89,132,919,Riding in Cars with Boys ,22447,4796,boy|college|heroin|working class|writer,210,USA,811,1.85
+145,93,13000,First Blood ,172489,15192,1980s|colonel|deputy|rambo|sheriff,376,USA,954,2.35
+144,115,29,Solaris ,54057,95,hallucination|ocean|psychologist|scientist|space station,236,Soviet Union,29,2.35
+93,75,4000,Happily N'Ever After ,8693,6863,apostrophe in title|cinderella|first of series|punctuation in title|three word title,71,USA,769,1.85
+46,108,8000,Mary Reilly ,11913,8349,19th century|butler|housemaid|laboratory|servant,97,USA,115,1.85
+84,105,8000,My Best Friend's Wedding ,98199,12344,best friend|chick flick|male female friendship|promise|wedding,169,USA,1000,2.35
+142,102,8000,America's Sweethearts ,47573,9176,actor|love|movie star|press|publicist,343,USA,973,2.35
+185,118,14000,Insomnia ,218771,15658,detective|insomnia|murder|partner|police,651,USA,509,2.35
+143,111,1000,Star Trek: First Contact ,97838,6315,21st century|borg|borg sphere|captain|sphere,286,USA,1000,2.35
+178,81,13000,Jonah Hex ,45729,14619,confederate|death|independence day|military|terrorist,176,USA,541,2.35
+65,116,18000,Courage Under Fire ,40126,33233,bravery|honor|medal of honor|military life|unreliable flashback,107,USA,13000,1.85
+73,86,509,Liar Liar ,220392,2070,birthday|birthday wish|father disappoints child|lie|workaholic,243,USA,418,1.85
+72,127,788,The Infiltrator ,2581,2104,,29,UK,423,2.35
+10,140,1000,Inchon ,491,2704,1950s|douglas macarthur|general|inchon|invasion,16,South Korea,623,2.35
+35,91,924,The Flintstones ,60884,3244,1000000 b.c.|box office hit|lawn mowing|product placement|stone age,85,USA,664,1.33
+358,98,14000,Taken 2 ,238671,16410,albanian|revenge|revenge motive|teenage daughter|vacation,461,France,935,2.35
+151,84,807,Scary Movie 3 ,111526,3629,crop circle|farm|orchestral music score|reference to michael jackson|videotape,347,USA,780,1.85
+140,109,545,Miss Congeniality ,137377,1574,beauty pageant|fbi|female agent|pageant|undercover,370,USA,337,1.85
+201,93,14000,Journey to the Center of the Earth ,85323,17925,cave|lost world|missing brother|mountain|venus flytrap,212,USA,3000,1.85
+77,113,11000,The Princess Diaries 2: Royal Engagement ,53687,15362,coronation|horse|princess|queen|side saddle,152,USA,1000,1.85
+43,141,18000,The Pelican Brief ,59569,30063,college professor|fbi|president|professor|supreme court,89,USA,8000,2.35
+39,119,821,The Client ,45798,4043,boy|brother|lawyer|mafia|senator,94,USA,577,2.35
+207,97,11000,The Bucket List ,184795,14868,billionaire|friend|hospital|list|mechanic,310,USA,2000,1.85
+47,117,11000,Patriot Games ,81442,12757,analyst|cia|ira|terrorist|terrorist attack,137,USA,530,2.35
+132,101,3000,Monster-in-Law ,43358,6292,breakdown|fight|mother in law|scheme|wedding,228,Germany,949,2.35
+454,153,20000,Prisoners ,383591,37321,child abduction|detective|investigation|police|sex offender,620,USA,15000,1.85
+109,122,18000,Training Day ,305929,22370,lapd|narc|narcotics|title spoken by character|training,633,USA,881,2.35
+213,102,25000,Galaxy Quest ,123558,26998,alien|alien race|convention|fan|general,609,USA,724,2.35
+127,83,1000,Scary Movie 2 ,119590,1645,blow job|demon|exorcism|priest|professor,548,USA,422,1.85
+398,103,970,The Muppets ,75176,1336,bel air california|book|friends who live together|the muppets|tribute band,252,USA,91,1.85
+184,110,886,Blade ,191437,3174,1990s|blade|blood|vampire|vampire hunter,582,USA,650,2.35
+127,136,17000,Coach Carter ,92702,20299,basketball|basketball coach|coach|contract|high school,209,USA,807,2.35
+167,91,521,Changing Lanes ,57281,758,car accident|feud|lawyer|revenge|road rage,350,USA,108,2.35
+119,89,2000,Anaconda ,73539,3717,amazon|anaconda|boat|jungle|snake,271,USA,902,2.35
+155,107,811,Coyote Ugly ,90539,3106,girl in panties|lift skirt|sexual attraction|short shorts|songwriter,379,USA,625,2.35
+218,129,14000,Love Actually ,318634,28886,aging rocker|christmas|love at first sight|minister|prime minister,1004,UK,14000,2.35
+117,95,18000,A Bug's Life ,211226,24205,ant|circus|grasshopper|misunderstanding|overhearing,317,USA,1000,2.35
+208,122,40000,From Hell ,124765,41636,freemason|jack the ripper|opium|prostitute|victorian era,541,USA,1000,2.35
+38,110,13000,The Specialist ,50148,13331,bomb|cia|explosive|explosives expert|miami florida,116,Peru,279,1.85
+48,135,982,Tin Cup ,37911,3648,driving range|golf|golfer|tournament|winnebago,73,USA,843,2.35
+8,111,6000,"Yours, Mine and Ours ",5888,7493,nurse|parent|sibling|widow|widower,61,USA,584,1.85
+94,95,14000,Kicking & Screaming ,30255,27351,book|child|slapstick comedy|soccer|suburb,118,USA,8000,2.35
+276,109,11000,The Hitchhiker's Guide to the Galaxy ,155745,14073,alien|friend|galaxy|hyperspace|spaceship,1053,USA,2000,2.35
+59,93,1000,Fat Albert ,9380,4604,animated sequence|junkyard|love|party|television,91,USA,641,2.35
+216,94,14000,Resident Evil: Extinction ,149549,16225,clone|convoy|crow|desert|satellite,348,France,706,2.35
+173,117,35000,Blended ,87165,49743,blind date|children|date|daughter|son,184,USA,11000,1.85
+99,112,1000,Last Holiday ,21215,3757,chef|congressman|cook|hotel|senator,116,USA,976,2.35
+42,111,11000,The River Wild ,32544,12161,criminal|rafting|river|robber|white water rafting,69,USA,894,2.35
+25,96,1000,The Indian in the Cupboard ,20688,2965,best friend|birthday|boy|friend|magic,47,USA,845,1.85
+339,141,749,Savages ,104301,1948,arms tied overhead|damsel in distress|dea|marijuana|southern california,269,USA,463,2.35
+127,94,550,Cellular ,79141,1102,cell phone|distress signal|family in danger|police|stealing a car,355,USA,216,2.35
+122,87,427,Johnny English ,114692,1461,british|crown jewels|explosion|funeral|spy,285,UK,304,1.85
+105,88,12000,The Ant Bully ,30055,33822,ant|miniaturization|punishment|shrinking|sudden change in size,70,USA,11000,1.85
+144,177,913,Dune ,97087,2449,desert planet|dune|giant worm|space travel|spice,569,USA,362,2.35
+156,133,5000,Across the Universe ,91860,5405,anti war|liverpool|love|protest|song,524,USA,117,2.35
+323,119,29000,Revolutionary Road ,152591,53895,based on novel|children|connecticut|suburb|work,414,USA,14000,2.35
+199,102,13000,16 Blocks ,112769,15053,alcoholic|courthouse|detective|jail|witness,305,Germany,929,2.35
+164,101,14000,Babylon A.D. ,81523,15990,box office flop|convent|mercenary|new york|pregnant,214,France,844,2.35
+39,91,2000,The Glimmer Man ,15455,3855,detective|heavy rain|murder|partner|serial killer,80,USA,461,1.85
+43,117,905,Multiplicity ,24757,2348,clone|cloning|construction|same actor playing two characters simultaneously on screen|year 1996,81,USA,484,2.35
+82,86,1000,Aliens in the Attic ,16580,3423,alien|attic|boyfriend|mind control|nintendo ds,55,USA,701,1.85
+150,124,723,The Pledge ,42621,793,nevada|pledge|police|porcupine|search,531,USA,44,2.35
+168,134,11000,The Producers ,35140,24351,accountant|money|opening night|scheme|swedish,409,USA,8000,2.35
+432,95,409,Dredd ,203461,578,brutality|dark humor|female antagonist|female warrior|post apocalypse,588,UK,107,2.35
+60,100,1000,The Phantom ,27648,3855,ghost|new york city|phantom|skull|superhero,148,Australia,642,2.35
+85,220,13000,All the Pretty Horses ,11388,15006,1940s|cowboy|mexico|railway station|texas,183,USA,861,2.35
+83,212,12000,Nixon ,23996,21130,courtship|election|paranoia|president|quaker,161,USA,5000,2.35
+343,128,854,The Ghost Writer ,132423,2507,british prime minister|death|island|memoir|writer,349,France,766,2.35
+106,106,3000,Deep Rising ,26551,6558,creature feature|hijacker|ocean|ship|shot in the leg,273,USA,1000,2.35
+158,160,23000,Miracle at St. Anna ,15697,26982,boy|german soldier|partisan|trapped|village,182,USA,1000,2.35
+189,114,879,Curse of the Golden Flower ,36455,949,china|chrysanthemum|emperor|empress|prince,229,China,52,2.35
+125,99,12000,Bangkok Dangerous ,48245,12166,deaf|hitman|nightclub|pickpocket|rules of profession,154,USA,68,1.85
+87,74,11000,Big Trouble ,17307,13917,airport|fbi agent|person in a car trunk|suitcase|suitcase bomb,186,USA,1000,1.85
+115,139,267,Love in the Time of Cholera ,19114,538,19th century|colombia|love|marriage|widow,115,USA,202,2.35
+23,52,164,The Returned             ,15762,654,france|living dead|serial killer|small town|supernatural,47,France,116,16.0
+24,103,849,Shadow Conspiracy ,3803,2457,american president|assassin|conspiracy|president|white house,41,USA,623,2.35
+152,101,219,Johnny English Reborn ,89568,661,assassin|chinese|conspiracy|gadget|premier,142,USA,141,2.35
+12,91,719,Foodfight! ,4377,3090,femme fatale|food|pun|supermarket|troubled production,66,USA,611,
+656,130,1000,Argo ,452465,3133,1970s|cia|f word|u.s. embassy|year 1979,695,USA,660,2.35
+119,130,11000,The Fugitive ,213668,13357,hospital|on the run|one armed man|surgeon|u.s. marshal,270,USA,1000,1.85
+161,110,18000,The Bounty Hunter ,96565,21554,bounty hunter|death|murder|police officer|reporter,135,USA,1000,2.35
+73,147,22000,Sleepers ,154487,37076,boy|guard|kicked in the crotch|prank|sexual abuse,259,USA,11000,2.35
+96,96,13000,Rambo: First Blood Part II ,117606,15662,1980s|mission|prison|rambo|vietnam,217,USA,738,2.35
+28,118,23000,The Juror ,13995,26907,breasts|mafia|sex scene|temple|woods,62,USA,2000,2.35
+105,88,1000,Pinocchio ,90360,1178,boy|conscience|fairy|jiminy cricket|pinocchio,147,USA,48,1.37
+102,325,12000,Heaven's Gate ,9830,14255,1890s|hired gun|immigrant|johnson county war|sheriff,189,USA,849,2.35
+206,102,956,Underworld: Evolution ,156225,2998,death|feud|forbidden love|vampire|werewolf,502,USA,845,2.35
+159,110,11000,Victor Frankenstein ,28618,12876,assistant|experiment|frankenstein|medical student|scientist,91,USA,1000,2.35
+137,136,670,Finding Forrester ,73006,1801,basketball|mentor|new york|school|writing,297,USA,370,2.35
+116,103,12000,28 Days ,34597,23864,12 step program|box office hit|car accident|vomiting|wedding,194,USA,10000,1.37
+177,103,11000,Unleashed ,85198,22383,collar|dog|fight|fighting|piano,303,France,5000,2.35
+99,90,44,The Sweetest Thing ,46158,132,female removes her clothes|roommate|voyeur|voyeurism|wedding,403,USA,28,1.85
+56,154,10000,The Firm ,88844,14244,bar|fbi|law|law firm|lawyer,142,USA,1000,1.85
+117,99,405,Charlie St. Cloud ,47364,1066,brother brother relationship|death of brother|ghost|seeing dead people|talking with the dead,75,USA,268,2.35
+252,93,26000,The Mechanic ,117999,27834,apprentice|disobeying orders|gas station|hitman|nightclub,181,USA,956,2.35
+375,109,17000,21 Jump Street ,408302,19968,narcotics|parody|police|remake|undercover cop,345,USA,971,2.35
+150,124,8000,Notting Hill ,203269,9255,actress|bookstore|friend|kiss|love,602,UK,437,2.35
+187,84,579,Chicken Run ,140499,1817,chicken|escape|farm|freedom|rooster,358,UK,530,1.85
+108,90,22000,Along Came Polly ,106909,24534,bride|friend|honeymoon|insurance|insurance company,268,USA,923,1.85
+21,117,723,Boomerang ,20183,3841,advertising|battle of the sexes|dating|one word title|womanizer,41,USA,558,1.85
+270,123,975,The Heat ,133177,4825,drug lord|fbi|fbi agent|hospital|shot in the crotch,380,USA,815,2.35
+72,251,940,Cleopatra ,21554,2957,cleopatra|egypt|epic|queen|roman empire,192,UK,726,2.2
+154,105,4000,Here Comes the Boom ,74169,6727,claim in title|high school|mixed martial arts|ultimate fighting championship|underdog,112,USA,828,1.85
+114,115,11000,High Crimes ,30077,15571,defense lawyer|lawyer|marine|murder|villager,175,USA,3000,2.35
+27,122,12000,The Mirror Has Two Faces ,11453,13716,columbia university|lecture|marriage|professor|sex,71,USA,592,1.85
+166,119,650,The Mothman Prophecies ,63677,1651,car accident|death of wife|mothman|point pleasant west virginia|urban legend,460,USA,537,2.35
+288,81,468,Brüno ,119622,2134,austrian|fame|fashion|gay lead character|mockumentary,396,USA,442,1.85
+117,133,683,Licence to Kill ,74009,2371,drug cartel|drug lord|james bond 007|personal vendetta|vengeance,317,UK,349,2.35
+291,100,10000,Red Riding Hood ,91151,15369,death|forest|love|werewolf|werewolf bite,283,USA,2000,2.35
+151,120,22000,15 Minutes ,42547,33585,criminal|detective|fire|homicide|media,265,USA,9000,2.35
+36,104,5000,Super Mario Bros. ,38203,7723,based on video game|dinosaur|king|mario|plumber,290,UK,922,1.85
+168,122,12000,Lord of War ,248123,12076,1980s|arms dealer|immorality|ukrainian|warlord,437,USA,43,2.35
+283,80,5000,Hero ,149414,6229,china|flying|king|palace|sword,841,China,643,2.35
+127,91,922,One for the Money ,34203,3301,bail bond|bounty hunter|jeans|shot in the butt|title directed by female,169,USA,786,2.35
+293,112,11000,The Interview ,247020,12239,assassination attempt|communist dictatorship|dictator|exploding helicopter|finger bitten off,835,USA,392,2.35
+95,100,624,The Warrior's Way ,22309,2056,bullet time|explosion|knife throwing|throwing a knife|violence,102,New Zealand,489,2.35
+4,30,870,McHale's Navy             ,1558,1610,american soldier|naval uniform|navy|patrol boat|uniform,18,USA,284,4.0
+213,105,1000,Micmacs ,24657,1342,bullet|contortionist|gag humor|human cannonball|revenge,71,France,172,2.35
+119,110,1000,8 Mile ,187181,1954,competition|contest|friend|self expression|white rapper,564,USA,418,2.35
+9,101,326,Animal Kingdom: Let's go Ape ,590,488,ape|computer animation|evolution|first person title|reference to louis de funes,5,France,152,
+167,144,13000,A Knight's Tale ,137003,18761,chaucer|jousting|knight|medieval times|tournament,658,USA,3000,2.35
+98,108,687,The Medallion ,29861,1134,hong kong|interpol|medallion|ship|tough cop,132,Hong Kong,312,2.35
+234,107,13000,The Sixth Sense ,704766,17540,able to see the dead|ghost|plot twist|psychic|surprise ending,2073,USA,3000,1.85
+258,102,107,Man on a Ledge ,125198,362,detective|diamond|hotel|police|rooftop,153,USA,81,2.35
+108,100,734,The Big Year ,34809,2085,alaska|birding|competition|migration|storm,125,USA,574,2.35
+81,126,668,The Karate Kid ,126907,2004,apartment|bully|fight|karate|master,235,USA,641,1.85
+538,138,34000,American Hustle ,358416,83012,based on true story|con artist|drunk wife|fbi investigation|scam,751,USA,23000,2.35
+224,108,16000,The Proposal ,227824,18656,alaska|deportation|father son relationship|male objectification|sitka alaska,273,USA,896,2.35
+129,105,984,Double Jeopardy ,56646,2129,blood|murder|sex scene|wrongful arrest|wrongful conviction,336,USA,489,2.35
+125,108,1000,Back to the Future Part II ,340085,3660,alternate timeline|same actor playing two characters simultaneously on screen|second part|year 2015|younger version of character,327,USA,869,1.85
+433,89,19000,Lucy ,327367,32325,brain capacity|drugs|fictional drug|one woman army|tough girl,918,France,11000,2.35
+362,129,1000,Fifty Shades of Grey ,220020,4585,female frontal nudity|female nudity|perversion|sex scene|spanking,1360,USA,935,2.35
+93,84,13000,Spy Kids 3-D: Game Over ,40227,22935,mission|spy|surfing|trapped|virtual reality,188,USA,4000,1.85
+71,149,18000,A Time to Kill ,99558,31349,african american|court|law|mississippi|trial,236,USA,11000,2.35
+104,94,3000,Cheaper by the Dozen ,75152,7014,9 year old|house|illinois|new job|vomiting,288,USA,2000,1.85
+319,121,480,Lone Survivor ,203963,1261,courage|navy seal|outnumbered|shot multiple times|survival,420,USA,449,2.35
+41,128,15000,A League of Their Own ,71754,16751,baseball|friend|oregon|rivalry|softball,166,USA,923,2.35
+300,134,1000,The Conjuring 2 ,64989,2676,based on supposedly true story|house|paranormal investigating|psychic|second part,279,USA,575,2.35
+556,120,10000,The Social Network ,479453,10555,competitiveness|creator|entrepreneur|facebook|intellectual property,696,USA,349,2.35
+161,129,97,He's Just Not That Into You ,132048,318,advertising|bar|dating|lingerie slip|six word title,203,USA,50,2.35
+151,89,2000,Scary Movie 4 ,93748,5855,female nudity|male nudity|parody|reference to myspace|sequel,410,USA,869,1.85
+212,116,287,Scream 3 ,98535,600,death|ghostface|murder|scream|survivor,734,USA,157,2.35
+111,118,1000,Back to the Future Part III ,283480,3986,band|dog|letter|time machine|tombstone,263,USA,869,1.37
+173,107,8000,Get Hard ,85629,12556,camera focus on female butt|gay bar|millionaire|singing in a car|two word title,144,USA,2000,1.85
+181,155,18000,Bram Stoker's Dracula ,143835,42220,dracula|horror movie remake|maze|monster sex|vampire,654,USA,12000,1.85
+252,123,11000,Julie & Julia ,79264,13321,american|blog|book|cook|cooking,277,USA,935,1.85
+216,128,11000,42 ,66511,16911,baseball|baseball player|brooklyn dodgers|major league baseball|racism,200,USA,3000,2.35
+203,139,22000,The Talented Mr. Ripley ,137891,36810,1950s|italy|mistaken identity|nudity|sociopath,696,USA,13000,1.85
+218,109,13000,Dumb and Dumber To ,97045,16179,adoption|highway travel|road trip|sequel|stupidity,285,USA,899,1.85
+118,120,23000,Eight Below ,48806,24300,antarctica|dog|siberian husky|sled dog|survival,263,USA,984,2.35
+241,121,22000,The Intern ,130661,36010,reference to ben affleck|reference to brad pitt|reference to george clooney|reference to jack nicholson|website,304,USA,11000,1.85
+119,102,2000,Ride Along 2 ,28621,5178,computer hacker|crime boss|detective|drugs|wedding,58,USA,874,2.35
+89,117,855,The Last of the Mohicans ,113068,2144,18th century|based on novel|colonel|french and indian war|revenge,382,USA,363,2.35
+209,178,904,Ray ,110394,5074,1950s|1960s|racism|rhythm and blues|singer,433,USA,876,1.85
+374,147,3000,Sin City ,656640,3924,anthology|corruption|hearing characters thoughts|neo noir|night,1732,USA,472,1.85
+235,90,2000,Vantage Point ,127528,6775,explosion|multiple perspectives|president|secret service|shooting,422,USA,897,2.35
+215,105,24000,"I Love You, Man ",166194,28928,bromance|friend|gay brother|homosexual subtext|wedding,215,USA,4000,1.85
+109,114,700,Shallow Hal ,109445,2842,dying|friend|inner beauty|love|self help guru,426,USA,655,1.85
+125,206,433,JFK ,113472,698,death|gay slur|homosexuality|investigation|president,442,France,256,2.35
+65,99,17000,Big Momma's House 2 ,31968,19334,cheerleading|fbi|fbi agent|nanny|undercover,82,USA,826,1.85
+125,123,24000,The Mexican ,87351,43917,curse|hostage|mexico|pistol|vomiting,344,USA,11000,2.35
+322,137,769,Unbroken ,103589,2938,emaciation|male nudity|plane crash|prisoner of war|torture,351,USA,698,2.35
+191,102,2000,17 Again ,146899,7009,adult as child|father son relationship|high school student|janitor|school,185,USA,2000,2.35
+191,109,982,The Other Woman ,104481,2357,beach house|blonde bombshell|cheating husband|revenge|wife meets mistress,189,USA,971,2.35
+221,82,164000,The Final Destination ,75345,303717,attempted suicide|car crash|collapsing scaffold|overflowing bathtub|tooth knocked out,290,USA,137000,2.35
+459,142,15000,Bridge of Spies ,178118,16944,cia|cold war|lawyer|negotiation|spy,355,USA,535,2.35
+131,106,578,Behind Enemy Lines ,86902,2544,battle|massacre|navigator|navy|rescue,411,USA,563,2.35
+222,114,836,Get Him to the Greek ,147317,2091,concert|drugs|recession|record company|rock star,197,USA,719,1.85
+118,106,1000,Shall We Dance ,35508,2325,dance|dance competition|dance lesson|love|teacher,211,USA,593,1.85
+100,108,4000,Small Soldiers ,77415,8610,action figure|battle|computer|military|toy,139,USA,835,2.35
+70,98,2000,Spawn ,52805,7039,based on comic|based on comic book|dark hero|image comics|superhero,209,USA,2000,1.85
+138,131,15000,The Count of Monte Cristo ,104991,17152,count|escape|island|revenge|sailor,544,UK,1000,1.85
+274,118,11000,The Lincoln Lawyer ,173848,13943,defense attorney|defense lawyer|lawyer|plot twist|prostitute,203,USA,980,2.35
+349,113,14000,Unknown ,210542,17152,agriculture|airport|amnesia|nurse|scientist,332,UK,903,2.35
+341,130,23000,The Prestige ,844052,63986,illusion|magician|obsession|rivalry|secret,1100,USA,20000,2.35
+196,116,18000,Horrible Bosses 2 ,114294,30571,kidnapping|reference to franz beckenbauer|scene during end credits|second part|singing in a car,187,USA,11000,2.35
+83,89,3000,Escape from Planet Earth ,20615,3361,alien|cult film|mission control|product placement|rescue,44,USA,190,2.35
+283,139,708,Apocalypto ,236000,848,jaguar|mayan|solar eclipse|tribe|village,1043,USA,78,1.85
+105,130,387,The Living Daylights ,69457,1233,british agent|defection|escape|kgb|soviet general,271,UK,244,2.35
+351,107,2000,Predators ,171418,4243,kicked in the face|martial arts|punched in the face|strong female character|woman punching a man,619,USA,1000,2.35
+16,116,954,Legal Eagles ,7900,2179,judicial|judiciary|lawyer|murder|painting,34,USA,568,2.35
+195,96,40000,Secret Window ,147504,41293,adultery|extramarital affair|infidelity|unfaithfulness|writer,531,USA,534,2.35
+175,99,18000,The Lake House ,114321,18693,house|lake|letter|love across time|parallel time,548,USA,426,2.35
+193,104,545,The Skeleton Key ,87447,1274,attic|bound and gagged|hoodoo|secret|southern gothic,371,USA,351,2.35
+169,105,3000,The Odd Life of Timothy Green ,37398,9069,dodgeball|portrait|soccer|soccer game|young love,110,USA,2000,1.85
+128,101,1000,Made of Honor ,54421,4298,friend|love|maid|maid of honor|marriage,101,USA,689,2.35
+249,134,880,Jersey Boys ,25465,2281,band|music group|musical quartet|singer|song,190,USA,413,2.35
+91,135,13000,The Rainmaker ,46221,16762,courtroom|domestic violence|insurance company|lawyer|underdog,141,USA,936,2.35
+207,98,21000,Gothika ,89557,22318,memory|murder|patient|psychiatrist|the devil,376,USA,534,1.85
+77,155,12000,Amistad ,56509,37570,courtroom|mutiny|ship|slave ship|slave trade,227,USA,11000,1.85
+25,106,472,Medicine Man ,17443,519,cancer|environment|gas chromatograph|jungle|nature,56,USA,47,2.35
+211,102,1000,Aliens vs. Predator: Requiem ,92789,4324,alien|escape|hunting|hybrid|predator,998,USA,741,2.35
+19,95,3000,Ri¢hie Ri¢h ,49612,4634,attempted murder|based on comic book|escape from prison|lost at sea|wealth,39,USA,450,1.85
+101,103,24000,Autumn in New York ,20201,26938,may december romance|new york|new york city|rockefeller center|title directed by female,180,USA,1000,1.85
+175,95,799,Music and Lyrics ,81334,2787,love|lyricist|singer|singing|song,291,USA,690,1.85
+342,109,176,Paul ,192462,390,alien|geek|nerd|road trip|ufo,334,USA,61,2.35
+147,95,405,The Guilt Trip ,30394,1070,cross country|love|mother son relationship|on the road|trip,103,USA,358,2.35
+420,111,2000,Scream 4 ,104119,4486,author|book|deputy|murder|sheriff,518,USA,741,2.35
+138,123,12000,8MM ,104564,12970,investigation|obsession|private eye|private investigator|snuff film,587,Germany,638,2.35
+82,140,720,The Doors ,68159,3044,death|paris france|rock band|singer|the doors,209,USA,576,2.35
+201,94,683,Sex Tape ,84382,1488,sex in a car|sex video|sexual desire|sexuality|undressing,158,USA,392,1.85
+82,94,374,Hanging Up ,10132,1238,actress|clown costume|magazine|party planner|soap opera actress,130,Germany,258,1.85
+277,92,703,Final Destination 5 ,83788,3074,blood splatter|death|eyeball run over by car|latex gloves|suspension bridge,227,USA,682,2.35
+90,102,711,Mickey Blue Eyes ,29968,2913,auctioneer|fbi|mafia|mobster|painting,117,UK,683,1.85
+157,123,18000,Pay It Forward ,95860,23920,alcoholism|boy|good deed|protective male|teacher,660,USA,3000,1.85
+124,104,787,Fever Pitch ,36223,1827,baltimore orioles|boston red sox|promotion|ups|world series,208,USA,299,2.35
