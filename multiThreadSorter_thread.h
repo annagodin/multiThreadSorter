@@ -17,7 +17,7 @@ typedef struct hNode{
 
 
 //stuff for forking
-void dirwalk(char *dir,char *out, char *colToSort, FILE *fp);
+void dirwalk(char *dir,char *out, char *colToSort);
 int endsWith (char *str, char *end);
 //int numProc(char *dir);
 

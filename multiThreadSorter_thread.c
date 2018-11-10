@@ -13,12 +13,11 @@
 #include <pthread.h>
 #include "multiThreadSorter_thread.h"
 
-
 /**** compile with gcc -pthread -o sorter sorter.c *****/
 
 //pthread_mutex_t lockDIR;
 
-//volatile int runningThreadCount = 0; // Number of threads running volatile int totalThreadCount = 0;  
+int totalThreads = 0; // Number of threads running volatile int totalThreadCount = 0;  
 CSVrecord * masterList = NULL;
 int masterHasOut = 0;
 int masterHasDir = 0;
@@ -589,10 +588,11 @@ void writeToFile(){
 
 	writeCSV(masterList,sorted);
 }
+
 //------FORKING STUFF AHEAD--------------------------------------
 
 //recursively travserses a directory and prints subdirectories
-void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
+void dirwalk(char *dir,char *out, char *colToSort){
     //printf("hai\n");
     DIR *dp;
     struct dirent *entry;
@@ -611,7 +611,7 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
     while((entry = readdir(dp)) != NULL){
     	//printf("ha3\n");
         lstat(entry->d_name,&statbuf);
-        if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY
+        if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY, SPAWN A THREAD
         	
         	//pthread_t threadDir;
             
@@ -623,20 +623,20 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
             if(pid1==0){ //child
                 //recurse here
                 /*funtion is called recursively at a new indent level */
-                dirwalk(entry->d_name,out,colToSort,fp);
+                dirwalk(entry->d_name,out,colToSort);
                 exit(0);
             } else { //parent
                 
                 
-                fprintf(fp, "%d\n", pid1);
-                fflush(fp); 
+                // fprintf(fp, "%d\n", pid1);
+                // fflush(fp); 
                	
             }
 
           
             
         }
-        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE
+        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
             
             //pthread_t threadFile;
 
@@ -671,10 +671,10 @@ void dirwalk(char *dir,char *out, char *colToSort, FILE *fp){
 
             } else { //parent
 				
-                fprintf(fp, "%d\n", pid2);
-                fflush(fp); 
+                // fprintf(fp, "%d\n", pid2);
+                // fflush(fp); 
                	
-                waitpid(pid2, &status2, WUNTRACED);
+                // waitpid(pid2, &status2, WUNTRACED);
                
              }
             
@@ -697,8 +697,6 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	int hasOut=0;
 	int hasCol=0;
 	char* searchDir;
-	//char* outputDir;
-	//char* colToSort;
 
 	if(argc<3){
 		fprintf(stderr,"Error, not enough arguments!\n");
@@ -864,9 +862,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 	// printf("DONE SORT TEST\n");
 	// return 0;
-	// char* cwd = (char*)malloc(100*sizeof(char));
-	// cwd = getcwd(cwd, sizeof(cwd));
-	// printf("this is the current dir: [%s]\n",cwd);
+	
 	
 	char cwd[400];
     if (getcwd(cwd, sizeof(cwd)) == NULL)
@@ -875,77 +871,68 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
   	strcpy(currDir,cwd);
   	strcat(currDir,"/");
 	
-	char * fname = (char*)malloc(strlen(currDir)+14);
-	strcpy(fname, currDir);
-	strcat(fname,"/");
-	strcat(fname,"1234proc.txt");
-	FILE *pidRec;
-	pidRec=fopen(fname, "w");
-	
 
 	printf("currdir %s\n",currDir);
 	writeToFile();
 
-	/*test---------------------*/
-	return 0;
-	/*test---------------------*/
+	
 	char *outputFull;
 	if(hasOut){
 		if(outputDir[0]=='/'){
-		//printf("absolute file name\n");
+		printf("absolute file name\n");
 			outputFull = (char*)malloc(strlen(outputDir)+2);
 			strcpy(outputFull,outputDir);
 		}
 		else {
-			//printf("relative file name\n");
+		printf("relative file name\n");
 			outputFull = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
+			
 			strcpy(outputFull,currDir);
-			strcat(outputFull,"/");
+			//strcat(outputFull,"/");
 			strcat(outputFull, outputDir);
-			//printf("\t\t\t\toutput full %s\n\n",outputFull);
+			
+			printf("\t\t\t\toutput full %s\n\n",outputFull);
+			outputDir = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
+			strcpy(outputDir,outputFull);
 		}
+	} else { //no output directory specified, use the current directory
+		outputDir = (char*)malloc((strlen(currDir)+2)*sizeof(char));
+		strcpy(outputDir,currDir);
 	}	
 
-	if(hasDir == 1 && hasOut == 0) { //-d 
-		dirwalk(searchDir, currDir, colToSort, pidRec);
-	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
-		dirwalk(searchDir, outputFull, colToSort, pidRec);
-	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
-		dirwalk(cwd, outputFull, colToSort, pidRec);
-	} else { //neither 
-		dirwalk(cwd, currDir, colToSort, pidRec);
-	}
-	fclose(pidRec);
 
-
-	int init = getpid();
-	fprintf(stdout, "\nInitial PID: %d\n", init);
-
-	fprintf(stdout,"PIDS of all child processes: ");
+	printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
 	
-	wait();
 
-	FILE *pidPrint;
-	pidPrint = fopen(fname, "r");
-	char *str =(char*)malloc(100*sizeof(char));
 
-	int counting = 0;
+	int init = pthread_self();
+	fprintf(stdout, "\nInitial TID: %lu\n", init);
 
-	while(fgets(str,900,pidPrint)!=NULL){
-		counting++;
-		str=stripNewLineChar(str,strlen(str));
-		printf("%s, ",str);
+	/*test---------------------*/
+	return 0;
+	/*test---------------------*/
+
+	if(hasDir == 1 && hasOut == 0) { //-d 
+		dirwalk(searchDir, outputDir, colToSort);
+	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
+		dirwalk(searchDir, outputDir, colToSort);
+	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
+		dirwalk(cwd, outputDir, colToSort);
+	} else { //neither 
+		dirwalk(cwd, outputDir, colToSort);
 	}
+	// fclose(pidRec);
 
-	//fprintf(stdout,"\nTotal number of processes: %d\n",(numP+1));
-	fprintf(stdout,"\nTotal number of processes: %d\n",(counting+1));
 
-	fclose(pidPrint);
-	remove(fname);
+	
+	
+
+	fprintf(stdout,"TIDS of all spawned threads: ");
+	
+	
+	fprintf(stdout,"\nTotal number of threads: \n");
 
 	free(currDir);
-	free(fname);
-	free(str);
 	
 	if(hasDir)
 		free(searchDir);
