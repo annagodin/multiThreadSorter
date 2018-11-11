@@ -17,9 +17,10 @@ typedef struct hNode{
 
 
 //stuff for forking
-void dirwalk(char *dir,char *out, char *colToSort);
+void *dirwalk(void * argPtr);
 int endsWith (char *str, char *end);
-//int numProc(char *dir);
+void *fileHandler(void* argPtr);
+
 
 
 //in scannerCSVsorter.c
@@ -31,7 +32,7 @@ void printAllRecords (CSVrecord * frontRec);
 void printRecNode(CSVrecord *rec);
 void addhNodeToEnd(hNode** head, hNode *node);
 void addRecToEnd(CSVrecord** head, CSVrecord *node);
-void sort(FILE *file, char *colToSort, char* fileName, char *outputDir);
+void sort(FILE *file, char* fileName);
 
 
 //in mergesort.c

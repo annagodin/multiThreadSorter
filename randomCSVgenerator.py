@@ -65,7 +65,7 @@ for i in range(7):
 		# print("output cols:")
 		# print(randCols)
 
-		numOutputRows = genRandNumRows(500)
+		numOutputRows = genRandNumRows(1000)
 		# print("num output rows")
 		# print(numOutputRows)
 

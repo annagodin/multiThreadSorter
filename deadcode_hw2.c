@@ -125,3 +125,83 @@ int numP;
 		numP = numProc(currDir);
 	} else
 		numP=numProc(searchDir);
+
+
+
+---------------------------------------------
+FOR writing to file and shiiiit
+
+
+
+	//length of the name of the sorted file
+	int lengthSorted = strlen(outputDir)+strlen(fileName)+strlen(colToSort)+11;
+	char sortedFileName[lengthSorted];
+	
+	//trim the .csv off the file
+	char* trimmedFileName=malloc((strlen(fileName)+1)*sizeof(char));
+	strcpy(trimmedFileName,fileName);
+	trimmedFileName[strlen(fileName)-4]='\0';
+
+	//printf("trimmed file name is %s\n",trimmedFileName);
+	char* extension = ".csv";
+	
+	//if output directory specified, add slash after that dir, if not then no slash
+	if(strcmp(outputDir,"")!=0)
+		snprintf(sortedFileName, lengthSorted, "%s%s-sorted-%s%s", outputDir, trimmedFileName, colToSort, extension);
+	else
+		snprintf(sortedFileName, lengthSorted, "%s-sorted-%s%s", trimmedFileName, colToSort, extension);
+	
+	//printf("sorted file name:\t%s\n",sortedFileName);
+	
+	//creates new file with the sorted file name
+	FILE *sorted;
+	sorted=fopen(sortedFileName, "w");
+	
+
+	if (sorted == NULL){
+		fprintf(stderr,"path attempted: [%s]", sortedFileName);
+    	fprintf(stderr,"ffopen failed, errno = %d\n", errno);
+	}
+
+	
+   	int c=0;
+   	//prints headers
+   	hNode *ptr = headersFront;
+   	while (ptr!=NULL){
+   		fprintf(sorted,"%s",ptr->data);
+   		ptr=ptr->next;
+   		if(c<27){
+   			fprintf(sorted,",");
+   		}
+   		c++;
+   	}
+   	fprintf(sorted, "\n");	
+
+	writeCSV(frontRec,sorted);
+
+
+	-----------------------------------------------------------
+	from the sort function idk this prints shit
+
+	  		strips the weird character from the last entry and shiiit
+  	 		int f =0;
+		hNode *ptr1 = headersFront;
+ 	  		while (ptr1->next!=NULL){
+	   		ptr1=ptr1->next;
+	   	}
+	   	ptr1->data[strlen(ptr1->data)-1] = '\0'; 
+
+		 
+		------------------------test headers
+		       int f =0;
+				hNode *ptr1 = headersFront;
+		   		while (ptr1!=NULL){
+			   		printf("'%s'",ptr1->data);
+			   		ptr1=ptr1->next;
+			   		if(f<numCols-1){
+			   			printf(",");
+			   		}
+			   		f++;
+		   		}
+		   		printf("\n\n\n");	
+		---------------------test headers

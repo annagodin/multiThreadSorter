@@ -16,6 +16,7 @@
 /**** compile with gcc -pthread -o sorter sorter.c *****/
 
 //pthread_mutex_t lockDIR;
+pthread_mutex_t dataMutex = PTHREAD_MUTEX_INITIALIZER;
 
 int totalThreads = 0; // Number of threads running volatile int totalThreadCount = 0;  
 CSVrecord * masterList = NULL;
@@ -267,9 +268,9 @@ int endsWith (char *str, char *end) {
     return (strcmp (&(str[slen-elen]), end) == 0);
 }
 //sort function that takes in a file, col to sort, filename, and outputDir, writes to a new file
-void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
+void sort(FILE *file, char* fileName){
 	
-	
+
 
 	int sortPos=-1;
 	char* str;
@@ -313,37 +314,12 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 		//sets the number of columns
    		int numCols = count;
 
-   		//strips the weird character from the last entry and shiiit
-  	//  		int f =0;
-		// hNode *ptr1 = headersFront;
- 	 //  		while (ptr1->next!=NULL){
-	 //   		ptr1=ptr1->next;
-	 //   	}
-	 //   	ptr1->data[strlen(ptr1->data)-1] = '\0'; 
-
-		 
-		//------------------------test headers
-		  //      int f =0;
-				// hNode *ptr1 = headersFront;
-		  //  		while (ptr1!=NULL){
-			 //   		printf("'%s'",ptr1->data);
-			 //   		ptr1=ptr1->next;
-			 //   		if(f<numCols-1){
-			 //   			printf(",");
-			 //   		}
-			 //   		f++;
-		  //  		}
-		  //  		printf("\n\n\n");	
-		//---------------------test headers
-
-
       	
        if(sortPos==-1){
        		fprintf(stderr, "ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
        		//printf("ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
        		return;
        }
-
 
 
    //pointer to the front of LL
@@ -461,7 +437,7 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 		i++;
 	} //END FILE
 	
-
+	 
 
 	//----------------------------testing printing all records----------------------------	
 
@@ -475,8 +451,9 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 			printf("%s,",masterHeaders[k]);
 	}
 
-	printCSV(frontRec);
-	printf("\n\n\n");	
+	//printCSV(frontRec);
+
+	//printf("\n\n\n");	
 	//------------------------------------------testing----------------------------------
 
 	//sorts the damn LL
@@ -486,59 +463,16 @@ void sort(FILE *file, char *colToSort, char* fileName, char *outputDir){
 	masterList =  SortedMerge(masterList, frontRec);
 
 	//testing printing
-	printAllRecords(masterList);
+	//printAllRecords(masterList);
 
-	//length of the name of the sorted file
-	int lengthSorted = strlen(outputDir)+strlen(fileName)+strlen(colToSort)+11;
-	char sortedFileName[lengthSorted];
+	//printf("-------------------------\nheyyyyy\n-------------------------\n");
+	//return;
 	
-	//trim the .csv off the file
-	char* trimmedFileName=malloc((strlen(fileName)+1)*sizeof(char));
-	strcpy(trimmedFileName,fileName);
-	trimmedFileName[strlen(fileName)-4]='\0';
-
-	//printf("trimmed file name is %s\n",trimmedFileName);
-	char* extension = ".csv";
-	
-	//if output directory specified, add slash after that dir, if not then no slash
-	if(strcmp(outputDir,"")!=0)
-		snprintf(sortedFileName, lengthSorted, "%s%s-sorted-%s%s", outputDir, trimmedFileName, colToSort, extension);
-	else
-		snprintf(sortedFileName, lengthSorted, "%s-sorted-%s%s", trimmedFileName, colToSort, extension);
-	
-	//printf("sorted file name:\t%s\n",sortedFileName);
-	
-	//creates new file with the sorted file name
-	FILE *sorted;
-	sorted=fopen(sortedFileName, "w");
-	
-
-	if (sorted == NULL){
-		fprintf(stderr,"path attempted: [%s]", sortedFileName);
-    	fprintf(stderr,"ffopen failed, errno = %d\n", errno);
-	}
-
-	
-   	int c=0;
-   	//prints headers
-   	hNode *ptr = headersFront;
-   	while (ptr!=NULL){
-   		fprintf(sorted,"%s",ptr->data);
-   		ptr=ptr->next;
-   		if(c<27){
-   			fprintf(sorted,",");
-   		}
-   		c++;
-   	}
-   	fprintf(sorted, "\n");	
-
-	writeCSV(frontRec,sorted);
-
 
 	free(rest);
 	free(str);
 	free(token);
-	free(trimmedFileName);
+	//free(trimmedFileName);
 	//fclose(sorted);
 	fclose(file);
 	// freeLL(frontRec);
@@ -589,17 +523,36 @@ void writeToFile(){
 	writeCSV(masterList,sorted);
 }
 
-//------FORKING STUFF AHEAD--------------------------------------
+void *fileHandler(void* argPtr) { 
+ 	
+	struct dirent *entry = (struct dirent*)argPtr;
+
+	//check for csv
+	if (!endsWith(entry->d_name, ".csv")){
+		fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
+		return;
+	}
+
+    FILE *file = fopen(entry->d_name, "r");
+    if (file==0){
+        fprintf(stderr,"ERROR: %s\n", strerror(errno));
+        return;
+    }
+    printf("\t\twill sort the file: [%s] on column [%s]\n", entry->d_name, colToSort);
+    //sort(file, entry->d_name);
+
+ 
+}
+
+//------THREADING STUFF AHEAD--------------------------------------
 
 //recursively travserses a directory and prints subdirectories
-void dirwalk(char *dir,char *out, char *colToSort){
-    //printf("hai\n");
+void *dirwalk(void * argPtr){
+    char* dir = (char*)argPtr;
     DIR *dp;
     struct dirent *entry;
     struct stat statbuf;
-    int status1, status2;
-    int pid1, pid2;
-    //printf("\tOUT!!! [%s]\n",out);
+    
     if((dp = opendir(dir)) == NULL) {
         fprintf(stderr,"Error: cannot open directory: %s\n",dir);
         exit(EXIT_FAILURE);
@@ -607,77 +560,37 @@ void dirwalk(char *dir,char *out, char *colToSort){
 
     chdir(dir);
 
-	
     while((entry = readdir(dp)) != NULL){
     	//printf("ha3\n");
         lstat(entry->d_name,&statbuf);
         if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY, SPAWN A THREAD
-        	
+        	 
         	//pthread_t threadDir;
             
             //Found a directory , but ignore . and .. 
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
                 continue;
 
-            pid1=fork();
-            if(pid1==0){ //child
-                //recurse here
-                /*funtion is called recursively at a new indent level */
-                dirwalk(entry->d_name,out,colToSort);
-                exit(0);
-            } else { //parent
-                
-                
-                // fprintf(fp, "%d\n", pid1);
-                // fflush(fp); 
-               	
-            }
+            printf("[%s] is a directory\n\n",entry->d_name);
 
-          
+            // pthread_mutex_lock(&dataMutex);
+            // totalThreads++;
+            // pthread_mutex_unlock(&dataMutex);
+
+           
+            //recurse here
+            /*funtion is called recursively at a new indent level */
+            dirwalk((void*)entry->d_name);
+         
             
         }
         else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
-            
+            printf("\t[%s] is a file\n",entry->d_name);
             //pthread_t threadFile;
 
-            if(isSubstr(entry->d_name, "1234proc.txt")!=-1){
-            	continue;
-            }
-
-            pid2=fork();
-            if(pid2==0){ //child
-                
-                //check for csv
-        		if (!endsWith(entry->d_name, ".csv")){
-        			fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
-        			exit(1);
-        		}
-
-				if(isSubstr(entry->d_name, "-sorted-")!=-1){
-            		//printf("\t\t\tBRUHHHHH ITS SORTEDDDD\n");
-            		fprintf(stderr, "ERROR: [%s] is already sorted\n",entry->d_name);
-            		exit(1);
-            		//**printf("the csv\t[%s]\tdir\t[%s] has the word 'sorted', dont touch\n",entry->d_name, dir);
-            		
-            	}
-                FILE *file = fopen(entry->d_name, "r");
-                if (file==0){
-                    fprintf(stderr,"ERROR: %s\n", strerror(errno));
-                    exit(1);
-                }
-                
-                sort(file, colToSort, entry->d_name, out);
-                exit(0);
-
-            } else { //parent
-				
-                // fprintf(fp, "%d\n", pid2);
-                // fflush(fp); 
-               	
-                // waitpid(pid2, &status2, WUNTRACED);
-               
-             }
-            
+ 
+            fileHandler((void*)entry);  
+         
        
         }
 
@@ -686,10 +599,10 @@ void dirwalk(char *dir,char *out, char *colToSort){
      	chdir("..");
    		closedir(dp);
 
-   		wait(NULL);
+   		//wait(NULL);
 }
 
-//------END FORKING STUFF-------------------------------------
+//------END Threading STUFF-------------------------------------
 
 int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	
@@ -844,7 +757,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 //	return 0;
 
 	
-// //---------------------testing sort----------------------------------	
+// //---------------------testing sort function----------------------------------	
 	FILE *file = fopen("smalldata.csv", "r");
 	if (file==0){
 		printf("ERROR: %s\n", strerror(errno));
@@ -856,12 +769,10 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		printf("masterHeaders[%d]: '%s'\n",i, masterHeaders[i]);
 	}
 
-	 sort(file, colToSort, "smalldata.csv", "");
+	 sort(file,"smalldata.csv");
 	 //return 0;
-//---------------------end testing sort--------------------------------------
+//---------------------end testing sort function--------------------------------------
 
-	// printf("DONE SORT TEST\n");
-	// return 0;
 	
 	
 	char cwd[400];
@@ -891,7 +802,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 			//strcat(outputFull,"/");
 			strcat(outputFull, outputDir);
 			
-			printf("\t\t\t\toutput full %s\n\n",outputFull);
+			printf("\toutput full %s\n\n",outputFull);
 			outputDir = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
 			strcpy(outputDir,outputFull);
 		}
@@ -903,34 +814,28 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 	printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
 	
-
-
 	int init = pthread_self();
 	fprintf(stdout, "\nInitial TID: %lu\n", init);
 
 	/*test---------------------*/
-	return 0;
+	//return 0;
 	/*test---------------------*/
 
 	if(hasDir == 1 && hasOut == 0) { //-d 
-		dirwalk(searchDir, outputDir, colToSort);
+		dirwalk((void*)searchDir);
 	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
-		dirwalk(searchDir, outputDir, colToSort);
+		dirwalk((void*)searchDir);
 	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
-		dirwalk(cwd, outputDir, colToSort);
+		dirwalk((void*)cwd);
 	} else { //neither 
-		dirwalk(cwd, outputDir, colToSort);
+		dirwalk((void*)cwd);
 	}
 	// fclose(pidRec);
 
-
-	
-	
-
 	fprintf(stdout,"TIDS of all spawned threads: ");
-	
-	
+	//TODO
 	fprintf(stdout,"\nTotal number of threads: \n");
+	//TODO
 
 	free(currDir);
 	
