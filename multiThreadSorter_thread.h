@@ -14,6 +14,10 @@ typedef struct hNode{
 	struct hNode *next;
 }hNode;
 
+// typedef struct tData{
+// 	int unsigned long
+// } tData;
+
 
 
 //stuff for forking

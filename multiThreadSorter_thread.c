@@ -17,7 +17,8 @@
 
 //pthread_mutex_t lockDIR;
 pthread_mutex_t dataMutex = PTHREAD_MUTEX_INITIALIZER;
-
+pthread_mutex_t lockGlobals;
+pthread_mutex_t lockFile;
 int totalThreads = 0; // Number of threads running volatile int totalThreadCount = 0;  
 CSVrecord * masterList = NULL;
 int masterHasOut = 0;
@@ -25,6 +26,7 @@ int masterHasDir = 0;
 char* currDir;
 char* outputDir;
 char* colToSort;
+
 
 
 char masterHeaders[28][70] = {"color","director_name","num_critic_for_reviews",
@@ -270,7 +272,6 @@ int endsWith (char *str, char *end) {
 //sort function that takes in a file, col to sort, filename, and outputDir, writes to a new file
 void sort(FILE *file, char* fileName){
 	
-
 
 	int sortPos=-1;
 	char* str;
@@ -523,49 +524,64 @@ void writeToFile(){
 	writeCSV(masterList,sorted);
 }
 
-void *fileHandler(void* argPtr) { 
- 	
-	struct dirent *entry = (struct dirent*)argPtr;
+//------THREADING STUFF AHEAD--------------------------------------
 
+
+void *fileHandler(void* argPtr) { 
+ 	printf("ThreadID: %lu\n",pthread_self());
+	//pthread_mutex_lock(&lockFile);
+	struct dirent *entry = (struct dirent*)argPtr;
+	//printf("name of file: %s\n", entry->d_name);
 	//check for csv
 	if (!endsWith(entry->d_name, ".csv")){
 		fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
-		return;
+		//pthread_exit(NULL);
+		pthread_exit(NULL);
 	}
 
+	
     FILE *file = fopen(entry->d_name, "r");
     if (file==0){
         fprintf(stderr,"ERROR: %s\n", strerror(errno));
-        return;
+        //pthread_exit(NULL);
+        pthread_exit(NULL);
     }
+    
+
+   	//pthread_mutex_lock(&lockGlobals);
     printf("\t\twill sort the file: [%s] on column [%s]\n", entry->d_name, colToSort);
+    //pthread_mutex_unlock(&lockGlobals);
+    //pthread_mutex_unlock(&lockFile);
     //sort(file, entry->d_name);
+    fclose(file);
+    pthread_exit(NULL);
 
  
 }
 
-//------THREADING STUFF AHEAD--------------------------------------
 
 //recursively travserses a directory and prints subdirectories
 void *dirwalk(void * argPtr){
+    pthread_t threadID[400];
+    printf("----------------------\nThreadID: %lu\n",pthread_self());
     char* dir = (char*)argPtr;
     DIR *dp;
     struct dirent *entry;
     struct stat statbuf;
     
     if((dp = opendir(dir)) == NULL) {
-        fprintf(stderr,"Error: cannot open directory: %s\n",dir);
+        fprintf(stderr,"!Error: cannot open directory: %s\n",dir);
         exit(EXIT_FAILURE);
     }
 
     chdir(dir);
 
     while((entry = readdir(dp)) != NULL){
-    	//printf("ha3\n");
+    	
         lstat(entry->d_name,&statbuf);
         if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY, SPAWN A THREAD
         	 
-        	//pthread_t threadDir;
+        	//pthread_t threadID;
             
             //Found a directory , but ignore . and .. 
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
@@ -576,20 +592,20 @@ void *dirwalk(void * argPtr){
             // pthread_mutex_lock(&dataMutex);
             // totalThreads++;
             // pthread_mutex_unlock(&dataMutex);
-
-           
+            pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
+            totalThreads++;
             //recurse here
             /*funtion is called recursively at a new indent level */
-            dirwalk((void*)entry->d_name);
+            //dirwalk((void*)entry->d_name);
          
-            
         }
         else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
             printf("\t[%s] is a file\n",entry->d_name);
             //pthread_t threadFile;
 
- 
-            fileHandler((void*)entry);  
+           	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)entry);
+            totalThreads++;
+            //fileHandler((void*)entry);  
          
        
         }
@@ -598,7 +614,21 @@ void *dirwalk(void * argPtr){
 
      	chdir("..");
    		closedir(dp);
+   		
+   		int i;
+		for (i =0; i < totalThreads; i++) {
+			pthread_join(threadID[i], NULL); 
+		}
 
+		//printf("Total number of threads spawned: %d\n", totalThreads);
+		fprintf(stdout,"TIDS of all spawned threads: ");
+		for (i =0; i < totalThreads; i++) {
+			printf("%lu,",threadID[i]); 
+		}
+			//TODO
+		fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
+			//TODO
+	
    		//wait(NULL);
 }
 
@@ -814,7 +844,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 	printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
 	
-	int init = pthread_self();
+	int unsigned long init = pthread_self();
 	fprintf(stdout, "\nInitial TID: %lu\n", init);
 
 	/*test---------------------*/
@@ -832,10 +862,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	}
 	// fclose(pidRec);
 
-	fprintf(stdout,"TIDS of all spawned threads: ");
-	//TODO
-	fprintf(stdout,"\nTotal number of threads: \n");
-	//TODO
+	
 
 	free(currDir);
 	
