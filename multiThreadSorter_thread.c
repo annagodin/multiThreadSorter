@@ -528,30 +528,52 @@ void writeToFile(){
 
 
 void *fileHandler(void* argPtr) { 
- 	printf("ThreadID: %lu\n",pthread_self());
+ 	// printf("ThreadID: %lu\n",pthread_self());
 	//pthread_mutex_lock(&lockFile);
-	struct dirent *entry = (struct dirent*)argPtr;
-	//printf("name of file: %s\n", entry->d_name);
+	char* fileName = (char*)argPtr;
+	//struct dirent *entry = (struct dirent*)argPtr;
+	printf("FILE: [%s]\n", fileName);
+	
+
+
 	//check for csv
-	if (!endsWith(entry->d_name, ".csv")){
-		fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
-		//pthread_exit(NULL);
+	// if (!endsWith(entry->d_name, ".csv")){
+	// 	fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
+	// 	//pthread_exit(NULL);
+	// 	pthread_exit(NULL);
+	// }
+
+	
+ //    FILE *file = fopen(entry->d_name, "r");
+ //    if (file==0){
+ //        fprintf(stderr,"ERROR: %s\n", strerror(errno));
+ //        //pthread_exit(NULL);
+ //        pthread_exit(NULL);
+ //    }
+
+
+
+	// check for csv
+	if (!endsWith(fileName, ".csv")){
+		fprintf(stderr, "ERROR: [%s] is not a .csv\n", fileName);
+		//return;
 		pthread_exit(NULL);
 	}
 
 	
-    FILE *file = fopen(entry->d_name, "r");
+    FILE *file = fopen(fileName, "r");
     if (file==0){
-        fprintf(stderr,"ERROR: %s\n", strerror(errno));
-        //pthread_exit(NULL);
+        fprintf(stderr,"ERROR!!!: %s\n", strerror(errno));
+        //return;
         pthread_exit(NULL);
     }
-    
 
-   	//pthread_mutex_lock(&lockGlobals);
-    printf("\t\twill sort the file: [%s] on column [%s]\n", entry->d_name, colToSort);
-    //pthread_mutex_unlock(&lockGlobals);
-    //pthread_mutex_unlock(&lockFile);
+   	//printf("FILE: [%s]\n", fileName);
+   	
+    //printf("\t\twill sort the file: [%s] on column [%s] in []\n", entry->d_name, colToSort);
+    printf("\t\twill sort the file: [%s] on column [%s]\n", fileName, colToSort);
+    
+    
     //sort(file, entry->d_name);
     fclose(file);
     pthread_exit(NULL);
@@ -563,19 +585,26 @@ void *fileHandler(void* argPtr) {
 //recursively travserses a directory and prints subdirectories
 void *dirwalk(void * argPtr){
     pthread_t threadID[400];
-    printf("----------------------\nThreadID: %lu\n",pthread_self());
+    //printf("----------------------\nThreadID: %lu\n",pthread_self());
     char* dir = (char*)argPtr;
+    //printf("diririririr:\t%s\n",dir);
     DIR *dp;
+
+    printf("this DIR:\t[%s]\n",dir);
     struct dirent *entry;
     struct stat statbuf;
     
     if((dp = opendir(dir)) == NULL) {
-        fprintf(stderr,"!Error: cannot open directory: %s\n",dir);
-        exit(EXIT_FAILURE);
+        fprintf(stderr,"!Error: cannot open directory: [%s]\n",dir);
+        pthread_exit(NULL);
+        //exit(EXIT_FAILURE);
     }
+
+   
 
     chdir(dir);
 
+    
     while((entry = readdir(dp)) != NULL){
     	
         lstat(entry->d_name,&statbuf);
@@ -589,36 +618,75 @@ void *dirwalk(void * argPtr){
 
             printf("[%s] is a directory\n\n",entry->d_name);
 
-            // pthread_mutex_lock(&dataMutex);
+            // pthread_mutex_lock(&dataMutex); 
             // totalThreads++;
             // pthread_mutex_unlock(&dataMutex);
-            pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
+           	
+    		char currDir[500];
+    		char newPath[500];
+    		//char* currDir = (char*)malloc(strlen(dir)*sizeof(char)+1);
+  			strcpy(currDir,dir);
+            //char* newPath=(char*)malloc((strlen(currDir)+strlen(entry->d_name)+3)*sizeof(char));
+		    strcpy(newPath, currDir); //copy directory over
+			
+			// strcat(newPath, "/"); 
+			strcat(newPath,entry->d_name); //update the directory- our new working directory updated
+			//printf("DIRDIR newPath: %s\n",newPath);
+
+			strcat(newPath, "/"); 
+			//return;
+            // pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
+            
+			//printf("newpath!!!! [%s]\n",newPath);
+            pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)&newPath);
             totalThreads++;
+            
+
             //recurse here
             /*funtion is called recursively at a new indent level */
             //dirwalk((void*)entry->d_name);
+            //dirwalk((void*)newPath);
+            
+            //free(currDir);
+            //free(newPath);
          
         }
         else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
             printf("\t[%s] is a file\n",entry->d_name);
+            //printf("path: %s\n",dir);
             //pthread_t threadFile;
 
-           	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)entry);
+             char* newPath=(char*)malloc((strlen(dir)+strlen(entry->d_name)+3)*sizeof(char));
+		 	 strcpy(newPath, dir); //copy directory over			
+			 // strcat(newPath, "/"); 
+			 strcat(newPath,entry->d_name); //update the directory- our new working directory updated
+			 //printf("newPath FILE NAME: %s\n",newPath);
+
+
+           	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
             totalThreads++;
+            
             //fileHandler((void*)entry);  
+            //fileHandler((void*)newPath);  
+
          
        
         }
 
     }
 
+    	pthread_exit(NULL);
+    	
      	chdir("..");
    		closedir(dp);
    		
+   		//return;
    		int i;
 		for (i =0; i < totalThreads; i++) {
 			pthread_join(threadID[i], NULL); 
 		}
+
+
 
 		//printf("Total number of threads spawned: %d\n", totalThreads);
 		fprintf(stdout,"TIDS of all spawned threads: ");
@@ -842,7 +910,31 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	}	
 
 
+	char *searchFull;
+	if(hasDir){
+		if(searchDir[strlen(searchDir)-1]!='/')
+			strcat(searchDir,"/");
+
+		if(searchDir[0]=='/'){
+		//printf("absolute file name\n");
+			searchFull = (char*)malloc(strlen(searchDir)+2);
+			strcpy(searchFull,searchDir);
+		}
+		else {
+			//printf("relative file name\n");
+			searchFull = (char*)malloc(strlen(currDir)+3+strlen(searchDir));
+			strcpy(searchFull,currDir);
+			//strcat(searchFull,"/");
+			strcat(searchFull, searchDir);
+			searchDir = (char*)malloc(strlen(searchFull)*sizeof(char)+1);
+			strcpy(searchDir,searchFull);
+			//printf("\t\t\t\toutput full %s\n\n",searchFull);
+		}
+	}
+
 	printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
+
+	printf("THEEEE SEARCH DIR IS : %s\n", searchDir);
 	
 	int unsigned long init = pthread_self();
 	fprintf(stdout, "\nInitial TID: %lu\n", init);
