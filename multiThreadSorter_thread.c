@@ -26,6 +26,9 @@ int masterHasDir = 0;
 char* currDir;
 char* outputDir;
 char* colToSort;
+char* searchDir;
+pthread_t threadID[400];
+int unsigned long init;
 
 
 
@@ -533,24 +536,6 @@ void *fileHandler(void* argPtr) {
 	char* fileName = (char*)argPtr;
 	//struct dirent *entry = (struct dirent*)argPtr;
 	printf("FILE: [%s]\n", fileName);
-	
-
-
-	//check for csv
-	// if (!endsWith(entry->d_name, ".csv")){
-	// 	fprintf(stderr, "ERROR: [%s] is not a .csv\n", entry->d_name);
-	// 	//pthread_exit(NULL);
-	// 	pthread_exit(NULL);
-	// }
-
-	
- //    FILE *file = fopen(entry->d_name, "r");
- //    if (file==0){
- //        fprintf(stderr,"ERROR: %s\n", strerror(errno));
- //        //pthread_exit(NULL);
- //        pthread_exit(NULL);
- //    }
-
 
 
 	// check for csv
@@ -563,7 +548,7 @@ void *fileHandler(void* argPtr) {
 	
     FILE *file = fopen(fileName, "r");
     if (file==0){
-        fprintf(stderr,"ERROR!!!: %s\n", strerror(errno));
+        fprintf(stderr,"ERROR!!!: %s on file [%s]\n", strerror(errno), fileName);
         //return;
         pthread_exit(NULL);
     }
@@ -584,7 +569,7 @@ void *fileHandler(void* argPtr) {
 
 //recursively travserses a directory and prints subdirectories
 void *dirwalk(void * argPtr){
-    pthread_t threadID[400];
+   	//printf("YEEEEEEOOOEOEOEOE\n");
     //printf("----------------------\nThreadID: %lu\n",pthread_self());
     char* dir = (char*)argPtr;
     //printf("diririririr:\t%s\n",dir);
@@ -595,8 +580,11 @@ void *dirwalk(void * argPtr){
     struct stat statbuf;
     
     if((dp = opendir(dir)) == NULL) {
-        fprintf(stderr,"!Error: cannot open directory: [%s]\n",dir);
-        pthread_exit(NULL);
+        fprintf(stderr,"Error!: cannot open directory: [%s]\n",dir);
+        if(totalThreads==0)
+        	return;
+        else
+       		pthread_exit(NULL);
         //exit(EXIT_FAILURE);
     }
 
@@ -638,8 +626,9 @@ void *dirwalk(void * argPtr){
             // pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
             
 			//printf("newpath!!!! [%s]\n",newPath);
-            pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)&newPath);
+            pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
             totalThreads++;
+            printf("totalThreads:%d\n",totalThreads);
             
 
             //recurse here
@@ -665,6 +654,7 @@ void *dirwalk(void * argPtr){
 
            	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
             totalThreads++;
+            printf("totalThreads:%d\n",totalThreads);
             
             //fileHandler((void*)entry);  
             //fileHandler((void*)newPath);  
@@ -675,29 +665,31 @@ void *dirwalk(void * argPtr){
 
     }
 
-    	pthread_exit(NULL);
-    	
-     	chdir("..");
-   		closedir(dp);
    		
-   		//return;
-   		int i;
-		for (i =0; i < totalThreads; i++) {
-			pthread_join(threadID[i], NULL); 
-		}
+   		//printf("*init: %lu\n",init);
+   		// printf("**hey sup: totalThreads:%d\n",totalThreads);
+   		// printf("***hey sup current thread:%lu\n",pthread_self());
+   		
+		
+		
+		
+   		// if(totalThreads>1)
+    	// pthread_exit(NULL);
 
+   		// if(pthread_self()==init){
+   		// 	printf("WE IN THE INIT BITCH\n\n");
+   		// 	// return;
+   		// } else {
+   		// 	pthread_exit(NULL);
+   		// }
+   			
 
+   		chdir("..");
+   		closedir(dp);
+    	// printf("HELLO ANYBODY THERE\n");
+    	pthread_exit(NULL);
 
-		//printf("Total number of threads spawned: %d\n", totalThreads);
-		fprintf(stdout,"TIDS of all spawned threads: ");
-		for (i =0; i < totalThreads; i++) {
-			printf("%lu,",threadID[i]); 
-		}
-			//TODO
-		fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
-			//TODO
-	
-   		//wait(NULL);
+   		
 }
 
 //------END Threading STUFF-------------------------------------
@@ -707,7 +699,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	int hasDir=0;
 	int hasOut=0;
 	int hasCol=0;
-	char* searchDir;
+	//char* searchDir;
 
 	if(argc<3){
 		fprintf(stderr,"Error, not enough arguments!\n");
@@ -853,25 +845,23 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	}
 
 //	return 0;
-
 	
 // //---------------------testing sort function----------------------------------	
-	FILE *file = fopen("smalldata.csv", "r");
-	if (file==0){
-		printf("ERROR: %s\n", strerror(errno));
-		exit(EXIT_FAILURE);
-	}	
+	// FILE *file = fopen("smalldata.csv", "r");
+	// if (file==0){
+	// 	printf("ERROR: %s\n", strerror(errno));
+	// 	exit(EXIT_FAILURE);
+	// }	
 
-	int i;
-	for(i=0;i<28;i++){
-		printf("masterHeaders[%d]: '%s'\n",i, masterHeaders[i]);
-	}
+	// int i;
+	// for(i=0;i<28;i++){
+	// 	printf("masterHeaders[%d]: '%s'\n",i, masterHeaders[i]);
+	// }
 
-	 sort(file,"smalldata.csv");
-	 //return 0;
+	//  sort(file,"smalldata.csv");
+	//  //return 0;
 //---------------------end testing sort function--------------------------------------
 
-	
 	
 	char cwd[400];
     if (getcwd(cwd, sizeof(cwd)) == NULL)
@@ -881,7 +871,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
   	strcat(currDir,"/");
 	
 
-	printf("currdir %s\n",currDir);
+	
 	writeToFile();
 
 	
@@ -936,25 +926,58 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 	printf("THEEEE SEARCH DIR IS : %s\n", searchDir);
 	
-	int unsigned long init = pthread_self();
+	printf("THEEEE CURR DIR IS : %s\n",currDir);
+	
+	init = pthread_self();
 	fprintf(stdout, "\nInitial TID: %lu\n", init);
-
+	printf("Initial Thread Count:%d\n",totalThreads);
 	/*test---------------------*/
 	//return 0;
 	/*test---------------------*/
 
+
+	
+	// char search[strlen(searchDir)+1];
+	// char 
+
 	if(hasDir == 1 && hasOut == 0) { //-d 
-		dirwalk((void*)searchDir);
+		printf("HEYEYEYEY\n");
+		pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)searchDir);
+		totalThreads++;
+		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
-		dirwalk((void*)searchDir);
+		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)searchDir);
+		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
-		dirwalk((void*)cwd);
+		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)currDir);
+		//dirwalk((void*)cwd);
 	} else { //neither 
-		dirwalk((void*)cwd);
+		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)currDir);
+		//dirwalk((void*)cwd);
 	}
 	// fclose(pidRec);
 
 	
+	//return;
+	
+
+
+	int i;
+	for (i =0; i < totalThreads; i++) {
+		pthread_join(threadID[i], NULL); 
+	}	
+
+	//printf("Total number of threads spawned: %d\n", totalThreads);
+	fprintf(stdout,"TIDS of all spawned threads: ");
+	
+	for (i =0; i < totalThreads; i++) {
+		printf("%lu,",threadID[i]); 
+	}
+	fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
+   		//}
+	
+
+
 
 	free(currDir);
 	
