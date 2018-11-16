@@ -12,7 +12,7 @@
 #include <limits.h>
 #include <pthread.h>
 #include "multiThreadSorter_thread.h"
-
+#define _GNU_SOURCE
 /**** compile with gcc -pthread -o sorter sorter.c *****/
 
 //pthread_mutex_t lockDIR;
@@ -596,10 +596,14 @@ void *dirwalk(void * argPtr){
     while((entry = readdir(dp)) != NULL){
     	
         lstat(entry->d_name,&statbuf);
-        if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY, SPAWN A THREAD
+        if(entry->d_type==DT_DIR){
+        //if(S_ISDIR(statbuf.st_mode)) { //ITS A DIRECTORY, SPAWN A THREAD
         	 
-        	//pthread_t threadID;
-            
+        	 //d_type
+        	 //DT_REG
+        	 //DT_DIR
+
+        	//pthread_t threadID; 
             //Found a directory , but ignore . and .. 
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
                 continue;
@@ -610,12 +614,13 @@ void *dirwalk(void * argPtr){
             // totalThreads++;
             // pthread_mutex_unlock(&dataMutex);
            	
-    		char currDir[500];
-    		char newPath[500];
-    		//char* currDir = (char*)malloc(strlen(dir)*sizeof(char)+1);
-  			strcpy(currDir,dir);
-            //char* newPath=(char*)malloc((strlen(currDir)+strlen(entry->d_name)+3)*sizeof(char));
-		    strcpy(newPath, currDir); //copy directory over
+    		//char current[500];
+    		//char newPath[500];
+    		char* current = (char*)malloc(strlen(dir)*sizeof(char)+2);
+  			strcpy(current,dir);
+            
+            char* newPath=(char*)malloc((strlen(current)+strlen(entry->d_name)+3)*sizeof(char));
+		    strcpy(newPath, current); //copy directory over
 			
 			// strcat(newPath, "/"); 
 			strcat(newPath,entry->d_name); //update the directory- our new working directory updated
@@ -640,11 +645,12 @@ void *dirwalk(void * argPtr){
             //free(newPath);
          
         }
-        else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
+        //else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
+        else if(entry->d_type==DT_REG){
             printf("\t[%s] is a file\n",entry->d_name);
             //printf("path: %s\n",dir);
             //pthread_t threadFile;
-
+            //char newPath[strlen(dir)+strlen(entry->d_name)+3];
              char* newPath=(char*)malloc((strlen(dir)+strlen(entry->d_name)+3)*sizeof(char));
 		 	 strcpy(newPath, dir); //copy directory over			
 			 // strcat(newPath, "/"); 
@@ -659,7 +665,7 @@ void *dirwalk(void * argPtr){
             //fileHandler((void*)entry);  
             //fileHandler((void*)newPath);  
 
-         
+         	
        
         }
 
@@ -686,7 +692,7 @@ void *dirwalk(void * argPtr){
 
    		chdir("..");
    		closedir(dp);
-    	// printf("HELLO ANYBODY THERE\n");
+
     	pthread_exit(NULL);
 
    		
@@ -871,7 +877,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
   	strcat(currDir,"/");
 	
 
-	
+	//testing stuffs
 	writeToFile();
 
 	
