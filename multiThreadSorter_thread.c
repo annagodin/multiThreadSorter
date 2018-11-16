@@ -16,7 +16,10 @@
 /**** compile with gcc -pthread -o sorter sorter.c *****/
 
 //pthread_mutex_t lockDIR;
-pthread_mutex_t dataMutex = PTHREAD_MUTEX_INITIALIZER;
+pthread_mutex_t dirMutex = PTHREAD_MUTEX_INITIALIZER;
+pthread_mutex_t fileMutex = PTHREAD_MUTEX_INITIALIZER;
+pthread_mutex_t mutex1;
+pthread_mutex_t mutex2;
 pthread_mutex_t lockGlobals;
 pthread_mutex_t lockFile;
 int totalThreads = 0; // Number of threads running volatile int totalThreadCount = 0;  
@@ -275,7 +278,7 @@ int endsWith (char *str, char *end) {
 //sort function that takes in a file, col to sort, filename, and outputDir, writes to a new file
 void sort(FILE *file, char* fileName){
 	
-
+	printf("COL TO SORT FUCKERS: %s\n", colToSort);
 	int sortPos=-1;
 	char* str;
 	str = (char*)malloc(sizeof(char)*1200); //string buffer
@@ -294,6 +297,7 @@ void sort(FILE *file, char* fileName){
    	hNode *headersFront = NULL;
    	int count = 0;
 
+   	pthread_mutex_lock(&mutex2);
    	//tokenizes the headers
    	while ((token = strsep(&rest, ",")) != NULL){
         	//loads headers into array
@@ -317,7 +321,7 @@ void sort(FILE *file, char* fileName){
        }
 		//sets the number of columns
    		int numCols = count;
-
+	pthread_mutex_unlock(&mutex2);
       	
        if(sortPos==-1){
        		fprintf(stderr, "ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
@@ -325,7 +329,7 @@ void sort(FILE *file, char* fileName){
        		return;
        }
 
-
+       // printf("GOT HERERERERERE\n");
    //pointer to the front of LL
    CSVrecord * frontRec = NULL;
     
@@ -434,8 +438,10 @@ void sort(FILE *file, char* fileName){
 
 			//printRecNode(record);
 
-			//ADD RECORD TO LL HERE		
-			addRecToEnd(&frontRec,record);			
+			//ADD RECORD TO LL HERE	
+			pthread_mutex_lock(&mutex2);	
+			addRecToEnd(&frontRec,record);
+			pthread_mutex_unlock(&mutex2);			
 			//HERE THE RECORD SHOULD BE COMPLETE
 					
 		i++;
@@ -445,15 +451,15 @@ void sort(FILE *file, char* fileName){
 
 	//----------------------------testing printing all records----------------------------	
 
-	int k;
-	for(k=0;k<28;k++){
+	// int k;
+	// for(k=0;k<28;k++){
 		
-		if(k==27){
-			printf("%s\n",masterHeaders[k]);
-		}
-		else
-			printf("%s,",masterHeaders[k]);
-	}
+	// 	if(k==27){
+	// 		printf("%s\n",masterHeaders[k]);
+	// 	}
+	// 	else
+	// 		printf("%s,",masterHeaders[k]);
+	// }
 
 	//printCSV(frontRec);
 
@@ -464,7 +470,12 @@ void sort(FILE *file, char* fileName){
 	mergesort(&frontRec);
 
 	//ADDS TO MASTER LIST, MUST BE LOCKED
+	pthread_mutex_lock(&mutex1);
 	masterList =  SortedMerge(masterList, frontRec);
+	printf("sorted the file: [%s]\n", fileName);
+	// printAllRecords(masterList);
+	pthread_mutex_unlock(&mutex1);
+
 
 	//testing printing
 	//printAllRecords(masterList);
@@ -473,14 +484,14 @@ void sort(FILE *file, char* fileName){
 	//return;
 	
 
-	free(rest);
-	free(str);
-	free(token);
+	// free(rest);
+	// free(str);
+	// free(token);
 	//free(trimmedFileName);
 	//fclose(sorted);
 	fclose(file);
 	// freeLL(frontRec);
-	free(frontRec);	
+	// free(frontRec);	
 }
 
 void writeToFile(){
@@ -559,8 +570,9 @@ void *fileHandler(void* argPtr) {
     printf("\t\twill sort the file: [%s] on column [%s]\n", fileName, colToSort);
     
     
-    //sort(file, entry->d_name);
-    fclose(file);
+    sort(file, fileName);
+    
+    //fclose(file);
     pthread_exit(NULL);
 
  
@@ -616,6 +628,7 @@ void *dirwalk(void * argPtr){
            	
     		//char current[500];
     		//char newPath[500];
+    		pthread_mutex_lock(&mutex1);
     		char* current = (char*)malloc(strlen(dir)*sizeof(char)+2);
   			strcpy(current,dir);
             
@@ -627,14 +640,17 @@ void *dirwalk(void * argPtr){
 			//printf("DIRDIR newPath: %s\n",newPath);
 
 			strcat(newPath, "/"); 
+			 pthread_mutex_unlock(&mutex1);
 			//return;
             // pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
             
 			//printf("newpath!!!! [%s]\n",newPath);
+			
             pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
+            pthread_mutex_lock(&dirMutex); 
             totalThreads++;
             printf("totalThreads:%d\n",totalThreads);
-            
+            pthread_mutex_unlock(&dirMutex);
 
             //recurse here
             /*funtion is called recursively at a new indent level */
@@ -657,11 +673,13 @@ void *dirwalk(void * argPtr){
 			 strcat(newPath,entry->d_name); //update the directory- our new working directory updated
 			 //printf("newPath FILE NAME: %s\n",newPath);
 
-
+			
            	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
+            // pthread_detach(threadID[totalThreads]);
+            pthread_mutex_lock(&fileMutex); 
             totalThreads++;
             printf("totalThreads:%d\n",totalThreads);
-            
+            pthread_mutex_unlock(&fileMutex);
             //fileHandler((void*)entry);  
             //fileHandler((void*)newPath);  
 
@@ -676,7 +694,6 @@ void *dirwalk(void * argPtr){
    		// printf("**hey sup: totalThreads:%d\n",totalThreads);
    		// printf("***hey sup current thread:%lu\n",pthread_self());
    		
-		
 		
 		
    		// if(totalThreads>1)
@@ -878,7 +895,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	
 
 	//testing stuffs
-	writeToFile();
+	// writeToFile();
 
 	
 	char *outputFull;
@@ -946,19 +963,34 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	// char search[strlen(searchDir)+1];
 	// char 
 
+	if(pthread_mutex_init(&dirMutex, NULL) != 0){
+        printf("Error on lock1.\n");
+    }
+    if(pthread_mutex_init(&fileMutex, NULL) != 0){
+        printf("Error on lock2.\n");
+    }
+    if(pthread_mutex_init(&mutex1, NULL) != 0){
+        printf("Error on lock3.\n");
+    }
+    if(pthread_mutex_init(&mutex2, NULL) != 0){
+        printf("Error on lock4.\n");
+    }
+
 	if(hasDir == 1 && hasOut == 0) { //-d 
-		printf("HEYEYEYEY\n");
 		pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)searchDir);
 		totalThreads++;
 		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
 		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)searchDir);
+		totalThreads++;
 		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
 		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)currDir);
+		totalThreads++;
 		//dirwalk((void*)cwd);
 	} else { //neither 
 		pthread_create(&threadID[totalThreads], NULL, (void*)dirwalk, (void*)currDir);
+		totalThreads++;
 		//dirwalk((void*)cwd);
 	}
 	// fclose(pidRec);
@@ -970,21 +1002,25 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 
 	int i;
 	for (i =0; i < totalThreads; i++) {
-		pthread_join(threadID[i], NULL); 
+		pthread_join(threadID[i], NULL);
+		printf("\t\t\t\t\tnum THREADERRRRS: %d\n", totalThreads); 
 	}	
-
+	printf("d0ne?\n");
 	//printf("Total number of threads spawned: %d\n", totalThreads);
+
+
+
+
 	fprintf(stdout,"TIDS of all spawned threads: ");
 	
 	for (i =0; i < totalThreads; i++) {
 		printf("%lu,",threadID[i]); 
 	}
 	fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
-   		//}
+
+	// printAllRecords(masterList);
+	writeToFile();
 	
-
-
-
 	free(currDir);
 	
 	if(hasDir)
@@ -993,6 +1029,12 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		free(outputDir);
 	
 	free(colToSort);
+
+	// pthread_exit(threadID);
+    pthread_mutex_destroy(&mutex1);
+    pthread_mutex_destroy(&fileMutex);
+    pthread_mutex_destroy(&dirMutex);
+	
 
 	return 0;
 } //-----------------------------------ENDMAIN-------------------
