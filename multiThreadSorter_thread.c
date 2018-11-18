@@ -32,6 +32,10 @@ char* currDir;
 char* outputDir;
 char* colToSort;
 char* searchDir;
+
+//TRY FREEING EVERYTHING BY DECLARING GLOBALLY
+//char* trimmed;
+
 //pthread_t threadID[400];
 pthread_t* threadID;
 int unsigned long init;
@@ -284,7 +288,7 @@ void sort(FILE *file, char* fileName){
 	printf("COL TO SORT FUCKERS: %s\n", colToSort);
 	int sortPos=-1;
 	char* str;
-	str = (char*)malloc(sizeof(char)*1200); //string buffer
+	str = (char*)malloc(sizeof(char)*1201); //string buffer, tiff changed 1200 -> 1201 for null terminator
 	
 	char* token;
 	token = (char*)malloc(sizeof(char)*200);
@@ -300,7 +304,7 @@ void sort(FILE *file, char* fileName){
    	hNode *headersFront = NULL;
    	int count = 0;
 
-   	pthread_mutex_lock(&mutex2);
+   	//tiff commenting out: pthread_mutex_lock(&mutex2);
    	//tokenizes the headers
    	while ((token = strsep(&rest, ",")) != NULL){
         	//loads headers into array
@@ -321,10 +325,16 @@ void sort(FILE *file, char* fileName){
         	}
         	
         	count++;
+
+		//tiff attempting to free node & data
+		//free(node);
+		//free(data);
        }
+
+
 		//sets the number of columns
    		int numCols = count;
-	pthread_mutex_unlock(&mutex2);
+	//tiff commenting out: pthread_mutex_unlock(&mutex2);
       	
        if(sortPos==-1){
        		fprintf(stderr, "ERROR: Column specified is not a header in the CSV [%s] that is being processed\n",fileName);
@@ -381,7 +391,8 @@ void sort(FILE *file, char* fileName){
 						strcat(append,token);				    		
 		    		} while (searchForQuote(token)==0); 
 		   			
-		   			token = append;		   				   				   					   					   			
+		   			token = append;
+				free(append);	//tiff testing the freeing of append		   				   				   					   					   			
 		    	} //END QUOTE CASE
 		    	
 		    	//empty field
@@ -400,6 +411,9 @@ void sort(FILE *file, char* fileName){
 						strcpy(record->sortVal,token);
 						
 					}
+					
+					//TIFF TRYING TO FREE 
+					free(record->sortVal);
 				}
 
 
@@ -430,6 +444,9 @@ void sort(FILE *file, char* fileName){
 				}				
 				index++;		
 
+			//TIFF ATTEMPTING TO ONCE AGAIN FREE SHIT 
+			//free(headerAtIndex);
+			//free(record->data);	//might be a problem, lets see
 		  	 } //END LINE (RECORD)
 		
 			//record->numCols=numCols;
@@ -442,9 +459,9 @@ void sort(FILE *file, char* fileName){
 			//printRecNode(record);
 
 			//ADD RECORD TO LL HERE	
-			pthread_mutex_lock(&mutex2);	
+			//tiff commenting out: pthread_mutex_lock(&mutex2);	
 			addRecToEnd(&frontRec,record);
-			pthread_mutex_unlock(&mutex2);			
+			//tiff commenting out: pthread_mutex_unlock(&mutex2);			
 			//HERE THE RECORD SHOULD BE COMPLETE
 					
 		i++;
@@ -487,14 +504,14 @@ void sort(FILE *file, char* fileName){
 	//return;
 	
 
-	// free(rest);
-	// free(str);
-	// free(token);
+	free(rest);
+	free(str);
+	 free(token);
 	//free(trimmedFileName);
 	//fclose(sorted);
 	fclose(file);
 	// freeLL(frontRec);
-	// free(frontRec);	
+	 free(frontRec);	
 }
 
 void writeToFile(){
@@ -539,6 +556,9 @@ void writeToFile(){
    	}
 
 	writeCSV(masterList,sorted);
+
+	//tiff trying to free shit again
+	free(dir);
 }
 
 //------THREADING STUFF AHEAD--------------------------------------
@@ -626,8 +646,8 @@ void *dirwalk(void * argPtr){
    
 
     chdir(dir);
-
-    
+    //char* current;
+    //char* newPath;
     while((entry = readdir(dp)) != NULL){
     	
         lstat(entry->d_name,&statbuf);
@@ -663,10 +683,12 @@ void *dirwalk(void * argPtr){
 
     		
     		pthread_mutex_lock(&mutex1);
-    		char* current = (char*)malloc(strlen(dir)*sizeof(char)+2);
+    		//char* current = (char*)malloc(strlen(dir)*sizeof(char)+2);
+		char* current = (char*)malloc(strlen(dir)*sizeof(char)+2);	//tiffs edit
   			strcpy(current,dir);
-            
-            char* newPath=(char*)malloc((strlen(current)+strlen(entry->d_name)+3)*sizeof(char));
+            	
+             char* newPath=(char*)malloc((strlen(current)+strlen(entry->d_name)+3)*sizeof(char)); 
+	    //^commented out to handle outside while loop
 		    strcpy(newPath, current); //copy directory over
 			
 			// strcat(newPath, "/"); 
@@ -679,9 +701,11 @@ void *dirwalk(void * argPtr){
             // pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
             
 			//printf("newpath!!!! [%s]\n",newPath);
-			
+	    //tiff adding mutex lock for thread creation
+	    pthread_mutex_lock(&mutex1);	
             pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
-            pthread_mutex_lock(&dirMutex); 
+            pthread_mutex_unlock(&mutex1);
+	    pthread_mutex_lock(&dirMutex);
             totalThreads++;
             //pthread_mutex_lock(&mutex2); //tiff: test
 	    //pthread_mutex_unlock(&mutex2);
@@ -694,7 +718,9 @@ void *dirwalk(void * argPtr){
             //dirwalk((void*)newPath);
             
             //free(currDir);
-            //free(newPath);
+            //TIFF JUST TESTING FREEING AFTER EACH ITERATION
+            	//free(newPath);
+	    	//free(current);
          
         }
         //else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
@@ -703,8 +729,11 @@ void *dirwalk(void * argPtr){
             //printf("path: %s\n",dir);
             //pthread_t threadFile;
 	      
-	    char* newPath=(char*)malloc((strlen(dir)+strlen(entry->d_name)+3)*sizeof(char)*5);
-             printf("just created space for newPath\n");
+	     char* newPath=(char*)malloc((strlen(dir)+strlen(entry->d_name)+3)*sizeof(char)*5);
+             //^tiff commented out to handle outside while loop
+		//printf("just created space for newPath\n");
+		
+
 		//pthread_mutex_unlock(&mutex1);  
 		//char* newPath=(char*)malloc((strlen(dir)+strlen(entry->d_name)+3)*sizeof(char));
 		 	 strcpy(newPath, dir); //copy directory over
@@ -715,16 +744,28 @@ void *dirwalk(void * argPtr){
           
 			printf("just updated the directory\n"); 
 			//printf("newPath FILE NAME: %s\n",newPath);	
-           	pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
-        	pthread_mutex_lock(&fileMutex);
+           	//tiff adding mutex lock for thread creation
+           	pthread_mutex_lock(&mutex1);
+		pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
+        	printf("just created a new thread!\n");
+		pthread_mutex_unlock(&mutex1);
+		pthread_mutex_lock(&fileMutex);
+		printf("just locked totalThread global var to prepare for increment op\n");
 		totalThreads++;
 		printf("totalThreads:%d\n", totalThreads);
        		pthread_mutex_unlock(&fileMutex);
-        }
+		printf("just unlocked totalThread incrementation\n");
+        
+		//just a test -- tiff, trying to free memory for next iteration
+			//free(newPath);
+		
+	}
 
     }
-
-   		
+		//tiffs attempt at freeing current and new path after declaring
+		//malloc outside of while loop
+   			//free(current);
+			//free(newPath);
    		//printf("*init: %lu\n",init);
    		// printf("**hey sup: totalThreads:%d\n",totalThreads);
    		// printf("***hey sup current thread:%lu\n",pthread_self());
@@ -959,6 +1000,8 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 			printf("\toutput full %s\n\n",outputFull);
 			outputDir = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
 			strcpy(outputDir,outputFull);
+			//MIGHT BE A SOURCE OF MEM LEAK^
+			free(outputFull);	//tiff attempt to free		
 		}
 	} else { //no output directory specified, use the current directory
 		outputDir = (char*)malloc((strlen(currDir)+2)*sizeof(char));
@@ -975,6 +1018,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		//printf("absolute file name\n");
 			searchFull = (char*)malloc(strlen(searchDir)+2);
 			strcpy(searchFull,searchDir);
+			free(searchFull);	//tiffs attempt at freeing malloc
 		}
 		else {
 			//printf("relative file name\n");
@@ -985,6 +1029,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 			searchDir = (char*)malloc(strlen(searchFull)*sizeof(char)+1);
 			strcpy(searchDir,searchFull);
 			//printf("\t\t\t\toutput full %s\n\n",searchFull);
+			free(searchFull);	//tiffs attempt at freeing malloc
 		}
 	}
 
@@ -1089,7 +1134,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	*/
 	
 	pthread_exit(threadID);
-	free(threadID);
+	//free(threadID);
 
 
 	// printAllRecords(masterList);
@@ -1097,13 +1142,18 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	
 	free(currDir);
 	
-	if(hasDir)
+	//Tiff edit: attempting to free left over malloc'd stuff
+	if(hasDir){
+		//free(searchFull);
 		free(searchDir);
-	if(hasOut)
+	}	
+	if(hasOut){
+		//free(outputFull);
 		free(outputDir);
-	
+	}
+
 	free(colToSort);
-	
+		//free(trimmed);	//try to free trimmed var in trimWhiteSpace()	
 	pthread_mutex_destroy(&mutex1);
 	pthread_mutex_destroy(&mutex2);
 
@@ -1112,7 +1162,8 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
     pthread_mutex_destroy(&fileMutex);
     pthread_mutex_destroy(&dirMutex);
 	
-
-
+	free(threadID);	//tiff - moved free stmt to end	
+	free(masterList);	//never freed whole thing? lets try
+	
 	return 0;
 } //-----------------------------------ENDMAIN-------------------
