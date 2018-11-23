@@ -687,15 +687,18 @@ void *dirwalk(void * argPtr){
 	    //tiff adding mutex lock for thread creation
 	    //pthread_mutex_lock(&mutex1);	
             pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
-           printf("Initial ThreadID: %lu \n", init);
+           totalThreads++;
+		printf("Initial ThreadID: %lu \n", init);
+		
 		printf("TIDS of spawned threads: ");
+		
 		for(i = 0; i < totalThreads; i++){
 			printf("%d ", i);
 		}
 		printf("\n");
 		// pthread_mutex_unlock(&mutex1);
 	    pthread_mutex_lock(&dirMutex);
-            totalThreads++;
+            //totalThreads++;
 
 		printf("Total number of threads: %d\n", totalThreads);
             //pthread_mutex_lock(&mutex2); //tiff: test
@@ -739,6 +742,7 @@ void *dirwalk(void * argPtr){
            	//pthread_mutex_lock(&mutex1);
 		pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
         	printf("Initial thread: %lu \n", init);
+		totalThreads++;
 		printf("TIDs of spawned threads: ");
 		for(i = 0; i < totalThreads; i++){
 			printf("%d ", i);
@@ -746,7 +750,7 @@ void *dirwalk(void * argPtr){
 		printf("\n");
 		//pthread_mutex_unlock(&mutex1);
 		pthread_mutex_lock(&fileMutex);
-		totalThreads++;
+		//totalThreads++;
 		printf("total number of Threads spawned: %d\n", totalThreads);
        		pthread_mutex_unlock(&fileMutex);
 		
