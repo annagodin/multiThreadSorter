@@ -7,7 +7,7 @@
 #include <sys/stat.h>
 #include <stdlib.h>
 #include <fcntl.h>
-#include <unistd.h>
+#include <unistd.h> 
 #include <errno.h>
 #include <limits.h>
 #include <pthread.h>
@@ -32,7 +32,8 @@ char* currDir;
 char* outputDir;
 char* colToSort;
 char* searchDir;
-
+int count = 0;
+// int numThreads;
 //TRY FREEING EVERYTHING BY DECLARING GLOBALLY
 int *tID;
 pthread_t* threadID;
@@ -491,7 +492,7 @@ void sort(FILE *file, char* fileName){
 	//ADDS TO MASTER LIST, MUST BE LOCKED
 	pthread_mutex_lock(&mutex1);
 	masterList =  SortedMerge(masterList, frontRec);
-	printf("sorted the file: [%s]\n", fileName);
+	// printf("sorted the file: [%s]\n", fileName);
 	// printAllRecords(masterList);
 	pthread_mutex_unlock(&mutex1);
 
@@ -525,7 +526,7 @@ void writeToFile(){
 		//output to cwd
 		dir = (char*)malloc(sizeof(char)*(strlen(currDir)+2));
 		strcpy(dir,currDir);
-		printf("NoOut: output dir is [%s]\n", currDir);
+		//printf("NoOut: output dir is [%s]\n", currDir);
 	}
  
 	//length of the name of the sorted file
@@ -535,7 +536,7 @@ void writeToFile(){
 	
 	snprintf(sortedFileName, lengthSorted, "%sAllFiles-sorted-%s%s", dir, colToSort, extension);
 	
-	printf("sorted file name:\t%s\n",sortedFileName);
+	//printf("sorted file name:\t%s\n",sortedFileName);
 	
 	//creates new file with the sorted file name
 	FILE *sorted;
@@ -565,11 +566,30 @@ void writeToFile(){
 
 
 void *fileHandler(void* argPtr) { 
+
+
+	//-------------------------------
+ 	pthread_mutex_lock(&lockGlobals);
+ 	init = pthread_self();
+    printf("Initial threadID: %lu \n", init);
+    
+
+	//totalThreads++;
+	printf("TIDs of spawned threads: \n");
+	printf("total number of Threads spawned: 0\n\n");
+	pthread_mutex_unlock(&lockGlobals);
+	//-------------------------------
+
+   	// pthread_mutex_unlock(&fileMutex);
+
+
+
+
  	// printf("ThreadID: %lu\n",pthread_self());
 	//pthread_mutex_lock(&mutex2);	//comment out later
 	char* fileName = (char*)argPtr;
 	//struct dirent *entry = (struct dirent*)argPtr;
-	printf("FILE: [%s]\n", fileName);
+	//printf("FILE: [%s]\n", fileName);
 	//pthread_mutex_unlock(&mutex2);	//tiffs edit
 	
 	// check for csv
@@ -590,7 +610,7 @@ void *fileHandler(void* argPtr) {
    	//printf("FILE: [%s]\n", fileName);
    	
     //printf("\t\twill sort the file: [%s] on column [%s] in []\n", entry->d_name, colToSort);
-    printf("\t\twill sort the file: [%s] on column [%s]\n", fileName, colToSort);
+    //printf("\t\twill sort the file: [%s] on column [%s]\n", fileName, colToSort);
     
     
     //sort(file, fileName);
@@ -606,6 +626,10 @@ void *fileHandler(void* argPtr) {
 
 //recursively travserses a directory and prints subdirectories
 void *dirwalk(void * argPtr){
+	pthread_mutex_lock(&lockGlobals);
+	init = pthread_self();
+	pthread_mutex_unlock(&lockGlobals);
+   	int numThreads = 0;
    	//printf("YEEEEEEOOOEOEOEOE\n");
     //printf("----------------------\nThreadID: %lu\n",pthread_self());
     char* dir = (char*)argPtr;
@@ -613,7 +637,7 @@ void *dirwalk(void * argPtr){
     DIR *dp;
     int i;
 	
-    printf("this DIR:\t[%s]\n",dir);
+    //printf("this DIR:\t[%s]\n",dir);
     struct dirent *entry;
     struct stat statbuf;
     
@@ -646,7 +670,7 @@ void *dirwalk(void * argPtr){
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0 || strcmp(".git",entry->d_name) == 0)
                 continue;
 
-            printf("[%s] is a directory\n\n",entry->d_name);
+            //printf("[%s] is a directory\n\n",entry->d_name);
 
             // pthread_mutex_lock(&dataMutex); 
             // totalThreads++;
@@ -679,32 +703,58 @@ void *dirwalk(void * argPtr){
 			//printf("DIRDIR newPath: %s\n",newPath);
 
 			strcat(newPath, "/"); 
-		 pthread_mutex_unlock(&mutex1);
+		    pthread_mutex_unlock(&mutex1);
 			//return;
             // pthread_create(&threadID[totalThreads], NULL,(void*)&dirwalk, (void*)entry->d_name);
             
 			//printf("newpath!!!! [%s]\n",newPath);
 	    //tiff adding mutex lock for thread creation
 	    //pthread_mutex_lock(&mutex1);	
-            pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
+           pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)newPath);
            totalThreads++;
-		printf("Initial ThreadID: %lu \n", init);
-		
-		printf("TIDS of spawned threads: ");
-		
-		for(i = 0; i < totalThreads; i++){
-			printf("%d ", i);
-		}
-		printf("\n");
-		// pthread_mutex_unlock(&mutex1);
-	    pthread_mutex_lock(&dirMutex);
-            //totalThreads++;
 
-		printf("Total number of threads: %d\n", totalThreads);
+           pthread_mutex_lock(&mutex1);
+           numThreads++;
+           // printf("\t\t\t\tnumthreads now : %d\n",numThreads);
+           pthread_mutex_unlock(&mutex1);
+
+
+
+           //-----------------------
+		// printf("Initial ThreadID: %lu \n", threadID[totalThreads]);
+		
+		// printf("TIDS of spawned threads: ");
+		
+		// // for(i = 0; i < totalThreads; i++){
+		// // 	 pthread_mutex_lock(&mutex1);
+		// // 	count++;
+		// // 	 pthread_mutex_unlock(&mutex1);
+		// // 	printf("%d ", count);
+		// // }
+		//  printf("\n");
+
+
+		// for(i = 0; i < numThreads; i++){
+		// 	 pthread_mutex_lock(&mutex1);
+		// 	count++;
+		// 	 pthread_mutex_unlock(&mutex1);
+		// 	printf("%d ", count);
+		// }
+		// printf("\n");
+		// // pthread_mutex_unlock(&mutex1);
+	     //pthread_mutex_lock(&dirMutex);
+  //           //totalThreads++;
+
+		// //printf("Total number of threads: %d\n", totalThreads);
+		// printf("Total number of threads: %d\n", numThreads);
+           //---------------------------
+
+
+
             //pthread_mutex_lock(&mutex2); //tiff: test
 	    //pthread_mutex_unlock(&mutex2);
        
-            pthread_mutex_unlock(&dirMutex);
+           // pthread_mutex_unlock(&dirMutex); ----------------
 
             //recurse here
             /*funtion is called recursively at a new indent level */
@@ -719,7 +769,7 @@ void *dirwalk(void * argPtr){
         }
         //else if(S_ISREG(statbuf.st_mode)){ //ITS A FILE, SPAWN A THREAD
         else if(entry->d_type==DT_REG){
-            printf("\t[%s] is a file\n",entry->d_name);
+           // printf("\t[%s] is a file\n",entry->d_name);
             //printf("path: %s\n",dir);
             //pthread_t threadFile;
 	      
@@ -741,18 +791,26 @@ void *dirwalk(void * argPtr){
            	//tiff adding mutex lock for thread creation
            	//pthread_mutex_lock(&mutex1);
 		pthread_create(&threadID[totalThreads], NULL,(void*)&fileHandler, (void*)newPath);
-        	printf("Initial thread: %lu \n", init);
-		totalThreads++;
-		printf("TIDs of spawned threads: ");
-		for(i = 0; i < totalThreads; i++){
-			printf("%d ", i);
-		}
-		printf("\n");
-		//pthread_mutex_unlock(&mutex1);
-		pthread_mutex_lock(&fileMutex);
-		//totalThreads++;
-		printf("total number of Threads spawned: %d\n", totalThreads);
-       		pthread_mutex_unlock(&fileMutex);
+       	numThreads++;
+        // printf("\t\t\t\tnumthreads now : %d\n",numThreads);
+  //       init = pthread_self();
+  //       printf("Initial threadID: %lu \n", threadID[totalThreads]);
+		 totalThreads++;
+		// printf("TIDs of spawned threads: \n");
+		// // for(i = 0; i < totalThreads; i++){
+		// // 	pthread_mutex_lock(&mutex1);
+		// // 	count++;
+		// // 	 pthread_mutex_unlock(&mutex1);
+		// // 	printf("%d ", count);
+		// // }
+		// // printf("\n");
+
+		// //pthread_mutex_unlock(&mutex1);
+		// pthread_mutex_lock(&fileMutex);
+		// //totalThreads++;
+		// // printf("total number of Threads spawned: %d\n", totalThreads);
+		// printf("total number of Threads spawned: 0\n");
+  //      	pthread_mutex_unlock(&fileMutex);
 		
         
 	}
@@ -781,6 +839,36 @@ void *dirwalk(void * argPtr){
 
    		chdir("..");
    		closedir(dp);
+		
+		pthread_mutex_lock(&lockGlobals);
+   		printf("****Initial ThreadID: %lu \n", init);
+		
+		printf("TIDS of spawned threads: ");
+		
+		// for(i = 0; i < totalThreads; i++){
+		// 	 pthread_mutex_lock(&mutex1);
+		// 	count++;
+		// 	 pthread_mutex_unlock(&mutex1);
+		// 	printf("%d ", count);
+		// }
+		 // printf("\n");
+
+
+		for(i = 0; i < numThreads; i++){
+			pthread_mutex_lock(&mutex1);
+			count++;
+			pthread_mutex_unlock(&mutex1);
+			printf("%d ", count);
+		}
+		printf("\n");
+		pthread_mutex_unlock(&lockGlobals);
+		// pthread_mutex_unlock(&mutex1);
+	    pthread_mutex_lock(&dirMutex);
+            //totalThreads++;
+
+		//printf("Total number of threads: %d\n", totalThreads);
+		printf("Total number of threads: %d\n\n", numThreads);
+    	pthread_mutex_unlock(&dirMutex);
     	// printf("HELLO ANYBODY THERE\n");
     	//tiff test
     	//pthread_mutex_destroy(&mutex1);
@@ -912,13 +1000,17 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		}
 	}
 
+	if (argv[2][0]=='-'||argv[4][0]=='-'||argv[6][0]=='-'){
+		fprintf(stderr,"cant have a flag without an argument!!\n");
+		exit(EXIT_FAILURE);
+	}
 	if(hasCol==0){
 		fprintf(stderr,"Error: must have -c flag. Other flags are optional");
 		exit(EXIT_FAILURE);
 	}
 	
-	printf("colToSort:\t%s\n",colToSort);
-	printf("hasC %d, hasD %d, hasO %d\n",hasCol,hasDir,hasOut);
+	// printf("colToSort:\t%s\n",colToSort);
+	// printf("hasC %d, hasD %d, hasO %d\n",hasCol,hasDir,hasOut);
 	if(hasDir){
 		masterHasDir=1;
 		DIR *dp;
@@ -926,7 +1018,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	        fprintf(stderr,"Error: cannot open directory: [%s]\n",searchDir);
 	        exit(EXIT_FAILURE);
    		}
-   		printf("searchDir:\t%s\n",searchDir);	
+   		// printf("searchDir:\t%s\n",searchDir);	
 	}
 
 	if(hasOut){
@@ -944,7 +1036,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 			outputDir=malloc((strlen(outputDir)+2)*sizeof(char));
 			strcpy(outputDir,appendSlash);
 		}
-   		printf("outputDir:\t%s\n",outputDir);	
+   		// printf("outputDir:\t%s\n",outputDir);	
 	}
 
 //	return 0;
@@ -981,19 +1073,19 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	char *outputFull;
 	if(hasOut){
 		if(outputDir[0]=='/'){
-		printf("absolute file name\n");
+		//printf("absolute file name\n");
 			outputFull = (char*)malloc(strlen(outputDir)+2);
 			strcpy(outputFull,outputDir);
 		}
 		else {
-		printf("relative file name\n");
+		//printf("relative file name\n");
 			outputFull = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
 			
 			strcpy(outputFull,currDir);
 			//strcat(outputFull,"/");
 			strcat(outputFull, outputDir);
 			
-			printf("\toutput full %s\n\n",outputFull);
+			//printf("\toutput full %s\n\n",outputFull);
 			outputDir = (char*)malloc(strlen(currDir)+3+strlen(outputDir));
 			strcpy(outputDir,outputFull);
 			//MIGHT BE A SOURCE OF MEM LEAK^
@@ -1029,17 +1121,17 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		}
 	}
 
-	printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
+	//printf("THEEEE OUTPUT DIR IS : %s\n", outputDir);
 
-	printf("THEEEE SEARCH DIR IS : %s\n", searchDir);
+	//printf("THEEEE SEARCH DIR IS : %s\n", searchDir);
 	
-	printf("THEEEE CURR DIR IS : %s\n",currDir);
+	//printf("THEEEE CURR DIR IS : %s\n",currDir);
 	
 	init = pthread_self();
 	
 
-	fprintf(stdout, "\nInitial TID: %lu \n", init);
-	printf("Initial Thread Count:%d\n",totalThreads);
+	// fprintf(stdout, "\nInitial TID: %lu \n", init);
+	// printf("Initial Thread Count:%d\n",totalThreads);
 	/*test---------------------*/
 	//return 0;
 	/*test---------------------*/
@@ -1066,28 +1158,31 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
     if(pthread_mutex_init(&mutex2, NULL) != 0){
         printf("Error on lock4.\n");
     }
+     if(pthread_mutex_init(&lockGlobals, NULL) != 0){
+        printf("Error on lock5.\n");
+    }
 
 	if(hasDir == 1 && hasOut == 0) { //-d 
-		printf("HEYEYEYEY\n");
+		// printf("HEYEYEYEY\n");
 		pthread_mutex_lock(&mutex1); //tiffs test
 		pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)searchDir);
 		//printf("Thread is: ", totalThreads);
 		totalThreads++;
-		printf("total threads: %d \n", totalThreads);
+		//printf("total threads: %d \n", totalThreads);
 		pthread_mutex_unlock(&mutex1);
 		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 1 && hasOut == 1)	{ //-d and -o
 		pthread_mutex_lock(&mutex1);
 		pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)searchDir);
 		totalThreads++;
-		printf("total threads: %d \n", totalThreads);
+		//printf("total threads: %d \n", totalThreads);
 		pthread_mutex_unlock(&mutex1);
 		//dirwalk((void*)searchDir);
 	} else if(hasDir  == 0 && hasOut == 1)	{ //-o
 		pthread_mutex_lock(&mutex1);
 		pthread_create(&threadID[totalThreads], NULL, (void*)&dirwalk, (void*)currDir);
 		totalThreads++;
-		printf("total threads: %d \n", totalThreads);
+		//printf("total threads: %d \n", totalThreads);
 		pthread_mutex_unlock(&mutex1);
 		//dirwalk((void*)cwd);
 	} else { //neither
@@ -1105,21 +1200,21 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 	
 	for (i =0; i < totalThreads; i++) {
 		pthread_join(threadID[i], NULL);
-		printf("\t\t\t\t\tnum THREADERRRRS: %d\n", totalThreads); 
+		//printf("\t\t\t\t\tnum THREADERRRRS: %d\n", totalThreads); 
 	}	
 
-	printf("d0ne?\n");
+	 printf("d0ne?\n");
 
 
 	//printf("Total number of threads spawned: %d\n", totalThreads);
 
 	
-	fprintf(stdout,"TIDS of all spawned threads: ");
+	// fprintf(stdout,"TIDS of all spawned threads: ");
 	
-	for (i = 1; i <= totalThreads; i++) {
-		printf("%d, ", i); 
-	}
-	fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
+	// for (i = 1; i <= totalThreads; i++) {
+	// 	printf("%d, ", i); 
+	// }
+	// fprintf(stdout,"\nTotal number of threads: %d\n", totalThreads);
 
  	
 
