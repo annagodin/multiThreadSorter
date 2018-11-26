@@ -576,7 +576,7 @@ void *fileHandler(void* argPtr) {
 
 	//totalThreads++;
 	printf("TIDs of spawned threads: \n");
-	printf("total number of Threads spawned: 0\n\n");
+	printf("Total number of threads SPAWNED: 0\n\n");
 	pthread_mutex_unlock(&lockGlobals);
 	//-------------------------------
 
@@ -841,7 +841,7 @@ void *dirwalk(void * argPtr){
    		closedir(dp);
 		
 		pthread_mutex_lock(&lockGlobals);
-   		printf("****Initial ThreadID: %lu \n", init);
+   		printf("Initial ThreadID: %lu \n", init);
 		
 		printf("TIDS of spawned threads: ");
 		
@@ -867,7 +867,7 @@ void *dirwalk(void * argPtr){
             //totalThreads++;
 
 		//printf("Total number of threads: %d\n", totalThreads);
-		printf("Total number of threads: %d\n\n", numThreads);
+		printf("Total number of threads SPAWNED: %d\n\n", numThreads);
     	pthread_mutex_unlock(&dirMutex);
     	// printf("HELLO ANYBODY THERE\n");
     	//tiff test
@@ -1203,7 +1203,7 @@ int main(int argc, char *argv[] ){ //-----------------------MAIN---------
 		//printf("\t\t\t\t\tnum THREADERRRRS: %d\n", totalThreads); 
 	}	
 
-	 printf("d0ne?\n");
+	// printf("d0ne?\n");
 
 
 	//printf("Total number of threads spawned: %d\n", totalThreads);
